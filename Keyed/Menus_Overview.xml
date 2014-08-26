@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+
+  <!-- Tab titles -->
+  <WorkTab>Työ</WorkTab>
+  <FactionsTab>Ryhmät</FactionsTab>
+  <StatisticsTab>Tilastot</StatisticsTab>
+  <HistoryTab>Historia</HistoryTab>
+  <WorldTab>Maailma</WorldTab>
+
+  <!-- Work tab -->
+  <ManualPriorities>Manuaalinen tärkeyden säätö</ManualPriorities>
+  <HigherPriority>Tärkeämpi</HigherPriority>
+  <LowerPriority>Vähemmän tärkeämpi</LowerPriority>
+  <RelevantSkills>Olennainen taito: {0}\nOlennaisten taitojen keskiarvo: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klikkaa siirtyäksesi:</ClickToJumpTo>
+  <CannotDoThisWork>{0} ei voi tehdä tätä työtä.</CannotDoThisWork>
+  <NoneBrackets>(ei mitään)</NoneBrackets>
+
+  
+  <!-- Factions tab -->
+  <Hostile>Vihamielinen</Hostile>
+  <HostileTo>{0}:n vihollinen</HostileTo>
+  <CurrentGoodwill>Tämänhetkinen suosio tämän ryhmän kanssa.</CurrentGoodwill>
+
+  
+  <!-- Statistics tab -->
+  <Storyteller>Tarinankertoja</Storyteller>
+  <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
+  <ColonyWealthItems>Yhdyskunnan varallisuus (esineitä)</ColonyWealthItems>
+  <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennukset)</ColonyWealthBuildings>
+  <NumBigThreats>Merkkittävät vaarat</NumBigThreats>
+  <NumEnemyRaids>Vihollisten tekemät hyökkäykset</NumEnemyRaids>
+  <DamageTaken>Otettu vahinko</DamageTaken>
+  <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
+  <ColonistsLaunched>Avaruuteen lähetetyt yhdyskuntalaiset</ColonistsLaunched>
+
+
+  <!-- History tab -->
+  <SelectGraph>Valitse kaavio</SelectGraph>
+  <Last30Days>Viimeiset 30 päivää</Last30Days>
+  <Last100Days>Viimeiset 100 päivää</Last100Days>
+  <Last300Days>Viimeiset 300 päivää</Last300Days>
+  <AllDays>Kaikki</AllDays>
+  <Day>Päivä</Day>
+  <Value>Arvo</Value>
+  <External>Ulkoinen</External>
+  
+  
+</LanguageData>
