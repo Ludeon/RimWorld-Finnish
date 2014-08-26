@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Autosaving>Tallentaa automaattisesti</Autosaving>
+  
+  <GameStartDialog>Kolme teistä herää syväjääsargofagistanne sireenien ja repeytyvän metallin ääneen. Pääsette juuri ja juuri pakoaluksiinne ennen kuin alus repeytyy kappaleiksi.\n\nJonkin ajan kuluttua laskeudutte tälle tuntemattomalle rajamaalle.\n\nKun tuhoutuneen avaruusaluksen kappaleita sataa ympärillesi, alat tekemään selviytymis-suunnitelmia.</GameStartDialog>
+
+  <Colony>Yhdyskunta</Colony>
+  
+  <ChangeLanguageFromMainMenu>Voitvaihtaa kieltäsi voin asetuksista päävalikossa.</ChangeLanguageFromMainMenu>
+
+  <AndLower>ja</AndLower>
+  <DisabledLower>pois käytöstä</DisabledLower>
+
+  <CloseButton>Sulje</CloseButton>
+
+
+  <VersionIndicator>Versio {0}</VersionIndicator>
+  <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
+  <CompiledOn>Compiled {0}</CompiledOn>
+
+	<MeatLabel>{0} liha</MeatLabel>
+  <MeatDesc>{0}n raakaa lihaa.</MeatDesc>
+
+	<CorpseLabel>{0} ruumis</CorpseLabel>
+	<CorpseDesc>{0}n ruumis.</CorpseDesc>
+
+
+	<BlueprintLabelExtra> (piirrustus)</BlueprintLabelExtra>
+  <FrameLabelExtra> (piirrustus)</FrameLabelExtra>
+  
+  
+  <!-- History events -->
+  <ColonistDied>Yhdyskuntalainen kuoli</ColonistDied>
+  
+  
+  
+</LanguageData>

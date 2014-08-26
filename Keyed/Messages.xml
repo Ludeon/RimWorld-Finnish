@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ 
+  <MessageSiegersAssaulting>Piirittävä {0} {1}:sta ovat hyökkäämässä yhdyskuntaan.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} {1}:sta aloittavat hyökkäyksen.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} {1}:sta ovat huomanneet siirtokunnan ja aloittavat hyökkäyksen aikaisessa.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} {1}:sta ovat päättäneet kidnapata kaikki ketkä he voivat ja lähteä.</MessageRaidersKidnapping>
+
+  <MessageRaidersLeaving>{0} {1}:sta ovat lähdössä.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} {1}:sta ovat luovuttaneet ja lähtevät.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} {1}:sta ovat tyytyväisiä aiheuttamaansa vahinkoon ja ovat poistumassa.</MessageRaidersSatisfiedLeaving>
+
+  
+  <MessageFightersFleeing>{0} {1}:sta juoksevat pakoon.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Ystävällinen {0} {1}:sta ovat lähdössä.</MessageFriendlyFightersLeaving>
+
+
+
+  <MessageShipHasLeftCommsRange>{0} on nyt yhteyskantaman ulkopuolella.</MessageShipHasLeftCommsRange>
+	
+	<MessageNeedBeaconToTradeWithShip>Tarvitset orbitaalisen kaupankäyntimajakan tehdäksesi vaihtokauppaa tämän aluksen kanssa.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Lista valmis: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} on täysin toipunut.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Vanki {0} pakenee.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>{0} onnistuneesti värväsi {1}n ({2} mahdollisuus).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} epäonnistui värväämään {1}n ({2} mahdollisuus).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0} epäonnistui värväämään {1}n (vanki luotettavuuskynnyksen alapuolella).</MessageRecruitFailBecauseLoyalty>
+	
+  <MessagePoorlyTreated>{0} on saanut huonolaatuista hoitoa {1}:lta ({2} mahdollisuus).</MessagePoorlyTreated>
+  <MessageWellTreated>{0} on saanut hyvälaatuista hoitoa {1}:lta ({2} mahdollisuus).</MessageWellTreated>
+	
+  <MessageTraderCannotAfford>Kauppiaalla ei ole varaa tähän kauppaan.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Yhdyskunnalla ei ole varaaa tähän kauppaan.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Sinulla ei ole tarpeeksi hopeaa valmiina tätä vaihtoa varten.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Kauppiaalla ei ole tarpeeksi hopeaa.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Kriittinen varoitus: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestableFood>Pitää määrittää ruokaa tuottavia, tarpeeksi kasvaneita kasveja.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestableWood>Pitää määrittää puuta tuottavia, tarpeeksi kasvaneita puita.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Pitää määrittää kasveja.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Pitää määrittää siirrettäviä tavaroita.</MessageMustDesignateHaulable>
+  
+  
+</LanguageData>
