@@ -2,67 +2,67 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <CreateWorld>Create World</CreateWorld>
-  <NewColony>New Colony</NewColony>
-  <BackToGame>Back to Game</BackToGame>
-  <Save>Save</Save>
-  <Load>Load Colony</Load>
-  <Options>Options</Options>
-  <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
+  <CreateWorld>Luo maailma</CreateWorld>
+  <NewColony>Uusi yhdeskunta</NewColony>
+  <BackToGame>Takaisin peliin</BackToGame>
+  <Save>Tallenna</Save>
+  <Load>Lataa yhdyskunta</Load>
+  <Options>Asetukset</Options>
+  <Mods>Modit</Mods>
+  <Credits>Tekijät</Credits>
   <QuitToMainMenu>Quit to Main Menu</QuitToMainMenu>
   <QuitToOS>Quit to OS</QuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
+  <LudeonBlog>Ludeon blogi</LudeonBlog>
+  <Forums>Foorumit</Forums>
+  <OfficialWiki>Virallinen wiki</OfficialWiki>
+  <TynansTwitter>Tynanin twitter</TynansTwitter>
+  <TynansDesignBook>Tynanin design book</TynansDesignBook>
+  <HelpTranslate>Auta kääntämään RimWorldia</HelpTranslate>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
-  <WorldSize>Size</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
+  <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
+  <WorldGenerate>Luo</WorldGenerate>
+  <WorldSaveAndFinish>Tallenna ja lopeta</WorldSaveAndFinish>
+  <Reset>Resetoi</Reset>
+  <WorldSize>Koko</WorldSize>
+  <WorldSeed>Luontiarvo</WorldSeed>
+  <RandomizeSeed>Satunnainen luontiarvo</RandomizeSeed>
 
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>Valitse maailma</SelectWorld>
+  <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo maailma ensin.</NoWorldsFilesFound>
+  <WorldChooseButton>Valitse</WorldChooseButton>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Build {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>Build is up to date.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
+	<BuildUpToDate>Versio on uusin</BuildUpToDate>
+	<ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Ladataan versiotietoja</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Generoi maailma</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
-  <GetMods>Get mods</GetMods>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <GetMods>Hanki modeja</GetMods>
+  <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
   <Author>Author</Author>
+  <ConfirmDisableCoreMod>Oletko varma että haluat poistaa ytimen modin? Peli ei toimi ellei sinulla ole toista modia mikä korvaa kaikki ytimen keskinäiset toiminnot.\n\nMuista, muut modit voivat kumota def:ejä ytimen modissa käyttämällä samaa defName:a.</ConfirmDisableCoreMod>
 
 
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
-  <MustChooseChallengeScale>Please choose a challenge scale.</MustChooseChallengeScale>
-  <ChallengeScale>Challenge scale</ChallengeScale>
-  <ChallengeScaleTip>When the storyteller sends threats after you, they will be {0} as large as in Challenge mode.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Builder mode</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Casual</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Rough</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Challenge</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Serious challenge</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Extreme challenge</ChallengeScale_ExtremeChallenge>
+  <ChooseAIStoryteller>Valitse AI tarinenkertoja</ChooseAIStoryteller>
+  <HowStorytellersWork>AI tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
+  <MustChooseChallengeScale>Valitse vaikeustaso.</MustChooseChallengeScale>
+  <ChallengeScale>Haastetaso</ChallengeScale>
+  <ChallengeScaleTip>Kun tarinankertoja lähettää uhkia perääsi, ne tulevat olemaan {0} vaikeita kuin Haastavassa.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Rakentaja</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Rento</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Kovakourainen</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Haastava</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Varteenotettava haaste</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Äärimmäinen haaste</ChallengeScale_ExtremeChallenge>
 
 
 
@@ -75,63 +75,63 @@
 
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectSite>Select site</SelectSite>
+  <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
+  <SelectSite>Valitse alue</SelectSite>
   <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <WorldRenderMode>Mode</WorldRenderMode>
-  <WorldRenderModeFull>Full</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperature</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Elevation</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Fertility</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Rainfall</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biomes</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Avg Temp</AvgTemp>
-  <Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
+  <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
+  <WorldRenderMode>Tyyppi</WorldRenderMode>
+  <WorldRenderModeFull>Täysi</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Lämpötila</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Korkeus</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Hedelmällisyys</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Sademäärä</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biomi</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Biomia ei ole liitetty peliin</BiomeNotImplemented>
+  <Biome>Biomi</Biome>
+  <Terrain>Maasto</Terrain>
+  <Elevation>Korkeus</Elevation>
+  <Fertility>Hedelmällisyys</Fertility>
+  <AvgTemp>Keskim. lämpötila</AvgTemp>
+  <Rainfall>Sademäärä</Rainfall>
+  <HasCoast0>Pohjoisrannikko</HasCoast0>
+  <HasCoast1>Itärannikko</HasCoast1>
+  <HasCoast2>Etelärannikko</HasCoast2>
+  <HasCoast3>Länsirannikko</HasCoast3>
 
 
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>Male</Male>
-  <Female>Female</Female>
+  <CreateCharacters>Luo hahmot</CreateCharacters>
+  <FirstNameDesc>Hahmon ensimmäinen nimi.\n\nTämä näytetään vain tietyissä valikoissa.</FirstNameDesc>
+  <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla ensimmäinen tai toinen nimi, tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
+  <LastNameDesc>Hahmon sukunimi.\n\nTämä näytetään vain tietyissä valikoissa.</LastNameDesc>
+  <Randomize>Satunnaista</Randomize>
+  <AgeIndicator>ikä: {0}</AgeIndicator>
+  <Backstory>Tausta</Backstory>
+  <IncapableOf>Kykenemätön</IncapableOf>
+  <Traits>Kyvyt</Traits>
+  <TraitsDoNothing>Kyvyt ovat tällä hetkellä vain hauskoja tarinan palasia; useimmat niistä eivät tee mitään. Tämä tulee muuttumaan tulevissa versioissa.</TraitsDoNothing>
+  <Skills>Taidot</Skills>
+  <NoneLower>ei mitään</NoneLower>
+  <Adulthood>Aikuisuus</Adulthood>
+  <Childhood>Lapsuus</Childhood>
+  <Male>Mies</Male>
+  <Female>Nainen</Female>
   
   
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
+  <Start>Aloita</Start>
+  <Advanced>Lisäasetukset</Advanced>
+  <Next>Seuraava</Next>
+  <Back>Edellinen</Back>
   
-  <Gameplay>Gameplay</Gameplay>
+  <Gameplay>Pelattavuus</Gameplay>
 
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
+  <ConfirmQuit>Oikeasti lopetat? Menetät kaiken tallentamattoman edistyksen.</ConfirmQuit>
   
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Jokainen henkilö tarvitsee sopivan nimen.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generating world...</GeneratingWorld>
-  <GeneratingMap>Generating map...</GeneratingMap>
+  <GeneratingWorld>Luodaan maailmaa...</GeneratingWorld>
+  <GeneratingMap>Luodaan karttaa...</GeneratingMap>
 
 </LanguageData>
