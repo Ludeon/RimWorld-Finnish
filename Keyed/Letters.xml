@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Jump to location</JumpToLocation>
+
+  <RelationsBrokenDown>Suhteesi {0}:een ovat tulehtuneet. He ovat nyt vihamielisiä sinua kohtaan.</RelationsBrokenDown>
+  <RelationsWarmed>Suhteesi {0}:een ovat lämmenneet. He eivät ole enää vihamielisiä sinua kohtaan.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Koska vangitsit {0}:n, {1} on nyt vihollisesi.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Yhdyskunnan suosio</ColonyGoodwill>
+  <Neutral>Neutraali</Neutral>
+
+  <ShortCircuitRain>{0} on mennyt oikosulkuun sateessa ja on sytyttänyt tulipalon.</ShortCircuitRain>
+  <AreaRevealed>Uusi alue on paljastunut.</AreaRevealed>
+
+  <RoofCollapsed>Katto on romahtanut koska se oli liian kaukana mistään sukirakenteesta.</RoofCollapsed>
+  <TheseThingsCrushed>Nämä tavarat murskautuivat:</TheseThingsCrushed>
+  <NothingCrushed>Mitään ei murskautunut.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} saa hermorohmahduksen ja käy väkivaltaiseksi kaikkia kohtaan.</MentalBreakRampage>
+  <MentalBreakDaze>{0} on luovuttanut ja on lähdössä yhdyskunnasta.</MentalBreakDaze>
+  <MentalBreakLeave>{0} on luovuttanut ja haahuilee ympäriinsä sekavana.</MentalBreakLeave>
+
+  <RecruitSuccess>{0} onnistuneesti värväsi {1}:n ({2} mahdollisuus).</RecruitSuccess>
+  <RecruitFail>{0} epäonnistui värväämään {1}:n ({2} mahdollisuus).</RecruitFail>
+  
+  
+</LanguageData>
