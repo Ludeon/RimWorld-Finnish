@@ -3,16 +3,16 @@
 
   <!--=========== Main menu ==========-->
   <CreateWorld>Luo maailma</CreateWorld>
-  <NewColony>Uusi yhdeskunta</NewColony>
+  <NewColony>Uusi yhdyskunta</NewColony>
   <BackToGame>Takaisin peliin</BackToGame>
   <Save>Tallenna</Save>
   <Load>Lataa yhdyskunta</Load>
   <Options>Asetukset</Options>
   <Mods>Modit</Mods>
   <Credits>Tekijät</Credits>
-  <QuitToMainMenu>Quit to Main Menu</QuitToMainMenu>
-  <QuitToOS>Quit to OS</QuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
+  <QuitToMainMenu>Poistu päävalikkoon</QuitToMainMenu>
+  <QuitToOS>Poistu työpöydälle</QuitToOS>
+  <FictionPrimer>Tarinan pohja</FictionPrimer>
   <LudeonBlog>Ludeon blogi</LudeonBlog>
   <Forums>Foorumit</Forums>
   <OfficialWiki>Virallinen wiki</OfficialWiki>
@@ -79,7 +79,7 @@
   <SelectSite>Valitse alue</SelectSite>
   <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
-  <WorldRenderMode>Tyyppi</WorldRenderMode>
+  <WorldRenderMode>Karttatyyppi</WorldRenderMode>
   <WorldRenderModeFull>Täysi</WorldRenderModeFull>
   <WorldRenderModeTemperature>Lämpötila</WorldRenderModeTemperature>
   <WorldRenderModeElevation>Korkeus</WorldRenderModeElevation>
