@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Audiovisuaalit</Audiovisuals>
+  <GameVolume>Peliäänet</GameVolume>
+  <MusicVolume>Musiikin äänet</MusicVolume>
+  <GraphicsQuality>Grafiikoiden laatu</GraphicsQuality>
+  <GraphicsQualityNormal>Normaali</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Mahtava</GraphicsQualityGreat>
+
+  
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Hiiri ruudun reinalla liikuttaa kameraa</EdgeScreenScroll>
+  <CustomCursor>Erikoiskursori</CustomCursor>
+  <ChooseLanguage>Valitse kieli</ChooseLanguage>
+  <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
+  <ResetAdaptiveTutor>Resetoi mukautuva opastaja</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt resetoitu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
+  <RunInBackground>Suorita taustalla</RunInBackground>
+  <DevelopmentMode>Kehitystila</DevelopmentMode>
+  <LogDeepProfileData>Kirjaa syviä profiilitietoja</LogDeepProfileData>
+  <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
+  <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
+  
+  <!-- Resolution -->
+  <Resolution>Resoluutio</Resolution>
+  <Fullscreen>Koko näytön tila</Fullscreen>
+  <CurrentRes>Tämänhetkinen {0}</CurrentRes>
+  <ChooseResolution>Valitse resoluutio</ChooseResolution>
+
+  
+  <!-- Privacy-->
+  <Privacy>Yksityisyys</Privacy>
+  <UserName>Käyttäjänimi</UserName>
+  <ChooseHistoryUploadPref>Pelattavuuden tietojen lähettämisen tärkeys.</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>Tällä hetkellä: {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>Käyttäjien pelattavuustiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään joka {0}:s pelipäivä (ja joissain harvoissa tapauksissa, kuten peli lopussa) RimWorldin servereille ja sitten analysoidaan. Lähetetty pelattavuusdata rakentuu vain tilastoista ja historiasta liittyen peliin - mitään henkilökohtaisia tietoja ei lähetetä, lukuunottamatta käyttäjänimeä, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
+  
+</LanguageData>

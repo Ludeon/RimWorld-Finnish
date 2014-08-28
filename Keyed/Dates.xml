@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Aika</ClockTime>
+  <ClockDate>Päivä</ClockDate>
+  <ClockYear>Vuosi</ClockYear>
+  <DateReadoutTip>Piviä saapumisestasi: {0}\nJokaisessa kuussa on {1} päivää.</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, vuosi {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Tammikuu</MonthFullJanuary>
+  <MonthFullFebruary>Helmikuu</MonthFullFebruary>
+  <MonthFullMarch>Maaliskuu</MonthFullMarch>
+  <MonthFullApril>Huhtikuu</MonthFullApril>
+  <MonthFullMay>Toukokuu</MonthFullMay>
+  <MonthFullJune>Kesäkuu</MonthFullJune>
+  <MonthFullJuly>Heinäkuu</MonthFullJuly>
+  <MonthFullAugust>Elokuu</MonthFullAugust>
+  <MonthFullSeptember>Syyskuu</MonthFullSeptember>
+  <MonthFullOctober>Lokakuu</MonthFullOctober>
+  <MonthFullNovember>Marraskuu</MonthFullNovember>
+  <MonthFullDecember>Joulukuu</MonthFullDecember>
+
+  <MonthShortJanuary>Tammi</MonthShortJanuary>
+  <MonthShortFebruary>Helmi</MonthShortFebruary>
+  <MonthShortMarch>Maalis</MonthShortMarch>
+  <MonthShortApril>Huhti</MonthShortApril>
+  <MonthShortMay>Touko</MonthShortMay>
+  <MonthShortJune>Kesä</MonthShortJune>
+  <MonthShortJuly>Heinä</MonthShortJuly>
+  <MonthShortAugust>Elo</MonthShortAugust>
+  <MonthShortSeptember>Syys</MonthShortSeptember>
+  <MonthShortOctober>Loka</MonthShortOctober>
+  <MonthShortNovember>Marras</MonthShortNovember>
+  <MonthShortDecember>Joulu</MonthShortDecember>
+    
+    
+</LanguageData>
