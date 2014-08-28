@@ -1,0 +1,7 @@
+Finish main translation
+Fetch all needed DefInjected basefiles
+Finish DefInjected translation
+Do some reworking on the phrasing of some particular texts and integrate them more
+fluidly to some variables (looking at you Colony- and Faction names)
+Refine backstories to better accomodate the finnish equilevants of some scenarios
+Spelling/grammar checking

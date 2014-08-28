@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audiovisuaalit</Audiovisuals>
+  <Audiovisuals>Audiovisuaaliset</Audiovisuals>
   <GameVolume>Peliäänet</GameVolume>
   <MusicVolume>Musiikin äänet</MusicVolume>
   <GraphicsQuality>Grafiikoiden laatu</GraphicsQuality>
@@ -11,7 +11,7 @@
 
   
   <!-- Gameplay -->
-  <EdgeScreenScroll>Hiiri ruudun reinalla liikuttaa kameraa</EdgeScreenScroll>
+  <EdgeScreenScroll>Hiiri ruudun reunalla liikuttaa kameraa</EdgeScreenScroll>
   <CustomCursor>Erikoiskursori</CustomCursor>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
   <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
