@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThoughtDefs>
+
+
+  <ThoughtDef>
+    <defName>Imprisoned</defName>
+    <label>Imprisoned</label>
+    <description>I hate being locked up.</description>
+    <baseMoodEffect>-5</baseMoodEffect>
+    <activePredicate>ThoughtPredicates.Imprisoned</activePredicate>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>SharedBedroom</defName>
+    <label>Sharing bedroom</label>
+    <description>Sharing a room with others is annoying. I want some privacy. </description>
+    <baseMoodEffect>-8</baseMoodEffect>
+    <activePredicate>ThoughtPredicates.SharedBedroom</activePredicate>
+  </ThoughtDef>
+
+
+  <ThoughtDef>
+    <defName>ColonistLeftUnburied</defName>
+    <label>Colonist left unburied</label>
+    <description>One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial.</description>
+    <baseMoodEffect>-10</baseMoodEffect>
+    <activePredicate>ThoughtPredicates.ColonistLeftUnburied</activePredicate>
+    <nullifyingTraits>
+      <li>Psychopath</li>
+    </nullifyingTraits>
+  </ThoughtDef>
+
+
+
+  <ThoughtDef>
+    <defName>HappyNude</defName>
+    <label>Happily nude</label>
+    <description>I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings!</description>
+    <baseMoodEffect>10</baseMoodEffect>
+    <activePredicate>ThoughtPredicates.PsychologicallyNude</activePredicate>
+    <requiredTraits>
+      <li>Nudist</li>
+    </requiredTraits>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>Naked</defName>
+    <label>Naked</label>
+    <description>I'm naked. This is humiliating.</description>
+    <baseMoodEffect>-3</baseMoodEffect>
+    <activePredicate>ThoughtPredicates.PsychologicallyNude</activePredicate>
+    <nullifyingTraits>
+      <li>Nudist</li>
+    </nullifyingTraits>
+  </ThoughtDef>
+
+
+
+</ThoughtDefs>

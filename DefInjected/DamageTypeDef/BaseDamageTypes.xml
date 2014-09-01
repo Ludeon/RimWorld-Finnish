@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Crush.deathMessage>{0} on murkautunut kuoliaaksi.</Crush.deathMessage>
+	
+	<Bludgeon.deathMessage>{0} on hakattu kuoliaaksi.</Bludgeon.deathMessage>
+	
+	<Bullet.deathMessage>{0} on ammuttu kuoliaaksi.</Bullet.deathMessage>
+	
+	<Bomb.deathMessage>{0} on kuollut räjähdyksessä.</Bomb.deathMessage>
+	
+	<Flame.deathMessage>{0} paloi kuoliaaksi.</Flame.deathMessage>
+	
+	<Stun.deathMessage>{0} on tainnutettu kuoliaaksi.</Stun.deathMessage>
+	
+	<Bleeding.deathMessage>{0} vuoti kuiviin.</Bleeding.deathMessage>
+	
+	<Suffocation.deathMessage>{0} on tukehtunut kuoliaaksi.</Suffocation.deathMessage>
+	
+	<Starvation.deathMessage>{0} on nääntynyt nälkään.</Starvation.deathMessage>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</LanguageData>

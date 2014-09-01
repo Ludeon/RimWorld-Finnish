@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DamageTypes>
+
+  <!-- External violence -->
+
+  <DamageTypeDef>
+    <defName>Crush</defName>
+    <incapChanceMultiplier>2</incapChanceMultiplier>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been crushed to death.</deathMessage>
+	<injury>Crush</injury>
+	<skinInjury>Cut</skinInjury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef> 
+  
+  <DamageTypeDef>
+	<defName>Bludgeon</defName>
+	<incapChanceMultiplier>2</incapChanceMultiplier>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been beaten to death.</deathMessage>
+	<injury>Crush</injury>
+	<skinInjury>Bruise</skinInjury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef>
+	
+  <DamageTypeDef>
+	<defName>Stab</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been stabbed to death.</deathMessage>
+	<injury>Stab</injury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef>
+	
+  <DamageTypeDef>
+	<defName>Blunt</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been hit to death.</deathMessage>
+	<injury>Crush</injury>
+	<skinInjury>Bruise</skinInjury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef>
+
+  <DamageTypeDef>
+	<defName>Bullet</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been shot to death.</deathMessage>
+	<injury>Gunshot</injury>
+  </DamageTypeDef>
+  
+  <DamageTypeDef>
+	<defName>Arrow</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been shot to death.</deathMessage>
+	<injury>Cut</injury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef>
+  
+  <DamageTypeDef>
+	<defName>Scratch</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been torn to death.</deathMessage>
+	<injury>Scratch</injury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef>
+  
+  <DamageTypeDef>
+	<defName>Bite</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been bitten to death.</deathMessage>
+	<injury>Bite</injury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef>
+
+  <DamageTypeDef>
+	<defName>Bomb</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has died in an explosion.</deathMessage>
+	<injury>Shredded</injury>
+	<solidInjury>Crack</solidInjury>
+  </DamageTypeDef>
+
+  <DamageTypeDef>
+    <defName>Flame</defName>
+    <hasForcefulImpact>false</hasForcefulImpact>
+    <makesBlood>false</makesBlood>
+    <incapChanceMultiplier>1.5</incapChanceMultiplier>
+    <interruptJobs>false</interruptJobs>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has burned to death.</deathMessage>
+	<injury>Burn</injury>
+  </DamageTypeDef>
+
+  <DamageTypeDef>
+    <defName>Stun</defName>
+    <harmsHealth>false</harmsHealth>
+    <makesBlood>false</makesBlood>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been stunned to death.</deathMessage>
+  </DamageTypeDef>
+  
+  <DamageTypeDef>
+    <defName>EMP</defName>
+    <harmsHealth>false</harmsHealth>
+    <makesBlood>false</makesBlood>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been EMPed to death.</deathMessage>
+  </DamageTypeDef>
+  
+  
+  <!-- etc -->
+  
+	<DamageTypeDef>
+		<defName>Bleeding</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+		<interruptJobs>false</interruptJobs>
+		<deathMessage>{0} has bled to death.</deathMessage>
+		<nonlocalInjury>BloodLoss</nonlocalInjury>
+	</DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Suffocation</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+		<incapChanceMultiplier>3</incapChanceMultiplier>
+	    <interruptJobs>false</interruptJobs>
+	    <deathMessage>{0} has suffocated to death.</deathMessage>
+		<nonlocalInjury>Suffocation</nonlocalInjury>
+    </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Starvation</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+		<incapChanceMultiplier>3</incapChanceMultiplier>
+		<interruptJobs>false</interruptJobs>
+		<deathMessage>{0} has starved to death.</deathMessage>
+		<nonlocalInjury>Starvation</nonlocalInjury>
+    </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Breakdown</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+        <interruptJobs>false</interruptJobs>
+    </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Mining</defName>
+	</DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Rotting</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+        <interruptJobs>false</interruptJobs>
+    </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Extinguish</defName>
+	    <interruptJobs>false</interruptJobs>
+	</DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Healing</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<harmsHealth>false</harmsHealth>
+		<makesBlood>false</makesBlood>
+        <interruptJobs>false</interruptJobs>
+    </DamageTypeDef>
+
+</DamageTypes>
