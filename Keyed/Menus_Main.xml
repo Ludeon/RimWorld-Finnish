@@ -23,7 +23,7 @@
   <!--=========== Create/review world ================-->
   <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
   <WorldGenerate>Luo</WorldGenerate>
-  <WorldSaveAndFinish>Tallenna ja lopeta</WorldSaveAndFinish>
+  <WorldSaveAndFinish>Tallenna</WorldSaveAndFinish>
   <Reset>Resetoi</Reset>
   <WorldSize>Koko</WorldSize>
   <WorldSeed>Luontiarvo</WorldSeed>
@@ -56,7 +56,7 @@
   <HowStorytellersWork>AI tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
   <MustChooseChallengeScale>Valitse vaikeustaso.</MustChooseChallengeScale>
   <ChallengeScale>Haastetaso</ChallengeScale>
-  <ChallengeScaleTip>Kun tarinankertoja lähettää uhkia perääsi, ne tulevat olemaan {0} vaikeita kuin Haastavassa.</ChallengeScaleTip>
+  <ChallengeScaleTip>Kun tarinankertoja lähettää uhkia perääsi, ne tulevat olemaan {0} verrattuna Haastavaan.</ChallengeScaleTip>
   <ChallengeScale_BuilderMode>Rakentaja</ChallengeScale_BuilderMode>
   <ChallengeScale_Casual>Rento</ChallengeScale_Casual>
   <ChallengeScale_Rough>Kovakourainen</ChallengeScale_Rough>

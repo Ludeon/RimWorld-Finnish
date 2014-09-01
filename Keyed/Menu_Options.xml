@@ -11,17 +11,17 @@
 
   
   <!-- Gameplay -->
-  <EdgeScreenScroll>Hiiri ruudun reunalla liikuttaa kameraa</EdgeScreenScroll>
+  <EdgeScreenScroll>Liikuta kameraa hiirellä</EdgeScreenScroll>
   <CustomCursor>Erikoiskursori</CustomCursor>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
   <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
-  <ResetAdaptiveTutor>Resetoi mukautuva opastaja</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt resetoitu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
+  <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
   <RunInBackground>Suorita taustalla</RunInBackground>
   <DevelopmentMode>Kehitystila</DevelopmentMode>
   <LogDeepProfileData>Kirjaa syviä profiilitietoja</LogDeepProfileData>
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
+  <NamesYouWantToSee>Henkilöiden sukunimet jotka haluat nähdä pelissä tai taustatarinassa:</NamesYouWantToSee>
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   
   <!-- Resolution -->
@@ -34,7 +34,7 @@
   <!-- Privacy-->
   <Privacy>Yksityisyys</Privacy>
   <UserName>Käyttäjänimi</UserName>
-  <ChooseHistoryUploadPref>Pelattavuuden tietojen lähettämisen tärkeys.</ChooseHistoryUploadPref>
+  <ChooseHistoryUploadPref>Salli pelitietojen lähetys.</ChooseHistoryUploadPref>
   <CurrentHistoryUploadPref>Tällä hetkellä: {0}</CurrentHistoryUploadPref>
   <AboutHistoryUpload>Käyttäjien pelattavuustiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään joka {0}:s pelipäivä (ja joissain harvoissa tapauksissa, kuten peli lopussa) RimWorldin servereille ja sitten analysoidaan. Lähetetty pelattavuusdata rakentuu vain tilastoista ja historiasta liittyen peliin - mitään henkilökohtaisia tietoja ei lähetetä, lukuunottamatta käyttäjänimeä, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
   

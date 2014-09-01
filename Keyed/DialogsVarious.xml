@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>Varmista</Confirm>
+  <GoBack>Mene takaisin</GoBack>
+  <OK>OK</OK>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Tallenna</SaveGameButton>
+  <OverwriteButton>Korvaa</OverwriteButton>
+  <LoadGameButton>Lataa</LoadGameButton>
+  <ConfirmDelete>Poista {0} oikeasti?</ConfirmDelete>
+  <DeleteThisSavegame>Poista tämä tallennus.</DeleteThisSavegame>
+  <SavedAs>Tallennettu {0}:nä.</SavedAs>
+  <NeedAName>Anna nimi.</NeedAName>
+  <LoadingLongEvent>Ladataan...</LoadingLongEvent>
+  
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Kaikki tietävät että et halua olla tällä kivellä kauaa. Mutta {0} ehdottaa että annat yhdyskunnalle nimen kuitenkin.\n\nMiksikä sitä kutsuttaisiin?</NameColonyMessage>
+  <ColonyGainsName>Yhdyskunta tunnetaan nyt nimellä {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Tuo yhdyskunnan nimi ei ole sopiva.</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>Aluetta kutsutaan nyt nimellä {0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Anna alueelle sopiva nimi.</ZoneNameIsInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Yhdyskuntalaisen kutsumanimi on nyt {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>Versioiden yhteensopimattomuus: Kenttä tallennettiin peliversiossa {0}, nykyinen versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Tallennusten yhteensopimattomuus</SaveGameIncompatibleWarningTitle>
+  
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Vaihdoit resoluutiota. Toimiiko uusi kunnolla?\n\nAutomaattinen palautus {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Pidä resoluutio</ResolutionKeep>
+  <ResolutionRevert>Palauta</ResolutionRevert>
+
+  <!-- Overview -->
+  <OverviewOf>{0}:n yleiskatsaus</OverviewOf>
+
+  <!-- Research -->
+  <Research>Tutkimus</Research>
+  <Researched>Tutkittu</Researched>
+  <Unresearched>Tutkimatta</Unresearched>
+  <Finished>Päättynyt</Finished>
+  <InProgress>Tutkitaan</InProgress>
+  <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖIDÄN, yhdyskuntalaisesi eivät oikeasti tee tutkimusta.\n\nVoit kuitenkin tarkastella ja valita tutkimusprojektit nyt.</ResearchMenuWithoutBench>
+  
+  
+  <!-- Advanced game start options -->
+  <MapSizePerformanceWarning>VAROITUS: Suorituskyky saattaa kärsiä suuremmissa kentissä ellei tietokoneesi ole tehokas.\n\nJos sinulla on huonompi kone, valitse Pieni.\n\nLudeonicrous -koko on testaamaton eikä lähes varmasti tule toimimaan hyvin. (Mutta voit silti kokeilla).</MapSizePerformanceWarning>
+  <MapSize>Kentän koko</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} neliötä)</MapSizeDesc>
+  <MapSizeSmall>Pieni</MapSizeSmall>
+  <MapSizeMedium>Keskikokoinen</MapSizeMedium>
+  <MapSizeLarge>Suuri</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+
+
+
+  <!-- Bill config -->
+  <Suspended>Keskeytetty</Suspended>
+  <NotSuspended>Ei keskeytetty</NotSuspended>
+  <SuspendedAllCaps>KESKEYTETTY</SuspendedAllCaps>
+  <RepeatCount>Toista: {0}</RepeatCount>
+  <Forever>loputtomiin</Forever>
+  <IngredientSearchRadius>Valmistusaineiden etsintäalue</IngredientSearchRadius>
+  <TargetCount>Tee kunnes sinulla on: {0}</TargetCount>
+  <Infinite>Loputon</Infinite>
+  <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kehdemäärää koska siinä on useampia tai arvaamattomia osia.)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Sallitut ainesosat</PermittedIngredients>
+  <MinimumSkills>Minimi taito:</MinimumSkills>
+  <DoXTimes>Tee X kertaa</DoXTimes>
+  <DoUntilYouHaveX>Tee kunnes sinulla on X</DoUntilYouHaveX>
+  <DoForever>Tee loputtomiin</DoForever>
+  <BillRepeatTargetCountShort>{0}:een asti</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Jätä lattialle</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Vie parhaiten sopivaan varastoon</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Def Card -->
+  <Type>Tyyppi</Type>
+  <GunType>Ase</GunType>
+  <PlantType>Kasvi</PlantType>
+  <FoodType>Ruoka</FoodType>
+  <HumanType>Ihminen</HumanType>
+  <AnimalType>Eläin</AnimalType>
+  <MechanoidType>Mechanoidi</MechanoidType>
+  <Damage>Vahinko</Damage>
+  <Accuracy>Tarkkuus</Accuracy>
+  <BurstShotCount>Sarjatulen laukausmäärä</BurstShotCount>
+  <WarmupTime>Lämmittlyaika</WarmupTime>
+  <CooldownTime>Jäähdytysaika</CooldownTime>
+  <BurstShotFireRate>Tulinopeus</BurstShotFireRate>
+  <Range>Kantama</Range>
+  <GrowsWild>Kasvaa luonnossa</GrowsWild>
+  <Harvestable>Kerättävä</Harvestable>
+  <LimitedLifespan>Rajoitettu elinaika</LimitedLifespan>
+  <GrowingTime>Kasvatusaika</GrowingTime>
+  <Days>päivää</Days>
+  <FertilityRequirement>Hedelmällisyysvaatimus</FertilityRequirement>
+  <LightRequirement>Valoisuusvaatimus</LightRequirement>
+  <Attributes>Ominaisuudet</Attributes>
+  <LifeSpan>Elinaika</LifeSpan>
+  <Nutrition>Ravinto</Nutrition>
+  <FoodQuality>Ruuan laatu</FoodQuality>
+  <WalkSpeedProperty>Kävelynopeus</WalkSpeedProperty>
+  <MeleeDamage>Lähitaisteluvahinki</MeleeDamage>
+  <MeatAmount>Lihamäärä</MeatAmount>
+  <MinFoodQuality>Min. ruoan laatu</MinFoodQuality>
+  <Diet>Dieetti</Diet>
+  <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
+  <BasePrice>Perushinta</BasePrice>
+  <Covers>Suojat(covers)</Covers>
+  
+  <!-- Trade -->
+  <YourTradeableSilver>Sinun vaihdettavissa oleva hopea: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Voit vaihtaa ainoastaan sitä hopeaa mitä sinulla on kiertoradallisen kauppamajakan lähellä eikä katon alla.</YourTradeableSilverTip>
+
+  <!-- Comms -->
+  <SocialSkillIs>Sosiaaliset taidot: {0}</SocialSkillIs>
+
+  <!--Other-->
+  <ResearchFinished>Tutkimus suoritettu: {0}</ResearchFinished>
+  <ResearchScreen>Tutkimusvalikko</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Haluatko lähettää pelitietoja RimWorldin servereille auttaaksesi kehittäjiä tasapainottamaan peliä? Jos sallit, tietosi lähetetään joka {0}:s päivä (ja joissain harvinaisissa tapauksissa kuten pelin lopussa). Yksityisyysasetuksia voidaan muuttaa myöhemmän asetuksista.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Vaikka pelihistoria lähetetäänkin nimettömänä, voit liittää "käyttäjänimen".</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Salli pelitietojen lähettäminen</HistoryUploadYes>
+  <HistoryUploadNo>Älä salli pelitietojen lähettämistä</HistoryUploadNo>
+  <HistoryUploadYesOnce>Lähetä vain tällä kertaa</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Älä lähetä tällä kertaa, kysy minulta myöhemmin</HistoryUploadNoOnce>
+	
+</LanguageData>
