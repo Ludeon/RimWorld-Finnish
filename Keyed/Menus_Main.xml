@@ -47,7 +47,7 @@
   <!--=========== Mods screen ==========-->
   <GetMods>Hanki modeja</GetMods>
   <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
-  <Author>Author</Author>
+  <Author>Modin luoja</Author>
   <ConfirmDisableCoreMod>Oletko varma että haluat poistaa ytimen modin? Peli ei toimi ellei sinulla ole toista modia mikä korvaa kaikki ytimen keskinäiset toiminnot.\n\nMuista, muut modit voivat kumota def:ejä ytimen modissa käyttämällä samaa defName:a.</ConfirmDisableCoreMod>
 
 
@@ -77,7 +77,7 @@
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
   <SelectSite>Valitse alue</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
+  <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
   <WorldRenderMode>Karttatyyppi</WorldRenderMode>
   <WorldRenderModeFull>Täysi</WorldRenderModeFull>
@@ -115,8 +115,8 @@
   <NoneLower>ei mitään</NoneLower>
   <Adulthood>Aikuisuus</Adulthood>
   <Childhood>Lapsuus</Childhood>
-  <Male>Mies</Male>
-  <Female>Nainen</Female>
+  <Male>Uros</Male>
+  <Female>Naaras</Female>
   
   
   <!--=========== Misc ==========-->

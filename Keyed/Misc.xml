@@ -7,7 +7,7 @@
 
   <Colony>Yhdyskunta</Colony>
   
-  <ChangeLanguageFromMainMenu>Voitvaihtaa kieltäsi voin asetuksista päävalikossa.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Voit vaihtaa kieltäsi voin asetuksista päävalikossa.</ChangeLanguageFromMainMenu>
 
   <AndLower>ja</AndLower>
   <DisabledLower>pois käytöstä</DisabledLower>
@@ -17,7 +17,7 @@
 
   <VersionIndicator>Versio {0}</VersionIndicator>
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
+  <CompiledOn>Viimeistelty {0}</CompiledOn>
 
 	<MeatLabel>{0} liha</MeatLabel>
   <MeatDesc>{0}n raakaa lihaa.</MeatDesc>

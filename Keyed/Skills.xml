@@ -6,7 +6,7 @@
   <Passion>Intohimo</Passion>
   <PassionNone>Ei kiinnostunut (oppii {0}x)</PassionNone>
   <PassionMinor>Kiinnostunut (oppii {0}x)</PassionMinor>
-  <PassionMajor>Palava (learns {0}x)</PassionMajor>
+  <PassionMajor>Palava (oppii {0}x)</PassionMajor>
   <EffectsAtLevel>Vaikutus tasolla {0}</EffectsAtLevel>
   <SkillMax>Maksimi</SkillMax>
 
