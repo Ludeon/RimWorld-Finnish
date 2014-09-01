@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Klikkaa hypätäksesi ongelmaan</ClickToJumpToProblem>
 
 
 
 
-  <AlertNeedStockpile>Need stockpile</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.</AlertNeedStockpileDesc>
+  <AlertNeedStockpile>Tarvitset varastoalueen</AlertNeedStockpile>
+  <AlertNeedStockpileDesc>Yhdyskuntalaisesi tarvitsevat alueen mihin varastoida esineitä. Merkitse VARASTOALUE heille johon varastoida esineitä.\n\nLöydät varastoalueen ALUEET osiossa ARKKITEHTI -valikossa alavasemmalla.</AlertNeedStockpileDesc>
 
-  <AlertUnforbidStartingResources>Unforbid resources</AlertUnforbidStartingResources>
-  <AlertUnforbidStartingResourcesDesc>Starting resources on the map are FORBIDDEN.\n\nFor colonists to take them, you must UNFORBID them by selecting them and hitting the UNFORBID command at the bottom of the screen.</AlertUnforbidStartingResourcesDesc>
+  <AlertUnforbidStartingResources>Salli resurssien siirtäminen</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>Aloitusresurssit ovat KIELLETTYJÄ.\n\nJotta yhdyskuntalaisesi keräävät ne, sinun täytyy SALLIA niiden siirtäminen valitsemalla esineet ja klikkaamalla nappia ruudun alalaidassa.</AlertUnforbidStartingResourcesDesc>
 
-  <AlertEquipStartingWeapons>Equip weapons</AlertEquipStartingWeapons>
-  <AlertEquipStartingWeaponsDesc>Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip.</AlertEquipStartingWeaponsDesc>
+  <AlertEquipStartingWeapons>Aseista yhdyskuntalaisesi</AlertEquipStartingWeapons>
+  <AlertEquipStartingWeaponsDesc>Yhdyskuntalaisesi saapuivat joidenkin aseiden kanssa. Käytä niitä!\n\nValitse yhdyskuntalainen ja klikkaa hiiren oikealla näppäimellä siä asetta jota haluat hänen käyttävän.</AlertEquipStartingWeaponsDesc>
   
-  <NeedSawmill>Need sawmill</NeedSawmill>
-  <NeedSawmillDesc>You need some kind of sawmill to chop logs into more versatile wood planks.\n\nBuild a HAND SAWMILL or an ELECTRIC SAWMILL.</NeedSawmillDesc>
+  <NeedSawmill>Tarvitset sahan</NeedSawmill>
+  <NeedSawmillDesc>Tarvitset jonkinlaisen sahan jolla You need some kind of sawmill to chop logs into more versatile wood planks.\n\nBuild a HAND SAWMILL or an ELECTRIC SAWMILL.</NeedSawmillDesc>
 
   <EquipStartingEquipment>Take your equipment</EquipStartingEquipment>
   <EquipStartingEquipmentDesc>You landed with some weapons. Take them from your landing site.\n\nTo equip something, select a colonist and right-click the item you want to equip.</EquipStartingEquipmentDesc>

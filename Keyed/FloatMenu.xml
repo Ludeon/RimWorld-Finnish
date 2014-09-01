@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>Soita {0}:lle</CallOnRadio>
+	<CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
+	<CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
+	<CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
+  <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
+  <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
+  
+  <FireAt>Tulipalo {0}:lla</FireAt>
+
+  <OutOfRange>kantaman ulkopuolella</OutOfRange>
+  <CannotHitTarget>ei ole mahdollista osua kohteeseen</CannotHitTarget>
+  <CannotFight>{0} ei voi taistella</CannotFight>
+
+  <OrderManThing>Mies {0}</OrderManThing>
+  
+  <MeleeAttack>Melee attack {0}</MeleeAttack>
+  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
+  <NoPath>no path</NoPath>
+
+	<ForbiddenLower>kielletty</ForbiddenLower>
+	<SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
+  <PrisonerRoomLower>vangin huone</PrisonerRoomLower>
+	<BurningLower>palaa</BurningLower>
+	<NoEmptyPlaceLower>ei tyhjää tilaa mihin varastoida sitä</NoEmptyPlaceLower>
+	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
+	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
+	
+	
+  <CannotGoNoPath>Ei voi mennä tänne (ei reittiä)</CannotGoNoPath>
+  <GoHere>Mene tänne</GoHere>
+  
+  <Arrest>Pidätä {0}</Arrest>
+  <CannotArrest>Ei voi pidättää</CannotArrest>
+
+  <Capture>Kaappaa {0}</Capture>
+  <CannotCapture>Ei voi kaapata</CannotCapture>
+
+  <Rescue>Pelasta {0}</Rescue>
+  <CannotRescue>Ei voi pelastaa</CannotRescue>
+
+  <NoPrisonerBed>Ei vapaana olevaa suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
+  <NoNonPrisonerBed>Ei vapaana olevaa käytettävää ei-vangin sänkyä.</NoNonPrisonerBed>
+  <Reserved>Jonkun muun varaama.</Reserved>
+  <ReservedBy>{0}:n varaama.</ReservedBy>
+  <IsReservedBy>{0} on {1}:n varaama.</IsReservedBy>
+
+
+  <Equip>Ota käyttöön {0}</Equip>
+  <CannotEquip>Ei voida ottaa käyttöön {0}</CannotEquip>
+  
+  <Wear>Pue {0}</Wear>
+  <CannotWear>Ei voi pukea {0}</CannotWear>
+  
+  <Strip>Riisu {0}</Strip>
+  <CannotStrip>Ei voi riisua {0}</CannotStrip>
+
+  <Deposit>Talleta {0} {1}:een</Deposit>
+  <CannotDeposit>Ei voi tallettaa {0}:a {1}:een</CannotDeposit>
+
+  <Drop>Pudota {0}</Drop>
+  
+  <UseMedicalBed>Lepää kunnes taysin parantunut</UseMedicalBed>
+  <NotInjured>Ei loukkaantunut</NotInjured>
+  <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>Mene cryptounisäiliöön</EnterCryptosleepPod>
+  
+  
+  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Ei voi {0} {1}:a</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>Valmiiksi {0} {1}:a</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Ei voi priorisoida ({0} ei ole {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Ei voi priorisoida (tutkimus on pitkäaikainen tehtävä)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Priorisoi {1}:n {0}</PrioritizeGeneric>
+  
+</LanguageData>
