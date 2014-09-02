@@ -1,72 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CommandForbiddenDesc>Forbidden - colonists will not interact with this.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Not forbidden - colonists may interact with this.</CommandNotForbiddenDesc>
+	<CommandForbiddenDesc>Kielletty - yhdyskuntalaiset eivät vaikuta tähän mitenkään.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Sallittu - yhdyskuntalaiset voivat vaikuttaa tähän.</CommandNotForbiddenDesc>
 
   <!-- Power -->
-  <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Toggle power.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Virta päälle/pois</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Virta päälle/pois.</CommandTogglePowerDesc>
 
-  <CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+  <CommandTryReconnectLabel>Yhdistä uudelleen</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Kokeile yhdistää toiseen sähköverkkoon yhdistämisalueeni säteellä. Tämä on käytännöllistä jos minut on yhdistetty virrattomaan verkkoon mutta lähistöllä on virrallinen verkko.</CommandTryReconnectDesc>
 
 
-  <CommandGatherSpotToggleLabel>Gather spot</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleLabel>Kerääntymispiste</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktiivinen - yhdyskuntalaiset kerääntyvät tämän esineen ympärille.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Ei aktiivinen - yhdyskuntalaiset eivät keräänny tämän esineen ympärille.</CommandGatherSpotToggleDescInactive>
   
   
   <!-- Drafting -->
-  <CommandDraftLabel>Draft</CommandDraftLabel>
-  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
-  <IsIncapped>{0} is incapacitated.</IsIncapped>
+  <CommandDraftLabel>Kutsu palvelukseen</CommandDraftLabel>
+  <CommandUndraftLabel>Vapauta palveluksesta</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Asepalvelus päällä/pois.\n\nKutsutut henkilöt ottavat vastaan komentoja ja taistelevat. He eivät tee työtä, syö tai lepää.</CommandToggleDraftDesc>
+  <IsIncapped>{0} on työkyvytön.</IsIncapped>
 
   
-  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionLabel>Peruuta</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Peruuta tämä rakennus.</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>Nouse sängystä</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Nouse pois nykyisestä sängystä.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
-  <BedAssign>Assign</BedAssign>
-  <CommandBedSetForPrisonersLabel>Set for prisoners</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetForColonistsLabel>Set for colonists</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsMedicalLabel>Set as medical</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>Set as non medical</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc> Assign this bed for non medical use.</CommandBedSetAsNonMedicalDesc>
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+  <CommandBedSetOwnerLabel>Aseta omistaja</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Aseta tämä sänky tietylle yhdyskuntalaiselle.</CommandBedSetOwnerDesc>
+  <BedAssign>Aseta</BedAssign>
+  <CommandBedSetForPrisonersLabel>Aseta vangeille</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Aseta tämän huoneen sängyt vankien käyttöön.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Ulkona olevia sänkyjä ei voi asettaa vangeille.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>Aseta yhdyskuntalaisille</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>Aseta tämän huoneen sängyt yhdyskuntalaisten käyttöön.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Aseta sairaspediksi</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Määritä tämä sänky vain sairaskäyttöön.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Aseta normaaliksi</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc> Määritä tämä sänky normaaliin käyttöön.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Normaalisängyn määrittäminen vankisängyksi vaikutaa koko huoneeseen (koska vangit ja yhdyskuntalaiset eivät voi nukkua samassa huoneessa).\n\nNämä henkilöt menettävät sänkyjensä omistuksen:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Vankisängyn määrittäminen normaaliksi vaikutaa koko huoneeseen (koska vangit ja yhdyskuntalaiset eivät voi nukkua samassa huoneessa).\n\nNämä henkilöt menettävät sänkyjensä omistuksen:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Oleko varma että haluat tehdä tämän?</AreYouSure>
 
   
   
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
-  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
+  <CommandDetonateDesc>Aloita lähtölaskenta räjäytykseen.</CommandDetonateDesc>
+  <CommandDetonateLabel>Räjäytä</CommandDetonateLabel>
 
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Uudelleennimeä tämä alue.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Uudelleennimeä</CommandRenameZoneLabel>
 
-  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
-  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Piilota/näytä tämä alue.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Piilota</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Näytä</CommandUnhideZoneLabel>
 
-  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
-  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Poista tämä alue.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Poista</CommandDeleteZoneLabel>
   
   
   <!-- Artillery -->
-  <CommandSetForceAttackTarget>Set forced target</CommandSetForceAttackTarget>
-  <CommandSetForceAttackTargetDesc>Sets a target that this turret must attack continuously as long as it can.</CommandSetForceAttackTargetDesc>
-  <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
-  <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
+  <CommandSetForceAttackTarget>Aseta pakotettu kohde</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Asettaa kohteen jota tämä tykkitorni ampuu jatkuvasti niin kauan kuin se voi.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Poista pakotettu kohde</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Pysäyttää pakotetun kohteen tulittamisen ja sallii tykkitornin ampua vain vihollisia.</CommandStopForceAttackDesc>
   <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
   <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
