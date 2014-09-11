@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <PawnKindDef>
+    <defName>Deer</defName>
+    <label>Deer</label>
+    <race>Deer</race>
+    <pointsCost>75</pointsCost>
+    <standardBodyGraphicPath>Things/Pawn/Animal/Deer</standardBodyGraphicPath>
+    <dessicatedBodyGraphicPath>Things/Pawn/Animal/CritterDessicatedMedium</dessicatedBodyGraphicPath>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+    <wildSpawn_EcoSystemWeight>0.7</wildSpawn_EcoSystemWeight>
+    <wildSpawn_GroupSizeRange>
+      <min>3</min>
+      <max>9</max>
+    </wildSpawn_GroupSizeRange>
+  </PawnKindDef>
+
+
+</Defs>
