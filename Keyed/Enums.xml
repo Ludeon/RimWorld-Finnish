@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Pimeä</Dark>
+  <Lit>Valoisa</Lit>
+  <LitBrightly>Kirkkaasti valaistu</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Ei mitään</NoneQuality>
+  <PlantQuality>Kasvi</PlantQuality>
+  <RawQuality>Raaka</RawQuality>
+  <MealAwfulQuality>Kamala</MealAwfulQuality>
+  <MealSimpleQuality>Yksinkertainen</MealSimpleQuality>
+  <MealFineQuality>Hieno</MealFineQuality>
+  <MealLavishLavish>ylenpalttinen</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Ei syö koskaan</NeverEats>
+  <Omnivorous>Kaikkiruokainen</Omnivorous>
+  <Herbivorous>Kasvissyöjä</Herbivorous>
+  <Carnivorous>Lihansyöjä</Carnivorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Päättämätön</Unspecified>
+  <Always>Salli</Always>
+  <Never>Älä salli</Never>
+  
+  <!-- pawn activity -->
+  <Consciousness>Tajunta</Consciousness>
+  <Sight>Näkö</Sight>
+  <Hearing>Kuulo</Hearing>
+  <Moving>Liikkuminen</Moving>
+  <Working>Työskentely</Working>
+  <Talking>Puhuminen</Talking>
+  <Eating>Syöminen</Eating>
+  <Breathing>Hengittäminen</Breathing>
+  <BloodFiltration>Veren puhdistus</BloodFiltration>
+  <BloodPumping>Verenkierto</BloodPumping>
+  <Metabolism>Aineenvaihdunta</Metabolism>
+
+
+</LanguageData>

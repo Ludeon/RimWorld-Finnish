@@ -31,11 +31,11 @@
   <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>  These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
 
-  <BuildARoom>Build a room</BuildARoom>
-  <BuildARoomDesc>A room is composed of separate wall pieces with a door.\n\nUse the ARCHITECT menu at the bottom left of the screen to designate where you want things built. Once you designate something to be built, your colonists will do the work when they can.</BuildARoomDesc>
+  <BuildARoom>Rakenna huone</BuildARoom>
+  <BuildARoomDesc>Huone koostuu erillisistä seinistä ja ovesta.\n\nKäytä ARKKITEHTI valikkoa ruudun vasemmassa alakulmassa määrittääksesi mihin haluat rakentaa asioita. Kun olet määrittänyt jotain rakennettavaksi, yhdyskuntalaisesi rakentavat sen kun he voivat.</BuildARoomDesc>
 
-  <NeedGrowingZone>Need growing zone</NeedGrowingZone>
-  <NeedGrowingZoneDesc>You have no growing zones.\n\nPlace a growing zone on fertile soil through the ARCHITECT menu.</NeedGrowingZoneDesc>
+  <NeedGrowingZone>Tarvitset kasvatusalueen</NeedGrowingZone>
+  <NeedGrowingZoneDesc>Et ole määrittänyt kasvatusaluetta.\n\nAseta kasvatusalue hedelmälliselle maalle ARKKITEHTI valikosta.</NeedGrowingZoneDesc>
 
   <NeedDefenses>Need defenses</NeedDefenses>
   <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses.\n\nBuild some turrets.</NeedDefensesDesc>
@@ -64,10 +64,10 @@
   <NeedFoodHopper>Need food hopper</NeedFoodHopper>
   <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Building needs power</BuildingNeedsPower>
-  <BuildingsNeedPower>Buildings need power</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
-  <AndMore>and more</AndMore>
+  <BuildingNeedsPower>Rakennus tarvitsee virtaa</BuildingNeedsPower>
+  <BuildingsNeedPower>Rakkenkset tarvitsevat virtaa</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Nämä virtaa käyttävät rakennukset ovat irrallaan kaikista mahdollisista virranlähteistä:\n\n{0}\nYhdistä ne generaattoriin tai paristoon.</BuildingsNeedPowerDesc>
+  <AndMore>lisää</AndMore>
 
   <NeedMealSource>Need meal source</NeedMealSource>
   <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a nutrient paste dispenser or a cook stove.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
