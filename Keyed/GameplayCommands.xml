@@ -67,21 +67,21 @@
   <CommandSetForceAttackTargetDesc>Asettaa kohteen jota tämä tykkitorni ampuu jatkuvasti niin kauan kuin se voi.</CommandSetForceAttackTargetDesc>
   <CommandStopForceAttack>Poista pakotettu kohde</CommandStopForceAttack>
   <CommandStopForceAttackDesc>Pysäyttää pakotetun kohteen tulittamisen ja sallii tykkitornin ampua vain vihollisia.</CommandStopForceAttackDesc>
-  <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
-  <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
+  <CommandStopAttackFailNotForceAttacking>Ei ole pakotetusti hyökkäämässä.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Kohde kantaman ulkopuolella.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Kohde liian lähellä.</MessageTargetBelowMinimumRange>
   
   
   <!-- Ship computer core -->
-  <CommandShipLaunch>Launch ship</CommandShipLaunch>
-  <CommandShipLaunchDesc>Start the ship launch sequence with the current configuration.</CommandShipLaunchDesc>
-  <CommandShipLaunchReport>Show launch report</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Show a readiness report about the ship's launch capability.</CommandShipLaunchReportDesc>
+  <CommandShipLaunch>Lähetä alus</CommandShipLaunch>
+  <CommandShipLaunchDesc>Aloita aluksen lähtölaskenta nykyisillä asetuksilla.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Näytä laukaisuraportti</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Näytä valmiusraportti aluksen lähtövalmiudesta.</CommandShipLaunchReportDesc>
 
 
   <!-- Pod -->
-  <CommandPodEject>Eject sleeper</CommandPodEject>
-  <CommandPodEjectDesc>Wake up the cryptosleeper and eject them.</CommandPodEjectDesc>
-  <CommandPodEjectFailEmpty>Contains nobody.</CommandPodEjectFailEmpty>
+  <CommandPodEject>Poista nukkuja aluksesta</CommandPodEject>
+  <CommandPodEjectDesc>Herätä kryptonukkuja ja poista heidät aluksesta.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Ei sisällä ketään.</CommandPodEjectFailEmpty>
 
 </LanguageData>

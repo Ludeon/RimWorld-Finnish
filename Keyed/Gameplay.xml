@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <WorkLeft>Työtä jäljellä</WorkLeft>
+  <Contents>Sisältö</Contents>
+  <ContainedResources>Sisällytetyt resurssit</ContainedResources>
+  <ForPrisonerUse>Vankien käyttöön</ForPrisonerUse>
+  <ForColonistUse>Yhdyskuntalaisten käyttöön</ForColonistUse>
+  <MedicalBed>Lääkintäpeti</MedicalBed>
+  <Owner>Omistaja</Owner>
+  <Nobody>Ei kukaan</Nobody>
+  <Unowned>Omistamaton</Unowned>
+  <DeadTime>Kuollut {0}</DeadTime>
+  <WalkSpeed>kävelyvauhti {0}</WalkSpeed>
+  <DyingLower>kuolemassa</DyingLower>
+  <PawnEffectiveness>Vaikuttavuus</PawnEffectiveness>
+  <FilthOnFeet>Lika jaloilla:</FilthOnFeet>
+  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
+  <NothingLower>ei mitään</NothingLower>
+  <Adapted>Mukautunut</Adapted>
+  <Headshot>Headshot</Headshot>
+  <FreshMissingBodyPart>tuore</FreshMissingBodyPart>
+
+  <!-- Turrets -->
+  <GunInstalled>Asennettu</GunInstalled>
+  <MinimumRange>Lähin kantama</MinimumRange>
+  <CanFireIn>Voi ampua</CanFireIn>
+  
+  
+  <!-- Job reports -->
+	<ReportHaulingTo>Raahaa {0}:a {1}han.</ReportHaulingTo>
+	<ReportHauling>Raahaa {0}.</ReportHauling>
+
+	<!-- Shooting report -->
+  <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
+	<ShootReportSkill>Taito</ShootReportSkill>
+	<ShootReportWeapon>Ase</ShootReportWeapon>
+	<Darkness>Pimeys</Darkness>
+	<TargetProne>Kohde altis</TargetProne>
+	<TargetSize>Kohteen koko</TargetSize>
+	<Weather>Sää</Weather>
+	<ShootingCover>Suoja</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} pysäyttää {1}:n</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>ei suojaa</NoCoverLower>
+	
+	
+	<!-- Status levels -->
+  <Mood>Mieliala</Mood>
+  <MoodTip>Mieliala pidetään ylhäällä täyttämällä fyysisiä ja psyykkusiä tarpeita.\n\nJos jonkun mieliala laskee liaan alas, hän voi kokea hermoromahduksen.</MoodTip>
+  <Food>Ruoka</Food>
+  <FoodTip>Ruoka tarkoittaa kuinka paljon olennolla on helposti kulutettavia ravintoaineita. Jos se on nolla, olento ottaa nääntymisestä vahinkoa ajan mittaan.</FoodTip>
+  <Rest>Lepo</Rest>
+  <RestTip>Lepo tarkoittaa kuinka rentoutunut ja kuinka paljon unta henkilö saa.\n\nSe nousee korkeimmilleen sängyssä nukkuessa. Sängyn ulkopuolella, se laskee ajan mittaan.</RestTip>
+  <Environment>Ympäristö</Environment>
+  <EnvironmentTip>Ympäristö ilmentää kuinka miellyttäväksi henkilö tuntee ympäristönsä.\n\nYmpäristö on korkealla kun henkilöt ovat tilavissa huoneissa kauniin sisustuksen kanssa. Se on matalalla jos ympäristö on ruma.</EnvironmentTip>
+  <Openness>Avoimuus</Openness>
+
+  
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>Menee ohi: {0}:ssa</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Alkaa mennä ohi: {0}:ssa</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>On mennyt ohi kokonaan: {0}:ssa</ThoughtFinishesExpiringIn>
+  <MentalBreakThreshold>Hermoromahduksen kynnys</MentalBreakThreshold>
+
+
+
+  <!--Effectiveness-->
+  <EffectivenessFull>Täysi</EffectivenessFull>
+  <EffectivenessReduced>Vähennetty</EffectivenessReduced>
+  <EffectivenessImpaired>Heikentynyt</EffectivenessImpaired>
+  <EffectivenessIncapacitated>Työkyvytön</EffectivenessIncapacitated>
+
+
+  <!-- Pawn info readout -->
+  <Health>Terveys</Health>
+  <PawnMainDescWithFactionGendered>{0} {2}:n {1}</PawnMainDescWithFactionGendered>
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescWithFactionGenderless>{1}:n {0}</PawnMainDescWithFactionGenderless>
+  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+  <Faction>Ryhmä</Faction>
+  <Equipped>Varustautunut</Equipped>
+  <EquippedNothing>ei mitään</EquippedNothing>
+  <Incapacitated>Työkyvytön</Incapacitated>
+  <InRestraints>Rajoitettu (hidastettu)</InRestraints>
+  <Carrying>Kantaa</Carrying>
+  <SanityDazedWander>Murtunut: Haahuilee hämmentyneenä</SanityDazedWander>
+  <SanityGiveUpExit>Murtunut: Poistumassa luovuttaneena</SanityGiveUpExit>
+  <SanityPanicFlee>Murtunut: Pakenee paniikissa</SanityPanicFlee>
+  <SanityPsychotic>Murtunut: Psykoottisessa raivossa</SanityPsychotic>
+  
+  <!-- Body and activities condition -->
+  <None>Olematon</None>
+  <VeryPoor>Erittäin huono</VeryPoor>
+  <Poor>Huono</Poor>
+  <Weakened>Heikentynyt</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <SeriouslyImpaired>Vakavasti heikentynyt</SeriouslyImpaired>
+  <Impaired>Heikentynyt</Impaired>
+  <SlightlyImpaired>Vähäisesti heikentynyt</SlightlyImpaired>
+  <NoPain>Olematon</NoPain>
+  <LittlePain>Pieni</LittlePain>
+  <MediumPain>Keskiverto</MediumPain>
+  <SeverePain>Voimakas</SeverePain>
+  <ExtremePain>Äärimmäinen</ExtremePain>
+
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Valitse seuraava asia samassa neliössä.\n\nPikanäppäin: {0}\n\nVoit myös tehdä tämän klikkaamalla samaa ruutua hitaasti uudestaan.</SelectNextInSquareTip>
+  <DefInfoTip>Tietoja tästä esineestä.</DefInfoTip>
+  
+  <!-- ITab titles -->
+  <TabBills>Tilaukset</TabBills>
+  <TabGrowing>Kasvatus</TabGrowing>
+  <TabCharacter>Henkilö</TabCharacter>
+  <TabPrisoner>Vanki</TabPrisoner>
+  <TabGear>Varusteet</TabGear>
+  <TabThoughts>Mietteet</TabThoughts>
+  <TabStorage>Varasto</TabStorage>
+  <TabHealth>Terveys</TabHealth>
+
+	<!-- ITabs -->
+	<AddBill>Lisää tilaus</AddBill>
+	<RecipeRequiresSkills>{0}:n resepti tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
+	<BillConfig>Asetukset</BillConfig>
+	<SuspendedCaps>KESKEYTETTY</SuspendedCaps>
+	<PlantVerb>Kasvi</PlantVerb>
+	<RecruitmentDifficulty>Värväyksen vaikeus</RecruitmentDifficulty>
+	<PrisonerGetsFood>Saa ruokaa</PrisonerGetsFood>
+	<DoctorsCare>Lääkärit huolehtivat</DoctorsCare>
+	<PrisonerGetsMedicine>Saa lääkintää</PrisonerGetsMedicine>
+	<ShouldTryToRecruit>Yritä värvätä</ShouldTryToRecruit>
+	<PrisonerNoInteraction>Ei vuorovaikutusta</PrisonerNoInteraction>
+	<PrisonerFriendlyChat>Ystävällistä keskustelua</PrisonerFriendlyChat>
+	<PrisonerMildBeating>Kevyttä hakkaamista</PrisonerMildBeating>
+	<PrisonerViciousBeating>Kovaa hakkaamista</PrisonerViciousBeating>
+	<PrisonerExecution>Teloitus</PrisonerExecution>
+	<Equipment>Varusteet</Equipment>
+	<Apparel>Vaatteet</Apparel>
+	<Inventory>Inventory</Inventory>
+	<ThingInfo>Tietoa</ThingInfo>
+	<DropThing>Pudota</DropThing>
+	<TotalModifiers>Kaikki muokkaajat</TotalModifiers>
+	<DamageAbsorption>Vahinkovähennys</DamageAbsorption>
+	<MoveSpeed>Liikkumisnopeus</MoveSpeed>
+	<Efficiency>Tehokkuus</Efficiency>
+	<MissingBodyPart>Poissa</MissingBodyPart>
+	<DestroyedBodyPart>Tuhoutunut</DestroyedBodyPart>
+	<ShatteredBodyPart>Pirstoutunut</ShatteredBodyPart>
+	<Healthy>Terve</Healthy>
+	<InPain>Kivussa</InPain>
+	<PainLevel>Kipu</PainLevel>
+	<Dead>Kuollut</Dead>
+	<Unconscious>Tajuton</Unconscious>
+	<PainShock>Shokissa</PainShock>
+	<NoInjuries>(ei loukkaantumista)</NoInjuries>
+	<WholeBody>Koko ruumis</WholeBody>
+	<RenameColonist>Uudelleennimeä yhdyskuntalainen</RenameColonist>
+	<DataProcessing>Tiedonkäsittely</DataProcessing>
+	<Communication>Kommunikaatio</Communication>
+
+	<!-- like 'Blood of John' -->
+	<OfLower>joka on</OfLower>
+
+	<!-- Power readout -->
+	<PowerNotConnected>Ei liitetty virtaan.</PowerNotConnected>
+	<PowerConnectedRate>Tehon määrä: {0} W</PowerConnectedRate>
+	<PowerConnectedStored>Varastoitu teho: {0} Wd</PowerConnectedStored>
+  <PowerNeeded>Virtaa tarvitaan</PowerNeeded>
+  <PowerOutput>Teho</PowerOutput>
+  <PowerBatteryStored>Varastoitu</PowerBatteryStored>
+  <PowerBatteryEfficiency>Hyötysuhde</PowerBatteryEfficiency>
+  
+  
+	<!--Rotting-->
+	<RotStateFresh>Tuore</RotStateFresh>
+	<RotStateRotting>Mätänevä</RotStateRotting>
+	<RotStateDessicated>Kuivunut</RotStateDessicated>
+	
+  <!-- Shooting tooltip -->
+  <ShotBy>{0}:n ampuma</ShotBy>
+  <CannotHit>Ei voi osua kohteeseen.</CannotHit>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>Ei-varastoitu</StoragePriorityUnstored>
+  <StoragePriorityLow>Matala</StoragePriorityLow>
+  <StoragePriorityNormal>Normaali</StoragePriorityNormal>
+  <StoragePriorityPreferred>Mieluinen</StoragePriorityPreferred>
+  <StoragePriorityImportant>Tärkeä</StoragePriorityImportant>
+  <StoragePriorityCritical>Kriittinen</StoragePriorityCritical>
+
+  <!-- Meal -->
+  <TimeToSpoil>Menee vanhaksi{0}:ssä</TimeToSpoil>
+  <Ingredients>Ainekset</Ingredients>
+
+  <!-- Plants -->
+  <PercentGrowth>{0}%:n kasvu</PercentGrowth>
+  <Growing>Kasvaa</Growing>
+  <NotGrowingNow>Ei kasva nyt (pitää olla {0}).</NotGrowingNow>
+  <NotGrowingNowNight>Ei kasva nyt (yöaika).</NotGrowingNowNight>
+  <FullyGrownIn>Täysin kasvanut {0}:ssä.</FullyGrownIn>
+  <ReadyToHarvest>Valmis kerättäväksi.</ReadyToHarvest>
+  <Mature>Kypsä.</Mature>
+  
+  <!-- Zones -->
+  <Zone>Alue</Zone>
+  <GrowingZone>Kasvatusalue</GrowingZone>
+  <Stockpile>Varastoalue</Stockpile>
+  <DumpingStockpile>Kaatopaikka</DumpingStockpile>
+  <Priority>Tärkeys</Priority>
+
+  <!-- General time stuff -->
+  <DaysLower>päivää</DaysLower>
+  <SecondsLower>sekuntia</SecondsLower>
+  
+  <!-- Mouseover indicator -->
+  <Undiscovered>Tuntematon</Undiscovered>
+  
+  <!-- Buttons -->
+  <ZoneVisibilityToggleButton>Alueiden näkyvyys.</ZoneVisibilityToggleButton>
+  <AutoHomeRegionToggleButton>Automaattisesti lisää kotialue uusien rakennusten ympärille.</AutoHomeRegionToggleButton>
+
+
+  <!-- Fire -->
+  <Fire>Tulipalo</Fire>
+  <FireOn>Palo {0}:ssa</FireOn>
+  <Burning>Palaa</Burning>
+  <FireSizeLower>tulen koko {0}</FireSizeLower>
+  
+
+  <!-- Map conditions (eclipse, solar flare, etc )-->
+  <MapConditionsTip>Erityisolosuhteet jotka vaikuttavat alueeseen juuri nyt.</MapConditionsTip>
+
+  
+  
+  <!-- Building placement restricters -->
+  <MustPlaceUnroofed>Ei voida asettaa katon alle.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Pitää asettaa siten että pääty on aluksen rakennepalkissa kiinni.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Pitää asettaa jonkin viereen joka vaatii täyttösuppilon.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Pitää asettaa tarkalleen geysirin päälle.</MustPlaceOnSteamGeyser>
+  
+  <!-- Cryptosleep pod -->
+  <PodContains>Sisältää</PodContains>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>Ei voi laukaista.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Valmiina laukaisuun.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Kriittinen osa puuttuu</ShipReportMissingPart>
+  <ShipReportNoFullPods>Ei täysiä kryptounisäiliöitä</ShipReportNoFullPods>
+
+  
+  
+  <!-- Game over -->
+  <GameOverEveryoneDead>Kaikki ovat joko kuolleet tai poissa. Tämä tarina on ohi.\n\nEhkä joku toinen voi hyödyntää näitä raunioita.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Olet laukaissut aluksesi! Nämä yhdyskuntalaiset pääsivät mukaan:\n\n{0}\nJa nämä yhdyskuntalaiset eivät:\n\n{1}\nAI:si yrittä nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä. Tai, se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi, odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunched>
+  <GameOverKeepPlaying>Jatka pelaamista</GameOverKeepPlaying>
+  <GameOverMainMenu>Päävalikko</GameOverMainMenu>
+  
+  
+</LanguageData>
