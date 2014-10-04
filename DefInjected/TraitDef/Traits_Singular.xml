@@ -16,7 +16,7 @@
 	</rep>
 	<rep>
 		<path>Bloodlust.degreeDatas[0].description</path>
-		<trans>NAME innostuu ihmisten satuttamisesta ja ei välitä veren tai kuoleman näkemisestä.</trans>
+		<trans>NAME innostuu ihmisten satuttamisesta eikä välitä veren tai kuoleman näkemisestä.</trans>
 	</rep>
 
 	<rep>
@@ -26,15 +26,6 @@
 	<rep>
 		<path>Psychopath.degreeDatas[0].description</path>
 		<trans>NAME has no empathy. Muiden kärsiminen ei vaivaa HIM yhtään. HECAP ei välitä jos muita teurastetaan, jätetään hautaamatta, vangitaan tai myydään orjiksi - ellei HIM ole kyseessä. HECAP ei myöskään saa mielialan kohennusta muiden kanssa keskustelusta.</trans>
-	</rep>
-
-	<rep>
-		<path>Cannibal.degreeDatas[0].label</path>
-		<trans>kannibaali</trans>
-	</rep>
-	<rep>
-		<path>Cannibal.degreeDatas[0].description</path>
-		<trans>NAME kasvoi ajatellen että ihmislihan syöminen on väärin ja kamalaa, mutta kerran kauan sitten HE kokeili sitä... ja HE piti siitä.</trans>
 	</rep>
 
 	<rep>
@@ -126,5 +117,5 @@
 		<path>GreenThumb.degreeDatas[0].description</path>
 		<trans>NAME pitää puutarhanhoidosta. HISCAP mielialansa kohenee jokaisen istutetun kasvin myötä.</trans>
 	</rep>
-
+-->
 </LanguageData>

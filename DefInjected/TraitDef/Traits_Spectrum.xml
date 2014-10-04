@@ -26,7 +26,6 @@
 		<trans>NAME liikkuu aina kiireellä - niin suurella että muut jäävät usein jälkeen.</trans>
 	</rep>
 
-
 	<rep>
 		<path>NaturalMood.degreeDatas[0].label</path>
 		<trans>toiveikas</trans>
@@ -135,11 +134,11 @@
 		<trans>NAME on hieman laiska.</trans>
 	</rep>
 	<rep>
-		<path>Industriousness.degreeDatas[2].label</path>
+		<path>Industriousness.degreeDatas[3].label</path>
 		<trans>veltto</trans>
 	</rep>
 	<rep>
-		<path>Industriousness.degreeDatas[2].description</path>
+		<path>Industriousness.degreeDatas[3].description</path>
 		<trans>NAME rakastaa joutenoloa ja vihaa kaikkea tuottavaa. HECAP liikkuu verkkaisesti ja pysyy harvoin keskittyneenä tehtävään.</trans>
 	</rep>
 
@@ -175,5 +174,5 @@
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
 		<trans>NAME toimii psyykkisesti eri taajuudella kuin muut. HECAP ei altistu ollenkaan psyykkisille ilmiöille.</trans>
 	</rep>
-
+-->
 </LanguageData>
