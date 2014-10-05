@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+		<Ocean.label>meri</Ocean.label>
+		<Ocean.description>Avomeri. Täydellinen kaloille - ei niin hyvä sinulle.</Ocean.description>
+		
+		<IceSheet.label>mannerjää</IceSheet.label>
+		<IceSheet.description>Maaperä on peittynyt jopa kilometrien paksuisten jääkerrosten alle. Täällä ei ole yhteyttä maahan tai kallioon, joten täällä ei ole kasveja. Ainoat täällä olevat eläimet ovat vaeltamassa muualle - tai pahasti hukassa.</IceSheet.description>
+		
+		<AridShrubland.label>kuiva pensasaro</AridShrubland.label>
+		<AridShrubland.description>Kuiva alue, mutta ei tarpeeksi kuiva ollakseen aavikko. Avoimien tasankojen lomassa on siellä täällä pieniä metsikköjä. Kasvit ovat sitkeitä ja eläimiä on kohtuullisen paljon.</AridShrubland.description>
+		
+		<TemperateForest.label>lauhkea metsä</TemperateForest.label>
+		<TemperateForest.description>Ystävällinen metsikkö täynnä lehtipuita ja hedelmällisiä aukioita. Monenlaiset eläimet liikkuvat puissa ja maassa.</TemperateForest.description>
+		
+		<Desert.label>aavikko</Desert.label>
+		<Desert.description>Erittäin kuiva ja kuuma alue, jossa on vain vähän elämää.</Desert.description>
+		
+		<TropicalRainforest.label>trooppinen sademetsä</TropicalRainforest.label>
+		<TropicalRainforest.description>Tiheä ja kostea viidakko. Umpeenkasvu ja aggressiivinen luonto tekevät rakentamisesta ja selviytymisestä haastavan.</TropicalRainforest.description>
+		
+		<Tundra.label>tundra</Tundra.label>
+		<Tundra.description>Näillä enimmäkseen jäätyneillä tasangoilla ei ole juurikaan puita tai kasvillisuutta. Pieniä eläimiä on suurten vaeltavien laidunlaumojen ja niiden saalistajien lomassa.</Tundra.description>
+		
+		<BorealForest.label>havumetsä</BorealForest.label>
+		<BorealForest.description>Pohjoisia havupuumetsiä. Ankarista talvista huolimatta havupuumetsissä on monimuotoinen kanta pieniä ja suuria eläimiä.</BorealForest.description>
+
+</LanguageData>
