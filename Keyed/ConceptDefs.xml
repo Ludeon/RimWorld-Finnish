@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ConceptText_MoveCamera>Liikuta kameraa klikkaamalla ja raahaamalla HIIREN KESKINÄPPÄIMELLÄ, tai WASD näppäimillä.</ConceptText_MoveCamera>
+  <ConceptText_MoveCamera>Liikuta kameraa klikkaamalla ja raahaamalla HIIREN KESKINÄPPÄIMELLÄ, tai WASD-näppäimillä.</ConceptText_MoveCamera>
 
   <ConceptText_RescueColonist>Pelastaaksesi loukkaantuneen yhdyskuntalaisen, valitse terve yhdyskuntalainen ja paina hiiren oikeaa näppäintä loukkaantuneen yhdyskuntalaisen päällä.</ConceptText_RescueColonist>
 
@@ -56,5 +56,6 @@
 
   <ConceptText_ArrestingCreatesEnemies>Jos pidätät jonkun, hänen koko ryhmittymästänsä tulee vihollisesi.\n\nÄlä pidätä jotakuta jonka ryhmän kanssa haluat olla ystävällinen!</ConceptText_ArrestingCreatesEnemies>
 
+  <ConceptText_MedicalOperations>Määrätäksesi leikkauksen, kuten elimenkeruun tai proteesin asentamisen, avaa yhdyskuntalaisen TERVEYS-välilehti ja sitten vaihda LEIKKAUKSET-alavälilehteen.</ConceptText_MedicalOperations>
 
 </LanguageData>
