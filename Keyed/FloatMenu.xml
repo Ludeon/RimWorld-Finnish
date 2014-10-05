@@ -10,7 +10,7 @@
   <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
   <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
   
-  <FireAt>Tulipalo {0}:lla</FireAt>
+  <FireAt>Ammu {0}</FireAt>
 
   <OutOfRange>kantaman ulkopuolella</OutOfRange>
   <CannotHitTarget>ei ole mahdollista osua kohteeseen</CannotHitTarget>
