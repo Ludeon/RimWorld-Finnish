@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<Cut.label>viiltohaava</Cut.label>
+		<Cut.label>viilto</Cut.label>
 		<Cut.deathMessage>{0} leikattiin kuoliaaksi.</Cut.deathMessage>
 
 		<Crush.label>ruhje</Crush.label>
@@ -10,7 +10,7 @@
 		<Blunt.label>tylppä</Blunt.label>
 		<Blunt.deathMessage>{0} hakattiin kuoliaaksi.</Blunt.deathMessage>
 
-		<Stab.label>pistohaava</Stab.label>
+		<Stab.label>pisto</Stab.label>
 		<Stab.deathMessage>{0} pistettiin kuoliaaksi.</Stab.deathMessage>
 
 		<Bullet.label>luoti</Bullet.label>
@@ -25,13 +25,13 @@
 		<Bite.label>purema</Bite.label>
 		<Bite.deathMessage>{0} purettiin kuoliaaksi.</Bite.deathMessage>
 
-		<Bomb.label>purema</Bomb.label>
+		<Bomb.label>räjähdys</Bomb.label>
 		<Bomb.deathMessage>{0} kuoli räjähdyksessä.</Bomb.deathMessage>
 
 		<Flame.label>liekki</Flame.label>
 		<Flame.deathMessage>{0} paloi kuoliaaksi.</Flame.deathMessage>
 
-		<SurgicalCut.label>kirurginen haava</SurgicalCut.label>
+		<SurgicalCut.label>kirurginen viilto</SurgicalCut.label>
 		<SurgicalCut.deathMessage>{0} kuoli kirurgiassa.</SurgicalCut.deathMessage>
 
 		<Stun.label>tyrmäys</Stun.label>
