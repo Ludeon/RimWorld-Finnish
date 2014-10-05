@@ -10,8 +10,8 @@
 		<Research.skillLabel>Tutkiminen</Research.skillLabel>
 		<Research.pawnLabel>Tutkija</Research.pawnLabel>
 		
-		<Mining.skillLabel>Kaivaminen</Mining.skillLabel>
-		<Mining.pawnLabel>Kaivaja</Mining.pawnLabel>
+		<Mining.skillLabel>Louhiminen</Mining.skillLabel>
+		<Mining.pawnLabel>Louhija</Mining.pawnLabel>
 		
 		<Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
 		<Shooting.pawnLabel>Ampuja</Shooting.pawnLabel>
