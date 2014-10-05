@@ -74,10 +74,12 @@
   <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kehdemäärää koska siinä on useampia tai arvaamattomia osia.)</RecipeCannotHaveTargetCount>
   <PermittedIngredients>Sallitut ainesosat</PermittedIngredients>
   <MinimumSkills>Minimi taito:</MinimumSkills>
+  <BillRequires>Tarvitsee {0} {1}</BillRequires>
+  <UsableIngredients>käytettävät ainekset</UsableIngredients>
   <DoXTimes>Tee X kertaa</DoXTimes>
-  <DoUntilYouHaveX>Tee kunnes sinulla on X</DoUntilYouHaveX>
+  <DoUntilYouHaveX>Tee kunnes on X</DoUntilYouHaveX>
   <DoForever>Tee loputtomiin</DoForever>
-  <BillRepeatTargetCountShort>{0}:een asti</BillRepeatTargetCountShort>
+  <BillRepeatTargetCountShort>{0} asti</BillRepeatTargetCountShort>
   <BillStoreMode_DropOnFloor>Jätä lattialle</BillStoreMode_DropOnFloor>
   <BillStoreMode_BestStockpile>Vie parhaiten sopivaan varastoon</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
@@ -89,7 +91,7 @@
   <FoodType>Ruoka</FoodType>
   <HumanType>Ihminen</HumanType>
   <AnimalType>Eläin</AnimalType>
-  <MechanoidType>Mechanoidi</MechanoidType>
+  <MechanoidType>Mekanoidi</MechanoidType>
   <Damage>Vahinko</Damage>
   <Accuracy>Tarkkuus</Accuracy>
   <BurstShotCount>Sarjatulen laukausmäärä</BurstShotCount>
@@ -115,16 +117,44 @@
   <Diet>Dieetti</Diet>
   <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
   <BasePrice>Perushinta</BasePrice>
-  <Covers>Suojat(covers)</Covers>
+  <Covers>Suojaa</Covers>
+  <NaturalArmorCovers>Luonnollinen panssari suojaa</NaturalArmorCovers>
+  <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
   
   <!-- Trade -->
-  <YourTradeableSilver>Sinun vaihdettavissa oleva hopea: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>Voit vaihtaa ainoastaan sitä hopeaa mitä sinulla on kiertoradallisen kauppamajakan lähellä eikä katon alla.</YourTradeableSilverTip>
+  <DragToTrade>Vedä vaihtaaksesi</DragToTrade>
+  <BuyPriceDesc>Hinta, jonka maksat ostaaksesi tämän.</BuyPriceDesc>
+  <SellPriceDesc>Hinta, jonka saat myydessäsi tämän.</SellPriceDesc>
+  <PriceTypeDesc>Tämän tavaran hinta on {0}.</PriceTypeDesc>
+  <ColonyCount>Miten monta tällaista tavaraa yhdyskunta on valmiina vaihtamaan\n\nVoit myydä kiertoradalla oleville kauppiaille tavaroita, jos ne ovat ulkona ja lähellä kiertoradallista vaihtokauppamajakkaa.</ColonyCount>
+  <TraderCount>Miten monta tällaista tavaraa vaihtokauppialla on antaa.</TraderCount>
+  <AcceptButton>Hyväksy</AcceptButton>
+  <ResetButton>Nollaa</ResetButton>
+  <CancelButton>Peruuta</CancelButton>
+  <YourTradeableSilver>Sinun vaihtokauppaan sopivan hopean määrä: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>Voit käydä vaihtokauppaa vain sillä hopealla joka on lähellä kiertoradallista vaihtokauppamajakkaa eikä ole katon alla.</YourTradeableSilverTip>
+  <TraderHasNoMore>Vaihtokauppiaalle ei ole enempää.</TraderHasNoMore>
+  <ColonyHasNoMore>Sinulla ei ole enempää.</ColonyHasNoMore>
+  <TraderWillNotTrade>Vaihtokauppias ei suostu vaihtamaan tällaisia tavaroita.</TraderWillNotTrade>
 
   <!-- Comms -->
   <SocialSkillIs>Sosiaaliset taidot: {0}</SocialSkillIs>
 
-  <!--Other-->
+  <!-- Stats report -->
+  <StatsReport_BaseValue>Alkuarvo</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Tätä koskevat luonteenpiirteet</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Tätä koskevat varusteet</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiaali</StatsReport_Material>
+  <StatsReport_CharacterQuality>Hahmon laatu</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Taitojen vaikutus</StatsReport_Skills>
+  <StatsReport_OtherStats>Muiden tilastojen vaikutus</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Terveyden vaikutus</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>tärkeys {0}</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Jälkikäsittely</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Lopullinen arvo</StatsReport_FinalValue>
+
+
+  <!--Research-->
   <ResearchFinished>Tutkimus suoritettu: {0}</ResearchFinished>
   <ResearchScreen>Tutkimusvalikko</ResearchScreen>
   

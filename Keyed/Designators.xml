@@ -45,7 +45,7 @@
   <DesignatorRegionNoRoofRemove>Poista katoton alue</DesignatorRegionNoRoofRemove>
   <DesignatorRegionNoRoofRemoveDesc>Poista katoton alue. Kattoja voidaan tehdä tälle alueelle ja olemassaolevia kattoja ei revitä alas.</DesignatorRegionNoRoofRemoveDesc>
 
-  <DesignatorGrowingZoneDesc>Luo alue missä yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
 
   <DesignatorZoneCreateStorageResourcesDesc>Luo varastoalue mihin yhdyskuntalaiset varastoivat resusseja.\nTätä voidaan käyttää myös olemassaolevien varastoalueiden laajentamiseen.</DesignatorZoneCreateStorageResourcesDesc>
 
@@ -60,17 +60,21 @@
   
   
   <!-- placement of blueprints -->
+  <UnchosenStuff>Materiaalia ei valittu</UnchosenStuff>
   <TooCloseToMapEdge>Liian lähellä kartan reunaa.</TooCloseToMapEdge>
   <OutOfBounds>Rajojen ulkopuolella.</OutOfBounds>
   <CannotPlaceInUndiscovered>Ei voi asettaa tuntemattomattomille alueille.</CannotPlaceInUndiscovered>
   <InteractionSpotBlocked>Käyttöpiste on estetty.</InteractionSpotBlocked>
-  <InteractionSpotWillBeBlocked>Käyttöpiste tässä tulee olemaan estetty.</InteractionSpotWillBeBlocked>
+  <InteractionSpotOutOfBounds>Käyttöpiste on rajojen ulkopuolella.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>{0} tulee estämään tämän käyttöpisteen.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} estäisi {1}:n käyttöpisteen neliön.</WouldBlockInteractionSpot>
   <TerrainIsAlready>Maaperä täällä on jo {0}.</TerrainIsAlready>
   <IdenticalThingExists>Identtinen esine on jo tässä.</IdenticalThingExists>
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Maaperä tässä ei voi tukea tätä.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
+
+
 
   <!-- placement of zones -->
   <ExpandOrCreateZone>Laajenna {0}:a tai\nLuo uusi {1}</ExpandOrCreateZone>

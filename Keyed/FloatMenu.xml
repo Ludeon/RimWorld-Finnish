@@ -18,15 +18,15 @@
 
   <OrderManThing>Mies {0}</OrderManThing>
   
-  <MeleeAttack>Melee attack {0}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
-  <NoPath>no path</NoPath>
+  <MeleeAttack>Hyökkää lähitaistelussa {0}</MeleeAttack>
+  <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
+  <NoPath>ei reittiä</NoPath>
 
 	<ForbiddenLower>kielletty</ForbiddenLower>
 	<SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
   <PrisonerRoomLower>vangin huone</PrisonerRoomLower>
 	<BurningLower>palaa</BurningLower>
-	<NoEmptyPlaceLower>ei tyhjää tilaa mihin varastoida sitä</NoEmptyPlaceLower>
+	<NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
 	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
 	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
 	
@@ -45,12 +45,14 @@
 
   <NoPrisonerBed>Ei vapaana olevaa suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
   <NoNonPrisonerBed>Ei vapaana olevaa käytettävää ei-vangin sänkyä.</NoNonPrisonerBed>
-  <Reserved>Jonkun muun varaama.</Reserved>
-  <ReservedBy>{0}:n varaama.</ReservedBy>
-  <IsReservedBy>{0} on {1}:n varaama.</IsReservedBy>
+  <Reserved>Joku muu on varannut tämän.</Reserved>
+  <ReservedBy>{0} on varannut tämän.</ReservedBy>
+  <IsReservedBy>{1} on varannut {0}.</IsReservedBy>
 
+  <NoManipulationSkill>kykenemätön</NoManipulationSkill>
 
   <Equip>Ota käyttöön {0}</Equip>
+  <EquipWarningBrawler>(painija tulee pahalle mielelle)</EquipWarningBrawler>
   <CannotEquip>Ei voida ottaa käyttöön {0}</CannotEquip>
   
   <Wear>Pue {0}</Wear>

@@ -1,31 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FullCredits>
-      <![CDATA[--Ludomancer--
-    Tynan Sylvester
+  <!-- Names -->
+  <Credit_Ludomancer>Pääarkkitehti</Credit_Ludomancer>
+  <Credit_MusicAndSound>Musiikki ja ääni</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Ylimääräinen ohjelmointi</Credit_AdditionalProgramming>
+  <Credit_GameArt>Pelin taide</Credit_GameArt>
+  <Credit_MenuArt>Valikkojen taide</Credit_MenuArt>
 
-    --Musiikki ja Äänet--
-    Alistair Lindsay
+  <Credits_TitleTesting>Testaajat</Credits_TitleTesting>
+  <Credit_Tester>Testaaja</Credit_Tester>
 
-    --Lisäohjelmointi--
-    Piotr Walczak
+  <Credits_TitleLanguage>Käännös kielelle {0}</Credits_TitleLanguage>
+  <Credit_Writer>Kirjoittaja</Credit_Writer>
+  <Credit_Translator>Kääntäjä</Credit_Translator>
+  <Credit_OpenSourceLibraries>Avoimen lähdekoodin kirjastot</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Kohinan tuottaminen</Credit_NoiseGeneration>
 
-    --Pelin taide--
-    Rhopunzel
-
-    --Valikkojen taide--
-    Ricardo Tomé
-
-    --Lahjoitti modiytimen--
-    Haplo
-
-    --Testaajat--
-    Monet hienot ja hyvännäköiset henkilöt!
-
-    --Kääntäjät--
-    Monet avuliaat yksilöt! Katso käännöstiedostoihin tarkempia tietoja varten.]]>
-  </FullCredits>
-  
-  
+    
 </LanguageData>

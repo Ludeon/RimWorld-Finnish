@@ -3,7 +3,7 @@
 
   <!-- glow -->
   <Dark>Pimeä</Dark>
-  <Lit>Valoisa</Lit>
+  <Lit>Valaistu</Lit>
   <LitBrightly>Kirkkaasti valaistu</LitBrightly>
   
   <!-- food quality -->
@@ -13,7 +13,7 @@
   <MealAwfulQuality>Kamala</MealAwfulQuality>
   <MealSimpleQuality>Yksinkertainen</MealSimpleQuality>
   <MealFineQuality>Hieno</MealFineQuality>
-  <MealLavishLavish>ylenpalttinen</MealLavishLavish>
+  <MealLavishLavish>Yltäkylläinen</MealLavishLavish>
   
   <!-- diet type -->
   <NeverEats>Ei syö koskaan</NeverEats>
@@ -26,18 +26,25 @@
   <Always>Salli</Always>
   <Never>Älä salli</Never>
   
-  <!-- pawn activity -->
-  <Consciousness>Tajunta</Consciousness>
-  <Sight>Näkö</Sight>
-  <Hearing>Kuulo</Hearing>
-  <Moving>Liikkuminen</Moving>
-  <Working>Työskentely</Working>
-  <Talking>Puhuminen</Talking>
-  <Eating>Syöminen</Eating>
-  <Breathing>Hengittäminen</Breathing>
-  <BloodFiltration>Veren puhdistus</BloodFiltration>
-  <BloodPumping>Verenkierto</BloodPumping>
-  <Metabolism>Aineenvaihdunta</Metabolism>
+  <!-- Price types -->
+  <PriceTypeVeryCheap>hyvin halpa</PriceTypeVeryCheap>
+  <PriceTypeCheap>halpa</PriceTypeCheap>
+  <PriceTypeNormal>normaali</PriceTypeNormal>
+  <PriceTypeExpensive>kallis</PriceTypeExpensive>
+  <PriceTypeExorbitant>kohtuuton</PriceTypeExorbitant>
 
+  <!-- stat category -->
+  <StatCategory_General>Yleisiä</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Yleisiä</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Panssari</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Ensisijaisia</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Työskentely</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Taistelu</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sosiaalisuus</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Muut</StatCategory_PawnMisc>
+  <StatCategory_Building>Rakennus</StatCategory_Building>
+  
+  <EquippedStatOffsets>Siirtymät otettaessa käyttöön</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Muutokset kun varusteet tehdään tästä</StuffOfEquipmentStatModifiers>
 
 </LanguageData>

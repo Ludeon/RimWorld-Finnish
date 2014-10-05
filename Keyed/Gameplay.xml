@@ -7,20 +7,25 @@
   <ContainedResources>Sisällytetyt resurssit</ContainedResources>
   <ForPrisonerUse>Vankien käyttöön</ForPrisonerUse>
   <ForColonistUse>Yhdyskuntalaisten käyttöön</ForColonistUse>
-  <MedicalBed>Lääkintäpeti</MedicalBed>
+  <MedicalBed>Lääkitsemiseen</MedicalBed>
   <Owner>Omistaja</Owner>
   <Nobody>Ei kukaan</Nobody>
   <Unowned>Omistamaton</Unowned>
   <DeadTime>Kuollut {0}</DeadTime>
   <WalkSpeed>kävelyvauhti {0}</WalkSpeed>
   <DyingLower>kuolemassa</DyingLower>
-  <PawnEffectiveness>Vaikuttavuus</PawnEffectiveness>
-  <FilthOnFeet>Lika jaloilla:</FilthOnFeet>
-  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
+  <FilthOnFeet>Lika jaloissa:</FilthOnFeet>
+  <NotEnoughStoredLower>ei tarpeeksi varastossa</NotEnoughStoredLower>
   <NothingLower>ei mitään</NothingLower>
   <Adapted>Mukautunut</Adapted>
-  <Headshot>Headshot</Headshot>
+  <Headshot>Osuma päähän</Headshot>
   <FreshMissingBodyPart>tuore</FreshMissingBodyPart>
+  <UntreatedLower>hoitamaton</UntreatedLower>
+  <DevelopedImmunityLower>kehittynyt vastustuskyky</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>tarvitsee hoitoa parantuakseen</InjuryRequiresTreatment>
+  <NextTreatmentAfter>seuraava hoito {0} päivän jälkeen</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>{0} puuttuu</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>vastustuskyvyn kehittymisen edistyminen</ImmunityDevelopmentProgress>
 
   <!-- Turrets -->
   <GunInstalled>Asennettu</GunInstalled>
@@ -29,8 +34,10 @@
   
   
   <!-- Job reports -->
-	<ReportHaulingTo>Raahaa {0}:a {1}han.</ReportHaulingTo>
-	<ReportHauling>Raahaa {0}.</ReportHauling>
+	<ReportHaulingTo>Raahaamassa: {0} kohteeseen {1}.</ReportHaulingTo>
+	<ReportHauling>Raahaamassa:{0}.</ReportHauling>
+  <ReportSleeping>Nukkumassa.</ReportSleeping>
+  <ReportResting>Lepäämässä.</ReportResting>
 
 	<!-- Shooting report -->
   <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
@@ -58,18 +65,10 @@
 
   
   <!-- Thoughts -->
-  <ThoughtExpiresIn>Menee ohi: {0}:ssa</ThoughtExpiresIn>
-  <ThoughtStartsExpiringIn>Alkaa mennä ohi: {0}:ssa</ThoughtStartsExpiringIn>
-  <ThoughtFinishesExpiringIn>On mennyt ohi kokonaan: {0}:ssa</ThoughtFinishesExpiringIn>
+  <ThoughtExpiresIn>Menee ohi: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Alkaa menemään ohi: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>On mennyt ohi kokonaan: {0}</ThoughtFinishesExpiringIn>
   <MentalBreakThreshold>Hermoromahduksen kynnys</MentalBreakThreshold>
-
-
-
-  <!--Effectiveness-->
-  <EffectivenessFull>Täysi</EffectivenessFull>
-  <EffectivenessReduced>Vähennetty</EffectivenessReduced>
-  <EffectivenessImpaired>Heikentynyt</EffectivenessImpaired>
-  <EffectivenessIncapacitated>Työkyvytön</EffectivenessIncapacitated>
 
 
   <!-- Pawn info readout -->
@@ -91,13 +90,14 @@
   
   <!-- Body and activities condition -->
   <None>Olematon</None>
-  <VeryPoor>Erittäin huono</VeryPoor>
-  <Poor>Huono</Poor>
+  <VeryPoor>Erittäin heikko</VeryPoor>
+  <Poor>Heikko</Poor>
   <Weakened>Heikentynyt</Weakened>
   <GoodCondition>OK</GoodCondition>
-  <SeriouslyImpaired>Vakavasti heikentynyt</SeriouslyImpaired>
+  <Enhanced>Paranneltu</Enhanced>
+  <SeriouslyImpaired>Vakavasti estynyt</SeriouslyImpaired>
   <Impaired>Heikentynyt</Impaired>
-  <SlightlyImpaired>Vähäisesti heikentynyt</SlightlyImpaired>
+  <SlightlyImpaired>Vähäisesti estynyt</SlightlyImpaired>
   <NoPain>Olematon</NoPain>
   <LittlePain>Pieni</LittlePain>
   <MediumPain>Keskiverto</MediumPain>
@@ -108,6 +108,7 @@
   <SelectNextInSquareTip>Valitse seuraava asia samassa neliössä.\n\nPikanäppäin: {0}\n\nVoit myös tehdä tämän klikkaamalla samaa ruutua hitaasti uudestaan.</SelectNextInSquareTip>
   <DefInfoTip>Tietoja tästä esineestä.</DefInfoTip>
   
+
   <!-- ITab titles -->
   <TabBills>Tilaukset</TabBills>
   <TabGrowing>Kasvatus</TabGrowing>
@@ -117,6 +118,10 @@
   <TabThoughts>Mietteet</TabThoughts>
   <TabStorage>Varasto</TabStorage>
   <TabHealth>Terveys</TabHealth>
+  <TabRace>Rotu</TabRace>
+  <TabBasics>Perustiedot</TabBasics>
+  <TabStats>Tilastot</TabStats>
+
 
 	<!-- ITabs -->
 	<AddBill>Lisää tilaus</AddBill>
@@ -136,35 +141,45 @@
 	<PrisonerExecution>Teloitus</PrisonerExecution>
 	<Equipment>Varusteet</Equipment>
 	<Apparel>Vaatteet</Apparel>
-	<Inventory>Inventory</Inventory>
-	<ThingInfo>Tietoa</ThingInfo>
+	<Inventory>Varusteluettelo</Inventory>
+	<ThingInfo>Tietoja</ThingInfo>
 	<DropThing>Pudota</DropThing>
 	<TotalModifiers>Kaikki muokkaajat</TotalModifiers>
 	<DamageAbsorption>Vahinkovähennys</DamageAbsorption>
+  <DamageDeflection>Vahingon heijastus</DamageDeflection>
 	<MoveSpeed>Liikkumisnopeus</MoveSpeed>
 	<Efficiency>Tehokkuus</Efficiency>
 	<MissingBodyPart>Poissa</MissingBodyPart>
 	<DestroyedBodyPart>Tuhoutunut</DestroyedBodyPart>
 	<ShatteredBodyPart>Pirstoutunut</ShatteredBodyPart>
+  <RemovedBodyPart>Poistettu</RemovedBodyPart>
 	<Healthy>Terve</Healthy>
 	<InPain>Kivussa</InPain>
 	<PainLevel>Kipu</PainLevel>
 	<Dead>Kuollut</Dead>
 	<Unconscious>Tajuton</Unconscious>
 	<PainShock>Shokissa</PainShock>
-	<NoInjuries>(ei loukkaantumista)</NoInjuries>
+  <Injured>Haavoittunut</Injured>
+	<NoInjuries>(ei vammoja)</NoInjuries>
 	<WholeBody>Koko ruumis</WholeBody>
-	<RenameColonist>Uudelleennimeä yhdyskuntalainen</RenameColonist>
+	<RenameColonist>Nimeä yhdyskuntalainen uudelleen</RenameColonist>
 	<DataProcessing>Tiedonkäsittely</DataProcessing>
 	<Communication>Kommunikaatio</Communication>
+  <AffectsLower>vaikuttaa</AffectsLower>
+  <BleedingRate>Veren vuotonopeus</BleedingRate>
+  <HealthOverview>Yleiskatsaus</HealthOverview>
+  <MedicalOperationsShort>Operaatiot ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Muokkaukset ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medical operations</MedicalOperations>
+  <Amputate>Amputoi</Amputate>
+  <Harvest>Kerää</Harvest>
 
 	<!-- like 'Blood of John' -->
-	<OfLower>joka on</OfLower>
+	<OfLower>joka kuuluu yksilölle</OfLower>
 
 	<!-- Power readout -->
 	<PowerNotConnected>Ei liitetty virtaan.</PowerNotConnected>
-	<PowerConnectedRate>Tehon määrä: {0} W</PowerConnectedRate>
-	<PowerConnectedStored>Varastoitu teho: {0} Wd</PowerConnectedStored>
+  <PowerConnectedRateStored>Yhdistetty sähkövirta/varastoitu teho: {0} W / {1} Wd</PowerConnectedRateStored>
   <PowerNeeded>Virtaa tarvitaan</PowerNeeded>
   <PowerOutput>Teho</PowerOutput>
   <PowerBatteryStored>Varastoitu</PowerBatteryStored>
@@ -177,11 +192,11 @@
 	<RotStateDessicated>Kuivunut</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
-  <ShotBy>{0}:n ampuma</ShotBy>
+  <ShotBy>{0} ampui tämän.</ShotBy>
   <CannotHit>Ei voi osua kohteeseen.</CannotHit>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>Ei-varastoitu</StoragePriorityUnstored>
+  <StoragePriorityUnstored>Varastoimaton</StoragePriorityUnstored>
   <StoragePriorityLow>Matala</StoragePriorityLow>
   <StoragePriorityNormal>Normaali</StoragePriorityNormal>
   <StoragePriorityPreferred>Mieluinen</StoragePriorityPreferred>
@@ -200,6 +215,7 @@
   <FullyGrownIn>Täysin kasvanut {0}:ssä.</FullyGrownIn>
   <ReadyToHarvest>Valmis kerättäväksi.</ReadyToHarvest>
   <Mature>Kypsä.</Mature>
+  <SeedLabel>{0} siemen</SeedLabel>
   
   <!-- Zones -->
   <Zone>Alue</Zone>
@@ -222,15 +238,16 @@
 
   <!-- Fire -->
   <Fire>Tulipalo</Fire>
-  <FireOn>Palo {0}:ssa</FireOn>
-  <Burning>Palaa</Burning>
+  <FireOn>{0} on tulessa</FireOn>
+  <Burning>Tulessa</Burning>
   <FireSizeLower>tulen koko {0}</FireSizeLower>
   
 
   <!-- Map conditions (eclipse, solar flare, etc )-->
   <MapConditionsTip>Erityisolosuhteet jotka vaikuttavat alueeseen juuri nyt.</MapConditionsTip>
 
-  
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>Sinulla ei ole sopivaa materiaalia tämän rakentamiseen.</NoStuffsToBuildWith>
   
   <!-- Building placement restricters -->
   <MustPlaceUnroofed>Ei voida asettaa katon alle.</MustPlaceUnroofed>
@@ -238,6 +255,8 @@
   <MustPlaceNextToHopperAccepter>Pitää asettaa jonkin viereen joka vaatii täyttösuppilon.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Pitää asettaa tarkalleen geysirin päälle.</MustPlaceOnSteamGeyser>
   
+
+
   <!-- Cryptosleep pod -->
   <PodContains>Sisältää</PodContains>
 
@@ -247,8 +266,11 @@
   <ShipReportMissingPart>Kriittinen osa puuttuu</ShipReportMissingPart>
   <ShipReportNoFullPods>Ei täysiä kryptounisäiliöitä</ShipReportNoFullPods>
 
+  <!-- Neurotrainer -->
+  <UseNeurotrainer>Käytä älykkyysvalmentajaa oppiaksesi {0}</UseNeurotrainer>
+  <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
   
-  
+
   <!-- Game over -->
   <GameOverEveryoneDead>Kaikki ovat joko kuolleet tai poissa. Tämä tarina on ohi.\n\nEhkä joku toinen voi hyödyntää näitä raunioita.</GameOverEveryoneDead>
   <GameOverShipLaunched>Olet laukaissut aluksesi! Nämä yhdyskuntalaiset pääsivät mukaan:\n\n{0}\nJa nämä yhdyskuntalaiset eivät:\n\n{1}\nAI:si yrittä nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä. Tai, se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi, odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunched>
