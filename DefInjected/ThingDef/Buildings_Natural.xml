@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<Sandstone.label>hiekkakiviseinämä</Sandstone.label>
-		<Sandstone.description>Hiekasta kovettumalla muodostunut huokoinen kivilaji.</Sandstone.description>
+	<Sandstone.label>hiekkakiviseinämä</Sandstone.label>
+	<Sandstone.description>Hiekasta kovettumalla muodostunut huokoinen kivilaji.</Sandstone.description>
 
-		<Limestone.label>kalkkikiviseinämä</Limestone.label>
-		<Limestone.description>Kasaanpainuneista muinaisten simpukoiden jäännöksistä muodostunut kerrostunut kivilaji.</Limestone.description>
+	<Limestone.label>kalkkikiviseinämä</Limestone.label>
+	<Limestone.description>Kasaanpainuneista muinaisten simpukoiden jäännöksistä muodostunut kerrostunut kivilaji.</Limestone.description>
 
-		<Granite.label>graniittiseinämä</Granite.label>
-		<Granite.description>Hyvin kova vulkaaninen kivilaji.</Granite.description>
+	<Granite.label>graniittiseinämä</Granite.label>
+	<Granite.description>Hyvin kova vulkaaninen kivilaji.</Granite.description>
 
-		<Slate.label>liuskekiviseinämä</Slate.label>
-		<Slate.description>Tumma metamorfinen kivilaji. Sen hienojakoiset kerrokset viestivät helposta katkaisusta.</Slate.description>
+	<Slate.label>liuskekiviseinämä</Slate.label>
+	<Slate.description>Tumma metamorfinen kivilaji. Sen hienojakoiset kerrokset viestivät helposta katkaisusta.</Slate.description>
 
-		<Marble.label>marmoriseinämä</Marble.label>
-		<Marble.description>Pehmeä metamorfinen kivi.</Marble.description>
+	<Marble.label>marmoriseinämä</Marble.label>
+	<Marble.description>Pehmeä metamorfinen kivi.</Marble.description>
 
-		<CollapsedRocks.label>romahtaneita kiviä</CollapsedRocks.label>
-		<CollapsedRocks.description>Romahtaneita kiviä pakattuna tarpeeksi tiukalle kannattelemaan kattoa.</CollapsedRocks.description>
+	<CollapsedRocks.label>romahtaneita kiviä</CollapsedRocks.label>
+	<CollapsedRocks.description>Romahtaneita kiviä pakattuna tarpeeksi tiukalle kannattelemaan kattoa.</CollapsedRocks.description>
 
-		<MineableMetal.label>metallimalmi</MineableMetal.label>
-		<MineableMetal.description>Louhi tästä metallia.</MineableMetal.description>
+	<MineableMetal.label>metallimalmi</MineableMetal.label>
+	<MineableMetal.description>Louhi tästä metallia.</MineableMetal.description>
 
-		<MineableSilver.label>hopeamalmi</MineableSilver.label>
-		<MineableSilver.description>Louhi tästä hopeaa.</MineableSilver.description>
+	<MineableSilver.label>hopeamalmi</MineableSilver.label>
+	<MineableSilver.description>Louhi tästä hopeaa.</MineableSilver.description>
 
-		<MineableGold.label>kultamalmi</MineableGold.label>
-		<MineableGold.description>Louhi tästä kultaa.</MineableGold.description>
+	<MineableGold.label>kultamalmi</MineableGold.label>
+	<MineableGold.description>Louhi tästä kultaa.</MineableGold.description>
 
-		<MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>
-		<MineablePlasteel.description>Muinainen kokoonpainunut muoviterästä täynnä oleva raunio.</MineablePlasteel.description>
+	<MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>
+	<MineablePlasteel.description>Muinainen kokoonpainunut muoviterästä täynnä oleva raunio.</MineablePlasteel.description>
 
-		<SteamGeyser.label>geysir</SteamGeyser.label>
-		<SteamGeyser.description>Luonnollinen höyryn lähde.</SteamGeyser.description>
-		
+	<SteamGeyser.label>geysir</SteamGeyser.label>
+	<SteamGeyser.description>Luonnollinen höyryn lähde.</SteamGeyser.description>
+	
 </LanguageData>

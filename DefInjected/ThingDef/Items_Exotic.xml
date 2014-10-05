@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<AIPersonaCore.label>tekoälyn persoonaydin</AIPersonaCore.label>
-		<AIPersonaCore.description>Hyperkehittynyt tietokoneydin, jossa on yli-inhimillinen tekoäly. Se on eristetyssä tilassaan lepotilassa. Asianmukaiseen tukirakenteen asennettuna siitä voi kuitenkin tulla pelottavan tehokas mieli.</AIPersonaCore.description>
+	<AIPersonaCore.label>tekoälyn persoonaydin</AIPersonaCore.label>
+	<AIPersonaCore.description>Hyperkehittynyt tietokoneydin, jossa on yli-inhimillinen tekoäly. Se on eristetyssä tilassaan lepotilassa. Asianmukaiseen tukirakenteen asennettuna siitä voi kuitenkin tulla pelottavan tehokas mieli.</AIPersonaCore.description>
 
-		<Neurotrainer.label>älykkyysvalmentaja</Neurotrainer.label>
-		<Neurotrainer.description>Kertakäyttöinen nanotekninen kouluttaja. Älykkyysvalmentaja asetetaan silmän taakse ja se vapauttaa nanokoneita käyttäjän aivoihin ja parantaa nopeasti hänen taitojaan tietyllä aluella.</Neurotrainer.description>
+	<Neurotrainer.label>älykkyysvalmentaja</Neurotrainer.label>
+	<Neurotrainer.description>Kertakäyttöinen nanotekninen kouluttaja. Älykkyysvalmentaja asetetaan silmän taakse ja se vapauttaa nanokoneita käyttäjän aivoihin ja parantaa nopeasti hänen taitojaan tietyllä aluella.</Neurotrainer.description>
 
 </LanguageData>

@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<Cut.label>viilto</Cut.label>
-		<Cut.deathMessage>{0} leikattiin kuoliaaksi.</Cut.deathMessage>
+	<Cut.label>viilto</Cut.label>
+	<Cut.deathMessage>{0} leikattiin kuoliaaksi.</Cut.deathMessage>
 
-		<Crush.label>ruhje</Crush.label>
-		<Crush.deathMessage>{0} murskattiin kuoliaaksi.</Crush.deathMessage>
+	<Crush.label>ruhje</Crush.label>
+	<Crush.deathMessage>{0} murskattiin kuoliaaksi.</Crush.deathMessage>
 
-		<Blunt.label>tylppä</Blunt.label>
-		<Blunt.deathMessage>{0} hakattiin kuoliaaksi.</Blunt.deathMessage>
+	<Blunt.label>tylppä</Blunt.label>
+	<Blunt.deathMessage>{0} hakattiin kuoliaaksi.</Blunt.deathMessage>
 
-		<Stab.label>pisto</Stab.label>
-		<Stab.deathMessage>{0} pistettiin kuoliaaksi.</Stab.deathMessage>
+	<Stab.label>pisto</Stab.label>
+	<Stab.deathMessage>{0} pistettiin kuoliaaksi.</Stab.deathMessage>
 
-		<Bullet.label>luoti</Bullet.label>
-		<Bullet.deathMessage>{0} ammuttiin kuoliaaksi.</Bullet.deathMessage>
+	<Bullet.label>luoti</Bullet.label>
+	<Bullet.deathMessage>{0} ammuttiin kuoliaaksi.</Bullet.deathMessage>
 
-		<Arrow.label>nuoli</Arrow.label>
-		<Arrow.deathMessage>{0} ammuttiin kuoliaaksi.</Arrow.deathMessage>
+	<Arrow.label>nuoli</Arrow.label>
+	<Arrow.deathMessage>{0} ammuttiin kuoliaaksi.</Arrow.deathMessage>
 
-		<Scratch.label>raapaisu</Scratch.label>
-		<Scratch.deathMessage>{0} revittiin kuoliaaksi.</Scratch.deathMessage>
+	<Scratch.label>raapaisu</Scratch.label>
+	<Scratch.deathMessage>{0} revittiin kuoliaaksi.</Scratch.deathMessage>
 
-		<Bite.label>purema</Bite.label>
-		<Bite.deathMessage>{0} purettiin kuoliaaksi.</Bite.deathMessage>
+	<Bite.label>purema</Bite.label>
+	<Bite.deathMessage>{0} purettiin kuoliaaksi.</Bite.deathMessage>
 
-		<Bomb.label>räjähdys</Bomb.label>
-		<Bomb.deathMessage>{0} kuoli räjähdyksessä.</Bomb.deathMessage>
+	<Bomb.label>räjähdys</Bomb.label>
+	<Bomb.deathMessage>{0} kuoli räjähdyksessä.</Bomb.deathMessage>
 
-		<Flame.label>liekki</Flame.label>
-		<Flame.deathMessage>{0} paloi kuoliaaksi.</Flame.deathMessage>
+	<Flame.label>liekki</Flame.label>
+	<Flame.deathMessage>{0} paloi kuoliaaksi.</Flame.deathMessage>
 
-		<SurgicalCut.label>kirurginen viilto</SurgicalCut.label>
-		<SurgicalCut.deathMessage>{0} kuoli kirurgiassa.</SurgicalCut.deathMessage>
+	<SurgicalCut.label>kirurginen viilto</SurgicalCut.label>
+	<SurgicalCut.deathMessage>{0} kuoli kirurgiassa.</SurgicalCut.deathMessage>
 
-		<Stun.label>tyrmäys</Stun.label>
-		<Stun.deathMessage>{0} tyrmättiin kuoliaaksi.</Stun.deathMessage>
+	<Stun.label>tyrmäys</Stun.label>
+	<Stun.deathMessage>{0} tyrmättiin kuoliaaksi.</Stun.deathMessage>
 
-		<EMP.label>EMP</EMP.label>
-		<EMP.deathMessage>{0} kuoli sähkömagneettisessa pulssissa.</EMP.deathMessage>
+	<EMP.label>EMP</EMP.label>
+	<EMP.deathMessage>{0} kuoli sähkömagneettisessa pulssissa.</EMP.deathMessage>
 
-		<Bleeding.label>verenvuoto</Bleeding.label>
-		<Bleeding.deathMessage>{0} vuoti kuiviin.</Bleeding.deathMessage>
+	<Bleeding.label>verenvuoto</Bleeding.label>
+	<Bleeding.deathMessage>{0} vuoti kuiviin.</Bleeding.deathMessage>
 
-		<Suffocation.label>tukehtuminen</Suffocation.label>
-		<Suffocation.deathMessage>{0} tukehtui kuoliaaksi.</Suffocation.deathMessage>
+	<Suffocation.label>tukehtuminen</Suffocation.label>
+	<Suffocation.deathMessage>{0} tukehtui kuoliaaksi.</Suffocation.deathMessage>
 
-		<Starvation.label>nälänhätä</Starvation.label>
-		<Starvation.deathMessage>{0} nääntyi nälkään.</Starvation.deathMessage>
+	<Starvation.label>nälänhätä</Starvation.label>
+	<Starvation.deathMessage>{0} nääntyi nälkään.</Starvation.deathMessage>
 
-		<HealLocalInjury.label>hoidetaan paikallista vammaa</HealLocalInjury.label>
+	<HealLocalInjury.label>hoidetaan paikallista vammaa</HealLocalInjury.label>
 
-		<HealGlobalInjury.label>hoidetaan kokovartalovammaa</HealGlobalInjury.label>
+	<HealGlobalInjury.label>hoidetaan kokovartalovammaa</HealGlobalInjury.label>
 
-		<RestoringBodyPart.label>korvataan ruumiinosaa</RestoringBodyPart.label>
+	<RestoringBodyPart.label>korvataan ruumiinosaa</RestoringBodyPart.label>
 
-		<Breakdown.label>hermoromahdus</Breakdown.label>
+	<Breakdown.label>hermoromahdus</Breakdown.label>
 
-		<Mining.label>louhiminen</Mining.label>
+	<Mining.label>louhiminen</Mining.label>
 
-		<Rotting.label>mätänee</Rotting.label>
+	<Rotting.label>mätänee</Rotting.label>
 
-		<Extinguish.label>sammuttaa tulta</Extinguish.label>
+	<Extinguish.label>sammuttaa tulta</Extinguish.label>
 
 </LanguageData>

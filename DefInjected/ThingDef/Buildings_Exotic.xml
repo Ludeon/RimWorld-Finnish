@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<CrashedShipPart.label>avaruusaluksen hylyn osa</CrashedShipPart.label>
-		<CrashedShipPart.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tällainen tegnologia voi olla vaarallinen.</CrashedShipPart.description>
+	<CrashedShipPart.label>avaruusaluksen hylyn osa</CrashedShipPart.label>
+	<CrashedShipPart.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tällainen tegnologia voi olla vaarallinen.</CrashedShipPart.description>
 
 </LanguageData>
