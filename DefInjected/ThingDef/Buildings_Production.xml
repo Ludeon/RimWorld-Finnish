@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+		<NutrientPasteDispenser.label>ravinnetahnan jakaja</NutrientPasteDispenser.label>
+		<NutrientPasteDispenser.description>Tekee orgaaniseista raaka-aineista synteettista ravinnetahnaa.</NutrientPasteDispenser.description>
+
+		<Hopper.label>suppilo</Hopper.label>
+		<Hopper.description>Varaa resursseja koneiden, kuten ravinnetahnan jakajan, käyttöön.</Hopper.description>
+
+		<TableButcher.label>teurastuspöytä</TableButcher.label>
+		<TableButcher.description>Raskas pöytä kuolleiden olioiden teurastamiseen raaoiksi lihanpalasiksi.</TableButcher.description>
+
+		<TableTailor.label>räätälin pöytä</TableTailor.label>
+		<TableTailor.description>Kankaiden parantelemiseen ja vaatteiden tuotantoon tarkoitettu pöytä.</TableTailor.description>
+
+		<TableMachining.label>työstöpöytä</TableMachining.label>
+		<TableMachining.description>Pöytä ja työkalut koneiden osien kokoamiseen ja purkamiseen.</TableMachining.description>
+
+		<CookStove.label>keittoliesi</CookStove.label>
+		<CookStove.description>Yksinkertainen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia.</CookStove.description>
+
+		<TableStonecutter.label>kivenleikkajan pöytä</TableStonecutter.label>
+		<TableStonecutter.description>Työpöytä karkeiden kivien leikkaamiseen käyttökelpoisiksi harkoiksi.</TableStonecutter.description>
+
+		<ElectricSmelter.label>sähköinen sulatusuuni</ElectricSmelter.label>
+		<ElectricSmelter.description>Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon tehoa.</ElectricSmelter.description>
+
+		<Crematorium.label>krematorio</Crematorium.label>
+		<Crematorium.description>Polttaa ruumiita.</Crematorium.description>
+
+		<HydroponicsBasin.label>vesiviljelyallas</HydroponicsBasin.label>
+		<HydroponicsBasin.description>Ruokakasvien kasvattamiseen. Vesiviljelyaltaat kasvattavat muutaman kasvin nopeasti.</HydroponicsBasin.description>
+
+</LanguageData>

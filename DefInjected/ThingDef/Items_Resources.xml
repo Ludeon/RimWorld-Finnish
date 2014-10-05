@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+		<Silver.label>hopea</Silver.label>
+		<Silver.description>Tätä metallia käytetään useimmiten kauppatavaran valuuttana. Sitä voidaan myös käyttää viehättävien koristeiden tekemiseen.</Silver.description>
+
+		<Gold.label>kulta</Gold.label>
+		<Gold.description>Kaikkein viettelevin metalli. Miljoonat ovat kuolleet yrittäessään ruokkia ihmiskunnan loputonta janoa kullalle. Tällä pehmeällä metallilla ei ole itsessään juuri käyttöä, mutta se on häkellyttävän kaunis ja hyvin harvinainen.</Gold.description>
+
+		<Metal.label>metalli</Metal.label>
+		<Metal.description>Monikäyttöinen materiaali rakentamiseen, työkaluille ja aseislle.</Metal.description>
+
+		<Plasteel.label>muoviteräs</Plasteel.label>
+		<Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
+
+		<StoneBlocks.label>kiviharkko</StoneBlocks.label>
+		<StoneBlocks.description>Kovia kivestä tehtyjä harkkoja. Enimmäkseen hyödyllinen erittäin vahvojen ja pitkäisten mutta yksinkertaisten rakennelmien rakentamiseen.</StoneBlocks.description>
+
+		<WoodLog.label>puu</WoodLog.label>
+		<WoodLog.description>Puuta puista ja muista puuvartisista kasveista. Hyödyllinen rakentamiseen, aseissa ja jopa yksinkertaisissa proteeseissa. Puuta voi hätätilassa käyttää aseena.</WoodLog.description>
+
+		<Uranium.label>uraani</Uranium.label>
+		<Uranium.description>Reaktoreiden polttoainetta.</Uranium.description>
+
+		<Cloth.label>kangas</Cloth.label>
+		<Cloth.description>Orgaanisista kuiduista kudottua kangasta.</Cloth.description>
+
+		<Synthread.label>tekokuitu</Synthread.label>
+		<Synthread.description>Avaruusajan synteettinen kangas, joka on suunniteltu tavallisten vaatteiden tekemiseen. Se on pehmeä, kevyt, vahva ja eristää hyvin.</Synthread.description>
+
+		<DevilstrandCloth.label>pirunsäiekangas</DevilstrandCloth.label>
+		<DevilstrandCloth.description>Äärimmäisen vahva kangas, joka on poimittu suoraan silkkiä tuottavista Pirunsäie-sienistä.</DevilstrandCloth.description>
+
+		<Hyperweave.label>hyperkudos</Hyperweave.label>
+		<Hyperweave.description>Huipputeknologisia nanokuituja kankaaksi kudottuna. Se on jokseenkin painava, mutta sitä on uskomattoman vaikea rikkoa.</Hyperweave.description>
+
+		<RawPotatoes.label>perunoita</RawPotatoes.label>
+		<RawPotatoes.description>Raakoja perunoita.</RawPotatoes.description>
+
+		<RawBerries.label>marjoja</RawBerries.label>
+		<RawBerries.description>Sekalaisia marjoja. Mukavia syödä myös raakana.</RawBerries.description>
+
+		<RawAgave.label>agaavehedelmä</RawAgave.label>
+		<RawAgave.description>Raaka agaavehedelmä.</RawAgave.description>
+
+		<Medicine.label>lääkkeitä</Medicine.label>
+		<Medicine.description>Lääkintähenkilökunta käytää näitä tarvikkeita parantaakseen haavoittuneita.</Medicine.description>
+
+		<Shells.label>kranaatteja</Shells.label>
+		<Shells.description>Ammutaan kranaatinheittimistä.</Shells.description>
+
+</LanguageData>
