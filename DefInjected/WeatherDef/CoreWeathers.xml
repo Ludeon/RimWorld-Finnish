@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+		<Clear.label>selkeää</Clear.label>
+		<Clear.description>Kirkas päivä. Ei huomautettavaa.</Clear.description>
+
+		<Fog.label>sumuista</Fog.label>
+		<Fog.description>Sumu pienentää osumatarkkuutta aseilla.</Fog.description>
+
+		<Rain.label>sadetta</Rain.label>
+		<Rain.description>Sade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</Rain.description>
+
+		<DryThunderstorm.label>kuiva ukkosmysky</DryThunderstorm.label>
+		<DryThunderstorm.description>Kuivat ukkosmyrskyt ovat vaarallisia koska salamat voivat sytyttää tulia eikä sadetta ole niitä sammuttamassa.</DryThunderstorm.description>
+
+		<RainyThunderstorm.label>sateinen ukkosmysky</RainyThunderstorm.label>
+		<RainyThunderstorm.description>Salamat sytyttävät tulia, mutta sade sammuttaa ne. Lisäksi sade pienentää osumatarkkuutta aseilla ja hidastaa ihmisiä.</RainyThunderstorm.description>
+
+		<FoggyRain.label>sumuinen sade</FoggyRain.label>
+		<FoggyRain.description>Pienentää osumatarkkuutta ja hidastaa liikkumisnopeutta.</FoggyRain.description>
+
+		<SnowHard.label>kova lumisade</SnowHard.label>
+		<SnowHard.description>Lumisade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</SnowHard.description>
+
+		<SnowGentle.label>kevyt lumisade</SnowGentle.label>
+		<SnowGentle.description>Lumisade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</SnowGentle.description>
+
+</LanguageData>
