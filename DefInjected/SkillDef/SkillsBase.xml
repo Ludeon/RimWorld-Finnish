@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<Construction.skillLabel>Construction</Construction.skillLabel>
-		<Construction.pawnLabel>Constructor</Construction.pawnLabel>
+		<Construction.skillLabel>Rakentaminen</Construction.skillLabel>
+		<Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
 		
-		<Growing.skillLabel>Growing</Growing.skillLabel>
-		<Growing.pawnLabel>Grower</Growing.pawnLabel>
+		<Growing.skillLabel>Viljeleminen</Growing.skillLabel>
+		<Growing.pawnLabel>Viljelijä</Growing.pawnLabel>
 		
-		<Research.skillLabel>Research</Research.skillLabel>
-		<Research.pawnLabel>Researcher</Research.pawnLabel>
+		<Research.skillLabel>Tutkiminen</Research.skillLabel>
+		<Research.pawnLabel>Tutkija</Research.pawnLabel>
 		
-		<Mining.skillLabel>Mining</Mining.skillLabel>
-		<Mining.pawnLabel>Miner</Mining.pawnLabel>
+		<Mining.skillLabel>Louhiminen</Mining.skillLabel>
+		<Mining.pawnLabel>Louhija</Mining.pawnLabel>
 		
-		<Shooting.skillLabel>Shooting</Shooting.skillLabel>
-		<Shooting.pawnLabel>Shooter</Shooting.pawnLabel>
+		<Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
+		<Shooting.pawnLabel>Ampuja</Shooting.pawnLabel>
 		
-		<Melee.skillLabel>Melee</Melee.skillLabel>
-		<Melee.pawnLabel>Brawler</Melee.pawnLabel>
+		<Melee.skillLabel>Lähitaistelu</Melee.skillLabel>
+		<Melee.pawnLabel>Painija</Melee.pawnLabel>
 		
-		<Social.skillLabel>Social</Social.skillLabel>
-		<Social.pawnLabel>Socialite</Social.pawnLabel>
+		<Social.skillLabel>Sosiaalisuus</Social.skillLabel>
+		<Social.pawnLabel>Seurapiirihenkilö</Social.pawnLabel>
 		
-		<Cooking.skillLabel>Cooking</Cooking.skillLabel>
-		<Cooking.pawnLabel>Cook</Cooking.pawnLabel>
+		<Cooking.skillLabel>Ruuanlaitto</Cooking.skillLabel>
+		<Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
 		
-		<Medicine.skillLabel>Medicine</Medicine.skillLabel>
-		<Medicine.pawnLabel>Doctor</Medicine.pawnLabel>
+		<Medicine.skillLabel>Lääkitseminen</Medicine.skillLabel>
+		<Medicine.pawnLabel>Lääkäri</Medicine.pawnLabel>
 		
-		<Artistic.skillLabel>Artistic</Artistic.skillLabel>
-		<Artistic.pawnLabel>Artist</Artistic.pawnLabel>
+		<Artistic.skillLabel>Taiteellisuus</Artistic.skillLabel>
+		<Artistic.pawnLabel>Taiteilija</Artistic.pawnLabel>
 		
-		<Crafting.skillLabel>Crafting</Crafting.skillLabel>
-		<Crafting.pawnLabel>Craftsman</Crafting.pawnLabel>
+		<Crafting.skillLabel>Työskentely käsin</Crafting.skillLabel>
+		<Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
 
 </LanguageData>
