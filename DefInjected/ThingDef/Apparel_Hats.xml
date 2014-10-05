@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+		<Apparel_CowboyHat.label>paimenpoikahattu</Apparel_CowboyHat.label>
+		<Apparel_CowboyHat.description>Tyylikäs mutta karu, tämä hattu pitää auringon ja sateen poissa - ja se antaa käyttälleen vähän lisää viehätystä. Tämä on tärkein osa perinteistä lännkkärivaatetusta.</Apparel_CowboyHat.description>
+
+		<Apparel_PowerArmorHelmet.label>voimahaarniskan kypärä</Apparel_PowerArmorHelmet.label>
+		<Apparel_PowerArmorHelmet.description>Osa voimahaarniskasarjaa, useimmiten raskaan jalkaväen käyttämä.</Apparel_PowerArmorHelmet.description>
+
+		<Apparel_KevlarHelmet.label>kevlar-kypärä</Apparel_KevlarHelmet.label>
+		<Apparel_KevlarHelmet.description>Olennainen osa henkilökohtaista panssaria. Käytetään absorboimaan kranaatin räjähdystä.</Apparel_KevlarHelmet.description>
+
+		<Apparel_MilitaryHelmet.label>sotilaskypärä</Apparel_MilitaryHelmet.label>
+		<Apparel_MilitaryHelmet.description>Vanhan näköinen ja raskas, mutta erittäin hyödyllinen vihollisen hyökkäyksen aikana. Käytetään useimmiten suojaamaan hitailta ammuksilta.</Apparel_MilitaryHelmet.description>
+
+
+
+</LanguageData>
