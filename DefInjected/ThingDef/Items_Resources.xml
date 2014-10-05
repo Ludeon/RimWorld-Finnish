@@ -15,6 +15,7 @@
 
 	<StoneBlocks.label>kiviharkko</StoneBlocks.label>
 	<StoneBlocks.description>Kovia kivestä tehtyjä harkkoja. Enimmäkseen hyödyllinen erittäin vahvojen ja pitkäisten mutta yksinkertaisten rakennelmien rakentamiseen.</StoneBlocks.description>
+	<StoneBlocks.stuffProps.nameAsStuff>kivi</StoneBlocks.stuffProps.nameAsStuff>
 
 	<WoodLog.label>puu</WoodLog.label>
 	<WoodLog.description>Puuta puista ja muista puuvartisista kasveista. Hyödyllinen rakentamiseen, aseissa ja jopa yksinkertaisissa proteeseissa. Puuta voi hätätilassa käyttää aseena.</WoodLog.description>
