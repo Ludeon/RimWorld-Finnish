@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Muffalo.label>hirvibiisoni</Muffalo.label>
+	<Muffalo.description>Suuri laiduntava kasvinsyöjä, joka on syntyisin biisonista ja sopeutunut eksoottiseen ympäristöön. Rauhantahtoinen ellei sitä häiritä.</Muffalo.description>
+
+	<Deer.label>peura</Deer.label>
+	<Deer.description>Keskikokoinen laiduntava kasvinsyöjä. Yleensä rauhantahtoinen ellei sitä häiritä.</Deer.description>
+	<Deer.race.leatherLabel>peurannahka</Deer.race.leatherLabel>
+	<Deer.race.meatLabel>peuranliha</Deer.race.meatLabel>
+
+	<Squirrel.label>orava</Squirrel.label>
+	<Squirrel.description>Yksi monista kätevistä jyrsijälajeista, joka seuraa ihmiskuntaa kaikkialle minne se leviää.</Squirrel.description>
+	<Squirrel.race.leatherLabel>oravannahka</Squirrel.race.leatherLabel>
+
+	<WildBoar.label>villisika</WildBoar.label>
+	<WildBoar.description>Vaikka jotkin kulttuurit pitävät sitä epäpuhtaana, tätä kesytetyn sian karvaista esi-isää pidetään arvossa sen lihan maun takia.</WildBoar.description>
+	<WildBoar.race.leatherLabel>villisiannahka</WildBoar.race.leatherLabel>
+	<WildBoar.race.meatLabel>villisianliha</WildBoar.race.meatLabel>
+
+	<Rhinoceros.label>sarvikuono</Rhinoceros.label>
+	<Rhinoceros.description>Tämä suuri maanisäkäs on tyypillisesti rauhantahtoinen, mutta se ei epäröi rynnätä sarvensa kanssa hätistääkseen tunkeilijoita.</Rhinoceros.description>
+	<Rhinoceros.race.leatherLabel>sarvikuononnahka</Rhinoceros.race.leatherLabel>
+
+	<Dromedary.label>dromedaari</Dromedary.label>
+	<Dromedary.description>Tämä hevosen etäinen sukulainen selviää melkein viikon ilman vettä.</Dromedary.description>
+
+	<Boomrat.label>paukkurotta</Boomrat.label>
+	<Boomrat.description>Nämä jyrsijämäiset oliot tuottavat kuollessaan voimakkaan räjähdyksen joko ihmisen tekemän geneettisen aseistamisen tai epätavallisen puolustusmekansimin takia.</Boomrat.description>
+
+	<Iguana.label>iguaani</Iguana.label>
+	<Iguana.description>Nämä suuret liskot syövät tavallisesti kasveja, mutta suututettuina niiden vahva nahka ja terävät kynnet tekevät niistä varsin vaarallisia.</Iguana.description>
+	<Iguana.race.leatherLabel>iguaaninnahka</Iguana.race.leatherLabel>
+
+	<Megascarab.label>jättipillerinpyörittäjä</Megascarab.label>
+	<Megascarab.description>Suuri, geneettisesti muokattu kovakuoriainen. Ne olivat alunperin työläisiä mekanoidihyökkäyksiä torjumaan suunnitellussa ekosysteemissä, mutta nykyään niitä nähdään useimmiten ilman kuollettavampia serkkujaan. Siitä huolimatta sen koko ja kova kuori tekevät siitä vaarallisen sen hyökätessä.</Megascarab.description>
+	<Megascarab.race.meatLabel>siittiäisenliha</Megascarab.race.meatLabel>
+
+	<Tortoise.label>kilpikonna</Tortoise.label>
+	<Tortoise.description>Tämä raskaasti panssaroitu matelija on tunnettu hitaasta nopeudestaan ja yllättävän rajusta puremastaan.</Tortoise.description>
+
+	<Cobra.label>kobra</Cobra.label>
+	<Cobra.description>Suuri käärme. Kobrat ovat hyvin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olioista.</Cobra.description>
+	<Cobra.race.leatherLabel>kobrannahka</Cobra.race.leatherLabel>
+	<Cobra.race.meatLabel>kobranliha</Cobra.race.meatLabel>
+
+	<Monkey.label>apina</Monkey.label>
+	<Monkey.description>Tämä apina voi käyttää kippuraista häntäänsä tarttuakseen puunoksiin jättäen kätensä vapaiksi tekemään muita toimia.</Monkey.description>
+	<Monkey.race.leatherLabel>apinannahka</Monkey.race.leatherLabel>
+
+</LanguageData>

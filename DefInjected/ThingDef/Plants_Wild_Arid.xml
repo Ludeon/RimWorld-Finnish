@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantAgave.label>agaave</PlantAgave.label>
+	<PlantAgave.description>Suurilehtinen aavikkokasvi, jonka kukat ja varret ovat syötäviä.</PlantAgave.description>
+
+	<PlantSaguaroCactus.label>jättikaktus</PlantSaguaroCactus.label>
+	<PlantSaguaroCactus.description>Suuri kaktus, joka on kuivien alueiden asukas.</PlantSaguaroCactus.description>
+
+	<PlantPincushionCactus.label>neulatyynykaktus</PlantPincushionCactus.label>
+	<PlantPincushionCactus.description>Lyhyt kaktus, nimensä mukaisesti muistuttaa neulatyynyä.</PlantPincushionCactus.description>	
+
+</LanguageData>

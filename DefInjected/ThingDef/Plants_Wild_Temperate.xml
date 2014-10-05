@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantRaspberry.label>vadelmapensas</PlantRaspberry.label>
+	<PlantRaspberry.description>Tuuhea pensas, joka tuottaa herkullisia punaisia marjoja.</PlantRaspberry.description>
+
+	<PlantBush.label>pensas</PlantBush.label>
+	<PlantBush.description>Lyhyt varpu.</PlantBush.description>
+
+	<PlantGrass.label>ruohoa</PlantGrass.label>
+	<PlantGrass.description>Villiä ruohoa. Kasvaa kaikkialla missä on valoa ja hädin tuskin hedelmällistä maata.</PlantGrass.description>
+
+	<PlantDandelion.label>voikukkia</PlantDandelion.label>
+	<PlantDandelion.description>Yleinen pieni kukka. Vaikka sitä pidetään usein rikkakasvina sen lisääntymiskyvyn takia sitä on miellyttävä katsoa.</PlantDandelion.description>
+
+	<PlantTreeOak.label>tammi</PlantTreeOak.label>
+	<PlantTreeOak.description>Vahva kovapuu. Hitaasti kasvava, mutta sen puu on hyvin lujaa.</PlantTreeOak.description>
+
+	<PlantTreePoplar.label>poppeli</PlantTreePoplar.label>
+	<PlantTreePoplar.description>Pehmeä puulaji. Kasvaa nopeasti, mutta sen puu ei ole kovin kovaa.</PlantTreePoplar.description>
+
+</LanguageData>

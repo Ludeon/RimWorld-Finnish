@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Bullet_MortarIncendiary.label>palopomminheitiimen kranaatti</Bullet_MortarIncendiary.label>
+
+	<Artillery_MortarIncendiary.label>palopomminheitin</Artillery_MortarIncendiary.label>
+	<Artillery_MortarIncendiary.description>Palopomminheittimen laukaisinosa. Heittää tulipaloja sytyttäviä pommeja seinien yli. Hyvin epätarkka mutta kauaskantoinen.</Artillery_MortarIncendiary.description>
+
+	<Bullet_MortarBomb.label>kranaatinheitiimen kranaatti</Bullet_MortarBomb.label>
+
+	<Artillery_MortarBomb.label>kranaatinheitin</Artillery_MortarBomb.label>
+	<Artillery_MortarBomb.description>Kranaatiheittimen laukaisinosa. Heittää kranaatteja seinien yli. Hyvin epätarkka mutta kauaskantoinen.</Artillery_MortarBomb.description>
+
+	<Bullet_MortarEMP.label>EMP-kranaatinheitiimen kranaatti</Bullet_MortarEMP.label>
+
+	<Artillery_MortarEMP.label>EMP-kranaatinheitin</Artillery_MortarEMP.label>
+	<Artillery_MortarEMP.description>EMP-kranaatinheittimen laukaisinosa. Heittää EMP-kranaatteja seinien yli. Hyvin epätarkka mutta kauaskantoinen.</Artillery_MortarEMP.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MeleeWeapon_ShortSword.label>miekka</MeleeWeapon_ShortSword.label>
+	<MeleeWeapon_ShortSword.description>Luotettava ja kuollettava lähitaistelussa.</MeleeWeapon_ShortSword.description>
+
+	<MeleeWeapon_Knife.label>veitsi</MeleeWeapon_Knife.label>
+	<MeleeWeapon_Knife.description>Yksinkertainen veitsi.</MeleeWeapon_Knife.description>
+
+	<MeleeWeapon_Shiv.label>improvisoitu veitsi</MeleeWeapon_Shiv.label>
+	<MeleeWeapon_Shiv.description>Improvisoitu veitsen tapainen ase.</MeleeWeapon_Shiv.description>
+
+	<MeleeWeapon_Spear.label>keihäs</MeleeWeapon_Spear.label>
+	<MeleeWeapon_Spear.description>Pitkävartinen lyömäase, jonka kärjessä on terävä piikki vihollisten pistämiseen lähitaistelussa.</MeleeWeapon_Spear.description>
+
+	<MeleeWeapon_Club.label>nuija</MeleeWeapon_Club.label>
+	<MeleeWeapon_Club.description>Vanhin ihmisase - muotoiltu puupalanen vihollisten hakkaamiseksi kuoliaaksi. Alkukantainen mutta tehokas.</MeleeWeapon_Club.description>
+
+</LanguageData>

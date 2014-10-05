@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantTallGrass.label>heinikko</PlantTallGrass.label>
+	<PlantTallGrass.description>Villiä heinikkoa.</PlantTallGrass.description>
+
+	<PlantTreeCecropia.label>muurahaispuu</PlantTreeCecropia.label>
+	<PlantTreeCecropia.description>Yksi sademetsien yleisimmistä puulajeista. Kasvaa erittäin nopeasti.</PlantTreeCecropia.description>
+
+</LanguageData>
