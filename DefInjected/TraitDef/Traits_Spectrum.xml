@@ -135,11 +135,11 @@
 		<trans>NAME on hieman laiska.</trans>
 	</rep>
 	<rep>
-		<path>Industriousness.degreeDatas[2].label</path>
+		<path>Industriousness.degreeDatas[3].label</path>
 		<trans>veltto</trans>
 	</rep>
 	<rep>
-		<path>Industriousness.degreeDatas[2].description</path>
+		<path>Industriousness.degreeDatas[3].description</path>
 		<trans>NAME rakastaa joutenoloa ja vihaa kaikkea tuottavaa. HECAP liikkuu verkkaisesti ja pysyy harvoin keskittyneenä tehtävään.</trans>
 	</rep>
 

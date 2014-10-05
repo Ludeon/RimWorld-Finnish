@@ -38,15 +38,6 @@
 	</rep>
 
 	<rep>
-		<path>Cannibal.degreeDatas[0].label</path>
-		<trans>kannibaali</trans>
-	</rep>
-	<rep>
-		<path>Cannibal.degreeDatas[0].description</path>
-		<trans>NAME kasvoi ajatellen että ihmislihan syöminen on väärin ja kamalaa, mutta kerran kauan sitten HE kokeili sitä... ja HE piti siitä.</trans>
-	</rep>
-
-	<rep>
 		<path>Abrasive.degreeDatas[0].label</path>
 		<trans>töykeä</trans>
 	</rep>
