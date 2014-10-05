@@ -3,17 +3,17 @@
   
 
   <!-- Tab titles -->
-  <WorkTab>Työ</WorkTab>
+  <WorkTab>Työnteko</WorkTab>
   <FactionsTab>Ryhmät</FactionsTab>
   <StatisticsTab>Tilastot</StatisticsTab>
   <HistoryTab>Historia</HistoryTab>
   <WorldTab>Maailma</WorldTab>
 
   <!-- Work tab -->
-  <ManualPriorities>Manuaalinen tärkeyden säätö</ManualPriorities>
+  <ManualPriorities>Säädä tärkeyksiä</ManualPriorities>
   <HigherPriority>Tärkeämpi</HigherPriority>
-  <LowerPriority>Vähemmän tärkeämpi</LowerPriority>
-  <RelevantSkills>Olennainen taito: {0}\nOlennaisten taitojen keskiarvo: {1} / {2}</RelevantSkills>
+  <LowerPriority>Vähemmän tärkeä</LowerPriority>
+  <RelevantSkills>Tähän kuuluva taito: {0}\nTähän kuuluvien taitojen keskiarvo: {1} / {2}</RelevantSkills>
   <ClickToJumpTo>Klikkaa siirtyäksesi:</ClickToJumpTo>
   <CannotDoThisWork>{0} ei voi tehdä tätä työtä.</CannotDoThisWork>
   <NoneBrackets>(ei mitään)</NoneBrackets>
@@ -28,8 +28,8 @@
   <!-- Statistics tab -->
   <Storyteller>Tarinankertoja</Storyteller>
   <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
-  <ColonyWealthItems>Yhdyskunnan varallisuus (esineitä)</ColonyWealthItems>
-  <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennukset)</ColonyWealthBuildings>
+  <ColonyWealthItems>Yhdyskunnan varallisuus (esineissä)</ColonyWealthItems>
+  <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennuksissa)</ColonyWealthBuildings>
   <NumBigThreats>Merkkittävät vaarat</NumBigThreats>
   <NumEnemyRaids>Vihollisten tekemät hyökkäykset</NumEnemyRaids>
   <DamageTaken>Otettu vahinko</DamageTaken>

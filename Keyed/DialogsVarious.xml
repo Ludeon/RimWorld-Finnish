@@ -81,7 +81,7 @@
   <DoForever>Tee loputtomiin</DoForever>
   <BillRepeatTargetCountShort>{0} asti</BillRepeatTargetCountShort>
   <BillStoreMode_DropOnFloor>Jätä lattialle</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Vie parhaiten sopivaan varastoon</BillStoreMode_BestStockpile>
+  <BillStoreMode_BestStockpile>Vie tärkeimpään varastoon</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
   
   <!-- Def Card -->

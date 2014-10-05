@@ -47,5 +47,11 @@
   <MessageMustDesignatePlants>Pitää määrittää kasveja.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Pitää määrittää siirrettäviä tavaroita.</MessageMustDesignateHaulable>
   
+  <MessageNoMedicalBeds>Lääkisemiseen varattuja sänkyjä ei ole yhtään saatavilla.</MessageNoMedicalBeds>
   
+  <PawnDiedBecauseOf>{0} kuoli. Syy: {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} ei pysty enää kävelemään.</MessageNoLongerDowned>
+  
+
 </LanguageData>

@@ -5,17 +5,17 @@
   <WorkTagIntellectual>Älyllinen</WorkTagIntellectual>
   <WorkTagManualDumb>Raskas työ</WorkTagManualDumb>
   <WorkTagManualSkilled>Ammattitaitoinen työ</WorkTagManualSkilled>
-  <WorkTagViolent>Väkivaltaisuus</WorkTagViolent>
+  <WorkTagViolent>Väkivaltainen</WorkTagViolent>
   <WorkTagCaring>Välittäminen</WorkTagCaring>
   <WorkTagSocial>Sosiaalinen</WorkTagSocial>
   <WorkTagScary>Pelottava</WorkTagScary>
   <WorkTagArtistic>Taiteellinen</WorkTagArtistic>
-  <WorkTagCrafting>Luova</WorkTagCrafting>
-  <WorkTagCooking>Kokkaaminen</WorkTagCooking>
+  <WorkTagCrafting>Käsityöt</WorkTagCrafting>
+  <WorkTagCooking>Ruuanlaitto</WorkTagCooking>
   <WorkTagFirefighting>Palontorjunta</WorkTagFirefighting>
   <WorkTagCleaning>Siivous</WorkTagCleaning>
   <WorkTagHauling>Rahtaaminen</WorkTagHauling>
   <WorkTagPlantWork>Kasvityö</WorkTagPlantWork>
-  <WorkTagMining>Kaivostyö</WorkTagMining>
+  <WorkTagMining>Louhimistyö</WorkTagMining>
 
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <JumpToLocation>Jump to location</JumpToLocation>
+  <JumpToLocation>Hyppää sijaintiin</JumpToLocation>
 
-  <RelationsBrokenDown>Suhteesi {0}:een ovat tulehtuneet. He ovat nyt vihamielisiä sinua kohtaan.</RelationsBrokenDown>
-  <RelationsWarmed>Suhteesi {0}:een ovat lämmenneet. He eivät ole enää vihamielisiä sinua kohtaan.</RelationsWarmed>
+  <RelationsBrokenDown>Suhteesi ryhmän {0} kanssa ovat tulehtuneet. He ovat nyt vihamielisiä sinua kohtaan.</RelationsBrokenDown>
+  <RelationsWarmed>Suhteesi ryhmän {0} kanssa  ovat lämmenneet. He eivät ole enää vihamielisiä sinua kohtaan.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Koska vangitsit {0}:n, {1} on nyt vihollisesi.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Koska kaappasit henkilön {0}, {1} on nyt vihollisesi.</RelationsBrokenCapture>
 
   <ColonyGoodwill>Yhdyskunnan suosio</ColonyGoodwill>
   <Neutral>Neutraali</Neutral>
@@ -24,6 +24,11 @@
 
   <RecruitSuccess>{0} onnistuneesti värväsi {1}:n ({2} mahdollisuus).</RecruitSuccess>
   <RecruitFail>{0} epäonnistui värväämään {1}:n ({2} mahdollisuus).</RecruitFail>
+
+  <Birthday>Tänään on henkilön {0} syntymäpäivä! {1} täytti juuri {2}.</Birthday>
+  <BirthdayWithInjuries>Tänään on henkilön {0} syntymäpäivä! {1} täytti juuri {2}.\n\nValitettavasti {0} sai seuraavat taudit vanhenemisen myötä:\n{3}</BirthdayWithInjuries>
   
+  <NewDisease>{0} tuli sairaaksi ({1}). Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewDisease>
+  <NewPartDisease>{0} sai {1}-tartunnan. Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewPartDisease>
   
 </LanguageData>

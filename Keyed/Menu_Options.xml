@@ -2,40 +2,40 @@
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audiovisuaaliset</Audiovisuals>
-  <GameVolume>Peliäänet</GameVolume>
-  <MusicVolume>Musiikin äänet</MusicVolume>
+  <Audiovisuals>Äänet ja kuva</Audiovisuals>
+  <GameVolume>Peliäänien voimakkuus</GameVolume>
+  <MusicVolume>Musiikin voimakkuus</MusicVolume>
   <GraphicsQuality>Grafiikoiden laatu</GraphicsQuality>
   <GraphicsQualityNormal>Normaali</GraphicsQualityNormal>
   <GraphicsQualityGreat>Mahtava</GraphicsQualityGreat>
 
   
   <!-- Gameplay -->
-  <EdgeScreenScroll>Liikuta kameraa hiirellä</EdgeScreenScroll>
+  <EdgeScreenScroll>Liikuta kameraa automaat.</EdgeScreenScroll>
   <CustomCursor>Erikoiskursori</CustomCursor>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
   <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
-  <RunInBackground>Suorita taustalla</RunInBackground>
+  <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
   <DevelopmentMode>Kehitystila</DevelopmentMode>
   <LogDeepProfileData>Kirjaa syviä profiilitietoja</LogDeepProfileData>
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Henkilöiden sukunimet jotka haluat nähdä pelissä tai taustatarinassa:</NamesYouWantToSee>
+  <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen sukunimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   
   <!-- Resolution -->
   <Resolution>Resoluutio</Resolution>
   <Fullscreen>Koko näytön tila</Fullscreen>
-  <CurrentRes>Tämänhetkinen {0}</CurrentRes>
+  <CurrentRes>Nykyinen on {0}</CurrentRes>
   <ChooseResolution>Valitse resoluutio</ChooseResolution>
 
   
   <!-- Privacy-->
   <Privacy>Yksityisyys</Privacy>
   <UserName>Käyttäjänimi</UserName>
-  <ChooseHistoryUploadPref>Salli pelitietojen lähetys.</ChooseHistoryUploadPref>
+  <ChooseHistoryUploadPref>Salli pelitietojen lähetys</ChooseHistoryUploadPref>
   <CurrentHistoryUploadPref>Tällä hetkellä: {0}</CurrentHistoryUploadPref>
-  <AboutHistoryUpload>Käyttäjien pelattavuustiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään joka {0}:s pelipäivä (ja joissain harvoissa tapauksissa, kuten peli lopussa) RimWorldin servereille ja sitten analysoidaan. Lähetetty pelattavuusdata rakentuu vain tilastoista ja historiasta liittyen peliin - mitään henkilökohtaisia tietoja ei lähetetä, lukuunottamatta käyttäjänimeä, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
+  <AboutHistoryUpload>Käyttäjien pelaamistiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään {0} pelissä kuluvan päivän välein (ja joissain harvoissa tapauksissa, kuten peli lopussa) RimWorldin palvelimille analysoitavaksi. Lähetetyt pelaamistiedot koostuvat vain tilastoista ja historiasta peliin liittyen - mitään henkilökohtaisia tietoja ei lähetetä, antamaasi käyttäjänimeä lukuunottamatta, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
   
 </LanguageData>

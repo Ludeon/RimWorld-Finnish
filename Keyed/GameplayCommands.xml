@@ -84,4 +84,9 @@
   <CommandPodEjectDesc>Herätä kryptonukkuja ja poista heidät aluksesta.</CommandPodEjectDesc>
   <CommandPodEjectFailEmpty>Ei sisällä ketään.</CommandPodEjectFailEmpty>
 
+  <!-- Door -->
+  <CommandToggleDoorLock>Vaihda lukon tila</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Lukitse tai avaa oven lukko. Lukitut ovet eivät avaudu kenellekään.</CommandToggleDoorLockDesc>
+
+
 </LanguageData>

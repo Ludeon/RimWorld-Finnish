@@ -17,19 +17,28 @@
 
   <VersionIndicator>Versio {0}</VersionIndicator>
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
-  <CompiledOn>Viimeistelty {0}</CompiledOn>
+  <CompiledOn>Laadittu {0}</CompiledOn>
 
-	<MeatLabel>{0} liha</MeatLabel>
-  <MeatDesc>{0}n raakaa lihaa.</MeatDesc>
+	<MeatLabel>{0} lihaa</MeatLabel>
+  <MeatDesc>Raakaa lihaa oliosta {0}.</MeatDesc>
+
+  <LeatherLabel>{0} nahka</LeatherLabel>
+  <LeatherDesc>Nahka joka on tehty oliosta {0}.</LeatherDesc>
 
 	<CorpseLabel>{0} ruumis</CorpseLabel>
-	<CorpseDesc>{0}n ruumis.</CorpseDesc>
+	<CorpseDesc>{0} ruumis.</CorpseDesc>
+  <DeadLabel>{0} (kuollut)</DeadLabel>
 
 
 	<BlueprintLabelExtra> (piirrustus)</BlueprintLabelExtra>
   <FrameLabelExtra> (piirrustus)</FrameLabelExtra>
   
-  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(various)</VariousLabel>
+
   <!-- History events -->
   <ColonistDied>Yhdyskuntalainen kuoli</ColonistDied>
   

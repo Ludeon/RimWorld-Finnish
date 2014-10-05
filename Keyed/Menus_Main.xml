@@ -86,7 +86,8 @@
   <WorldRenderModeFertility>Hedelmällisyys</WorldRenderModeFertility>
   <WorldRenderModeRainfall>Sademäärä</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Biomi</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Biomia ei ole liitetty peliin</BiomeNotImplemented>
+  <BiomeNotImplemented> on vielä toteuutamatta pelissä</BiomeNotImplemented>
+  <BaseAlreadyThere>Ryhmällä {0} on jo tukikohta tässä.</BaseAlreadyThere>
   <Biome>Biomi</Biome>
   <Terrain>Maasto</Terrain>
   <Elevation>Korkeus</Elevation>
@@ -97,7 +98,7 @@
   <HasCoast1>Itärannikko</HasCoast1>
   <HasCoast2>Etelärannikko</HasCoast2>
   <HasCoast3>Länsirannikko</HasCoast3>
-
+  <FactionBase>Tukikohta</FactionBase>
 
 
   <!--=========== Character chooser ==========-->
@@ -108,15 +109,17 @@
   <Randomize>Satunnaista</Randomize>
   <AgeIndicator>ikä: {0}</AgeIndicator>
   <Backstory>Tausta</Backstory>
-  <IncapableOf>Kykenemätön</IncapableOf>
-  <Traits>Kyvyt</Traits>
+  <IncapableOf>Kykenemätön toimiin</IncapableOf>
+  <Traits>Luonteenpiirteet</Traits>
   <TraitsDoNothing>Kyvyt ovat tällä hetkellä vain hauskoja tarinan palasia; useimmat niistä eivät tee mitään. Tämä tulee muuttumaan tulevissa versioissa.</TraitsDoNothing>
+  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
   <Skills>Taidot</Skills>
   <NoneLower>ei mitään</NoneLower>
   <Adulthood>Aikuisuus</Adulthood>
   <Childhood>Lapsuus</Childhood>
   <Male>Uros</Male>
   <Female>Naaras</Female>
+  <Pain>Kipu</Pain>
   
   
   <!--=========== Misc ==========-->
