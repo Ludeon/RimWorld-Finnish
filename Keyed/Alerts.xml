@@ -102,11 +102,11 @@
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
 
-  <ColonistsAwaitingMedicalOperation>{0} siirtokuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>Nämä siirtokuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>
+  <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperationDesc>Nämä yhdyskuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>
 
   <PawnsWithLifeThreateningDisease>Vakavia sairauksia</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Nämä siirtokuntalaiset ovat hengenvaarassa vakavien sairauksien vuoksi:\n\n{0}\nVarmista, että he saavat niin paljon lääkitystä kuin mahdollista.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Nämä siirtokuntalaiset ovat hengenvaarassa vakavien sairauksien vuoksi:\n\n{0}\nJos mahdollista, harkitse tartunnan saaneiden raajojen amputoimista tai korvaamista siirtokuntalaisten hengissä pitämiseksi.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Nämä yhdyskuntalaiset ovat hengenvaarassa vakavien sairauksien vuoksi:\n\n{0}\nVarmista, että he saavat niin paljon lääkitystä kuin mahdollista.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Nämä yhdyskuntalaiset ovat hengenvaarassa vakavien sairauksien vuoksi:\n\n{0}\nJos mahdollista, harkitse tartunnan saaneiden raajojen amputoimista tai korvaamista yhdyskuntalaisten hengissä pitämiseksi.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
 </LanguageData>
