@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>Nudist.degreeDatas[0].label</path>
+		<trans>nudisti</trans>
+	</rep>
+	<rep>
+		<path>Nudist.degreeDatas[0].description</path>
+		<trans>NAME nauttii alastomuuden tuomasta vapauden tunteesta. HECAP voi pitää yllään vaatteita, mutta on onnellisempi ilman niitä.</trans>
+	</rep>
+
+	<rep>
+		<path>Bloodlust.degreeDatas[0].label</path>
+		<trans>verenhimoinen</trans>
+	</rep>
+	<rep>
+		<path>Bloodlust.degreeDatas[0].description</path>
+		<trans>NAME innostuu ihmisten satuttamisesta ja ei välitä veren tai kuoleman näkemisestä.</trans>
+	</rep>
+
+	<rep>
+		<path>Psychopath.degreeDatas[0].label</path>
+		<trans>psykopaatti</trans>
+	</rep>
+	<rep>
+		<path>Psychopath.degreeDatas[0].description</path>
+		<trans>NAME has no empathy. Muiden kärsiminen ei vaivaa HIM yhtään. HECAP ei välitä jos muita teurastetaan, jätetään hautaamatta, vangitaan tai myydään orjiksi - ellei HIM ole kyseessä. HECAP ei myöskään saa mielialan kohennusta muiden kanssa keskustelusta.</trans>
+	</rep>
+
+	<rep>
+		<path>Cannibal.degreeDatas[0].label</path>
+		<trans>kannibaali</trans>
+	</rep>
+	<rep>
+		<path>Cannibal.degreeDatas[0].description</path>
+		<trans>NAME kasvoi ajatellen että ihmislihan syöminen on väärin ja kamalaa, mutta kerran kauan sitten HE kokeili sitä... ja HE piti siitä.</trans>
+	</rep>
+
+	<rep>
+		<path>Abrasive.degreeDatas[0].label</path>
+		<trans>töykeä</trans>
+	</rep>
+	<rep>
+		<path>Abrasive.degreeDatas[0].description</path>
+		<trans>NAME sanoo aina juuri sen mitä HE ajattelee, varsinkin jos se vaivaa HIM. Sillä on tapana ärsyttää ihmisiä.</trans>
+	</rep>
+
+	<rep>
+		<path>TriggerHappy.degreeDatas[0].label</path>
+		<trans>liipaisinherkkä</trans>
+	</rep>
+	<rep>
+		<path>TriggerHappy.degreeDatas[0].description</path>
+		<trans>Pau! Pau! Pau! NAME on surkea tähtäämään, mutta HE ei välitä, koska aseet ovat mahtavia!</trans>
+	</rep>
+
+	<rep>
+		<path>CarefulShooter.degreeDatas[0].label</path>
+		<trans>huolellinen ampuja</trans>
+	</rep>
+	<rep>
+		<path>CarefulShooter.degreeDatas[0].description</path>
+		<trans>NAME on hyvä tähtäämään, mutta HE tarvitsee enemmän aikaa keskittyäkseen kohteeseensa.</trans>
+	</rep>
+
+	<rep>
+		<path>TooSmart.degreeDatas[0].label</path>
+		<trans>yltiöviisas</trans>
+	</rep>
+	<rep>
+		<path>TooSmart.degreeDatas[0].description</path>
+		<trans>NAME liian varma omaan älykkyyteensä. HECAP oppii kaiken muita nopeammin, mutta HE voi olla omintakeinen.</trans>
+	</rep>
+
+	<rep>
+		<path>Brawler.degreeDatas[0].label</path>
+		<trans>painija</trans>
+	</rep>
+	<rep>
+		<path>Brawler.degreeDatas[0].description</path>
+		<trans>NAME pitää lähitaistelusta. HISCAP osumatarkkuutensa on paljon suurempi käsitaistelussa, mutta HE tulee pahalle mielelle jos HE joutuu kantamaan pyssyä.</trans>
+	</rep>
+
+	<rep>
+		<path>Masochist.degreeDatas[0].label</path>
+		<trans>masokisti</trans>
+	</rep>
+	<rep>
+		<path>Masochist.degreeDatas[0].description</path>
+		<trans>NAME pitää itsensä satuttamisen tuomasta jännityksestä. HECAP ei tiedä miksi, HIS ajatuksenkulkunsa vain on erilainen.</trans>
+	</rep>
+
+	<rep>
+		<path>Prosthophile.degreeDatas[0].label</path>
+		<trans>Proteesimyönteinen</trans>
+	</rep>
+	<rep>
+		<path>Prosthophile.degreeDatas[0].description</path>
+		<trans>NAME tuntee itsensä rajoittuneeksi HIS heikossa ihmisruumiissaan. HECAP unelmoi usein kehonsa parantelemisesta bioelektrisillä osilla.</trans>
+	</rep>
+
+	<rep>
+		<path>Prosthophobe.degreeDatas[0].label</path>
+		<trans>Proteesikielteinen</trans>
+	</rep>
+	<rep>
+		<path>Prosthophobe.degreeDatas[0].description</path>
+		<trans>NAME uskoo, että ihmisruumis on tarkoituksella rajoitteinen. HIS mielestä bioelektriset ruumiinosat ovat epäeettisiä.</trans>
+	</rep>
+
+	<rep>
+		<path>GreenThumb.degreeDatas[0].label</path>
+		<trans>Viherpeukalo</trans>
+	</rep>
+	<rep>
+		<path>GreenThumb.degreeDatas[0].description</path>
+		<trans>NAME pitää puutarhanhoidosta. HISCAP mielialansa kohenee jokaisen istutetun kasvin myötä.</trans>
+	</rep>
+
+</LanguageData>
