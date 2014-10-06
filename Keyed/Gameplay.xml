@@ -204,15 +204,15 @@
   <StoragePriorityCritical>Kriittinen</StoragePriorityCritical>
 
   <!-- Meal -->
-  <TimeToSpoil>Menee vanhaksi{0}:ssä</TimeToSpoil>
+  <TimeToSpoil>Säilyy syömäkelpoisena vielä {0}</TimeToSpoil>
   <Ingredients>Ainekset</Ingredients>
 
   <!-- Plants -->
-  <PercentGrowth>{0}%:n kasvu</PercentGrowth>
+  <PercentGrowth>{0}-prosenttisesti kasvanut</PercentGrowth>
   <Growing>Kasvaa</Growing>
-  <NotGrowingNow>Ei kasva nyt (pitää olla {0}).</NotGrowingNow>
+  <NotGrowingNow>Ei kasva nyt (täytyy olla {0}).</NotGrowingNow>
   <NotGrowingNowNight>Ei kasva nyt (yöaika).</NotGrowingNowNight>
-  <FullyGrownIn>Täysin kasvanut {0}:ssä.</FullyGrownIn>
+  <FullyGrownIn>Tulee olemaan täysikasvuinen kasvettuaan {0}.</FullyGrownIn>
   <ReadyToHarvest>Valmis kerättäväksi.</ReadyToHarvest>
   <Mature>Kypsä.</Mature>
   <SeedLabel>{0} siemen</SeedLabel>
