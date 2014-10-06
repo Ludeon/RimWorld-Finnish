@@ -34,7 +34,7 @@
   <BuildARoom>Rakenna huone</BuildARoom>
   <BuildARoomDesc>Huone koostuu erillisistä seinistä ja ovesta.\n\nKäytä ARKKITEHTI valikkoa ruudun vasemmassa alakulmassa määrittääksesi mihin haluat rakentaa asioita. Kun olet määrittänyt jotain rakennettavaksi, yhdyskuntalaisesi rakentavat sen kun he voivat.</BuildARoomDesc>
 
-  <NeedGrowingZone>Tarvitset kasvatusalueen</NeedGrowingZone>
+  <NeedGrowingZone>Tarvitset pellon</NeedGrowingZone>
   <NeedGrowingZoneDesc>Et ole määrittänyt kasvatusaluetta.\n\nAseta kasvatusalue hedelmälliselle maalle ARKKITEHTI valikosta.</NeedGrowingZoneDesc>
 
   <NeedDefenses>Tarvitset puollustuksia</NeedDefenses>
