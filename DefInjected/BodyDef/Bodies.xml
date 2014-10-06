@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Human.label>Ihmisen</Human.label>
+
+	<QuadrupedAnimalWithPaws.label>nelijalkaisen eläimen</QuadrupedAnimalWithPaws.label>
+
+	<QuadrupedAnimalWithPawsAndTail.label>nelijalkaisen eläimen</QuadrupedAnimalWithPawsAndTail.label>
+
+	<QuadrupedAnimalWithHooves.label>nelijalkaisen eläimen</QuadrupedAnimalWithHooves.label>
+
+	<QuadrupedAnimalWithHoovesAndHump.label>nelijalkaisen eläimen</QuadrupedAnimalWithHoovesAndHump.label>
+
+	<QuadrupedAnimalWithHoovesAndTusks.label>nelijalkaisen eläimen</QuadrupedAnimalWithHoovesAndTusks.label>
+
+	<QuadrupedAnimalWithHoovesAndHorn.label>nelijalkaisen eläimen</QuadrupedAnimalWithHoovesAndHorn.label>
+
+	<QuadrupedAnimalWithClawsTailAndJowl.label>nelijalkaisen eläimen</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+	<BeetleLike.label>koppakuoriasmaisen olion</BeetleLike.label>
+
+	<TurtleLike.label>kilpikonnamaisen olion</TurtleLike.label>
+
+	<MechanicalCentipede.label>mekaanisen tuhatjalkaisen</MechanicalCentipede.label>
+
+	<Mechanoid.label>mekanoidin</Mechanoid.label>
+
+	<Snake.label>käärmeen</Snake.label>
+
+	<Monkey.label>apinan</Monkey.label>
+
+</LanguageData>
