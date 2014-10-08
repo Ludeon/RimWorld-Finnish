@@ -86,7 +86,7 @@
   <WorldRenderModeFertility>Hedelmällisyys</WorldRenderModeFertility>
   <WorldRenderModeRainfall>Sademäärä</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Biomi</WorldRenderModeBiomes>
-  <BiomeNotImplemented> on vielä toteuutamatta pelissä</BiomeNotImplemented>
+  <BiomeNotImplemented> on vielä toteuttamatta pelissä</BiomeNotImplemented>
   <BaseAlreadyThere>Ryhmällä {0} on jo tukikohta tässä.</BaseAlreadyThere>
   <Biome>Biomi</Biome>
   <Terrain>Maasto</Terrain>
