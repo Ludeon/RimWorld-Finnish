@@ -28,9 +28,9 @@
   <!-- Statistics tab -->
   <Storyteller>Tarinankertoja</Storyteller>
   <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
-  <ColonyWealthItems>Yhdyskunnan varallisuus (esineissä)</ColonyWealthItems>
-  <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennuksissa)</ColonyWealthBuildings>
-  <NumBigThreats>Merkkittävät vaarat</NumBigThreats>
+  <ColonyWealthItems>Yhdyskunnan varallisuus (esineistä)</ColonyWealthItems>
+  <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennuksista)</ColonyWealthBuildings>
+  <NumThreatBigs>Merkkittäviä uhkia</NumThreatBigs>
   <NumEnemyRaids>Vihollisten tekemät hyökkäykset</NumEnemyRaids>
   <DamageTaken>Otettu vahinko</DamageTaken>
   <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
