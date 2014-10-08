@@ -4,10 +4,10 @@
 	<Cut.label>viilto</Cut.label>
 	<Cut.deathMessage>{0} leikattiin kuoliaaksi.</Cut.deathMessage>
 
-	<Crush.label>ruhje</Crush.label>
+	<Crush.label>murskaus</Crush.label>
 	<Crush.deathMessage>{0} murskattiin kuoliaaksi.</Crush.deathMessage>
 
-	<Blunt.label>tylppä</Blunt.label>
+	<Blunt.label>ruhje</Blunt.label>
 	<Blunt.deathMessage>{0} hakattiin kuoliaaksi.</Blunt.deathMessage>
 
 	<Stab.label>pisto</Stab.label>
@@ -26,25 +26,25 @@
 	<Bite.deathMessage>{0} purettiin kuoliaaksi.</Bite.deathMessage>
 
 	<Bomb.label>räjähdys</Bomb.label>
-	<Bomb.deathMessage>{0} kuoli räjähdyksessä.</Bomb.deathMessage>
+	<Bomb.deathMessage>{0} kuoli räjähdykseen.</Bomb.deathMessage>
 
 	<Flame.label>liekki</Flame.label>
 	<Flame.deathMessage>{0} paloi kuoliaaksi.</Flame.deathMessage>
 
 	<SurgicalCut.label>kirurginen viilto</SurgicalCut.label>
-	<SurgicalCut.deathMessage>{0} kuoli kirurgiassa.</SurgicalCut.deathMessage>
+	<SurgicalCut.deathMessage>{0} kuoli kirurgiaan.</SurgicalCut.deathMessage>
 
 	<Stun.label>tyrmäys</Stun.label>
 	<Stun.deathMessage>{0} tyrmättiin kuoliaaksi.</Stun.deathMessage>
 
 	<EMP.label>EMP</EMP.label>
-	<EMP.deathMessage>{0} kuoli sähkömagneettisessa pulssissa.</EMP.deathMessage>
+	<EMP.deathMessage>{0} kuoli sähkömagneettiseen pulssiin.</EMP.deathMessage>
 
 	<Bleeding.label>verenvuoto</Bleeding.label>
-	<Bleeding.deathMessage>{0} vuoti kuiviin.</Bleeding.deathMessage>
+	<Bleeding.deathMessage>{0} vuosi kuiviin.</Bleeding.deathMessage>
 
 	<Suffocation.label>tukehtuminen</Suffocation.label>
-	<Suffocation.deathMessage>{0} tukehtui kuoliaaksi.</Suffocation.deathMessage>
+	<Suffocation.deathMessage>{0} tukehtui.</Suffocation.deathMessage>
 
 	<Starvation.label>nälänhätä</Starvation.label>
 	<Starvation.deathMessage>{0} nääntyi nälkään.</Starvation.deathMessage>
