@@ -3,11 +3,11 @@
 
   <Autosaving>Tallentaa automaattisesti</Autosaving>
   
-  <GameStartDialog>Kolme teistä herää syväjääsargofageistanne sireenien ja repeytyvän metallin ääneen. Pääsette juuri ja juuri pakoaluksiinne ennen kuin alus repeytyy kappaleiksi.\n\nJonkin ajan kuluttua laskeudutte tälle tuntemattomalle rajamaalle.\n\nKun tuhoutuneen avaruusaluksen kappaleita sataa ympärillesi, alat tekemään selviytymis-suunnitelmia.</GameStartDialog>
+  <GameStartDialog>Te kolme heräätte syväjääsargofageistanne sireenien ja repeytyvän metallin ääniin. Pääsette juuri ja juuri pakokapseleihinne ennen kuin alus repeytyy kappaleiksi.\n\nJonkin ajan kuluttua laskeudutte tälle tuntemattomalle syrjäiselle planetalle.\n\nKun tuhoutuneen avaruusaluksenne kappaleita sataa ympärillenne, alatte suunnittelemaan selviytymistänne.</GameStartDialog>
 
   <Colony>Yhdyskunta</Colony>
   
-  <ChangeLanguageFromMainMenu>Voit vaihtaa kieltäsi voin asetuksista päävalikossa.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Voit vaihtaa pelin kieltä vain päävalikossa.</ChangeLanguageFromMainMenu>
 
   <AndLower>ja</AndLower>
   <DisabledLower>pois käytöstä</DisabledLower>
