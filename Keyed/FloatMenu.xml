@@ -3,7 +3,7 @@
 
 
   
-	<CallOnRadio>Soita {0}:lle</CallOnRadio>
+	<CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
 	<CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
 	<CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
 	<CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
@@ -18,7 +18,7 @@
 
   <OrderManThing>Mies {0}</OrderManThing>
   
-  <MeleeAttack>Hyökkää lähitaistelussa {0}</MeleeAttack>
+  <MeleeAttack>Lähitaistele kohteen {0} kanssa</MeleeAttack>
   <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
   <NoPath>ei reittiä</NoPath>
 
@@ -47,7 +47,7 @@
   <NoNonPrisonerBed>Ei vapaana olevaa käytettävää ei-vangin sänkyä.</NoNonPrisonerBed>
   <Reserved>Joku muu on varannut tämän.</Reserved>
   <ReservedBy>{0} on varannut tämän.</ReservedBy>
-  <IsReservedBy>{1} on varannut {0}.</IsReservedBy>
+  <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
 
   <NoManipulationSkill>kykenemätön</NoManipulationSkill>
 
@@ -76,10 +76,10 @@
   
   
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Ei voi {0} {1}:a</CannotGenericWork>
+  <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotGenericAlreadyAm>Valmiiksi {0} {1}:a</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
 
   <CannotPrioritizeIsNotA>Ei voi priorisoida ({0} ei ole {1})</CannotPrioritizeIsNotA>
 
@@ -88,6 +88,6 @@
   <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Priorisoi {1}:n {0}</PrioritizeGeneric>
+  <PrioritizeGeneric>Priorisoi kohteen {1} {0}</PrioritizeGeneric>
   
 </LanguageData>
