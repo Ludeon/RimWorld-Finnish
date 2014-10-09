@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Research.pawnLabel>Tutkija</Research.pawnLabel>
+    <Research.gerundLabel>Tutkiminen</Research.gerundLabel>
+    <Research.verb>Tutki kohteesa</Research.verb>
+    
+    <Cleaning.pawnLabel>Siivoaja</Cleaning.pawnLabel>
+    <Cleaning.gerundLabel>Siivoaminen</Cleaning.gerundLabel>
+    <Cleaning.verb>Siivoa</Cleaning.verb>
+    
+    <Hauling.pawnLabel>Siirtäjä</Hauling.pawnLabel>
+    <Hauling.gerundLabel>Siirtäminen</Hauling.gerundLabel>
+    <Hauling.verb>Siirrä</Hauling.verb>
+    
+    <Art.pawnLabel>Taiteilija</Art.pawnLabel>
+    <Art.gerundLabel>Taiteenteko</Art.gerundLabel>
+    <Art.verb>Tee taidetta kohteessa</Art.verb>
+    
+    <Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
+    <Crafting.gerundLabel>Käsityönteko</Crafting.gerundLabel>
+    <Crafting.verb>Tee käsitöitä kohteessa</Crafting.verb>
+    
+    <PlantCutting.pawnLabel>Kasvinleikkaaja</PlantCutting.pawnLabel>
+    <PlantCutting.gerundLabel>Kasvienleikkuu</PlantCutting.gerundLabel>
+    <PlantCutting.verb>Leikkaa</PlantCutting.verb>
+    
+    <Mining.pawnLabel>Louhija</Mining.pawnLabel>
+    <Mining.gerundLabel>Louhiminen</Mining.gerundLabel>
+    <Mining.verb>Louhi</Mining.verb>
+    
+    <Growing.pawnLabel>Kasvattaja</Growing.pawnLabel>
+    <Growing.gerundLabel>Kasvattaminen</Growing.gerundLabel>
+    <Growing.verb>Kasvata</Growing.verb>
+    
+    <Repair.pawnLabel>Korjaaja</Repair.pawnLabel>
+    <Repair.gerundLabel>Korjaaminen</Repair.gerundLabel>
+    <Repair.verb>Korjaa</Repair.verb>
+    
+    <Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
+    <Construction.gerundLabel>Rakentaminen</Construction.gerundLabel>
+    <Construction.verb>Rakenna</Construction.verb>
+    
+    <Hunting.pawnLabel>Metsästäjä</Hunting.pawnLabel>
+    <Hunting.gerundLabel>Metsästäminen</Hunting.gerundLabel>
+    <Hunting.verb>Metsästä</Hunting.verb>
+    
+    <Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
+    <Cooking.gerundLabel>Kokkaaminen</Cooking.gerundLabel>
+    <Cooking.verb>Kokkaa</Cooking.verb>
+    
+    <Warden.pawnLabel>Vanginvartija</Warden.pawnLabel>
+    <Warden.gerundLabel>Vanginvartiointi</Warden.gerundLabel>
+    <Warden.verb>Käsittele</Warden.verb>
+    
+    <Patient.pawnLabel>Potilas</Patient.pawnLabel>
+    <Patient.gerundLabel>Potilas</Patient.gerundLabel>
+    <Patient.verb>Tule potilaaksi</Patient.verb>
+    
+    <Doctor.pawnLabel>Lääkäri</Doctor.pawnLabel>
+    <Doctor.gerundLabel>Lääkitseminen</Doctor.gerundLabel>
+    <Doctor.verb>Hoida</Doctor.verb>
+    
+    <Firefighter.pawnLabel>Palomies</Firefighter.pawnLabel>
+    <Firefighter.gerundLabel>Tulensammmutus</Firefighter.gerundLabel>
+    <Firefighter.verb>Sammuta liekki</Firefighter.verb>
+    
+</LanguageData>
