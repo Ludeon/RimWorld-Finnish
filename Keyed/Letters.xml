@@ -14,16 +14,16 @@
   <ShortCircuitRain>{0} on mennyt oikosulkuun sateessa ja on sytyttänyt tulipalon.</ShortCircuitRain>
   <AreaRevealed>Uusi alue on paljastunut.</AreaRevealed>
 
-  <RoofCollapsed>Katto on romahtanut koska se oli liian kaukana mistään sukirakenteesta.</RoofCollapsed>
+  <RoofCollapsed>Katto on romahtanut koska se oli liian kaukana tukirakenteista.</RoofCollapsed>
   <TheseThingsCrushed>Nämä tavarat murskautuivat:</TheseThingsCrushed>
   <NothingCrushed>Mitään ei murskautunut.</NothingCrushed>
   
-  <MentalBreakRampage>{0} saa hermorohmahduksen ja käy väkivaltaiseksi kaikkia kohtaan.</MentalBreakRampage>
+  <MentalBreakRampage>{0} sai hermorohmahduksen ja hyökkää väkivaltaiseksi kaikkia kohtaan.</MentalBreakRampage>
   <MentalBreakDaze>{0} on luovuttanut ja on lähdössä yhdyskunnasta.</MentalBreakDaze>
   <MentalBreakLeave>{0} on luovuttanut ja haahuilee ympäriinsä sekavana.</MentalBreakLeave>
 
-  <RecruitSuccess>{0} onnistuneesti värväsi {1}:n ({2} mahdollisuus).</RecruitSuccess>
-  <RecruitFail>{0} epäonnistui värväämään {1}:n ({2} mahdollisuus).</RecruitFail>
+  <RecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</RecruitSuccess>
+  <RecruitFail>{0} epäonnistui vangin {1} värmäämisessä ({2} mahdollisuus).</RecruitFail>
 
   <Birthday>Tänään on henkilön {0} syntymäpäivä! {1} täytti juuri {2}.</Birthday>
   <BirthdayWithInjuries>Tänään on henkilön {0} syntymäpäivä! {1} täytti juuri {2}.\n\nValitettavasti {0} sai seuraavat taudit vanhenemisen myötä:\n{3}</BirthdayWithInjuries>

@@ -22,15 +22,15 @@
 	
 	<MessageNeedBeaconToTradeWithShip>Tarvitset orbitaalisen kaupankäyntimajakan tehdäksesi vaihtokauppaa tämän aluksen kanssa.</MessageNeedBeaconToTradeWithShip>
 	
-  <MessageBillComplete>Lista valmis: {0}.</MessageBillComplete>
+  <MessageBillComplete>Tilaus valmis: {0}.</MessageBillComplete>
   
   <MessageFullyHealed>{0} on täysin toipunut.</MessageFullyHealed>
 
   <MessagePrisonerIsEscaping>Vanki {0} pakenee.</MessagePrisonerIsEscaping>
 
-  <MessageRecruitSuccess>{0} onnistuneesti värväsi {1}n ({2} mahdollisuus).</MessageRecruitSuccess>
-	<MessageRecruitFail>{0} epäonnistui värväämään {1}n ({2} mahdollisuus).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} epäonnistui värväämään {1}n (vanki luotettavuuskynnyksen alapuolella).</MessageRecruitFailBecauseLoyalty>
+  <MessageRecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} epäonnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0} epäonnistui vangin {1} värväämisessä (vangin uskollisuus oli kynnysarvon alapuolella).</MessageRecruitFailBecauseLoyalty>
 	
   <MessagePoorlyTreated>{0} on saanut huonolaatuista hoitoa {1}:lta ({2} mahdollisuus).</MessagePoorlyTreated>
   <MessageWellTreated>{0} on saanut hyvälaatuista hoitoa {1}:lta ({2} mahdollisuus).</MessageWellTreated>

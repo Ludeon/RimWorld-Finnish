@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <AnimalInsanitySingle>Paikallinen {0} on tullut hulluksi. Se hyökkää jokaiseen kenet se näkee.</AnimalInsanitySingle>
-  <AnimalInsanityMultiple>Jonkinlainen psyykkinen aalto on pyyhkinyt maiseman yli. Yhdyskuntalaisesi ovat kunnossa, mutta...\n\nNäyttää siltä että moni {0} alueella on tullut hulluksi siitä.</AnimalInsanityMultiple>
+  <AnimalInsanitySingle>Paikallinen {0} on tullut hulluksi. Se hyökkää jokaisen näkemänsä kimppuun.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Jonkinlainen psyykkinen aalto on pyyhkinyt alueen yli. Yhdyskuntalaisesi ovat kunnossa, mutta...\n\nNäyttää siltä että moni alueen {0} on tullut hulluksi siitä.</AnimalInsanityMultiple>
 
   <CropBlight>Mysteerinen vitsaus on tuhonnut satosi.</CropBlight>
 
@@ -15,9 +15,9 @@
   <EnemyRaidWalkIn>Ryhmä {0}:a {1}:stä on saapunut lähimaille.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>Ryhmä {0}:a {1}:stä on saapunut pudotusaluksilla lähistölle.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>Ryhmä {0}:a {1}:stä on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
-  <EnemyRaidStageThenAttack>He valmistautuvat jonkin aikaa ja sitten hyökkäävät.\n\nValmistele puollustuksesi tai hyökkää heitä vastaan varotoimenpiteenä.</EnemyRaidStageThenAttack>
-  <EnemyRaidImmediateAttack>He ovat hyökkäävät välittömästi.</EnemyRaidImmediateAttack>
-  <EnemyRaidBesiege>Näyttää siltä että he haluavat piirittää yhdyskuntaasi.</EnemyRaidBesiege>
+  <EnemyRaidStageThenAttack>He valmistautuvat jonkin aikaa ja sitten hyökkäävät.\n\nValmistele puolustuksesi tai hyökkää heitä vastaan varotoimenpiteenä.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>He hyökkäävät välittömästi.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Näyttää siltä, että he haluavat tehdä piirityksen yhdyskuntaasi vastaan.</EnemyRaidBesiege>
 
 
   <!-- Friendly raids -->
