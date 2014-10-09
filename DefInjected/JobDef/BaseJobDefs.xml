@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--========= General ============-->
+    
+    <Goto.reportString>Liikkuu.</Goto.reportString>
+    
+    <Wait.reportString>Seisoskelee.</Wait.reportString>
+    
+    <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
+    
+    <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
+    
+    <UseVerbOnThing.reportString>Käyttää verb.</UseVerbOnThing.reportString>
+    
+    <Equip.reportString>Ottaa TargetA käyttöön.</Equip.reportString>
+    
+    <!--============= Misc ============-->
+    
+    <Wear.reportString>Pukee TargetA.</Wear.reportString>
+    
+    <Strip.reportString>Riisuu TargetA.</Strip.reportString>
+    
+    <Hunt.reportString>Metsästää TargetA.</Hunt.reportString>
+    
+    <ManThing.reportString>Käyttää konetta.</ManThing.reportString>
+    
+    <EnterCryptosleepPod.reportString>Menee kylmäunikapseliin.</EnterCryptosleepPod.reportString>
+    
+    <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
+    
+    <!--============ Fire ============-->
+    
+    <Ignite.reportString>Sytyttää kohteen TargetA.</Ignite.reportString>
+    
+    <BeatFire.reportString>Lyö tulen sammuksiin.</BeatFire.reportString>
+    
+    <ExtinguishSelf.reportString>Sammuttaa itsensä tulesta.</ExtinguishSelf.reportString>
+    
+    <!--============ Need satisfaction ============-->
+    
+    <EatFood.reportString>Syö ruuan TargetA.</EatFood.reportString>
+    
+    <LayDown.reportString>Makaa.</LayDown.reportString>
+    
+    <!--============= Item hauling ===============-->
+    
+    <HaulToCell.reportString>Siirtää esineen TargetA maahan.</HaulToCell.reportString>
+    
+    <HaulToContainer.reportString>Siirtää esinettä TargetA.</HaulToContainer.reportString>
+    
+    <!--============= Pawn hauling ===============-->
+    
+    <Rescue.reportString>Pelastaa henkilön TargetA.</Rescue.reportString>
+    
+    <Capture.reportString>Kaappaa henkilön TargetA.</Capture.reportString>
+    
+    <Arrest.reportString>Pidättää henkilön TargetA.</Arrest.reportString>
+    
+    <EscortPrisonerToBed.reportString>Saattaa vankia TargetA.</EscortPrisonerToBed.reportString>
+    
+    <TakeWoundedPrisonerToBed.reportString>Vie haavoittunutta vankia TargetA.</TakeWoundedPrisonerToBed.reportString>
+    
+    <TakeToBedToOperate.reportString>Vie henkilöä TargetA sänkyyn.</TakeToBedToOperate.reportString>
+    
+    <Kidnap.reportString>Kidnappaa henkilön TargetA.</Kidnap.reportString>
+    
+    <DeliverFood.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</DeliverFood.reportString>
+    
+    <FeedPatient.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</FeedPatient.reportString>
+    
+    <HealPatient.reportString>Parantaa henkilön TargetA.</HealPatient.reportString>
+    
+    <PlaceNoCostFrame.reportString>Rakentaa kohteen TargetA.</PlaceNoCostFrame.reportString>
+    
+    <DoBill.reportString>Täyttää tilauksen kohteessa TargetA.</DoBill.reportString>
+    
+    <Clean.reportString>Siivoaa TargetA.</Clean.reportString>
+    
+    <Research.reportString>Tutkii.</Research.reportString>
+    
+    <UseCommsConsole.reportString>Käyttää kommunikaatiopäätettä.</UseCommsConsole.reportString>
+    
+    <Mine.reportString>Louhii kohteen TargetA.</Mine.reportString>
+    
+    <Repair.reportString>Korjaa kohteen TargetA.</Repair.reportString>
+    
+    <FinishFrame.reportString>Rakentaa kohteen TargetA.</FinishFrame.reportString>
+    
+    <Sow.reportString>Kylvää kohteen TargetA.</Sow.reportString>
+    
+    <Harvest.reportString>Korjaa sadon TargetA.</Harvest.reportString>
+    
+    <CutPlant.reportString>Leikkaa kasvin TargetA.</CutPlant.reportString>
+    
+    <Deconstruct.reportString>Purkaa kohteen TargetA.</Deconstruct.reportString>
+    
+    <PrisonerFriendlyChat.reportString>Keskustelee vangin TargetA kanssa.</PrisonerFriendlyChat.reportString>
+    
+    <PrisonerBeatingMild.reportString>Hakkaa vankia TargetA kevyesti.</PrisonerBeatingMild.reportString>
+    
+    <PrisonerBeatingVicious.reportString>Hakkaa vankia TargetA rajusti.</PrisonerBeatingVicious.reportString>
+    
+    <PrisonerExecution.reportString>Teloittaa vangin TargetA.</PrisonerExecution.reportString>
+    
+</LanguageData>
