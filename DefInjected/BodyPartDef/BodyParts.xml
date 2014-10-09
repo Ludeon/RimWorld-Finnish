@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- base -->
+    
+    <Head.label>pää</Head.label>
+    
+    <Skull.label>kallo</Skull.label>
+    
+    <Brain.label>aivot</Brain.label>
+    
+    <LeftEye.label>vasen silmä</LeftEye.label>
+    
+    <RightEye.label>oikea silmä</RightEye.label>
+    
+    <LeftEar.label>vasen korva</LeftEar.label>
+    
+    <RightEar.label>oikea korva</RightEar.label>
+    
+    <Nose.label>nenä</Nose.label>
+    
+    <Jaw.label>leuka</Jaw.label>
+    
+    <Neck.label>kaula</Neck.label>
+    
+    <Torso.label>yläruumis</Torso.label>
+    
+    <LeftClavicle.label>vasen solisluu</LeftClavicle.label>
+    
+    <RightClavicle.label>oikea solisluu</RightClavicle.label>
+    
+    <Sternum.label>rintalasta</Sternum.label>
+    
+    <Rib.label>kylkiluu</Rib.label>
+    
+    <LeftHumerus.label>vasen olkaluu</LeftHumerus.label>
+    
+    <RightHumerus.label>oikea olkaluu</RightHumerus.label>
+    
+    <LeftRadius.label>vasen värttinäluu</LeftRadius.label>
+    
+    <RightRadius.label>oikea värttinäluu</RightRadius.label>
+    
+    <Pelvis.label>lantio</Pelvis.label>
+    
+    <LeftFemur.label>vasen reisiluu</LeftFemur.label>
+    
+    <RightFemur.label>oikea reisiluu</RightFemur.label>
+    
+    <LeftTibia.label>vasen sääriluu</LeftTibia.label>
+    
+    <RightTibia.label>oikea sääriluu</RightTibia.label>
+    
+    <Heart.label>sydän</Heart.label>
+    
+    <LeftLung.label>vasen keuhko</LeftLung.label>
+    
+    <RightLung.label>oikea keuhko</RightLung.label>
+    
+    <LeftKidney.label>vasen munuainen</LeftKidney.label>
+    
+    <RightKidney.label>oikea munuainen</RightKidney.label>
+    
+    <Liver.label>maksa</Liver.label>
+    
+    <Stomach.label>mahalaukku</Stomach.label>
+    
+    <Spine.label>selkäranka</Spine.label>
+    
+    <LeftShoulder.label>vasen olkapää</LeftShoulder.label>
+    
+    <LeftArm.label>vasen käsivarsi</LeftArm.label>
+    
+    <LeftHand.label>vasen käsi</LeftHand.label>
+    
+    <LeftHandPinky.label>vasemman käden pikkusormi</LeftHandPinky.label>
+    
+    <LeftHandRingFinger.label>vasemman käden nimetön</LeftHandRingFinger.label>
+    
+    <LeftHandMiddleFinger.label>vasemman käden keskisormi</LeftHandMiddleFinger.label>
+    
+    <LeftHandIndexFinger.label>vaseman käden etusormi</LeftHandIndexFinger.label>
+    
+    <LeftHandThumb.label>vasemman käden peukalo</LeftHandThumb.label>
+    
+    <RightShoulder.label>oikea olkapää</RightShoulder.label>
+    
+    <RightArm.label>oikea käsivarsi</RightArm.label>
+    
+    <RightHand.label>oikea käsi</RightHand.label>
+    
+    <RightHandPinky.label>oikean käden pikkusormi</RightHandPinky.label>
+    
+    <RightHandRingFinger.label>oikean käden nimetön</RightHandRingFinger.label>
+    
+    <RightHandMiddleFinger.label>oikean käden keskisormi</RightHandMiddleFinger.label>
+    
+    <RightHandIndexFinger.label>oikean käden etusormi</RightHandIndexFinger.label>
+    
+    <RightHandThumb.label>oikean käden peukalo</RightHandThumb.label>
+    
+    <LeftLeg.label>vasen jalkavarsi</LeftLeg.label>
+    
+    <LeftFoot.label>vasen jalkaterä</LeftFoot.label>
+    
+    <LeftFootLittleToe.label>vasemman jalan pikkuvarvas</LeftFootLittleToe.label>
+    
+    <LeftFootFourthToe.label>vasemman jalan neljäs varvas</LeftFootFourthToe.label>
+    
+    <LeftFootMiddleToe.label>vasemman jalan keskivarvas</LeftFootMiddleToe.label>
+    
+    <LeftFootSecondToe.label>vasemman jalan toinen varvas</LeftFootSecondToe.label>
+    
+    <LeftFootBigToe.label>vaseman jalan isovarvas</LeftFootBigToe.label>
+    
+    <RightLeg.label>oikea jalkavarsi</RightLeg.label>
+    
+    <RightFoot.label>oikea jalkaterä</RightFoot.label>
+    
+    <RightFootLittleToe.label>oikean jalan pikkuvarvas</RightFootLittleToe.label>
+    
+    <RightFootFourthToe.label>oikean jalan neljäs varvas</RightFootFourthToe.label>
+    
+    <RightFootMiddleToe.label>oikean jalan keskivarvas</RightFootMiddleToe.label>
+    
+    <RightFootSecondToe.label>oikean jalan toinen varvas</RightFootSecondToe.label>
+    
+    <RightFootBigToe.label>oikean jalan isovarvas</RightFootBigToe.label>
+    
+    <!-- animal -->
+    
+    <InsectHead.label>pää</InsectHead.label>
+    
+    <SnakeBody.label>vartalo</SnakeBody.label>
+    
+    <SnakeHead.label>pää</SnakeHead.label>
+    
+    <SnakeMouth.label>suu</SnakeMouth.label>
+    
+    <InsectHeart.label>sydän</InsectHeart.label>
+    
+    <InsectNostril.label>sierain</InsectNostril.label>
+    
+    <InsectMouth.label>suu</InsectMouth.label>
+    
+    <Body.label>vartalo</Body.label>
+    
+    <Jowl.label>leuka</Jowl.label>
+    
+    <Tail.label>häntä</Tail.label>
+    
+    <LeftAntenna.label>vasen tuntosarvi</LeftAntenna.label>
+    
+    <RightAntenna.label>oikea tuntosarvi</RightAntenna.label>
+    
+    <Pronotum.label>keskiruumis</Pronotum.label>
+    
+    <Shell.label>kuori</Shell.label>
+    
+    <LeftElytra.label>vasemmat peitinsiivet</LeftElytra.label>
+    
+    <RightElytra.label>oikeat peitinsiivet</RightElytra.label>
+    
+    <LeftTusk.label>vasen syöksyhammas</LeftTusk.label>
+    
+    <RightTusk.label>oikea syöksyhammas</RightTusk.label>
+    
+    <Horn.label>sarvi</Horn.label>
+    
+    <Hump.label>kyttyrä</Hump.label>
+    
+    <TurtleShell.label>kilpi</TurtleShell.label>
+    
+    <Plastron.label>mahakilpi</Plastron.label>
+    
+    <TurtleBeak.label>nokka</TurtleBeak.label>
+    
+    <!-- animals legs -->
+    
+    <FrontLeftLeg.label>etuvasen jalka</FrontLeftLeg.label>
+    
+    <FrontRightLeg.label>etuoikea jalka</FrontRightLeg.label>
+    
+    <MiddleLeftLeg.label>keskivasen jalka</MiddleLeftLeg.label>
+    
+    <MiddleRightLeg.label>keskioikea jalka</MiddleRightLeg.label>
+    
+    <RearLeftLeg.label>takavasen jalka</RearLeftLeg.label>
+    
+    <RearRightLeg.label>takaoikea jalka</RearRightLeg.label>
+    
+    <FrontLeftInsectLeg.label>etuvasen jalka</FrontLeftInsectLeg.label>
+    
+    <FrontRightInsectLeg.label>etuoikea jalka</FrontRightInsectLeg.label>
+    
+    <MiddleLeftInsectLeg.label>keskivasen jalka</MiddleLeftInsectLeg.label>
+    
+    <MiddleRightInsectLeg.label>keskioikea jalka</MiddleRightInsectLeg.label>
+    
+    <RearLeftInsectLeg.label>takavasen jalka</RearLeftInsectLeg.label>
+    
+    <RearRightInsectLeg.label>takaoikea jalka</RearRightInsectLeg.label>
+    
+    <FrontLeftPaw.label>etuvasen käpälä</FrontLeftPaw.label>
+    
+    <FrontRightPaw.label>etuoikea käpälä</FrontRightPaw.label>
+    
+    <RearLeftPaw.label>takavasen käpälä</RearLeftPaw.label>
+    
+    <RearRightPaw.label>takaoikea käpälä</RearRightPaw.label>
+    
+    <FrontLeftHoof.label>etuvasen sorkka</FrontLeftHoof.label>
+    
+    <FrontRightHoof.label>etuoikea sorkka</FrontRightHoof.label>
+    
+    <RearLeftHoof.label>takavasen sorkka</RearLeftHoof.label>
+    
+    <RearRightHoof.label>takaoikea sorkka</RearRightHoof.label>
+    
+    <FrontLeftLegFirstClaw.label>etuvasemman jalan ensimmäinen kynsi</FrontLeftLegFirstClaw.label>
+    
+    <FrontLeftLegSecondClaw.label>etuvasemman jalan toinen kynsi</FrontLeftLegSecondClaw.label>
+    
+    <FrontLeftLegThirdClaw.label>etuvasemman jalan kolmas kynsi</FrontLeftLegThirdClaw.label>
+    
+    <FrontLeftLegFourthClaw.label>etuvasemman jalan neljäs kynsi</FrontLeftLegFourthClaw.label>
+    
+    <FrontLeftLegFifthClaw.label>etuvasemman jalan viides kynsi</FrontLeftLegFifthClaw.label>
+    
+    <FrontRightLegFirstClaw.label>etuoikean jalan ensimmäinen kynsi</FrontRightLegFirstClaw.label>
+    
+    <FrontRightLegSecondClaw.label>etuoikean jalan toinen kynsi</FrontRightLegSecondClaw.label>
+    
+    <FrontRightLegThirdClaw.label>etuoikean jalan kolmas kynsi</FrontRightLegThirdClaw.label>
+    
+    <FrontRightLegFourthClaw.label>etuoikean jalan neljäs kynsi</FrontRightLegFourthClaw.label>
+    
+    <FrontRightLegFifthClaw.label>etuoikean jalan viides kynsi</FrontRightLegFifthClaw.label>
+    
+    <RearLeftLegFirstClaw.label>takavasemman jalan ensimmäinen kynsi</RearLeftLegFirstClaw.label>
+    
+    <RearLeftLegSecondClaw.label>takavasemman jalan toinen kynsi</RearLeftLegSecondClaw.label>
+    
+    <RearLeftLegThirdClaw.label>takavasemman jalan kolmas kynsi</RearLeftLegThirdClaw.label>
+    
+    <RearLeftLegFourthClaw.label>takavasemman jalan neljäs kynsi</RearLeftLegFourthClaw.label>
+    
+    <RearLeftLegFifthClaw.label>takavasemman jalan viides kynsi</RearLeftLegFifthClaw.label>
+    
+    <RearRightLegFirstClaw.label>takaoikean jalan ensimmäinen kynsi</RearRightLegFirstClaw.label>
+    
+    <RearRightLegSecondClaw.label>takaoikean jalan toinen kynsi</RearRightLegSecondClaw.label>
+    
+    <RearRightLegThirdClaw.label>takaoikean jalan kolmas kynsi</RearRightLegThirdClaw.label>
+    
+    <RearRightLegFourthClaw.label>takaoikean jalan neljäs kynsi</RearRightLegFourthClaw.label>
+    
+    <RearRightLegFifthClaw.label>takaoikean jalan viides kynsi</RearRightLegFifthClaw.label>
+    
+    <!-- mechanical -->
+    
+    <MechanicalThorax.label>keskiruumis</MechanicalThorax.label>
+    
+    <LeftKnifeProtrusion.label>vasen veitsiuloke</LeftKnifeProtrusion.label>
+    
+    <RightKnifeProtrusion.label>oikea veitsiuloke</RightKnifeProtrusion.label>
+    
+    <MechanicalNeck.label>kaula</MechanicalNeck.label>
+    
+    <MechanicalHead.label>pää</MechanicalHead.label>
+    
+    <LeftSightSensor.label>vasen näköanturi</LeftSightSensor.label>
+    
+    <RightSightSensor.label>oikea näköanturi</RightSightSensor.label>
+    
+    <LeftHearingSensor.label>vasen kuuloanturi</LeftHearingSensor.label>
+    
+    <RightHearingSensor.label>oikea kuuloanturi</RightHearingSensor.label>
+    
+    <SmellSensor.label>hajuanturi</SmellSensor.label>
+    
+    <LeftMechanicalShoulder.label>vasen olkapää</LeftMechanicalShoulder.label>
+    
+    <LeftMechanicalArm.label>vasen käsivarsi</LeftMechanicalArm.label>
+    
+    <LeftMechanicalHand.label>vasen käsi</LeftMechanicalHand.label>
+    
+    <LeftHandMechanicalPinky.label>vasemman käden pikkusormi</LeftHandMechanicalPinky.label>
+    
+    <LeftHandMechanicalRingFinger.label>vasemman käden nimetön</LeftHandMechanicalRingFinger.label>
+    
+    <LeftHandMechanicalMiddleFinger.label>vasemman käden keskisormi</LeftHandMechanicalMiddleFinger.label>
+    
+    <LeftHandMechanicalIndexFinger.label>vasemman käden etusormi</LeftHandMechanicalIndexFinger.label>
+    
+    <LeftHandMechanicalThumb.label>vasemman käden peukalo</LeftHandMechanicalThumb.label>
+    
+    <RightMechanicalShoulder.label>oikea olkapää</RightMechanicalShoulder.label>
+    
+    <RightMechanicalArm.label>oikea käsivarsi</RightMechanicalArm.label>
+    
+    <RightMechanicalHand.label>oikea käsi</RightMechanicalHand.label>
+    
+    <RightHandMechanicalPinky.label>oikean käden pikkusormi</RightHandMechanicalPinky.label>
+    
+    <RightHandMechanicalRingFinger.label>oikean käden nimetön</RightHandMechanicalRingFinger.label>
+    
+    <RightHandMechanicalMiddleFinger.label>oikean käden keskisormi</RightHandMechanicalMiddleFinger.label>
+    
+    <RightHandMechanicalIndexFinger.label>oikean käden etusormi</RightHandMechanicalIndexFinger.label>
+    
+    <RightHandMechanicalThumb.label>oikean käden peukalo</RightHandMechanicalThumb.label>
+    
+    <LeftMechanicalLeg.label>vasen jalkavarsi</LeftMechanicalLeg.label>
+    
+    <LeftMechanicalFoot.label>vasen jalkaterä</LeftMechanicalFoot.label>
+    
+    <LeftFootMechanicalLittleToe.label>vasemman jalan pikkuvarvas</LeftFootMechanicalLittleToe.label>
+    
+    <LeftFootMechanicalFourthToe.label>vasemman jalan neljäs varvas</LeftFootMechanicalFourthToe.label>
+    
+    <LeftFootMechanicalMiddleToe.label>vasemman jalan keskivarvas</LeftFootMechanicalMiddleToe.label>
+    
+    <LeftFootMechanicalSecondToe.label>vasemman jalan toinen varvas</LeftFootMechanicalSecondToe.label>
+    
+    <LeftFootMechanicalBigToe.label>vasemman jalan isovarvas</LeftFootMechanicalBigToe.label>
+    
+    <RightMechanicalLeg.label>oikea jalkavarsi</RightMechanicalLeg.label>
+    
+    <RightMechanicalFoot.label>oikean jalkaterä</RightMechanicalFoot.label>
+    
+    <RightFootMechanicalLittleToe.label>oikean jalan pikkuvarvas</RightFootMechanicalLittleToe.label>
+    
+    <RightFootMechanicalFourthToe.label>oikean jalan neljäs varvas</RightFootMechanicalFourthToe.label>
+    
+    <RightFootMechanicalMiddleToe.label>oikean jalan keskivarvas</RightFootMechanicalMiddleToe.label>
+    
+    <RightFootMechanicalSecondToe.label>oikean jalan toinen varvas</RightFootMechanicalSecondToe.label>
+    
+    <RightFootMechanicalBigToe.label>oikean jalan isovarvas</RightFootMechanicalBigToe.label>
+    
+    <MechanicalCentipedeBodyFirstRing.label>vartalon ensimmäinen jaoke</MechanicalCentipedeBodyFirstRing.label>
+    
+    <MechanicalCentipedeBodySecondRing.label>vartalon toinen jaoke</MechanicalCentipedeBodySecondRing.label>
+    
+    <MechanicalCentipedeBodyThirdRing.label>vartalon kolmas jaoke</MechanicalCentipedeBodyThirdRing.label>
+    
+    <MechanicalCentipedeBodyFourthRing.label>vartalon neljäs jaoke</MechanicalCentipedeBodyFourthRing.label>
+    
+    <MechanicalCentipedeBodyFifthRing.label>vartalon viides jaoke</MechanicalCentipedeBodyFifthRing.label>
+    
+    <MechanicalCentipedeBodySixthRing.label>vartalon kuudes jaoke</MechanicalCentipedeBodySixthRing.label>
+    
+    <ArtificialBrain.label>keinotekoiset aivot</ArtificialBrain.label>
+    
+</LanguageData>
