@@ -12,57 +12,57 @@
 
   
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Ryhmä {0}:a {1}:stä on saapunut lähimaille.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Ryhmä {0}:a {1}:stä on saapunut pudotusaluksilla lähistölle.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Ryhmä {0}:a {1}:stä on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
+  <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut pudotusaluksilla lähistölle.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
   <EnemyRaidStageThenAttack>He valmistautuvat jonkin aikaa ja sitten hyökkäävät.\n\nValmistele puolustuksesi tai hyökkää heitä vastaan varotoimenpiteenä.</EnemyRaidStageThenAttack>
   <EnemyRaidImmediateAttack>He hyökkäävät välittömästi.</EnemyRaidImmediateAttack>
   <EnemyRaidBesiege>Näyttää siltä, että he haluavat tehdä piirityksen yhdyskuntaasi vastaan.</EnemyRaidBesiege>
 
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>Ryhmä ystävällisiä {0}:a {1}:sta ovat saapuneet lähistölle.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0}:a {1}:sta ovat pudottautuneet kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0}:a {1}:sta ovat pudottautuneet kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
+  <FriendlyRaidWalkIn>Ryhmä ystävällisiä {0} tukikohdasta {1} on saapunut lähistölle.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
   <FriendlyRaidStageThenAttack>He valmistautuvat hetken ennen siirtymistään auttamaan sinua.</FriendlyRaidStageThenAttack>
   <FriendlyRaidImmediateAttack>He siirtyvät auttamaan sinua välittömästi.</FriendlyRaidImmediateAttack>
-  <FriendlyRaidBesiege>Näyttää siltä että he haluavat käyttää piiritystaktiikoita auttaaksesi sinua.</FriendlyRaidBesiege>
+  <FriendlyRaidBesiege>Näyttää siltä, että he haluavat käyttää piiritystaktiikoita auttaaksesi sinua.</FriendlyRaidBesiege>
 
-  <RefugeePodCrash>Olet huomannut pakoaluksen putoavan lähistöllesi.\n\nJos kukaan selvisi törmäyksestä, he olisivat vakavasti haavoittuneuta.</RefugeePodCrash>
+  <RefugeePodCrash>Olet huomannut pakoaluksen putoavan lähistöllesi.\n\nJos joku selvisi törmäyksestä, hän olisi vakavasti haavoittunut.</RefugeePodCrash>
 
-  <CargoPodCrash>Olet huomannut rykelmän pieniä rahtialuksia putoavan lähistölle.\n\nEhkä löydät niistä jotain hyödyllistä.</CargoPodCrash>
+  <CargoPodCrash>Olet huomannut rykelmän pieniä rahtikapseleita putoavan lähistölle.\n\nEhkä löydät niistä jotain hyödyllistä.</CargoPodCrash>
 
   <AnElectricalConduit>sähkönjohtimessa</AnElectricalConduit>
   <AWallsPowerConduit>seinän sähkönjohtimessa</AWallsPowerConduit>
   <ShortCircuit>Valmistusvirhe {0} on aiheuttanut oikosulun.\n\nKaikki {1} Wd virrasta liitetyissä akuissa on purkautunut sähköisessä räjähdyksessä.</ShortCircuit>
   <ShortCircuitWasLarge>Tämä suuri virtamäärä on aiheuttanut kunnioitettavan kokoisen räjähdyksen.</ShortCircuitWasLarge>
-  <ShortCircuitWasHuge>Tuo oli todella iso räjähdys. Wow.</ShortCircuitWasHuge>
+  <ShortCircuitWasHuge>Tuo on todella valtava räjähdys. Wau.</ShortCircuitWasHuge>
 
-  <LetterSolarFlare>Auringonpurkaus on alkanut.\n\nVoimakas säteily sulkee kaikki sähköiset laitteet.\n\nSen pitäisi loppua noin päivän sisällä.</LetterSolarFlare>
+  <LetterSolarFlare>Auringonpurkaus on alkanut.\n\nVoimakas säteily sammuttaa kaikki sähköiset laitteet.\n\nSen pitäisi loppua noin päivän sisällä.</LetterSolarFlare>
 
   <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.</TraderArrival>
 
-  <SingleTravelerPassing>A {0} from {1} is passing by. HECAP is named {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>Ryhmä matkaajia {0}:sta kulkevat lähistöllä.</GroupTravelersPassing>
+  <SingleTravelerPassing>{0} tukikohdasta {1} on kulkemassa ohi. HISCAP nimensä on {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Ryhmä matkaajia tukikohdasta {0} ovat kulkemassa ohi.</GroupTravelersPassing>
 
-  <SingleVisitorArrives>{0} {1}:sta on vierailemassa yhdyskunnassasai.\n\nHECAP:in nimi on {2}.</SingleVisitorArrives>
-  <GroupVisitorsArrive>Ryhmä {0}:sta ovat vierailemassa yhdyskunnassasi.</GroupVisitorsArrive>
-  <VisitorsLeaving>Vierailijat {0}:sta ovat lähdössä.</VisitorsLeaving>
+  <SingleVisitorArrives>{0} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\nHISCAP nimensä on {2}.</SingleVisitorArrives>
+  <GroupVisitorsArrive>Ryhmä tukikohdasta {0} on tullut vierailemaan yhdyskunnassasi.</GroupVisitorsArrive>
+  <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
 
   <WandererJoin>{0} nimeltään NAME on saapunut ja liittyy yhdyskuntaasi. HECAP on {1}.</WandererJoin>
   
   
   <!-- Crashed ship part-->
-  <SpaceshipPartCrash>Suuri osa muinaisesta aluksesta on pudonut lähistölle.\n\nYhdyskuntalaisesi voivat tuntea sen mielensä perukoilla, kehoittamaan heitä puhumattomiin tekoihin. Sen täytyy olla aluksen kyydissä oleva AI persoona jolla on kyky luoda spyykkisiä projektioita. Eikä tämä AI persoona ole ystävällinen.\n\nTuhoa se niin pian kuin mahdollista.</SpaceshipPartCrash>
+  <SpaceshipPartCrash>Suuri kappale muinaisesta aluksesta on pudonut lähistölle.\n\nYhdyskuntalaisesi voivat tuntea sen mielensä perukoilla, kehoittamaan heitä puhumattomiin tekoihin. Sen täytyy olla aluksen kyydissä oleva tekoäly persoona, jolla on kyky luoda spyykkisiä projektioita. Eikä tämä tekoäly ole ystävällinen.\n\nTuhoa se niin pian kuin mahdollista.</SpaceshipPartCrash>
   <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut spyykkisen pulssin mikä on ajanut kaikki läheiset eläimet hulluiksi.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Pudonneen aluksen osa on lähettänyt keskitetyn psyykkisen pulssin joka on ajanut {0}:n hulluksi.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>Pudonneen aluksen kappale on lähettänyt keskitetyn psyykkisen pulssin, joka on ajanut yhdyskuntalaisen {0} hulluksi.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Heräsi {0} päivää sitten</AwokeDaysAgo>
   <PsychicDroneLevel>Psyykkisen häirinnän taso: {0}</PsychicDroneLevel>
   <PsychicDroneLevelLow>Matala</PsychicDroneLevelLow>
   <PsychicDroneLevelMedium>Keskitaso</PsychicDroneLevelMedium>
   <PsychicDroneLevelHigh>Korkea</PsychicDroneLevelHigh>
   <PsychicDroneLevelExtreme>Äärimmäinen</PsychicDroneLevelExtreme>
-  <LetterPsychicDroneLevelIncreased>Pudonneen aluksen osa lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin enemmän häiriintyneeltä, järkyttyneeltä ja vainoharhaisemmalta.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojana.\n\nHän yrittää paeta.</LetterAgentRevealed>
