@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <WealthTotal.label>varallisuus (yhteensä)</WealthTotal.label>
+    
+    <WealthItems.label>varallisuus (esineistä)</WealthItems.label>
+    
+    <WealthBuildings.label>varallisuus (rakennuksista)</WealthBuildings.label>
+    
+    <FreeColonists.label>vapaita yhdyskuntalaisia</FreeColonists.label>
+    
+    <Prisoners.label>vankeja</Prisoners.label>
+    
+    <ColonistMood.label>mieliala</ColonistMood.label>
+    
+</LanguageData>

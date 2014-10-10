@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Wealth.label>varallisuus</Wealth.label>
+	<Wealth.graphLabelY>Määrä</Wealth.graphLabelY>
+    
+    <Population.label>väkiluku</Population.label>
+	<Population.graphLabelY>Yhdyskuntalaista</Population.graphLabelY>
+    
+    <ColonistMood.label>yhdyskuntalaisten mieliala</ColonistMood.label>
+	<ColonistMood.graphLabelY>Prosenttia</ColonistMood.graphLabelY>
+    
+</LanguageData>
