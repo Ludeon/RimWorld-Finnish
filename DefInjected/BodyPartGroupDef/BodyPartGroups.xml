@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Torso.label>yläruumis</Torso.label>
+    
+    <UpperHead.label>päälaki</UpperHead.label>
+    
+    <FullHead.label>koko pää</FullHead.label>
+    
+    <Eyes.label>silmät</Eyes.label>
+    
+    <Arms.label>käsivarret</Arms.label>
+    
+    <Hands.label>kädet</Hands.label>
+    
+    <LeftFist.label>vasen nyrkki</LeftFist.label>
+    
+    <RightFist.label>oikea nyrkki</RightFist.label>
+    
+    <Legs.label>jalkavarret</Legs.label>
+    
+    <Feet.label>jalkaterät</Feet.label>
+    
+    <Teeth.label>hampaat</Teeth.label>
+    
+    <FrontLeftPaw.label>etuvasen käpälä</FrontLeftPaw.label>
+    
+    <FrontRightPaw.label>etuoikea käpälä</FrontRightPaw.label>
+    
+    <HeadAttackTool.label>pää</HeadAttackTool.label>
+    
+    <FrontLeftLeg.label>etuvasen jalkavarsi</FrontLeftLeg.label>
+    
+    <FrontRightLeg.label>etuoikea jalkavarsi</FrontRightLeg.label>
+    
+    <FrontLeftClaws.label>etuvasemmat kynnet</FrontLeftClaws.label>
+    
+    <FrontRightClaws.label>etuoikeat kynnet</FrontRightClaws.label>
+    
+    <Mouth.label>suu</Mouth.label>
+    
+    <LeftKnifeProtrusion.label>vasen vetsiuloke</LeftKnifeProtrusion.label>
+    
+    <RightKnifeProtrusion.label>oikea vetsiuloke</RightKnifeProtrusion.label>
+    
+    <CoveredByNaturalArmor.label>luonnollisen panssarin peittämä</CoveredByNaturalArmor.label>
+    
+    <TuskAttackTool.label>syöksyhampaat</TuskAttackTool.label>
+    
+    <HornAttackTool.label>sarvi</HornAttackTool.label>
+    
+    <TurtleBeakAttackTool.label>nokka</TurtleBeakAttackTool.label>
+    
+</LanguageData>
