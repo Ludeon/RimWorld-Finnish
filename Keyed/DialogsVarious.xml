@@ -11,17 +11,17 @@
   <SaveGameButton>Tallenna</SaveGameButton>
   <OverwriteButton>Korvaa</OverwriteButton>
   <LoadGameButton>Lataa</LoadGameButton>
-  <ConfirmDelete>Poista {0} oikeasti?</ConfirmDelete>
+  <ConfirmDelete>Varmasti poista {0}?</ConfirmDelete>
   <DeleteThisSavegame>Poista tämä tallennus.</DeleteThisSavegame>
-  <SavedAs>Tallennettu {0}:nä.</SavedAs>
+  <SavedAs>Tallennettu nimellä {0}.</SavedAs>
   <NeedAName>Anna nimi.</NeedAName>
   <LoadingLongEvent>Ladataan...</LoadingLongEvent>
   
   
   <!-- Colony naming-->
-  <NameColonyMessage>Kaikki tietävät että et halua olla tällä kivellä kauaa. Mutta {0} ehdottaa että annat yhdyskunnalle nimen kuitenkin.\n\nMiksikä sitä kutsuttaisiin?</NameColonyMessage>
+  <NameColonyMessage>Kaikki tietävät, ettet halua olla tällä kivellä kauaa. {0} kuitenkin ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
   <ColonyGainsName>Yhdyskunta tunnetaan nyt nimellä {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Tuo yhdyskunnan nimi ei ole sopiva.</ColonyNameIsInvalid>
+  <ColonyNameIsInvalid>Tuo yhdyskunnan nimi ei ole kelvollinen.</ColonyNameIsInvalid>
 
   <!-- Zone naming -->
   <ZoneGainsName>Aluetta kutsutaan nyt nimellä {0}.</ZoneGainsName>
@@ -40,7 +40,7 @@
   <ResolutionRevert>Palauta</ResolutionRevert>
 
   <!-- Overview -->
-  <OverviewOf>{0}:n yleiskatsaus</OverviewOf>
+  <OverviewOf>Yhdyskunnan {0} yleiskatsaus</OverviewOf>
 
   <!-- Research -->
   <Research>Tutkimus</Research>
@@ -48,17 +48,17 @@
   <Unresearched>Tutkimatta</Unresearched>
   <Finished>Päättynyt</Finished>
   <InProgress>Tutkitaan</InProgress>
-  <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖIDÄN, yhdyskuntalaisesi eivät oikeasti tee tutkimusta.\n\nVoit kuitenkin tarkastella ja valita tutkimusprojektit nyt.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖYDÄN, yhdyskuntalaisesi eivät pysty tekemään tutkimusta.\n\nVoit kuitenkin tarkastella vaihtoehtoja ja valita tutkimusprojektin jo nyt.</ResearchMenuWithoutBench>
   
   
   <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>VAROITUS: Suorituskyky saattaa kärsiä suuremmissa kentissä ellei tietokoneesi ole tehokas.\n\nJos sinulla on huonompi kone, valitse Pieni.\n\nLudeonicrous -koko on testaamaton eikä lähes varmasti tule toimimaan hyvin. (Mutta voit silti kokeilla).</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>VAROITUS: Suorituskyky saattaa kärsiä suuremmissa kentissä ellei tietokoneesi ole tehokas.\n\nJos sinulla on huonompi kone, valitse Pieni.\n\nAbsurdi-koko on testaamaton eikä lähes varmasti tule toimimaan hyvin.</MapSizePerformanceWarning>
   <MapSize>Kentän koko</MapSize>
   <MapSizeDesc>{0}x{0} ({1} neliötä)</MapSizeDesc>
   <MapSizeSmall>Pieni</MapSizeSmall>
   <MapSizeMedium>Keskikokoinen</MapSizeMedium>
   <MapSizeLarge>Suuri</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapSizeExtreme>Absurdi</MapSizeExtreme>
 
 
 
@@ -69,7 +69,7 @@
   <RepeatCount>Toista: {0}</RepeatCount>
   <Forever>loputtomiin</Forever>
   <IngredientSearchRadius>Valmistusaineiden etsintäalue</IngredientSearchRadius>
-  <TargetCount>Tee kunnes sinulla on: {0}</TargetCount>
+  <TargetCount>Tee, kunnes on: {0}</TargetCount>
   <Infinite>Loputon</Infinite>
   <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kehdemäärää koska siinä on useampia tai arvaamattomia osia.)</RecipeCannotHaveTargetCount>
   <PermittedIngredients>Sallitut ainesosat</PermittedIngredients>
@@ -77,11 +77,11 @@
   <BillRequires>Tarvitsee {0} {1}</BillRequires>
   <UsableIngredients>käytettävät ainekset</UsableIngredients>
   <DoXTimes>Tee X kertaa</DoXTimes>
-  <DoUntilYouHaveX>Tee kunnes on X</DoUntilYouHaveX>
+  <DoUntilYouHaveX>Tee, kunnes on X</DoUntilYouHaveX>
   <DoForever>Tee loputtomiin</DoForever>
   <BillRepeatTargetCountShort>{0} asti</BillRepeatTargetCountShort>
   <BillStoreMode_DropOnFloor>Jätä lattialle</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Vie tärkeimpään varastoon</BillStoreMode_BestStockpile>
+  <BillStoreMode_BestStockpile>Vie parhaaseen varastoon</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
   
   <!-- Def Card -->
@@ -95,14 +95,14 @@
   <Damage>Vahinko</Damage>
   <Accuracy>Tarkkuus</Accuracy>
   <BurstShotCount>Sarjatulen laukausmäärä</BurstShotCount>
-  <WarmupTime>Lämmittlyaika</WarmupTime>
+  <WarmupTime>Lämmitysaika</WarmupTime>
   <CooldownTime>Jäähdytysaika</CooldownTime>
   <BurstShotFireRate>Tulinopeus</BurstShotFireRate>
   <Range>Kantama</Range>
   <GrowsWild>Kasvaa luonnossa</GrowsWild>
   <Harvestable>Kerättävä</Harvestable>
   <LimitedLifespan>Rajoitettu elinaika</LimitedLifespan>
-  <GrowingTime>Kasvatusaika</GrowingTime>
+  <GrowingTime>Kasvamisaika</GrowingTime>
   <Days>päivää</Days>
   <FertilityRequirement>Hedelmällisyysvaatimus</FertilityRequirement>
   <LightRequirement>Valoisuusvaatimus</LightRequirement>
