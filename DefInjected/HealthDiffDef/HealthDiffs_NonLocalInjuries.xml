@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Nonlocal injuries -->
+    
+    <Starvation.label>nälänhätä</Starvation.label>
+    
+    <BloodLoss.label>verenhukka</BloodLoss.label>
+    
+    <Suffocation.label>tukehtuminen</Suffocation.label>
+    
+</LanguageData>

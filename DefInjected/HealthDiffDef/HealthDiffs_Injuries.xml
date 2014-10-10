@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Injuries -->
+    
+    <Misc.label>sekalainen</Misc.label>
+    <Misc.injury.oldLabel>arpi</Misc.injury.oldLabel>
+    <Misc.injury.destroyedLabel>Tuhoutunut</Misc.injury.destroyedLabel>
+    <Misc.injury.treatedWellLabel>laastaroitu</Misc.injury.treatedWellLabel>
+    <Misc.injury.treatedLabel>kehnosti laastaroitu</Misc.injury.treatedLabel>
+    <Misc.injury.innerTreatedWellLabel>ommeltu</Misc.injury.innerTreatedWellLabel>
+    <Misc.injury.innerTreatedLabel>kehnosti ommeltu</Misc.injury.innerTreatedLabel>
+    <Misc.injury.solidTreatedWellLabel>asetettu</Misc.injury.solidTreatedWellLabel>
+    <Misc.injury.solidTreatedLabel>kehnosti asetettu</Misc.injury.solidTreatedLabel>
+            
+    <Burn.label>palohaava</Burn.label>
+    <Burn.injury.oldLabel>palovamma</Burn.injury.oldLabel>
+    <Burn.injury.destroyedLabel>Poispalanut</Burn.injury.destroyedLabel>
+    <Burn.injury.destroyedOutLabel>Ulospalanut</Burn.injury.destroyedOutLabel>
+    <Burn.injury.treatedWellLabel>laastaroitu</Burn.injury.treatedWellLabel>
+    <Burn.injury.treatedLabel>kehnosti laastaroitu</Burn.injury.treatedLabel>
+    <Burn.injury.innerTreatedWellLabel>ommeltu</Burn.injury.innerTreatedWellLabel>
+    <Burn.injury.innerTreatedLabel>kehnosti ommeltu</Burn.injury.innerTreatedLabel>
+    <Burn.injury.solidTreatedWellLabel>asetettu</Burn.injury.solidTreatedWellLabel>
+    <Burn.injury.solidTreatedLabel>kehnosti asetettu</Burn.injury.solidTreatedLabel>
+
+    <Crush.label>murskaus</Crush.label>
+    <Crush.injury.oldLabel>arpi</Crush.injury.oldLabel>
+    <Crush.injury.destroyedLabel>Murskautunut</Crush.injury.destroyedLabel>
+    <Crush.injury.treatedWellLabel>laastaroitu</Crush.injury.treatedWellLabel>
+    <Crush.injury.treatedLabel>kehnosti laastaroitu</Crush.injury.treatedLabel>
+    <Crush.injury.innerTreatedWellLabel>ommeltu</Crush.injury.innerTreatedWellLabel>
+    <Crush.injury.innerTreatedLabel>kehnosti ommeltu</Crush.injury.innerTreatedLabel>
+    <Crush.injury.solidTreatedWellLabel>asetettu</Crush.injury.solidTreatedWellLabel>
+    <Crush.injury.solidTreatedLabel>kehnosti asetettu</Crush.injury.solidTreatedLabel>
+    
+    <Crack.label>halkeama</Crack.label>
+    <Crack.injury.oldLabel>arpi</Crack.injury.oldLabel>
+    <Crack.injury.destroyedLabel>Pirstoutunut</Crack.injury.destroyedLabel>
+    <Crack.injury.treatedWellLabel>healed</Crack.injury.treatedWellLabel>
+    <Crack.injury.treatedLabel>kehnosti healed</Crack.injury.treatedLabel>
+    <Crack.injury.innerTreatedWellLabel>healed</Crack.injury.innerTreatedWellLabel>
+    <Crack.injury.innerTreatedLabel>kehnosti healed</Crack.injury.innerTreatedLabel>
+    <Crack.injury.solidTreatedWellLabel>asetettu</Crack.injury.solidTreatedWellLabel>
+    <Crack.injury.solidTreatedLabel>kehnosti asetettu</Crack.injury.solidTreatedLabel>
+    
+    <Cut.label>viiltohaava</Cut.label>
+    <Cut.injury.oldLabel>viiltoarpi</Cut.injury.oldLabel>
+    <Cut.injury.destroyedLabel>Poisleikattu</Cut.injury.destroyedLabel>
+    <Cut.injury.destroyedOutLabel>Ulosleikattu</Cut.injury.destroyedOutLabel>
+    <Cut.injury.treatedWellLabel>laastaroitu</Cut.injury.treatedWellLabel>
+    <Cut.injury.treatedLabel>kehnosti laastaroitu</Cut.injury.treatedLabel>
+    <Cut.injury.innerTreatedWellLabel>ommeltu</Cut.injury.innerTreatedWellLabel>
+    <Cut.injury.innerTreatedLabel>kehnosti ommeltu</Cut.injury.innerTreatedLabel>
+    <Cut.injury.solidTreatedWellLabel>asetettu</Cut.injury.solidTreatedWellLabel>
+    <Cut.injury.solidTreatedLabel>kehnosti asetettu</Cut.injury.solidTreatedLabel>
+    
+    <SurgicalCut.label>kirurginen viiltohaava</SurgicalCut.label>
+    <SurgicalCut.injury.oldLabel>viiltoarpi</SurgicalCut.injury.oldLabel>
+    <SurgicalCut.injury.treatedWellLabel>laastaroitu</SurgicalCut.injury.treatedWellLabel>
+    <SurgicalCut.injury.treatedLabel>kehnosti laastaroitu</SurgicalCut.injury.treatedLabel>
+    <SurgicalCut.injury.innerTreatedWellLabel>ommeltu</SurgicalCut.injury.innerTreatedWellLabel>
+    <SurgicalCut.injury.innerTreatedLabel>kehnosti ommeltu</SurgicalCut.injury.innerTreatedLabel>
+    <SurgicalCut.injury.solidTreatedWellLabel>asetettu</SurgicalCut.injury.solidTreatedWellLabel>
+    <SurgicalCut.injury.solidTreatedLabel>kehnosti asetettu</SurgicalCut.injury.solidTreatedLabel>
+    
+    <Scratch.label>raapaisu</Scratch.label>
+    <Scratch.injury.oldLabel>raapaisuarpi</Scratch.injury.oldLabel>
+    <Scratch.injury.destroyedLabel>Poisrevitty</Scratch.injury.destroyedLabel>
+    <Scratch.injury.destroyedOutLabel>Ulosrevitty</Scratch.injury.destroyedOutLabel>
+    <Scratch.injury.treatedWellLabel>laastaroitu</Scratch.injury.treatedWellLabel>
+    <Scratch.injury.treatedLabel>kehnosti laastaroitu</Scratch.injury.treatedLabel>
+    <Scratch.injury.innerTreatedWellLabel>ommeltu</Scratch.injury.innerTreatedWellLabel>
+    <Scratch.injury.innerTreatedLabel>kehnosti ommeltu</Scratch.injury.innerTreatedLabel>
+    <Scratch.injury.solidTreatedWellLabel>asetettu</Scratch.injury.solidTreatedWellLabel>
+    <Scratch.injury.solidTreatedLabel>kehnosti asetettu</Scratch.injury.solidTreatedLabel>
+    
+    <Bite.label>purema</Bite.label>
+    <Bite.injury.oldLabel>purema-arpi</Bite.injury.oldLabel>
+    <Bite.injury.destroyedLabel>Poispurtu</Bite.injury.destroyedLabel>
+    <Bite.injury.destroyedOutLabel>Ulospurtu</Bite.injury.destroyedOutLabel>
+    <Bite.injury.treatedWellLabel>laastaroitu</Bite.injury.treatedWellLabel>
+    <Bite.injury.treatedLabel>kehnosti laastaroitu</Bite.injury.treatedLabel>
+    <Bite.injury.innerTreatedWellLabel>ommeltu</Bite.injury.innerTreatedWellLabel>
+    <Bite.injury.innerTreatedLabel>kehnosti ommeltu</Bite.injury.innerTreatedLabel>
+    <Bite.injury.solidTreatedWellLabel>asetettu</Bite.injury.solidTreatedWellLabel>
+    <Bite.injury.solidTreatedLabel>kehnosti asetettu</Bite.injury.solidTreatedLabel>
+    
+    <Stab.label>pisto</Stab.label>
+    <Stab.injury.oldLabel>pistoarpi</Stab.injury.oldLabel>
+    <Stab.injury.destroyedLabel>Poisleikattu</Stab.injury.destroyedLabel>
+    <Stab.injury.destroyedOutLabel>Ulosleikattu</Stab.injury.destroyedOutLabel>
+    <Stab.injury.treatedWellLabel>laastaroitu</Stab.injury.treatedWellLabel>
+    <Stab.injury.treatedLabel>kehnosti laastaroitu</Stab.injury.treatedLabel>
+    <Stab.injury.innerTreatedWellLabel>ommeltu</Stab.injury.innerTreatedWellLabel>
+    <Stab.injury.innerTreatedLabel>kehnosti ommeltu</Stab.injury.innerTreatedLabel>
+    <Stab.injury.solidTreatedWellLabel>asetettu</Stab.injury.solidTreatedWellLabel>
+    <Stab.injury.solidTreatedLabel>kehnosti asetettu</Stab.injury.solidTreatedLabel>
+    
+    <Gunshot.label>ampumahaava</Gunshot.label>
+    <Gunshot.injury.oldLabel>ampuma-arpi</Gunshot.injury.oldLabel>
+    <Gunshot.injury.destroyedLabel>Poisammuttu</Gunshot.injury.destroyedLabel>
+    <Gunshot.injury.destroyedOutLabel>Ulosammuttu</Gunshot.injury.destroyedOutLabel>
+    <Gunshot.injury.treatedWellLabel>laastaroitu</Gunshot.injury.treatedWellLabel>
+    <Gunshot.injury.treatedLabel>kehnosti laastaroitu</Gunshot.injury.treatedLabel>
+    <Gunshot.injury.innerTreatedWellLabel>ommeltu</Gunshot.injury.innerTreatedWellLabel>
+    <Gunshot.injury.innerTreatedLabel>kehnosti ommeltu</Gunshot.injury.innerTreatedLabel>
+    <Gunshot.injury.solidTreatedWellLabel>asetettu</Gunshot.injury.solidTreatedWellLabel>
+    <Gunshot.injury.solidTreatedLabel>kehnosti asetettu</Gunshot.injury.solidTreatedLabel>
+    
+    <Shredded.label>revitty</Shredded.label>
+    <Shredded.injury.oldLabel>arpi</Shredded.injury.oldLabel>
+    <Shredded.injury.destroyedLabel>Poisrevitty</Shredded.injury.destroyedLabel>
+    <Shredded.injury.destroyedOutLabel>Ulosrevitty</Shredded.injury.destroyedOutLabel>
+    <Shredded.injury.treatedWellLabel>laastaroitu</Shredded.injury.treatedWellLabel>
+    <Shredded.injury.treatedLabel>kehnosti laastaroitu</Shredded.injury.treatedLabel>
+    <Shredded.injury.innerTreatedWellLabel>ommeltu</Shredded.injury.innerTreatedWellLabel>
+    <Shredded.injury.innerTreatedLabel>kehnosti ommeltu</Shredded.injury.innerTreatedLabel>
+    <Shredded.injury.solidTreatedWellLabel>asetettu</Shredded.injury.solidTreatedWellLabel>
+    <Shredded.injury.solidTreatedLabel>kehnosti asetettu</Shredded.injury.solidTreatedLabel>
+    
+    <Bruise.label>ruhje</Bruise.label>
+    <Bruise.injury.oldLabel>vanha ruhje</Bruise.injury.oldLabel>
+    <Bruise.injury.destroyedLabel>Tuhottu</Bruise.injury.destroyedLabel>
+    <Bruise.injury.treatedWellLabel>laastaroitu</Bruise.injury.treatedWellLabel>
+    <Bruise.injury.treatedLabel>kehnosti laastaroitu</Bruise.injury.treatedLabel>
+    <Bruise.injury.innerTreatedWellLabel>ommeltu</Bruise.injury.innerTreatedWellLabel>
+    <Bruise.injury.innerTreatedLabel>kehnosti ommeltu</Bruise.injury.innerTreatedLabel>
+    <Bruise.injury.solidTreatedWellLabel>asetettu</Bruise.injury.solidTreatedWellLabel>
+    <Bruise.injury.solidTreatedLabel>kehnosti asetettu</Bruise.injury.solidTreatedLabel>
+    
+    <!-- Missing body part -->
+    
+    <MissingBodyPart.label>puuttuva ruumiinosa</MissingBodyPart.label>
+    
+</LanguageData>

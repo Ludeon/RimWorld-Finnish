@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Added body parts -->
+    
+    <PegLeg.label>puujalka</PegLeg.label>
+    
+    <Denture.label>hammasproteesi</Denture.label>
+    
+    <SimpleProstheticLeg.label>yksinkertainen tekojalka</SimpleProstheticLeg.label>
+    
+    <SimpleProstheticArm.label>yksinkertainen tekokäsi</SimpleProstheticArm.label>
+    
+    <BionicEye.label>bioninen silmä</BionicEye.label>
+    
+    <BionicArm.label>bioninen käsi</BionicArm.label>
+    
+    <BionicLeg.label>bioninen jalka</BionicLeg.label>
+    
+    <PowerClaw.label>voimakynsi</PowerClaw.label>
+    
+    <ScytherKnifeProtrusion.label>viikateuloke</ScytherKnifeProtrusion.label>
+    
+</LanguageData>
