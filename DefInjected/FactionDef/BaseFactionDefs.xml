@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Colony faction -->
+    
+    <Colony.label>yhdyskunta</Colony.label>
+    <Colony.description>Teidän oma yhteisönne.</Colony.description>
+    <Colony.pawnsPlural>yhdyskuntalaisia</Colony.pawnsPlural>
+    
+    <!-- Hidden factions -->
+    
+    <Spacer.label>avaruusmatkaajia</Spacer.label>
+    <Spacer.description>Ihmisiä avaruuden syvyyksistä.</Spacer.description>
+    <Spacer.pawnsPlural>avaruusmatkaajia</Spacer.pawnsPlural>
+    
+    <!-- Normal humanoid factions -->
+    
+    <Outlander.label>vieras kylä</Outlander.label>
+    <Outlander.description>Pieni selviytyjäyhteisö.\n\nNämä ihmiset ovat asuneet täällä vuosikymmeniä. Ne ovat menettäneet suurimman osan teknologiasta, joka toi heidät tänne, ja he käyttävät yleensä yksinkertaisia työkaluja ja rakenteita, ja puolustautuvat edistyneillä ruutiajan aseilla.\n\nHe eivät sinänsä ole vihamielisiä tai heikkoja, mutta he suhtautuvat vakavasti käytännönläheisiin asioihin, kuten vaihtokauppaan, luottamukseen ja selviytymiseen.</Outlander.description>
+    <Outlander.pawnsPlural>vieraskyläläisiä</Outlander.pawnsPlural>
+    
+    <Pirate.label>rosvojoukko</Pirate.label>
+    <Pirate.description>Ryhmä lainsuojattomia.\n\nRosvot eivät kylvä tai rakenna eivätkä he tee usein vaihtokauppaa. He rikastuttavat itseään enimmäkseen ryöstöretkillä alueen tuottavampien ryhmien kimppuun.\n\nHeidän teknologiatasonsa riippuu enimmäkseen siitä, keneltä he ovat onnistuneet viimeksi kähveltämään tavaroita. He käyttävät useimmiten ruutiaseita, mutta onnekkaimmilla voi olla edistyneitä laseraseita, ja jotkut saattavat pitää ihmisten puukottamisesta lähietäisyydeltä.</Pirate.description>
+    <Pirate.pawnsPlural>rosvoja</Pirate.pawnsPlural>
+    
+    <Tribe.label>heimo</Tribe.label>
+    <Tribe.description>Nämä ihmiset ovat olleet täällä erittäin kauan. Ehkä heidän esi-isänsä haaksirikkoutuivat tänne tuhat vuotta sitten. Ehkä he selvisivät jostain luonnonmullistuksesta, joka tuhosi kehittyneen sivilisaation täällä. Joka tapauksessa heimolaiset ovat enimmäkseen paimentolaiskansaa, jotka elättävät itsensä maasta alkeellisia työkaluja ja aseita käyttäen.\n\nJotkin heimot ovat vihamielisempiä kuin toiset; monet ovat valmiita vaihtokauppaan tai liittoutumaan jopa teidän kaltaistense outojen ihmisten kanssa. Läheinen yhteistyö tai värväys tulee olemaan hyvin hankalaa välissänne olevasta syvästä sosiaalisesta, teknologisesta ja kielellisestä kuilusta johtuen.\n\nHeidän teknologisista puutteistaan huolimatta heimolaiset voivat olla vaarallisia vihollisia ja arvokkaita ystäviä heidän käytännönläheisten taitojensa, heidän monilukuisuutensa ja heidän kestävyydensä ansiosta.</Tribe.description>
+    <Tribe.pawnsPlural>heimolaisia</Tribe.pawnsPlural>
+    
+    <!-- Special non-humanoid factions -->
+    
+    <Mechanoid.label>mekanoidipesä</Mechanoid.label>
+    <Mechanoid.description>Muinaisten itsejäljentävien koneiden pesä.</Mechanoid.description>
+    <Mechanoid.pawnsPlural>mekanoideja</Mechanoid.pawnsPlural>
+    <Mechanoid.fixedName>mekanoidipesä</Mechanoid.fixedName>
+    
+</LanguageData>
