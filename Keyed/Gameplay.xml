@@ -208,7 +208,7 @@
   <Ingredients>Ainekset</Ingredients>
 
   <!-- Plants -->
-  <PercentGrowth>{0}-prosenttisesti kasvanut</PercentGrowth>
+  <PercentGrowth>Kasvanut {0}%</PercentGrowth>
   <Growing>Kasvaa</Growing>
   <NotGrowingNow>Ei kasva nyt (täytyy olla {0}).</NotGrowingNow>
   <NotGrowingNowNight>Ei kasva nyt (yöaika).</NotGrowingNowNight>
