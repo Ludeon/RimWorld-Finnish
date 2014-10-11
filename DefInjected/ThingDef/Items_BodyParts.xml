@@ -23,10 +23,10 @@
 	<BionicEye.description>Kehittynyt laite joka ei vain korvaa luonnollisen silmän mutta antaa myös yli-inhimilliset näönlahjat.</BionicEye.description>
 
 
-	<BionicArm.label>bioninen käsivarsi</BionicArm.label>
+	<BionicArm.label>bioninen käsi</BionicArm.label>
 	<BionicArm.description>Yksi kehittyneimpiä käsivarren korvikkeita. Antaa käyttäjälleen äärimmäiset voimat.</BionicArm.description>
 
-	<BionicLeg.label>bioninen jalkavarsi</BionicLeg.label>
+	<BionicLeg.label>bioninen jalka</BionicLeg.label>
 	<BionicLeg.description>Käyttää huipputeknologiaa anten käyttäjälleen äärimmäisen kävelymukavuuden ja -voiman.</BionicLeg.description>
 
 	<PowerClaw.label>voimakynsi</PowerClaw.label>
