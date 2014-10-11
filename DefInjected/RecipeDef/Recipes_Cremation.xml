@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CremateCorpse.label>polta ruumis</CremateCorpse.label>
+    <CremateCorpse.description>Polta ruumis hävittääksesi sen kokonaan.</CremateCorpse.description>
+    <CremateCorpse.jobString>Polttaa ruumista.</CremateCorpse.jobString>
+    
+    <BurnApparel.label>polta vaate</BurnApparel.label>
+    <BurnApparel.description>Polta vaate hävittääksesi sen kokonaan.</BurnApparel.description>
+    <BurnApparel.jobString>Polttaa vaatetta.</BurnApparel.jobString>
+    
+</LanguageData>

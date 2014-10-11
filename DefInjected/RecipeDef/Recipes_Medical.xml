@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+  	<!-- new body parts - natural -->
+    
+    <InstallNaturalHeart.label>asenna sydän</InstallNaturalHeart.label>
+    <InstallNaturalHeart.description>Asentaa sydämen.</InstallNaturalHeart.description>
+    <InstallNaturalHeart.jobString>Asentaa sydäntä.</InstallNaturalHeart.jobString>
+    
+    <InstallNaturalLiver.label>asenna maksa</InstallNaturalLiver.label>
+    <InstallNaturalLiver.description>Asentaa maksan.</InstallNaturalLiver.description>
+    <InstallNaturalLiver.jobString>Asentaa maksaa.</InstallNaturalLiver.jobString>
+    
+    <InstallNaturalKidney.label>asenna munuainen</InstallNaturalKidney.label>
+    <InstallNaturalKidney.description>Asentaa munuaisen.</InstallNaturalKidney.description>
+    <InstallNaturalKidney.jobString>Asentaa munuaista.</InstallNaturalKidney.jobString>
+    
+    <InstallNaturalLung.label>asenna keuhko</InstallNaturalLung.label>
+    <InstallNaturalLung.description>Asentaa keuhkon.</InstallNaturalLung.description>
+    <InstallNaturalLung.jobString>Asentaa keuhkoa.</InstallNaturalLung.jobString>
+    
+  	<!-- new body parts - artificial -->
+    
+    <InstallPegLeg.label>asenna puujalka</InstallPegLeg.label>
+    <InstallPegLeg.description>Asentaa puujalan.</InstallPegLeg.description>
+    <InstallPegLeg.jobString>Asentaa puujalkaa.</InstallPegLeg.jobString>
+    
+    <InstallBionicEye.label>asenna bioninen silmä</InstallBionicEye.label>
+    <InstallBionicEye.description>Asentaa bionisen silmän.</InstallBionicEye.description>
+    <InstallBionicEye.jobString>Asentaa bionista silmää.</InstallBionicEye.jobString>
+    
+    <InstallBionicArm.label>asenna bioninen käsi</InstallBionicArm.label>
+    <InstallBionicArm.description>Asentaa bionisen käden.</InstallBionicArm.description>
+    <InstallBionicArm.jobString>Asentaa bionista kättä.</InstallBionicArm.jobString>
+    
+    <InstallBionicLeg.label>asenna bioninen jalka</InstallBionicLeg.label>
+    <InstallBionicLeg.description>Asentaa bionisen jalan.</InstallBionicLeg.description>
+    <InstallBionicLeg.jobString>Asentaa bionista jalkaa.</InstallBionicLeg.jobString>
+    
+    <InstallSimpleProstheticLeg.label>asenna yksinkertainen tekojalka</InstallSimpleProstheticLeg.label>
+    <InstallSimpleProstheticLeg.description>Asentaa yksinkertaisen tekojalan.</InstallSimpleProstheticLeg.description>
+    <InstallSimpleProstheticLeg.jobString>Asentaa yksinkertaista tekojalkaa.</InstallSimpleProstheticLeg.jobString>
+    
+    <InstallSimpleProstheticArm.label>asenna yksinkertainen tek käsi</InstallSimpleProstheticArm.label>
+    <InstallSimpleProstheticArm.description>Asentaa yksinkertaisen tekokäden.</InstallSimpleProstheticArm.description>
+    <InstallSimpleProstheticArm.jobString>Asentaa yksinkertaista tekokättä.</InstallSimpleProstheticArm.jobString>
+    
+    <InstallDenture.label>asenna hammasproteesi</InstallDenture.label>
+    <InstallDenture.description>Asentaa hammasproteesin.</InstallDenture.description>
+    <InstallDenture.jobString>Asentaa hammasproteesia.</InstallDenture.jobString>
+    
+    <InstallPowerClaw.label>asenna voimakynsi</InstallPowerClaw.label>
+    <InstallPowerClaw.description>Asentaa voimakynnen.</InstallPowerClaw.description>
+    <InstallPowerClaw.jobString>Asentaa voimakynttä.</InstallPowerClaw.jobString>
+    
+    <InstallScytherKnifeProtrusion.label>asenna viikateuloke</InstallScytherKnifeProtrusion.label>
+    <InstallScytherKnifeProtrusion.description>Asentaa viikateulokkeen.</InstallScytherKnifeProtrusion.description>
+    <InstallScytherKnifeProtrusion.jobString>Asentaa viikateuloketta.</InstallScytherKnifeProtrusion.jobString>
+    
+  	<!-- removing body parts -->
+    
+    <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
+    <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>
+    <RemoveBodyPart.jobString>Poistaa ruumiinosaa.</RemoveBodyPart.jobString>
+    
+    <RemoveMechanoidBodyPart.label>poista ruumiinosa</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>Poistaa ruumiinosan.</RemoveMechanoidBodyPart.description>
+    <RemoveMechanoidBodyPart.jobString>Poistaa ruumiinosaa.</RemoveMechanoidBodyPart.jobString>
+    
+  	<!-- Euthanization -->
+    
+    <Euthanize.label>armomurhaa</Euthanize.label>
+    <Euthanize.description>Suorittaa eutanasian.</Euthanize.description>
+    <Euthanize.jobString>Suorittaa eutanasiaa.</Euthanize.jobString>
+    
+    <ShutDownMechanoid.label>sammuta</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>Sammuttaa mekanoidin.</ShutDownMechanoid.description>
+    <ShutDownMechanoid.jobString>Sammuttaa mekanoidia.</ShutDownMechanoid.jobString>
+    
+</LanguageData>

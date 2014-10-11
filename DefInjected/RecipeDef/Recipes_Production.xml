@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MakeStoneBlocks.label>tee kiviharkkoja</MakeStoneBlocks.label>
+    <MakeStoneBlocks.description>Leikkaa kivenlohkareita käyttökelpoisiksi harkoiksi.</MakeStoneBlocks.description>
+	<MakeStoneBlocks.jobString>Leikkaa kiveä.</MakeStoneBlocks.jobString>
+    
+    <ExtractMetalFromSlag.label>sulata metallia kuonasta</ExtractMetalFromSlag.label>
+    <ExtractMetalFromSlag.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamisesta metallikuonasta.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.jobString>Sulattaa metallia kuonasta.</ExtractMetalFromSlag.jobString>
+    
+</LanguageData>

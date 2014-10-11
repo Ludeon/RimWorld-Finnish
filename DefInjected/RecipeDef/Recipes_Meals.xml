@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CookMealSimple.label>kokkaa yksinkertainen ateria</CookMealSimple.label>
+    <CookMealSimple.description>Kokkaa mutkattoman aterian yhdestä aineksesta.</CookMealSimple.description>
+    <CookMealSimple.jobString>Kokkaa yksinkertaista ateriaa.</CookMealSimple.jobString>
+    
+    <CookMealFine.label>kokkaa hieno ateria</CookMealFine.label>
+    <CookMealFine.description>Kokkaa jokseenkin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia.</CookMealFine.description>
+    <CookMealFine.jobString>Kokkaa hienoa ateriaa.</CookMealFine.jobString>
+    
+    <CookMealLavish.label>kokkaa yltäkylläinen ateria</CookMealLavish.label>
+    <CookMealLavish.description>Kokkaa hyvin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia. Käyttää ainesosia säästelemättä.</CookMealLavish.description>
+    <CookMealLavish.jobString>Kokkaa yltäkylläistä ateriaa.</CookMealLavish.jobString>
+    
+</LanguageData>
