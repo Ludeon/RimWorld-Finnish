@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ================= Wood floor ================= -->
+    
+    <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>
+    <WoodPlankFloor.description>Puulankuista tehty lattianpäällyste. Luo lämpimän ja kotoisan tunnelman.</WoodPlankFloor.description>
+    
+    <!-- ================= Tile ================= -->
+    
+    <MetalTile.label>metallilaatta</MetalTile.label>
+    <MetalTile.description>Metallilaattoja avaruusalustunnelman luomiseen.</MetalTile.description>
+    
+    <PavedTile.label>betonilaatta</PavedTile.label>
+    <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
+    
+    <StoneTile.label>kivilaatta</StoneTile.label>
+    <StoneTile.description>Jykeviä kivilaattoja linnatunnelman luomiseen.</StoneTile.description>
+    
+    <!-- ================= Carpets ================= -->
+    
+    <CarpetRed.label>punainen kokolattiamatto</CarpetRed.label>
+    <CarpetRed.description>Pehmeä matto viehättävässä ruunvärisessä sävyssä.</CarpetRed.description>
+    
+    <CarpetGreen.label>vihreä kokolattiamatto</CarpetGreen.label>
+    <CarpetGreen.description>Luonnonläheinen vihreä matto.</CarpetGreen.description>
+    
+    <CarpetBlue.label>sininen kokolattiamatto</CarpetBlue.label>
+    <CarpetBlue.description>Pehmeä varpaita hyväilevä matto viileässä sinisessä sävyssä.</CarpetBlue.description>
+    
+    <!-- ================= Foundation solids ================= -->
+    
+    <Concrete.label>betoni</Concrete.label>
+    <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
+    
+    <SmoothStone.label>sileä kivi</SmoothStone.label>
+    <SmoothStone.description>Hiottua luonnonkiveä. Tämän päällä käveleminen on nopeaa, ja se kestää katsetta.</SmoothStone.description>
+    
+    <RoughHewnRock.label>karkeaksi louhittu kivi</RoughHewnRock.label>
+    
+</LanguageData>
