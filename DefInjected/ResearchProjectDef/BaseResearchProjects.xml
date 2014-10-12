@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Hydroponics.label>vesiviljely</Hydroponics.label>
+    <Hydroponics.description>Mahdollistaa vesiviljelyaltaiden rakentamisen ruokakasvien nopeaan kasvattamiseen sisätiloissa.</Hydroponics.description>
+    
+    <PneumaticPicks.label>paineilmahakut</PneumaticPicks.label>
+    <PneumaticPicks.description>Louhijoiden hakut ovat 20% tehokkaampia.</PneumaticPicks.description>
+    
+    <Stonecutting.label>kivenleikkaus</Stonecutting.label>
+    <Stonecutting.description>Rakenna kivenleikkauspöytiä, jotka mahdollistavat kivenlohkareista jalostamisen harkoiksi, joita voidaan käyttää rakentamiseen.</Stonecutting.description>
+    
+    <ElectricSmelting.label>sähkösulatus</ElectricSmelting.label>
+    <ElectricSmelting.description>Rakenna sähkösulattimia, jotka käyttävät lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta ja muista esineistä.</ElectricSmelting.description>
+    
+    <Machining.label>työstäminen</Machining.label>
+    <Machining.description>Rakenna työstöpöytiä kuolleiden mekanoidien purkamiseen käyttökelpoiseksi metalliksi.</Machining.description>
+    
+    <NutrientResynthesis.label>ravinteiden kierrätys</NutrientResynthesis.label>
+    <NutrientResynthesis.description>Ravinnetahnanjakajat kuluttavat 10% vähemmän ruokaa tuotettua ateriaa kohti.</NutrientResynthesis.description>
+    
+    <GunTurretCooling.label>tykkitornin jäähdytys</GunTurretCooling.label>
+    <GunTurretCooling.description>Tykkitornit ampuvat yhdessä purskeessa neljä luotia kolmen sijaan.</GunTurretCooling.description>
+    
+    <Mortars.label>kranaatinheittimet</Mortars.label>
+    <Mortars.description>Opi rakentamaan kranaatinheittimiä, jotka pystyvät heittämään kranaatteja pitkiä matkoja seinien yli.</Mortars.description>
+    
+    <Cremation.label>polttohautaus</Cremation.label>
+    <Cremation.description>Rakenna krematorioita, jotka höyrystävät ei-toivottuja ruumiita.</Cremation.description>
+    
+    <CarpetMaking.label>matonteko</CarpetMaking.label>
+    <CarpetMaking.description>Mahdollistaa yhdyskuntalaisten rakentaa kokolattiamattoja parantaakseen heidän ympäristönsä laatua.</CarpetMaking.description>
+    
+    <Tailoring.label>suutarointi</Tailoring.label>
+    <Tailoring.description>Mahdollistaa yhdyskuntalaisten rakentaa suutarin työpajan ja tehdä uusia vaatteita kankaasta, nahasta tai muista materiaaleista.</Tailoring.description>
+    
+    <ColoredLights.label>värilliset valot</ColoredLights.label>
+    <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
+    
+    <HospitalBed.label>sairasvuode</HospitalBed.label>
+    <HospitalBed.description>Mahdollistaa yhdyskuntalaisiten rakentaa sairasvuoteita, jotka parantavat onnistuneen hoidon mahdollisuuksia.</HospitalBed.description>
+    
+</LanguageData>
