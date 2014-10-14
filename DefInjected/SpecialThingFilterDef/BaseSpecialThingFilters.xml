@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <AllowCorpsesColonist.label>salli yhd.kuntalaisten ruumiit</AllowCorpsesColonist.label>
+    <AllowCorpsesColonist.description>Salli edesmenneiden yhdyskuntalaisten ruumiit.</AllowCorpsesColonist.description>
+    
+    <AllowCorpsesStranger.label>salli vieraat ruumiit</AllowCorpsesStranger.label>
+    <AllowCorpsesStranger.description>Salli edesmenneiden vieralijoiden ja vihollisten ruumiit.</AllowCorpsesStranger.description>
+    
+    <AllowBuried.label>salli haudatut ruumiit</AllowBuried.label>
+    <AllowBuried.description>Salli ruumiit, jotka on jo haudattu.</AllowBuried.description>
+    
+    <AllowRotten.label>salli mädäntynyt</AllowRotten.label>
+    <AllowRotten.description>Salli eloperäiset esineet, jotka ovat alkaneet mädäntyä.</AllowRotten.description>
+    
+</LanguageData>
