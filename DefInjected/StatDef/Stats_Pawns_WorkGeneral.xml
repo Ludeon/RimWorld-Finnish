@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <WorkSpeedGlobal.label>yleinen työskentelynopeus</WorkSpeedGlobal.label>
+    <WorkSpeedGlobal.description>Kerroin tämän henkilön kaikkeen työskentelyn nopeuteen.</WorkSpeedGlobal.description>
+    
+    <MiningSpeed.label>louhimisnopeus</MiningSpeed.label>
+    <MiningSpeed.description>Kerroin tämän henkilön louhimisen nopeuteen.</MiningSpeed.description>
+    
+    <ResearchSpeed.label>tutkimisnopeus</ResearchSpeed.label>
+    <ResearchSpeed.description>Nopeus, jolla tämä henkilö tutkii.</ResearchSpeed.description>
+    
+    <ConstructionSpeed.label>rakennusnopeus</ConstructionSpeed.label>
+    <ConstructionSpeed.description>Nopeus, jolla tämä henkilö rakentaa ja korjaa rakennuksia.</ConstructionSpeed.description>
+    
+    <PlantWorkSpeed.label>kasvityönopeus</PlantWorkSpeed.label>
+    <PlantWorkSpeed.description>Nopeus, jolla tämä henkilö viljelee ja kerää kasveja.</PlantWorkSpeed.description>
+    
+</LanguageData>

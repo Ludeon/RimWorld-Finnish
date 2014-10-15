@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <DamageDeflection_Blunt.label>Suoja - Tylppä</DamageDeflection_Blunt.label>
+    <DamageDeflection_Blunt.description>Todennäköisyys estää tylppää vahinkoa esimerkiksi nuijista, putoavista kivistä ja räjähdyksistä.</DamageDeflection_Blunt.description>
+    
+    <DamageDeflection_Piercing.label>Suoja - Läpäisy</DamageDeflection_Piercing.label>
+    <DamageDeflection_Piercing.description>Todennäköisyys estää läpäisevää vahinkoa esimerkiksi luodeista, veitsien pistoista ja eläinten puremista.</DamageDeflection_Piercing.description>
+    
+    <DamageDeflection_Heat.label>Suoja - Lämpö</DamageDeflection_Heat.label>
+    <DamageDeflection_Heat.description>Todennäkköisyys estää lämpötilaan liittyvää vahinkoa esimerkiksi palovammoista.</DamageDeflection_Heat.description>
+    
+    <DamageDeflection_Electric.label>Suoja - Sähköinen</DamageDeflection_Electric.label>
+    <DamageDeflection_Electric.description>Todennäköisyys estää sähkövahinkoa esimerkiksi sähkömagneettisista pulsseista (EMP).</DamageDeflection_Electric.description>
+    
+    <DamageDeflection_Toxic.label>Suoja - Myrkky</DamageDeflection_Toxic.label>
+    <DamageDeflection_Toxic.description>Todennäköisyys estää myrrkuvahinkoa.</DamageDeflection_Toxic.description>
+    
+</LanguageData>

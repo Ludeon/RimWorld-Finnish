@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <WorkToBuild.label>töitä jäljellä</WorkToBuild.label>
+    <WorkToBuild.description>Työn määrä, joka vaaditaan tämän rakentamiseen.</WorkToBuild.description>
+    
+    <DoorOpenSpeed.label>oven avautumisnopeus</DoorOpenSpeed.label>
+    <DoorOpenSpeed.description>Nopeus, jolla ovi aukeaa.</DoorOpenSpeed.description>
+    
+    <BedRestEffectiveness.label>levon tehokkuus</BedRestEffectiveness.label>
+    <BedRestEffectiveness.description>Miten nopeasti nukkuvat ihmiset saavat tässä lepoa.</BedRestEffectiveness.description>
+    
+</LanguageData>

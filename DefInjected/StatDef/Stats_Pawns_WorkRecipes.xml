@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CookSpeed.label>keittonopeus</CookSpeed.label>
+    <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
+    
+    <ButcheryFleshSpeed.label>teurastusnopeus</ButcheryFleshSpeed.label>
+    <ButcheryFleshSpeed.description>Nopeus, jolla tämä henkilö teurastaa tuoreita olioita.</ButcheryFleshSpeed.description>
+    
+    <ButcheryFleshEfficiency.label>teurastuskyky</ButcheryFleshEfficiency.label>
+    <ButcheryFleshEfficiency.description>Kerroin teurastamalla tuotetun lihan määrään.</ButcheryFleshEfficiency.description>
+    
+    <ButcheryMechanoidSpeed.label>mekanoidin purkunopeus</ButcheryMechanoidSpeed.label>
+    <ButcheryMechanoidSpeed.description>Nopeus, jolla tämä henkilö purkaa mekanoidin.</ButcheryMechanoidSpeed.description>
+    
+    <ButcheryMechanoidEfficiency.label>mekanoidin purkukyky</ButcheryMechanoidEfficiency.label>
+    <ButcheryMechanoidEfficiency.description>Kerroin mekanoidin purkamisesta saatujen materiaalien määrään.</ButcheryMechanoidEfficiency.description>
+    
+    <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
+    <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
+    
+    <StonecuttingEfficiency.label>kiven leikkauskyky</StonecuttingEfficiency.label>
+    <StonecuttingEfficiency.description>Kerroin lohkareesta tuotettujen harkkojen määrään.</StonecuttingEfficiency.description>
+    
+    <TailoringSpeed.label>suutarointinopeus</TailoringSpeed.label>
+    <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
+    
+    <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
+    <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
+    
+    <SmeltingEfficiency.label>sulatuskyky</SmeltingEfficiency.label>
+    <SmeltingEfficiency.description>Kerroin sulattamalla tuotettujen materiaalien määrään.</SmeltingEfficiency.description>
+    
+</LanguageData>

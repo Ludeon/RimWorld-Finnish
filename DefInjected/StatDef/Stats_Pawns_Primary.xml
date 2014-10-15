@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MoveSpeed.label>liikkumisnopeus</MoveSpeed.label>
+    <MoveSpeed.description>Liikkumisen nopeus neliöinä sekunnissa.</MoveSpeed.description>
+    
+    <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
+    <MentalBreakThreshold.description>Kun henkilön mielentila on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
+    
+    <PsychicSensitivity.label>psyykkinen herkkyys</PsychicSensitivity.label>
+    <PsychicSensitivity.description>Kerroin psyykkisten ilmiöiden vaikutukselle.</PsychicSensitivity.description>
+    
+    <GlobalLearningFactor.label>yleinen oppimisnopeus</GlobalLearningFactor.label>
+    <GlobalLearningFactor.description>Kaikille taidoille yhteinen oppimisnopeus.</GlobalLearningFactor.description>
+    
+</LanguageData>

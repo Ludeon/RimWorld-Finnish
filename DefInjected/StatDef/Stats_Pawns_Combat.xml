@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MeleeHitChance.label>lähitaistelun osumatarkkuus</MeleeHitChance.label>
+    <MeleeHitChance.description>Alkuarvo todennäköisyydelle kohteeseen osumiseen lähitaistelussa.</MeleeHitChance.description>
+    
+    <MeleeHitChanceFactor.label>lähitaistelun osumatarkkuuden kerroin</MeleeHitChanceFactor.label>
+    <MeleeHitChanceFactor.description>Negatiiviset arvot pienentävät osumatarkkuutta ja positiiviset arvot lisäävät sitä.</MeleeHitChanceFactor.description>
+    
+    <ShootingAccuracy.label>ampumisen osumatarkkuus</ShootingAccuracy.label>
+    <ShootingAccuracy.description>Alkuarvo osumisen todennäköisyydelle etäisyyden yhtä neliötä kohti.</ShootingAccuracy.description>
+    
+    <AimingDelayFactor.label>tähtäysaika</AimingDelayFactor.label>
+    <AimingDelayFactor.description>Miten kauan ampumiseen kuluu aikaa kohteeseen lukittumisen jälkeen.</AimingDelayFactor.description>
+    
+    <HitChanceFactor.label>ampumisen osumatarkkuuden kerroin</HitChanceFactor.label>
+    <HitChanceFactor.description>Negatiiviset arvot pienentävät osumatarkkuutta ja positiiviset arvot lisäävät sitä.</HitChanceFactor.description>
+    
+</LanguageData>

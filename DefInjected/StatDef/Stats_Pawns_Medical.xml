@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MedicalOperationSpeed.label>operointinopeus</MedicalOperationSpeed.label>
+    <MedicalOperationSpeed.description>Nopeus, jolla henkilö tekee lääkintäoperaatioita.</MedicalOperationSpeed.description>
+    
+    <BaseHealingQuality.label>lääkinnän laatu</BaseHealingQuality.label>
+    <BaseHealingQuality.description>Alkuarvo potilaille annetulle lääkinnälle.</BaseHealingQuality.description>
+    
+    <HealingSpeed.label>lääkintänopeus</HealingSpeed.label>
+    <HealingSpeed.description>Nopeus, jolla henkilö parantaa haavoja lääkärinä toimiessaan.</HealingSpeed.description>
+    
+</LanguageData>

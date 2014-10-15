@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <RecruitPrisonerChance.label>vanginvärväyden todennäköisyys</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>Alkupiste todennäköisyydelle, että tämä henkilö värvää vangin.</RecruitPrisonerChance.description>
+    
+    <SocialImpact.label>keskustelun vaikuttavuus</SocialImpact.label>
+    <SocialImpact.description>Kun tämä henkilö vuorovaikuttaa sosiaalisesti, toinen henkilö vaikuttuu tämän verran.</SocialImpact.description>
+    
+    <GiftImpact.label>diplomaattisen lahjan vaikuttavuus</GiftImpact.label>
+    <GiftImpact.description>Kun tämä henkilö antaa lahjan toiselle ryhmälle, tämä kerroin asetetaan sen vaikutukseen ryhmän suhteeseen.</GiftImpact.description>
+    
+    <TradePriceImprovement.label>vaihtokaupan hinnanparannus</TradePriceImprovement.label>
+    <TradePriceImprovement.description>Kun tämä henkilö neuvottelee hinnoista, osto- ja myyntihinnat paranevat tämän prosentin mukaan.</TradePriceImprovement.description>
+    
+</LanguageData>
