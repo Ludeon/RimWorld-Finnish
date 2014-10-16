@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Cassandra.label>Kaisa klassikko</Cassandra.label>
+    <Cassandra.description>Kaisa luo tapahtumia, joiden haastavuus ja jännittävyys kasvavat tasaisesti.</Cassandra.description>
+    <Cassandra.quotation>Hyvälle tarinankerronnalle on tärkeää ponnistelun voimistumisen täydellinen kehittyminen.</Cassandra.quotation>
+    
+    <Phoebe.label>Peppi pesänrakentaja</Phoebe.label>
+    <Phoebe.description>Peppi antaa paljon aikaa onnettomuuksien välillä rauhoittumiseen ja yhdyskunnan rakentamiseen. Mutta varo - suurella haastetasolla hän on yhtä rankka kuin muutkin.</Phoebe.description>
+    <Phoebe.quotation>Otetaan iisti ja rakennetaan.</Phoebe.quotation>
+    
+    <Randy.label>Sami satunnainen</Randy.label>
+    <Randy.description>Sami ei noudata sääntöjä. Hän luo satunnaisia tapahtumia, eikä hän välitä, syntyykö menestystarina vai suurtappio.</Randy.description>
+    <Randy.quotation>Maailma on sattumanvarainen, jäbä. Tarinoidenkin pitäisi olla! Onko sinulla sytkäriä?</Randy.quotation>
+    
+</LanguageData>
