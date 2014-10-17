@@ -16,7 +16,7 @@
 	<SimpleProstheticLeg.label>yksinkertainen tekojalka</SimpleProstheticLeg.label>
 	<SimpleProstheticLeg.description>Yksinkertainen proteesi puuttuvan jalan korvaamiseen.</SimpleProstheticLeg.description>
 
-	<SimpleProstheticArm.label>yksinkertainen tekokäsivarsi</SimpleProstheticArm.label>
+	<SimpleProstheticArm.label>yksinkertainen tekokäsi</SimpleProstheticArm.label>
 	<SimpleProstheticArm.description>Yksinkertainen mutta kestävä käsivarsiproteesi.</SimpleProstheticArm.description>
 
 	<BionicEye.label>bioninen silmä</BionicEye.label>
