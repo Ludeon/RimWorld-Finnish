@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Root.label>juuri</Root.label>
+    
+    <Resources.label>resurssit</Resources.label>
+    
+    <Foods.label>ruuat</Foods.label>
+    
+    <FoodMeals.label>ateriat</FoodMeals.label>
+    
+    <FoodRaw.label>raa-at</FoodRaw.label>
+    
+    <MeatRaw.label>liha</MeatRaw.label>
+    
+    <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
+    
+    <Manufactured.label>tuotetut</Manufactured.label>
+    
+    <Fabric.label>kangas</Fabric.label>
+    
+    <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
+    
+    <Items.label>esineet</Items.label>
+    
+    <Weapons.label>aseet</Weapons.label>
+    
+    <Apparel.label>vaatteet</Apparel.label>
+    
+    <BodyParts.label>ruumiinosat</BodyParts.label>
+    
+    <Chunks.label>kimpaleet</Chunks.label>
+    
+    <Corpses.label>ruumiit</Corpses.label>
+    
+    <CorpsesHumanoid.label>ihmisruumiit</CorpsesHumanoid.label>
+    
+    <CorpsesAnimal.label>eläinten ruumiit</CorpsesAnimal.label>
+    
+    <CorpsesMechanoid.label>mekanoidien ruumiit</CorpsesMechanoid.label>
+    
+</LanguageData>
