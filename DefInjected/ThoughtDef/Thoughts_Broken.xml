@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CurrentlyBrokenPsychotic.label>psykoottisia ajatuksia</CurrentlyBrokenPsychotic.label>
+    <CurrentlyBrokenPsychotic.description>Pakko tappaa!</CurrentlyBrokenPsychotic.description>
+    
+    <CurrentlyBrokenSad.label>murtuneita ajatuksia</CurrentlyBrokenSad.label>
+    <CurrentlyBrokenSad.description>Asiat painavat aivan liikaa.</CurrentlyBrokenSad.description>
+    
+    <CurrentlyBrokenPanicFlee.label>paniikki</CurrentlyBrokenPanicFlee.label>
+    <CurrentlyBrokenPanicFlee.description>Täältä täytyy päästä pois!</CurrentlyBrokenPanicFlee.description>
+    
+</LanguageData>

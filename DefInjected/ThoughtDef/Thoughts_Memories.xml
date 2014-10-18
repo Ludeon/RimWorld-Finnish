@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <AteRawFood.label>söi raakaa ruokaa</AteRawFood.label>
+    <AteRawFood.description>Minun täytyi syödä raakaa ruokaa. Emmekö voi keittää sitä, tai ainakin valmistaa ravinnetahnaa?</AteRawFood.description>
+    
+    <AteNutrientPasteMeal.label>söi ravinnetahnaa</AteNutrientPasteMeal.label>
+    <AteNutrientPasteMeal.description>Minun täytyi syödä ravinnetahnaa. Tiedän, että se pitää minut hengissä, mutta kukaan ei halua niellä sitä mönjää.</AteNutrientPasteMeal.description>
+    
+    <AteFineMeal.label>söi hienon aterian</AteFineMeal.label>
+    <AteFineMeal.description>Söin todella maittavan aterian. Nam!</AteFineMeal.description>
+    
+    <AteLavishMeal.label>söi yltäkylläisen aterian</AteLavishMeal.label>
+    <AteLavishMeal.description>Tuo yltäkylläinen ateria oli mahtava. Se ravitsi minun ruumiini ja sieluni.</AteLavishMeal.description>
+    
+    <!-- =========== Cannibalism ===============-->
+    
+    <AteHumanoidMeatDirect.label>raaka kannibalismi</AteHumanoidMeatDirect.label>
+    <AteHumanoidMeatDirect.description>Söin toisen ihmisen lihaa raakana kuin eläin. Tämä on painajaista.</AteHumanoidMeatDirect.description>
+    
+    <AteHumanoidMeatAsIngredient.label>keitetty kannibalismi</AteHumanoidMeatAsIngredient.label>
+    <AteHumanoidMeatAsIngredient.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Tämä on hirvittävää.</AteHumanoidMeatAsIngredient.description>
+    
+    <AteHumanoidMeatDirectCannibal.label>raaka kannibalismi</AteHumanoidMeatDirectCannibal.label>
+    <AteHumanoidMeatDirectCannibal.description>Söin toisen ihmisen lihaa raakana kuin eläin. Se oli niin... mehukasta.</AteHumanoidMeatDirectCannibal.description>
+    
+    <AteHumanoidMeatAsIngredientCannibal.label>keitetty kannibalismi</AteHumanoidMeatAsIngredientCannibal.label>
+    <AteHumanoidMeatAsIngredientCannibal.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Niin miellyttävää. Jos minulla olisi vain härkäpapuja ja Chianti-viiniä.</AteHumanoidMeatAsIngredientCannibal.description>
+    
+    <ButcheredHumanoidCorpse.label>teurasti ihmisen</ButcheredHumanoidCorpse.label>
+    <ButcheredHumanoidCorpse.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanoidCorpse.description>
+    
+    <AteWithoutTable.label>söi maasta </AteWithoutTable.label>
+    <AteWithoutTable.description>Minun täyty syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.description>
+    
+    <!-- Combat -->
+    
+    <ObservedLayingCorpse.label>havaitsi ruumiin</ObservedLayingCorpse.label>
+    <ObservedLayingCorpse.description>Näin kuolleen ihmisen makaavan maassa.</ObservedLayingCorpse.description>
+    
+    <ObservedLayingRottingCorpse.label>havaitsi mädäntyvän ruumiin</ObservedLayingRottingCorpse.label>
+    <ObservedLayingRottingCorpse.description>Näin mädäntyvän ruumiin makaavan maassa. Se oli vastenmielistä.</ObservedLayingRottingCorpse.description>
+    
+    <WitnessedDeathAlly.label>koki liittolaisen kuoleman</WitnessedDeathAlly.label>
+    <WitnessedDeathAlly.description>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathAlly.description>
+    
+    <WitnessedDeathStranger.label>koki vieraan kuoleman</WitnessedDeathStranger.label>
+    <WitnessedDeathStranger.description>Näin jonkun kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathStranger.description>
+    
+    <WitnessedDeathStrangerBloodlust.label>koki vieraan kuoleman</WitnessedDeathStrangerBloodlust.label>
+    <WitnessedDeathStrangerBloodlust.description>Näin jonkun kuolevan! Se oli nastaa!</WitnessedDeathStrangerBloodlust.description>
+    
+    <KilledHumanoidBloodlust.label>tappoi jonkun</KilledHumanoidBloodlust.label>
+    <KilledHumanoidBloodlust.description>Tapoin jonkun! Olipa kiihottavaa!</KilledHumanoidBloodlust.description>
+    
+    <BattleWounded.label>haavoittunut</BattleWounded.label>
+    <BattleWounded.description>Tuo on minun vertani! Olen haavoittunut taistelussa!</BattleWounded.description>
+    
+    <NewColonyOptimism.label>uuden yhdyskunnan optimismia</NewColonyOptimism.label>
+    <NewColonyOptimism.description>Laskeuduimme juuri tänne. Tämä on ankara tilanne, mutta olen innoissani uuden yhdyskunnan perustamisesta.</NewColonyOptimism.description>
+    
+    <NewColonyHope.label>uuden yhdyskunnan toivoa</NewColonyHope.label>
+    <NewColonyHope.description>Alan tottua tähän, mutta tämä on silti innostava uusi tilanne. Toivottavasti kaikki sujuu...</NewColonyHope.description>
+    
+    <SleptOutside.label>nukkui ulkona</SleptOutside.label>
+    <SleptOutside.description>Minun täyty nukkua ulkona ilman mitään suojaa säältä.</SleptOutside.description>
+    
+    <SleptOnGround.label>nukkui maassa</SleptOnGround.label>
+    <SleptOnGround.description>Minun täytyi nukkua maassa kuin eläin.</SleptOnGround.description>
+    
+    <KnowPrisonerBeaten.label>vankia hakattiin</KnowPrisonerBeaten.label>
+    <KnowPrisonerBeaten.description>Vankia hakataan.</KnowPrisonerBeaten.description>
+    
+    <KnowPrisonerSold.label>vanki myytiin</KnowPrisonerSold.label>
+    <KnowPrisonerSold.description>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</KnowPrisonerSold.description>
+    
+    <KnowPrisonerExecuted.label>vanki teloitettiin</KnowPrisonerExecuted.label>
+    <KnowPrisonerExecuted.description>Vanki teloitettiin kylmäverisesti. Tästä yhdyskunnasta on tulossa ilkeämpi päivä päivältä.</KnowPrisonerExecuted.description>
+    
+    <JustImprisoned.label>juuri vangittu</JustImprisoned.label>
+    <JustImprisoned.description>Minut heitettiin juuri vankilaan. Minun on parempi koota itseni ja käsitellä tätä.</JustImprisoned.description>
+    
+    <PrisonerFriendlyChat.label>vanginvartijan vakuuttelema</PrisonerFriendlyChat.label>
+    <PrisonerFriendlyChat.description>Juttelin vanginvartijan kanssa yhdyskunnasta. Kuulostaa hyvältä paikalta...</PrisonerFriendlyChat.description>
+    
+    <PrisonerBeatenMild.label>vanginvartijan hakkaama</PrisonerBeatenMild.label>
+    <PrisonerBeatenMild.description>Vanginvartija hakkasi minua. Hän ei rikkonut mitään, mutta hitto kun koskee.</PrisonerBeatenMild.description>
+    
+    <PrisonerBeatenVicious.label>vanginvartijan rajusti hakkaama</PrisonerBeatenVicious.label>
+    <PrisonerBeatenVicious.description>Vanginvartija hakkasi minua rajusti. Voisin kuolla tähän...</PrisonerBeatenVicious.description>
+    
+    <SocialTalk.label>sosiaalinen keskustelu</SocialTalk.label>
+    <SocialTalk.description>Keskustelin juuri hyvän tyypin kanssa.</SocialTalk.description>
+    
+    <AbrasiveTalk.label>epämiellyttävä keskustelu</AbrasiveTalk.label>
+    <AbrasiveTalk.description>Joku oli töykeä minua kohtaan. Pahin asia on se, ettei hän edes tajunnut sitä...</AbrasiveTalk.description>
+    
+    <GreenThumbHappy.label>kylvi kasvin</GreenThumbHappy.label>
+    <GreenThumbHappy.description>Maailma tarvitsee enemmän kasveja!</GreenThumbHappy.description>
+    
+</LanguageData>

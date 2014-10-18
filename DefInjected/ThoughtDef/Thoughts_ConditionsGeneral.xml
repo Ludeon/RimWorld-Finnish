@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Hungry.label>nälkäinen</Hungry.label>
+    <Hungry.description>En ole syönyt hetkeen.</Hungry.description>
+    
+    <UrgentlyHungry.label>kipeästi nälkäinen</UrgentlyHungry.label>
+    <UrgentlyHungry.description>Nälkä kalvaa sisuksiani. Tarvitsen ruokaa tai näännyn kohta nälkään.</UrgentlyHungry.description>
+    
+    <Starving.label>nälänhätä</Starving.label>
+    <Starving.description>Haluan vain jotakin - mitä tahansa - syötävää. Tunnen, kuinka ruumiini on kuihtumassa pois. Sattuu...</Starving.description>
+    
+    <Tired.label>väsynyt</Tired.label>
+    <Tired.description>En ole nukkunut hetkeen.</Tired.description>
+    
+    <VeryTired.label>erittäin väsynyt</VeryTired.label>
+    <VeryTired.description>Olen hyvin väsynyt. Haluan vain mennä makuulle ja levätä pari minuuttia...</VeryTired.description>
+    
+    <Exhausted.label>uupunut</Exhausted.label>
+    <Exhausted.description>Olen niin uupunut, että pysyn hädin tuskin pystyssä. Silmäluomeni ovat lyijynraskaat. Anna minun nukkua...</Exhausted.description>
+    
+    <EnvironmentUgly.label>ruma ympäristö</EnvironmentUgly.label>
+    <EnvironmentUgly.description>Täällä on epämiellyttävä olla.</EnvironmentUgly.description>
+    
+    <EnvironmentVeryUgly.label>erittäin ruma ympäristö</EnvironmentVeryUgly.label>
+    <EnvironmentVeryUgly.description>Tämä paikka on todella epämiellyttävä. En halua olla täällä.</EnvironmentVeryUgly.description>
+    
+    <EnvironmentHideous.label>inhottava ympäristö</EnvironmentHideous.label>
+    <EnvironmentHideous.description>Tämä paikka on sietämätön. Haluan pois täältä...</EnvironmentHideous.description>
+    
+    <EnvironmentPretty.label>miellyttävä ympäristö</EnvironmentPretty.label>
+    <EnvironmentPretty.description>Tämä on hieno paikka.</EnvironmentPretty.description>
+    
+    <EnvironmentVeryPretty.label>erittäin miellyttävä ympäristö</EnvironmentVeryPretty.label>
+    <EnvironmentVeryPretty.description>Pidän todella paljon tästä paikasta. Se on kaunis.</EnvironmentVeryPretty.description>
+    
+    <EnvironmentBeautiful.label>kaunis ympäristö</EnvironmentBeautiful.label>
+    <EnvironmentBeautiful.description>Tämä paikka on kaunis. Se piristää minua ja saa minut rakastamaan elämää.</EnvironmentBeautiful.description>
+    
+    <EnvironmentCramped.label>ahdas ympäristö</EnvironmentCramped.label>
+    <EnvironmentCramped.description>Tämä paikka on todella sulkeinen. Tunnen kuin minulla ei olisi ollenkaan tilaa hengittää.</EnvironmentCramped.description>
+    
+    <EnvironmentVeryCramped.label>erittäin ahdas ympäristö</EnvironmentVeryCramped.label>
+    <EnvironmentVeryCramped.description>Täällä on erittäin ahdasta. Minulla ei ole tilaa liikkua. Tunnen itseni rotaksi pienessä häkissä.</EnvironmentVeryCramped.description>
+    
+    <EnvironmentSpaciousInterior.label>tilava sisätila</EnvironmentSpaciousInterior.label>
+    <EnvironmentSpaciousInterior.description>Tämä on todella mukavan avoin sisätila.</EnvironmentSpaciousInterior.description>
+    
+    <EnvironmentDark.label>pimeässä</EnvironmentDark.label>
+    <EnvironmentDark.description>Olen ollut pimeässä hetken aikaa. En pidä siitä.</EnvironmentDark.description>
+    
+    <CabinFeverMild.label>mökkihöperyys (mieto)</CabinFeverMild.label>
+    <CabinFeverMild.description>Olen ollut sisätiloissa päiviä. Minun pitää mennä ulos.</CabinFeverMild.description>
+    
+    <CabinFeverSerious.label>mökkihöperyys (vakava)</CabinFeverSerious.label>
+    <CabinFeverSerious.description>Olen ollut täällä loukussa kuin rotta todella kauan. Minun täytyy epätoivoisen kipeästi mennä ulos tai tulen hulluksi!</CabinFeverSerious.description>
+    
+    <Sick.label>kipeä</Sick.label>
+    <Sick.description>En voi kovin hyvin, olen sairas.</Sick.description>
+    
+</LanguageData>

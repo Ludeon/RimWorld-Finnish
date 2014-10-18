@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MoodOffsetSanguine.label>toiveikas</MoodOffsetSanguine.label>
+    <MoodOffsetSanguine.description>Luonnollinen mielialalisä Toiveikas-luonteenpiirteestä.</MoodOffsetSanguine.description>
+    
+    <MoodOffsetOptimist.label>optimisti</MoodOffsetOptimist.label>
+    <MoodOffsetOptimist.description>Luonnollinen mielialalisä Optimisti-luonteenpiirteestä.</MoodOffsetOptimist.description>
+    
+    <MoodOffsetPessimist.label>pessimisti</MoodOffsetPessimist.label>
+    <MoodOffsetPessimist.description>Luonnollinen haitta Pessimisti-luonteenpiirteestä.</MoodOffsetPessimist.description>
+    
+    <MoodOffsetDepressive.label>masentava</MoodOffsetDepressive.label>
+    <MoodOffsetDepressive.description>Luonnollinen haitta Masentava-luonteenpiirteestä.</MoodOffsetDepressive.description>
+    
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Psychic drone -->
+    
+    <PsychicDroneLow.label>psyykkinen häirintä (alhainen)</PsychicDroneLow.label>
+    <PsychicDroneLow.description>Tuntuu kuin jokin raapisi mieltäni. Kuiskiva ääni. Saan selvää vain pari sanaa, enkä pidä niistä.</PsychicDroneLow.description>
+    
+    <PsychicDroneMedium.label>psyykkinen häirintä (keskitaso)</PsychicDroneMedium.label>
+    <PsychicDroneMedium.description>Tunnen kuin joku olisi aina puhumassa minulle näkökenttäni ulkopuolelta. Ääni muuttuu, muttei viesti. Minun pitäisi vahingoittaa ihmisiä. Vie se pois!</PsychicDroneMedium.description>
+    
+    <PsychicDroneHigh.label>psyykkinen häirintä (korkea)</PsychicDroneHigh.label>
+    <PsychicDroneHigh.description>Ääni on kestämättömän kova. Keskittyminen on vaikeaa. Huomaan puhuvani sille, huutavani sille. Mutta se vain jatkaa huutamista!</PsychicDroneHigh.description>
+    
+    <PsychicDroneExtreme.label>psyykkinen häirintä (äärimmäinen)</PsychicDroneExtreme.label>
+    <PsychicDroneExtreme.description>Sydämeni hakkaa ja hikoilen. Voin ajatella vain vahingoittamista ja kärsimystä ja kaikkia ympärilläni olevia vihollisia. He ovat minun painajaiseni, painajaiseni, painajaiseni...</PsychicDroneExtreme.description>
+    
+</LanguageData>

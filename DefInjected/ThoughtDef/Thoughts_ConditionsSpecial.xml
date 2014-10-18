@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Imprisoned.label>vangittu</Imprisoned.label>
+    <Imprisoned.description>Vihaan lukkojen takana olemista.</Imprisoned.description>
+    
+    <SharedBedroom.label>jakaa makuuhuoneen</SharedBedroom.label>
+    <SharedBedroom.description>Huoneen jakaminen muiden kanssa on ärsyttävää. Haluan edes hieman yksityisyyttä. </SharedBedroom.description>
+    
+    <ColonistLeftUnburied.label>yhdyskuntalainen hautaamatta</ColonistLeftUnburied.label>
+    <ColonistLeftUnburied.description>Yksi meistä kuoli ja me vain jätämme hänet makaamaan näkyville. Ketään ei kuuluisi jättää noin. Ihmiset ansaitsevat säädylliset hautajaiset.</ColonistLeftUnburied.description>
+    
+    <HappyNude.label>onnellisesti alaston</HappyNude.label>
+    <HappyNude.description>Olen nakuna ja pidän siitä! Tunnen itseni niin vapaaksi ja rajoittamattomaksi ja yhdteydessä ympäristööni!</HappyNude.description>
+    
+    <Naked.label>alasti</Naked.label>
+    <Naked.description>Olen nakuna. Tämä on nolottavaa.</Naked.description>
+    
+    <MasochistLittlePain.label>pientä kipua</MasochistLittlePain.label>
+    <MasochistLittlePain.description>Au... Heh heh heh... Voisin tottua tähän!</MasochistLittlePain.description>
+    
+    <MasochistMediumPain.label>kohtuulien kipu</MasochistMediumPain.label>
+    <MasochistMediumPain.description>Hyh... Sattuu, mutta pidän siitä! Antaa tulla vaan!</MasochistMediumPain.description>
+    
+    <MasochistSeverePain.label>akuuttinen kipu</MasochistSeverePain.label>
+    <MasochistSeverePain.description>Auts... Jotain taitaa olla rikki... Mutta onpas aistikas tunne!</MasochistSeverePain.description>
+    
+    <MasochistInShock.label>shokissa poukkeuksellisesta kivusta</MasochistInShock.label>
+    <MasochistInShock.description>Aaaa... Olenko taivaassa?</MasochistInShock.description>
+    
+    <ProsthophileHappy.label>bioninen ruumiinosa</ProsthophileHappy.label>
+    <ProsthophileHappy.description>Olen modernin teknologian tulos! Voin tehdä kaiken paremmin!</ProsthophileHappy.description>
+    
+    <ProsthophobeUnhappy.label>bioninen ruumiinosa</ProsthophobeUnhappy.label>
+    <ProsthophobeUnhappy.description>He tekivät minusta teknologisen iljetyksen... Jos he vain olisivat antaneet minulle vaihtoehdon...</ProsthophobeUnhappy.description>
+    
+    <BrawlerUnhappy.label>painijalla on etätaisteluase</BrawlerUnhappy.label>
+    <BrawlerUnhappy.description>Hyh! Vihaan etäältä taisetemista. Haluan päästä lähelle!</BrawlerUnhappy.description>
+    
+</LanguageData>
