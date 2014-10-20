@@ -11,8 +11,8 @@
 
   
   <!-- Gameplay -->
-  <EdgeScreenScroll>Liikuta kameraa automaat.</EdgeScreenScroll>
-  <CustomCursor>Erikoiskursori</CustomCursor>
+  <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
+  <CustomCursor>Mukautettu kursori</CustomCursor>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
   <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
