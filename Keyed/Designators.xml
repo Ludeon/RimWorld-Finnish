@@ -27,23 +27,32 @@
   <DesignatorMine>Louhi</DesignatorMine>
   <DesignatorMineDesc>Merkitse kivialueet jotka louhitaan avoimiksi.</DesignatorMineDesc>
 
+  <DesignatorSmoothFloor>Hio lattia</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Määritä karkeita kivilattioita hiottaviksi.</DesignatorSmoothFloorDesc>
+
   <DesignatorPlan>Suunnittele</DesignatorPlan>
-  <DesignatorPlanDesc>Aseta suunitelmat. Nämä eivä tee mitään paitsi auttavat sinua suunnittelemaan tulevia laajennuksia.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Aseta suunitelmia. Nämä eivät itsessään tee mitään, mutta ne auttavat sinua suunnittelemaan tulevia laajennuksia.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Poista suunnitelmat</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Poista suunnitelmat tältä alueelta.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Poista suunnitelmia</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Poista suunnitelmia.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Lisää Kotialueita</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAdd>Lisää kotialue</DesignatorHomeRegionAdd>
   <DesignatorHomeRegionAddDesc>Yhdyskuntalaiset korjaavat rakennuksia, siivoavat lattioita ja sammuttavat tulipaloja ainoastaan Kotialueiden sisällä.</DesignatorHomeRegionAddDesc>
 
-  <DesignatorHomeRegionRemove>Poista Kotialue</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemove>Poista kotialue</DesignatorHomeRegionRemove>
   <DesignatorHomeRegionRemoveDesc>Poista Kotialue. Yhdyskuntalaiset eivät enää siivoa, korjaa tai sammuta tulipaloja tällä alueella.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofAdd>Luo katoton alue</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAdd>Lisää katoton alue</DesignatorRegionNoRoofAdd>
   <DesignatorRegionNoRoofAddDesc>Luo alue missä kattoja ei tehdä, yhdyskuntalaiset myös repivät olemassa olevat katot alas tällä alueella.</DesignatorRegionNoRoofAddDesc>
 
   <DesignatorRegionNoRoofRemove>Poista katoton alue</DesignatorRegionNoRoofRemove>
   <DesignatorRegionNoRoofRemoveDesc>Poista katoton alue. Kattoja voidaan tehdä tälle alueelle ja olemassaolevia kattoja ei revitä alas.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorRegionSnowClearAdd>Lisää lumenkolausalue</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Luo alue, jonka yhdyskuntalaiset yrittävät pitää puhtaana lumesta.</DesignatorRegionSnowClearAddDesc>
+
+  <DesignatorRegionSnowClearRemove>Poista lumenkolausalue</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Poistaa lumenkolausmääräyksen. Yhdyskuntalaiset eivät enää yritä pitää tätä aluetta puhtaana lumesta.</DesignatorRegionSnowClearRemoveDesc>
 
   <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
 
@@ -51,9 +60,8 @@
 
   <DesignatorZoneCreateStorageDumpingDesc>Luo kaatopaikka mihin yhdyskuntalaiset varastoivat romua/jätettä.\nTätä voidaan käyttää myös olemassaolevien kaatopaikkojen laajentamiseen.</DesignatorZoneCreateStorageDumpingDesc>
 
-
-  <DesignatorZoneDelete>Poista alueet</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Poista alueet, kuten varasto- tai kasvatusalueet.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>Poista alueita</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Poista alueita, kuten varasto- tai kasvatusalueita.</DesignatorZoneDeleteDesc>
   
   <DesignatorClaim>Valtaa</DesignatorClaim>
   <DesignatorClaimDesc>Valloita neutraaleja rakennelmia yhdyskunnalle, sisältäen muinaisrauniot ja hylätyt piiritys leirit. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
@@ -67,17 +75,17 @@
   <InteractionSpotBlocked>Käyttöpiste on estetty.</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>Käyttöpiste on rajojen ulkopuolella.</InteractionSpotOutOfBounds>
   <InteractionSpotWillBeBlocked>{0} tulee estämään tämän käyttöpisteen.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} estäisi {1}:n käyttöpisteen neliön.</WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>{0} estäisi kohdan, josta rakennelmaa {1} käytetään.</WouldBlockInteractionSpot>
   <TerrainIsAlready>Maaperä täällä on jo {0}.</TerrainIsAlready>
   <IdenticalThingExists>Identtinen esine on jo tässä.</IdenticalThingExists>
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>Maaperä tässä ei voi tukea tätä.</TerrainCannotSupport>
+  <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
 
 
 
   <!-- placement of zones -->
-  <ExpandOrCreateZone>Laajenna {0}:a tai\nLuo uusi {1}</ExpandOrCreateZone>
+  <ExpandOrCreateZone>Laajenna aluetta {0} tai\nLuo uusi {1}</ExpandOrCreateZone>
   <CreateNewZone>Luo uusi {0}</CreateNewZone>
   
   

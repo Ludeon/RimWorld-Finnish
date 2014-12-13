@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>Ryhmän {0} edustaja sylkee suustansa satunnaisia haukkumanimiä ja katkaisee yhteyden.</FactionGreetingHostile>
+  <FactionGreetingWary>Ryhmän {0} edustaja tervehtii {1} varovaisesti ja kertoo hänen asiansa.</FactionGreetingWary>
+  <FactionGreetingWarm>Ryhmän {0} edustaja tervehtii {1} lämpimästi ja kysyy miten yhdyskunnan asiat ovat.</FactionGreetingWarm>
+
+  <Disconnect>Katkaise yhteys</Disconnect>
+
+  <OfferGift>Tarjoa lahja</OfferGift>
+  <NeedSilverLaunchable>tarvitsee {0} hopeaa lähtövalmiina</NeedSilverLaunchable>
+  <NotEnoughSilver>Ei tarpeeksi hopeaa.</NotEnoughSilver>
+  <SilverForGoodwill>{0} hopeaa parantaaksesi suosiota {1}</SilverForGoodwill>
+  <SilverGiftSent>Ryhmän {0} edustaja kiittää sinua.\n\n(Suosio parantunut {1}).</SilverGiftSent>
+
+
+  <RequestMilitaryAid>Pyydä välitöntä sotilasapua ({0} suosiota)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} ei tule auttamaan sinua taistelemaan ryhmiä vastaan jotka eivät ole myös heidänkin vihollisiaan. Tämä sisältää nekin jotka tällä hetkellä uhkailevat sinua, {1}. Haluatko siltikin kutsua apua?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Kyllä, kutsu joka tapauksessa.</CallConfirm>
+  <CallCancel>Ei, unohda koko juttu.</CallCancel>
+  <MilitaryAidSent>Ryhmän {0} edustaja myöntyy lähettämään taistelijoita avuksesi.</MilitaryAidSent>
+  
+  
+</LanguageData>

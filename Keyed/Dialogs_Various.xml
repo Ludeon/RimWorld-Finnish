@@ -3,15 +3,15 @@
 
 
 
-  <Confirm>Varmista</Confirm>
-  <GoBack>Mene takaisin</GoBack>
+  <Confirm>Vahvista</Confirm>
+  <GoBack>Takaisin</GoBack>
   <OK>OK</OK>
   
   <!-- Save/load -->
   <SaveGameButton>Tallenna</SaveGameButton>
   <OverwriteButton>Korvaa</OverwriteButton>
   <LoadGameButton>Lataa</LoadGameButton>
-  <ConfirmDelete>Varmasti poista {0}?</ConfirmDelete>
+  <ConfirmDelete>Poistetaanko {0} varmasti?</ConfirmDelete>
   <DeleteThisSavegame>Poista tämä tallennus.</DeleteThisSavegame>
   <SavedAs>Tallennettu nimellä {0}.</SavedAs>
   <NeedAName>Anna nimi.</NeedAName>
@@ -52,14 +52,16 @@
   
   
   <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>VAROITUS: Suorituskyky saattaa kärsiä suuremmissa kentissä ellei tietokoneesi ole tehokas.\n\nJos sinulla on huonompi kone, valitse Pieni.\n\nAbsurdi-koko on testaamaton eikä lähes varmasti tule toimimaan hyvin.</MapSizePerformanceWarning>
+  <MapTemperatureDangerWarning>Varoitus: Olet laskeutumassa jäiseen ympäristöön. Selviytyminen saattaa olla vaikeaa tai lähes mahdotonta. Jos et halua äärimmäistä haastetta, valitse erilainen paikka tai aloituskuukausi.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Varoitus: Suorituskyky saattaa kärsiä suuremmissa kentissä ellei tietokoneesi ole tehokas.\n\nJos sinulla on huonompi kone, valitse Pieni.\n\nLudeoninen koko on testaamaton eikä lähes varmasti tule toimimaan hyvin.</MapSizePerformanceWarning>
   <MapSize>Kentän koko</MapSize>
   <MapSizeDesc>{0}x{0} ({1} neliötä)</MapSizeDesc>
   <MapSizeSmall>Pieni</MapSizeSmall>
   <MapSizeMedium>Keskikokoinen</MapSizeMedium>
   <MapSizeLarge>Suuri</MapSizeLarge>
-  <MapSizeExtreme>Absurdi</MapSizeExtreme>
-
+  <MapSizeExtreme>Ludeoninen</MapSizeExtreme>
+  <MapStartMonth>Aloituskuukausi:</MapStartMonth>
+  <MapStartMonthDefault>Automaattinen</MapStartMonthDefault>
 
 
   <!-- Bill config -->
@@ -71,10 +73,13 @@
   <IngredientSearchRadius>Valmistusaineiden etsintäalue</IngredientSearchRadius>
   <TargetCount>Tee, kunnes on: {0}</TargetCount>
   <Infinite>Loputon</Infinite>
-  <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kehdemäärää koska siinä on useampia tai arvaamattomia osia.)</RecipeCannotHaveTargetCount>
+
+  <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kohdemäärää, koska siinä on useampia tai arvaamattomia osia.)</RecipeCannotHaveTargetCount>
   <PermittedIngredients>Sallitut ainesosat</PermittedIngredients>
-  <MinimumSkills>Minimi taito:</MinimumSkills>
+  <WorkAmount>Työn määrä</WorkAmount>
+  <MinimumSkills>Minimitaito:</MinimumSkills>
   <BillRequires>Tarvitsee {0} {1}</BillRequires>
+  <BillRequiresMayVary>(Määrä saattaa vaihdella esineillä, joilla on epästandardi koko, kuten kullalla.)</BillRequiresMayVary>
   <UsableIngredients>käytettävät ainekset</UsableIngredients>
   <DoXTimes>Tee X kertaa</DoXTimes>
   <DoUntilYouHaveX>Tee, kunnes on X</DoUntilYouHaveX>
@@ -84,14 +89,7 @@
   <BillStoreMode_BestStockpile>Vie parhaaseen varastoon</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
   
-  <!-- Def Card -->
-  <Type>Tyyppi</Type>
-  <GunType>Ase</GunType>
-  <PlantType>Kasvi</PlantType>
-  <FoodType>Ruoka</FoodType>
-  <HumanType>Ihminen</HumanType>
-  <AnimalType>Eläin</AnimalType>
-  <MechanoidType>Mekanoidi</MechanoidType>
+  <!-- Info card -->
   <Damage>Vahinko</Damage>
   <Accuracy>Tarkkuus</Accuracy>
   <BurstShotCount>Sarjatulen laukausmäärä</BurstShotCount>
@@ -118,7 +116,6 @@
   <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
   <BasePrice>Perushinta</BasePrice>
   <Covers>Suojaa</Covers>
-  <NaturalArmorCovers>Luonnollinen panssari suojaa</NaturalArmorCovers>
   <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
   
   <!-- Trade -->
@@ -139,20 +136,6 @@
 
   <!-- Comms -->
   <SocialSkillIs>Sosiaaliset taidot: {0}</SocialSkillIs>
-
-  <!-- Stats report -->
-  <StatsReport_BaseValue>Alkuarvo</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Tätä koskevat luonteenpiirteet</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Tätä koskevat varusteet</StatsReport_RelevantGear>
-  <StatsReport_Material>Materiaali</StatsReport_Material>
-  <StatsReport_CharacterQuality>Hahmon laatu</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Taitojen vaikutus</StatsReport_Skills>
-  <StatsReport_OtherStats>Muiden tilastojen vaikutus</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Terveyden vaikutus</StatsReport_HealthFactors>
-  <HealthFactorPercentImpact>tärkeys {0}</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Jälkikäsittely</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Lopullinen arvo</StatsReport_FinalValue>
-
 
   <!--Research-->
   <ResearchFinished>Tutkimus suoritettu: {0}</ResearchFinished>

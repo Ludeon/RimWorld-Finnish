@@ -4,7 +4,7 @@
   <ClockTime>Aika</ClockTime>
   <ClockDate>Päivä</ClockDate>
   <ClockYear>Vuosi</ClockYear>
-  <DateReadoutTip>Päiviä saapumisestasi: {0}\nJokaisessa kuussa on {1} päivää.</DateReadoutTip>
+  <DateReadoutTip>Päiviä saapumisestasi: {0}\nJokaisessa kuussa on {1} päivää.\nNykyinen vuodenaika: {2}</DateReadoutTip>
 
 
 

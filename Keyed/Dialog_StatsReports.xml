@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  <StatsReport_BaseValue>Alkuarvo</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Tätä koskevat luonteenpiirteet</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Tätä koskevat varusteet</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiaali</StatsReport_Material>
+  <StatsReport_CharacterQuality>Hahmon laatu</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Taitojen vaikutus</StatsReport_Skills>
+  <StatsReport_OtherStats>Muiden tilastojen vaikutus</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Terveyden vaikutus</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>Tärkeys {0}</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Jälkikäsittely</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Lopullinen arvo</StatsReport_FinalValue>
+  <StatsReport_QualityMultiplier>Laatukerroin</StatsReport_QualityMultiplier>
+  <StatsReport_MarketValueFromStuffsAndWork>Markkina-arvoon on laskettu mukaan rakennusmateriaalit ja työn määrä.</StatsReport_MarketValueFromStuffsAndWork>
+
+</LanguageData>

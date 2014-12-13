@@ -20,6 +20,7 @@
   <Omnivorous>Kaikkiruokainen</Omnivorous>
   <Herbivorous>Kasvissyöjä</Herbivorous>
   <Carnivorous>Lihansyöjä</Carnivorous>
+  <Dendrovorous>Puunsyöjä</Dendrovorous>
   
   <!-- history upload pref -->
   <Unspecified>Päättämätön</Unspecified>
@@ -33,18 +34,16 @@
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
   <PriceTypeExorbitant>kohtuuton</PriceTypeExorbitant>
 
-  <!-- stat category -->
-  <StatCategory_General>Yleisiä</StatCategory_General>
-  <StatCategory_GeneralNonPawn>Yleisiä</StatCategory_GeneralNonPawn>
-  <StatCategory_Armor>Panssari</StatCategory_Armor>
-  <StatCategory_PawnPrimary>Ensisijaisia</StatCategory_PawnPrimary>
-  <StatCategory_PawnWork>Työskentely</StatCategory_PawnWork>
-  <StatCategory_PawnCombat>Taistelu</StatCategory_PawnCombat>
-  <StatCategory_PawnSocial>Sosiaalisuus</StatCategory_PawnSocial>
-  <StatCategory_PawnMisc>Muut</StatCategory_PawnMisc>
-  <StatCategory_Building>Rakennus</StatCategory_Building>
-  
-  <EquippedStatOffsets>Siirtymät otettaessa käyttöön</EquippedStatOffsets>
-  <StuffOfEquipmentStatModifiers>Muutokset kun varusteet tehdään tästä</StuffOfEquipmentStatModifiers>
+  <!-- Quality category -->
+  <QualityCategory_Awful>hirveä</QualityCategory_Awful>
+  <QualityCategory_Shoddy>surkea</QualityCategory_Shoddy>
+  <QualityCategory_Poor>huno</QualityCategory_Poor>
+  <QualityCategory_Normal>normaali</QualityCategory_Normal>
+  <QualityCategory_Good>hyvä</QualityCategory_Good>
+  <QualityCategory_Superior>parempi</QualityCategory_Superior>
+  <QualityCategory_Excellent>erinomainen</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>mestariteos</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendaarinen</QualityCategory_Legendary>
+
 
 </LanguageData>

@@ -40,6 +40,11 @@
 
   <LetterSolarFlare>Auringonpurkaus on alkanut.\n\nVoimakas säteily sammuttaa kaikki sähköiset laitteet.\n\nSen pitäisi loppua noin päivän sisällä.</LetterSolarFlare>
 
+  <LetterHeatWave>Epätavallinen lämpöaalto on alkanut. Varo lämpöhalvausta.</LetterHeatWave>
+  <HeatWaveOver>Lämpöaalto on ohi.</HeatWaveOver>
+  <LetterColdSnap>Epätavallinen kylmä kausi on laskeutunut alueelle. Varo hypotermiaa ja viljelmien kuolemaa.</LetterColdSnap>
+  <ColdSnapOver>Kylmä kausi on ohi.</ColdSnapOver>
+
   <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.</TraderArrival>
 
   <SingleTravelerPassing>{0} tukikohdasta {1} on kulkemassa ohi. HISCAP nimensä on {2}.</SingleTravelerPassing>
@@ -69,5 +74,13 @@
   
   <!-- Distant psychic drone -->
   <LetterIncidentPsychicDrone>Jokainen sukupuoleltaan {0} oleva irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite luo voimakkaan psyykkisen häiriön koko tämän alueen ylle, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain {0} sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.</LetterIncidentPsychicDrone>
-  
+
+  <!-- Beavers -->
+  <BeaversArrived>Ryhmä nälkäisiä alfamajavia on juuri saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puun.</BeaversArrived>
+
+
+
+
+
+
 </LanguageData>

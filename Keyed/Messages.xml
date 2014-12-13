@@ -2,21 +2,21 @@
 <LanguageData>
 
  
-  <MessageSiegersAssaulting>Piirittävä {0} {1}:sta ovat hyökkäämässä yhdyskuntaan.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Piirittävät {0} tukikohdasta {1} ovat hyökkäämässä yhdyskuntaan.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} {1}:sta aloittavat hyökkäyksen.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} {1}:sta ovat huomanneet siirtokunnan ja aloittavat hyökkäyksen aikaisessa.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} {1}:sta ovat päättäneet kidnapata kaikki ketkä he voivat ja lähteä.</MessageRaidersKidnapping>
+  <MessageRaidersBeginningAssault>{0} tukikohdasta {1} aloittavat hyökkäyksen.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} tukikohdasta {1} ovat huomanneet siirtokunnan ja aloittavat hyökkäyksen aikaisessa.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} tukikohdasta {1} ovat päättäneet kidnapata kaikki ketkä he voivat ja lähteä.</MessageRaidersKidnapping>
 
-  <MessageRaidersLeaving>{0} {1}:sta ovat lähdössä.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} {1}:sta ovat luovuttaneet ja lähtevät.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} {1}:sta ovat tyytyväisiä aiheuttamaansa vahinkoon ja ovat poistumassa.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{0} tukikohdasta {1} ovat lähdössä.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} tukikohdasta {1} ovat luovuttaneet ja lähtevät.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} tukikohdasta {1} ovat tyytyväisiä aiheuttamaansa vahinkoon ja ovat poistumassa.</MessageRaidersSatisfiedLeaving>
 
   
-  <MessageFightersFleeing>{0} {1}:sta juoksevat pakoon.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Ystävällinen {0} {1}:sta ovat lähdössä.</MessageFriendlyFightersLeaving>
+  <MessageFightersFleeing>{0} tukikohdasta {1} juoksevat pakoon.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Ystävällinen {0} tukikohdasta {1} ovat lähdössä.</MessageFriendlyFightersLeaving>
 
-
+  <MessageSeasonBegun>{0} on alkanut.</MessageSeasonBegun>
 
   <MessageShipHasLeftCommsRange>{0} on nyt yhteyskantaman ulkopuolella.</MessageShipHasLeftCommsRange>
 	
@@ -46,6 +46,11 @@
   <MessageMustDesignateHarvestableWood>Pitää määrittää puuta tuottavia, tarpeeksi kasvaneita puita.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Pitää määrittää kasveja.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Pitää määrittää siirrettäviä tavaroita.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Pitää määrittää läpäisemätöntä louhimiskelpoista kiveä.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Pitää määrittää metsästämiskelpoisia eläimiä.</MessageMustDesignateHuntable>
+  <MessageMustDesignateClaimable>Pitää määrittää hylättyjä keinotekoisia rakennelmia.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Pitää määrittää karkeaa kivilattiaa.</MessageMustDesignateSmoothableFloor>
+  
   
   <MessageNoMedicalBeds>Lääkisemiseen varattuja sänkyjä ei ole yhtään saatavilla.</MessageNoMedicalBeds>
   

@@ -18,9 +18,6 @@
   <NeedSawmill>Tarvitset sahan</NeedSawmill>
   <NeedSawmillDesc>Tarvitset jonkinlaisen sahan jolla voit sahata puita monikäyttöisemmiksi lankuiksi.\n\nRakenna SAHA tai SÄHKÖINEN SAHA.</NeedSawmillDesc>
 
-  <EquipStartingEquipment>Ota varusteesi</EquipStartingEquipment>
-  <EquipStartingEquipmentDesc>Laskeuduit joidenkin aseiden kanssa. Ota ne laskeutumisalueeltasi.\n\nVarustaaksesi yhdyskuntalaisen, valitse yhdyskuntalainen ja hiiren oikealla näppäimellä klikkaa esinettä jonka haluat ottaa.</EquipStartingEquipmentDesc>
-
   <MentalBreakSoon>Hermoromahduksen vaara</MentalBreakSoon>
   <MentalBreakSoonDesc>Nämä yhdyskuntalaiset ovat lähestymässä hermoromahduksen rajaa:\n\n{0}\nParanna näiden yhdyskuntalaisten psyykkistä tilla tai pahoja tulee tapahtumaan.</MentalBreakSoonDesc>
 
@@ -37,7 +34,7 @@
   <NeedGrowingZone>Tarvitset pellon</NeedGrowingZone>
   <NeedGrowingZoneDesc>Et ole määrittänyt kasvatusaluetta.\n\nAseta kasvatusalue hedelmälliselle maalle ARKKITEHTI valikosta.</NeedGrowingZoneDesc>
 
-  <NeedDefenses>Tarvitset puollustuksia</NeedDefenses>
+  <NeedDefenses>Tarvitset puolustuksia</NeedDefenses>
   <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Piraattien hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia.\n\nRakenna joitain tykkitorneja.</NeedDefensesDesc>
 
   <NeedDoctor>Tarvitset lääkärin</NeedDoctor>
@@ -52,40 +49,46 @@
   <LowFood>Vähän ruokaa</LowFood>
   <LowFoodDesc>Sinulla on vain {0}:n edestä ruokaa varastossa. Tämä on vaarallisen vähänä.\n\nKasvata, osta, löydä tai tapa jotain ruo'aksesi.</LowFoodDesc>
 
-  <NeedColonistBeds>Tarvitset yhdyskuntalais-sängyn</NeedColonistBeds>
-  <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on sänkyjä heille. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängygsi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Tarvitset sängyn yhdyskuntalaisille</NeedColonistBeds>
+  <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
 
-  <Starvation>Nälkä</Starvation>
+  <HunterLacksWeapon>Metsästäjällä ei ole asetta</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Yhdyskuntalainen on määrätty metsästäjäksi, mutta hänellä ei ole asetta. Hän ei metsästä ennen kuin hänellä on ase.\n\nSuosittelemme ampuma-aseen käyttöä loukkaantumisen välttämiseksi.</HunterLacksWeaponDesc>
+
+  <Starvation>Nälänhätä</Starvation>
   <StarvationDesc>Nämä yhdyskuntalaiset ovat nääntymässä nälkään:\n\n{0}\nHanki heille jotain ruokaa. Tarvitset ruo'oanlähteen kuten ravinnetahna-annostelija ja joitain ruokaa millä tehdä ravinnetahnaa. Varmista myös että he eivät ole värvättyjä.</StarvationDesc>
 
-  <Exhaustion>Väsymys</Exhaustion>
-  <ExhaustionDesc>Nämä yhdyskuntalaiset ovat erittäin väsyneitä ja tarvitsevat lepoa:\n\n{0}\nHe tarvitsevat sängyn joka on merkitty yhdyskuntalaisten käyttöön. Varmista myös se että he eivät ole värvättyjä.</ExhaustionDesc>
+  <Exhaustion>Ylirasittuminen</Exhaustion>
+  <ExhaustionDesc>Nämä yhdyskuntalaiset ovat erittäin väsyneitä ja tarvitsevat lepoa:\n\n{0}\nHe tarvitsevat sängyn, joka on merkitty yhdyskuntalaisten käyttöön. Varmista lisäksi etteivät he ole värvättyjä.</ExhaustionDesc>
 
-  <NeedFoodHopper>Tarvitset hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>Sinulla on ravinnetahna-annostelija jolla ei ole syöttötorvea vieressään.\n\nToimiakseen tahna-anostelijoiden täytyy ottaa raakaa ruokaa viereisestä syöttötorvesta.\n\nRakenna syöttötorvi annostelijan viereen.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Tarvitset suppilon</NeedFoodHopper>
+  <NeedFoodHopperDesc>Sinulla on ravinnetahna-annostelija, jonka vieressä ei ole suppiloa.\n\nTahna-annostelija tarvitsee vierelleen suppilon täynnä raakaa ruokaa.\n\nRakenna annostelijan viereen suppilo.</NeedFoodHopperDesc>
 
   <BuildingNeedsPower>Rakennus tarvitsee virtaa</BuildingNeedsPower>
-  <BuildingsNeedPower>Rakkenkset tarvitsevat virtaa</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>Nämä virtaa käyttävät rakennukset ovat irrallaan kaikista mahdollisista virranlähteistä:\n\n{0}\nYhdistä ne generaattoriin tai paristoon.</BuildingsNeedPowerDesc>
+  <BuildingsNeedPower>Rakkenukset tarvitsevat virtaa</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Nämä virtaa käyttävät rakennukset ovat irrallaan kaikista mahdollisista virranlähteistä:\n\n{0}\nYhdistä ne generaattoriin tai akkuun.</BuildingsNeedPowerDesc>
   <AndMore>lisää</AndMore>
 
   <NeedMealSource>Tarvitset ruuanlähteen</NeedMealSource>
   <NeedMealSourceDesc>Sinulla ei ole mitään tapaa valmistaa kunnollisia aterioita raa'oista aineksista.\n\nRakenna ravinnetahna-annostelija tai liesi.\n\n(Se ei saa olla vangin huoneessa, muuten yhdyskuntalaiset eivät voi käyttää sitä.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Tarvitste kotialueen</NeedHomeRegion>
-  <NeedHomeRegionDesc>Sinun täytyy määrittä KOTIALUE missä yhdyskuntalaisesi siivoavat, sammuttavat paloja ja korjaavat juttuja.\n\nMääritä kotialue ALUUET välilehdessä ARKKITEHTI-valikossa.</NeedHomeRegionDesc>
+  <NeedHomeRegion>Tarvitset kotialueen</NeedHomeRegion>
+  <NeedHomeRegionDesc>Sinun täytyy määrittä KOTIALUE, missä yhdyskuntalaisesi siivoavat, sammuttavat paloja ja korjaavat rakennelmia.\n\nMääritä kotialue ALUEET-välilehdessä ARKKITEHTI-valikossa.</NeedHomeRegionDesc>
 
-  <NeedBatteries>Tarvitset paristoja</NeedBatteries>
-  <NeedBatteriesDesc>Sinulla on vain aurinkopaneeleja eikä yhtään paristoa. Tämä tarkoittaa sitä että joka kerta kun aurinko laskee, sähköt katkeavat.\n\nRakenna yksi tai kaksi paristoa selvitäksesi yön yli ilman sähkökatkoja.</NeedBatteriesDesc>
+  <NeedBatteries>Tarvitset akkuja</NeedBatteries>
+  <NeedBatteriesDesc>Sinulla on aurinkopaneeleja, mutta ei yhtäkään akkua. Tästä johtuen joka kerta, kun aurinko laskee, sähköt katkeavat.\n\nRakenna muutama akku selvitäksesi yön yli ilman sähkökatkoja.</NeedBatteriesDesc>
 
   <NoTradingCapacity>Ei vaihtokapasiteettia</NoTradingCapacity>
   <NoTradingCapacityDesc>Sinulla ei ole minkäänlaista tapaa kommunikoida mahdollisten kauppa-alusten kanssa.\n\nRakenna kommunikaatiopaneeli.</NoTradingCapacityDesc>
 
+  <BrawlerHasRangedWeapon>Painijalla on ampuma-ase</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Eräällä yhdyskuntalaisellasi on Painija-luonteenpiirre, mutta kantaa silti ampuma-asetta. Tämä tekee hänet hyvin surulliseksi.</BrawlerHasRangedWeaponDesc>
+
   <NeedResearchProject>Tarvitset tutkimusprojektin</NeedResearchProject>
   <NeedResearchProjectDesc>Sinulla on tutkimusvälineet mutta et ole valinnut tutkimuskohdetta.\n\nAvaa tutkimusvalikko ja valitse tutkimuskohde.</NeedResearchProjectDesc>
 
-  <NeedDump>Tarvitset varastointipaikan</NeedDump>
-  <NeedDumpDesc>Olet merkinnyt {0}:n raahattavaksi, mutta yhdyskuntalaisillasi ei ole paikkaa minne viedä niitä.\n\nMääritä varastoalue ja aseta se hyväksymään {0}:a.</NeedDumpDesc>
+  <NeedDump>Tarvitset kaatopaikan</NeedDump>
+  <NeedDumpDesc>Olet merkinnyt esineen {0} raahattavaksi, mutta yhdyskuntalaisillasi ei ole paikkaa minne viedä sitä.\n\nMääritä kaatopaikka ja aseta se hyväksymään samantyyppisiä tavaroita kuin {0}.</NeedDumpDesc>
 
   <NeedGrave>Tarvitset haudan</NeedGrave>
   <NeedGraveDesc>Maassa makaa kuollut ruumis eikä paikkaa minne yhdyskuntalasisesi voisivat viedä sen.\n\nTee hauta tai kaatopaikka ja aseta se vastaanottamaan ruumiita.</NeedGraveDesc>
@@ -93,14 +96,17 @@
   <ColonistsIdle>{0} yhdyskuntalaista joutilaana</ColonistsIdle>
   <ColonistsIdleDesc>Nämä yhdyskuntalaiset haahuilevat toimettomina:\n\n{0}\nSinun kannattaisi keksiä heille jotain tekemistä.</ColonistsIdleDesc>
 
-  <HaltedConstructions>{0}:sta rakennuksesta puuttuu materiaaleja</HaltedConstructions>
-  <HaltedConstructionsDesc>Näillä rakennushankkeilla ei ole kaikkia tarvittavia materiaaleja:\n\n{0}\nSinu kannattaisi kerätä tarvittavia materiaaleja jotta yhdyskuntalaisesi voivat jatkaa rakentamista.</HaltedConstructionsDesc>
+  <HaltedConstructions>{0} rakennuksesta puuttuu materiaaleja</HaltedConstructions>
+  <HaltedConstructionsDesc>Näillä rakennushankkeilla ei ole kaikkia tarvittavia materiaaleja:\n\n{0}\nSinun kannattaisi kerätä tarvittavia materiaaleja, jotta yhdyskuntalaisesi voivat jatkaa rakentamista.</HaltedConstructionsDesc>
 
   <TableNeedsChairs>Pöytä tarvitsee tuoleja</TableNeedsChairs>
   <TableNeedsChairsDesc>Sinulla on pöytä jolla ei ole tuoleja sen vieressä. Pöydät ovat hyödyttömiä ilman tuoleja joille ihmiset voivat istua.</TableNeedsChairsDesc>
 
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Hypothermia</AlertHypothermia>
+  <AlertHypothermiaDesc>Nämä yhdyskuntalaiset kärsivät hypotermiasta.\n\n{0}\nVarmista, että heidän vaatetuksensa on vuodenaikaan sopiva ja että sisätilat ovat lämmitettyjä.</AlertHypothermiaDesc>
 
   <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>Nämä yhdyskuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+<DaysLower>päivää</DaysLower>
+<SecondsLower>sekuntia</SecondsLower>
+
+<SeasonSpring>Kevät</SeasonSpring>
+<SeasonSummer>Kesä</SeasonSummer>
+<SeasonFall>Syksy</SeasonFall>
+<SeasonWinter>Talvi</SeasonWinter>
+
+</LanguageData>

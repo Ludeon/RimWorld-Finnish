@@ -18,10 +18,10 @@
   
   
   <!-- Drafting -->
-  <CommandDraftLabel>Kutsu palvelukseen</CommandDraftLabel>
+  <CommandDraftLabel>Värvää</CommandDraftLabel>
   <CommandUndraftLabel>Vapauta palveluksesta</CommandUndraftLabel>
   <CommandToggleDraftDesc>Asepalvelus päällä/pois.\n\nKutsutut henkilöt ottavat vastaan komentoja ja taistelevat. He eivät tee työtä, syö tai lepää.</CommandToggleDraftDesc>
-  <IsIncapped>{0} on työkyvytön.</IsIncapped>
+  <IsIncapped>{0} on lamaantunut.</IsIncapped>
 
   
   <CommandCancelConstructionLabel>Peruuta</CommandCancelConstructionLabel>
@@ -87,6 +87,17 @@
   <!-- Door -->
   <CommandToggleDoorLock>Vaihda lukon tila</CommandToggleDoorLock>
   <CommandToggleDoorLockDesc>Lukitse tai avaa oven lukko. Lukitut ovet eivät avaudu kenellekään.</CommandToggleDoorLockDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>Nollaa</CommandResetTemp>
+  <CommandResetTempDesc>Aseta tavoitelämpötila takaisin huoneenlämpötilaan.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Nosta tavoitelämpötilaa.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Laske tavoitelämpötilaa.</CommandLowerTempDesc>
+
+  <!-- Art -->
+  <CommandInstall>Asenna</CommandInstall>
+  <CommandInstallDesc>Tämä esine on pakattu varastoimista ja kuljetusta varten. Käytä tätä komentoa asentaaksesi tämän esineen lopulliselle paikalleen, jotta sitä voidaan katsella tai käyttää.</CommandInstallDesc>
+
 
 
 </LanguageData>

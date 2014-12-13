@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Tilaukset</TabBills>
+  <TabGrowing>Kasvatus</TabGrowing>
+  <TabCharacter>Henkilö</TabCharacter>
+  <TabPrisoner>Vanki</TabPrisoner>
+  <TabGear>Varusteet</TabGear>
+  <TabThoughts>Mietteet</TabThoughts>
+  <TabStorage>Varasto</TabStorage>
+  <TabHealth>Terveys</TabHealth>
+  <TabRace>Rotu</TabRace>
+  <TabBasics>Perustiedot</TabBasics>
+  <TabStats>Tilastot</TabStats>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Lisää tilaus</AddBill>
+  <RecipeRequiresSkills>{0}:n resepti tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
+  <BillConfig>Asetukset</BillConfig>
+  <SuspendedCaps>KESKEYTETTY</SuspendedCaps>
+  <PlantVerb>Istuta</PlantVerb>
+
+
+  <!-- Prisoner tab -->
+  <RecruitmentDifficulty>Värväyksen vaikeus</RecruitmentDifficulty>
+  <PrisonerGetsFood>Saa ruokaa</PrisonerGetsFood>
+  <DoctorsCare>Lääkärit huolehtivat</DoctorsCare>
+  <PrisonerGetsMedicine>Saa lääkintää</PrisonerGetsMedicine>
+  <ShouldTryToRecruit>Yritä värvätä</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Ei vuorovaikutusta</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Ystävällistä keskustelua</PrisonerFriendlyChat>
+  <PrisonerRelease>Päästä vapaaksi</PrisonerRelease>
+  <PrisonerExecution>Teloitus</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Liikkumisnopeus</MoveSpeed>
+  <Efficiency>Tehokkuus</Efficiency>
+  <MissingBodyPart>Poissa</MissingBodyPart>
+  <DestroyedBodyPart>Tuhoutunut</DestroyedBodyPart>
+  <ShatteredBodyPart>Pirstoutunut</ShatteredBodyPart>
+  <RemovedBodyPart>Poistettu</RemovedBodyPart>
+  <Healthy>Terve</Healthy>
+  <InPain>Kivussa</InPain>
+  <PainLevel>Kipu</PainLevel>
+  <Dead>Kuollut</Dead>
+  <Unconscious>Tajuton</Unconscious>
+  <PainShock>Shokissa</PainShock>
+  <Injured>Haavoittunut</Injured>
+  <NoInjuries>(ei vammoja)</NoInjuries>
+  <WholeBody>Koko ruumis</WholeBody>
+  <DataProcessing>Tiedonkäsittely</DataProcessing>
+  <Communication>Kommunikaatio</Communication>
+  <AffectsLower>vaikuttaa</AffectsLower>
+  <BleedingRate>Veren vuotonopeus</BleedingRate>
+  <HealthOverview>Yleiskatsaus</HealthOverview>
+  <MedicalOperationsShort>Operaatiot ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Muokkaukset ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medical operations</MedicalOperations>
+  <Amputate>Amputoi</Amputate>
+  <Harvest>Kerää</Harvest>
+  
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Olematon</None>
+  <VeryPoor>Erittäin heikko</VeryPoor>
+  <Poor>Heikko</Poor>
+  <Weakened>Heikentynyt</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Paranneltu</Enhanced>
+  <SeriouslyImpaired>Vakavasti estynyt</SeriouslyImpaired>
+  <Impaired>Heikentynyt</Impaired>
+  <SlightlyImpaired>Vähäisesti estynyt</SlightlyImpaired>
+  <NoPain>Olematon</NoPain>
+  <LittlePain>Pieni</LittlePain>
+  <MediumPain>Keskiverto</MediumPain>
+  <SeverePain>Voimakas</SeverePain>
+  <ExtremePain>Äärimmäinen</ExtremePain>
+
+
+
+
+
+
+
+
+</LanguageData>

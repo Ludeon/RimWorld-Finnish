@@ -19,6 +19,10 @@
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
   <CompiledOn>Laadittu {0}</CompiledOn>
 
+
+
+  <!-- Content generation-->
+  
 	<MeatLabel>{0} lihaa</MeatLabel>
   <MeatDesc>Raakaa lihaa oliosta {0}.</MeatDesc>
 
@@ -29,10 +33,17 @@
 	<CorpseDesc>{0} ruumis.</CorpseDesc>
   <DeadLabel>{0} (kuollut)</DeadLabel>
 
+  <RoughStoneTerrainLabel>karkea {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Karkea luonnollinen {0}maa.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>karkeaksi louhittu {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Karkeasti leikattu luonnollinen {0} lattia.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>sileä {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Hiottu luonnollinen {0}lattia.</SmoothStoneTerrainDesc>
 
 	<BlueprintLabelExtra> (piirrustus)</BlueprintLabelExtra>
   <FrameLabelExtra> (piirrustus)</FrameLabelExtra>
-  
+
+
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>

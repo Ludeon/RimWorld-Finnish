@@ -93,12 +93,15 @@
   <Elevation>Korkeus</Elevation>
   <Fertility>Hedelmällisyys</Fertility>
   <AvgTemp>Keskim. lämpötila</AvgTemp>
+  <AvgJanTemp>Keskim. lämp. (Tammikuu): {0}</AvgJanTemp>
+  <AvgJulTemp>Keskim. lämp. (Kesäkuu): {0}</AvgJulTemp>
   <Rainfall>Sademäärä</Rainfall>
   <HasCoast0>Pohjoisrannikko</HasCoast0>
   <HasCoast1>Itärannikko</HasCoast1>
   <HasCoast2>Etelärannikko</HasCoast2>
   <HasCoast3>Länsirannikko</HasCoast3>
   <FactionBase>Tukikohta</FactionBase>
+  <StoneTypesHere>Kivilajit</StoneTypesHere>
 
 
   <!--=========== Character chooser ==========-->
@@ -130,7 +133,7 @@
   
   <Gameplay>Pelattavuus</Gameplay>
 
-  <ConfirmQuit>Oikeasti lopetat? Menetät kaiken tallentamattoman edistyksen.</ConfirmQuit>
+  <ConfirmQuit>Haluatko varmasti lopettaa? Menetät kaiken tallentamattoman edistyksen.</ConfirmQuit>
   
   <EveryoneNeedsValidName>Jokainen henkilö tarvitsee sopivan nimen.</EveryoneNeedsValidName>
 

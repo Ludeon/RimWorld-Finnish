@@ -43,6 +43,10 @@
   <Rescue>Pelasta {0}</Rescue>
   <CannotRescue>Ei voi pelastaa</CannotRescue>
 
+  <CarryToCryptosleepCasket>Kanna {0} salauniarkkuun</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Ei voi kantaa salauniarkkuun</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Ei saatavilla olevaa salauniarkkua.</NoCryptosleepCasket>
   <NoPrisonerBed>Ei vapaana olevaa suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
   <NoNonPrisonerBed>Ei vapaana olevaa käytettävää ei-vangin sänkyä.</NoNonPrisonerBed>
   <Reserved>Joku muu on varannut tämän.</Reserved>
@@ -64,6 +68,8 @@
   <Deposit>Talleta {0} {1}:een</Deposit>
   <CannotDeposit>Ei voi tallettaa {0}:a {1}:een</CannotDeposit>
 
+  <SelfDestructHere>Tuhoudu tässä</SelfDestructHere>
+  
   <Drop>Pudota {0}</Drop>
   
   <UseMedicalBed>Lepää, kunnes täysin parantunut</UseMedicalBed>
@@ -71,7 +77,8 @@
   <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepPod>Mene salaunikapseliin</EnterCryptosleepPod>
+  <EnterCryptosleepCasket>Mene salauniarkkuun</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Avaa salauniarkku</OpenCryptosleepCasket>
   
   
   
@@ -79,6 +86,8 @@
   <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Ei voi priorisoida (Terveysongelma: {0})</CannotMissingHealthActivities>
+
   <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
 
   <CannotPrioritizeIsNotA>Ei voi priorisoida ({0} ei ole {1})</CannotPrioritizeIsNotA>
@@ -86,6 +95,7 @@
   <CannotPrioritizeResearch>Ei voi priorisoida (tutkimus on pitkäaikainen tehtävä)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
+
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Priorisoi kohteen {1} {0}</PrioritizeGeneric>

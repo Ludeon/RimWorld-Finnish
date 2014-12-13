@@ -21,7 +21,7 @@
   
   <!-- Factions tab -->
   <Hostile>Vihamielinen</Hostile>
-  <HostileTo>{0}:n vihollinen</HostileTo>
+  <HostileTo>Ryhmän {0} vihollinen</HostileTo>
   <CurrentGoodwill>Tämänhetkinen suosio tämän ryhmän kanssa.</CurrentGoodwill>
 
   

@@ -3,6 +3,8 @@
 
   <JumpToLocation>Hyppää sijaintiin</JumpToLocation>
 
+  <FirstSummerWarning>Kesä on alkanut! Talvi on silti tulossa.\n\nSinun ruokaviljelmäsi eivät kasva talven kylmässä. Varmista, että sinulla on ruokaa varastossa usean kuukauden tarpeiksi kun sinulla on siihen vielä mahdollisuus.\n\nVoit rakentaa jäähdytyshuoneen estääksesi ruuan pilaantumisen.\n\nYritä lisäksi ostaa, varastaa tai tehdä itse anorakkeja tai jäädyt astueassasi ulos.</FirstSummerWarning>
+
   <RelationsBrokenDown>Suhteesi ryhmän {0} kanssa ovat tulehtuneet. He ovat nyt vihamielisiä sinua kohtaan.</RelationsBrokenDown>
   <RelationsWarmed>Suhteesi ryhmän {0} kanssa  ovat lämmenneet. He eivät ole enää vihamielisiä sinua kohtaan.</RelationsWarmed>
 
@@ -19,8 +21,12 @@
   <NothingCrushed>Mitään ei murskautunut.</NothingCrushed>
   
   <MentalBreakRampage>{0} sai hermorohmahduksen ja hyökkää väkivaltaiseksi kaikkia kohtaan.</MentalBreakRampage>
-  <MentalBreakDaze>{0} on luovuttanut ja on lähdössä yhdyskunnasta.</MentalBreakDaze>
-  <MentalBreakLeave>{0} on luovuttanut ja haahuilee ympäriinsä sekavana.</MentalBreakLeave>
+  <MentalBreakDaze>{0} on luovuttanut ja haahuilee ympäriinsä sekavana.</MentalBreakDaze>
+  <MentalBreakLeave>{0} on luovuttanut ja on lähdössä yhdyskunnasta.</MentalBreakLeave>
+
+  <MentalBreakRecoveryRampage>Henkilön {0} väkivaltainen riehuminen on päättynyt.</MentalBreakRecoveryRampage>
+  <MentalBreakRecoveryDaze>{0} tuli takaisin järkiinsä.</MentalBreakRecoveryDaze>
+  <MentalBreakRecoveryLeave>{0} muutti mieltään ja palaa takaisin yhdyskuntaan.</MentalBreakRecoveryLeave>
 
   <RecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</RecruitSuccess>
   <RecruitFail>{0} epäonnistui vangin {1} värmäämisessä ({2} mahdollisuus).</RecruitFail>
@@ -30,5 +36,6 @@
   
   <NewDisease>{0} tuli sairaaksi ({1}). Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewDisease>
   <NewPartDisease>{0} sai {1}-tartunnan. Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewPartDisease>
-  
+
+
 </LanguageData>
