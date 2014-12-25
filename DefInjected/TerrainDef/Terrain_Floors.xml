@@ -14,9 +14,6 @@
     <PavedTile.label>betonilaatta</PavedTile.label>
     <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
     
-    <StoneTile.label>kivilaatta</StoneTile.label>
-    <StoneTile.description>Jykeviä kivilaattoja linnatunnelman luomiseen.</StoneTile.description>
-    
     <!-- ================= Carpets ================= -->
     
     <CarpetRed.label>punainen kokolattiamatto</CarpetRed.label>
@@ -32,10 +29,5 @@
     
     <Concrete.label>betoni</Concrete.label>
     <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
-    
-    <SmoothStone.label>sileä kivi</SmoothStone.label>
-    <SmoothStone.description>Hiottua luonnonkiveä. Tämän päällä käveleminen on nopeaa, ja se kestää katsetta.</SmoothStone.description>
-    
-    <RoughHewnRock.label>karkeaksi louhittu kivi</RoughHewnRock.label>
     
 </LanguageData>
