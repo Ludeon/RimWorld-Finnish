@@ -25,6 +25,9 @@
     <TailoringSpeed.label>suutarointinopeus</TailoringSpeed.label>
     <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
     
+    <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
+    <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
+    
     <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
     <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
     
