@@ -5,6 +5,8 @@
     
     <Goto.reportString>Liikkuu.</Goto.reportString>
     
+    <SeekSafeTemperature.reportString>Etsii turvallista lämpötilaa.</SeekSafeTemperature.reportString>
+    
     <Wait.reportString>Seisoskelee.</Wait.reportString>
     
     <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
@@ -25,15 +27,19 @@
     
     <ManThing.reportString>Käyttää konetta.</ManThing.reportString>
     
-    <EnterCryptosleepPod.reportString>Menee salaunikapseliin.</EnterCryptosleepPod.reportString>
+    <EnterCryptosleepCasket.reportString>Menee salauniarkkuun.</EnterCryptosleepCasket.reportString>
+    
+    <OpenCryptosleepCasket.reportString>Avaa salauniarkkua.</OpenCryptosleepCasket.reportString>
     
     <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
     
+    <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
+    
     <!--============ Fire ============-->
     
-    <Ignite.reportString>Sytyttää kohteen TargetA.</Ignite.reportString>
+    <Ignite.reportString>Sytyttää kohdetta TargetA.</Ignite.reportString>
     
-    <BeatFire.reportString>Lyö tulen sammuksiin.</BeatFire.reportString>
+    <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>
     
     <ExtinguishSelf.reportString>Sammuttaa itsensä tulesta.</ExtinguishSelf.reportString>
     
@@ -53,9 +59,13 @@
     
     <Rescue.reportString>Pelastaa henkilön TargetA.</Rescue.reportString>
     
+    <CarryToCryptosleepCasket.reportString>Kantaa henkilöä TargetA salauniarkkuun.</CarryToCryptosleepCasket.reportString>
+    
     <Capture.reportString>Kaappaa henkilön TargetA.</Capture.reportString>
     
     <Arrest.reportString>Pidättää henkilön TargetA.</Arrest.reportString>
+    
+    <ReleasePrisoner.reportString>Vapauttaa vankia TargetA.</ReleasePrisoner.reportString>
     
     <EscortPrisonerToBed.reportString>Saattaa vankia TargetA.</EscortPrisonerToBed.reportString>
     
@@ -83,6 +93,8 @@
     
     <Mine.reportString>Louhii kohteen TargetA.</Mine.reportString>
     
+    <SmoothFloor.reportString>Hioo lattiaa.</SmoothFloor.reportString>
+    
     <Repair.reportString>Korjaa kohteen TargetA.</Repair.reportString>
     
     <FinishFrame.reportString>Rakentaa kohteen TargetA.</FinishFrame.reportString>
@@ -96,10 +108,6 @@
     <Deconstruct.reportString>Purkaa kohteen TargetA.</Deconstruct.reportString>
     
     <PrisonerFriendlyChat.reportString>Keskustelee vangin TargetA kanssa.</PrisonerFriendlyChat.reportString>
-    
-    <PrisonerBeatingMild.reportString>Hakkaa vankia TargetA kevyesti.</PrisonerBeatingMild.reportString>
-    
-    <PrisonerBeatingVicious.reportString>Hakkaa vankia TargetA rajusti.</PrisonerBeatingVicious.reportString>
     
     <PrisonerExecution.reportString>Teloittaa vangin TargetA.</PrisonerExecution.reportString>
     
