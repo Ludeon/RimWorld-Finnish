@@ -10,4 +10,10 @@
     <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
     <PsychicDrone.description>Etäinen mutta voimakas tekoäly lähettää psyykkisiä voima-aaltoja, jotka saattavat ihmiset hulluuden partaalle.</PsychicDrone.description>
     
+    <HeatWave.label>lämpöaalto</HeatWave.label>
+    <HeatWave.description>Äärimmäinen lämpöaalto korventaa aluetta.</HeatWave.description>
+    
+    <ColdSnap.label>pakkaskausi</ColdSnap.label>
+    <ColdSnap.description>Epätavallinen pakkaskausi jäädyttää aluetta.</ColdSnap.description>
+    
 </LanguageData>
