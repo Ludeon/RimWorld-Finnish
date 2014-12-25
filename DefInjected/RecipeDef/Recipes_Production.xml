@@ -3,10 +3,14 @@
     
     <MakeStoneBlocks.label>tee kiviharkkoja</MakeStoneBlocks.label>
     <MakeStoneBlocks.description>Leikkaa kivenlohkareita käyttökelpoisiksi harkoiksi.</MakeStoneBlocks.description>
-	<MakeStoneBlocks.jobString>Leikkaa kiveä.</MakeStoneBlocks.jobString>
+    <MakeStoneBlocks.jobString>Leikkaa kiveä.</MakeStoneBlocks.jobString>
     
     <ExtractMetalFromSlag.label>sulata metallia kuonasta</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamisesta metallikuonasta.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta.</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>Sulattaa metallia kuonasta.</ExtractMetalFromSlag.jobString>
+    
+    <SmeltWeapon.label>sulata metallia aseesta</SmeltWeapon.label>
+    <SmeltWeapon.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen aseista.</SmeltWeapon.description>
+    <SmeltWeapon.jobString>Sulattaa metallia aseesta.</SmeltWeapon.jobString>
     
 </LanguageData>
