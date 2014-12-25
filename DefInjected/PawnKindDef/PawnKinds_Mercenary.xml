@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Mercenary.label>palkkasoturi</Mercenary.label>
+    
+    <MercenarySniper.label>palkkatarkka-ampuja</MercenarySniper.label>
+    
+    <Grenadier.label>pommimies</Grenadier.label>
+    
+    <MercenaryBruiser.label>kovistelija palkkasoturi</MercenaryBruiser.label>
+    
+    <MercenaryElite.label>eliitti palkkasoturi</MercenaryElite.label>
+    
+</LanguageData>
