@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Construction.skillLabel>Rakentaminen</Construction.skillLabel>
+    <Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
+    
+    <Growing.skillLabel>Viljeleminen</Growing.skillLabel>
+    <Growing.pawnLabel>Viljelijä</Growing.pawnLabel>
+    
+    <Research.skillLabel>Tutkiminen</Research.skillLabel>
+    <Research.pawnLabel>Tutkija</Research.pawnLabel>
+    
+    <Mining.skillLabel>Louhiminen</Mining.skillLabel>
+    <Mining.pawnLabel>Louhija</Mining.pawnLabel>
+    
+    <Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
+    <Shooting.pawnLabel>Ampuja</Shooting.pawnLabel>
+    
+    <Melee.skillLabel>Lähitaistelu</Melee.skillLabel>
+    <Melee.pawnLabel>Painija</Melee.pawnLabel>
+    
+    <Social.skillLabel>Sosiaalisuus</Social.skillLabel>
+    <Social.pawnLabel>Seurapiirihenkilö</Social.pawnLabel>
+    
+    <Cooking.skillLabel>Ruuanlaitto</Cooking.skillLabel>
+    <Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
+    
+    <Medicine.skillLabel>Lääkitseminen</Medicine.skillLabel>
+    <Medicine.pawnLabel>Lääkäri</Medicine.pawnLabel>
+    
+    <Artistic.skillLabel>Taiteellisuus</Artistic.skillLabel>
+    <Artistic.pawnLabel>Taiteilija</Artistic.pawnLabel>
+    
+    <Crafting.skillLabel>Työskentely käsin</Crafting.skillLabel>
+    <Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
+    
+</LanguageData>
