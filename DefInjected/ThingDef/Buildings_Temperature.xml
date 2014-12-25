@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Campfire.label>nuotio</Campfire.label>
+    <Campfire.description>Väliaikainen lämmönlähde, joka palaa muutaman päivän ajan. Se täytyy asettaa muiden lämmönlähteiden tavoin sisätiloihin jotta sillä olisi suljettu alue mitä lämmittää.</Campfire.description>
+    
+    <Heater.label>lämmitin</Heater.label>
+    <Heater.description>Sähkölaite, joka muuttaa sähköä lämmöksi. Se osaa automaattisesti kytkeä itsensä päälle ja pois saavuttaakseen tavoitelämpötilan.</Heater.description>
+    
+    <Cooler.label>jäähdytin</Cooler.label>
+    <Cooler.description>Sähkölaite, joka sopii seinään ja työntää huoneeseen kylmää ilmaa. Sen poistoportti tuottaa suuren määrän lämpöä. Tätä voidaan käyttää huoneiden viilentämiseen kesällä tai pakastehuoneen. </Cooler.description>
+    
+</LanguageData>
