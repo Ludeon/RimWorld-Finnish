@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
-	<SleepingSpot.Description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava. Lepäämisen tehokkuus: 7/10</SleepingSpot.Description>
-
-	<Bed.label>sänky</Bed.label>
-	<Bed.Description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä. Lepäämisen tehokkuus: 10/10</Bed.Description>
-
-	<RoyalBed.label>kuninkaallinen sänky</RoyalBed.label>
-	<RoyalBed.Description>Ylellinen vuode jalosukuisille.</RoyalBed.Description>
-
-	<HospitalBed.label>sairasvuode</HospitalBed.label>
-	<HospitalBed.Description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.Description>
-
-	<Stool.label>jakkara</Stool.label>
-	<Stool.description>Tämän päällä istutaan.</Stool.description>
-
-	<TableShort.label>pöytä (lyhyt)</TableShort.label>
-	<TableShort.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableShort.description>
-
-	<TableLong.label>pöytä (pitkä)</TableLong.label>
-	<TableLong.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableLong.description>
-
-	<StandingLamp.label>jalkalamppu</StandingLamp.label>
-	<StandingLamp.description>Seisova lamppu joka valaisee alueen.</StandingLamp.description>
-
-
-	<StandingLamp_Red.label>jalkalamppu (punainen)</StandingLamp_Red.label>
-	<StandingLamp_Red.description>Seisova lamppu joka valaisee alueen punaisella valolla.</StandingLamp_Red.description>
-
-
-	<StandingLamp_Green.label>jalkalamppu (vihreä)</StandingLamp_Green.label>
-	<StandingLamp_Green.description>Seisova lamppu joka valaisee alueen vihreällä valolla.</StandingLamp_Green.description>
-
-
-	<StandingLamp_Blue.label>jalkalamppu (sininen)</StandingLamp_Blue.label>
-	<StandingLamp_Blue.description>Seisova lamppu joka valaisee alueen sinisellä valolla.</StandingLamp_Blue.description>
-
-	<EquipmentRack.label>varusteteline</EquipmentRack.label>
-	<EquipmentRack.description>Kuljettajat kantavat tähän varusteita varastoon.</EquipmentRack.description>
-
+    
+    <!--============================== Beds ==============================-->
+    
+    <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
+    <SleepingSpot.Description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava. Lepäämisen tehokkuus: 7/10</SleepingSpot.Description>
+    
+    <Bed.label>sänky</Bed.label>
+    <Bed.Description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä. Lepäämisen tehokkuus: 10/10</Bed.Description>
+    
+    <RoyalBed.label>kuninkaallinen sänky</RoyalBed.label>
+    <RoyalBed.Description>Ylellinen vuode jalosukuisille.</RoyalBed.Description>
+    
+    <HospitalBed.label>sairasvuode</HospitalBed.label>
+    <HospitalBed.Description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.Description>
+    <!--======================= Basic domestic furniture ==============================-->
+    
+    
+    <Stool.label>jakkara</Stool.label>
+    <Stool.description>Tämän päällä istutaan.</Stool.description>
+    
+    <TableShort.label>pöytä (lyhyt)</TableShort.label>
+    <TableShort.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableShort.description>
+    
+    <TableLong.label>pöytä (pitkä)</TableLong.label>
+    <TableLong.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableLong.description>
+    
+    <!-- ======================== Lighting ======================= -->
+    
+    <StandingLamp.label>jalkalamppu</StandingLamp.label>
+    <StandingLamp.description>Seisova lamppu joka valaisee alueen.</StandingLamp.description>
+    
+    <StandingLamp_Red.label>jalkalamppu (punainen)</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Seisova lamppu joka valaisee alueen punaisella valolla.</StandingLamp_Red.description>
+    
+    <StandingLamp_Green.label>jalkalamppu (vihreä)</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Seisova lamppu joka valaisee alueen vihreällä valolla.</StandingLamp_Green.description>
+    
+    <StandingLamp_Blue.label>jalkalamppu (sininen)</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Seisova lamppu joka valaisee alueen sinisellä valolla.</StandingLamp_Blue.description>
+    
+    <!--============================== Storage ==============================-->
+    
+    <EquipmentRack.label>varusteteline</EquipmentRack.label>
+    <EquipmentRack.description>Kuljettajat kantavat tähän varusteita varastoon.</EquipmentRack.description>
+    
 </LanguageData>
