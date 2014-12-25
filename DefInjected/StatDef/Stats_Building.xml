@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WorkToBuild.label>töitä jäljellä</WorkToBuild.label>
-    <WorkToBuild.description>Työn määrä, joka vaaditaan tämän rakentamiseen.</WorkToBuild.description>
-    
     <DoorOpenSpeed.label>oven avautumisnopeus</DoorOpenSpeed.label>
     <DoorOpenSpeed.description>Nopeus, jolla ovi aukeaa.</DoorOpenSpeed.description>
     
