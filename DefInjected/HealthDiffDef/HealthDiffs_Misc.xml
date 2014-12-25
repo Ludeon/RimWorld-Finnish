@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Euthanasia.label>eutanasia</Euthanasia.label>
+    
+    <ShutDown.label>sammutettu</ShutDown.label>
+    
+    <BadBack.label>huono selkä</BadBack.label>
+    
+    <Cataract.label>kaihi</Cataract.label>
+    
+    <Anesthetic.label>nukutusaine</Anesthetic.label>
+    
+    <Concussion.label>aivotärähdys</Concussion.label>
+    
+</LanguageData>
