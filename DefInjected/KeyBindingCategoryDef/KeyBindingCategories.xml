@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <GameMapCamera.label>kameran ohjaimet</GameMapCamera.label>
+    <GameMapCamera.description>Näppäinasetukset kameralle.</GameMapCamera.description>
+    
+    <Game.label>Pelinaikaiset ohjaimet</Game.label>
+    <Game.description>Yhdyskuntatilan näppäinasetukset, jotka ovat voimassa useimmissa tapauksissa.</Game.description>
+    
+    <SelectionMisc.label>Sekalaiset ohjaimet</SelectionMisc.label>
+    <SelectionMisc.description>Yleisiä näppäinasetuksia, joita käyttävät monet pelin esineet ja asiat.</SelectionMisc.description>
+    
+    <SelectionSpecial.label>Erityiset ohjaimet</SelectionSpecial.label>
+    <SelectionSpecial.description>Erityisiä näppäinasetuksia, jotka on varattu tiettyjen esineiden tietyille toiminnoille.</SelectionSpecial.description>
+    
+    <Architect.label>Arkkitehti</Architect.label>
+    <Architect.description>Yleiskäyttöiset näppäinasetukset arkkitehtivalikkoon.</Architect.description>
+    
+    <Development.label>Kehitysohjaimet</Development.label>
+    <Development.description>Näppäinasetuksia pelinkehittäjille ja modaajille. Käytössä vain kehittäjätilassa.</Development.description>
+    
+</LanguageData>
