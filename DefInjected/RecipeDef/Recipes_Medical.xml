@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  	<!-- new body parts - natural -->
+    <!-- new body parts - natural -->
     
     <InstallNaturalHeart.label>asenna sydän</InstallNaturalHeart.label>
     <InstallNaturalHeart.description>Asentaa sydämen.</InstallNaturalHeart.description>
@@ -19,7 +19,7 @@
     <InstallNaturalLung.description>Asentaa keuhkon.</InstallNaturalLung.description>
     <InstallNaturalLung.jobString>Asentaa keuhkoa.</InstallNaturalLung.jobString>
     
-  	<!-- new body parts - artificial -->
+    <!-- new body parts - artificial -->
     
     <InstallPegLeg.label>asenna puujalka</InstallPegLeg.label>
     <InstallPegLeg.description>Asentaa puujalan.</InstallPegLeg.description>
