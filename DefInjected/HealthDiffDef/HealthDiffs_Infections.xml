@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <WoundInfection.label>infektio</WoundInfection.label>
+    
+    <Flu.label>flunssa</Flu.label>
+    
+    <Plague.label>syöpä</Plague.label>
+    
+    <Malaria.label>malaria</Malaria.label>
+    
+    <SleepingSickness.label>unitauti</SleepingSickness.label>
+    
+</LanguageData>
