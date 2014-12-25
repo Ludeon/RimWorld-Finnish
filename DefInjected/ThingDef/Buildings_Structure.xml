@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<Door.label>ovi</Door.label>
-	<Door.description>Jakaa huoneita. Täytyy avata ja sulkea käsin, mikä hidastaa ihmisiä.</Door.description>
-
-	<Autodoor.label>auto-ovi</Autodoor.label>
-	<Autodoor.description>Jakaa huoneita. Sähköistetty toiminta sallii ihmisten liikkumisen oven läpi hidastamatta.</Autodoor.description>
-
-	<Wall.label>seinä</Wall.label>
-	<Wall.description>Läpäisemätön seinä. Kykenee kannattelemaan kattoa.</Wall.description>
-
-	<WallConduit.label>kaapeloitu seinä</WallConduit.label>
-	<WallConduit.description>Seinä sisäänrakennetulla sähkökaapelilla.</WallConduit.description>
-	
+    
+    <!--========================= Doors =============================-->
+    
+    <Door.label>ovi</Door.label>
+    <Door.description>Jakaa huoneita. Täytyy avata ja sulkea käsin, mikä hidastaa ihmisiä.</Door.description>
+    
+    <Autodoor.label>auto-ovi</Autodoor.label>
+    <Autodoor.description>Jakaa huoneita. Sähköistetty toiminta sallii ihmisten liikkumisen oven läpi hidastamatta.</Autodoor.description>
+    
+    <!--========================= Walls =============================-->
+    
+    <Wall.label>seinä</Wall.label>
+    <Wall.description>Läpäisemätön seinä. Kykenee kannattelemaan kattoa.</Wall.description>
+    
+    <WallConduit.label>kaapeloitu seinä</WallConduit.label>
+    <WallConduit.description>Seinä sisäänrakennetulla sähkökaapelilla.</WallConduit.description>
+    
 </LanguageData>
