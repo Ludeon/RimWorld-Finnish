@@ -9,7 +9,7 @@
     
     <FoodMeals.label>ateriat</FoodMeals.label>
     
-    <FoodRaw.label>raa-at</FoodRaw.label>
+    <FoodRaw.label>raa-at ruuat</FoodRaw.label>
     
     <MeatRaw.label>liha</MeatRaw.label>
     
@@ -17,19 +17,37 @@
     
     <Manufactured.label>tuotetut</Manufactured.label>
     
-    <Fabric.label>kangas</Fabric.label>
+    <Textiles.label>tekstiilit</Textiles.label>
+    
+    <Leathers.label>nahat</Leathers.label>
+    
+    <Medicine.label>lääketarpeet</Medicine.label>
     
     <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
     
+    <StoneBlocks.label>kiviharkot</StoneBlocks.label>
+    
     <Items.label>esineet</Items.label>
     
+    <Art.label>taide</Art.label>
+    
+    <Unfinished.label>keskeneräiset</Unfinished.label>
+    
     <Weapons.label>aseet</Weapons.label>
+    
+    <WeaponsMelee.label>lähitaisteluaseet</WeaponsMelee.label>
+    
+    <WeaponsRanged.label>ampuma-aseet</WeaponsRanged.label>
+    
+    <Grenades.label>kranaatit</Grenades.label>
     
     <Apparel.label>vaatteet</Apparel.label>
     
     <BodyParts.label>ruumiinosat</BodyParts.label>
     
     <Chunks.label>kimpaleet</Chunks.label>
+    
+    <StoneChunks.label>kivenjärkäleet</StoneChunks.label>
     
     <Corpses.label>ruumiit</Corpses.label>
     
