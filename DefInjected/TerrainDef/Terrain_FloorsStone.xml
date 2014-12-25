@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <TileSandstone.label>hiekkakivilaatta</TileSandstone.label>
+    <TileSandstone.description>Jykeviä kivilaattoja linnatunnelman luomiseen.</TileSandstone.description>
+
+    <TileGranite.label>graniittilaatta</TileGranite.label>
+    <TileGranite.description>Jykeviä kivilaattoja linnatunnelman luomiseen.</TileGranite.description>
+    
+    <TileLimestone.label>kalkkikivilaatta</TileLimestone.label>
+    <TileLimestone.description>Jykeviä kivilaattoja linnatunnelman luomiseen.</TileLimestone.description>
+
+    <TileSlate.label>liuskekivilaatta</TileSlate.label>
+    <TileSlate.description>Jykeviä kivilaattoja linnatunnelman luomiseen.</TileSlate.description>
+
+    <TileMarble.label>marmorilaatta</TileMarble.label>
+    <TileMarble.description>Jykeviä kivilaattoja linnatunnelman luomiseen.</TileMarble.description>
+    
+</LanguageData>
