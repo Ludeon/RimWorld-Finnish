@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <FertilizerPump.label>lannoitepumppu</FertilizerPump>
+    <FertilizerPump.description>Mahdollistaa lannoitepumppujen rakentamisen. Ne pystyvät luomaan viljelykelpoista maata mihin tahansa.</FertilizerPump.description>
+    
+    <GeothermalPower.label>maalämpö</GeothermalPower.label>
+    <GeothermalPower.description>Mahdollistaa maalämpögeneraattorien rakentamisen geysireiden päälle. Maalämpögeneraattori tuottaa energiaa taukoamatta.</GeothermalPower.description>
+    
     <Hydroponics.label>vesiviljely</Hydroponics.label>
     <Hydroponics.description>Mahdollistaa vesiviljelyaltaiden rakentamisen ruokakasvien nopeaan kasvattamiseen sisätiloissa.</Hydroponics.description>
     
