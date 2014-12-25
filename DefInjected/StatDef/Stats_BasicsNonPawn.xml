@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MaxHealth.label>maksimiterveys</MaxHealth.label>
+    <MaxHealth.description>Esineen korkein mahdollinen terveys.</MaxHealth.description>
+    
+    <Flammability.label>syttymisherkkyys</Flammability.label>
+    <Flammability.description>Miten helposti esine syttyy tuleen ja miten vahvasti se palaa.</Flammability.description>
+    
+    <WorkToMake.label>töitä tehtävänä</WorkToMake.label>
+    <WorkToMake.description>Työn määrä, joka tämän tekemiseen menee, kun kaikki materiaalit ja työkalut ovat valmiina.</WorkToMake.description>
+    
+    <Beauty.label>kauneus</Beauty.label>
+    <Beauty.description>Miten miellyttävää esineen ympärillä olo ja katselu on.</Beauty.description>
+    
+    <MedicalPotency.label>lääkkeen voimakkuus</MedicalPotency.label>
+    <MedicalPotency.description>Miten tehokas esine on käytettäessä vammojen ja sairauksien parantamiseen.</MedicalPotency.description>
+    
+</LanguageData>
