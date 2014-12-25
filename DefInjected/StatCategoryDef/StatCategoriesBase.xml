@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--================ General ================-->
+    
+    <Basics.label>Perustiedot</Basics.label>
+    
+    <BasicsPawn.label>Perustiedot</BasicsPawn.label>
+    
+    <BasicsNonPawn.label>Perustiedot</BasicsNonPawn.label>
+    
+    <!--================ Non-pawn ================-->
+    
+    <Armor.label>Panssari</Armor.label>
+    
+    <Melee.label>Lähitaistelu</Melee.label>
+    
+    <Building.label>Rakennus</Building.label>
+    
+    <!--=============== Virtual categories ==============-->
+    
+    <EquippedStatOffsets.label>Poikkeamat, kun käytössä</EquippedStatOffsets.label>
+    
+    <StuffOfEquipmentStatModifiers.label>Kertoimet, kun esine on tehty tästä</StuffOfEquipmentStatModifiers.label>
+    
+    <!--================ Pawn ================-->
+    
+    <PawnCombat.label>Taistelu</PawnCombat.label>
+    
+    <PawnSocial.label>Sosiaalisuus</PawnSocial.label>
+    
+    <PawnMisc.label>Sekalaiset</PawnMisc.label>
+    
+    <PawnWork.label>Työnteko</PawnWork.label>
+    
+</LanguageData>
