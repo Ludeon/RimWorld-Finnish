@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ============= Misc ============= -->
+    
+    <Mine.verb>louhia</Mine.verb>
+    <Mine.gerund>louhiminen</Mine.gerund>
+    
+    <Research.verb>tutkia</Research.verb>
+    <Research.gerund>tutkiminen</Research.gerund>
+    
+    <PlantsCut.verb>leikata</PlantsCut.verb>
+    <PlantsCut.gerund>leikkaaminen</PlantsCut.gerund>
+    
+    <FightFires.verb>samuttaa tulta</FightFires.verb>
+    <FightFires.gerund>tulen sammuttaminen</FightFires.gerund>
+    
+    <Warden.verb>vartioida</Warden.verb>
+    <Warden.gerund>vartioiminen</Warden.gerund>
+    
+    <HunterHunt.verb>metsästää</HunterHunt.verb>
+    <HunterHunt.gerund>metsästäminen</HunterHunt.gerund>
+    
+    <PatientGoToBed.verb>ottaa hoitoa vastaan kohteessa</PatientGoToBed.verb>
+    <PatientGoToBed.gerund>hoidon vastaanottaminen kohteessa</PatientGoToBed.gerund>
+    
+    <!-- ============= Cleaning ============= -->
+    
+    <CleanClearSnow.verb>kolata lunta</CleanClearSnow.verb>
+    <CleanClearSnow.gerund>lumen kolaaminen</CleanClearSnow.gerund>
+    
+    <CleanFilth.verb>siivota</CleanFilth.verb>
+    <CleanFilth.gerund>siivoaminen</CleanFilth.gerund>
+    
+    <!-- ============= Hauling ============= -->
+    
+    <HaulGeneral.verb>siirtää</HaulGeneral.verb>
+    <HaulGeneral.gerund>siirtäminen</HaulGeneral.gerund>
+    
+    <HaulCorpses.verb>siirtää</HaulCorpses.verb>
+    <HaulCorpses.gerund>siirtäminen</HaulCorpses.gerund>
+    
+    <!-- ============= Growing ============= -->
+    
+    <GrowerSow.verb>kylvää</GrowerSow.verb>
+    <GrowerSow.gerund>kylväminen</GrowerSow.gerund>
+    
+    <GrowerHarvest.verb>korjata</GrowerHarvest.verb>
+    <GrowerHarvest.gerund>korjaminen</GrowerHarvest.gerund>
+    
+    <!-- ============= Repair ============= -->
+    
+    <Repair.verb>korjata</Repair.verb>
+    <Repair.gerund>korjaaminen</Repair.gerund>
+    
+    <DoBillsMedicalMechanoidOperation.verb>muokata</DoBillsMedicalMechanoidOperation.verb>
+    <DoBillsMedicalMechanoidOperation.gerund>muokkaaminen</DoBillsMedicalMechanoidOperation.gerund>
+    
+    <!-- ============= Doctor ============= -->
+    
+    <DoctorFeed.verb>ruokkia</DoctorFeed.verb>
+    <DoctorFeed.gerund>ruokkiminen</DoctorFeed.gerund>
+    
+    <DoctorEmergencyHeal.verb>parantaa</DoctorEmergencyHeal.verb>
+    <DoctorEmergencyHeal.gerund>parantaminen</DoctorEmergencyHeal.gerund>
+    
+    <DoctorHeal.verb>parantaa</DoctorHeal.verb>
+    <DoctorHeal.gerund>parantaminen</DoctorHeal.gerund>
+    
+    <TakeToBedToOperate.verb>ottaa operointiin</TakeToBedToOperate.verb>
+    <TakeToBedToOperate.gerund>operointiin ottaminen</TakeToBedToOperate.gerund>
+    
+    <DoBillsMedicalHumanOperation.verb>operoida</DoBillsMedicalHumanOperation.verb>
+    <DoBillsMedicalHumanOperation.gerund>operoiminen</DoBillsMedicalHumanOperation.gerund>
+    
+    <DoBillsMedicalAnimalOperation.verb>operoida</DoBillsMedicalAnimalOperation.verb>
+    <DoBillsMedicalAnimalOperation.gerund>operoiminen</DoBillsMedicalAnimalOperation.gerund>
+    
+    <!-- ============= Construction ============= -->
+    
+    <Deconstruct.verb>purkaa</Deconstruct.verb>
+    <Deconstruct.gerund>purkaminen</Deconstruct.gerund>
+    
+    <ConstructFinishFrames.verb>rakentaa</ConstructFinishFrames.verb>
+    <ConstructFinishFrames.gerund>rakentaminen</ConstructFinishFrames.gerund>
+    
+    <ConstructDeliverResourcesToFrames.verb>työstää</ConstructDeliverResourcesToFrames.verb>
+    <ConstructDeliverResourcesToFrames.gerund>työstäminen</ConstructDeliverResourcesToFrames.gerund>
+    
+    <ConstructDeliverResourcesToBlueprints.verb>työstää</ConstructDeliverResourcesToBlueprints.verb>
+    <ConstructDeliverResourcesToBlueprints.gerund>työstäminen</ConstructDeliverResourcesToBlueprints.gerund>
+    
+    <ConstructSmoothFloors.verb>hioa</ConstructSmoothFloors.verb>
+    <ConstructSmoothFloors.gerund>hiominen</ConstructSmoothFloors.gerund>
+    
+  <!-- ============= Cooking ============= -->
+    
+    <DoBillsCook.verb>kokata</DoBillsCook.verb>
+    <DoBillsCook.gerund>kokkaaminen</DoBillsCook.gerund>
+    
+    <DoBillsButcherFlesh.verb>teurastaa</DoBillsButcherFlesh.verb>
+    <DoBillsButcherFlesh.gerund>teurastaminen</DoBillsButcherFlesh.gerund>
+    
+    <CookFillHopper.verb>täyttää</CookFillHopper.verb>
+    <CookFillHopper.gerund>täyttäminen</CookFillHopper.gerund>
+    
+    <!-- ============= Crafting - art - sculpture ============= -->
+    
+    <FinishUnfinishedSculptures.verb>veistää</FinishUnfinishedSculptures.verb>
+    <FinishUnfinishedSculptures.gerund>veistäminen</FinishUnfinishedSculptures.gerund>
+    
+    <DoBillsSculpt.verb>veistää</DoBillsSculpt.verb>
+    <DoBillsSculpt.gerund>veistäminen</DoBillsSculpt.gerund>
+    
+    <!-- ============= Crafting ============= -->
+    
+    <DoBillsCremate.verb>polttaa</DoBillsCremate.verb>
+    <DoBillsCremate.gerund>polttaminen</DoBillsCremate.gerund>
+    
+    <!-- ============= Crafting - weapons ============= -->
+    
+    <FinishUnfinishedWeapons.verb>takoa</FinishUnfinishedWeapons.verb>
+    <FinishUnfinishedWeapons.gerund>takominen</FinishUnfinishedWeapons.gerund>
+    
+    <DoBillsMakeWeapons.verb>takoa</DoBillsMakeWeapons.verb>
+    <DoBillsMakeWeapons.gerund>takominen</DoBillsMakeWeapons.gerund>
+    
+    <!-- ============= Crafting - apparel ============= -->
+    
+    <FinishUnfinishedApparel.verb>räätälöidä</FinishUnfinishedApparel.verb>
+    <FinishUnfinishedApparel.gerund>räätälöiminen</FinishUnfinishedApparel.gerund>
+    
+    <DoBillsMakeApparel.verb>räätälöidä</DoBillsMakeApparel.verb>
+    <DoBillsMakeApparel.gerund>räätälöiminen</DoBillsMakeApparel.gerund>
+    
+    <!-- ============= Crafting - misc ============= -->
+    
+    <DoBillsStonecut.verb>leikata kiviä</DoBillsStonecut.verb>
+    <DoBillsStonecut.gerund>kivien leikkaaminen</DoBillsStonecut.gerund>
+    
+    <DoBillsSlagRefining.verb>jalostaa</DoBillsSlagRefining.verb>
+    <DoBillsSlagRefining.gerund>jalostaminen</DoBillsSlagRefining.gerund>
+    
+    <DoBillsButcherMechanoid.verb>purkaa</DoBillsButcherMechanoid.verb>
+    <DoBillsButcherMechanoid.gerund>purkaminen</DoBillsButcherMechanoid.gerund>
+    
+</LanguageData>
