@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Local injuries -->
+    	<!-- Local injuries -->
     
 	<Cut.label>viilto</Cut.label>
 	<Cut.deathMessage>{0} leikattiin kuoliaaksi.</Cut.deathMessage>
