@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- In-game camera -->
+    
+    <MapDollyUp.label>liikuta kameraa ylös</MapDollyUp.label>
+    
+    <MapDollyDown.label>liikuta kameraa alas</MapDollyDown.label>
+    
+    <MapDollyLeft.label>liikuta kameraa vasemmalle</MapDollyLeft.label>
+    
+    <MapDollyRight.label>liikuta kameraa oikealle</MapDollyRight.label>
+    
+    <MapZoomIn.label>lähennä kameraa</MapZoomIn.label>
+    
+    <MapZoomOut.label>loitonna kameraa</MapZoomOut.label>
+    
+   <!-- Map play -->
+    
+    <ArchitectMode.label>avaa arkkitehtivalikko</ArchitectMode.label>
+    
+    <ToggleScreenshotMode.label>ruudunkaappaustila pois tai päälle</ToggleScreenshotMode.label>
+    
+    <TakeScreenshot.label>ota ruudunkaappaus</TakeScreenshot.label>
+    
+    <SelectNextInCell.label>valitse seuraava ruudussa</SelectNextInCell.label>
+    
+    <TogglePause.label>aseta peli tauolle / jatka peliä</TogglePause.label>
+    
+    <TimeSpeedNormal.label>pelinopeus: normaali</TimeSpeedNormal.label>
+    
+    <TimeSpeedFast.label>pelinopeus: nopea</TimeSpeedFast.label>
+    
+    <TimeSpeedSuperfast.label>pelinopeus: erittäin nopea</TimeSpeedSuperfast.label>
+    
+    <TimeSpeedUltrafast.label>pelinopeus: äärimmäisen nopea (debug)</TimeSpeedUltrafast.label>
+    
+    <PreviousColonist.label>edellinen yhdyskuntalainen</PreviousColonist.label>
+    
+    <NextColonist.label>seuraava yhdyskuntalainen</NextColonist.label>
+    
+    <!-- Misc (re-used) -->
+    
+    <Misc1.label>Sekalainen 1</Misc1.label>
+    
+    <Misc2.label>Sekalainen 2</Misc2.label>
+    
+    <Misc3.label>Sekalainen 3</Misc3.label>
+    
+    <Misc4.label>Sekalainen 4</Misc4.label>
+    
+    <Misc5.label>Sekalainen 5</Misc5.label>
+    
+    <Misc6.label>Sekalainen 6</Misc6.label>
+    
+    <Misc7.label>Sekalainen 7</Misc7.label>
+    
+    <Misc8.label>Sekalainen 8</Misc8.label>
+    
+    <Misc9.label>Sekalainen 9</Misc9.label>
+    
+    <Misc10.label>Sekalainen 10</Misc10.label>
+    
+    <Misc11.label>Sekalainen 11</Misc11.label>
+    
+    <Misc12.label>Sekalainen 12</Misc12.label>
+    
+    <!-- Selection special -->
+    
+    <CommandTogglePower.label>kytke virta pois / päälle</CommandTogglePower.label>
+    
+    <CommandItemForbid.label>kiellä / salli esineen käyttö</CommandItemForbid.label>
+    
+    <CommandColonistDraft.label>värvää</CommandColonistDraft.label>
+    
+    <!-- Architect: Common -->
+    
+    <DesignatorCancel.label>peruuta</DesignatorCancel.label>
+    
+    <DesignatorDeconstruct.label>pura</DesignatorDeconstruct.label>
+    
+    <DesignatorRotateLeft.label>kierrä vasemmalle</DesignatorRotateLeft.label>
+    
+    <DesignatorRotateRight.label>kierrä oikealle</DesignatorRotateRight.label>
+    
+    <!-- Debug -->
+    
+    <ToggleLog.label>näytä / piilota loki</ToggleLog.label>
+    
+    <DebugTickOnce.label>etene yksi askel (debug)</DebugTickOnce.label>
+    
+</LanguageData>
