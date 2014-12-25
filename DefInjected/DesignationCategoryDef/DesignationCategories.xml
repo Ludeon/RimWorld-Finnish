@@ -34,4 +34,7 @@
     <Ship.label>avaruusalus</Ship.label>
     <Ship.description>Teidän pakoaluksenne komponentit.</Ship.description>
     
+    <Temperature.label>lämpötila</Temperature.label>
+    <Temperature.description>Esineitä, joilla voidaan hallita lämpötilaa.</Temperature.description>
+    
 </LanguageData>
