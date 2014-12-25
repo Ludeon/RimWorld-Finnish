@@ -13,6 +13,10 @@
     <Spacer.description>Ihmisiä avaruuden syvyyksistä.</Spacer.description>
     <Spacer.pawnsPlural>avaruusmatkaajia</Spacer.pawnsPlural>
     
+    <SpacerHostile.label>spacer</SpacerHostile.label>
+    <SpacerHostile.description>People from the distant reaches of space.</SpacerHostile.description>
+    <Spacer.pawnsPlural>avaruusmatkaajia</Spacer.pawnsPlural>
+    
     <!-- Normal humanoid factions -->
     
     <Outlander.label>vieras kylä</Outlander.label>
