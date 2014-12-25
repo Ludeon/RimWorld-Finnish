@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MarketValue.label>markkina-arvo</MarketValue.label>
+    <MarketValue.description>Esineen markkina-arvo. Lopullinen vaihtokauppahinta määräytyy suhteiden tilanteen ja neuvottelutaitojen mukaan.</MarketValue.description>
+    
+</LanguageData>
