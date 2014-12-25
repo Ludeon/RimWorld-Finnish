@@ -3,66 +3,82 @@
     
     <Research.pawnLabel>Tutkija</Research.pawnLabel>
     <Research.gerundLabel>Tutkiminen</Research.gerundLabel>
+    <Research.description>Tutkijat tekevät tutkimustyötä.</Research.description>
     <Research.verb>Tutki kohteesa</Research.verb>
     
     <Cleaning.pawnLabel>Siivoaja</Cleaning.pawnLabel>
     <Cleaning.gerundLabel>Siivoaminen</Cleaning.gerundLabel>
+    <Cleaning.description>Siivooja kolaavat lunta ja siivoavat kotialueella.</Cleaning.description>
     <Cleaning.verb>Siivoa</Cleaning.verb>
     
     <Hauling.pawnLabel>Siirtäjä</Hauling.pawnLabel>
     <Hauling.gerundLabel>Siirtäminen</Hauling.gerundLabel>
+    <Hauling.description>Siirtäjät kantavat esineitä sinne, missä niiden tarvitsee olla.</Hauling.description>
     <Hauling.verb>Siirrä</Hauling.verb>
     
     <Art.pawnLabel>Taiteilija</Art.pawnLabel>
     <Art.gerundLabel>Taiteenteko</Art.gerundLabel>
+    <Art.description>Taiteilijat luovat kauniita taideteoksia.</Art.description>
     <Art.verb>Tee taidetta kohteessa</Art.verb>
     
     <Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
     <Crafting.gerundLabel>Käsityönteko</Crafting.gerundLabel>
+    <Crafting.description>Käsityöntekijät kokoavat esineitä raaoista materiaaleista.</Crafting.description>
     <Crafting.verb>Tee käsitöitä kohteessa</Crafting.verb>
     
     <PlantCutting.pawnLabel>Kasvinleikkaaja</PlantCutting.pawnLabel>
     <PlantCutting.gerundLabel>Kasvienleikkuu</PlantCutting.gerundLabel>
+    <PlantCutting.description>Kasvinleikkaajat poistavat ja korjaavat sadon villeiltä kasveilta, jotka olet määrittänyt.</PlantCutting.description>
     <PlantCutting.verb>Leikkaa</PlantCutting.verb>
     
     <Mining.pawnLabel>Louhija</Mining.pawnLabel>
     <Mining.gerundLabel>Louhiminen</Mining.gerundLabel>
+    <Mining.description>Louhijat kaivavat neliöitä, jotka olet määrännyt louhittaviksi. Jos näissä neliöissä on mineraaleja, niistä tulee käyttökelpoisia.</Mining.description>
     <Mining.verb>Louhi</Mining.verb>
     
     <Growing.pawnLabel>Kasvattaja</Growing.pawnLabel>
     <Growing.gerundLabel>Kasvattaminen</Growing.gerundLabel>
+    <Growing.description>Kasvattajat istuttavat siemeniä ja korjaavat sadon viljelmiltä.</Growing.description>
     <Growing.verb>Kasvata</Growing.verb>
     
     <Repair.pawnLabel>Korjaaja</Repair.pawnLabel>
     <Repair.gerundLabel>Korjaaminen</Repair.gerundLabel>
+    <Repair.description>Korjaajat korjaavat hajonneita rakennuksia ja varusteita.</Repair.description>
     <Repair.verb>Korjaa</Repair.verb>
     
     <Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
     <Construction.gerundLabel>Rakentaminen</Construction.gerundLabel>
+    <Construction.description>Rakentajat rakentavat rakennelmia, jotka olet määrännyt.</Construction.description>
     <Construction.verb>Rakenna</Construction.verb>
     
     <Hunting.pawnLabel>Metsästäjä</Hunting.pawnLabel>
     <Hunting.gerundLabel>Metsästäminen</Hunting.gerundLabel>
+    <Hunting.description>Metsästäjät tappavat eläimiä, jotka on määritelty metsästettäviksi.</Hunting.description>
     <Hunting.verb>Metsästä</Hunting.verb>
     
     <Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
     <Cooking.gerundLabel>Kokkaaminen</Cooking.gerundLabel>
+    <Cooking.description>Kokit täyttävät ravinnetahna-annostelijat ja valmistavat aterioita.</Cooking.description>
     <Cooking.verb>Kokkaa</Cooking.verb>
     
     <Warden.pawnLabel>Vanginvartija</Warden.pawnLabel>
     <Warden.gerundLabel>Vanginvartiointi</Warden.gerundLabel>
+    <Warden.description>Vanginvartijat vierailevat vankien luona värväämässä heitä, keskustelemassa heidän kanssaan, hakkaamassa heitä tai teloittamassa heitä - mitä vain oletkin päättänyt. Vanginvartijat vievät lisäksi vangeille ruokaa.</Warden.description>
     <Warden.verb>Käsittele</Warden.verb>
     
     <Patient.pawnLabel>Potilas</Patient.pawnLabel>
     <Patient.gerundLabel>Potilas</Patient.gerundLabel>
+    <Patient.description>Potilaat menevät sairasvuoteeseen jos he tarvitsevat hoitoa.</Patient.description>
     <Patient.verb>Tule potilaaksi</Patient.verb>
     
     <Doctor.pawnLabel>Lääkäri</Doctor.pawnLabel>
     <Doctor.gerundLabel>Lääkitseminen</Doctor.gerundLabel>
+    <Doctor.description>Lääkärit tuovat ruokaa ja hoitavat liikkumattomina sängyssä makaavia. He hoitavat sekä yhdyskuntalaisia ja vankeja.</Doctor.description>
     <Doctor.verb>Hoida</Doctor.verb>
     
     <Firefighter.pawnLabel>Palomies</Firefighter.pawnLabel>
     <Firefighter.gerundLabel>Tulensammmutus</Firefighter.gerundLabel>
+    <Firefighter.description>Palomiehet sammuttavat tulia yhdyskunnassa.</Firefighter.description>
     <Firefighter.verb>Sammuta liekki</Firefighter.verb>
     
 </LanguageData>
