@@ -7,6 +7,9 @@
     <MiningSpeed.label>louhimisnopeus</MiningSpeed.label>
     <MiningSpeed.description>Kerroin tämän henkilön louhimisen nopeuteen.</MiningSpeed.description>
     
+    <SmoothingSpeed.label>hiomisnopeus</SmoothingSpeed.label>
+    <SmoothingSpeed.description>Kerroin tämän henkilön lattioiden hiomisen nopeuteen.</SmoothingSpeed.description>
+    
     <ResearchSpeed.label>tutkimisnopeus</ResearchSpeed.label>
     <ResearchSpeed.description>Nopeus, jolla tämä henkilö tutkii.</ResearchSpeed.description>
     
@@ -15,5 +18,8 @@
     
     <PlantWorkSpeed.label>kasvityönopeus</PlantWorkSpeed.label>
     <PlantWorkSpeed.description>Nopeus, jolla tämä henkilö viljelee ja kerää kasveja.</PlantWorkSpeed.description>
+    
+    <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
+    <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. Taiteellisuus ei vaikuta tähän - kokeneemmat taiteilijat työskentelevät paremmin eivätkä nopeammin.</SculptingSpeed.description>
     
 </LanguageData>
