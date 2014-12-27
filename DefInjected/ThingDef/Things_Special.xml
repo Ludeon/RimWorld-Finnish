@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<DoorKey.label>oven avain</DoorKey.label>
-	<DoorKey.description>Ovet aukenevat tämän avaimen haltijoille.</DoorKey.description>
-
-	<Puddle_Fuel.label>öljyläikkä</Puddle_Fuel.label>
-	<Puddle_Fuel.description>Palaa maassa.</Puddle_Fuel.description>
-
-	<DropPodIncoming.label>laskeutumiskapseli (tulossa)</DropPodIncoming.label>
-
-	<DropPod.label>laskeutumiskapseli</DropPod.label>
-
-	<Fire.label>liekki</Fire.label>
-
-	<Spark.label>kipinä</Spark.label>
-
+    <DoorKey.label>oven avain</DoorKey.label>
+    <DoorKey.description>Ovet aukenevat tämän avaimen haltijoille.</DoorKey.description>
+    
+    <Puddle_Fuel.label>öljyläikkä</Puddle_Fuel.label>
+    <Puddle_Fuel.description>Palaa maassa.</Puddle_Fuel.description>
+    
+    <DropPodIncoming.label>laskeutumiskapseli (tulossa)</DropPodIncoming.label>
+    
+    <DropPod.label>laskeutumiskapseli</DropPod.label>
+    
+    <Fire.label>liekki</Fire.label>
+    
+    <Spark.label>kipinä</Spark.label>
+    
+    <!-- ======================= Unfinished things ========================= -->
+    
+    <UnfinishedSculpture.label>Keskeneräinen veistos</UnfinishedSculpture.label>
+    
+    <UnfinishedWeapon.label>Keskeneräinen ase</UnfinishedWeapon.label>
+    
+    <UnfinishedApparel.label>Keskeneräinen vaatekappale</UnfinishedApparel.label>
+    
+    <!-- ======================= Minified things ========================= -->
+    
+    <MinifiedSculpture.label>Veistos</MinifiedSculpture.label>
+    
 </LanguageData>
