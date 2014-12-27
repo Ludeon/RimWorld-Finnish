@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<Human.label>ihminen</Human.label>
-	<Human.description>Perusihminen, ei juurikaan geenimuunneltu tai sopeutunut ei-maankaltaisiin planeetoihin.</Human.description>
-
+    
+    <!-- ============================ Human ========================== -->
+    
+    <Human.label>ihminen</Human.label>
+    <Human.description>Perusihminen, ei juurikaan geenimuunneltu tai sopeutunut ei-maankaltaisiin planeetoihin.</Human.description>
+    
 </LanguageData>
