@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <FarmingVessel.label>ruokakauppias</FarmingVessel.label>
-    
-    <IndustrialTrader.label>teollinen kauppias</IndustrialTrader.label>
+    <BulkGoodsTrader.label>irtotavarakauppias</BulkGoodsTrader.label>
     
     <CombatSupplier.label>taisteluvälineiden toimittaja</CombatSupplier.label>
     
-    <SlaveTrader.label>orjakauppias</SlaveTrader.label>
-    
     <ExoticTrader.label>eksoottisten tavaroiden kauppias</ExoticTrader.label>
+    
+    <SlaveTrader.label>orjakauppias</SlaveTrader.label>
     
 </LanguageData>
