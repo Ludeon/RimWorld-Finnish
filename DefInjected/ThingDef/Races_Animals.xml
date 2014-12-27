@@ -1,64 +1,83 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<Muffalo.label>hirvibiisoni</Muffalo.label>
-	<Muffalo.description>Suuri laiduntava kasvinsyöjä, joka on syntyisin biisonista ja sopeutunut eksoottiseen ympäristöön. Rauhantahtoinen ellei sitä häiritä.</Muffalo.description>
+    
+    <!-- ============================ Cold weather animals ========================== -->
+    
+    <Muffalo.label>hirvibiisoni</Muffalo.label>
+    <Muffalo.description>Suuri laiduntava kasvinsyöjä, joka on syntyisin biisonista ja sopeutunut eksoottiseen ympäristöön. Rauhantahtoinen ellei sitä häiritä.</Muffalo.description>
     <Muffalo_Leather.label>hirvibiisoninnahka</Muffalo_Leather.label>
     <Muffalo_Meat.label>hirvibiisonin lihaa</Muffalo_Meat.label>
-
-	<Deer.label>peura</Deer.label>
-	<Deer.description>Keskikokoinen laiduntava kasvinsyöjä. Yleensä rauhantahtoinen ellei sitä häiritä.</Deer.description>
+    
+    <Deer.label>peura</Deer.label>
+    <Deer.description>Keskikokoinen laiduntava kasvinsyöjä. Yleensä rauhantahtoinen ellei sitä häiritä.</Deer.description>
     <Deer_Leather.label>peurannahka</Deer_Leather.label>
     <Deer_Meat.label>peuran lihaa</Deer_Meat.label>
-
-	<Squirrel.label>orava</Squirrel.label>
-	<Squirrel.description>Yksi monista kätevistä jyrsijälajeista, joka seuraa ihmiskuntaa kaikkialle minne se leviää.</Squirrel.description>
+    
+    <Squirrel.label>orava</Squirrel.label>
+    <Squirrel.description>Yksi monista kätevistä jyrsijälajeista, joka seuraa ihmiskuntaa kaikkialle minne se leviää.</Squirrel.description>
     <Squirrel_Leather.label>oravannahka</Squirrel_Leather.label>
     <Squirrel_Meat.label>oravan lihaa</Squirrel_Meat.label>
-
-	<WildBoar.label>villisika</WildBoar.label>
-	<WildBoar.description>Vaikka jotkin kulttuurit pitävät sitä epäpuhtaana, tätä kesytetyn sian karvaista esi-isää pidetään arvossa sen lihan maun takia.</WildBoar.description>
+    
+    <Elk.label>hirvi</Elk.label>
+    <Elk.description>Suuri hirvieläimien heimon jäsen ja kylmiin ilmastoihin hyvin sopeutunut.</Elk.description>
+    <Elk_Leather.label>hirvennahka</Elk_Leather.label>
+    <Elk_Meat.label>hirven lihaa</Elk_Meat.label>
+    
+    <Alphabeaver.label>alfamajava</Alphabeaver.label>
+    <Alphabeaver.description>Suuri majavasta geenimuunneltu eläin, joka on suunniteltu keräämään puuta konemaisella tehokkuudella. Erikoistunee ruokinnan puutteessa nämä eläimet tulevat hulluksi ja syövät puita kokonaisina.</Alphabeaver.description>
+    <Alphabeaver_Leather.label>alfamajavannahka</Alphabeaver_Leather.label>
+    <Alphabeaver_Meat.label>alfamajavan lihaa</Alphabeaver_Meat.label>
+    
+    <WildBoar.label>villisika</WildBoar.label>
+    <WildBoar.description>Vaikka jotkin kulttuurit pitävät sitä epäpuhtaana, tätä kesytetyn sian karvaista esi-isää pidetään arvossa sen lihan maun takia.</WildBoar.description>
     <WildBoar_Leather.label>villisiannahka</WildBoar_Leather.label>
     <WildBoar_Meat.label>villisian lihaa</WildBoar_Meat.label>
-
-	<Rhinoceros.label>sarvikuono</Rhinoceros.label>
-	<Rhinoceros.description>Tämä suuri maanisäkäs on tyypillisesti rauhantahtoinen, mutta se ei epäröi rynnätä sarvensa kanssa hätistääkseen tunkeilijoita.</Rhinoceros.description>
+    
+    <!-- ================ Warm climate animals ================= -->
+    
+    <Rhinoceros.label>sarvikuono</Rhinoceros.label>
+    <Rhinoceros.description>Tämä suuri maanisäkäs on tyypillisesti rauhantahtoinen, mutta se ei epäröi rynnätä sarvensa kanssa hätistääkseen tunkeilijoita.</Rhinoceros.description>
     <Rhinoceros_Leather.label>sarvikuononnahka</Rhinoceros_Leather.label>
     <Rhinoceros_Meat.label>sarvikuonon lihaa</Rhinoceros_Meat.label>
-
-	<Dromedary.label>dromedaari</Dromedary.label>
-	<Dromedary.description>Tämä hevosen etäinen sukulainen selviää melkein viikon ilman vettä.</Dromedary.description>
+    
+    <Dromedary.label>dromedaari</Dromedary.label>
+    <Dromedary.description>Tämä hevosen etäinen sukulainen selviää melkein viikon ilman vettä.</Dromedary.description>
     <Dromedary_Leather.label>dromedaarinnahka</Dromedary_Leather.label>
     <Dromedary_Meat.label>dromedaarin lihaa</Dromedary_Meat.label>
-
-	<Boomrat.label>paukkurotta</Boomrat.label>
-	<Boomrat.description>Nämä jyrsijämäiset oliot tuottavat kuollessaan voimakkaan räjähdyksen joko ihmisen tekemän geneettisen aseistamisen tai epätavallisen puolustusmekansimin takia.</Boomrat.description>
+    
+    <Boomrat.label>paukkurotta</Boomrat.label>
+    <Boomrat.description>Nämä jyrsijämäiset oliot tuottavat kuollessaan voimakkaan räjähdyksen joko ihmisen tekemän geneettisen aseistamisen tai epätavallisen puolustusmekansimin takia.</Boomrat.description>
     <Boomrat_Leather.label>paukkurottannahka</Boomrat_Leather.label>
     <Boomrat_Meat.label>paukkurottan lihaa</Boomrat_Meat.label>
-
-	<Iguana.label>iguaani</Iguana.label>
-	<Iguana.description>Nämä suuret liskot syövät tavallisesti kasveja, mutta suututettuina niiden vahva nahka ja terävät kynnet tekevät niistä varsin vaarallisia.</Iguana.description>
+    
+    <Hare.label>jänis</Hare.label>
+    <Hare.description>Tämä pieni yksin liikkuva kasvinsyöjä pystyy loikkimaan nopeasti pois vaaran tieltä.</Hare.description>
+    <Hare_Leather.label>jäniksennahka</Hare_Leather.label>
+    <Hare_Meat.label>jäniksen lihaa</Hare_Meat.label>
+    
+    <Iguana.label>iguaani</Iguana.label>
+    <Iguana.description>Nämä suuret liskot syövät tavallisesti kasveja, mutta suututettuina niiden vahva nahka ja terävät kynnet tekevät niistä varsin vaarallisia.</Iguana.description>
     <Iguana_Leather.label>iguaaninnahka</Iguana_Leather.label>
     <Iguana_Meat.label>iguaanin lihaa</Iguana_Meat.label>
-
-	<Megascarab.label>jättipillerinpyörittäjä</Megascarab.label>
-	<Megascarab.description>Suuri, geneettisesti muokattu kovakuoriainen. Ne olivat alunperin työläisiä mekanoidihyökkäyksiä torjumaan suunnitellussa ekosysteemissä, mutta nykyään niitä nähdään useimmiten ilman kuollettavampia serkkujaan. Siitä huolimatta sen koko ja kova kuori tekevät siitä vaarallisen sen hyökätessä.</Megascarab.description>
-<!--    <Megascarab_Leather.label>jättipillerinpyörittäjännahka</Megascarab_Leather.label> -->
+    
+    <Megascarab.label>jättipillerinpyörittäjä</Megascarab.label>
+    <Megascarab.description>Suuri, geneettisesti muokattu kovakuoriainen. Ne olivat alunperin työläisiä mekanoidihyökkäyksiä torjumaan suunnitellussa ekosysteemissä, mutta nykyään niitä nähdään useimmiten ilman kuollettavampia serkkujaan. Siitä huolimatta sen koko ja kova kuori tekevät siitä vaarallisen sen hyökätessä.</Megascarab.description>
+    <!--    <Megascarab_Leather.label>jättipillerinpyörittäjännahka</Megascarab_Leather.label> -->
     <Megascarab_Meat.label>jättipillerinpyörittäjän lihaa</Megascarab_Meat.label>
-
-	<Tortoise.label>kilpikonna</Tortoise.label>
-	<Tortoise.description>Tämä raskaasti panssaroitu matelija on tunnettu hitaasta nopeudestaan ja yllättävän rajusta puremastaan.</Tortoise.description>
+    
+    <Tortoise.label>kilpikonna</Tortoise.label>
+    <Tortoise.description>Tämä raskaasti panssaroitu matelija on tunnettu hitaasta nopeudestaan ja yllättävän rajusta puremastaan.</Tortoise.description>
     <Tortoise_Leather.label>kilpikonnannahka</Tortoise_Leather.label>
     <Tortoise_Meat.label>kilpikonnan lihaa</Tortoise_Meat.label>
-
-	<Cobra.label>kobra</Cobra.label>
-	<Cobra.description>Suuri käärme. Kobrat ovat hyvin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olioista.</Cobra.description>
+    
+    <Cobra.label>kobra</Cobra.label>
+    <Cobra.description>Suuri käärme. Kobrat ovat hyvin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olioista.</Cobra.description>
     <Cobra_Leather.label>kobrannahka</Cobra_Leather.label>
     <Cobra_Meat.label>kobran lihaa</Cobra_Meat.label>
-
-	<Monkey.label>apina</Monkey.label>
-	<Monkey.description>Tämä apina voi käyttää kippuraista häntäänsä tarttuakseen puunoksiin jättäen kätensä vapaiksi tekemään muita toimia.</Monkey.description>
+    
+    <Monkey.label>apina</Monkey.label>
+    <Monkey.description>Tämä apina voi käyttää kippuraista häntäänsä tarttuakseen puunoksiin jättäen kätensä vapaiksi tekemään muita toimia.</Monkey.description>
     <Monkey_Leather.label>apinannnahka</Monkey_Leather.label>
     <Monkey_Meat.label>apinan lihaa</Monkey_Meat.label>
-
+    
 </LanguageData>
