@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<PlantPotato.label>perunakasvi</PlantPotato.label>
-	<PlantPotato.description>Yksinkertainen erittäin ravitseva mukulakasvi. Kasvaa hyvin suhteellisen köyhässä maaperässä.</PlantPotato.description>
-
-	<PlantStrawberry.label>mansikkakasvi</PlantStrawberry.label>
-	<PlantStrawberry.description>Hauras mutta maukas hedelmä. Herkullienn jopa raakana.</PlantStrawberry.description>
-
-	<PlantCotton.label>puuvillakasvi</PlantCotton.label>
-	<PlantCotton.description>Tuottaa puuvillaa, joka on hienojakoinen kasvikuitu, jota käytetään kankaiden tekemiseen.</PlantCotton.description>
-
-	<PlantDevilstrand.label>pirunsäie</PlantDevilstrand.label>
-	<PlantDevilstrand.description>Tämä hauras sieni on geneettisesti muokattu tuottamaan erittäin korkealuokkaista silkkiverkkoa. Siinä on pitkään huhuttu olevan mystisiä ominaisuuksia, ja se on saanut nimesä ihmisten ahneudesta sitä kohtaan.</PlantDevilstrand.description>
-
-	<PlantRose.label>ruusu</PlantRose.label>
-	<PlantRose.description>Kaunis viljelty kasvi.</PlantRose.description>
-
-	<PlantDaylily.label>päivänlilja</PlantDaylily.label>
-	<PlantDaylily.description>Kaunis viljelty kasvi.</PlantDaylily.description>
-
+    
+    <!--=========================== Crops ==============================-->
+    
+    <PlantPotato.label>perunakasvi</PlantPotato.label>
+    <PlantPotato.description>Yksinkertainen erittäin ravitseva mukulakasvi. Kasvaa hyvin suhteellisen köyhässä maaperässä.</PlantPotato.description>
+    
+    <PlantStrawberry.label>mansikkakasvi</PlantStrawberry.label>
+    <PlantStrawberry.description>Hauras mutta maukas hedelmä. Herkullienn jopa raakana.</PlantStrawberry.description>
+    
+    <PlantCotton.label>puuvillakasvi</PlantCotton.label>
+    <PlantCotton.description>Tuottaa puuvillaa, joka on hienojakoinen kasvikuitu, jota käytetään kankaiden tekemiseen.</PlantCotton.description>
+    
+    <PlantDevilstrand.label>pirunsäie</PlantDevilstrand.label>
+    <PlantDevilstrand.description>Tämä hauras sieni on geneettisesti muokattu tuottamaan erittäin korkealuokkaista silkkiverkkoa. Siinä on pitkään huhuttu olevan mystisiä ominaisuuksia, ja se on saanut nimesä ihmisten ahneudesta sitä kohtaan.</PlantDevilstrand.description>
+    
+    <PlantXerigium.label>xerigium</PlantXerigium.label>
+    <PlantXerigium.description>Uudisasukkaat ovat jalostaneet tämän kasvin vuosisatojen saatossa. Heimolaiset kutsuvat sitä myös joskus &quot;parantajankädeksi&quot; - se on saanut tämän lempinimen viiden lääketieteellisen hyveensä ansiosta.</PlantXerigium.description>
+    
+    <!--=========================== Decorative ==============================-->
+    
+    <PlantRose.label>ruusu</PlantRose.label>
+    <PlantRose.description>Kaunis viljelty kasvi.</PlantRose.description>
+    
+    <PlantDaylily.label>päivänlilja</PlantDaylily.label>
+    <PlantDaylily.description>Kaunis viljelty kasvi.</PlantDaylily.description>
+    
 </LanguageData>
