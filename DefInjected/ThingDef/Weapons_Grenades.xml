@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<Proj_GrenadeFrag.label>sirpalekranaatti</Proj_GrenadeFrag.label>
-
-	<Weapon_GrenadeFrag.label>sirpalekranaatteja</Weapon_GrenadeFrag.label>
-	<Weapon_GrenadeFrag.description>Vanhanaikaisia sirpalekranaatteja.</Weapon_GrenadeFrag.description>
-
-	<Proj_GrenadeMolotov.label>Molotovin koktaili</Proj_GrenadeMolotov.label>
-
-	<Weapon_GrenadeMolotov.label>Molotovin koktaileja</Weapon_GrenadeMolotov.label>
-	<Weapon_GrenadeMolotov.description>Palavalla nesteellä täytettyjä laipulloja ja palava kangas pullonkaulassa. Huligaanien ja epätoivoisten taistelijoiden lempiase.</Weapon_GrenadeMolotov.description>
-
-	<Proj_GrenadeEMP.label>EMP-kranaatti</Proj_GrenadeEMP.label>
-
-	<Weapon_GrenadeEMP.label>EMP-kranaatteja</Weapon_GrenadeEMP.label>
-	<Weapon_GrenadeEMP.description>Sähkömagneettipulssikranaatteja, jotka vahingoittavat sähkölaitteita.</Weapon_GrenadeEMP.description>
-
+    
+    <!-- ==================== Frag grenade ========================== -->
+    
+    <Proj_GrenadeFrag.label>sirpalekranaatti</Proj_GrenadeFrag.label>
+    
+    <Weapon_GrenadeFrag.label>sirpalekranaatteja</Weapon_GrenadeFrag.label>
+    <Weapon_GrenadeFrag.description>Vanhanaikaisia sirpalekranaatteja.</Weapon_GrenadeFrag.description>
+    
+    <!-- ==================== Molotov cocktail ========================== -->
+    
+    <Proj_GrenadeMolotov.label>Molotovin koktaili</Proj_GrenadeMolotov.label>
+    
+    <Weapon_GrenadeMolotov.label>Molotovin koktaileja</Weapon_GrenadeMolotov.label>
+    <Weapon_GrenadeMolotov.description>Palavalla nesteellä täytettyjä laipulloja ja palava kangas pullonkaulassa. Huligaanien ja epätoivoisten taistelijoiden lempiase.</Weapon_GrenadeMolotov.description>
+    
+    <!-- ==================== EMP grenade ========================== -->
+    
+    <Proj_GrenadeEMP.label>EMP-kranaatti</Proj_GrenadeEMP.label>
+    
+    <Weapon_GrenadeEMP.label>EMP-kranaatteja</Weapon_GrenadeEMP.label>
+    <Weapon_GrenadeEMP.description>Sähkömagneettipulssikranaatteja, jotka vahingoittavat sähkölaitteita.</Weapon_GrenadeEMP.description>
+    
 </LanguageData>
