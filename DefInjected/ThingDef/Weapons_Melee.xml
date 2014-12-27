@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<MeleeWeapon_ShortSword.label>miekka</MeleeWeapon_ShortSword.label>
-	<MeleeWeapon_ShortSword.description>Luotettava ja kuollettava lähitaistelussa.</MeleeWeapon_ShortSword.description>
-
-	<MeleeWeapon_Knife.label>veitsi</MeleeWeapon_Knife.label>
-	<MeleeWeapon_Knife.description>Yksinkertainen veitsi.</MeleeWeapon_Knife.description>
-
-	<MeleeWeapon_Shiv.label>improvisoitu veitsi</MeleeWeapon_Shiv.label>
-	<MeleeWeapon_Shiv.description>Improvisoitu veitsen tapainen ase.</MeleeWeapon_Shiv.description>
-
-	<MeleeWeapon_Spear.label>keihäs</MeleeWeapon_Spear.label>
-	<MeleeWeapon_Spear.description>Pitkävartinen lyömäase, jonka kärjessä on terävä piikki vihollisten pistämiseen lähitaistelussa.</MeleeWeapon_Spear.description>
-
-	<MeleeWeapon_Club.label>nuija</MeleeWeapon_Club.label>
-	<MeleeWeapon_Club.description>Vanhin ihmisase - muotoiltu puupalanen vihollisten hakkaamiseksi kuoliaaksi. Alkukantainen mutta tehokas.</MeleeWeapon_Club.description>
-
+    
+    <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
+    <MeleeWeapon_Gladius.description>Muinainen lyhyt miekka. Sopii pistämiseen ja halkaisemiseen.</MeleeWeapon_Gladius.description>
+    
+    <MeleeWeapon_LongSword.label>pitkämiekka</MeleeWeapon_LongSword.label>
+    <MeleeWeapon_LongSword.description>Tämä on muinainen kuninkaiden ase, ja se soveltuu halkaisemiseen ja pistämiseen ja on tappava oikeissa käsissä.</MeleeWeapon_LongSword.description>
+    
+    <MeleeWeapon_Knife.label>veitsi</MeleeWeapon_Knife.label>
+    <MeleeWeapon_Knife.description>Yksinkertainen veitsi.</MeleeWeapon_Knife.description>
+    
+    <MeleeWeapon_Shiv.label>improvisoitu veitsi</MeleeWeapon_Shiv.label>
+    <MeleeWeapon_Shiv.description>Improvisoitu veitsen tapainen ase.</MeleeWeapon_Shiv.description>
+    
+    <MeleeWeapon_Spear.label>keihäs</MeleeWeapon_Spear.label>
+    <MeleeWeapon_Spear.description>Pitkävartinen lyömäase, jonka kärjessä on terävä piikki vihollisten pistämiseen lähitaistelussa.</MeleeWeapon_Spear.description>
+    
+    <MeleeWeapon_Mace.label>piikkinuija</MeleeWeapon_Mace.label>
+    <MeleeWeapon_Mace.description>Paranneltu nuija joka on suunniteltu sujuvaan heiluttamiseen ja kuollettaviin iskuihin.</MeleeWeapon_Mace.description>
+    
+    <MeleeWeapon_Club.label>nuija</MeleeWeapon_Club.label>
+    <MeleeWeapon_Club.description>Vanhin ihmisase - muotoiltu puupalanen vihollisten hakkaamiseksi kuoliaaksi. Alkukantainen mutta tehokas.</MeleeWeapon_Club.description>
+    
 </LanguageData>
