@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <ShipBasics.label>avaruusaluksen rakentamisen perusteet</ShipBasics.label>
+    <ShipBasics.label>avaruusalusrakennuksen perusteet</ShipBasics.label>
     <ShipBasics.description>Mahdollistaa sinun aloittamaan edistyneempien aluksenrakentamisteknologioiden tutkimisen ja lopulta rakentaa avaruusaluksen planeetalta pakenemiseen.</ShipBasics.description>
     
     <ShipCryptosleep.label>avaruusaluksen salauniarkut</ShipCryptosleep.label>
     <ShipCryptosleep.description>Mahdollistaa sinun rakentamaan aluksen salauniarkkuja salaunessa olevien yhdyskuntalaisten tähtienväliseen kuljettamiseen.</ShipCryptosleep.description>
     
-    <ShipReactor.label>avaruusaluksen anitmateriareaktori</ShipReactor.label>
+    <ShipReactor.label>avaruusaluksen antimateriareaktori</ShipReactor.label>
     <ShipReactor.description>Mahdollistaa sinun rakentamaan antimaterianhallintaytimen toimivan antimateriareaktorin rakentamiseen. Tämä on avaruusaluksen voimanlähde.</ShipReactor.description>
     
     <ShipEngine.label>avaruusaluksen antimateriamoottori</ShipEngine.label>

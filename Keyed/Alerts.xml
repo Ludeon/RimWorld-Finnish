@@ -35,7 +35,7 @@
   <NeedGrowingZoneDesc>Et ole määrittänyt kasvatusaluetta.\n\nAseta kasvatusalue hedelmälliselle maalle ARKKITEHTI valikosta.</NeedGrowingZoneDesc>
 
   <NeedDefenses>Tarvitset puolustuksia</NeedDefenses>
-  <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Piraattien hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia.\n\nRakenna joitain tykkitorneja.</NeedDefensesDesc>
+  <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Rosvojoukkojen hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia.\n\nRakenna joitain tykkitorneja.</NeedDefensesDesc>
 
   <NeedDoctor>Tarvitset lääkärin</NeedDoctor>
   <NeedDoctorDesc>Nämä yhdyskuntalaisesi tarvitsevat lääkärin hoitoa, mutta sinulla ei ole yhtään tervettä yhdyskuntalaista määritettynä lääkäriksi.\n\n{0}\nNimeä terve yhdyskuntalainen lääkäriksi. Hoitamattomina, haavat eivät saata parantua kunnolla ja tulla pysyviksi.</NeedDoctorDesc>

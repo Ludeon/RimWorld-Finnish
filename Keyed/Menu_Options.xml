@@ -13,6 +13,7 @@
   <!-- Gameplay -->
   <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
   <CustomCursor>Mukautettu kursori</CustomCursor>
+  <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
   <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
@@ -37,6 +38,5 @@
   <ChooseHistoryUploadPref>Salli pelitietojen lähetys</ChooseHistoryUploadPref>
   <CurrentHistoryUploadPref>Tällä hetkellä: {0}</CurrentHistoryUploadPref>
   <AboutHistoryUpload>Käyttäjien pelaamistiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään {0} pelissä kuluvan päivän välein (ja joissain harvoissa tapauksissa, kuten pelin lopussa) RimWorldin palvelimille analysoitavaksi. Lähetetyt pelaamistiedot koostuvat vain tilastoista ja historiasta peliin liittyen - mitään henkilökohtaisia tietoja ei lähetetä, antamaasi käyttäjänimeä lukuunottamatta, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
-
-
+  
 </LanguageData>

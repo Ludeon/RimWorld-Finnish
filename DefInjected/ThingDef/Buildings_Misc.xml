@@ -7,9 +7,6 @@
     <OrbitalTradeBeacon.label>kiertoratavaihtokaupan majakka</OrbitalTradeBeacon.label>
     <OrbitalTradeBeacon.description>Tarvitaan kiertoratavaihtokauppaan. Voit myydä vain tavaroita jotka ovat lähellä tällaista majakkaa eivätkä ole katon alla. Kiertoratavaihtokauppiaat myös pudottavat tavaransa tämän läheisyyteen.</OrbitalTradeBeacon.description>
     
-    <ResearchBench.label>tutkimuspöytä</ResearchBench.label>
-    <ResearchBench.description>Tutkijat työskentelevät tässä keksiäkseen uusia asioita.</ResearchBench.description>
-    
     <CommsConsole.label>kommunikaatiopääte</CommsConsole.label>
     <CommsConsole.description>Kommunikoi kiertoradalla olevien kauppa-alusten ja muiden ryhmien kanssa.</CommsConsole.description>
     

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <NutrientPasteDispenser.label>ravinnetahnan jakaja</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.label>ravinnetahna-annostelija</NutrientPasteDispenser.label>
     <NutrientPasteDispenser.description>Tekee orgaaniseista raaka-aineista synteettista ravinnetahnaa.</NutrientPasteDispenser.description>
     
     <Hopper.label>suppilo</Hopper.label>

@@ -5,7 +5,7 @@
     <ArmorRating_Blunt.description>Todennäköisyys estää tylppää vahinkoa esimerkiksi nuijista, putoavista kivistä ja räjähdyksistä.</ArmorRating_Blunt.description>
     
     <ArmorRating_Sharp.label>Suoja - Läpäisy</ArmorRating_Sharp.label>
-    <ArmorRating_Sharp.description>Todennäköisyys estää läpäisevää vahinkoa esimerkiksi luodeista, veitsien pistoista ja eläinten puremista.</DamageDeflection_Piercing.description>
+    <ArmorRating_Sharp.description>Todennäköisyys estää läpäisevää vahinkoa esimerkiksi luodeista, veitsien pistoista ja eläinten puremista.</ArmorRating_Sharp.description>
     
     <ArmorRating_Heat.label>Suoja - Lämpö</ArmorRating_Heat.label>
     <ArmorRating_Heat.description>Todennäkköisyys estää lämpötilaan liittyvää vahinkoa esimerkiksi palovammoista.</ArmorRating_Heat.description>
