@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <FertilizerPump.label>lannoitepumppu</FertilizerPump>
+    <FertilizerPump.label>lannoitepumppu</FertilizerPump.label>
     <FertilizerPump.description>Mahdollistaa lannoitepumppujen rakentamisen. Ne pystyvät luomaan viljelykelpoista maata mihin tahansa.</FertilizerPump.description>
     
     <GeothermalPower.label>maalämpö</GeothermalPower.label>
@@ -23,7 +23,7 @@
     <Machining.description>Rakenna työstöpöytiä kuolleiden mekanoidien purkamiseen käyttökelpoiseksi metalliksi.</Machining.description>
     
     <NutrientResynthesis.label>ravinteiden kierrätys</NutrientResynthesis.label>
-    <NutrientResynthesis.description>Ravinnetahnanjakajat kuluttavat 10% vähemmän ruokaa tuotettua ateriaa kohti.</NutrientResynthesis.description>
+    <NutrientResynthesis.description>Ravinnetahna-annostelijat kuluttavat 10% vähemmän ruokaa tuotettua ateriaa kohti.</NutrientResynthesis.description>
     
     <GunTurretCooling.label>tykkitornin jäähdytys</GunTurretCooling.label>
     <GunTurretCooling.description>Tykkitornit ampuvat yhdessä purskeessa neljä luotia kolmen sijaan.</GunTurretCooling.description>
@@ -37,13 +37,13 @@
     <CarpetMaking.label>matonteko</CarpetMaking.label>
     <CarpetMaking.description>Mahdollistaa yhdyskuntalaisten rakentaa kokolattiamattoja parantaakseen heidän ympäristönsä laatua.</CarpetMaking.description>
     
-    <Tailoring.label>suutarointi</Tailoring.label>
-    <Tailoring.description>Mahdollistaa yhdyskuntalaisten rakentaa suutarin työpajan ja tehdä uusia vaatteita kankaasta, nahasta tai muista materiaaleista.</Tailoring.description>
-    
     <ColoredLights.label>värilliset valot</ColoredLights.label>
     <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
     
     <HospitalBed.label>sairasvuode</HospitalBed.label>
     <HospitalBed.description>Mahdollistaa yhdyskuntalaisiten rakentaa sairasvuoteita, jotka parantavat onnistuneen hoidon mahdollisuuksia.</HospitalBed.description>
+    
+    <Cryptosleep.label>salauniarkku</Cryptosleep.label>
+    <Cryptosleep.description>Mahdollistaa yhdyskuntalaisten rakentaa salauniarkkuja joihin voidaan laittaa eläviä olentoja lepotilaan.</Cryptosleep.description>
     
 </LanguageData>
