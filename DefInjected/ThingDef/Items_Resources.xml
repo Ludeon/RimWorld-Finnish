@@ -5,27 +5,27 @@
     
     <Silver.label>hopeaa</Silver.label>
     <Silver.description>Tätä metallia käytetään useimmiten kauppatavaran valuuttana. Sitä voidaan myös käyttää viehättävien koristeiden tekemiseen.</Silver.description>
-    <Silver.stuffProps.nameAsStuff>hopeinen</Silver.stuffProps.nameAsStuff>
+    <Silver.stuffProps.stuffAdjective>hopeinen</Silver.stuffProps.stuffAdjective>
     
     <Gold.label>kultaa</Gold.label>
     <Gold.description>Kaikkein viettelevin metalli. Miljoonat ovat kuolleet yrittäessään ruokkia ihmiskunnan loputonta janoa kullalle. Tällä pehmeällä metallilla ei ole itsessään juuri käyttöä, mutta se on häkellyttävän kaunis ja hyvin harvinainen.</Gold.description>
-    <Gold.stuffProps.nameAsStuff>kultainen</Gold.stuffProps.nameAsStuff>
+    <Gold.stuffProps.stuffAdjective>kultainen</Gold.stuffProps.stuffAdjective>
     
     <Steel.label>terästä</Steel.label>
     <Steel.description>Raudan ja hiilen metalliseos, jota käytetään rakennelmien, työkalujen ja aseiden rakentamiseen.</Steel.description>
-    <Steel.stuffProps.nameAsStuff>metallinen</Steel.stuffProps.nameAsStuff>
+    <Steel.stuffProps.stuffAdjective>metallinen</Steel.stuffProps.stuffAdjective>
     
     <Plasteel.label>muoviterästä</Plasteel.label>
     <Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
-    <Plasteel.stuffProps.nameAsStuff>muoviteräksinen</Plasteel.stuffProps.nameAsStuff>
+    <Plasteel.stuffProps.stuffAdjective>muoviteräksinen</Plasteel.stuffProps.stuffAdjective>
     
-    <StoneBlocks.label>kiviharkkoja</StoneBlocks.label>
+<!--    <StoneBlocks.label>kiviharkkoja</StoneBlocks.label>
     <StoneBlocks.description>Kovia kivestä tehtyjä harkkoja. Enimmäkseen hyödyllinen erittäin vahvojen ja pitkäisten mutta yksinkertaisten rakennelmien rakentamiseen.</StoneBlocks.description>
-    <StoneBlocks.stuffProps.nameAsStuff>kivinen</StoneBlocks.stuffProps.nameAsStuff>
+    <StoneBlocks.stuffProps.stuffAdjective>kivinen</StoneBlocks.stuffProps.stuffAdjective> -->
     
     <WoodLog.label>puuta</WoodLog.label>
     <WoodLog.description>Puuta puista ja muista puuvartisista kasveista. Hyödyllinen rakentamiseen, aseissa ja jopa yksinkertaisissa proteeseissa. Puuta voi hätätilassa käyttää aseena.</WoodLog.description>
-    <WoodLog.stuffProps.nameAsStuff>puinen</WoodLog.stuffProps.nameAsStuff>
+    <WoodLog.stuffProps.stuffAdjective>puinen</WoodLog.stuffProps.stuffAdjective>
     
     <Uranium.label>uraania</Uranium.label>
     <Uranium.description>Reaktoreiden polttoainetta.</Uranium.description>
@@ -34,19 +34,19 @@
     
     <Cloth.label>kangasta</Cloth.label>
     <Cloth.description>Orgaanisista kuiduista kudottua kangasta.</Cloth.description>
-    <Cloth.stuffProps.nameAsStuff>kankainen</Cloth.stuffProps.nameAsStuff>
+    <Cloth.stuffProps.stuffAdjective>kankainen</Cloth.stuffProps.stuffAdjective>
     
     <Synthread.label>tekokuitua</Synthread.label>
     <Synthread.description>Avaruusajan synteettinen kangas, joka on suunniteltu tavallisten vaatteiden tekemiseen. Se on pehmeä, kevyt, vahva ja eristää hyvin.</Synthread.description>
-    <Synthread.stuffProps.nameAsStuff>tekokuituinen</Synthread.stuffProps.nameAsStuff>
+    <Synthread.stuffProps.stuffAdjective>tekokuituinen</Synthread.stuffProps.stuffAdjective>
     
     <DevilstrandCloth.label>pirunsäiekangasta</DevilstrandCloth.label>
     <DevilstrandCloth.description>Äärimmäisen vahva kangas, joka on poimittu suoraan silkkiä tuottavista Pirunsäie-sienistä.</DevilstrandCloth.description>
-    <DevilstrandCloth.stuffProps.nameAsStuff>pirunsäiekankainen</DevilstrandCloth.stuffProps.nameAsStuff>
+    <DevilstrandCloth.stuffProps.stuffAdjective>pirunsäiekankainen</DevilstrandCloth.stuffProps.stuffAdjective>
     
     <Hyperweave.label>hyperkudosta</Hyperweave.label>
     <Hyperweave.description>Huipputeknologisia nanokuituja kankaaksi kudottuna. Se on jokseenkin painava, mutta sitä on uskomattoman vaikea rikkoa.</Hyperweave.description>
-    <Hyperweave.stuffProps.nameAsStuff>hyperkudottu</Hyperweave.stuffProps.nameAsStuff>
+    <Hyperweave.stuffProps.stuffAdjective>hyperkudottu</Hyperweave.stuffProps.stuffAdjective>
     
     <!--=============== Raw foods ====================-->
     
