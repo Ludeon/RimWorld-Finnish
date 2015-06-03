@@ -5,37 +5,24 @@
 
 
 
-
-  <AlertNeedStockpile>Tarvitset varastoalueen</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Yhdyskuntalaisesi tarvitsevat alueen mihin varastoida esineitä. Merkitse VARASTOALUE heille johon varastoida esineitä.\n\nLöydät varastoalueen ALUEET osiossa ARKKITEHTI -valikossa alavasemmalla.</AlertNeedStockpileDesc>
-
-  <AlertUnforbidStartingResources>Salli resurssien siirtäminen</AlertUnforbidStartingResources>
-  <AlertUnforbidStartingResourcesDesc>Aloitusresurssit ovat KIELLETTYJÄ.\n\nJotta yhdyskuntalaisesi keräävät ne, sinun täytyy SALLIA niiden siirtäminen valitsemalla esineet ja klikkaamalla nappia ruudun alalaidassa.</AlertUnforbidStartingResourcesDesc>
-
-  <AlertEquipStartingWeapons>Aseista yhdyskuntalaisesi</AlertEquipStartingWeapons>
-  <AlertEquipStartingWeaponsDesc>Yhdyskuntalaisesi saapuivat joidenkin aseiden kanssa. Käytä niitä!\n\nValitse yhdyskuntalainen ja klikkaa hiiren oikealla näppäimellä siä asetta jota haluat hänen käyttävän.</AlertEquipStartingWeaponsDesc>
-  
   <NeedSawmill>Tarvitset sahan</NeedSawmill>
   <NeedSawmillDesc>Tarvitset jonkinlaisen sahan jolla voit sahata puita monikäyttöisemmiksi lankuiksi.\n\nRakenna SAHA tai SÄHKÖINEN SAHA.</NeedSawmillDesc>
 
-  <MentalBreakSoon>Hermoromahduksen vaara</MentalBreakSoon>
-  <MentalBreakSoonDesc>Nämä yhdyskuntalaiset ovat lähestymässä hermoromahduksen rajaa:\n\n{0}\nParanna näiden yhdyskuntalaisten psyykkistä tilla tai pahoja tulee tapahtumaan.</MentalBreakSoonDesc>
+  <PoorMood>Huono mieliala</PoorMood>
+  <PoorMoodDesc>Nämä yhdyskuntalaiset ovat huonolla tuulella ja saattavat saada hermoromahduksen hetkenä minä hyvänsä:\n\n{0}\nTarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</PoorMoodDesc>
 
-  <MentalBreakImminent>Hermoromahdus!</MentalBreakImminent>
-  <MentalBreakImminentDesc>Nämä yhdyskuntalaiset ovat vaarallisen stressautuneita ja saattavat saada hermoromahduksen millä hetkellä tahansa:\n\n{0}</MentalBreakImminentDesc>
+  <TerribleMood>Surkea mielieala</TerribleMood>
+  <TerribleMoodDesc>Nämä yhdyskuntalaiset ovat erittäin rasittuneita ja saattavat kokea mahdollisesti väkivaltaisen hermoromahduksen minä hetkenä hyvänsä:\n\n{0}\nTarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</TerribleMoodDesc>
 
   <ColonistNeedsRescue>Yhdyskuntalainen tarvitsee pelastusta</ColonistNeedsRescue>
   <ColonistsNeedRescue>Yhdyskuntalaiset tarvitsevat pelastusta</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Nämä yhdyskuntalaiset ovat liikekyvyttöminä maassa:\n\n{0}\nLähetä toinen yhdyskuntalainen pelastamaan heidät ja kantamaan heidät sänkyyn.\n\n(Pelastaaksesi, valitse toinen yhdyskuntalainen, sitten hiiren oikealla näppäimellä valitse uhri ja Pelasta.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Nämä yhdyskuntalaiset makaavat maassa liikuntakyvyttöminä:\n\n{0}\nLähetä toinen yhdyskuntalainen pelastamaan heidät ja kantamaan heidät sänkyyn.\n\n(Valitse toinen yhdyskuntalainen, sitten paina hiiren oikealla näppäimellä uhria ja valitse Pelasta.</ColonistsNeedRescueDesc>
 
   <BuildARoom>Rakenna huone</BuildARoom>
-  <BuildARoomDesc>Huone koostuu erillisistä seinistä ja ovesta.\n\nKäytä ARKKITEHTI valikkoa ruudun vasemmassa alakulmassa määrittääksesi mihin haluat rakentaa asioita. Kun olet määrittänyt jotain rakennettavaksi, yhdyskuntalaisesi rakentavat sen kun he voivat.</BuildARoomDesc>
-
-  <NeedGrowingZone>Tarvitset pellon</NeedGrowingZone>
-  <NeedGrowingZoneDesc>Et ole määrittänyt kasvatusaluetta.\n\nAseta kasvatusalue hedelmälliselle maalle ARKKITEHTI valikosta.</NeedGrowingZoneDesc>
+  <BuildARoomDesc>Huone koostuu erillisistä seinistä ja ovesta.\n\nKäytä ARKKITEHTI-valikkoa ruudun vasemmassa alakulmassa määrittääksesi mihin haluat rakentaa asioita. Kun olet määrittänyt jotain rakennettavaksi, yhdyskuntalaisesi rakentavat sen kun he voivat.</BuildARoomDesc>
 
   <NeedDefenses>Tarvitset puolustuksia</NeedDefenses>
-  <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Rosvojoukkojen hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia.\n\nRakenna joitain tykkitorneja.</NeedDefensesDesc>
+  <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Rosvojoukkojen hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia.\n\nRakenna muutama tykkitorni.</NeedDefensesDesc>
 
   <NeedDoctor>Tarvitset lääkärin</NeedDoctor>
   <NeedDoctorDesc>Nämä yhdyskuntalaisesi tarvitsevat lääkärin hoitoa, mutta sinulla ei ole yhtään tervettä yhdyskuntalaista määritettynä lääkäriksi.\n\n{0}\nNimeä terve yhdyskuntalainen lääkäriksi. Hoitamattomina, haavat eivät saata parantua kunnolla ja tulla pysyviksi.</NeedDoctorDesc>
@@ -84,6 +71,9 @@
   <BrawlerHasRangedWeapon>Painijalla on ampuma-ase</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>Eräällä yhdyskuntalaisellasi on Painija-luonteenpiirre, mutta kantaa silti ampuma-asetta. Tämä tekee hänet hyvin surulliseksi.</BrawlerHasRangedWeaponDesc>
 
+  <ShieldUserHasRangedWeapon>Suojakilven käyttäjällä on ampuma-ase</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Yhdellä yhdyskuntalaisistasi on sekä henkilökohtainen suojakilpi että ampuma-ase. He eivät pysty ampumaan aseellaan kilven läpi (lukuun ottamatta kohteita jotka ovat jo kosketusetäisyydellä).</ShieldUserHasRangedWeaponDesc>
+
   <NeedResearchProject>Tarvitset tutkimusprojektin</NeedResearchProject>
   <NeedResearchProjectDesc>Sinulla on tutkimusvälineet mutta et ole valinnut tutkimuskohdetta.\n\nAvaa tutkimusvalikko ja valitse tutkimuskohde.</NeedResearchProjectDesc>
 
@@ -99,9 +89,6 @@
   <HaltedConstructions>{0} rakennuksesta puuttuu materiaaleja</HaltedConstructions>
   <HaltedConstructionsDesc>Näillä rakennushankkeilla ei ole kaikkia tarvittavia materiaaleja:\n\n{0}\nSinun kannattaisi kerätä tarvittavia materiaaleja, jotta yhdyskuntalaisesi voivat jatkaa rakentamista.</HaltedConstructionsDesc>
 
-  <TableNeedsChairs>Pöytä tarvitsee tuoleja</TableNeedsChairs>
-  <TableNeedsChairsDesc>Sinulla on pöytä jolla ei ole tuoleja sen vieressä. Pöydät ovat hyödyttömiä ilman tuoleja joille ihmiset voivat istua.</TableNeedsChairsDesc>
-
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
 
@@ -111,8 +98,14 @@
   <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>Nämä yhdyskuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>
 
+  <FireInHomeRegion>Tuli on irti!</FireInHomeRegion>
+  <FireInHomeRegionDesc>Kotialueella on tulipalo.</FireInHomeRegionDesc>
+
   <PawnsWithLifeThreateningDisease>Vakavia sairauksia</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>Nämä yhdyskuntalaiset ovat hengenvaarassa vakavien sairauksien vuoksi:\n\n{0}\nVarmista, että he saavat niin paljon lääkitystä kuin mahdollista.</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Nämä yhdyskuntalaiset ovat hengenvaarassa vakavien sairauksien vuoksi:\n\n{0}\nJos mahdollista, harkitse tartunnan saaneiden raajojen amputoimista tai korvaamista yhdyskuntalaisten hengissä pitämiseksi.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Biljardipöytä tarvitsee tilaa</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Biljardipöytäsi on jonkin esteen vieressä, joka estää yhdyskuntalaisasi pelaamasta.\n\nBiljardipöytä tarvitsee tyhjää tilaa joka puolella ollakseen käyttökelpoinen.</BilliardsNeedsSpaceDesc>
 
 </LanguageData>

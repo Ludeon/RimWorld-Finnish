@@ -13,10 +13,10 @@
   <FireAt>Ammu {0}</FireAt>
 
   <OutOfRange>kantaman ulkopuolella</OutOfRange>
-  <CannotHitTarget>ei ole mahdollista osua kohteeseen</CannotHitTarget>
+  <CannotHitTarget>kohteeseen ei voi osua</CannotHitTarget>
   <CannotFight>{0} ei voi taistella</CannotFight>
 
-  <OrderManThing>Mies {0}</OrderManThing>
+  <OrderManThing>Miehitä {0}</OrderManThing>
   
   <MeleeAttack>Lähitaistele kohteen {0} kanssa</MeleeAttack>
   <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
@@ -29,12 +29,16 @@
 	<NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
 	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
 	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
+
+
+  <ConsumeThing>Syö {0}</ConsumeThing>
 	
 	
   <CannotGoNoPath>Ei voi mennä tänne (ei reittiä)</CannotGoNoPath>
   <GoHere>Mene tänne</GoHere>
   
   <Arrest>Pidätä {0}</Arrest>
+  <TryToArrest>Yritä pidättää {0}</TryToArrest>
   <CannotArrest>Ei voi pidättää</CannotArrest>
 
   <Capture>Kaappaa {0}</Capture>
@@ -53,26 +57,26 @@
   <ReservedBy>{0} on varannut tämän.</ReservedBy>
   <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
 
-  <NoManipulationSkill>kykenemätön</NoManipulationSkill>
+  <Incapable>kykenemätön</Incapable>
 
   <Equip>Ota käyttöön {0}</Equip>
   <EquipWarningBrawler>(painija tulee pahalle mielelle)</EquipWarningBrawler>
   <CannotEquip>Ei voida ottaa käyttöön {0}</CannotEquip>
   
-  <Wear>Pue {0}</Wear>
+  <ForceWear>Pakota pukemaan {0}</ForceWear>
   <CannotWear>Ei voi pukea {0}</CannotWear>
   
   <Strip>Riisu {0}</Strip>
   <CannotStrip>Ei voi riisua {0}</CannotStrip>
 
-  <Deposit>Talleta {0} {1}:een</Deposit>
-  <CannotDeposit>Ei voi tallettaa {0}:a {1}:een</CannotDeposit>
+  <Deposit>Talleta {0} kohteeseen {1}</Deposit>
+  <CannotDeposit>Ei voi tallettaa esinettä {0} kohteeseen {1}</CannotDeposit>
 
   <SelfDestructHere>Tuhoudu tässä</SelfDestructHere>
   
   <Drop>Pudota {0}</Drop>
   
-  <UseMedicalBed>Lepää, kunnes täysin parantunut</UseMedicalBed>
+  <UseMedicalBed>Lepää kunnes täysin parantunut</UseMedicalBed>
   <NotInjured>Ei loukkaantunut</NotInjured>
   <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
 

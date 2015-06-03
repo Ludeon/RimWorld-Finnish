@@ -1,17 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <LetterLabelAnimalInsanitySingle>Hullu eläin</LetterLabelAnimalInsanitySingle>
   <AnimalInsanitySingle>Paikallinen {0} on tullut hulluksi. Se hyökkää jokaisen näkemänsä kimppuun.</AnimalInsanitySingle>
   <AnimalInsanityMultiple>Jonkinlainen psyykkinen aalto on pyyhkinyt alueen yli. Yhdyskuntalaisesi ovat kunnossa, mutta...\n\nNäyttää siltä että moni alueen {0} on tullut hulluksi siitä.</AnimalInsanityMultiple>
 
+  <LetterLabelCropBlight>Vitsaus</LetterLabelCropBlight>
   <CropBlight>Mysteerinen vitsaus on tuhonnut satosi.</CropBlight>
 
+  <LetterLabelEclipseIncident>Auringonpimennys</LetterLabelEclipseIncident>
   <EclipseIncident>Yksi tämän planeetan kuista on kiertoradallaan osunut auringon eteen. Auringonpimennys on alkanut.</EclipseIncident>
 
+  <LetterLabelMiracleHeal>Ihme</LetterLabelMiracleHeal>
   <MiracleHeal>{0} on kokenut ihmeparantumisen!</MiracleHeal>
 
   
   <!-- Enemy raids -->
+  <LetterLabelEnemyRaid>Hyökkäys</LetterLabelEnemyRaid>
+  <LetterLabelSiege>Piiritys</LetterLabelSiege>
   <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut pudotusaluksilla lähistölle.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
@@ -19,8 +25,8 @@
   <EnemyRaidImmediateAttack>He hyökkäävät välittömästi.</EnemyRaidImmediateAttack>
   <EnemyRaidBesiege>Näyttää siltä, että he haluavat tehdä piirityksen yhdyskuntaasi vastaan.</EnemyRaidBesiege>
 
-
   <!-- Friendly raids -->
+  <LetterLabelFriendlyRaid>Ystäviä</LetterLabelFriendlyRaid>
   <FriendlyRaidWalkIn>Ryhmä ystävällisiä {0} tukikohdasta {1} on saapunut lähistölle.</FriendlyRaidWalkIn>
   <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
@@ -28,21 +34,26 @@
   <FriendlyRaidImmediateAttack>He siirtyvät auttamaan sinua välittömästi.</FriendlyRaidImmediateAttack>
   <FriendlyRaidBesiege>Näyttää siltä, että he haluavat käyttää piiritystaktiikoita auttaaksesi sinua.</FriendlyRaidBesiege>
 
+  <LetterLabelRefugeePodCrash>Pakosäiliö</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>Olet huomannut pakoaluksen putoavan lähistöllesi.\n\nJos joku selvisi törmäyksestä, hän olisi vakavasti haavoittunut.</RefugeePodCrash>
 
+  <LetterLabelCargoPodCrash>Varastosäiliöitä</LetterLabelCargoPodCrash>
   <CargoPodCrash>Olet huomannut rykelmän pieniä rahtikapseleita putoavan lähistölle.\n\nEhkä löydät niistä jotain hyödyllistä.</CargoPodCrash>
 
   <AnElectricalConduit>sähkönjohtimessa</AnElectricalConduit>
-  <AWallsPowerConduit>seinän sähkönjohtimessa</AWallsPowerConduit>
   <ShortCircuit>Valmistusvirhe {0} on aiheuttanut oikosulun.\n\nKaikki {1} Wd virrasta liitetyissä akuissa on purkautunut sähköisessä räjähdyksessä.</ShortCircuit>
   <ShortCircuitWasLarge>Tämä suuri virtamäärä on aiheuttanut kunnioitettavan kokoisen räjähdyksen.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Tuo on todella valtava räjähdys. Wau.</ShortCircuitWasHuge>
 
+  <LetterLabelSolarFlare>Auringonpurkaus</LetterLabelSolarFlare>
   <LetterSolarFlare>Auringonpurkaus on alkanut.\n\nVoimakas säteily sammuttaa kaikki sähköiset laitteet.\n\nSen pitäisi loppua noin päivän sisällä.</LetterSolarFlare>
 
   <LetterHeatWave>Epätavallinen lämpöaalto on alkanut. Varo lämpöhalvausta.</LetterHeatWave>
+  <LetterLabelHeatWave>Lämpöaalto</LetterLabelHeatWave>
   <HeatWaveOver>Lämpöaalto on ohi.</HeatWaveOver>
+
   <LetterColdSnap>Epätavallinen kylmä kausi on laskeutunut alueelle. Varo hypotermiaa ja viljelmien kuolemaa.</LetterColdSnap>
+  <LetterLabelColdSnap>Kylmä kausi</LetterLabelColdSnap>
   <ColdSnapOver>Kylmä kausi on ohi.</ColdSnapOver>
 
   <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.</TraderArrival>
@@ -50,14 +61,18 @@
   <SingleTravelerPassing>{0} tukikohdasta {1} on kulkemassa ohi. HISCAP nimensä on {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Ryhmä matkaajia tukikohdasta {0} ovat kulkemassa ohi.</GroupTravelersPassing>
 
+  <LetterLabelSingleVisitorArrives>Vierailija</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>{0} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\nHISCAP nimensä on {2}.</SingleVisitorArrives>
+  <LetterLabelGroupVisitorsArrive>Vierailijoita</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Ryhmä tukikohdasta {0} on tullut vierailemaan yhdyskunnassasi.</GroupVisitorsArrive>
   <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
 
+  <LetterLabelWandererJoin>Kulkuri liittyy</LetterLabelWandererJoin>
   <WandererJoin>{0} nimeltään NAME on saapunut ja liittyy yhdyskuntaasi. HECAP on {1}.</WandererJoin>
   
   
   <!-- Crashed ship part-->
+  <LetterLabelSpaceshipPartCrash>Paha alus</LetterLabelSpaceshipPartCrash>
   <SpaceshipPartCrash>Suuri kappale muinaisesta aluksesta on pudonut lähistölle.\n\nYhdyskuntalaisesi voivat tuntea sen mielensä perukoilla, kehoittamaan heitä puhumattomiin tekoihin. Sen täytyy olla aluksen kyydissä oleva tekoäly persoona, jolla on kyky luoda spyykkisiä projektioita. Eikä tämä tekoäly ole ystävällinen.\n\nTuhoa se niin pian kuin mahdollista.</SpaceshipPartCrash>
   <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut spyykkisen pulssin mikä on ajanut kaikki läheiset eläimet hulluiksi.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>Pudonneen aluksen kappale on lähettänyt keskitetyn psyykkisen pulssin, joka on ajanut yhdyskuntalaisen {0} hulluksi.</LetterShipPartDroveColonistInsane>
@@ -67,20 +82,19 @@
   <PsychicDroneLevelMedium>Keskitaso</PsychicDroneLevelMedium>
   <PsychicDroneLevelHigh>Korkea</PsychicDroneLevelHigh>
   <PsychicDroneLevelExtreme>Äärimmäinen</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Häirintä voimistuu</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
-  <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojana.\n\nHän yrittää paeta.</LetterAgentRevealed>
+  <LetterLabelAgentRevealed>Vakooja</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojaksi.\n\nHän yrittää nyt paeta.</LetterAgentRevealed>
   
   <!-- Distant psychic drone -->
-  <LetterIncidentPsychicDrone>Jokainen sukupuoleltaan {0} oleva irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite luo voimakkaan psyykkisen häiriön koko tämän alueen ylle, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain {0} sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.</LetterIncidentPsychicDrone>
+  <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.</LetterIncidentPsychicDrone>
 
   <!-- Beavers -->
+  <LetterLabelBeaversArrived>Majavia!</LetterLabelBeaversArrived>
   <BeaversArrived>Ryhmä nälkäisiä alfamajavia on juuri saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puun.</BeaversArrived>
-
-
-
-
-
 
 </LanguageData>

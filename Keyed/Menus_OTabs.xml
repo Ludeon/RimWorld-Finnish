@@ -4,6 +4,8 @@
 
   <!-- Tab titles -->
   <WorkTab>Työnteko</WorkTab>
+  <OutfitsTab>Vaatekerrat</OutfitsTab>
+  <TimetablesTab>Aikataulut</TimetablesTab>
   <FactionsTab>Ryhmät</FactionsTab>
   <StatisticsTab>Tilastot</StatisticsTab>
   <HistoryTab>Historia</HistoryTab>
@@ -18,24 +20,34 @@
   <CannotDoThisWork>{0} ei voi tehdä tätä työtä.</CannotDoThisWork>
   <NoneBrackets>(ei mitään)</NoneBrackets>
 
+  <!-- Outfits tab -->
+  <CurrentOutfit>Nykyinen vaatekerta</CurrentOutfit>
+  <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
+  <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
+  <ApparelForcedLower>pakotettu</ApparelForcedLower>
+  <ForcedApparel>Pakotettu vaate</ForcedApparel>
+  <OutfitEdit>Muokkaa...</OutfitEdit>
+  
+  <!-- Timetables tab -->
+  <Copy>Kopioi</Copy>
+  <Paste>Liitä</Paste>
   
   <!-- Factions tab -->
   <Hostile>Vihamielinen</Hostile>
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
-  <CurrentGoodwill>Tämänhetkinen suosio tämän ryhmän kanssa.</CurrentGoodwill>
+  <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
 
-  
   <!-- Statistics tab -->
+  <Playtime>Pelattu aika</Playtime>
   <Storyteller>Tarinankertoja</Storyteller>
   <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
   <ColonyWealthItems>Yhdyskunnan varallisuus (esineistä)</ColonyWealthItems>
   <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennuksista)</ColonyWealthBuildings>
   <NumThreatBigs>Merkkittäviä uhkia</NumThreatBigs>
-  <NumEnemyRaids>Vihollisten tekemät hyökkäykset</NumEnemyRaids>
+  <NumEnemyRaids>Vihollisten tekemiä hyökkäyksiä</NumEnemyRaids>
   <DamageTaken>Otettu vahinko</DamageTaken>
   <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
-  <ColonistsLaunched>Avaruuteen lähetetyt yhdyskuntalaiset</ColonistsLaunched>
-
+  <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
 
   <!-- History tab -->
   <SelectGraph>Valitse kaavio</SelectGraph>
@@ -46,6 +58,5 @@
   <Day>Päivä</Day>
   <Value>Arvo</Value>
   <External>Ulkoinen</External>
-  
   
 </LanguageData>

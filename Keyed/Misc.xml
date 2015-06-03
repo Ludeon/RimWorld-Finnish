@@ -30,7 +30,7 @@
   <LeatherDesc>Nahka joka on tehty oliosta {0}.</LeatherDesc>
 
 	<CorpseLabel>{0} ruumis</CorpseLabel>
-	<CorpseDesc>{0} ruumis.</CorpseDesc>
+	<CorpseDesc>Kuollut {0}.</CorpseDesc>
   <DeadLabel>{0} (kuollut)</DeadLabel>
 
   <RoughStoneTerrainLabel>karkea {0}</RoughStoneTerrainLabel>
@@ -41,7 +41,7 @@
   <SmoothStoneTerrainDesc>Hiottu luonnollinen {0}lattia.</SmoothStoneTerrainDesc>
 
 	<BlueprintLabelExtra> (piirrustus)</BlueprintLabelExtra>
-  <FrameLabelExtra> (piirrustus)</FrameLabelExtra>
+  <FrameLabelExtra> (rakennus)</FrameLabelExtra>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->

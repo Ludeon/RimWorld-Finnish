@@ -39,37 +39,23 @@
   <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
 	<BuildUpToDate>Versio on uusin</BuildUpToDate>
 	<ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Ladataan versiotietoja</LoadingVersionInfo>
+	<LoadingVersionInfo>Ladataan versiotietoja...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generoi maailma</GenerateWorld>
+  <GenerateWorld>Luo maailma</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
   <GetMods>Hanki modeja</GetMods>
   <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
-  <Author>Modin luoja</Author>
+  <Author>Tekijä</Author>
   <ConfirmDisableCoreMod>Oletko varma että haluat poistaa ytimen modin? Peli ei toimi ellei sinulla ole toista modia mikä korvaa kaikki ytimen keskinäiset toiminnot.\n\nMuista, muut modit voivat kumota def:ejä ytimen modissa käyttämällä samaa defName:a.</ConfirmDisableCoreMod>
 
 
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Valitse AI tarinenkertoja</ChooseAIStoryteller>
-  <HowStorytellersWork>AI tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
+  <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
+  <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
   <MustChooseChallengeScale>Valitse vaikeustaso.</MustChooseChallengeScale>
-  <ChallengeScale>Haastetaso</ChallengeScale>
-  <ChallengeScaleTip>Kun tarinankertoja lähettää uhkia perääsi, ne tulevat olemaan {0} verrattuna Haastavaan.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Rakentaja</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Rento</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Kovakourainen</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Haastava</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Varteenotettava haaste</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Äärimmäinen haaste</ChallengeScale_ExtremeChallenge>
-
-
-
-
-
-
-
+  <Difficulty>Vaikeustaso</Difficulty>
 
 
 
@@ -93,8 +79,8 @@
   <Elevation>Korkeus</Elevation>
   <Fertility>Hedelmällisyys</Fertility>
   <AvgTemp>Keskim. lämpötila</AvgTemp>
-  <AvgJanTemp>Keskim. lämp. (Tammikuu): {0}</AvgJanTemp>
-  <AvgJulTemp>Keskim. lämp. (Kesäkuu): {0}</AvgJulTemp>
+  <AvgJanTemp>Keskim. lämp. (Tammi): {0}</AvgJanTemp>
+  <AvgJulTemp>Keskim. lämp. (Kesä): {0}</AvgJulTemp>
   <Rainfall>Sademäärä</Rainfall>
   <HasCoast0>Pohjoisrannikko</HasCoast0>
   <HasCoast1>Itärannikko</HasCoast1>
@@ -110,12 +96,11 @@
   <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla ensimmäinen tai toinen nimi, tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
   <LastNameDesc>Hahmon sukunimi.\n\nTämä näytetään vain tietyissä valikoissa.</LastNameDesc>
   <Randomize>Satunnaista</Randomize>
-  <AgeIndicator>ikä: {0}</AgeIndicator>
+  <AgeIndicator>ikä {0}</AgeIndicator>
   <Backstory>Tausta</Backstory>
   <IncapableOf>Kykenemätön toimiin</IncapableOf>
   <Traits>Luonteenpiirteet</Traits>
-  <TraitsDoNothing>Kyvyt ovat tällä hetkellä vain hauskoja tarinan palasia; useimmat niistä eivät tee mitään. Tämä tulee muuttumaan tulevissa versioissa.</TraitsDoNothing>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <PermanentMoodEffect>Pysyvä vaikutus mielialaan</PermanentMoodEffect>
   <Skills>Taidot</Skills>
   <NoneLower>ei mitään</NoneLower>
   <Adulthood>Aikuisuus</Adulthood>

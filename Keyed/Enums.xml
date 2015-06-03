@@ -6,15 +6,6 @@
   <Lit>Valaistu</Lit>
   <LitBrightly>Kirkkaasti valaistu</LitBrightly>
   
-  <!-- food quality -->
-  <NoneQuality>Ei mitään</NoneQuality>
-  <PlantQuality>Kasvi</PlantQuality>
-  <RawQuality>Raaka</RawQuality>
-  <MealAwfulQuality>Kamala</MealAwfulQuality>
-  <MealSimpleQuality>Yksinkertainen</MealSimpleQuality>
-  <MealFineQuality>Hieno</MealFineQuality>
-  <MealLavishLavish>Yltäkylläinen</MealLavishLavish>
-  
   <!-- diet type -->
   <NeverEats>Ei syö koskaan</NeverEats>
   <Omnivorous>Kaikkiruokainen</Omnivorous>
@@ -37,13 +28,48 @@
   <!-- Quality category -->
   <QualityCategory_Awful>hirveä</QualityCategory_Awful>
   <QualityCategory_Shoddy>surkea</QualityCategory_Shoddy>
-  <QualityCategory_Poor>huno</QualityCategory_Poor>
+  <QualityCategory_Poor>huono</QualityCategory_Poor>
   <QualityCategory_Normal>normaali</QualityCategory_Normal>
   <QualityCategory_Good>hyvä</QualityCategory_Good>
   <QualityCategory_Superior>parempi</QualityCategory_Superior>
   <QualityCategory_Excellent>erinomainen</QualityCategory_Excellent>
   <QualityCategory_Masterwork>mestariteos</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendaarinen</QualityCategory_Legendary>
+
+  <QualityCategory_Awful>hirv</QualityCategory_Awful>
+  <QualityCategory_Shoddy>surk</QualityCategory_Shoddy>
+  <QualityCategory_Poor>huon</QualityCategory_Poor>
+  <QualityCategory_Normal>norm</QualityCategory_Normal>
+  <QualityCategory_Good>hyvä</QualityCategory_Good>
+  <QualityCategory_Superior>pare</QualityCategory_Superior>
+  <QualityCategory_Excellent>erin</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>mest</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>lege</QualityCategory_Legendary>
+  
+  
+  <!-- Hunger -->
+  <HungerLevel_Starving>Nälänhätä</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Erittäin nälkäinen</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Nälkäinen</HungerLevel_Hungry>
+  <HungerLevel_Fed>Ruokittu</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>Uupunut</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Erittäin väsynyt</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Väsynyt</HungerLevel_Tired>
+  <HungerLevel_Rested>Levännyt</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>Tasainen</Hilliness_Flat>
+  <Hilliness_SmallHills>Pieniä mäkiä</Hilliness_SmallHills>
+  <Hilliness_LargeHills>Suuria mäkiä</Hilliness_LargeHills>
+  <Hilliness_Mountainous>Vuoristoinen</Hilliness_Mountainous>
+  
+  <!-- Time assigments -->
+  <TimeAssignment_Anything>Mitä tahansa</TimeAssignment_Anything>
+  <TimeAssignment_Work>Töitä</TimeAssignment_Work>
+  <TimeAssignment_Joy>Ilonpitoa</TimeAssignment_Joy>
+  <TimeAssignment_Sleep>Unta</TimeAssignment_Sleep>
 
 
 </LanguageData>

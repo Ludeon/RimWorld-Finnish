@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CommandForbiddenDesc>Kielletty - yhdyskuntalaiset eivät vaikuta tähän mitenkään.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Sallittu - yhdyskuntalaiset voivat vaikuttaa tähän.</CommandNotForbiddenDesc>
+	<CommandForbiddenDesc>Kielletty - yhdyskuntalaiset eivät käytä tätä.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Sallittu - yhdyskuntalaiset voivat käyttää tätä.</CommandNotForbiddenDesc>
 
   <!-- Power -->
-  <CommandTogglePowerLabel>Virta päälle/pois</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Virta päälle/pois.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Kytke virta</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Kytkee virran päälle tai pois.</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>Määrää virran kytkeminen</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Määrää tämän esineen virran kytkeminen päälle tai pois. Yhdyskuntalainen tulee pian kääntämään kytkimen.</CommandDesignateTogglePowerDesc>
 
   <CommandTryReconnectLabel>Yhdistä uudelleen</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Kokeile yhdistää toiseen sähköverkkoon yhdistämisalueeni säteellä. Tämä on käytännöllistä jos minut on yhdistetty virrattomaan verkkoon mutta lähistöllä on virrallinen verkko.</CommandTryReconnectDesc>
-
 
   <CommandGatherSpotToggleLabel>Kerääntymispiste</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktiivinen - yhdyskuntalaiset kerääntyvät tämän esineen ympärille.</CommandGatherSpotToggleDescActive>
@@ -98,6 +100,12 @@
   <CommandInstall>Asenna</CommandInstall>
   <CommandInstallDesc>Tämä esine on pakattu varastoimista ja kuljetusta varten. Käytä tätä komentoa asentaaksesi tämän esineen lopulliselle paikalleen, jotta sitä voidaan katsella tai käyttää.</CommandInstallDesc>
 
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Luo tämän rakennelman ympärille varastoalue, joka vastaa täysin majakan kantamaa.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Luo varastoalue</CommandMakeBeaconStockpileLabel>
 
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Luo tämän rakennelman ympärille kasvatusalue, joka vastaa täysin lampun kantamaa.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Luo kasvatusalue</CommandSunLampMakeGrowingZoneLabel>
 
 </LanguageData>

@@ -10,7 +10,10 @@
   <DesignatorDeconstruct>Pura</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Pura rakennuksia ja kierrätä osa niihin käytetyistä resursseista.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestFood>Kerää ruokaa</DesignatorHarvestFood>
+  <DesignatorUninstall>Poista</DesignatorUninstall>
+  <DesignatorUninstallDesc>Poistaa tämän asetelman jotta sen voi siirtää, myydä tai asentaa muualle.</DesignatorUninstallDesc>
+
+  <DesignatorHarvestFood>Korjaa sato</DesignatorHarvestFood>
   <DesignatorHarvestFoodDesc>Merkitse kasvit joista ruokaa kerätään. Ruoka kerätään kasvista, mutta kasvi jätetään paikoilleen.</DesignatorHarvestFoodDesc>
 
   <DesignatorHarvestWood>Kaada puita</DesignatorHarvestWood>
@@ -18,7 +21,6 @@
 
   <DesignatorHaulThings>Siirrä esineitä</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka siirretään kaatopaikoille. Ei tarvita asioille kuten ruualle tai ruumiille, jotka ovat aina siirrettävissä.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Ei mitään siirrettävää tässä.</NothingToHaulHere>
   <MustHaulHaulables>Voit merkitä ainoastana siirrettäviä, ei-automaattisia asioita (kuten kiviä).</MustHaulHaulables>
 
   <DesignatorHunt>Metsästä</DesignatorHunt>
@@ -67,7 +69,7 @@
   <DesignatorClaimDesc>Valloita neutraaleja rakennelmia yhdyskunnalle, sisältäen muinaisrauniot ja hylätyt piiritys leirit. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
   
   
-  <!-- placement of blueprints -->
+  <!-- Failure messages -->
   <UnchosenStuff>Materiaalia ei valittu</UnchosenStuff>
   <TooCloseToMapEdge>Liian lähellä kartan reunaa.</TooCloseToMapEdge>
   <OutOfBounds>Rajojen ulkopuolella.</OutOfBounds>
@@ -77,6 +79,7 @@
   <InteractionSpotWillBeBlocked>{0} tulee estämään tämän käyttöpisteen.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} estäisi kohdan, josta rakennelmaa {1} käytetään.</WouldBlockInteractionSpot>
   <TerrainIsAlready>Maaperä täällä on jo {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Maaperä on jo merkitty hiottavaksi.</TerrainBeingSmoothed>
   <IdenticalThingExists>Identtinen esine on jo tässä.</IdenticalThingExists>
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>

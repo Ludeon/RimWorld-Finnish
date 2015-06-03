@@ -19,7 +19,7 @@
   
   
   <!-- Colony naming-->
-  <NameColonyMessage>Kaikki tietävät, ettet halua olla tällä kivellä kauaa. {0} kuitenkin ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
+  <NameColonyMessage>On selvää ettet halua olla tällä kivellä kauaa. {0} kuitenkin ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
   <ColonyGainsName>Yhdyskunta tunnetaan nyt nimellä {0}.</ColonyGainsName>
   <ColonyNameIsInvalid>Tuo yhdyskunnan nimi ei ole kelvollinen.</ColonyNameIsInvalid>
 
@@ -31,9 +31,11 @@
   <PawnGainsName>Yhdyskuntalaisen kutsumanimi on nyt {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Versioiden yhteensopimattomuus: Kenttä tallennettiin peliversiossa {0}, nykyinen versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Tallennusten yhteensopimattomuus</SaveGameIncompatibleWarningTitle>
+  <VersionMismatch>Versio yhteensopimaton</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Varoitus: Kenttä tallennettiin peliversiossa {0}, mutta käytössä oleva versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Varoitus: Maailma luotiin peliversiossa {0}, mutta käytössä oleva versio on {1}.\n\nTämän maailman lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia. Suosittelemme, että luot uuden maailman.</WorldFileVersionMismatch>
   
+
   <!-- Resolution change dialog -->
   <ConfirmResolutionChange>Vaihdoit resoluutiota. Toimiiko uusi kunnolla?\n\nAutomaattinen palautus {0}...</ConfirmResolutionChange>
   <ResolutionKeep>Pidä resoluutio</ResolutionKeep>
@@ -65,25 +67,28 @@
 
 
   <!-- Bill config -->
-  <Suspended>Keskeytetty</Suspended>
-  <NotSuspended>Ei keskeytetty</NotSuspended>
-  <SuspendedAllCaps>KESKEYTETTY</SuspendedAllCaps>
+  <Suspended>Pysäytetty</Suspended>
+  <NotSuspended>Ei pysäytetty</NotSuspended>
+  <SuspendedAllCaps>PYSÄYTETTY</SuspendedAllCaps>
   <RepeatCount>Toista: {0}</RepeatCount>
-  <Forever>loputtomiin</Forever>
+  <Forever>ikuisesti</Forever>
+  <Details>Muokkaa</Details>
   <IngredientSearchRadius>Valmistusaineiden etsintäalue</IngredientSearchRadius>
-  <TargetCount>Tee, kunnes on: {0}</TargetCount>
+  <CurrentlyHave>Varastossa on</CurrentlyHave>
+  <CountingProducts>Lasketaan</CountingProducts>
   <Infinite>Loputon</Infinite>
+  <MinimumSkillLevel>Minimi taitotaso {0}</MinimumSkillLevel>
 
   <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kohdemäärää, koska siinä on useampia tai arvaamattomia osia.)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Sallitut ainesosat</PermittedIngredients>
   <WorkAmount>Työn määrä</WorkAmount>
   <MinimumSkills>Minimitaito:</MinimumSkills>
-  <BillRequires>Tarvitsee {0} {1}</BillRequires>
+  <BillRequires>Tarvitsee {0} kategoriasta {1}</BillRequires>
   <BillRequiresMayVary>(Määrä saattaa vaihdella esineillä, joilla on epästandardi koko, kuten kullalla.)</BillRequiresMayVary>
+  <ThisIsSmallVolume>Tämä on pienikokoinen ainesosa. Tämä tarkoittaa sitä, että jokainen 'yksikkö' on vain 1/20 normaalikokoisen ainesosan määrästä. Siten täyttääksesi saman ainesosavaatimuksen tarvitset 20 kertaa suuremman määrän.</ThisIsSmallVolume>
   <UsableIngredients>käytettävät ainekset</UsableIngredients>
   <DoXTimes>Tee X kertaa</DoXTimes>
   <DoUntilYouHaveX>Tee, kunnes on X</DoUntilYouHaveX>
-  <DoForever>Tee loputtomiin</DoForever>
+  <DoForever>Tee ikuisesti</DoForever>
   <BillRepeatTargetCountShort>{0} asti</BillRepeatTargetCountShort>
   <BillStoreMode_DropOnFloor>Jätä lattialle</BillStoreMode_DropOnFloor>
   <BillStoreMode_BestStockpile>Vie parhaaseen varastoon</BillStoreMode_BestStockpile>
@@ -101,16 +106,17 @@
   <Harvestable>Kerättävä</Harvestable>
   <LimitedLifespan>Rajoitettu elinaika</LimitedLifespan>
   <GrowingTime>Kasvamisaika</GrowingTime>
+  <GrowingTimeDesc>Kasvit kasvavat vain osan aikaa päivästä ja vain jos ne on valaistu. Tämä tilasto mittaa aikaa, jonka kasvi tarvitsee todellista kasvamisaikaa kasvaakseen täyteen mittaansa. Todellinen kasvamisaika on yleensä kaksi kertaa pitempi aika. Matalat lämpötilat hidastavat myös kasvien kasvua.</GrowingTimeDesc>
   <Days>päivää</Days>
   <FertilityRequirement>Hedelmällisyysvaatimus</FertilityRequirement>
   <LightRequirement>Valoisuusvaatimus</LightRequirement>
   <Attributes>Ominaisuudet</Attributes>
   <LifeSpan>Elinaika</LifeSpan>
-  <Nutrition>Ravinto</Nutrition>
+  <Nutrition>Ravintoarvo</Nutrition>
+  <Joy>Ilo</Joy>
   <FoodQuality>Ruuan laatu</FoodQuality>
   <WalkSpeedProperty>Kävelynopeus</WalkSpeedProperty>
-  <MeleeDamage>Lähitaisteluvahinki</MeleeDamage>
-  <MeatAmount>Lihamäärä</MeatAmount>
+  <ButcherYield>Teurastuksen saanto</ButcherYield>
   <MinFoodQuality>Min. ruoan laatu</MinFoodQuality>
   <Diet>Dieetti</Diet>
   <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
@@ -133,6 +139,8 @@
   <TraderHasNoMore>Vaihtokauppiaalle ei ole enempää.</TraderHasNoMore>
   <ColonyHasNoMore>Sinulla ei ole enempää.</ColonyHasNoMore>
   <TraderWillNotTrade>Vaihtokauppias ei suostu vaihtamaan tällaisia tavaroita.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>Neuvottelijasi {0} ei pysty puhumaan kunnolla huonon terveyden vuoksi.\n\nTällä on vaikutusta vaihtohintoihin.\n\nHarkitse terveemmässä kunnossa olevan neuvottelijan käyttöä.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>Vaihtokauppiaalla ei ole tarpeeksi hopeaa kauppaa varten.  Jatka silti?</ConfirmTraderShortFunds>
 
   <!-- Comms -->
   <SocialSkillIs>Sosiaaliset taidot: {0}</SocialSkillIs>
@@ -148,5 +156,13 @@
   <HistoryUploadNo>Älä salli pelitietojen lähettämistä</HistoryUploadNo>
   <HistoryUploadYesOnce>Lähetä vain tällä kertaa</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Älä lähetä tällä kertaa, kysy minulta myöhemmin</HistoryUploadNoOnce>
+  
+  <!-- Outfit management -->
+  <Outfit>Vaatekerta</Outfit>
+  <SelectOutfit>Valitse vaatekerta...</SelectOutfit>
+  <NewOutfit>Uusi vaatekerta</NewOutfit>
+  <DeleteOutfit>Poista vaatekerta...</DeleteOutfit>
+  <OutfitInUse>{0} käyttää vaatekertaa.</OutfitInUse>
+  <NoOutfitSelected>Ei vaatekertaa valittuna</NoOutfitSelected>
 	
 </LanguageData>

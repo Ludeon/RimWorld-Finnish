@@ -1,20 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <IndefiniteArticle></IndefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
+
+  <Proits>sen</Proits>
   <Prohis>hänen</Prohis>
   <Proher>hänen</Proher>
+  <ProitsCap>Sen</ProitsCap>
   <ProhisCap>Hänen</ProhisCap>
   <ProherCap>Hänen</ProherCap>
 
+  <ProitObj>sitä</ProitObj>
   <ProhimObj>häntä</ProhimObj>
   <ProherObj>häntä</ProherObj>
+  <ProitObjCap>Sitä</ProitObjCap>
   <ProhimObjCap>Häntä</ProhimObjCap>
   <ProherObjCap>Häntä</ProherObjCap>
 
   <Prohe>hän</Prohe>
   <Proshe>hän</Proshe>
+  <Proit>se</Proit>
   <ProheCap>Hän</ProheCap>
   <ProsheCap>Hän</ProsheCap>
+  <ProitCap>Se</ProitCap>
   
 
 

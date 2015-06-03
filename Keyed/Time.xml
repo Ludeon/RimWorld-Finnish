@@ -1,12 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-<DaysLower>päivää</DaysLower>
-<SecondsLower>sekuntia</SecondsLower>
 
-<SeasonSpring>Kevät</SeasonSpring>
-<SeasonSummer>Kesä</SeasonSummer>
-<SeasonFall>Syksy</SeasonFall>
-<SeasonWinter>Talvi</SeasonWinter>
+  <LetterDay>pv</LetterDay>
+  <LetterHour>t</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  
+  <DaysLower>päivää</DaysLower>
+  <SecondsLower>sekuntia</SecondsLower>
+
+  <SeasonSpring>Kevät</SeasonSpring>
+  <SeasonSummer>Kesä</SeasonSummer>
+  <SeasonFall>Syksy</SeasonFall>
+  <SeasonWinter>Talvi</SeasonWinter>
+
+  <Born>Syntynyt: {0} {1} {2}</Born>
+  <AgeChronological>Kronologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeChronological>
+  <AgeBiological>Biologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeBiological>
+
+  <DaysHours>{0} päivää, {1} tuntia</DaysHours>
 
 </LanguageData>

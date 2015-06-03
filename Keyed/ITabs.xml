@@ -6,31 +6,35 @@
   <TabGrowing>Kasvatus</TabGrowing>
   <TabCharacter>Henkilö</TabCharacter>
   <TabPrisoner>Vanki</TabPrisoner>
+  <TabGuest>Vieras</TabGuest>
   <TabGear>Varusteet</TabGear>
-  <TabThoughts>Mietteet</TabThoughts>
+  <TabNeeds>Tarpeet</TabNeeds>
   <TabStorage>Varasto</TabStorage>
   <TabHealth>Terveys</TabHealth>
   <TabRace>Rotu</TabRace>
   <TabBasics>Perustiedot</TabBasics>
   <TabStats>Tilastot</TabStats>
+  <TabArt>Taide</TabArt>
 
   
   <!-- Bills tab  -->
   <AddBill>Lisää tilaus</AddBill>
-  <RecipeRequiresSkills>{0}:n resepti tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
-  <BillConfig>Asetukset</BillConfig>
-  <SuspendedCaps>KESKEYTETTY</SuspendedCaps>
+  <RecipeRequiresSkills>Resepti {0} tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
+  <MinimumSkill>Minimi taitotaso</MinimumSkill>
+  <SuspendedCaps>PYSÄYTETTY</SuspendedCaps>
+  <BoundWorkerIs>Työn tekijä: {0}</BoundWorkerIs>
   <PlantVerb>Istuta</PlantVerb>
 
 
-  <!-- Prisoner tab -->
+  <!-- Guest/prisoner tab -->
   <RecruitmentDifficulty>Värväyksen vaikeus</RecruitmentDifficulty>
   <PrisonerGetsFood>Saa ruokaa</PrisonerGetsFood>
   <DoctorsCare>Lääkärit huolehtivat</DoctorsCare>
   <PrisonerGetsMedicine>Saa lääkintää</PrisonerGetsMedicine>
-  <ShouldTryToRecruit>Yritä värvätä</ShouldTryToRecruit>
+  <ShouldTryToRecruit>Yritä värvätä recruit</ShouldTryToRecruit>
   <PrisonerNoInteraction>Ei vuorovaikutusta</PrisonerNoInteraction>
   <PrisonerFriendlyChat>Ystävällistä keskustelua</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Yritä värvätä</PrisonerAttemptRecruit>
   <PrisonerRelease>Päästä vapaaksi</PrisonerRelease>
   <PrisonerExecution>Teloitus</PrisonerExecution>
 
@@ -58,7 +62,7 @@
   <HealthOverview>Yleiskatsaus</HealthOverview>
   <MedicalOperationsShort>Operaatiot ({0})</MedicalOperationsShort>
   <MedicalOperationsMechanoidsShort>Muokkaukset ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Medical operations</MedicalOperations>
+  <MedicalOperations>Lääkintäoperaatiot</MedicalOperations>
   <Amputate>Amputoi</Amputate>
   <Harvest>Kerää</Harvest>
   
@@ -71,9 +75,9 @@
   <Weakened>Heikentynyt</Weakened>
   <GoodCondition>OK</GoodCondition>
   <Enhanced>Paranneltu</Enhanced>
-  <SeriouslyImpaired>Vakavasti estynyt</SeriouslyImpaired>
-  <Impaired>Heikentynyt</Impaired>
-  <SlightlyImpaired>Vähäisesti estynyt</SlightlyImpaired>
+  <SeriouslyImpaired>Vakavasti huonontunut</SeriouslyImpaired>
+  <Impaired>Huonontunut</Impaired>
+  <SlightlyImpaired>Vähäisesti huonontunut</SlightlyImpaired>
   <NoPain>Olematon</NoPain>
   <LittlePain>Pieni</LittlePain>
   <MediumPain>Keskiverto</MediumPain>

@@ -12,9 +12,12 @@
 	<MessageRaidersGivenUpLeaving>{0} tukikohdasta {1} ovat luovuttaneet ja lähtevät.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{0} tukikohdasta {1} ovat tyytyväisiä aiheuttamaansa vahinkoon ja ovat poistumassa.</MessageRaidersSatisfiedLeaving>
 
-  
   <MessageFightersFleeing>{0} tukikohdasta {1} juoksevat pakoon.</MessageFightersFleeing>
   <MessageFriendlyFightersLeaving>Ystävällinen {0} tukikohdasta {1} ovat lähdössä.</MessageFriendlyFightersLeaving>
+
+  <MessageVisitorsTakingWounded>{0} tukikohdasta {1} ottavat mukaansa haavoittuneen vieraan.</MessageVisitorsTakingWounded>
+  
+  <MessageWornApparelDeterioratedAway>Henkilön {1} yllä ollut {0} hajosi olemattomiin.</MessageWornApparelDeterioratedAway>
 
   <MessageSeasonBegun>{0} on alkanut.</MessageSeasonBegun>
 
@@ -28,17 +31,20 @@
 
   <MessagePrisonerIsEscaping>Vanki {0} pakenee.</MessagePrisonerIsEscaping>
 
+  <MessageOutOfNearbyShellsFor>{0} ei löytänyt lähistöltä ammuksia kohteeseen {1}.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Varoitus: {0} hyökkää yleensä jos sitä vahingoitetaan.</MessageAnimalsGoPsychoHunted>
+
+  <LetterLabelMessageRecruitSuccess>Uusi jäsen</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitSuccess>
 	<MessageRecruitFail>{0} epäonnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} epäonnistui vangin {1} värväämisessä (vangin uskollisuus oli kynnysarvon alapuolella).</MessageRecruitFailBecauseLoyalty>
+	<MessageRecruitFailBecauseLoyalty>{0} epäonnistui vangin {1} värväämisessä (vangin mieliala olle {2}).</MessageRecruitFailBecauseLoyalty>
 	
-  <MessagePoorlyTreated>{0} on saanut huonolaatuista hoitoa {1}:lta ({2} mahdollisuus).</MessagePoorlyTreated>
-  <MessageWellTreated>{0} on saanut hyvälaatuista hoitoa {1}:lta ({2} mahdollisuus).</MessageWellTreated>
+  <MessagePoorlyTreated>{1} hoiti potilaan {0} (huono laatu, {2} mahdollisuus hyvään laatuun).</MessagePoorlyTreated>
+  <MessageWellTreated>{1} treated {0} (hyvä laatu, {2} mahdollisuus hyvään laatuun).</MessageWellTreated>
 	
-  <MessageTraderCannotAfford>Kauppiaalla ei ole varaa tähän kauppaan.</MessageTraderCannotAfford>
   <MessageColonyCannotAfford>Yhdyskunnalla ei ole varaaa tähän kauppaan.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Sinulla ei ole tarpeeksi hopeaa valmiina tätä vaihtoa varten.</MessageColonyNotEnoughSilver>
-  <MessageTraderNotEnoughSilver>Kauppiaalla ei ole tarpeeksi hopeaa.</MessageTraderNotEnoughSilver>
 
   <MessageCriticalAlert>Kriittinen varoitus: {0}</MessageCriticalAlert>
 
@@ -50,13 +56,18 @@
   <MessageMustDesignateHuntable>Pitää määrittää metsästämiskelpoisia eläimiä.</MessageMustDesignateHuntable>
   <MessageMustDesignateClaimable>Pitää määrittää hylättyjä keinotekoisia rakennelmia.</MessageMustDesignateClaimable>
   <MessageMustDesignateSmoothableFloor>Pitää määrittää karkeaa kivilattiaa.</MessageMustDesignateSmoothableFloor>
-  
+
+  <MessageRefusedArrest>{0} vastusti pidätystä!</MessageRefusedArrest>
   
   <MessageNoMedicalBeds>Lääkisemiseen varattuja sänkyjä ei ole yhtään saatavilla.</MessageNoMedicalBeds>
   
   <PawnDiedBecauseOf>{0} kuoli. Syy: {1}.</PawnDiedBecauseOf>
 
-  <MessageNoLongerDowned>{0} ei pysty enää kävelemään.</MessageNoLongerDowned>
-  
+  <MessageNoLongerDowned>{0} pystyy jälleen kävelemään.</MessageNoLongerDowned>
 
+  <MessageInvoluntarySleep>{0} lyyhistyi uupumuksesta.</MessageInvoluntarySleep>
+
+  <MessageMedicalOperationFailureCatastrophic>{0} epäonnistui katastrofaalisesti operoidessaan potilasta {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} epäonnistui hieman operoidessaan potilasta {1}.</MessageMedicalOperationFailureMinor>
+  
 </LanguageData>

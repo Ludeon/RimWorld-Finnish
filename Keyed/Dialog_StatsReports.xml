@@ -13,7 +13,13 @@
   <HealthFactorPercentImpact>Tärkeys {0}</HealthFactorPercentImpact>
   <StatsReport_PostProcessed>Jälkikäsittely</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Lopullinen arvo</StatsReport_FinalValue>
-  <StatsReport_QualityMultiplier>Laatukerroin</StatsReport_QualityMultiplier>
   <StatsReport_MarketValueFromStuffsAndWork>Markkina-arvoon on laskettu mukaan rakennusmateriaalit ja työn määrä.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Laatukerroin</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Iästä johtuva kerroin {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Terveydestä johtuva kerroin {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Mielialasta johtuva kerroin {0}</StatsReport_MoodMultiplier>
+  <StatsReport_DifficultyMultiplier>Vaikeustasosta johtuva kerroin {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>Sängyssä</StatsReport_InBed>
+
 
 </LanguageData>
