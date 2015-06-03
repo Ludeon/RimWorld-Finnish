@@ -40,7 +40,7 @@
   <PowerSwitch_Power>Virta</PowerSwitch_Power>
   <AreaLower>alue</AreaLower>
   <JoyTolerances>Kyllästyminen ilonpitoihin</JoyTolerances>
-  <BrokenLetterLabel>Rikki</BrokenLetterLabel>
+  <BrokenLetterLabel>Murtunut</BrokenLetterLabel>
   
   <!-- Control -->
   <CannotOrderNonControlled>Ei voi antaa määräyksiä hallitsemattomille yksiköille.</CannotOrderNonControlled>
