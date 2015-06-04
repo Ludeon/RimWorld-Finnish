@@ -3,7 +3,13 @@
 
     <!--================================ Concrete ======================================-->
     
-    <SculptureAbstract.label>veistos</SculptureAbstract.label>
-    <SculptureAbstract.description>Palanen materiaalia, joka on veistetty abstraktiin taiteelliseen muotoon.</SculptureAbstract.description>
+    <SculptureSmall.label>pieni veistos</SculptureSmall.label>
+    <SculptureSmall.description>Koirankokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureSmall.description>
+    
+    <SculptureLarge.label>suuri veistos</SculptureLarge.label>
+    <SculptureLarge.description>Ihmisen kokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureLarge.description>
+    
+    <SculptureGrand.label>valtava veistos</SculptureGrand.label>
+    <SculptureGrand.description>Autonkokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureGrand.description>
     
 </LanguageData>

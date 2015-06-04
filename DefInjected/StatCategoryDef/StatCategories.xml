@@ -11,9 +11,9 @@
     
     <!--================ Non-pawn ================-->
     
-    <Armor.label>Panssari</Armor.label>
+    <Apparel.label>Vaatteet</Apparel.label>
     
-    <Melee.label>Lähitaistelu</Melee.label>
+    <Weapon.label>Ase</Weapon.label>
     
     <Building.label>Rakennus</Building.label>
     
@@ -21,7 +21,11 @@
     
     <EquippedStatOffsets.label>Poikkeamat, kun käytössä</EquippedStatOffsets.label>
     
-    <StuffOfEquipmentStatModifiers.label>Kertoimet, kun esine on tehty tästä</StuffOfEquipmentStatModifiers.label>
+    <StuffStatFactors.label>Kertoimet, kun esine on tehty tästä</StuffStatFactors.label>
+    
+    <StuffStatOffsets.label>Poikkeamat, kun esine on tehty tästä</StuffStatOffsets.label>
+    
+    <StuffOfEquipmentStatFactors.label>Kertoimet, kun varusteet on tehty tästä</StuffOfEquipmentStatFactors.label>
     
     <!--================ Pawn ================-->
     

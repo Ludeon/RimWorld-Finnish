@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Heatstroke.label>lämpöhalvaus</Heatstroke.label>
+    <rep>
+        <path>Heatstroke.stagedProps.severityStages[1].label</path>
+        <trans>esiaste</trans>
+    </rep>
+    <rep>
+        <path>Heatstroke.stagedProps.severityStages[2].label</path>
+        <trans>vähäinen</trans>
+    </rep>
+    <rep>
+        <path>Heatstroke.stagedProps.severityStages[3].label</path>
+        <trans>vakava</trans>
+    </rep>
+    <rep>
+        <path>Heatstroke.stagedProps.severityStages[4].label</path>
+        <trans>äärimmäinen</trans>
+    </rep>
+    <rep>
+        <path>Heatstroke.stagedProps.severityStages[5].label</path>
+        <trans>kuollettava</trans>
+    </rep>
+    
+    <Hypothermia.label>hypotermia</Hypothermia.label>
+    <rep>
+        <path>Hypothermia.stagedProps.severityStages[1].label</path>
+        <trans>värisevä</trans>
+    </rep>
+    <rep>
+        <path>Hypothermia.stagedProps.severityStages[2].label</path>
+        <trans>vähäinen</trans>
+    </rep>
+    <rep>
+        <path>Hypothermia.stagedProps.severityStages[3].label</path>
+        <trans>vakava</trans>
+    </rep>
+    <rep>
+        <path>Hypothermia.stagedProps.severityStages[4].label</path>
+        <trans>äärimmäinen</trans>
+    </rep>
+    <rep>
+        <path>Hypothermia.stagedProps.severityStages[5].label</path>
+        <trans>kuollettava</trans>
+    </rep>
+
+    
+</LanguageData>

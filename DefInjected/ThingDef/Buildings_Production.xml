@@ -21,7 +21,7 @@
     <TableSculpting.label>veistäjän pöytä</TableSculpting.label>
     <TableSculpting.description>Taiteellista veistämistä varten varusteltu työpöytä.</TableSculpting.description>
     
-    <TableMachining.label>työstöpöytä</TableMachining.label>
+    <TableMachining.label>koneiden työstöpöytä</TableMachining.label>
     <TableMachining.description>Pöytä ja työkalut koneiden osien kokoamiseen ja purkamiseen.</TableMachining.description>
     
     <CookStove.label>keittoliesi</CookStove.label>
@@ -30,8 +30,11 @@
     <TableStonecutter.label>kivenleikkajan pöytä</TableStonecutter.label>
     <TableStonecutter.description>Työpöytä karkeiden kivien leikkaamiseen käyttökelpoisiksi harkoiksi.</TableStonecutter.description>
     
+    <Brewery.label>panimo</Brewery.label>
+    <Brewery.description>Työasema kaikilla työkaluilla jotka tarvitaan oluen panemiseen.</Brewery.description>
+    
     <ElectricSmelter.label>sähköinen sulatusuuni</ElectricSmelter.label>
-    <ElectricSmelter.description>Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon tehoa.</ElectricSmelter.description>
+    <ElectricSmelter.description>Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon virtaa.</ElectricSmelter.description>
     
     <Crematorium.label>krematorio</Crematorium.label>
     <Crematorium.description>Polttaa ruumiita.</Crematorium.description>

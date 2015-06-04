@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Solitary -->
+    
+    <Skygaze.reportString>Katselee taivasta.</Skygaze.reportString>
+    
+    <Meditate.reportString>Meditoi.</Meditate.reportString>
+    
+    <Pray.reportString>Rukoilee.</Pray.reportString>
+    
+    <GoForWalk.reportString>Kävelyllä.</GoForWalk.reportString>
+    
+    <!-- Social -->
+    
+    <SocialRelax.reportString>Hengailee.</SocialRelax.reportString>
+    
+    <!-- Building interaction -->
+    
+    <PlayHorseshoes.reportString>Heittää hevosenkenkiä.</PlayHorseshoes.reportString>
+    
+    <PlayChess.reportString>Pelaa shakkia.</PlayChess.reportString>
+    
+    <PlayBilliards.reportString>Pelaa biljardia.</PlayBilliards.reportString>
+    
+    <WatchTelevision.reportString>Katsoo televisiota.</WatchTelevision.reportString>
+    
+    <UseTelescope.reportString>Käyttää teleskooppia.</UseTelescope.reportString>
+    
+</LanguageData>

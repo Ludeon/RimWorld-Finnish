@@ -287,8 +287,6 @@
     
     <LeftHandMechanicalPinky.label>vasemman käden pikkusormi</LeftHandMechanicalPinky.label>
     
-    <LeftHandMechanicalRingFinger.label>vasemman käden nimetön</LeftHandMechanicalRingFinger.label>
-    
     <LeftHandMechanicalMiddleFinger.label>vasemman käden keskisormi</LeftHandMechanicalMiddleFinger.label>
     
     <LeftHandMechanicalIndexFinger.label>vasemman käden etusormi</LeftHandMechanicalIndexFinger.label>
@@ -303,8 +301,6 @@
     
     <RightHandMechanicalPinky.label>oikean käden pikkusormi</RightHandMechanicalPinky.label>
     
-    <RightHandMechanicalRingFinger.label>oikean käden nimetön</RightHandMechanicalRingFinger.label>
-    
     <RightHandMechanicalMiddleFinger.label>oikean käden keskisormi</RightHandMechanicalMiddleFinger.label>
     
     <RightHandMechanicalIndexFinger.label>oikean käden etusormi</RightHandMechanicalIndexFinger.label>
@@ -315,29 +311,9 @@
     
     <LeftMechanicalFoot.label>vasen jalkaterä</LeftMechanicalFoot.label>
     
-    <LeftFootMechanicalLittleToe.label>vasemman jalan pikkuvarvas</LeftFootMechanicalLittleToe.label>
-    
-    <LeftFootMechanicalFourthToe.label>vasemman jalan neljäs varvas</LeftFootMechanicalFourthToe.label>
-    
-    <LeftFootMechanicalMiddleToe.label>vasemman jalan keskivarvas</LeftFootMechanicalMiddleToe.label>
-    
-    <LeftFootMechanicalSecondToe.label>vasemman jalan toinen varvas</LeftFootMechanicalSecondToe.label>
-    
-    <LeftFootMechanicalBigToe.label>vasemman jalan isovarvas</LeftFootMechanicalBigToe.label>
-    
     <RightMechanicalLeg.label>oikea jalkavarsi</RightMechanicalLeg.label>
     
     <RightMechanicalFoot.label>oikean jalkaterä</RightMechanicalFoot.label>
-    
-    <RightFootMechanicalLittleToe.label>oikean jalan pikkuvarvas</RightFootMechanicalLittleToe.label>
-    
-    <RightFootMechanicalFourthToe.label>oikean jalan neljäs varvas</RightFootMechanicalFourthToe.label>
-    
-    <RightFootMechanicalMiddleToe.label>oikean jalan keskivarvas</RightFootMechanicalMiddleToe.label>
-    
-    <RightFootMechanicalSecondToe.label>oikean jalan toinen varvas</RightFootMechanicalSecondToe.label>
-    
-    <RightFootMechanicalBigToe.label>oikean jalan isovarvas</RightFootMechanicalBigToe.label>
     
     <MechanicalCentipedeBodyFirstRing.label>vartalon ensimmäinen jaoke</MechanicalCentipedeBodyFirstRing.label>
     

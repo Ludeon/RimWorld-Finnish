@@ -1,101 +1,314 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <AteRawFood.label>söi raakaa ruokaa</AteRawFood.label>
-    <AteRawFood.description>Minun täytyi syödä raakaa ruokaa. Emmekö voi keittää sitä, tai ainakin valmistaa ravinnetahnaa?</AteRawFood.description>
+    <rep>
+        <path>SleepDisturbed.stages[0].label</path>
+        <trans>unta häirittiin</trans>
+    </rep>
+    <rep>
+        <path>SleepDisturbed.stages[0].description</path>
+        <trans>Minun untani häirittiin kun joku liikkui huoneessa.</trans>
+    </rep>
     
-    <AteNutrientPasteMeal.label>söi ravinnetahnaa</AteNutrientPasteMeal.label>
-    <AteNutrientPasteMeal.description>Minun täytyi syödä ravinnetahnaa. Tiedän, että se pitää minut hengissä, mutta kukaan ei halua niellä sitä mönjää.</AteNutrientPasteMeal.description>
+    <rep>
+        <path>AteRawFood.stages[0].label</path>
+        <trans>söi raakaa ruokaa</trans>
+    </rep>
+    <rep>
+        <path>AteRawFood.stages[0].description</path>
+        <trans>Minun täytyi syödä raakaa ruokaa. Emmekö voi keittää sitä, tai ainakin valmistaa ravinnetahnaa?</trans>
+    </rep>
     
-    <AteFineMeal.label>söi hienon aterian</AteFineMeal.label>
-    <AteFineMeal.description>Söin todella maittavan aterian. Nam!</AteFineMeal.description>
+    <rep>
+        <path>AteNutrientPasteMeal.stages[0].label</path>
+        <trans>söi ravinnetahnaa</trans>
+    </rep>
+    <rep>
+        <path>AteNutrientPasteMeal.stages[0].description</path>
+        <trans>Minun täytyi syödä ravinnetahnaa. Tiedän, että se pitää minut hengissä, mutta kukaan ei halua niellä sitä mönjää.</trans>
+    </rep>
     
-    <AteLavishMeal.label>söi yltäkylläisen aterian</AteLavishMeal.label>
-    <AteLavishMeal.description>Tuo yltäkylläinen ateria oli mahtava. Se ravitsi minun ruumiini ja sieluni.</AteLavishMeal.description>
+    <rep>
+        <path>AteFineMeal.stages[0].label</path>
+        <trans>söi hienon aterian</trans>
+    </rep>
+    <rep>
+        <path>AteFineMeal.stages[0].description</path>
+        <trans>Söin todella maittavan aterian. Nam!</trans>
+    </rep>
+    
+    <rep>
+        <path>AteLavishMeal.stages[0].label</path>
+        <trans>söi yltäkylläisen aterian</trans>
+    </rep>
+    <rep>
+        <path>AteLavishMeal.stages[0].description</path>
+        <trans>Tuo yltäkylläinen ateria oli mahtava. Se ravitsi minun ruumiini ja sieluni.</trans>
+    </rep>
     
     <!-- =========== Cannibalism ===============-->
     
-    <AteHumanoidMeatDirect.label>raaka kannibalismi</AteHumanoidMeatDirect.label>
-    <AteHumanoidMeatDirect.description>Söin toisen ihmisen lihaa raakana kuin eläin. Tämä on painajaista.</AteHumanoidMeatDirect.description>
+    <rep>
+        <path>AteHumanlikeMeatDirect.stages[0].label</path>
+        <trans>raaka kannibalismi</trans>
+    </rep>
+    <rep>
+        <path>AteHumanlikeMeatDirect.stages[0].description</path>
+        <trans>Söin toisen ihmisen lihaa raakana kuin eläin. Tämä on painajaista.</trans>
+    </rep>
+
+    <rep>
+        <path>AteHumanlikeMeatAsIngredient.stages[0].label</path>
+        <trans>keitetty kannibalismi</trans>
+    </rep>
+    <rep>
+        <path>AteHumanlikeMeatAsIngredient.stages[0].description</path>
+        <trans>Söin aterian, joka oli tehty toisen ihmisen lihasta. Tämä on hirvittävää.</trans>
+    </rep>
     
-    <AteHumanoidMeatAsIngredient.label>keitetty kannibalismi</AteHumanoidMeatAsIngredient.label>
-    <AteHumanoidMeatAsIngredient.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Tämä on hirvittävää.</AteHumanoidMeatAsIngredient.description>
+    <rep>
+        <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
+        <trans>raaka kannibalismi</trans>
+    </rep>
+    <rep>
+        <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
+        <trans>Söin toisen ihmisen lihaa raakana kuin eläin. Se oli niin... mehukasta.</trans>
+    </rep>
     
-    <AteHumanoidMeatDirectCannibal.label>raaka kannibalismi</AteHumanoidMeatDirectCannibal.label>
-    <AteHumanoidMeatDirectCannibal.description>Söin toisen ihmisen lihaa raakana kuin eläin. Se oli niin... mehukasta.</AteHumanoidMeatDirectCannibal.description>
+    <rep>
+        <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
+        <trans>keitetty kannibalismi</trans>
+    </rep>
+    <rep>
+        <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
+        <trans>Söin aterian, joka oli tehty toisen ihmisen lihasta. Niin miellyttävää. Jos minulla olisi vain härkäpapuja ja Chianti-viiniä.</trans>
+    </rep>
     
-    <AteHumanoidMeatAsIngredientCannibal.label>keitetty kannibalismi</AteHumanoidMeatAsIngredientCannibal.label>
-    <AteHumanoidMeatAsIngredientCannibal.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Niin miellyttävää. Jos minulla olisi vain härkäpapuja ja Chianti-viiniä.</AteHumanoidMeatAsIngredientCannibal.description>
+    <rep>
+        <path>ButcheredHumanlikeCorpse.stages[0].label</path>
+        <trans>teurasti ihmisen</trans>
+    </rep>
+    <rep>
+        <path>ButcheredHumanlikeCorpse.stages[0].description</path>
+        <trans>Teurastin juuri jonkun kuin eläimen.</trans>
+    </rep>
     
-    <ButcheredHumanoidCorpse.label>teurasti ihmisen</ButcheredHumanoidCorpse.label>
-    <ButcheredHumanoidCorpse.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanoidCorpse.description>
-    
-    <AteWithoutTable.label>söi maasta </AteWithoutTable.label>
-    <AteWithoutTable.description>Minun täyty syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.description>
+    <rep>
+        <path>AteWithoutTable.stages[0].label</path>
+        <trans>söi maasta </trans>
+    </rep>
+    <rep>
+        <path>AteWithoutTable.stages[0].description</path>
+        <trans>Minun täyty syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</trans>
+    </rep>
     
     <!-- Combat -->
     
-    <ObservedLayingCorpse.label>havaitsi ruumiin</ObservedLayingCorpse.label>
-    <ObservedLayingCorpse.description>Näin kuolleen ihmisen makaavan maassa.</ObservedLayingCorpse.description>
+    <rep>
+        <path>ObservedLayingCorpse.stages[0].label</path>
+        <trans>havaitsi ruumiin</trans>
+    </rep>
+    <rep>
+        <path>ObservedLayingCorpse.stages[0].description</path>
+        <trans>Näin kuolleen ihmisen makaavan maassa.</trans>
+    </rep>
     
-    <ObservedLayingRottingCorpse.label>havaitsi mädäntyvän ruumiin</ObservedLayingRottingCorpse.label>
-    <ObservedLayingRottingCorpse.description>Näin mädäntyvän ruumiin makaavan maassa. Se oli vastenmielistä.</ObservedLayingRottingCorpse.description>
+    <rep>
+        <path>ObservedLayingRottingCorpse.stages[0].label</path>
+        <trans>havaitsi mädäntyvän ruumiin</trans>
+    </rep>
+    <rep>
+        <path>ObservedLayingRottingCorpse.stages[0].description</path>
+        <trans>Näin mädäntyvän ruumiin makaavan maassa. Se oli vastenmielistä.</trans>
+    </rep>
     
-    <WitnessedDeathAlly.label>koki liittolaisen kuoleman</WitnessedDeathAlly.label>
-    <WitnessedDeathAlly.description>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathAlly.description>
+    <rep>
+        <path>WitnessedDeathAlly.stages[0].label</path>
+        <trans>koki liittolaisen kuoleman</trans>
+    </rep>
+    <rep>
+        <path>WitnessedDeathAlly.stages[0].description</path>
+        <trans>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</trans>
+    </rep>
     
-    <WitnessedDeathStranger.label>koki vieraan kuoleman</WitnessedDeathStranger.label>
-    <WitnessedDeathStranger.description>Näin jonkun kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathStranger.description>
+    <rep>
+        <path>WitnessedDeathStranger.stages[0].label</path>
+        <trans>koki vieraan kuoleman</trans>
+    </rep>
+    <rep>
+        <path>WitnessedDeathStranger.stages[0].description</path>
+        <trans>Näin jonkun kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</trans>
+    </rep>
     
-    <WitnessedDeathStrangerBloodlust.label>koki vieraan kuoleman</WitnessedDeathStrangerBloodlust.label>
-    <WitnessedDeathStrangerBloodlust.description>Näin jonkun kuolevan! Se oli nastaa!</WitnessedDeathStrangerBloodlust.description>
+    <rep>
+        <path>WitnessedDeathStrangerBloodlust.stages[0].label</path>
+        <trans>koki vieraan kuoleman</trans>
+    </rep>
+    <rep>
+        <path>WitnessedDeathStrangerBloodlust.stages[0].description</path>
+        <trans>Näin jonkun kuolevan! Se oli nastaa!</trans>
+    </rep>
     
-    <KilledHumanoidBloodlust.label>tappoi jonkun</KilledHumanoidBloodlust.label>
-    <KilledHumanoidBloodlust.description>Tapoin jonkun! Olipa kiihottavaa!</KilledHumanoidBloodlust.description>
+    <rep>
+        <path>KilledHumanlikeBloodlust.stages[0].label</path>
+        <trans>tappoi jonkun</trans>
+    </rep>
+    <rep>
+        <path>KilledHumanlikeBloodlust.stages[0].description</path>
+        <trans>Tapoin jonkun! Olipa kiihottavaa!</trans>
+    </rep>
     
-    <BattleWounded.label>haavoittunut</BattleWounded.label>
-    <BattleWounded.description>Tuo on minun vertani! Olen haavoittunut taistelussa!</BattleWounded.description>
+    <rep>
+        <path>BattleWounded.stages[0].label</path>
+        <trans>haavoittunut</trans>
+    </rep>
+    <rep>
+        <path>BattleWounded.stages[0].description</path>
+        <trans>Tuo on minun vertani! Olen haavoittunut taistelussa!</trans>
+    </rep>
     
-    <NewColonyOptimism.label>uuden yhdyskunnan optimismia</NewColonyOptimism.label>
-    <NewColonyOptimism.description>Laskeuduimme juuri tänne. Tämä on ankara tilanne, mutta olen innoissani uuden yhdyskunnan perustamisesta.</NewColonyOptimism.description>
+    <rep>
+        <path>NewColonyOptimism.stages[0].label</path>
+        <trans>uuden yhdyskunnan optimismia</trans>
+    </rep>
+    <rep>
+        <path>NewColonyOptimism.stages[0].description</path>
+        <trans>Laskeuduimme juuri tänne. Tämä on ankara tilanne, mutta olen innoissani uuden yhdyskunnan perustamisesta.</trans>
+    </rep>
     
-    <NewColonyHope.label>uuden yhdyskunnan toivoa</NewColonyHope.label>
-    <NewColonyHope.description>Alan tottua tähän, mutta tämä on silti innostava uusi tilanne. Toivottavasti kaikki sujuu...</NewColonyHope.description>
+    <rep>
+        <path>NewColonyHope.stages[0].label</path>
+        <trans>uuden yhdyskunnan toivoa</trans>
+    </rep>
+    <rep>
+        <path>NewColonyHope.stages[0].description</path>
+        <trans>Alan tottua tähän, mutta tämä on silti innostava uusi tilanne. Toivottavasti kaikki sujuu...</trans>
+    </rep>
     
-    <SleptOutside.label>nukkui ulkona</SleptOutside.label>
-    <SleptOutside.description>Minun täyty nukkua ulkona ilman mitään suojaa säältä.</SleptOutside.description>
+    <rep>
+        <path>SleptOutside.stages[0].label</path>
+        <trans>nukkui ulkona</trans>
+    </rep>
+    <rep>
+        <path>SleptOutside.stages[0].description</path>
+        <trans>Minun täyty nukkua ulkona ilman mitään suojaa säältä.</trans>
+    </rep>
     
-    <SleptOnGround.label>nukkui maassa</SleptOnGround.label>
-    <SleptOnGround.description>Minun täytyi nukkua maassa kuin eläin.</SleptOnGround.description>
+    <rep>
+        <path>SleptOnGround.stages[0].label</path>
+        <trans>nukkui maassa</trans>
+    </rep>
+    <rep>
+        <path>SleptOnGround.stages[0].description</path>
+        <trans>Minun täytyi nukkua maassa kuin eläin.</trans>
+    </rep>
     
-    <KnowPrisonerBeaten.label>vankia hakattiin</KnowPrisonerBeaten.label>
-    <KnowPrisonerBeaten.description>Vankia hakataan.</KnowPrisonerBeaten.description>
+    <rep>
+        <path>SleptInCold.stages[0].label</path>
+        <trans>nukkui kylmässä</trans>
+    </rep>
+    <rep>
+        <path>SleptInCold.stages[0].description</path>
+        <trans>Minun täytyi nukkua kylmässä. Tarvitsemme kipeästi lämmittimiä.</trans>
+    </rep>
     
-    <KnowPrisonerSold.label>vanki myytiin</KnowPrisonerSold.label>
-    <KnowPrisonerSold.description>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</KnowPrisonerSold.description>
+    <rep>
+        <path>SleptInHeat.stages[0].label</path>
+        <trans>nukkui kuumassa</trans>
+    </rep>
+    <rep>
+        <path>SleptInHeat.stages[0].description</path>
+        <trans>Minun täytyi nukkua sietämättömässä kuumuudessa. Emmekö saisi ilmastoinita?</trans>
+    </rep>
     
-    <KnowPrisonerExecuted.label>vanki teloitettiin</KnowPrisonerExecuted.label>
-    <KnowPrisonerExecuted.description>Vanki teloitettiin kylmäverisesti. Tästä yhdyskunnasta on tulossa ilkeämpi päivä päivältä.</KnowPrisonerExecuted.description>
+    <rep>
+        <path>KnowPrisonerSold.stages[0].label</path>
+        <trans>vanki myytiin</trans>
+    </rep>
+    <rep>
+        <path>KnowPrisonerSold.stages[0].description</path>
+        <trans>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</trans>
+    </rep>
     
-    <JustImprisoned.label>juuri vangittu</JustImprisoned.label>
-    <JustImprisoned.description>Minut heitettiin juuri vankilaan. Minun on parempi koota itseni ja käsitellä tätä.</JustImprisoned.description>
+    <rep>
+        <path>KnowPrisonerExecuted.stages[0].label</path>
+        <trans>vanki teloitettiin</trans>
+    </rep>
+    <rep>
+        <path>KnowPrisonerExecuted.stages[0].description</path>
+        <trans>Vanki teloitettiin kylmäverisesti. Tästä yhdyskunnasta on tulossa ilkeämpi päivä päivältä.</trans>
+    </rep>
     
-    <PrisonerFriendlyChat.label>vanginvartijan vakuuttelema</PrisonerFriendlyChat.label>
-    <PrisonerFriendlyChat.description>Juttelin vanginvartijan kanssa yhdyskunnasta. Kuulostaa hyvältä paikalta...</PrisonerFriendlyChat.description>
+    <rep>
+        <path>KnowPrisonerOrganHarvested.stages[0].label</path>
+        <trans>vangilta kerättiin elin</trans>
+    </rep>
+    <rep>
+        <path>KnowPrisonerOrganHarvested.stages[0].description</path>
+        <trans>Yhdyskunta otti ruumiinosia vangilta. Se on kamalaa hajottaa joku osiksi eivätkä he voi väittää vastaan.</trans>
+    </rep>
     
-    <PrisonerBeatenMild.label>vanginvartijan hakkaama</PrisonerBeatenMild.label>
-    <PrisonerBeatenMild.description>Vanginvartija hakkasi minua. Hän ei rikkonut mitään, mutta hitto kun koskee.</PrisonerBeatenMild.description>
+    <rep>
+        <path>MePrisonerOrganHarvested.stages[0].label</path>
+        <trans>elin kerätty</trans>
+    </rep>
+    <rep>
+        <path>MePrisonerOrganHarvested.stages[0].description</path>
+        <trans>Yhdyskunta keräsi minulta ruumiinosia! He hajottavat minut kuin vanhan moottorin!</trans>
+    </rep>
     
-    <PrisonerBeatenVicious.label>vanginvartijan rajusti hakkaama</PrisonerBeatenVicious.label>
-    <PrisonerBeatenVicious.description>Vanginvartija hakkasi minua rajusti. Voisin kuolla tähän...</PrisonerBeatenVicious.description>
+    <rep>
+        <path>WasImprisoned.stages[0].label</path>
+        <trans>oli vangittu</trans>
+    </rep>
+    <rep>
+        <path>WasImprisoned.stages[0].description</path>
+        <trans>Yhdyskunta piti minua hetken vankina kuin eläintä häkissä.</trans>
+    </rep>
+
+    <rep>
+        <path>PrisonerFriendlyChat.stages[0].label</path>
+        <trans>vanginvartijan vakuuttelema</trans>
+    </rep>
+    <rep>
+        <path>PrisonerFriendlyChat.stages[0].description</path>
+        <trans>Juttelin vanginvartijan kanssa yhdyskunnasta. Kuulostaa hyvältä paikalta...</trans>
+    </rep>
     
-    <SocialTalk.label>sosiaalinen keskustelu</SocialTalk.label>
-    <SocialTalk.description>Keskustelin juuri hyvän tyypin kanssa.</SocialTalk.description>
+    <rep>
+        <path>SocialTalk.stages[0].label</path>
+        <trans>sosiaalinen keskustelu</trans>
+    </rep>
+    <rep>
+        <path>SocialTalk.stages[0].description</path>
+        <trans>Keskustelin juuri hyvän tyypin kanssa.</trans>
+    </rep>
     
-    <AbrasiveTalk.label>epämiellyttävä keskustelu</AbrasiveTalk.label>
-    <AbrasiveTalk.description>Joku oli töykeä minua kohtaan. Pahin asia on se, ettei hän edes tajunnut sitä...</AbrasiveTalk.description>
+    <rep>
+        <path>AbrasiveTalk.stages[0].label</path>
+        <trans>epämiellyttävä keskustelu</trans>
+    </rep>
+    <rep>
+        <path>AbrasiveTalk.stages[0].description</path>
+        <trans>Joku oli töykeä minua kohtaan. Pahin asia on se, ettei hän edes tajunnut sitä...</trans>
+    </rep>
     
-    <GreenThumbHappy.label>kylvi kasvin</GreenThumbHappy.label>
-    <GreenThumbHappy.description>Maailma tarvitsee enemmän kasveja!</GreenThumbHappy.description>
+    <rep>
+        <path>GreenThumbHappy.stages[0].label</path>
+        <trans>kylvi kasvin</trans>
+    </rep>
+    <rep>
+        <path>GreenThumbHappy.stages[0].description</path>
+        <trans>Maailma tarvitsee enemmän kasveja!</trans>
+    </rep>
+    
+    <rep>
+        <path>Catharsis.stages[0].label</path>
+        <trans>Katarsis</trans>
+    </rep>
+    <rep>
+        <path>Catharsis.stages[0].description</path>
+        <trans>Mitä juuri tapahtui... Se ei ollut minunlaistani. Tiedän pystyväni parempaan.</trans>
+    </rep>
     
 </LanguageData>

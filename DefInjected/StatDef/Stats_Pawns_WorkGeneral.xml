@@ -19,7 +19,4 @@
     <PlantWorkSpeed.label>kasvityönopeus</PlantWorkSpeed.label>
     <PlantWorkSpeed.description>Nopeus, jolla tämä henkilö viljelee ja kerää kasveja.</PlantWorkSpeed.description>
     
-    <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
-    <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. Taiteellisuus ei vaikuta tähän - kokeneemmat taiteilijat työskentelevät paremmin eivätkä nopeammin.</SculptingSpeed.description>
-    
 </LanguageData>

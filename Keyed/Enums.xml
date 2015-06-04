@@ -36,15 +36,15 @@
   <QualityCategory_Masterwork>mestariteos</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendaarinen</QualityCategory_Legendary>
 
-  <QualityCategory_Awful>hirv</QualityCategory_Awful>
-  <QualityCategory_Shoddy>surk</QualityCategory_Shoddy>
-  <QualityCategory_Poor>huon</QualityCategory_Poor>
-  <QualityCategory_Normal>norm</QualityCategory_Normal>
-  <QualityCategory_Good>hyvä</QualityCategory_Good>
-  <QualityCategory_Superior>pare</QualityCategory_Superior>
-  <QualityCategory_Excellent>erin</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>mest</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>lege</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>hirv</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>surk</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>huon</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>hyvä</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>pare</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>erin</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
   
   
   <!-- Hunger -->
@@ -68,7 +68,7 @@
   <!-- Time assigments -->
   <TimeAssignment_Anything>Mitä tahansa</TimeAssignment_Anything>
   <TimeAssignment_Work>Töitä</TimeAssignment_Work>
-  <TimeAssignment_Joy>Ilonpitoa</TimeAssignment_Joy>
+  <TimeAssignment_Joy>Huvittelua</TimeAssignment_Joy>
   <TimeAssignment_Sleep>Unta</TimeAssignment_Sleep>
 
 

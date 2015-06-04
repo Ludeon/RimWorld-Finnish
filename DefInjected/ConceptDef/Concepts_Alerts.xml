@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Start-active concepts -->
+    
+    <Forbidding.label>Salli resursseja</Forbidding.label>
+    <rep>
+        <path>Forbidding.helpTexts[0]</path>
+        <trans>Yhdyskuntalaisesi eivät tee mitään esineillä jotka on merkitty KIELLETYIKSI.\n\nValitse ruoka ja metalli laskeutumisalueesi lähistöllä ja paina F SALLIAKSESI ne.</trans>
+    </rep>
+    
+    <Stockpiles.label>Määritä varastoalue</Stockpiles.label>
+    <rep>
+        <path>Stockpiles.helpTexts[0]</path>
+        <trans>Yhdyskuntalaisesi tarvitsevat alueen mihin varastoida esineitä. Merkitse VARASTOALUE heille johon varastoida esineitä.\n\nLöydät varastoalueen ALUEET osiossa ARKKITEHTI -valikossa alavasemmalla.</trans>
+    </rep>
+    
+    <GrowingFood.label>Määritä kasvatusalue</GrowingFood.label>
+    <rep>
+        <path>GrowingFood.helpTexts[0]</path>
+        <trans>Määritä KASVATUSALUE Arkkitehti-valikosta kasvattaaksesi ruokaa.\n\nNe voidaan määrittää vain hedelmällisille alueille.</trans>
+    </rep>
+    
+    <!-- Timed concepts -->
+    
+    <EquippingWeapons.label>Ota aseet käyttöön</EquippingWeapons.label>
+    <rep>
+        <path>EquippingWeapons.helpTexts[0]</path>
+        <trans>Yhdyskuntalaisesi toivat mukanaan aseita. Ota ne käyttöön!\n\nValitse vuorotellen kukin yhdyskuntalainen ja paina hiiren oikealla näppäimellä asetta jonka haluat heidän ottavan käyttöön.</trans>
+    </rep>
+    
+    <CameraZoom.label>Opettele kameran zoomaus</CameraZoom.label>
+    <rep>
+        <path>CameraZoom.helpTexts[0]</path>
+        <trans>Lähennä ja loitonna kuvaa käyttämällä HIIREN RULLAA tai T- ja G-näppäimiä.</trans>
+    </rep>
+    
+    <WorkOverview.label>Muokkaa työasetuksia</WorkOverview.label>
+    <rep>
+        <path>WorkOverview.helpTexts[0]</path>
+        <trans>Voit asettaa jokaisen yhdyskuntalaisen työasetukset YLEISKATSAUS-näkymässä ruudun oikeassa alakulmassa.\n\nHe tekevät aina löytämänsä korkeimman prioriteetin työn.\n\nJos kenelläkään ei ole jotain työtä asetettuna, tai he ovat tekemässä korkeamman prioriteetin töitä, työ ei tule koskaan tehdyksi.</trans>
+    </rep>
+    
+    <TimeControls.label>Opettele aikakontrollit</TimeControls.label>
+    <rep>
+        <path>TimeControls.helpTexts[0]</path>
+        <trans>Voit nopeuttaa, hidastaa tai pysäyttää ajan käyttämällä ruudun oikeassa alakulmassa olevilla aikakontrolleilla.</trans>
+    </rep>
+    
+    <InfoCard.label>Avaa tietokortti</InfoCard.label>
+    <rep>
+        <path>InfoCard.helpTexts[0]</path>
+        <trans>Tietokortissa on yksityiskohtaisia tietoja mistä tahansa esineestä, henkilöstä tai rakennelmasta.\n\nValitse henkilö tai esine ja avaa sen tietokortti painamalla 'i' kuvaketta tarkastelupaneelissa ruudun vasemmassa alakulmassa.</trans>
+    </rep>
+    
+    <SpacePause.label>Opettele ajan pysäyttäminen välilyönnillä</SpacePause.label>
+    <rep>
+        <path>SpacePause.helpTexts[0]</path>
+        <trans>Pain VÄLILYÖNTIÄ pysäyttääksesi tai jatkaaksesi peliä.\n\nVoit antaa käskyjä kun peli on pysäytetty.\n\nPidä tämä mielessä - jos pelistä tulee liian hektinen, paina VÄLILYÖNTIÄ!</trans>
+    </rep>
+    
+    <StorageTab.label>Opettele varaston asetukset</StorageTab.label>
+    <rep>
+        <path>StorageTab.helpTexts[0]</path>
+        <trans>Voit muokata varastoalueiden ja -rakennelmien asetuksia valitsemalla ne ja avaamalla VARASTO-välilehden tarkastelupaneelin yläpuolelta ruudun vasemmassa alakulmassa.</trans>
+    </rep>
+    
+    <MedicalOperations.label>Opettele lääkintäoperaatiot</MedicalOperations.label>
+    <rep>
+        <path>MedicalOperations.helpTexts[0]</path>
+        <trans>Määrätäksesi lääkintäoperaation kuten elimenkeräyksen tai proteesin asentamisen avaa yhdyskuntalaisen TERVEYS-välilehti ja vaihda sitten OPERAATIOT, then switch to the OPERATIONS sub-tab.</trans>
+    </rep>
+    
+    <HomeRegion.label>Opettele kotialue</HomeRegion.label>
+    <rep>
+        <path>HomeRegion.helpTexts[0]</path>
+        <trans>KOTIALUEET kertovat yhdyskuntalaisille mitkä alueet tulee siivota ja missä sammuttaa tulipalot.\n\nMääritä KOTIALUE Alueet-kategoriasta Arkkitehti-valikossa.</trans>
+    </rep>
+    
+    <RightClickClearLetter.label>Opettele viestien poistaminen hiiren oikealla näppäimellä</RightClickClearLetter.label>
+    <rep>
+        <path>RightClickClearLetter.helpTexts[0]</path>
+        <trans>Voit nopeasti hankkiutua eroon tulevista viesteistä painamalla niitä hiiren oikealla näppäimellä.</trans>
+    </rep>
+    
+    <!-- Opportunity needer concepts -->
+    
+    <BuildOrbitalTradeBeacon.label>Rakenna kiertoratavaihtokaupan majakka</BuildOrbitalTradeBeacon.label>
+    <rep>
+        <path>BuildOrbitalTradeBeacon.helpTexts[0]</path>
+        <trans>Lähettääksesi tavaroita tai hopeaa kiertoratakauppiaille sinun täytyy rakentaa KIERTORATAVAIHTOKAUPAN MAJAKKA ja asettaa sen ympärille varastoalue.</trans>
+    </rep>
+    
+    <SetGrowingZonePlant.label>Opettele kasvatusalueen asetukset</SetGrowingZonePlant.label>
+    <rep>
+        <path>SetGrowingZonePlant.helpTexts[0]</path>
+        <trans>Voit määritellä mitä kasvatusalueelle kylvetään. Voit jopa kasvattaa puita!\n\nValitse vain kasvatusalue, avaa Kasvatus-välilehti ja paina Istuta-nappia.</trans>
+    </rep>
+    
+    <PrisonerTab.label>Opettele Vanki-välilehti</PrisonerTab.label>
+    <rep>
+        <path>PrisonerTab.helpTexts[0]</path>
+        <trans>Avaa vangin Vanki-välilehti määritelläksesi miten häntä kohdellaan.\n\nTarvitsen yhdyskuntalaisen, jolle on asetettu Vanginvartiointi-työ, vangeista huolehtimiseksi.</trans>
+    </rep>
+    
+    <StoragePriority.label>Opettele varastojen prioriteetti</StoragePriority.label>
+    <rep>
+        <path>StoragePriority.helpTexts[0]</path>
+        <trans>Voit vaihtaa varaston PRIORITEETTIA. Yhdyskuntalaiset täyttävät korkeamman prioriteetin varastot ensin.</trans>
+    </rep>
+    
+    <HistoryTab.label>Opettele Historia-välilehti</HistoryTab.label>
+    <rep>
+        <path>HistoryTab.helpTexts[0]</path>
+        <trans>Voit nähdä tiedot yhdyskuntasi ajan mittaan keräämistä varoista HISTORIA-välilehdestä YLEISKATSAUS-ikkunassa.</trans>
+    </rep>
+    
+</LanguageData>

@@ -19,16 +19,13 @@
     <Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
     <Plasteel.stuffProps.stuffAdjective>muoviteräksinen</Plasteel.stuffProps.stuffAdjective>
     
-<!--    <StoneBlocks.label>kiviharkkoja</StoneBlocks.label>
-    <StoneBlocks.description>Kovia kivestä tehtyjä harkkoja. Enimmäkseen hyödyllinen erittäin vahvojen ja pitkäisten mutta yksinkertaisten rakennelmien rakentamiseen.</StoneBlocks.description>
-    <StoneBlocks.stuffProps.stuffAdjective>kivinen</StoneBlocks.stuffProps.stuffAdjective> -->
-    
     <WoodLog.label>puuta</WoodLog.label>
     <WoodLog.description>Puuta puista ja muista puuvartisista kasveista. Hyödyllinen rakentamiseen, aseissa ja jopa yksinkertaisissa proteeseissa. Puuta voi hätätilassa käyttää aseena.</WoodLog.description>
     <WoodLog.stuffProps.stuffAdjective>puinen</WoodLog.stuffProps.stuffAdjective>
     
     <Uranium.label>uraania</Uranium.label>
-    <Uranium.description>Reaktoreiden polttoainetta.</Uranium.description>
+    <Uranium.description>Äärimmäisen kova ja tiheä metalli. Vaikka sen tunnetuin käyttökohde on ydinreaktoreissa, sen fysikaaliset ominaisuudet tekevät siitä sopivan joissain tarkoituksissa työkaluna, aseena tai panssarina.</Uranium.description>
+    <Uranium.stuffProps.stuffAdjective>uraanista tehty</Uranium.stuffProps.stuffAdjective>
     
     <!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
     
@@ -50,8 +47,17 @@
     
     <!--=============== Raw foods ====================-->
     
+    <RawHops.label>humalaa</RawHops.label>
+    <RawHops.description>Raakaa humalaa. Mauste- ja säilöntäaine jota tarvitaan oluen tekemiseen.</RawHops.description>
+    
     <RawPotatoes.label>perunoita</RawPotatoes.label>
     <RawPotatoes.description>Raakoja perunoita.</RawPotatoes.description>
+    
+    <RawCorn.label>maissia</RawCorn.label>
+    <RawCorn.description>Raakaa maissia. Mukava syödä jopa raakana.</RawCorn.description>
+    
+    <RawRice.label>riisiä</RawRice.label>
+    <RawRice.description>Raakaa riisiä.</RawRice.description>
     
     <RawBerries.label>marjoja</RawBerries.label>
     <RawBerries.description>Sekalaisia marjoja. Mukavia syödä myös raakana.</RawBerries.description>
@@ -72,7 +78,7 @@
     
     <!--=============== Shells ====================-->
     
-    <Shells.label>kranaatteja</Shells.label>
-    <Shells.description>Ammutaan kranaatinheittimistä.</Shells.description>
+    <ArtilleryShell.label>tykin kranaatteja</ArtilleryShell.label>
+    <ArtilleryShell.description>Ammutaan kranaatinheittimistä.</ArtilleryShell.description>
     
 </LanguageData>

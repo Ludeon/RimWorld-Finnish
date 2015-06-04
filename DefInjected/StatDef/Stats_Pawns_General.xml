@@ -22,4 +22,7 @@
     <ComfyTemperatureMax.label>Suurin mukava lämpötila</ComfyTemperatureMax.label>
     <ComfyTemperatureMax.description>Tämän lämpötilan yläpuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan yläpuolella heille tulee lämpöhalvaus ja lopulta he kuolevat.</ComfyTemperatureMax.description>
     
+    <ImmunityGainSpeed.label>vastustuskyvyn saamisnopeus</ImmunityGainSpeed.label>
+    <ImmunityGainSpeed.description>Nopeus jolla tämä henkilö saa vastustuskyvyn sairauksille. Jos tämä on liian hidas hän kuolee sairauteen ennen kuin kehittää vastustuskyvyn sille.</ImmunityGainSpeed.description>
+    
 </LanguageData>

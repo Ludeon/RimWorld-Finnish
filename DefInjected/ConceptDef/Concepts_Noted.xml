@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Special concepts with modal dialogs -->
+    
+    <rep>
+        <path>CameraDolly.helpTexts[0]</path>
+        <trans>Liikuta kameraa painamalla HIIREN RULLAA ja pitämällä sitä pohjassa tai WASD-näppäimillä.</trans>
+    </rep>
+    
+    <rep>
+        <path>Rescuing.helpTexts[0]</path>
+        <trans>Pelastaaksesi haavoittuneen yhdyskuntalaisen valitse terve yhdyskuntalainen ja paina haavoittunutta hiiren oikealla näppäimellä.</trans>
+    </rep>
+    
+    <rep>
+        <path>Capturing.helpTexts[0]</path>
+        <trans>Vihollinen on liikuntakyvytön. Voit kaapata hänet!</trans>
+    </rep>
+    <rep>
+        <path>Capturing.helpTexts[1]</path>
+        <trans>Jotta voit kaapata, valitse yhdyskuntalainen, paina liikuntakyvyttöntä vihollista hiiren oikealla näppäimellä ja valitse Kaappaa.\n\nTarvitsen ylimääräisen sängyn joka on merkitty vankien käyttöön.</trans>
+    </rep>
+    
+    <rep>
+        <path>Drafting.helpTexts[0]</path>
+        <trans>Ohjataksesi yhdyskuntalaista suoraan taistelussa Värvää heidät valitsemalla heidät ja painamalla VÄRVÄÄ-nappia.</trans>
+    </rep>
+    <rep>
+        <path>Drafting.helpTexts[1]</path>
+        <trans>Värvätty yhdyskuntalainen tekee vain sen minkä käsket ja noudattaa vain taistelukäskyjä. Aseistetut yhdyskuntalaiset käyttävät niitä kun mahdollista.\n\nÄlä jätä yhdyskuntalaisia Värvätyiksi ikuisesti - he nääntyvät nälkään ja tulevat suruullisiksi.</trans>
+    </rep>
+    
+    <rep>
+        <path>BillsTab.helpTexts[0]</path>
+        <trans>Saadaksesi yhdyskuntalaisen työskentelemään pöydän ääressä valitse pöytä ja avaa Tilaukset-välilehti. Sielllä voit määrätä mitä aterioita valmistetaan, mitä käsitöitä tehdään ja mitä eläimiä teurastetaan.</trans>
+    </rep>
+    
+    <rep>
+        <path>StorageTabCategories.helpTexts[0]</path>
+        <trans>Varastoalueen Varasto-välilehdessä voit avata kategorioita salliaksesi ja estääksesi tietyt esineet. Paina kategorioiden nimien vasemmalla puolella olevia kolmioita.</trans>
+    </rep>
+    
+    <rep>
+        <path>Mining.helpTexts[0]</path>
+        <trans>Voit määrittää louhintapaikan avaamalla ARKKITEHTI-valikon ja valitsemalla MÄÄRÄYKSET-välilehden.\n\nJoistan louhittavista kivistä tulee TERÄSTÄ, KULTAA, MUOVITERÄSTÄ ja muita hyödyllisiä materiaaleja.</trans>
+    </rep>
+    
+    <rep>
+        <path>OpeningComms.helpTexts[0]</path>
+        <trans>Kommunikoidaksesi valitse työkelpoinen yhdyskuntalainen ja paina konsolia hiiren oikealla näppäimellä.</trans>
+    </rep>
+    
+    <rep>
+        <path>Deterioration.helpTexts[0]</path>
+        <trans>Ulos jätetyt tavarat hajoavat hiljalleen.\n\nJos haluat säilyttää esineitä pitkällä tähtäimellä pidä ne katon alla.</trans>
+    </rep>
+    
+    
+</LanguageData>

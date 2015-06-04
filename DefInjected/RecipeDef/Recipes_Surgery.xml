@@ -53,9 +53,9 @@
     <InstallPowerClaw.description>Asentaa voimakynnen.</InstallPowerClaw.description>
     <InstallPowerClaw.jobString>Asentaa voimakynttä.</InstallPowerClaw.jobString>
     
-    <InstallScytherKnifeProtrusion.label>asenna viikateuloke</InstallScytherKnifeProtrusion.label>
-    <InstallScytherKnifeProtrusion.description>Asentaa viikateulokkeen.</InstallScytherKnifeProtrusion.description>
-    <InstallScytherKnifeProtrusion.jobString>Asentaa viikateuloketta.</InstallScytherKnifeProtrusion.jobString>
+    <InstallScytherBlade.label>asenna viikateuloke</InstallScytherBlade.label>
+    <InstallScytherBlade.description>Asentaa viikateulokkeen.</InstallScytherBlade.description>
+    <InstallScytherBlade.jobString>Asentaa viikateuloketta.</InstallScytherBlade.jobString>
     
   	<!-- removing body parts -->
     

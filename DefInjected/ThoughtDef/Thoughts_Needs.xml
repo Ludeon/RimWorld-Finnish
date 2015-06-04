@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <rep>
+        <path>Hungry.stages[0].label</path>
+        <trans>nälkäinen</trans>
+    </rep>
+    <rep>
+        <path>Hungry.stages[0].description</path>
+        <trans>En ole syönyt hetkeen.</trans>
+    </rep>
+    <rep>
+        <path>Hungry.stages[1].label</path>
+        <trans>kipeästi nälkäinen</trans>
+    </rep>
+    <rep>
+        <path>Hungry.stages[1].description</path>
+        <trans>Nälkä kalvaa sisuksiani. Tarvitsen ruokaa tai näännyn kohta nälkään.</trans>
+    </rep>
+    <rep>
+        <path>Hungry.stages[2].label</path>
+        <trans>nälänhätä</trans>
+    </rep>
+    <rep>
+        <path>Hungry.stages[2].description</path>
+        <trans>Haluan vain jotakin - mitä tahansa - syötävää. Tunnen, kuinka ruumiini on kuihtumassa pois. Sattuu...</trans>
+    </rep>
+    
+    <rep>
+        <path>Tired.stages[0].label</path>
+        <trans>väsynyt</trans>
+    </rep>
+    <rep>
+        <path>Tired.stages[0].description</path>
+        <trans>En ole nukkunut hetkeen.</trans>
+    </rep>
+    <rep>
+        <path>Tired.stages[1].label</path>
+        <trans>erittäin väsynyt</trans>
+    </rep>
+    <rep>
+        <path>Tired.stages[1].description</path>
+        <trans>Olen hyvin väsynyt. Haluan vain mennä makuulle ja levätä pari minuuttia...</trans>
+    </rep>
+    <rep>
+        <path>Tired.stages[2].label</path>
+        <trans>uupunut</trans>
+    </rep>
+    <rep>
+        <path>Tired.stages[2].description</path>
+        <trans>Olen niin uupunut, että pysyn hädin tuskin pystyssä. Silmäluomeni ovat lyijynraskaat. Anna minun nukkua...</trans>
+    </rep>
+    
+    <rep>
+        <path>JoyLevel.stages[0].label</path>
+        <trans>täysin iloton</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[0].description</path>
+        <trans>Siitä on niin kauan kun viimeksi tein jotain mistä todella nautin.</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[1].label</path>
+        <trans>erittäin iloton</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[1].description</path>
+        <trans>En saa koskaan levätä ja nautiskella itsekseni täällä.</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[2].label</path>
+        <trans>iloton</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[2].description</path>
+        <trans>Tarvitsisin tauon tehdäkseni jotain nautinnollista.</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[3].label</path>
+        <trans>ilontäyteinen</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[3].description</path>
+        <trans>Minulla on ollut viime aikoina oikein hauskaa.</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[4].label</path>
+        <trans>iloa monta kiloa</trans>
+    </rep>
+    <rep>
+        <path>JoyLevel.stages[4].description</path>
+        <trans>Olen nauttinut olostani niin paljon, rakastan sitä!</trans>
+    </rep>
+    
+    <rep>
+        <path>ComfortLevel.stages[0].label</path>
+        <trans>epämukavaa</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[0].description</path>
+        <trans>Minulla on ollut aika epämukavaa viime aikoina. Tarvitsemme tänne pehmeitä istuimia.</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[1].label</path>
+        <trans>mukavaa</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[1].description</path>
+        <trans>Minun on ollut mukava olla viime aikoina.</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[2].label</path>
+        <trans>erittäin mukavaa</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[2].description</path>
+        <trans>Minun on ollut erittäin mukava olla viime aikoina.</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[3].label</path>
+        <trans>äärimmäisen mukavaa</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[3].description</path>
+        <trans>Minun on ollut äärimmäisen mukava olla viime aikoina. Tämä paikka on niin mukava!</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[4].label</path>
+        <trans>luksusmaisen mukavaa</trans>
+    </rep>
+    <rep>
+        <path>ComfortLevel.stages[4].description</path>
+        <trans>Lepään taivaan pilvien päällä.</trans>
+    </rep>
+    
+    <rep>
+        <path>EnvironmentUgly.stages[0].label</path>
+        <trans>ruma ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentUgly.stages[0].description</path>
+        <trans>Täällä on epämiellyttävä olla.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentUgly.stages[1].label</path>
+        <trans>erittäin ruma ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentUgly.stages[1].description</path>
+        <trans>Tämä paikka on todella epämiellyttävä. En halua olla täällä.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentUgly.stages[2].label</path>
+        <trans>inhottava ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentUgly.stages[2].description</path>
+        <trans>Tämä paikka on sietämätön. Haluan pois täältä...</trans>
+    </rep>
+    
+    <rep>
+        <path>EnvironmentPretty.stages[0].label</path>
+        <trans>miellyttävä ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentPretty.stages[0].description</path>
+        <trans>Tämä on hieno paikka.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentPretty.stages[1].label</path>
+        <trans>erittäin miellyttävä ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentPretty.stages[1].description</path>
+        <trans>Pidän todella paljon tästä paikasta. Se on kaunis.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentPretty.stages[2].label</path>
+        <trans>kaunis ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentPretty.stages[2].description</path>
+        <trans>Tämä paikka on kaunis. Se piristää minua ja saa minut rakastamaan elämää.</trans>
+    </rep>
+    
+    <rep>
+        <path>EnvironmentCramped.stages[0].label</path>
+        <trans>ahdas ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCramped.stages[0].description</path>
+        <trans>Tämä paikka on todella sulkeinen. Tunnen kuin minulla ei olisi ollenkaan tilaa hengittää.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCramped.stages[1].label</path>
+        <trans>erittäin ahdas ympäristö</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCramped.stages[1].description</path>
+        <trans>Täällä on erittäin ahdasta. Minulla ei ole tilaa liikkua. Tunnen itseni rotaksi pienessä häkissä.</trans>
+    </rep>
+    
+    <rep>
+        <path>EnvironmentSpaciousInterior.stages[0].label</path>
+        <trans>tilavat sisätila</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentSpaciousInterior.stages[0].description</path>
+        <trans>Tämä on todella mukavan avoin sisätila.</trans>
+    </rep>
+    
+</LanguageData>

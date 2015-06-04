@@ -9,19 +9,21 @@
     
     <Eyes.label>silmät</Eyes.label>
     
+    <Teeth.label>hampaat</Teeth.label>
+    
+    <Mouth.label>suu</Mouth.label>
+    
     <Arms.label>käsivarret</Arms.label>
     
     <Hands.label>kädet</Hands.label>
     
-    <LeftFist.label>vasen nyrkki</LeftFist.label>
+    <LeftHand.label>vasen nyrkki</LeftHand.label>
     
-    <RightFist.label>oikea nyrkki</RightFist.label>
+    <RightHand.label>oikea nyrkki</RightHand.label>
     
     <Legs.label>jalkavarret</Legs.label>
     
     <Feet.label>jalkaterät</Feet.label>
-    
-    <Teeth.label>hampaat</Teeth.label>
     
     <FrontLeftPaw.label>etuvasen käpälä</FrontLeftPaw.label>
     
@@ -36,8 +38,6 @@
     <FrontLeftClaws.label>etuvasemmat kynnet</FrontLeftClaws.label>
     
     <FrontRightClaws.label>etuoikeat kynnet</FrontRightClaws.label>
-    
-    <Mouth.label>suu</Mouth.label>
     
     <LeftKnifeProtrusion.label>vasen vetsiuloke</LeftKnifeProtrusion.label>
     

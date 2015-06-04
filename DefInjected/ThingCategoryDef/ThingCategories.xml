@@ -31,6 +31,8 @@
     
     <Art.label>taide</Art.label>
     
+    <Furniture.label>huonekalut</Furniture.label>
+    
     <Unfinished.label>keskeneräiset</Unfinished.label>
     
     <Weapons.label>aseet</Weapons.label>
@@ -43,6 +45,8 @@
     
     <Apparel.label>vaatteet</Apparel.label>
     
+    <Headgear.label>päähineet</Headgear.label>
+    
     <BodyParts.label>ruumiinosat</BodyParts.label>
     
     <Chunks.label>kimpaleet</Chunks.label>
@@ -51,7 +55,7 @@
     
     <Corpses.label>ruumiit</Corpses.label>
     
-    <CorpsesHumanoid.label>ihmisruumiit</CorpsesHumanoid.label>
+    <CorpsesHumanlike.label>ihmisruumiit</CorpsesHumanlike.label>
     
     <CorpsesAnimal.label>eläinten ruumiit</CorpsesAnimal.label>
     

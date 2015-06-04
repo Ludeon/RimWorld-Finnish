@@ -8,6 +8,9 @@
     
     <!--============================ Wild - Trees ============================-->
     
+    <PlantTreeTeak.label>tiikkipuu</PlantTreeTeak.label>
+    <PlantTreeTeak.description>Erittäin vahva kovapuulaji jota käytettiin muinaisina aikoina purjeveneiden rakentamiseen.</PlantTreeTeak.description>
+    
     <PlantTreeCecropia.label>muurahaispuu</PlantTreeCecropia.label>
     <PlantTreeCecropia.description>Yksi sademetsien yleisimmistä puulajeista. Kasvaa erittäin nopeasti.</PlantTreeCecropia.description>
     

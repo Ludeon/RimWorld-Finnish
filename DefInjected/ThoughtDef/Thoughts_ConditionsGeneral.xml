@@ -1,61 +1,147 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Hungry.label>nälkäinen</Hungry.label>
-    <Hungry.description>En ole syönyt hetkeen.</Hungry.description>
+    <rep>
+        <path>LowExpectations.stages[0].label</path>
+        <trans>kohtuulliset odotukset</trans>
+    </rep>
+    <rep>
+        <path>LowExpectations.stages[0].description</path>
+        <trans>Tämä paikka ei ole kovin rikas. En voi vaatia hemmottelua.</trans>
+    </rep>
+    <rep>
+        <path>LowExpectations.stages[1].label</path>
+        <trans>matalat odotukset</trans>
+    </rep>
+    <rep>
+        <path>LowExpectations.stages[1].description</path>
+        <trans>Tällä paikalla ei ole varaa luksukseen. Minun täytyy pysyä lujana.</trans>
+    </rep>
+    <rep>
+        <path>LowExpectations.stages[2].label</path>
+        <trans>erittäin matalat odotukset</trans>
+    </rep>
+    <rep>
+        <path>LowExpectations.stages[2].description</path>
+        <trans>Tämä paikka on köyhyyden riivaama. En voi odottaa mukavuuksia täältä; minun täytyy pysyä lujana.</trans>
+    </rep>
+    <rep>
+        <path>LowExpectations.stages[3].label</path>
+        <trans>äärimmäisen matalat odotukset</trans>
+    </rep>
+    <rep>
+        <path>LowExpectations.stages[3].description</path>
+        <trans>Tämä paikka tarjoaa hädin tuskin suojaa säältä. Minun on paras terästäytyä selvitäkseni.</trans>
+    </rep>
     
-    <UrgentlyHungry.label>kipeästi nälkäinen</UrgentlyHungry.label>
-    <UrgentlyHungry.description>Nälkä kalvaa sisuksiani. Tarvitsen ruokaa tai näännyn kohta nälkään.</UrgentlyHungry.description>
+    <rep>
+        <path>EnvironmentDark.stages[0].label</path>
+        <trans>pimeässä</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentDark.stages[0].description</path>
+        <trans>Olen ollut pimeässä hetken aikaa. En pidä siitä.</trans>
+    </rep>
     
-    <Starving.label>nälänhätä</Starving.label>
-    <Starving.description>Haluan vain jotakin - mitä tahansa - syötävää. Tunnen, kuinka ruumiini on kuihtumassa pois. Sattuu...</Starving.description>
+    <rep>
+        <path>CabinFever.stages[0].label</path>
+        <trans>mökkihöperyys (mieto)</trans>
+    </rep>
+    <rep>
+        <path>CabinFever.stages[0].description</path>
+        <trans>Olen ollut sisätiloissa päiviä. Minun pitää mennä ulos.</trans>
+    </rep>
+    <rep>
+        <path>CabinFever.stages[1].label</path>
+        <trans>mökkihöperyys (vakava)</trans>
+    </rep>
+    <rep>
+        <path>CabinFever.stages[1].description</path>
+        <trans>Olen ollut täällä loukussa kuin rotta todella kauan. Minun täytyy epätoivoisen kipeästi mennä ulos tai tulen hulluksi!</trans>
+    </rep>
     
-    <Tired.label>väsynyt</Tired.label>
-    <Tired.description>En ole nukkunut hetkeen.</Tired.description>
+    <rep>
+        <path>ApparelDamaged.stages[0].label</path>
+        <trans>kuluneet vaatteet</trans>
+    </rep>
+    <rep>
+        <path>ApparelDamaged.stages[0].description</path>
+        <trans>Minun vaatekertani näyttää surkealta. Enkö saisi jotain säädyllistä ylleni?</trans>
+    </rep>
+    <rep>
+        <path>ApparelDamaged.stages[1].label</path>
+        <trans>repaleiset vaatteet</trans>
+    </rep>
+    <rep>
+        <path>ApparelDamaged.stages[1].description</path>
+        <trans>Minulla on yllä repaleisia rättejä. Enkö saisi jotain säädyllistä ylleni?</trans>
+    </rep>
     
-    <VeryTired.label>erittäin väsynyt</VeryTired.label>
-    <VeryTired.description>Olen hyvin väsynyt. Haluan vain mennä makuulle ja levätä pari minuuttia...</VeryTired.description>
+    <rep>
+        <path>Sick.stages[0].label</path>
+        <trans>kipeä</trans>
+    </rep>
+    <rep>
+        <path>Sick.stages[0].description</path>
+        <trans>En voi kovin hyvin, olen sairas.</trans>
+    </rep>
     
-    <Exhausted.label>uupunut</Exhausted.label>
-    <Exhausted.description>Olen niin uupunut, että pysyn hädin tuskin pystyssä. Silmäluomeni ovat lyijynraskaat. Anna minun nukkua...</Exhausted.description>
-    
-    <EnvironmentUgly.label>ruma ympäristö</EnvironmentUgly.label>
-    <EnvironmentUgly.description>Täällä on epämiellyttävä olla.</EnvironmentUgly.description>
-    
-    <EnvironmentVeryUgly.label>erittäin ruma ympäristö</EnvironmentVeryUgly.label>
-    <EnvironmentVeryUgly.description>Tämä paikka on todella epämiellyttävä. En halua olla täällä.</EnvironmentVeryUgly.description>
-    
-    <EnvironmentHideous.label>inhottava ympäristö</EnvironmentHideous.label>
-    <EnvironmentHideous.description>Tämä paikka on sietämätön. Haluan pois täältä...</EnvironmentHideous.description>
-    
-    <EnvironmentPretty.label>miellyttävä ympäristö</EnvironmentPretty.label>
-    <EnvironmentPretty.description>Tämä on hieno paikka.</EnvironmentPretty.description>
-    
-    <EnvironmentVeryPretty.label>erittäin miellyttävä ympäristö</EnvironmentVeryPretty.label>
-    <EnvironmentVeryPretty.description>Pidän todella paljon tästä paikasta. Se on kaunis.</EnvironmentVeryPretty.description>
-    
-    <EnvironmentBeautiful.label>kaunis ympäristö</EnvironmentBeautiful.label>
-    <EnvironmentBeautiful.description>Tämä paikka on kaunis. Se piristää minua ja saa minut rakastamaan elämää.</EnvironmentBeautiful.description>
-    
-    <EnvironmentCramped.label>ahdas ympäristö</EnvironmentCramped.label>
-    <EnvironmentCramped.description>Tämä paikka on todella sulkeinen. Tunnen kuin minulla ei olisi ollenkaan tilaa hengittää.</EnvironmentCramped.description>
-    
-    <EnvironmentVeryCramped.label>erittäin ahdas ympäristö</EnvironmentVeryCramped.label>
-    <EnvironmentVeryCramped.description>Täällä on erittäin ahdasta. Minulla ei ole tilaa liikkua. Tunnen itseni rotaksi pienessä häkissä.</EnvironmentVeryCramped.description>
-    
-    <EnvironmentSpaciousInterior.label>tilava sisätila</EnvironmentSpaciousInterior.label>
-    <EnvironmentSpaciousInterior.description>Tämä on todella mukavan avoin sisätila.</EnvironmentSpaciousInterior.description>
-    
-    <EnvironmentDark.label>pimeässä</EnvironmentDark.label>
-    <EnvironmentDark.description>Olen ollut pimeässä hetken aikaa. En pidä siitä.</EnvironmentDark.description>
-    
-    <CabinFeverMild.label>mökkihöperyys (mieto)</CabinFeverMild.label>
-    <CabinFeverMild.description>Olen ollut sisätiloissa päiviä. Minun pitää mennä ulos.</CabinFeverMild.description>
-    
-    <CabinFeverSerious.label>mökkihöperyys (vakava)</CabinFeverSerious.label>
-    <CabinFeverSerious.description>Olen ollut täällä loukussa kuin rotta todella kauan. Minun täytyy epätoivoisen kipeästi mennä ulos tai tulen hulluksi!</CabinFeverSerious.description>
-    
-    <Sick.label>kipeä</Sick.label>
-    <Sick.description>En voi kovin hyvin, olen sairas.</Sick.description>
+    <rep>
+        <path>EnvironmentCold.stages[0].label</path>
+        <trans>kylmä</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCold.stages[0].description</path>
+        <trans>Minulla on epämukavan kylmä.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCold.stages[1].label</path>
+        <trans>erittäin kylmä</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCold.stages[1].description</path>
+        <trans>Minulla on niin kylmä. Värisen. En saa lämpöä.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCold.stages[2].label</path>
+        <trans>jääkylmä</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentCold.stages[2].description</path>
+        <trans>Minun hampaani kalisevat niin kovaa että pystyn hädin tuskin puhumaan. Varpaani ovat turtat. Tarvitsen lämpöä.</trans>
+    </rep>
+
+    <rep>
+        <path>EnvironmentHot.stages[0].label</path>
+        <trans>kuuma</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentHot.stages[0].description</path>
+        <trans>Tämä lämpö on epämiellyttävä. Minä hikoilen.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentHot.stages[1].label</path>
+        <trans>erittäin kuuma</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentHot.stages[1].description</path>
+        <trans>Olen ylikuumentunut.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentHot.stages[2].label</path>
+        <trans>äärimmäisen kuuma</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentHot.stages[2].description</path>
+        <trans>Tuntuu kuin olisin uunissa! En ole varma miten kauan kestän tätä.</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentHot.stages[3].label</path>
+        <trans>palaa</trans>
+    </rep>
+    <rep>
+        <path>EnvironmentHot.stages[3].description</path>
+        <trans>Minä palan. Voisin kuolla tähän kuumuuteen!</trans>
+    </rep>
     
 </LanguageData>

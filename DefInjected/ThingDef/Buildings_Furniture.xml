@@ -14,17 +14,26 @@
     
     <HospitalBed.label>sairasvuode</HospitalBed.label>
     <HospitalBed.Description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.Description>
+
     <!--======================= Basic domestic furniture ==============================-->
-    
     
     <Stool.label>jakkara</Stool.label>
     <Stool.description>Tämän päällä istutaan.</Stool.description>
+    
+    <DiningChair.label>ruokapöydän tuoli</DiningChair.label>
+    <DiningChair.description>Mukava ja puoleensavetävä tuoli pöydän ääressä istumiseen.</DiningChair.description>
+    
+    <Armchair.label>nojatuoli</Armchair.label>
+    <Armchair.description>Suuri pehmeä mukava istuin. Sopii hyvin rentoutumiseen.</Armchair.description>
     
     <TableShort.label>pöytä (lyhyt)</TableShort.label>
     <TableShort.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableShort.description>
     
     <TableLong.label>pöytä (pitkä)</TableLong.label>
     <TableLong.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableLong.description>
+    
+    <PlantPot.label>kukkaruukku</PlantPot.label>
+    <PlantPot.description>Istuta koristekukkia tähän parantaaksesi lähellä olevien ihmisten mielialaa.</PlantPot.description>
     
     <!-- ======================== Lighting ======================= -->
     

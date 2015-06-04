@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Mercenary.label>palkkasoturi</Mercenary.label>
+    <MercenaryGunner.label>pakkasoturi</MercenaryGunner.label>
     
     <MercenarySniper.label>palkkatarkka-ampuja</MercenarySniper.label>
     
     <Grenadier.label>pommimies</Grenadier.label>
     
-    <MercenaryBruiser.label>kovistelija palkkasoturi</MercenaryBruiser.label>
+    <MercenarySlasher.label>palkattu viiltelijä</MercenarySlasher.label>
+    
+    <MercenaryHeavy.label>raskas palkkasoturi</MercenaryHeavy.label>
+    
+    <PirateBoss.label>pomo</PirateBoss.label>
     
     <MercenaryElite.label>eliitti palkkasoturi</MercenaryElite.label>
     

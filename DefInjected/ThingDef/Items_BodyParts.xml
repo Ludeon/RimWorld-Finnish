@@ -37,7 +37,7 @@
     <PowerClaw.label>voimakynsi</PowerClaw.label>
     <PowerClaw.description>Tehokas käden korvike, joka koostuu kolmesta kuollettavasta kynnestä.</PowerClaw.description>
     
-    <ScytherKnifeProtrusion.label>viikateuloke</ScytherKnifeProtrusion.label>
-    <ScytherKnifeProtrusion.description>Käden korvike pistävällä terällä. Ei kovin mukava, mutta varsin tehokas lähitaisteluaseena.</ScytherKnifeProtrusion.description>
+    <ScytherBlade.label>viikatemiehen terä</ScytherBlade.label>
+    <ScytherBlade.description>Käden korvike pistävällä terällä. Ei kovin mukava, mutta varsin tehokas lähitaisteluaseena.</ScytherBlade.description>
 
 </LanguageData>

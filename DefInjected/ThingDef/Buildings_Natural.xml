@@ -12,10 +12,13 @@
     <MineableSteel.description>Jonkin muinaisen raunion jäännökset. Sisältää paljon terästä.</MineableSteel.description>
     
     <MineableSilver.label>hopeamalmi</MineableSilver.label>
-    <MineableSilver.description>Kiviseinämä, jossa on hieman hopeaa.</MineableSilver.description>
+    <MineableSilver.description>Kiviseinämä jossa on hieman hopeaa.</MineableSilver.description>
     
     <MineableGold.label>kultamalmi</MineableGold.label>
-    <MineableGold.description>Kiviseinämä, jossa on hieman kultaa.</MineableGold.description>
+    <MineableGold.description>Kiviseinämä jossa on hieman kultaa.</MineableGold.description>
+    
+    <MineableUranium.label>uraanimalmi</MineableUranium.label>
+    <MineableUranium.description>Kiviseinämä jossa on hieman uraania.</MineableUranium.description>
     
     <MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>
     <MineablePlasteel.description>Muinainen muoviterästä täynnä oleva raunio.</MineablePlasteel.description>

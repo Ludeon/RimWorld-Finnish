@@ -5,9 +5,17 @@
     
     <Goto.reportString>Liikkuu.</Goto.reportString>
     
-    <SeekSafeTemperature.reportString>Etsii turvallista lämpötilaa.</SeekSafeTemperature.reportString>
+    <GotoSafeTemperature.reportString>Etsii turvallista lämpötilaa.</GotoSafeTemperature.reportString>
+    
+    <GotoWander.reportString>Harhailee.</GotoWander.reportString>
     
     <Wait.reportString>Seisoskelee.</Wait.reportString>
+    
+    <WaitSafeTemperature.reportString>Etsii turvallista lämpötilaa.</WaitSafeTemperature.reportString>
+    
+    <WaitWander.reportString>Harhailee.</WaitWander.reportString>
+    
+    <WaitCombat.reportString>Etsii kohteita.</WaitCombat.reportString>
     
     <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
     
@@ -25,7 +33,7 @@
     
     <Hunt.reportString>Metsästää TargetA.</Hunt.reportString>
     
-    <ManThing.reportString>Käyttää konetta.</ManThing.reportString>
+    <ManTurret.reportString>Käyttää konetta.</ManTurret.reportString>
     
     <EnterCryptosleepCasket.reportString>Menee salauniarkkuun.</EnterCryptosleepCasket.reportString>
     
@@ -34,6 +42,10 @@
     <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
     
     <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
+    
+    <Vomit.reportString>Oksentaa.</Vomit.reportString>
+    
+    <Flick.reportString>Kääntää kytkintä.</Flick.reportString>
     
     <!--============ Fire ============-->
     
@@ -45,7 +57,7 @@
     
     <!--============ Need satisfaction ============-->
     
-    <EatFood.reportString>Syö ruuan TargetA.</EatFood.reportString>
+    <Ingest.reportString>Syö ruuan TargetA.</Ingest.reportString>
     
     <LayDown.reportString>Makaa.</LayDown.reportString>
     
@@ -79,7 +91,7 @@
     
     <FeedPatient.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</FeedPatient.reportString>
     
-    <HealPatient.reportString>Parantaa henkilön TargetA.</HealPatient.reportString>
+    <TreatPatient.reportString>Parantaa henkilön TargetA.</TreatPatient.reportString>
     
     <PlaceNoCostFrame.reportString>Rakentaa kohteen TargetA.</PlaceNoCostFrame.reportString>
     

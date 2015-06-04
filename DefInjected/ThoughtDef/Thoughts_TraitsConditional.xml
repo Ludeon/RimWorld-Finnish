@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <rep>
+        <path>MasochistPain.stages[0].label</path>
+        <trans>vähän kipua</trans>
+    </rep>
+    <rep>
+        <path>MasochistPain.stages[0].description</path>
+        <trans>Au... Heh heh heh... Voisin tottua tähän!</trans>
+    </rep>
+    <rep>
+        <path>MasochistPain.stages[1].label</path>
+        <trans>kohtalaisesti kipua</trans>
+    </rep>
+    <rep>
+        <path>MasochistPain.stages[1].description</path>
+        <trans>Huh... Sattuu, mutta pidän siitä! Antaa tulla vaan!</trans>
+    </rep>
+    <rep>
+        <path>MasochistPain.stages[2].label</path>
+        <trans>akuuttinen kipu</trans>
+    </rep>
+    <rep>
+        <path>MasochistPain.stages[2].description</path>
+        <trans>Auts... Jotain taitaa olla rikki... Mutta onpas aistikas tunne!</trans>
+    </rep>
+    <rep>
+        <path>MasochistPain.stages[3].label</path>
+        <trans>shokissa äärimmäisestä kivusta</trans>
+    </rep>
+    <rep>
+        <path>MasochistPain.stages[3].description</path>
+        <trans>Aaah... Olenko taivaassa?</trans>
+    </rep>
+    
+    <rep>
+        <path>ProsthophileNoProsthetic.stages[0].label</path>
+        <trans>ei bionista ruumiinosaa</trans>
+    </rep>
+    <rep>
+        <path>ProsthophileNoProsthetic.stages[0].description</path>
+        <trans>Ihmisliha on niin rajoittavaa. Olisipa minulla jokin keinotekoinen ruumiinosa.</trans>
+    </rep>
+    
+    <rep>
+        <path>ProsthophileHappy.stages[0].label</path>
+        <trans>bioninen ruumiinosa</trans>
+    </rep>
+    <rep>
+        <path>ProsthophileHappy.stages[0].description</path>
+        <trans>Olen modernin teknologian tulos! Voin tehdä kaiken paremmin!</trans>
+    </rep>
+    
+    <rep>
+        <path>ProsthophobeUnhappy.stages[0].label</path>
+        <trans>bioninen ruumiinosa</trans>
+    </rep>
+    <rep>
+        <path>ProsthophobeUnhappy.stages[0].description</path>
+        <trans>He tekivät minusta teknologisen iljetyksen... Jos he vain olisivat antaneet minulle vaihtoehdon...</trans>
+    </rep>
+    
+    <rep>
+        <path>BrawlerUnhappy.stages[0].label</path>
+        <trans>painijalla on etätaisteluase</trans>
+    </rep>
+    <rep>
+        <path>BrawlerUnhappy.stages[0].description</path>
+        <trans>Hyh! Vihaan etäältä taisetemista. Haluan päästä lähelle!</trans>
+    </rep>
+    
+    <rep>
+        <path>ClothedNudist.stages[0].label</path>
+        <trans>rajoittavat vaatteet</trans>
+    </rep>
+    <rep>
+        <path>ClothedNudist.stages[0].description</path>
+        <trans>Olen nudisti mutta minun täytyy pitää tätä vaatekertaa. Se ei ole sietämätöntä - mutta tunnen silti itseni rajoittuneeksi ja epämukavaksi.</trans>
+    </rep>
+    
+    <rep>
+        <path>HappyNude.stages[0].label</path>
+        <trans>onnellisesti alaston</trans>
+    </rep>
+    <rep>
+        <path>HappyNude.stages[0].description</path>
+        <trans>Olen nakuna ja pidän siitä! Tunnen itseni niin vapaaksi ja rajoittamattomaksi ja yhdteydessä ympäristööni!</trans>
+    </rep>
+    
+</LanguageData>

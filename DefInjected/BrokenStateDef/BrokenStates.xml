@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Major breaks-->
+    
+    <Berserk.label>raivopäinen</Berserk.label>
+    <Berserk.beginLetterLabel>raivopäisyys</Berserk.beginLetterLabel>
+    <Berserk.beginLetter>{0} tuli hulluksi!</Berserk.beginLetter>
+    <Berserk.recoveryMessage>Henkilön {0} raivopäisyys on loppunut.</Berserk.recoveryMessage>
+    <Berserk.inspectLine>Murtunut: Raivopäinen</Berserk.inspectLine>
+
+    <!-- Minor breaks-->
+    
+    <DazedWander.label>hämmentynyt haahuilu</DazedWander.label>
+    <DazedWander.beginLetterLabel>hämmennys</DazedWander.beginLetterLabel>
+    <DazedWander.beginLetter>{0} on murtunut ja haahuileee hämmentyneenä ympäriinsä.</DazedWander.beginLetter>
+    <DazedWander.recoveryMessage>{0} ei ole enää hämmentynyt.</DazedWander.recoveryMessage>
+    <DazedWander.inspectLine>Murtunut: Haahuilee hämmentyneenä</DazedWander.inspectLine>
+    
+    <BingingAlcohol.label>ryyppyputki</BingingAlcohol.label>
+    <BingingAlcohol.beginLetterLabel>ryyppyputki</BingingAlcohol.beginLetterLabel>
+    <BingingAlcohol.beginLetter>{0} on ryyppyputkella.</BingingAlcohol.beginLetter>
+    <BingingAlcohol.recoveryMessage>{0} ei ole enää ryyppyputkella.</BingingAlcohol.recoveryMessage>
+    <BingingAlcohol.inspectLine>Murtunut: Ryyppyputkella</BingingAlcohol.inspectLine>
+    
+    <!-- Special breaks-->
+    
+    <PanicFlee.label>pakokauhu</PanicFlee.label>
+    <PanicFlee.beginLetterLabel>paniikki</PanicFlee.beginLetterLabel>
+    <PanicFlee.beginLetter>{0} pakenee paniikissa.</PanicFlee.beginLetter>
+    <PanicFlee.recoveryMessage>{0} ei enää pakene paniikissa.</PanicFlee.recoveryMessage>
+    <PanicFlee.inspectLine>Murtunut: Pakenee paniikissa</PanicFlee.inspectLine>
+    
+    <GiveUpExit.label>luovutus ja lähtö</GiveUpExit.label>
+    <GiveUpExit.beginLetterLabel>luovuttanut</GiveUpExit.beginLetterLabel>
+    <GiveUpExit.beginLetter>{0} on luovuttanut ja on jättämässä yhdyskunnan.</GiveUpExit.beginLetter>
+    <GiveUpExit.recoveryMessage>{0} on muuttanut mieltään ja on tulossa takaisin yhdyskuntaan.</GiveUpExit.recoveryMessage>
+    <GiveUpExit.inspectLine>Murtunut: Luovuttanut ja lähdössä</GiveUpExit.inspectLine>
+    
+</LanguageData>

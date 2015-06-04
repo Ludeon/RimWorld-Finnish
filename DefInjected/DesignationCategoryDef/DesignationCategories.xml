@@ -28,8 +28,8 @@
     <Floors.label>lattiat</Floors.label>
     <Floors.description>Lattianpäällysteet.</Floors.description>
     
-    <Decoration.label>koristeet</Decoration.label>
-    <Decoration.description>Kauniita esineitä yhdyskuntalaisten mielialan parantamiseen.</Decoration.description>
+    <Joy.label>huvi</Joy.label>
+    <Joy.description>Viihdyttäviä tai miellyttäviä esineitä yhdyskuntalaisten mielialan parantamiseen.</Joy.description>
     
     <Ship.label>avaruusalus</Ship.label>
     <Ship.description>Teidän pakoaluksenne komponentit.</Ship.description>

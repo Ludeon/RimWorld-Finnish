@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <MeleeWeapon_DamageAmount.label>lähitaistelun vahinko</MeleeWeapon_DamageAmount.label>
+    <MeleeWeapon_DamageAmount.description>Iskua kohden tehty vahinko lähitaistelussa.</MeleeWeapon_DamageAmount.description>
+    
+    <MeleeWeapon_Cooldown.label>lähitaistelun jäähtymisaika</MeleeWeapon_Cooldown.label>
+    <MeleeWeapon_Cooldown.description>Miten kauan lyönnistä palautuminen vie tällä lähitaisteluaseella.</MeleeWeapon_Cooldown.description>
+    
+    <!-- Damage multipliers should be stats on stuffs only-->
+    
     <MeleeWeapon_SharpDamageMultiplier.label>terävän lähitaisteluvahingon kerroin</MeleeWeapon_SharpDamageMultiplier.label>
     <MeleeWeapon_SharpDamageMultiplier.description>Kerroin terävien hyökkäysten, kuten leikkaamisen tai pistämisen, vahinkoon.</MeleeWeapon_SharpDamageMultiplier.description>
     
     <MeleeWeapon_BluntDamageMultiplier.label>tylpän lähitaisteluvahingon kerroin</MeleeWeapon_BluntDamageMultiplier.label>
     <MeleeWeapon_BluntDamageMultiplier.description>Kerroin tylppien hyökkäysten vahinkoon.</MeleeWeapon_BluntDamageMultiplier.description>
-    
-    <MeleeWeapon_Agility.label>lähitaistelu ketteryys</MeleeWeapon_Agility.label>
-    <MeleeWeapon_Agility.description>Kerroin käsittelynopeuteen lähitaistelussa.</MeleeWeapon_Agility.description>
     
 </LanguageData>

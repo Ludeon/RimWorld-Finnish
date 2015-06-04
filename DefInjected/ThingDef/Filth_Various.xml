@@ -5,13 +5,15 @@
     
     <FilthSlime.label>limaa</FilthSlime.label>
     
+    <FilthVomit.label>oksennusta</FilthVomit.label>
+    
     <FilthDirt.label>multaa</FilthDirt.label>
     
     <FilthSand.label>hiekkaa</FilthSand.label>
     
     <RockRubble.label>kiviröykkiö</RockRubble.label>
     
-    <SlagRubble.label>metallikuonaa</SlagRubble.label>
+    <BuildingRubble.label>rakennuksen jäänteet</BuildingRubble.label>
     
     <SandbagRubble.label>hajonneita hiekkasäkkejä</SandbagRubble.label>
     

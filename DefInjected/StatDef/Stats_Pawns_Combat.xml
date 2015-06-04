@@ -10,7 +10,4 @@
     <AimingDelayFactor.label>tähtäysaika</AimingDelayFactor.label>
     <AimingDelayFactor.description>Miten kauan ampumiseen kuluu aikaa kohteeseen lukittumisen jälkeen.</AimingDelayFactor.description>
     
-    <MeleeHitChanceFactor.label>lähitaistelun osumatarkkuuden kerroin</MeleeHitChanceFactor.label>
-    <MeleeHitChanceFactor.description>Negatiiviset arvot pienentävät osumatarkkuutta ja positiiviset arvot lisäävät sitä.</MeleeHitChanceFactor.description>
-    
 </LanguageData>

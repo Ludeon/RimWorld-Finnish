@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <!-- Artistic recipes - speed not affected by skill.-->
+    
+    <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
+    <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
+    
+    <TailoringSpeed.label>räätälöintinopeus</TailoringSpeed.label>
+    <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
+    
+    <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
+    <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
+    
+    <!-- Production recipes - speed affected by skill.-->
+    
     <CookSpeed.label>keittonopeus</CookSpeed.label>
     <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
+    
+    <FoodPoisonChance.label>ruoan myrkyttämisen todennäköisyys</FoodPoisonChance.label>
+    <FoodPoisonChance.description>Todennäköisyys, että tämä henkilö myrkyttää kokkaamansa aterian epähuomiossa.</FoodPoisonChance.description>
+    
+    <BrewingSpeed.label>alkoholin valmistusnopeus</BrewingSpeed.label>
+    <BrewingSpeed.description>Nopeus jolla tämä henkilö panee olutta.</BrewingSpeed.description>
     
     <ButcheryFleshSpeed.label>teurastusnopeus</ButcheryFleshSpeed.label>
     <ButcheryFleshSpeed.description>Nopeus, jolla tämä henkilö teurastaa tuoreita olioita.</ButcheryFleshSpeed.description>
@@ -19,19 +38,7 @@
     <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
     <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
     
-    <StonecuttingEfficiency.label>kiven leikkauskyky</StonecuttingEfficiency.label>
-    <StonecuttingEfficiency.description>Kerroin lohkareesta tuotettujen harkkojen määrään.</StonecuttingEfficiency.description>
-    
-    <TailoringSpeed.label>suutarointinopeus</TailoringSpeed.label>
-    <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
-    
-    <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
-    <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
-    
     <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
     <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
-    
-    <SmeltingEfficiency.label>sulatuskyky</SmeltingEfficiency.label>
-    <SmeltingEfficiency.description>Kerroin sulattamalla tuotettujen materiaalien määrään.</SmeltingEfficiency.description>
     
 </LanguageData>

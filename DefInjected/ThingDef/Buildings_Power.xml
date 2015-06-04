@@ -3,6 +3,9 @@
 
 	<PowerConduit.label>sähkökaapeli</PowerConduit.label>
 	<PowerConduit.description>Nippu sähköjohtimia tehon siirtämiseen.</PowerConduit.description>
+    
+    <PowerSwitch.label>virrankatkaisin</PowerSwitch.label>
+    <PowerSwitch.description>Kytkee virran päälle ja pois.</PowerSwitch.description>
 
 	<SolarGenerator.label>aurinkopaneeli</SolarGenerator.label>
 	<SolarGenerator.description>Tuottaa sähköä auringon valosta. Ei toimi pimeässä.</SolarGenerator.description>

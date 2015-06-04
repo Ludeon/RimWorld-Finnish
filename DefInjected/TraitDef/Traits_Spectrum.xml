@@ -25,7 +25,31 @@
 		<path>SpeedOffset.degreeDatas[2].description</path>
 		<trans>NAME liikkuu aina kiireellä - niin suurella että muut jäävät usein jälkeen.</trans>
 	</rep>
-
+    
+    <rep>
+        <path>DrugDesire.degreeDatas[0].label</path>
+        <trans>huumausaineiden lumoama</trans>
+    </rep>
+    <rep>
+        <path>DrugDesire.degreeDatas[0].description</path>
+        <trans>Henkilöllä NAME on voimakas kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</trans>
+    </rep>
+    <rep>
+        <path>DrugDesire.degreeDatas[1].label</path>
+        <trans>kiinnostus huumausaineisiin</trans>
+    </rep>
+    <rep>
+        <path>DrugDesire.degreeDatas[1].description</path>
+        <trans>Henkilöllä NAME on epätavallinen kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</trans>
+    </rep>
+    <rep>
+        <path>DrugDesire.degreeDatas[2].label</path>
+        <trans>absolutisti</trans>
+    </rep>
+    <rep>
+        <path>DrugDesire.degreeDatas[2].description</path>
+        <trans>NAME kammoksuu huumausaineita ja välttää alkoholia ja huumeita.</trans>
+    </rep>
 
 	<rep>
 		<path>NaturalMood.degreeDatas[0].label</path>
@@ -175,5 +199,38 @@
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
 		<trans>NAME toimii psyykkisesti eri taajuudella kuin muut. HECAP ei altistu ollenkaan psyykkisille ilmiöille.</trans>
 	</rep>
+    
+    <rep>
+        <path>TemperaturePreference.degreeDatas[0].label</path>
+        <trans>kylmänrakastaja</trans>
+    </rep>
+    <rep>
+        <path>TemperaturePreference.degreeDatas[0].description</path>
+        <trans>Henkilön NAME ruumis tuottaa suuret määrät lämpöä. Hänellä on mukava olla lämpötiloissa jotka saisivat kenen tahansa muun värisemäään, mutta HE ei pidä kuumasta.</trans>
+    </rep>
+    <rep>
+        <path>TemperaturePreference.degreeDatas[1].label</path>
+        <trans>kylmää kestävä</trans>
+    </rep>
+    <rep>
+        <path>TemperaturePreference.degreeDatas[1].description</path>
+        <trans>NAME kestää viileitä lämpötiloja paremmin kuin useimmat muut.</trans>
+    </rep>
+    <rep>
+        <path>TemperaturePreference.degreeDatas[2].label</path>
+        <trans>lämpöä kestävä</trans>
+    </rep>
+    <rep>
+        <path>TemperaturePreference.degreeDatas[2].description</path>
+        <trans>NAME kestää kuumia lämpötiloja paremmin kuin useimmat muut.</trans>
+    </rep>
+    <rep>
+        <path>TemperaturePreference.degreeDatas[3].label</path>
+        <trans>kuumanrakastaja</trans>
+    </rep>
+    <rep>
+        <path>TemperaturePreference.degreeDatas[3].description</path>
+        <trans>NAME rakastaa kuumaa säätä - mutta HE ei kestä kylmää kovin hyvin.</trans>
+    </rep>
 
 </LanguageData>

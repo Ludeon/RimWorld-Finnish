@@ -13,9 +13,6 @@
     <Grave.label>hauta</Grave.label>
     <Grave.description>Aseta kuolleet hautoihin antaaksesi heille arvollisen viimeisen leposijan.</Grave.description>
     
-    <FertilizerPump.label>lannoitepumppu</FertilizerPump.label>
-    <FertilizerPump.description>Levittää hitaasti ympärilleen kasvatuskelpoisen alueen.</FertilizerPump.description>
-    
     <!-- Cryptosleep casket -->
     
     <CryptosleepCasket.label>salauniarkku</CryptosleepCasket.label>

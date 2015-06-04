@@ -13,4 +13,8 @@
     <SmeltWeapon.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen aseista.</SmeltWeapon.description>
     <SmeltWeapon.jobString>Sulattaa metallia aseesta.</SmeltWeapon.jobString>
     
+    <MakeArtilleryShell.label>tee tykin kranaatti</MakeArtilleryShell.label>
+    <MakeArtilleryShell.description>Valmistaa kranaatin tykeille.</MakeArtilleryShell.description>
+    <MakeArtilleryShell.jobString>Tekee tykin kranaattia.</MakeArtilleryShell.jobString>
+    
 </LanguageData>

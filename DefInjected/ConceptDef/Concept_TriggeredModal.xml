@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Special concepts with modal dialogs -->
+    
+    <rep>
+        <path>TradeGoodsMustBeNearBeacon.helpTexts[0]</path>
+        <trans>Lähettääksesi tavaroita ja hopeaa kiertoradan vaihtokauppiaille sinun täytyy rakentaa KIERTORATAVAIHTOKAUPAN MAJAKKA ja asettaa tavarat varastoalueelle sen lähelle.</trans>
+    </rep>
+    
+    <rep>
+        <path>ArrestingCreatesEnemies.helpTexts[0]</path>
+        <trans>Varoitus: Henkilö jota yrität pidättää ei välttämättä antaudu taistelutta.\n\nJos pidätät yhdyskuntaan kuulumattoman henkilön heidän koko ryhmästänsä tulee vihollisesi.</trans>
+    </rep>
+    
+    <rep>
+        <path>SwitchFlickingDesignation.helpTexts[0]</path>
+        <trans>Huomaa: Tämä vain merkitsee, että yhdyskuntalaisen tulee kääntää kytkin.\n\nMitään ei tapahdu ennen kuin yhdyskuntalainen (jolla on Kytkijä-työ) tulee ja kääntää kytkimen käsin.</trans>
+    </rep>
+    
+    
+</LanguageData>

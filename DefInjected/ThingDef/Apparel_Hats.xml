@@ -12,7 +12,11 @@
     
     <Apparel_KevlarHelmet.label>kevlar-kypärä</Apparel_KevlarHelmet.label>
     <Apparel_KevlarHelmet.description>Kevyt taistelukypärä</Apparel_KevlarHelmet.description>
+
     <Apparel_MilitaryHelmet.label>sotilaskypärä</Apparel_MilitaryHelmet.label>
-    <Apparel_MilitaryHelmet.description>Vanhan näköinen ja raskas, mutta erittäin hyödyllinen vihollisen hyökkäyksen aikana. Käytetään useimmiten suojaamaan hitailta ammuksilta.</Apparel_MilitaryHelmet.description>
+    <Apparel_MilitaryHelmet.description>Vanhan näköinen ja painava mutta tehokas. Suojaa hitaita ammuksia, sirpaleita, putoavia kappaleita ja päähän kohdistuvia viiltoja vastaan.</Apparel_MilitaryHelmet.description>
+    
+    <Apparel_PsychicFoilHelmet.label>psykofoliokypärä</Apparel_PsychicFoilHelmet.label>
+    <Apparel_PsychicFoilHelmet.description>Ohut kypärä jossa on tarkasti viritettyjä kalvoja psyykkisiä säteitä imevää foliota. Vähentää psyykkisten tapahtumien vaikuttavuutta.</Apparel_PsychicFoilHelmet.description>
     
 </LanguageData>

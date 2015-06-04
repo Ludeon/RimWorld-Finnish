@@ -32,7 +32,15 @@
     <CleanFilth.verb>siivota</CleanFilth.verb>
     <CleanFilth.gerund>siivoaminen</CleanFilth.gerund>
     
+    <!-- =========== Flick ============-->
+    
+    <Flick.verb>kääntää kytkintä</Flick.verb>
+    <Flick.gerund>kytkimen kääntäminen</Flick.gerund>
+    
     <!-- ============= Hauling ============= -->
+    
+    <DoBillsCremate.verb>polttohaudata</DoBillsCremate.verb>
+    <DoBillsCremate.gerund>polttohautaaminen kohteessa</DoBillsCremate.gerund>
     
     <HaulGeneral.verb>siirtää</HaulGeneral.verb>
     <HaulGeneral.gerund>siirtäminen</HaulGeneral.gerund>
@@ -58,14 +66,17 @@
     
     <!-- ============= Doctor ============= -->
     
+    <DoctorTreatEmergency.verb>parantaa</DoctorTreatEmergency.verb>
+    <DoctorTreatEmergency.gerund>parantaminen</DoctorTreatEmergency.gerund>
+    
+    <DoctorRescue.verb>pelastaa</DoctorRescue.verb>
+    <DoctorRescue.gerund>pelastaminen</DoctorRescue.gerund>
+    
+    <DoctorTreat.verb>parantaa</DoctorTreat.verb>
+    <DoctorTreat.gerund>parantaminen</DoctorTreat.gerund>
+    
     <DoctorFeed.verb>ruokkia</DoctorFeed.verb>
     <DoctorFeed.gerund>ruokkiminen</DoctorFeed.gerund>
-    
-    <DoctorEmergencyHeal.verb>parantaa</DoctorEmergencyHeal.verb>
-    <DoctorEmergencyHeal.gerund>parantaminen</DoctorEmergencyHeal.gerund>
-    
-    <DoctorHeal.verb>parantaa</DoctorHeal.verb>
-    <DoctorHeal.gerund>parantaminen</DoctorHeal.gerund>
     
     <TakeToBedToOperate.verb>ottaa operointiin</TakeToBedToOperate.verb>
     <TakeToBedToOperate.gerund>operointiin ottaminen</TakeToBedToOperate.gerund>
@@ -98,6 +109,12 @@
     <DoBillsCook.verb>kokata</DoBillsCook.verb>
     <DoBillsCook.gerund>kokkaaminen</DoBillsCook.gerund>
     
+    <DoBillsCookCampfire.verb>kokata</DoBillsCookCampfire.verb>
+    <DoBillsCookCampfire.gerund>kokkaaminen</DoBillsCookCampfire.gerund>
+    
+    <DoBillsBrew.verb>valmistaa olutta</DoBillsBrew.verb>
+    <DoBillsBrew.gerund>oluen valmistaminen</DoBillsBrew.gerund>
+    
     <DoBillsButcherFlesh.verb>teurastaa</DoBillsButcherFlesh.verb>
     <DoBillsButcherFlesh.gerund>teurastaminen</DoBillsButcherFlesh.gerund>
     
@@ -112,12 +129,9 @@
     <DoBillsSculpt.verb>veistää</DoBillsSculpt.verb>
     <DoBillsSculpt.gerund>veistäminen</DoBillsSculpt.gerund>
     
-    <!-- ============= Crafting ============= -->
+    <!-- ==================================== Crafting ====================================== -->
     
-    <DoBillsCremate.verb>polttaa</DoBillsCremate.verb>
-    <DoBillsCremate.gerund>polttaminen</DoBillsCremate.gerund>
-    
-    <!-- ============= Crafting - weapons ============= -->
+    <!-- ============= Crafting - Smithing ============= -->
     
     <FinishUnfinishedWeapons.verb>takoa</FinishUnfinishedWeapons.verb>
     <FinishUnfinishedWeapons.gerund>takominen</FinishUnfinishedWeapons.gerund>

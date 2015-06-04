@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Injuries -->
+    
+    <Misc.label>muu</Misc.label>
+    <rep>
+        <path>Misc.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Misc.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Misc.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Misc.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Misc.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Misc.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Misc.injuryProps.destroyedLabel</path>
+        <trans>Tuhoutunut</trans>
+    </rep>
+            
+    <Burn.label>palovamma</Burn.label>
+    <rep>
+        <path>Burn.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Burn.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Burn.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Burn.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Burn.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Burn.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Burn.comps[2].oldLabel</path>
+        <trans>paloarpi</trans>
+    </rep>
+    <rep>
+        <path>Burn.injuryProps.destroyedLabel</path>
+        <trans>Poispalanut</trans>
+    </rep>
+    <rep>
+        <path>Burn.injuryProps.destroyedOutLabel</path>
+        <trans>Ulospalanut</trans>
+    </rep>
+
+    <Crush.label>ruhje</Crush.label>
+    <rep>
+        <path>Crush.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Crush.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Crush.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Crush.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Crush.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Crush.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Crush.comps[2].oldLabel</path>
+        <trans>arpi</trans>
+    </rep>
+    <rep>
+        <path>Crush.injuryProps.destroyedLabel</path>
+        <trans>Murskattu</trans>
+    </rep>
+    
+    <Crack.label>haljennut</Crack.label>
+    <rep>
+        <path>Crack.comps[0].labelTreatedWell</path>
+        <trans>hoidettu</trans>
+    </rep>
+    <rep>
+        <path>Crack.comps[0].labelTreated</path>
+        <trans>huonosti hoidettu</trans>
+    </rep>
+    <rep>
+        <path>Crack.comps[0].labelTreatedWellInner</path>
+        <trans>hoidettu</trans>
+    </rep>
+    <rep>
+        <path>Crack.comps[0].labelTreatedInner</path>
+        <trans>huonosti hoidettu</trans>
+    </rep>
+    <rep>
+        <path>Crack.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Crack.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Crack.injuryProps.destroyedLabel</path>
+        <trans>Pirstaloitunut</trans>
+    </rep>
+    
+    <Cut.label>viilto</Cut.label>
+    <rep>
+        <path>Cut.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Cut.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Cut.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Cut.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Cut.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Cut.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Cut.comps[2].oldLabel</path>
+        <trans>viiltoarpi</trans>
+    </rep>
+    <rep>
+        <path>Cut.injuryProps.destroyedLabel</path>
+        <trans>Poisleikattu</trans>
+    </rep>
+    <rep>
+        <path>Cut.injuryProps.destroyedOutLabel</path>
+        <trans>Ulosleikattu</trans>
+    </rep>
+    
+    <SurgicalCut.label>kirurginen haava</SurgicalCut.label>
+    <rep>
+        <path>SurgicalCut.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>SurgicalCut.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>SurgicalCut.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>SurgicalCut.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>SurgicalCut.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>SurgicalCut.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>SurgicalCut.comps[1].oldLabel</path>
+        <trans>viiltoarpi</trans>
+    </rep>
+    
+    <Scratch.label>naarmu</Scratch.label>
+    <rep>
+        <path>Scratch.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Scratch.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Scratch.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Scratch.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Scratch.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Scratch.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Scratch.comps[2].oldLabel</path>
+        <trans>scratch arpi</trans>
+    </rep>
+    <rep>
+        <path>Scratch.injuryProps.destroyedLabel</path>
+        <trans>Poisrevitty</trans>
+    </rep>
+    <rep>
+        <path>Scratch.injuryProps.destroyedOutLabel</path>
+        <trans>Ulosrevitty</trans>
+    </rep>
+    
+    <Bite.label>purema</Bite.label>
+    <rep>
+        <path>Bite.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Bite.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Bite.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Bite.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Bite.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Bite.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Bite.comps[2].oldLabel</path>
+        <trans>purema-arpi</trans>
+    </rep>
+    <rep>
+        <path>Bite.injuryProps.destroyedLabel</path>
+        <trans>Poispurtu</trans>
+    </rep>
+    <rep>
+        <path>Bite.injuryProps.destroyedOutLabel</path>
+        <trans>Ulospurtu</trans>
+    </rep>
+    
+    <Stab.label>pisto</Stab.label>
+    <rep>
+        <path>Stab.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Stab.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Stab.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Stab.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Stab.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Stab.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Stab.comps[2].oldLabel</path>
+        <trans>pistoarpi</trans>
+    </rep>
+    <rep>
+        <path>Stab.injuryProps.destroyedLabel</path>
+        <trans>Poisleikattu</trans>
+    </rep>
+    <rep>
+        <path>Stab.injuryProps.destroyedOutLabel</path>
+        <trans>Ulosleikattu</trans>
+    </rep>
+    
+    <Gunshot.label>ampumahaava</Gunshot.label>
+    <rep>
+        <path>Gunshot.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.comps[2].oldLabel</path>
+        <trans>ampuma-arpi</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.injuryProps.destroyedLabel</path>
+        <trans>Poisammutttu</trans>
+    </rep>
+    <rep>
+        <path>Gunshot.injuryProps.destroyedOutLabel</path>
+        <trans>Ulosammuttu</trans>
+    </rep>
+    
+    <Shredded.label>revitty</Shredded.label>
+    <rep>
+        <path>Shredded.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Shredded.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Shredded.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Shredded.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Shredded.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Shredded.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Shredded.comps[2].oldLabel</path>
+        <trans>arpi</trans>
+    </rep>
+    <rep>
+        <path>Shredded.injuryProps.destroyedLabel</path>
+        <trans>Poisrevitty</trans>
+    </rep>
+    <rep>
+        <path>Shredded.injuryProps.destroyedOutLabel</path>
+        <trans>Ulosrevitty</trans>
+    </rep>
+    
+    <Bruise.label>ruhje</Bruise.label>
+    <rep>
+        <path>Bruise.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Bruise.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Bruise.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Bruise.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Bruise.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Bruise.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Bruise.injuryProps.destroyedLabel</path>
+        <trans>Tuhoutunut</trans>
+    </rep>
+
+    <Frostbite.label>paleltuma</Frostbite.label>
+    <rep>
+        <path>Frostbite.comps[0].labelTreatedWell</path>
+        <trans>sidottu</trans>
+    </rep>
+    <rep>
+        <path>Frostbite.comps[0].labelTreated</path>
+        <trans>huonosti sidottu</trans>
+    </rep>
+    <rep>
+        <path>Frostbite.comps[0].labelTreatedWellInner</path>
+        <trans>ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Frostbite.comps[0].labelTreatedInner</path>
+        <trans>huonosti ommeltu</trans>
+    </rep>
+    <rep>
+        <path>Frostbite.comps[0].labelSolidTreatedWell</path>
+        <trans>asetettu</trans>
+    </rep>
+    <rep>
+        <path>Frostbite.comps[0].labelSolidTreated</path>
+        <trans>huonosti asetettu</trans>
+    </rep>
+    <rep>
+        <path>Frostbite.comps[2].oldLabel</path>
+        <trans>Paleltuma-arpi</trans>
+    </rep>
+    <rep>
+        <path>Frostbite.injuryProps.destroyedLabel</path>
+        <trans>Paleltuman tuhoama</trans>
+    </rep>
+    
+    <!-- Missing body part -->
+    
+    <MissingBodyPart.label>puuttuva ruumiinosa</MissingBodyPart.label>
+    
+</LanguageData>

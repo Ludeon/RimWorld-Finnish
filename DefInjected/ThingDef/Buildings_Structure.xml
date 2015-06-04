@@ -14,7 +14,4 @@
     <Wall.label>seinä</Wall.label>
     <Wall.description>Läpäisemätön seinä. Kykenee kannattelemaan kattoa.</Wall.description>
     
-    <WallConduit.label>kaapeloitu seinä</WallConduit.label>
-    <WallConduit.description>Seinä sisäänrakennetulla sähkökaapelilla.</WallConduit.description>
-    
 </LanguageData>

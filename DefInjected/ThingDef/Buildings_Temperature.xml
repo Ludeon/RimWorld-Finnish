@@ -8,6 +8,9 @@
     <Heater.description>Sähkölaite, joka muuttaa sähköä lämmöksi. Se osaa automaattisesti kytkeä itsensä päälle ja pois saavuttaakseen tavoitelämpötilan.</Heater.description>
     
     <Cooler.label>jäähdytin</Cooler.label>
-    <Cooler.description>Sähkölaite, joka sopii seinään ja työntää huoneeseen kylmää ilmaa. Sen poistoportti tuottaa suuren määrän lämpöä. Tätä voidaan käyttää huoneiden viilentämiseen kesällä tai pakastehuoneen. </Cooler.description>
+    <Cooler.description>Sähkölaite, joka sopii seinään ja työntää huoneeseen kylmää ilmaa. Sen poistoportti tuottaa suuren määrän lämpöä. Tätä voidaan käyttää huoneiden viilentämiseen kesällä tai pakastehuoneen.</Cooler.description>
+    
+    <Vent.label>ilmastointikanava</Vent.label>
+    <Vent.description>Yksinkertainen kanava kahden huoneen lämpötilan tasaamiseen ilman että niiden välillä kävellään.</Vent.description>
     
 </LanguageData>

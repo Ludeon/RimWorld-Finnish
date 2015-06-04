@@ -6,6 +6,12 @@
     <PlantPotato.label>perunakasvi</PlantPotato.label>
     <PlantPotato.description>Yksinkertainen erittäin ravitseva mukulakasvi. Kasvaa hyvin suhteellisen köyhässä maaperässä.</PlantPotato.description>
     
+    <PlantCorn.label>maissikasvi</PlantCorn.label>
+    <PlantCorn.description>Suuri heinäkasvi joka tuottaa herkullisia keltaisia siemeniä sisältäviä tähkiä. Tarvitsee suhteellisen paljon aikaa kasvamiseen mutta tuottaa paljon ruokaa, joka kestää kauan pilaantumatta ja voidaan syödä raakana. Tarvitsee hedelmällistä maata kasvaakseen hyvin.</PlantCorn.description>
+    
+    <PlantRice.label>riisikasvi</PlantRice.label>
+    <PlantRice.description>Lyhyt heinäkasvi joka kukoistaa hedelmäällisessä maassa ja tuottaa ruokaa nopeasti mutta ei ole hyvää raakana.</PlantRice.description>
+    
     <PlantStrawberry.label>mansikkakasvi</PlantStrawberry.label>
     <PlantStrawberry.description>Hauras mutta maukas hedelmä. Herkullienn jopa raakana.</PlantStrawberry.description>
     
@@ -17,6 +23,9 @@
     
     <PlantXerigium.label>xerigium</PlantXerigium.label>
     <PlantXerigium.description>Uudisasukkaat ovat jalostaneet tämän kasvin vuosisatojen saatossa. Heimolaiset kutsuvat sitä myös joskus &quot;parantajankädeksi&quot; - se on saanut tämän lempinimen viiden lääketieteellisen hyveensä ansiosta.</PlantXerigium.description>
+    
+    <PlantHops.label>humalakasvi</PlantHops.label>
+    <PlantHops.description>Kukkiva kasvi joka tuottaa humalaa ja on tärkeä ainesosa oluessa.</PlantHops.description>
     
     <!--=========================== Decorative ==============================-->
     

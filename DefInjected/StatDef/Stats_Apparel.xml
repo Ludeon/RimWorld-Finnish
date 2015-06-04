@@ -13,4 +13,16 @@
     <ArmorRating_Electric.label>Suoja - Sähköinen</ArmorRating_Electric.label>
     <ArmorRating_Electric.description>Todennäköisyys estää sähkövahinkoa esimerkiksi sähkömagneettisista pulsseista (EMP).</ArmorRating_Electric.description>
     
+    <Insulation_Cold.label>Eristys - Kylmä</Insulation_Cold.label>
+    <Insulation_Cold.description>Miten paljon tämä vaate muuttaa käyttäjänsä matalinta mukavaa lämpötilaa kun käytössä.</Insulation_Cold.description>
+    
+    <Insulation_Heat.label>Eristys - Lämpö</Insulation_Heat.label>
+    <Insulation_Heat.description>Miten paljon tämä vaate muuttaa käyttäjänsä korkeinta mukavaa lämpötilaa kun käytössä.</Insulation_Heat.description>
+    
+    <PersonalShieldEnergyMax.label>Suojakilven maksimienergia</PersonalShieldEnergyMax.label>
+    <PersonalShieldEnergyMax.description>Maksimienergia joka henkilökohtaisessa suojakilvessä voi olla kerralla. Enemmän energiaa voi imeä enemmän vahinkoa.</PersonalShieldEnergyMax.description>
+    
+    <PersonalShieldRechargeRate.label>Suojakilven latausnopeus</PersonalShieldRechargeRate.label>
+    <PersonalShieldRechargeRate.description>Nopeus jolla suojakilpi kerää energiaa kunhan se ei ole rikki.</PersonalShieldRechargeRate.description>
+    
 </LanguageData>

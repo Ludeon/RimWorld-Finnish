@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Repair.label>korjaa</Repair.label>
+    
+    <HealInjury.label>hoidetaan paikallista vammaa</HealInjury.label>
+    
+    <HealGlobal.label>hoidetaan kokovartalovammaa</HealGlobal.label>
+    
+    <RestoreBodyPart.label>korvataan ruumiinosaa</RestoreBodyPart.label>
+    
+</LanguageData>
