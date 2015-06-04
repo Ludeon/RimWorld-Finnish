@@ -1,0 +1,17 @@
+﻿yhteisö
+//crew
+//group
+//company
+joukkue
+//pack
+//army
+//party
+//band
+//rig
+//organization
+//lineup
+yksikkö
+ryhmittymä
+jengi
+//outfit
+//partners

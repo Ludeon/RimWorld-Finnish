@@ -1,0 +1,10 @@
+﻿
+
+punainen
+musta
+harmaa
+tuhka
+
+tumma
+varjo
+yöntumma

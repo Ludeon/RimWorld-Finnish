@@ -1,0 +1,15 @@
+﻿kylä
+kylä
+kylä
+kaupunki
+kaupunki
+kaupunki
+//township
+//borough
+//hamlet
+//rest stop
+//municipality
+//district
+//smalltown
+//community
+suurkaupunki
