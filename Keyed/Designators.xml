@@ -13,8 +13,8 @@
   <DesignatorUninstall>Poista</DesignatorUninstall>
   <DesignatorUninstallDesc>Poistaa tämän asetelman jotta sen voi siirtää, myydä tai asentaa muualle.</DesignatorUninstallDesc>
 
-  <DesignatorHarvestFood>Korjaa sato</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>Merkitse kasvit joista ruokaa kerätään. Ruoka kerätään kasvista, mutta kasvi jätetään paikoilleen.</DesignatorHarvestFoodDesc>
+  <DesignatorHarvest>Korjaa sato</DesignatorHarvest>
+  <DesignatorHarvestDesc>Merkitse kasvit joista ruokaa kerätään. Ruoka kerätään kasvista, mutta kasvi jätetään paikoilleen.</DesignatorHarvestDesc>
 
   <DesignatorHarvestWood>Kaada puita</DesignatorHarvestWood>
   <DesignatorHarvestWoodDesc>Merkitse puut jotka kaadetaan.</DesignatorHarvestWoodDesc>
