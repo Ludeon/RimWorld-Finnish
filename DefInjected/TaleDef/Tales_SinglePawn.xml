@@ -3,496 +3,496 @@
     
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group] </trans>
+    <trans>image->[pawn_nameFull] tulossa alas laskeutumiskapselissa [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[1]</path>
-    <trans>image->[pawn_nameFull] touching down in a drop pod [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] osumassa maahan laskeutumiskapselissa [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[2]</path>
-    <trans>image->[pawn_nameFull] striking earth in a drop pod [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] iskemässä maahan laskeutumiskapselilla [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[3]</path>
-    <trans>image->[pawn_nameFull] riding in a drop pod [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] ratsastamassa laskeutumispaselilla [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->in front of a [terrainfeature]</trans>
+    <trans>circumstance_phrase->takanaan [terrainfeature]</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->with incredible force</trans>
+    <trans>circumstance_phrase->uskomattoman suurella voimalla</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->in a plume of dust and rocks</trans>
+    <trans>circumstance_phrase->pöly- ja kivisuihkussa</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[7]</path>
-    <trans>circumstance_phrase->with retro-rockets firing dramatically</trans>
+    <trans>circumstance_phrase->hidastusrakettien palaessa dramaattisesti</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[8]</path>
-    <trans>circumstance_phrase->in a precision landing</trans>
+    <trans>circumstance_phrase->uskomattomalla tarkkuudella</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[9]</path>
-    <trans>desc_sentence->[pawn_pronoun] is concentrating intently on the controls.</trans>
+    <trans>desc_sentence->[pawn_pronoun] keskittyy päättäväisesti ohjaimiin.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[10]</path>
-    <trans>desc_sentence->[pawn_pronoun] has [pawn_possessive] eyes closed and looks afraid.</trans>
+    <trans>desc_sentence->[pawn_possessive] silmänsä ovat kiinni ja [pawn_pronoun] näyttää pelkäävän.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[11]</path>
-    <trans>desc_sentence->[pawn_pronoun] is unconscious, [pawn_possessive] tongue lolling out, drool dripping.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on tajuton ja [pawn_possessive] kielensä roikkuu ulkona kuolaa valuen.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->[pawn_pronoun] is smiling with grim joy.</trans>
+    <trans>desc_sentence->[pawn_pronoun] hymyilee julmasti.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[13]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems to have no idea what [pawn_pronoun] is doing.</trans>
+    <trans>desc_sentence->[pawn_pronoun] ei näytä tietävän yhtään mitä [pawn_pronoun] tekee.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[14]</path>
-    <trans>desc_sentence->[pawn_pronoun] is strapped in with [pawn_possessive] eyes closed, totally helpless.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on täysin avuttomana ja [pawn_possessive] silmänsä ovat kiinni.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[15]</path>
-    <trans>desc_sentence->There is a flame trail licking off the back of the pod.</trans>
+    <trans>desc_sentence->Tulenlieskan jälki nuolee kapselin takaosaa.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[16]</path>
-    <trans>desc_sentence->A nearby [animal] is looking up, startled.</trans>
+    <trans>desc_sentence->Lähellä oleva [animal] katsoo ylös säikähtäneenä.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[17]</path>
-    <trans>desc_sentence->A [animal] is fleeing the impact in fear.</trans>
+    <trans>desc_sentence->[animal] pakenee osumakohtaa pelokkaana.</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[18]</path>
-    <trans>desc_sentence->There is a [terrainfeature] in the background.</trans>
+    <trans>desc_sentence->Taustalla on [terrainfeature].</trans>
   </rep>
   <rep>
     <path>LandedInPod.rulePack.rulesStrings[19]</path>
-    <trans>desc_sentence->A [outlander] watches silently from afar.</trans>
+    <trans>desc_sentence->[outlander] katsoo vaiteliaana kaukaisuudesta.</trans>
   </rep>
     
   <rep>
     <path>Vomited.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] spewing vomit onto the ground [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] syöksemässä oksennusta maahan [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[1]</path>
-    <trans>image->[pawn_nameFull] looking disgusted while covered with dried vomit [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] näyttämässä vastenmieliseltä ja on kuivuneen oksennuksen peittämä [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[2]</path>
-    <trans>image->[pawn_nameFull] doubled over and retching onto the floor [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] kyyrisyneenä maahan yökkäillen [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[3]</path>
-    <trans>image->[pawn_nameFull] on [pawn_possessive] knees, vomiting on the floor [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] polvillaan oksentamassa lattialle [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->while looking pained</trans>
+    <trans>circumstance_phrase->kärsivä ilme kasvoillaan</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->with great shame</trans>
+    <trans>circumstance_phrase->suuressa häpeässä</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->as others look on</trans>
+    <trans>circumstance_phrase->samalla kun muut katsovat</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[7]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttä olevan täysin tiedoton siitä mitä [pawn_possessive] tapahtuu.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[8]</path>
-    <trans>desc_sentence->[pawn_possessive] face itself seems to be swelling.</trans>
+    <trans>desc_sentence->[pawn_possessive] kasvonsa näyttävät turvonneilta.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[9]</path>
-    <trans>desc_sentence->[pawn_pronoun] is nearly unconscious, [pawn_possessive] tongue lolling out, drool dripping.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on lähes tajuton ja [pawn_possessive] kielensä roikkuu ulkona kuolaa valuen.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[10]</path>
-    <trans>desc_sentence->[pawn_pronoun] is convulsing violently.</trans>
+    <trans>desc_sentence->[pawn_pronoun] kouristelee rajusti.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[11]</path>
-    <trans>desc_sentence->[pawn_pronoun] looks ashamed.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää häpeävän.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems to be trying to laugh, despite the circumstances.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää yrittävän nauraa olosuhteista huolimatta.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[13]</path>
-    <trans>desc_sentence->[pawn_pronoun] looks almost deflated, as though totally emptied by the intense vomiting.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää siltä kuin hän olisi täysin tyhjentynyt voimakkaan oksentelun jäljiltä.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[14]</path>
-    <trans>desc_sentence->[pawn_pronoun] is surrounded by an artistically rendered halo of filth.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on taiteellisesti kuvatun törkykehän ympäröimä.</trans>
   </rep>
   <rep>
     <path>Vomited.rulePack.rulesStrings[15]</path>
-    <trans>desc_sentence->A [animal] is eating from the trail of vomit in the background.</trans>
+    <trans>desc_sentence->[animal] syö oksennusvanasta taustalla.</trans>
   </rep>
     
   <rep>
     <path>Drunk.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] staggering around drunk [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] hoippumassa ympäriinsä juopuneena [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[1]</path>
-    <trans>image->[pawn_nameFull] tilting [pawn_possessive] head back and guzzling liquor [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] kallistamassa päätään taaksepäin viinaa ryypäten [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[2]</path>
-    <trans>image->[pawn_nameFull] greedily collecting bottles of liquor [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] keräämässä ahnaasti viinapulloja [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[3]</path>
-    <trans>image->[pawn_nameFull] drinking heavily [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] juomassa rankasti [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->oblivious to [pawn_possessive] surroundings</trans>
+    <trans>circumstance_phrase->tietämättömänä ympäristöstään</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->in a brooding stupor</trans>
+    <trans>circumstance_phrase->kytevässä tokkurassa</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->while questioning [pawn_possessive] own existence</trans>
+    <trans>circumstance_phrase->ja kyseenalaistamassa omaa olemassaoloaan</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[7]</path>
-    <trans>circumstance_phrase->with tears in [pawn_possessive] eyes</trans>
+    <trans>circumstance_phrase->kyyneleet [pawn_possessive] silmissään</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[8]</path>
-    <trans>circumstance_phrase->while chuckling madly</trans>
+    <trans>circumstance_phrase->ja hekottamassa hullusti</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[9]</path>
-    <trans>circumstance_phrase->while sobbing</trans>
+    <trans>circumstance_phrase->ja nyyhkyttämässä</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[10]</path>
-    <trans>circumstance_phrase->while looking pathetic</trans>
+    <trans>circumstance_phrase->säälittävältä näyttäen</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[11]</path>
-    <trans>circumstance_phrase->while glaring angrily at people around [pawn_objective]</trans>
+    <trans>circumstance_phrase->ympärillään olevia ihmisiä vihaisesti mulkoillen</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[12]</path>
-    <trans>circumstance_phrase->while leering at someone nearby</trans>
+    <trans>circumstance_phrase->ja mulkoilemassa jotain lähellä olevaa henkilöä</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[13]</path>
-    <trans>circumstance_phrase->while attempting to disrobe</trans>
+    <trans>circumstance_phrase->ja yrittämässä riisuuntua</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[14]</path>
-    <trans>circumstance_phrase->with a finger in [pawn_possessive] mouth</trans>
+    <trans>circumstance_phrase->sormi suussaan</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[15]</path>
-    <trans>circumstance_phrase->while holding back vomit</trans>
+    <trans>circumstance_phrase->ja oksennusta pidättelemässä</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[16]</path>
-    <trans>circumstance_phrase->without a care in the world</trans>
+    <trans>circumstance_phrase->täysin huoletta</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[17]</path>
-    <trans>circumstance_phrase->with a lustful glint in [pawn_possessive] eye</trans>
+    <trans>circumstance_phrase->himokas pilke silmäkulmassaan</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[18]</path>
-    <trans>circumstance_phrase->while reviewing the ghosts of [pawn_possessive] past</trans>
+    <trans>circumstance_phrase->ja menneisyyden haamujaan tutkimassa</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[19]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää olevan täysin tietämätön ympäristöstään.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[20]</path>
-    <trans>desc_sentence->[pawn_possessive] face itself seems to be swelling.</trans>
+    <trans>desc_sentence->[pawn_possessive] naamansa näyttää turvonneelta.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[21]</path>
-    <trans>desc_sentence->[pawn_pronoun] is nearly unconscious, [pawn_possessive] tongue lolling out, drool dripping.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on lähes tajuton ja [pawn_possessive] kielensä roikku ulkona kuolaa valuen.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[22]</path>
-    <trans>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää sekä onnelliselta että suruulliselta samaan aikaan.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[23]</path>
-    <trans>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</trans>
+    <trans>desc_sentence->[pawn_possessive] etumuksessaan on tahroja.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[24]</path>
-    <trans>desc_sentence->There is a trail of discarded beverage containers behind [pawn_objective].</trans>
+    <trans>desc_sentence->[pawn_possessive] takanaan on vana käytettyjä juomatölkkejä.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[25]</path>
-    <trans>desc_sentence->There is a white substance on [pawn_possessive] pants.</trans>
+    <trans>desc_sentence->[pawn_possessive] housuillaan on valkoista ainetta.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[26]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems to have lost a shoe.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää hukanneen kenkänsä.</trans>
   </rep>
   <rep>
     <path>Drunk.rulePack.rulesStrings[27]</path>
-    <trans>desc_sentence->[pawn_possessive] hair is totally mussed up.</trans>
+    <trans>desc_sentence->[pawn_possessive] hiuksensa ovat erittäin sotkuiset.</trans>
   </rep>
     
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] frantically beating out a fire attached to [pawn_possessive] body [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] lyömässä hätäisesti [pawn_possessive] kehossaan olevaa liekkiä [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[1]</path>
-    <trans>image->[pawn_nameFull] enveloped by flame [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] liekkien ympäröimänä [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[2]</path>
-    <trans>image->[pawn_nameFull] kneeling, hands over head, trying to extinguish flames on [pawn_possessive] body [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] polvillaan kädet pään takana yrittäen sammuttaa tulta [pawn_possessive] vartalollaan [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[3]</path>
-    <trans>image->[pawn_nameFull] rolling on the floor while burning [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] kierimässä maassa liekkien kourissa [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->while attempting to disrobe</trans>
+    <trans>circumstance_phrase->ja yrittämässä riisuuntua</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->while others look on</trans>
+    <trans>circumstance_phrase->samalla kun muut katsovat</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->while nearly naked</trans>
+    <trans>circumstance_phrase->lähes alastomana</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[7]</path>
-    <trans>circumstance_phrase->with focused intent</trans>
+    <trans>circumstance_phrase->keskittyneen näköisenä</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[8]</path>
-    <trans>desc_sentence->[pawn_possessive] flesh is visibly charring.</trans>
+    <trans>desc_sentence->[pawn_possessive] lihansa on hiiltynyt.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[9]</path>
-    <trans>desc_sentence->[pawn_possessive] eyes are wide with panic.</trans>
+    <trans>desc_sentence->[pawn_possessive] silmänsä ovat paniikin auki repimät.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[10]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems to be barely conscious; [pawn_possessive] eyes are lifeless.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää olevan juuri ja juuri tajuissaan; [pawn_possessive] silmänsä ovat elottomat.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[11]</path>
-    <trans>desc_sentence->[pawn_possessive] mouth is open as [pawn_pronoun] screams for help.</trans>
+    <trans>desc_sentence->[pawn_possessive] suunsa on auki ja [pawn_pronoun] huutaa apua.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->The flames are about to envelope his head.</trans>
+    <trans>desc_sentence->Liekit ovat ympäröimässä [pawn_possessive] päänsä.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[13]</path>
-    <trans>desc_sentence->A symbolic halo of fire surrounds his face.</trans>
+    <trans>desc_sentence->Symbolinen tulikehä ympäröi [pawn_possessive] kasvojaan.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[14]</path>
-    <trans>desc_sentence->[pawn_pronoun] is laughing maniacally.</trans>
+    <trans>desc_sentence->[pawn_pronoun] nauraa mielipuolisesti.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[15]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems to be losing [pawn_objective]self.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää olevan menettämässä itsensä.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[16]</path>
-    <trans>desc_sentence->A plume of smoke is rising off [pawn_objective].</trans>
+    <trans>desc_sentence->[pawn_pronoun] tupruttaa savua.</trans>
   </rep>
   <rep>
     <path>WasOnFire.rulePack.rulesStrings[17]</path>
-    <trans>desc_sentence->[pawn_pronoun] is rendered artistically in a corpse-like way.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on kuvattu taiteellisesti ruumismaiseen tyyliin.</trans>
   </rep>
     
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] flying into a berserk rage [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] raivoamassa hulluna [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[1]</path>
-    <trans>image->[pawn_nameFull] becoming madly, violently insane [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] tulemassa vihoissaan väkivaltaisen hulluksi [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[2]</path>
-    <trans>image->[pawn_nameFull] stumbling forward with a psychotic look on [pawn_possessive] face [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] kompuroimassa eteenpäin sekopäinen katse [pawn_possessive] kasvoillaan [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[3]</path>
-    <trans>circumstance_phrase->while attempting to disrobe</trans>
+    <trans>circumstance_phrase->ja yrittämässä riisuuntua</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->seemingly without reason</trans>
+    <trans>circumstance_phrase->näennäisesti ilman syytä</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->as others cower in fear</trans>
+    <trans>circumstance_phrase->samalla kun muut kyyristyvät peloissaan</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->as a friend flees</trans>
+    <trans>circumstance_phrase->samalla kun ystävä pakenee</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[7]</path>
-    <trans>circumstance_phrase->because of the stress</trans>
+    <trans>circumstance_phrase->rasituksesta johtuen</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[8]</path>
-    <trans>circumstance_phrase->as a last step</trans>
+    <trans>circumstance_phrase->viimeisenä tekonaan</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[9]</path>
-    <trans>desc_sentence->[pawn_pronoun] is shaking with ungovernable rage.</trans>
+    <trans>desc_sentence->[pawn_pronoun] kihisee hallitsematonta kiukkua.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[10]</path>
-    <trans>desc_sentence->[pawn_possessive] teeth are bared in a deadly snarl.</trans>
+    <trans>desc_sentence->[pawn_possessive] hampaansa ovat paljastettuina tappavassa irvistyksessä.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[11]</path>
-    <trans>desc_sentence->[pawn_possessive] eyes are dead pools of madness.</trans>
+    <trans>desc_sentence->[pawn_possessive] silmänsä ovat hulluuden täyttämät.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->Spittle is flying from [pawn_possessive] mouth as he screams with insane rage.</trans>
+    <trans>desc_sentence->Sylkeä lentää [pawn_possessive] suustaan samalla kun hän huutaa raivoissaan.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[13]</path>
-    <trans>desc_sentence->[pawn_pronoun] has lost part of [pawn_possessive] clothing.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on menettänyt palan [pawn_possessive] vaatteestaan.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[14]</path>
-    <trans>desc_sentence->[pawn_pronoun] is grimacing in misery.</trans>
+    <trans>desc_sentence->[pawn_pronoun] irvistää kärsimyksissään.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[15]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems smiling maniacally.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää hymyilevän sekopäisesti.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[16]</path>
-    <trans>desc_sentence->[pawn_pronoun] is depicted with the snarling face of a [animal].</trans>
+    <trans>desc_sentence->Hänet on kuvattu [animal]kasvoisena.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[17]</path>
-    <trans>desc_sentence->[animal]s symbolically surround [pawn_possessive] head.</trans>
+    <trans>desc_sentence->[animal]lauma ympäröi [pawn_possessive] päätään symbolisesti.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[18]</path>
-    <trans>desc_sentence->[pawn_pronoun] has a murderous glint in [pawn_possessive] eye.</trans>
+    <trans>desc_sentence->[pawn_possessive] silmäkulmassaan on murhamielinen pilke.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[19]</path>
-    <trans>desc_sentence->[pawn_possessive] entire body seems to be trembling with hatred.</trans>
+    <trans>desc_sentence->[pawn_possessive] koko ruumiinsa näyttää tärisevän vihasta.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[20]</path>
-    <trans>desc_sentence->[pawn_possessive] face is set in a look of twisted serenity.</trans>
+    <trans>desc_sentence->[pawn_possessive] kasvonsa on tehty kuvaamaan kieroutunutta seesteisyyttä.</trans>
   </rep>
   <rep>
     <path>MentalBreakBerserk.rulePack.rulesStrings[21]</path>
-    <trans>desc_sentence->A single tear rolls down [pawn_possessive] face.</trans>
+    <trans>desc_sentence->Yksittäinen kyynel vierii [pawn_possessive] poskellaan.</trans>
   </rep>
     
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] finally giving up under stress [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] antamassa lopulta periksi rasituksen alla [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[1]</path>
-    <trans>image->[pawn_nameFull] sobbing uncontrollably [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] nyyhkimässä hallitsemattomasti [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[2]</path>
-    <trans>image->[pawn_nameFull] stumbling around with a completely broken expression on [pawn_possessive] face [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] kompuroimassa ympäriinsä täysin murtunut ilme kasvoillaan [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[3]</path>
-    <trans>circumstance_phrase->while attempting to disrobe</trans>
+    <trans>circumstance_phrase->ja yrittämässä riisuuntua</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->seemingly without reason</trans>
+    <trans>circumstance_phrase->näennäisesti ilman syytä</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->as others offer sympathy</trans>
+    <trans>circumstance_phrase->muiden tarjotessa myötätuntoa</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->as a friend cries</trans>
+    <trans>circumstance_phrase->ystävän itkiessä</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[7]</path>
-    <trans>circumstance_phrase->because of the stress</trans>
+    <trans>circumstance_phrase->stressistä johtuen</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[8]</path>
-    <trans>circumstance_phrase->as a last step</trans>
+    <trans>circumstance_phrase->viimeisenä tekonaan</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[9]</path>
-    <trans>desc_sentence->[pawn_pronoun] has tears streaming down [pawn_possessive] face.</trans>
+    <trans>desc_sentence->Kyyneleet virtaavat [pawn_possessive] kasvoillaan.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[10]</path>
-    <trans>desc_sentence->[pawn_pronoun] is laughing in the depths of [pawn_possessive] depression.</trans>
+    <trans>desc_sentence->[pawn_pronoun] nauraa masennuksensa kourissa.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[11]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is looking upward, as if to ask for help from above.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] katsoo ylöspäin apua pyytäen.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->[pawn_pronoun] is tearing at [pawn_possessive] own clothes.</trans>
+    <trans>desc_sentence->[pawn_pronoun] repii [pawn_possessive] vaatteitaan.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[13]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää olevan täysin tietämätön ympäristöstään.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[14]</path>
-    <trans>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää sekä onnelliselta että suruulliselta samaan aikaan.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[15]</path>
-    <trans>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</trans>
+    <trans>desc_sentence->[pawn_possessive] etumuksessaan on tahroja.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[16]</path>
-    <trans>desc_sentence->[pawn_pronoun] seems to have lost a shoe.</trans>
+    <trans>desc_sentence->[pawn_pronoun] näyttää hukanneen kenkänsä.</trans>
   </rep>
   <rep>
     <path>MentalBreakGaveUp.rulePack.rulesStrings[17]</path>
-    <trans>desc_sentence->[pawn_possessive] hair is totally mussed up.</trans>
+    <trans>desc_sentence->[pawn_possessive] hiuksensa ovat erittäin sotkuiset.</trans>
   </rep>
     
 </LanguageData>

@@ -3,57 +3,57 @@
     
   <rep>
     <path>ArtSculpture.rulePack.rulesStrings[0]</path>
-    <trans>description->This [sculpture] [depicts] [image]</trans>
+    <trans>description->Tähän teokseen on [depiction] [image]</trans>
   </rep>
   <rep>
     <path>ArtSculpture.rulePack.rulesStrings[1]</path>
-    <trans>description->This [sculpture] bears a [depiction] of [image]</trans>
+    <trans>description->Tämä [sculpture] [depicts] kuvausta jossa on [image]</trans>
   </rep>
   <rep>
     <path>ArtSculpture.rulePack.rulesStrings[2]</path>
-    <trans>description->On this [sculpture] is a [depiction] of [image]</trans>
-  </rep>
+    <trans>description->Tämä on [sculpture] ja siihen on [depiction] [image]</trans>
+  </rep> -->
   <rep>
     <path>ArtSculpture.rulePack.rulesStrings[3]</path>
-    <trans>sculpture->sculpture</trans>
+    <trans>sculpture->veistos</trans>
   </rep>
   <rep>
     <path>ArtSculpture.rulePack.rulesStrings[4]</path>
-    <trans>sculpture->work</trans>
+    <trans>sculpture->työ</trans>
   </rep>
   <rep>
     <path>ArtSculpture.rulePack.rulesStrings[5]</path>
-    <trans>sculpture->piece</trans>
+    <trans>sculpture->taideteos</trans>
   </rep>
   <rep>
     <path>ArtSculpture.rulePack.rulesStrings[6]</path>
-    <trans>sculpture->carving</trans>
-  </rep>
+    <trans>sculpture->kaiverrus</trans>
+  </rep> 
     
   <rep>
     <path>ArtWeaponMelee.rulePack.rulesStrings[0]</path>
-    <trans>description->This weapon is engraved with a [depiction] of [image]</trans>
+    <trans>description->Tähän aseeseen on kaiverrettu [depiction] [image]</trans>
   </rep>
   <rep>
     <path>ArtWeaponMelee.rulePack.rulesStrings[1]</path>
-    <trans>description->An engraving on this weapon [depicts] [image]</trans>
+    <trans>description->Kaiverrus tässä aseessa [depicts] [image]</trans>
   </rep>
   <rep>
     <path>ArtWeaponMelee.rulePack.rulesStrings[2]</path>
-    <trans>description->description->This weapon bears a [depiction] of [image]</trans>
+    <trans>description->Tässä aseessa on [depiction] [image]</trans>
   </rep>
     
   <rep>
     <path>ArtWeaponGun.rulePack.rulesStrings[0]</path>
-    <trans>description->This weapon is engraved with a [depiction] of [image]</trans>
+    <trans>description->Tähän aseeseen on kaiverrettu [depiction] [image]</trans>
   </rep>
   <rep>
     <path>ArtWeaponGun.rulePack.rulesStrings[1]</path>
-    <trans>description->An engraving on this weapon [depicts] [image]</trans>
+    <trans>description->Kaiverrus tässä aseessa [depicts] [image]</trans>
   </rep>
   <rep>
     <path>ArtWeaponGun.rulePack.rulesStrings[2]</path>
-    <trans>description->description->This weapon bears a [depiction] of [image]</trans>
+    <trans>description->Tässä aseessa on [depiction] [image]</trans>
   </rep>
     
 </LanguageData>

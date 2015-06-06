@@ -3,7 +3,7 @@
     
   <rep>
     <path>NamerWeapon.rulePack.rulesStrings[0]</path>
-    <trans>name->[personname]'s [badassconcept]</trans>
+    <trans>name->Henkilön [personname] [badassconcept]</trans>
   </rep>
   <rep>
     <path>NamerWeapon.rulePack.rulesStrings[1]</path>
@@ -11,7 +11,7 @@
   </rep>
   <rep>
     <path>NamerWeapon.rulePack.rulesStrings[2]</path>
-    <trans>name->The [badassanimal]</trans>
+    <trans>name->[badassanimal]</trans>
   </rep>
   <rep>
     <path>NamerWeapon.rulePack.rulesStrings[3]</path>
@@ -36,19 +36,19 @@
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[1]</path>
-    <trans>name->[personname]'s [artname]</trans>
+    <trans>name->Henkilön [personname] [artname]</trans>
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[2]</path>
-    <trans>name->[artname] [trans] [personname]</trans>
+    <trans>name->Aiheen [concept] [artname]</trans>
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[3]</path>
-    <trans>name->[artname] [trans] [concept]</trans>
+    <trans>name->[concept][artname]</trans>
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[4]</path>
-    <trans>name->[concept] [trans] [personname]</trans>
+    <trans>name->Henkilön [personname] [concept]</trans>
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[5]</path>
@@ -64,11 +64,11 @@
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[8]</path>
-    <trans>name->[personname] [trans] [color]</trans>
-  </rep>
+    <trans>name->[color] [personname]</trans>
+  </rep> 
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[9]</path>
-    <trans>name->A [art_adjective] [concept]</trans>
+    <trans>name->[art_adjective] [concept]</trans>
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[10]</path>
@@ -76,15 +76,15 @@
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[11]</path>
-    <trans>name->[concept] No. [digit]</trans>
+    <trans>name->[concept] Nro. [digit]</trans>
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[12]</path>
-    <trans>name->[artname] No. [digit]</trans>
+    <trans>name->[artname] Nro. [digit]</trans>
   </rep>
   <rep>
     <path>NamerSculpture.rulePack.rulesStrings[13]</path>
-    <trans>name->[artname] No. [digit][digit]</trans>
+    <trans>name->[artname] Nro. [digit][digit]</trans>
   </rep>
     
 </LanguageData>

@@ -3,76 +3,76 @@
     
   <rep>
     <path>NamerFactionSpacer.rulePack.rulesStrings[0]</path>
-    <trans>name->Spacer</trans>
+    <trans>name->Avaruusmatkaajat</trans>
   </rep>
     
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[0]</path>
-    <trans>name->The [badassanimal]s</trans>
+    <trans>name->[badassanimal]lauma</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[1]</path>
-    <trans>name->The [badassanimal] Men</trans>
+    <trans>name->[badassanimal]miehet</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[2]</path>
-    <trans>name->The [badassanimal]s of [badassconcept]</trans>
+    <trans>name->[badassconcept][badassanimal]lauma</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[3]</path>
-    <trans>name->The [badassperson]s of [badassconcept]</trans>
+    <trans>name->[badassconcept][badassperson][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[4]</path>
-    <trans>name->The [badassperson]s</trans>
+    <trans>name->[badassperson][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[5]</path>
-    <trans>name->The [weapon] Men</trans>
+    <trans>name->[weapon]miehet</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[6]</path>
-    <trans>name->The [weapon]s</trans>
+    <trans>name->[weapon][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[7]</path>
-    <trans>name->The [weapon] [badassanimal]s</trans>
+    <trans>name->[weapon][badassanimal]lauma</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[8]</path>
-    <trans>name->The [badasscolor] [weapon]s</trans>
+    <trans>name->[badasscolor] [weapon][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[9]</path>
-    <trans>name->The [badasscolor] [badassanimal]s</trans>
+    <trans>name->[badasscolor] [badassanimal]lauma</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[10]</path>
-    <trans>name->The [badasscolor] [badassperson]s</trans>
+    <trans>name->[badasscolor] [badassperson][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[11]</path>
-    <trans>name->The [badassperson] [groupname]</trans>
+    <trans>name->[badassperson][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[12]</path>
-    <trans>name->The [badassadjective] [groupname]</trans>
+    <trans>name->[badassadjective] [groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[13]</path>
-    <trans>name->The [badassadjective] [badassanimal]s</trans>
+    <trans>name->[badassadjective] [badassanimal]lauma</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[14]</path>
-    <trans>name->The [badassadjective] [badassperson]s</trans>
+    <trans>name->[badassadjective] [badassperson][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[15]</path>
-    <trans>name->[weapon] [groupname]</trans>
+    <trans>name->[weapon][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[16]</path>
-    <trans>name->[badassconcept] [groupname]</trans>
+    <trans>name->[badassconcept][groupname]</trans>
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[17]</path>
@@ -80,7 +80,7 @@
   </rep>
   <rep>
     <path>NamerFactionPirate.rulePack.rulesStrings[18]</path>
-    <trans>name->[badassanimal]s [terrainfeature]</trans>
+    <trans>name->[badassanimal]lauma[terrainfeature]</trans>
   </rep>
     
   <rep>
@@ -90,19 +90,19 @@
     
   <rep>
     <path>NamerFactionOutlander.rulePack.rulesStrings[0]</path>
-    <trans>rule->[positiveconcept]'s [terrainfeature]</trans>
+    <trans>rule->[positiveconcept][terrainfeature]</trans>
   </rep>
   <rep>
     <path>NamerFactionOutlander.rulePack.rulesStrings[1]</path>
-    <trans>rule->[outlander]'s [terrainfeature]</trans>
+    <trans>rule->[outlander][terrainfeature]</trans>
   </rep>
   <rep>
     <path>NamerFactionOutlander.rulePack.rulesStrings[2]</path>
-    <trans>rule->[outlander]'s [community]</trans>
+    <trans>rule->[outlander][community]</trans>
   </rep>
   <rep>
     <path>NamerFactionOutlander.rulePack.rulesStrings[3]</path>
-    <trans>rule->[community]-at-the-[terrainfeature]</trans>
+    <trans>rule->[terrainfeature][community]</trans>
   </rep>
     
   <rep>
@@ -119,7 +119,7 @@
   </rep>
   <rep>
     <path>NamerFactionTribal.rulePack.rulesStrings[3]</path>
-    <trans>name->[tribalword] of [animal]</trans>
+    <trans>name->[animal]lauma</trans>
   </rep>
   <rep>
     <path>NamerFactionTribal.rulePack.rulesStrings[4]</path>
@@ -127,11 +127,11 @@
   </rep>
   <rep>
     <path>NamerFactionTribal.rulePack.rulesStrings[5]</path>
-    <trans>name->The [tribalword] of the [terrainfeature]</trans>
+    <trans>name->[terrainfeature][tribalword]</trans>
   </rep>
   <rep>
     <path>NamerFactionTribal.rulePack.rulesStrings[6]</path>
-    <trans>name->The [color] [terrainfeature] People</trans>
+    <trans>name->[color] [terrainfeature]</trans>
   </rep>
     
 </LanguageData>

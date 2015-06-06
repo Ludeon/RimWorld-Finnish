@@ -3,99 +3,99 @@
     
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group] </trans>
+    <trans>image->[pawn_nameFull] valmistamassa esinettä [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group] </trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[1]</path>
-    <trans>image->[pawn_nameFull] completing [pawn_possessive] work on [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group] </trans>
+    <trans>image->[pawn_nameFull] saamassa [pawn_possessive] valmiiksi esinettä [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group] </trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[2]</path>
-    <trans>image->[pawn_nameFull] working on [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] työskentelemässä esineen [thing_labelIndefinite] parissa [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[3]</path>
-    <trans>image->[pawn_nameFull] making [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group] </trans>
+    <trans>image->[pawn_nameFull] tekemässä esinettä [thing_labelIndefinite] [circumstance_group]. [quality_sentence] [title_sentence] [desc_sentence_group] </trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->with total concentration</trans>
+    <trans>circumstance_phrase->täysin keskittyneenä</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->with a look of satifaction on [pawn_possessive] face</trans>
+    <trans>circumstance_phrase->tyytyväinen ilme [pawn_possessive] kasvoillaan</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->at [pawn_possessive] work bench</trans>
+    <trans>circumstance_phrase->[pawn_possessive] työpöydällään</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[7]</path>
-    <trans>circumstance_phrase->with great intensity</trans>
+    <trans>circumstance_phrase->suurella intohimolla</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[8]</path>
-    <trans>desc_sentence->There are tools scattered all around.</trans>
+    <trans>desc_sentence->Työkaluja on hajallaan kaikkialla ympärillä.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[9]</path>
-    <trans>desc_sentence->[pawn_pronoun] is scratched and scarred from work injuries.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on naarmuinen ja arpinen työonnettomuuksista.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[10]</path>
-    <trans>desc_sentence->[pawn_pronoun] is covered in sweat.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on hien peittämä.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[11]</path>
-    <trans>desc_sentence->The work area is highly organized, with every tool in its proper place.</trans>
+    <trans>desc_sentence->Työskentelyalue on erittäin järjestelmällinen ja jokainen työkalu on omalla paikallaan.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->[pawn_pronoun] is rendered in an exaggerated way to appear more powerful.</trans>
+    <trans>desc_sentence->[pawn_pronoun] on kuvattuna liioiteltuun tyyliin ja näyttää voimakkaalta.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[13]</path>
-    <trans>desc_sentence->The size of [item_labelDefinite] is exaggerated to emphasize its importance.</trans>
+    <trans>desc_sentence->[item_labelDefinite] on kuvattuna liioitellun suurena korostaen sen tärkeyttä.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[14]</path>
-    <trans>desc_sentence->[item_labelDefinite] has an artistic glow added to it. It seems almost angelic.</trans>
+    <trans>desc_sentence->[item_labelDefinite] kylpee taiteellisessa hehkussa. Se näyttää lähes taivaalliselta.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[15]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is faded into the background to emphasize [pawn_possessive] new creation.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] on häivytetty taustaan korostaakseen [pawn_possessive] uutta luomustaan.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[16]</path>
-    <trans>desc_sentence->A group of onlookers surround [pawn_objective].</trans>
+    <trans>desc_sentence->Ryhmä sivustakatsojia ympäröi [pawn_objective].</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[17]</path>
-    <trans>desc_sentence->A crowd cheers from the background.</trans>
+    <trans>desc_sentence->Katsojajoukko hurraa taustalla.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[18]</path>
-    <trans>quality_sentence->[thing_labelDefinite] looks to be of [thing_quality] quality.</trans>
+    <trans>quality_sentence->[thing_labelDefinite] näyttää olevan laadultaan [thing_quality].</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[19]</path>
-    <trans>quality_sentence->[thing_labelDefinite] is of [thing_quality] quality.</trans>
+    <trans>quality_sentence->[thing_labelDefinite] on laadultaan [thing_quality].</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[20]</path>
-    <trans>quality_sentence->[pawn_nameShortDefinite]'s work is of [thing_quality] quality.</trans>
+    <trans>quality_sentence->[pawn_nameShortDefinite] on valmistanut työn, jonka laatu on [thing_quality].</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[21]</path>
-    <trans>title_sentence->[pawn_nameShortDefinite]'s title for [thing_labelDefinite] is written underneath: [thing_title].</trans>
+    <trans>title_sentence->Tekijän työlleen antama nimike on kirjoitettu alapuolelle: [thing_title].</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[22]</path>
-    <trans>title_sentence->[thing_labelDefinite] is emblazoned with its title: [thing_title].</trans>
+    <trans>title_sentence->Työssä on koristettuna sen nimike: [thing_title].</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[23]</path>
-    <trans>title_sentence->The title of [thing_labelDefinite], [thing_title], hangs in the background.</trans>
+    <trans>title_sentence->Työn nimike, [thing_title], riippuu taustalla.</trans>
   </rep>
   <rep>
     <path>CraftedArt.rulePack.rulesStrings[24]</path>
@@ -104,144 +104,144 @@
     
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[0]</path>
-    <trans>image->[pawn_nameFull] striking [thing_label] [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[pawn_nameFull] iskemässä [thing_label]esiintymään [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[1]</path>
-    <trans>circumstance_phrase->while mining</trans>
+    <trans>circumstance_phrase->louhiessaan</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[2]</path>
-    <trans>circumstance_phrase->while digging</trans>
+    <trans>circumstance_phrase->kaivaessaan</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[3]</path>
-    <trans>circumstance_phrase->while tunnelling</trans>
+    <trans>circumstance_phrase->tehdessään tunnelia</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[4]</path>
-    <trans>circumstance_phrase->with a look of surprise</trans>
+    <trans>circumstance_phrase->hämmästynyt ilme kasvoillaan</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->with a satisfied expression</trans>
+    <trans>circumstance_phrase->tyytyväinen ilme kasvoillaan</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[6]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is wiping [pawn_possessive] brow.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] pyyhkii [pawn_possessive] otsaansa.</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[7]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is jumping for joy.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] hyppii ilosta.</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[8]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is high-fiving a friend.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] antaa kaverilleen ylävitosta.</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[9]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is screaming with happiness.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] huutaa onnesta.</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[10]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is laughing uncontrollably.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] nauraa hallitsemattomasti.</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[11]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is sweaty and dirty from work.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] on hikinen ja likainen työn jäljiltä.</trans>
   </rep>
   <rep>
     <path>StruckMineable.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->[pawn_nameShortDefinite] is sweaty and dirty from work.</trans>
+    <trans>desc_sentence->[pawn_nameShortDefinite] on hikinen ja likainen työn jäljiltä.</trans>
   </rep>
     
   <rep>
     <path>KilledBy.rulePack.rulesStrings[0]</path>
-    <trans>image->[victim_nameFull] being killed by [killer_nameFull] [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[victim_nameFull] kuolemassa tappajansa [killer_nameFull] edessä [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[1]</path>
-    <trans>image->[killer_nameFull] killing [victim_nameFull] [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[killer_nameFull] tappamassa uhriaan [victim_nameFull] [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[2]</path>
-    <trans>image->[killer_nameFull] ending [victim_nameFull]'s life [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[killer_nameFull] päättämässä uhrinsa [victim_nameFull] elämän [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[3]</path>
-    <trans>image->[killer_nameFull] brutally murdering [victim_nameFull] [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[killer_nameFull] raa'asti murhaamassa uhrinsa [victim_nameFull] [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[4]</path>
-    <trans>image->[victim_nameFull] being killed [circumstance_group]. [desc_sentence_group]</trans>
+    <trans>image->[victim_nameFull] kun häntä murhataan [circumstance_group]. [desc_sentence_group]</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[5]</path>
-    <trans>circumstance_phrase->seemingly without remorse</trans>
+    <trans>circumstance_phrase->ilman näkyvää sääliä</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[6]</path>
-    <trans>circumstance_phrase->with cold efficiency</trans>
+    <trans>circumstance_phrase->kylmällä tehokkuudella</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[7]</path>
-    <trans>circumstance_phrase->with passionate rage</trans>
+    <trans>circumstance_phrase->kiihkeällä raivolla</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[8]</path>
-    <trans>circumstance_phrase->with quick, efficient movements</trans>
+    <trans>circumstance_phrase->nopeilla ja tehokkailla liikkeillä</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[9]</path>
-    <trans>circumstance_phrase->without emotion or expression</trans>
+    <trans>circumstance_phrase->ilman tunteita tai ilmaisuja</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[10]</path>
-    <trans>circumstance_phrase->out of bleak necessity</trans>
+    <trans>circumstance_phrase->synkästä väistämättömyydestä</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[11]</path>
-    <trans>circumstance_phrase->in a cowardly, halfhearted way</trans>
+    <trans>circumstance_phrase->pelkurimaisella ja innottomalla tavalla</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[12]</path>
-    <trans>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</trans>
+    <trans>desc_sentence->Aurinko on laskemassa heidän taakseen tapahtuman symbolisena kaikuna.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[13]</path>
-    <trans>desc_sentence->A group of [animal]s looks on.</trans>
+    <trans>desc_sentence->[animal]lauma katselee tapahtumaa.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[14]</path>
-    <trans>desc_sentence->A [outlander] watches silently in the distance.</trans>
+    <trans>desc_sentence->[outlander] katselee mykkänä kaukaisuudesta.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[15]</path>
-    <trans>desc_sentence->Blood is pooling around [victim_nameShortDefinite]'s body.</trans>
+    <trans>desc_sentence->Verta on lammikoittain uhrin ympärillä.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[16]</path>
-    <trans>desc_sentence->[victim_nameShortDefinite]'s eyes are rendered in a realistically lifeless fashion.</trans>
+    <trans>desc_sentence->Uhrin silmät on kuvattu realistisesti elottomaan tyyliin.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[17]</path>
-    <trans>desc_sentence->[killer_nameShortDefinite] is baring [killer_possessive] teeth.</trans>
+    <trans>desc_sentence->[killer_nameShortDefinite] paljastaa [killer_possessive] hampaansa.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[18]</path>
-    <trans>desc_sentence->[killer_nameShortDefinite] seems satisfied.</trans>
+    <trans>desc_sentence->[killer_nameShortDefinite] näyttää tyydyttyneeltä.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[19]</path>
-    <trans>desc_sentence->[killer_nameShortDefinite] looks distressed at what [killer_pronoun] is doing.</trans>
+    <trans>desc_sentence->[killer_nameShortDefinite] näyttää ahdistuneelta [killer_pronoun] teostaan.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[20]</path>
-    <trans>desc_sentence->[killer_nameShortDefinite] looks pleased with the situation.</trans>
+    <trans>desc_sentence->[killer_nameShortDefinite] näyttää tilanteeseen tyytyväiseltä.</trans>
   </rep>
   <rep>
     <path>KilledBy.rulePack.rulesStrings[21]</path>
-    <trans>desc_sentence->[killer_nameShortDefinite] looks triumphant.</trans>
+    <trans>desc_sentence->[killer_nameShortDefinite] näyttää voitonriemuiselta.</trans>
   </rep>
     
 </LanguageData>

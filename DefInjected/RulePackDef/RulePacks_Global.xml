@@ -11,80 +11,80 @@
   </rep>
   <rep>
     <path>GlobalCircumstances.rulePack.rulesStrings[2]</path>
-    <trans>date_phrase->on [date]</trans>
+    <trans>date_phrase->[date]</trans>
   </rep>
     
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[0]</path>
-    <trans>quantity_adjphrase->a group of</trans>
+    <trans>quantity_adjphrase->ryhmä</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[1]</path>
-    <trans>quantity_adjphrase->several</trans>
+    <trans>quantity_adjphrase->joukkio</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[2]</path>
-    <trans>quantity_adjphrase->dozens of</trans>
+    <trans>quantity_adjphrase->joukko</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[3]</path>
-    <trans>quantity_adjphrase->two</trans>
+    <trans>quantity_adjphrase->pari</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[4]</path>
-    <trans>quantity_adjphrase->three</trans>
+    <trans>quantity_adjphrase->pari</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[5]</path>
-    <trans>quantity_adjphrase->four</trans>
+    <trans>quantity_adjphrase->pari</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[6]</path>
-    <trans>quantity_adjphrase->five</trans>
+    <trans>quantity_adjphrase->ryhmä</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[7]</path>
-    <trans>quantity_adjphrase->six</trans>
+    <trans>quantity_adjphrase->ryhmä</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[8]</path>
-    <trans>quantity_adjphrase->uncountable</trans>
+    <trans>quantity_adjphrase->joukkio lukemattomista yksilöistä</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[9]</path>
-    <trans>quantity_adjphrase->innumerable</trans>
-  </rep>
+    <trans>quantity_adjphrase->ryhmä lukemattomista yksilöistä</trans>
+  </rep> 
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[10]</path>
-    <trans>game->poker</trans>
+    <trans>game->pokeria</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[11]</path>
-    <trans>game->chess</trans>
+    <trans>game->shakkia</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[12]</path>
-    <trans>game->cards</trans>
+    <trans>game->korttia</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[13]</path>
-    <trans>game->backgammon</trans>
+    <trans>game->backgammonia</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[14]</path>
-    <trans>game->dice</trans>
+    <trans>game->nopilla</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[15]</path>
-    <trans>game->craps</trans>
+    <trans>game->noppapeliä</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[16]</path>
-    <trans>game->roulette</trans>
+    <trans>game->rulettia</trans>
   </rep>
   <rep>
     <path>GlobalUtility.rulePack.rulesStrings[17]</path>
-    <trans>game->blackjack</trans>
-  </rep>
+    <trans>game->venttiä</trans>
+  </rep> 
     
 </LanguageData>

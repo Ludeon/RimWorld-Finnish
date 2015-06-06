@@ -3,39 +3,39 @@
     
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[0]</path>
-    <trans>image->a [outlander] surrounded by [outlander]s. [part2]</trans>
+    <trans>image->[outlander] jota ympäröi [outlander]joukkio. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[1]</path>
-    <trans>image->a [outlander] playing [game] with [quantity_adjphrase] [outlander]s. [part2]</trans>
+    <trans>image->[outlander] pelaamassa [game] [outlander]joukkion kanssa. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[2]</path>
-    <trans>image->a [outlander] [subject_desc] holding a [weapon]. [part2]</trans>
+    <trans>image->[outlander] joka [subject_desc] ja hänen kädessään on [weapon]. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[3]</path>
-    <trans>image->a solitary [outlander]. [part2]</trans>
+    <trans>image->yksinäinen [outlander]. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[4]</path>
-    <trans>image->a [adjective] [outlander] wearing a [apparel]. [part2]</trans>
+    <trans>image->[adjective] [outlander] jolla on päällä [apparel]. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[5]</path>
-    <trans>image->an empty [apparel] [subject_desc]. [part2]</trans>
+    <trans>image->tyhjä [apparel] [subject_desc]. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[6]</path>
-    <trans>image->a [adjective] [terrainfeature]. [part2]</trans>
+    <trans>image->[adjective] [terrainfeature]. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[7]</path>
-    <trans>image->[animal]s playing [game]. [part2]</trans>
+    <trans>image->[animal]lauma pelaamassa [game]. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[8]</path>
-    <trans>image->a [animal] wearing a [apparel] [subject_desc]. [part2]</trans>
+    <trans>image->[animal], jolla on päällä [apparel], ja se [subject_desc]. [part2]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[9]</path>
@@ -43,43 +43,43 @@
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[10]</path>
-    <trans>subject_desc->flying through the air</trans>
+    <trans>subject_desc->lentää ilmassa</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[11]</path>
-    <trans>subject_desc->suspended in the air</trans>
+    <trans>subject_desc->leijuu ilmassa</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[12]</path>
-    <trans>subject_desc->standing on the ground</trans>
+    <trans>subject_desc->seisoo maassa</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[13]</path>
-    <trans>subject_desc->moving to the left</trans>
+    <trans>subject_desc->liikkuu vasemmalle</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[14]</path>
-    <trans>subject_desc->moving to the right</trans>
+    <trans>subject_desc->liikkuu oikealle</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[15]</path>
-    <trans>subject_desc->sitting on a table</trans>
+    <trans>subject_desc->istuu pöydällä</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[16]</path>
-    <trans>subject_desc->seen through a looking glass</trans>
+    <trans>subject_desc->näkyy kuvastimen kautta</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[17]</path>
-    <trans>subject_desc->rendered in silhouette</trans>
+    <trans>subject_desc->josta näkyy vain siluetti</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[18]</path>
-    <trans>subject_desc->riding on a [animal] wearing a [apparel]</trans>
+    <trans>subject_desc->ratsunaan [animal] jolla on päällä [apparel]</trans>
   </rep>
   <rep>
     <path>TalelessImages.rulePack.rulesStrings[19]</path>
-    <trans>subject_desc->looking [adjective]</trans>
+    <trans>subject_desc->josta tulee [adjective] vaikutelma</trans>
   </rep>
     
 </LanguageData>
