@@ -65,7 +65,7 @@
 	<ReportHaulingTo>Raahaamassa: {0} kohteeseen {1}.</ReportHaulingTo>
 	<ReportHauling>Raahaamassa:{0}.</ReportHauling>
   <ReportSleeping>Nukkumassa.</ReportSleeping>
-  <ReportResting>Lepäämässä.</ReportResting>
+  <ReportResting>Lepää.</ReportResting>
 
 	<!-- Shooting report -->
   <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
