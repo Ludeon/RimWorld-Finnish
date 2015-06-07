@@ -68,7 +68,7 @@
   <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Kulkuri liittyy</LetterLabelWandererJoin>
-  <WandererJoin>{0} nimeltään NAME on saapunut ja liittyy yhdyskuntaasi. HECAP on {1}.</WandererJoin>
+  <WandererJoin>Eräs {0} nimeltään NAME on saapunut ja liittyy yhdyskuntaasi. HECAP on {1}.</WandererJoin>
   
   
   <!-- Crashed ship part-->
