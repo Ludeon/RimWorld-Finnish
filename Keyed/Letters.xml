@@ -4,7 +4,7 @@
   <JumpToLocation>Hyppää sijaintiin</JumpToLocation>
 
   <LetterLabelFirstSummerWarning>Kesä</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Kesä on alkanut! Talvi on silti tulossa.\n\nSinun ruokaviljelmäsi eivät kasva talven kylmässä. Varmista, että sinulla on ruokaa varastossa usean kuukauden tarpeiksi kun sinulla on siihen vielä mahdollisuus.\n\nVoit rakentaa jäähdytyshuoneen estääksesi ruuan pilaantumisen.\n\nYritä lisäksi ostaa, varastaa tai tehdä itse anorakkeja tai jäädyt astueassasi ulos.</FirstSummerWarning>
+  <FirstSummerWarning>Kesä on alkanut! Talvi on silti tulossa.\n\nSinun ruokaviljelmäsi eivät kasva talven kylmässä. Varmista, että sinulla on ruokaa varastossa usean kuukauden tarpeiksi kun sinulla on siihen vielä mahdollisuus.\n\nVoit rakentaa pakastehuoneen estääksesi ruuan pilaantumisen.\n\nYritä lisäksi ostaa, varastaa tai tehdä itse anorakkeja tai jäädyt astueassasi ulos.</FirstSummerWarning>
 
   <RelationsBrokenDown>Suhteesi ryhmän {0} kanssa ovat tulehtuneet. He ovat nyt vihamielisiä sinua kohtaan.</RelationsBrokenDown>
   <RelationsWarmed>Suhteesi ryhmän {0} kanssa  ovat lämmenneet. He eivät ole enää vihamielisiä sinua kohtaan.</RelationsWarmed>
