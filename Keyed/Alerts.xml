@@ -34,7 +34,7 @@
   <NeedWardenDesc>Sinulla on vanki, mutta yhtään yhdyskuntalaistasi ei ole määritetty vanginvartijaksi.\n\nNimeä yhdyskuntalainen vanginvartijaksi.</NeedWardenDesc>
 
   <LowFood>Vähän ruokaa</LowFood>
-  <LowFoodDesc>Sinulla on vain {0}:n edestä ruokaa varastossa. Tämä on vaarallisen vähänä.\n\nKasvata, osta, löydä tai tapa jotain ruo'aksesi.</LowFoodDesc>
+  <LowFoodDesc>Sinulla on vain {0} ravintoarvon edestä ruokaa varastossa. Tämä on vaarallisen vähän.\n\nKasvata, osta, etsi tai tapa jotain syötävää.</LowFoodDesc>
 
   <NeedColonistBeds>Tarvitset sängyn yhdyskuntalaisille</NeedColonistBeds>
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
