@@ -10,7 +10,7 @@
     <Sandstone.label>hiekkakiveä</Sandstone.label>
     <Sandstone.description>Sedimenttikiveä joka koostuu yhteenpakkautuneista hiekanjyvistä.</Sandstone.description>
     
-    <ChunkSandstone.label>hiekkakivikimpale</ChunkSandstone.label>
+    <ChunkSandstone.label>hiekkakivilohkare</ChunkSandstone.label>
     
     <BlocksSandstone.label>hiekkakiviharkkoja</BlocksSandstone.label>
     <BlocksSandstone.description>Hiekkakivestä tehtyjä harkkoja. Hiekkakivi on suhteellisen pehmeää kiveä ja sitä on helppo veistää.</BlocksSandstone.description>
@@ -19,7 +19,7 @@
     <Granite.label>graniittia</Granite.label>
     <Granite.description>Erittäin kova magmakivilaji.</Granite.description>
     
-    <ChunkGranite.label>graniittikimpale</ChunkGranite.label>
+    <ChunkGranite.label>graniittilohkare</ChunkGranite.label>
     
     <BlocksGranite.label>graniittiharkkoja</BlocksGranite.label>
     <BlocksGranite.description>Graniitista tehtyjä harkkoja. Graniitti on erittäin kova kivilaji.</BlocksGranite.description>
@@ -28,7 +28,7 @@
     <Limestone.label>kalkkikiveä</Limestone.label>
     <Limestone.description>Muinaisien simpukoiden pakkautuneista jäännöksistä muodostunut sedimenttikivilaj.</Limestone.description>
     
-    <ChunkLimestone.label>kalkkivikikimpale</ChunkLimestone.label>
+    <ChunkLimestone.label>kalkkivikilohkare</ChunkLimestone.label>
     
     <BlocksLimestone.label>kalkkikiviharkkoja</BlocksLimestone.label>
     <BlocksLimestone.description>Kalkkikivestä tehtyjä harkkoja.</BlocksLimestone.description>
@@ -37,7 +37,7 @@
     <Slate.label>saviliusketta</Slate.label>
     <Slate.description>Tummanvärinen metamorfinen kivilaji. Sen hienojakoiset kerrokset ovat tunnusomaisia liuskemaisesta halkiosta.</Slate.description>
     
-    <ChunkSlate.label>saviliuskekimpale</ChunkSlate.label>
+    <ChunkSlate.label>saviliuskelohkare</ChunkSlate.label>
     
     <BlocksSlate.label>saviliuskeharkkoja</BlocksSlate.label>
     <BlocksSlate.description>Saviliuskeesta tehtyjä harkkoja. Tylsännäköinen kivilaji jota on helppo veistää.</BlocksSlate.description>
@@ -46,7 +46,7 @@
     <Marble.label>marmoria</Marble.label>
     <Marble.description>Pehmeä metamorfinen kivilaji.</Marble.description>
     
-    <ChunkMarble.label>marmorikimpale</ChunkMarble.label>
+    <ChunkMarble.label>marmorilohkare</ChunkMarble.label>
     
     <BlocksMarble.label>marmoriharkkoja</BlocksMarble.label>
     <BlocksMarble.description>Marmorista tehtyjä harkkoja. Marmori on pehmeä ja kaunis kivilaji joka on tunnettu helppona veistää.</BlocksMarble.description>
