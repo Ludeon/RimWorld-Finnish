@@ -11,7 +11,7 @@
   <LetterLabelEclipseIncident>Auringonpimennys</LetterLabelEclipseIncident>
   <EclipseIncident>Yksi tämän planeetan kuista on kiertoradallaan osunut auringon eteen. Auringonpimennys on alkanut.</EclipseIncident>
 
-  <LetterLabelMiracleHeal>Ihme</LetterLabelMiracleHeal>
+  <LetterLabelMiracleHeal>Ihmeparantuminen</LetterLabelMiracleHeal>
   <MiracleHeal>{0} on kokenut ihmeparantumisen!</MiracleHeal>
 
   
@@ -58,11 +58,11 @@
 
   <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.</TraderArrival>
 
-  <SingleTravelerPassing>{0} tukikohdasta {1} on kulkemassa ohi. HISCAP nimensä on {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>Eräs {0} tukikohdasta {1} on kulkemassa ohi. HISCAP nimensä on {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Ryhmä matkaajia tukikohdasta {0} ovat kulkemassa ohi.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Vierailija</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>{0} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\nHISCAP nimensä on {2}.</SingleVisitorArrives>
+  <SingleVisitorArrives>Eräs {0} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\nHISCAP nimensä on {2}.</SingleVisitorArrives>
   <LetterLabelGroupVisitorsArrive>Vierailijoita</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Ryhmä tukikohdasta {0} on tullut vierailemaan yhdyskunnassasi.</GroupVisitorsArrive>
   <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
