@@ -65,20 +65,20 @@
   <DesignatorClaim>Valtaa</DesignatorClaim>
   <DesignatorClaimDesc>Valloita neutraaleja rakennelmia yhdyskunnalle, sisältäen muinaisrauniot ja hylätyt piiritys leirit. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloor>Poista lattia</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Poista lattia paljastaaksesi alla olevan maan.</DesignatorRemoveFloorDesc>
 
-  <DesignatorStrip>Strip</DesignatorStrip>
-  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+  <DesignatorStrip>Riisu</DesignatorStrip>
+  <DesignatorStripDesc>Riisu vaatteet ruumiilta ja haavoittuneilta.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrap>Viritä ansa</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Viritiä lauennut ansa uudelleen jotta se voi laueta jälleen.</DesignatorRearmTrapDesc>
 
-  <DesignatorExpandAreaAllowed>Expand Allowed Area</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>Clear Allowed Area</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
-  <ManageAreaAlloweds>Manage allowed areas...</ManageAreaAlloweds>
+  <DesignatorExpandAreaAllowed>Laajenna sallittua aluetta</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Laajenna sallituksi merkittyä aluetta aluetta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Poista sallittua aluetta</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Poistaa neliöitä sallitusta alueesta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella..</DesignatorClearAreaAllowedDesc>
+  <ManageAreaAlloweds>Muokkaa sallittuja alueita...</ManageAreaAlloweds>
   
   
   <!-- Failure messages -->
@@ -96,7 +96,7 @@
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>Täytyy osoittaa poistettava lattia.</TerrainMustBeRemovable>
 
 
   <!-- Mouse attachments -->
