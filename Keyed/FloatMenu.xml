@@ -3,11 +3,11 @@
 
 
   
-	<CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
+  <CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
   <CannotUseReason>Cannot use ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
-	<CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
-	<CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
+  <CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
+  <CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
+  <CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
   <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
   <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
   
@@ -23,19 +23,19 @@
   <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
   <NoPath>ei reittiä</NoPath>
 
-	<ForbiddenLower>kielletty</ForbiddenLower>
-	<SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
+  <ForbiddenLower>kielletty</ForbiddenLower>
+  <SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
   <PrisonerRoomLower>vangin huone</PrisonerRoomLower>
-	<BurningLower>palaa</BurningLower>
-	<NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
-	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
-	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
+  <BurningLower>palaa</BurningLower>
+  <NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
+  <AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
+  <MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
   <MissingSkill>skill too low</MissingSkill>
 
 
   <ConsumeThing>Syö {0}</ConsumeThing>
-	
-	
+  
+  
   <CannotGoNoPath>Ei voi mennä tänne (ei reittiä)</CannotGoNoPath>
   <GoHere>Mene tänne</GoHere>
   
