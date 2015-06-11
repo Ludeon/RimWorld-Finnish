@@ -31,7 +31,7 @@
 
   <MessagePrisonerIsEscaping>Vanki {0} pakenee.</MessagePrisonerIsEscaping>
 
-  <MessageOutOfNearbyShellsFor>{0} ei löytänyt lähistöltä ammuksia kohteeseen {1}.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{0} ei löytänyt lähistöltä varaamattomia ammuksia kohteeseen {1}.</MessageOutOfNearbyShellsFor>
 
   <MessageAnimalsGoPsychoHunted>Varoitus: {0} hyökkää yleensä jos sitä vahingoitetaan.</MessageAnimalsGoPsychoHunted>
 
@@ -56,6 +56,9 @@
   <MessageMustDesignateHuntable>Pitää määrittää metsästämiskelpoisia eläimiä.</MessageMustDesignateHuntable>
   <MessageMustDesignateClaimable>Pitää määrittää hylättyjä keinotekoisia rakennelmia.</MessageMustDesignateClaimable>
   <MessageMustDesignateSmoothableFloor>Pitää määrittää karkeaa kivilattiaa.</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
 
   <MessageRefusedArrest>{0} vastusti pidätystä!</MessageRefusedArrest>
   
@@ -69,5 +72,9 @@
 
   <MessageMedicalOperationFailureCatastrophic>{0} epäonnistui katastrofaalisesti operoidessaan potilasta {1}.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} epäonnistui hieman operoidessaan potilasta {1}.</MessageMedicalOperationFailureMinor>
+
+  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
   
 </LanguageData>

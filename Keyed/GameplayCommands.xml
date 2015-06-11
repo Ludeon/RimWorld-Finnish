@@ -47,22 +47,28 @@
   <TurningOnPrisonerBedWarning>Normaalisängyn määrittäminen vankisängyksi vaikutaa koko huoneeseen (koska vangit ja yhdyskuntalaiset eivät voi nukkua samassa huoneessa).\n\nNämä henkilöt menettävät sänkyjensä omistuksen:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Vankisängyn määrittäminen normaaliksi vaikutaa koko huoneeseen (koska vangit ja yhdyskuntalaiset eivät voi nukkua samassa huoneessa).\n\nNämä henkilöt menettävät sänkyjensä omistuksen:</TurningOffPrisonerBedWarning>
   <AreYouSure>Oleko varma että haluat tehdä tämän?</AreYouSure>
-
   
-  
-  <CommandDetonateDesc>Aloita lähtölaskenta räjäytykseen.</CommandDetonateDesc>
   <CommandDetonateLabel>Räjäytä</CommandDetonateLabel>
+  <CommandDetonateDesc>Aloita lähtölaskenta räjäytykseen.</CommandDetonateDesc>
 
-  <CommandRenameZoneDesc>Uudelleennimeä tämä alue.</CommandRenameZoneDesc>
   <CommandRenameZoneLabel>Uudelleennimeä</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Uudelleennimeä tämä alue.</CommandRenameZoneDesc>
 
-  <CommandHideZoneDesc>Piilota/näytä tämä alue.</CommandHideZoneDesc>
   <CommandHideZoneLabel>Piilota</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Näytä</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Piilota/näytä tämä alue.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneDesc>Poista tämä alue.</CommandDeleteZoneDesc>
   <CommandDeleteZoneLabel>Poista</CommandDeleteZoneLabel>
-  
+  <CommandDeleteZoneDesc>Poista tämä alue.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>Allow sowing</CommandAllowSow>
+  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>  
   
   <!-- Artillery -->
   <CommandSetForceAttackTarget>Aseta pakotettu kohde</CommandSetForceAttackTarget>
@@ -87,8 +93,10 @@
   <CommandPodEjectFailEmpty>Ei sisällä ketään.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
-  <CommandToggleDoorLock>Vaihda lukon tila</CommandToggleDoorLock>
-  <CommandToggleDoorLockDesc>Lukitse tai avaa oven lukko. Lukitut ovet eivät avaudu kenellekään.</CommandToggleDoorLockDesc>
+  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door. If the door is automatic and powered, it will open.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <CommandResetTemp>Nollaa</CommandResetTemp>
@@ -107,5 +115,9 @@
   <!-- Sun lamp -->
   <CommandSunLampMakeGrowingZoneDesc>Luo tämän rakennelman ympärille kasvatusalue, joka vastaa täysin lampun kantamaa.</CommandSunLampMakeGrowingZoneDesc>
   <CommandSunLampMakeGrowingZoneLabel>Luo kasvatusalue</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
+  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
 
 </LanguageData>

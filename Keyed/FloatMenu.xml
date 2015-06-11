@@ -4,6 +4,7 @@
 
   
 	<CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
+  <CannotUseReason>Cannot use ({0})</CannotUseReason>
 	<CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
 	<CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
 	<CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
@@ -29,6 +30,7 @@
 	<NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
 	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
 	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
+  <MissingSkill>skill too low</MissingSkill>
 
 
   <ConsumeThing>Syö {0}</ConsumeThing>
@@ -51,13 +53,14 @@
   <CannotCarryToCryptosleepCasket>Ei voi kantaa salauniarkkuun</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>Ei saatavilla olevaa salauniarkkua.</NoCryptosleepCasket>
-  <NoPrisonerBed>Ei vapaana olevaa suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
-  <NoNonPrisonerBed>Ei vapaana olevaa käytettävää ei-vangin sänkyä.</NoNonPrisonerBed>
+  <NoPrisonerBed>Ei saatavilla ja suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
+  <NoNonPrisonerBed>Ei saatavilla olevaa muille kuin vangeille tarkoitettua sänkyä.</NoNonPrisonerBed>
   <Reserved>Joku muu on varannut tämän.</Reserved>
   <ReservedBy>{0} on varannut tämän.</ReservedBy>
   <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
 
   <Incapable>kykenemätön</Incapable>
+  <IncapableOfCapacity>kykenemätön toimintoon {0}</IncapableOfCapacity>
 
   <Equip>Ota käyttöön {0}</Equip>
   <EquipWarningBrawler>(painija tulee pahalle mielelle)</EquipWarningBrawler>
@@ -90,7 +93,7 @@
   <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>Ei voi priorisoida (Terveysongelma: {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Ei voi priorisoida (kykenemätön toimeen {0})</CannotMissingHealthActivities>
 
   <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
 

@@ -64,12 +64,5 @@
   <Hilliness_SmallHills>Pieniä mäkiä</Hilliness_SmallHills>
   <Hilliness_LargeHills>Suuria mäkiä</Hilliness_LargeHills>
   <Hilliness_Mountainous>Vuoristoinen</Hilliness_Mountainous>
-  
-  <!-- Time assigments -->
-  <TimeAssignment_Anything>Mitä tahansa</TimeAssignment_Anything>
-  <TimeAssignment_Work>Töitä</TimeAssignment_Work>
-  <TimeAssignment_Joy>Huvittelua</TimeAssignment_Joy>
-  <TimeAssignment_Sleep>Unta</TimeAssignment_Sleep>
-
 
 </LanguageData>

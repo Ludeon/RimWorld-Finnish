@@ -33,14 +33,18 @@
   <Inventory>Omaisuudet</Inventory>
   <ThingInfo>Tietoja</ThingInfo>
   <DropThing>Pudota</DropThing>
+  <Rename>Rename</Rename>
   <RenameColonist>Nimeä yhdyskuntalainen uudelleen</RenameColonist>
   <UnknownLower>tuntematon</UnknownLower>
   <On>Päällä</On>
   <Off>Pois päältä</Off>
   <PowerSwitch_Power>Virta</PowerSwitch_Power>
-  <AreaLower>alue</AreaLower>
   <JoyTolerances>Kyllästyminen huvitteluun</JoyTolerances>
   <BrokenLetterLabel>Murtunut</BrokenLetterLabel>
+  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
+  <NoAreaAllowed>Unrestricted</NoAreaAllowed>
+  <NewArea>New area</NewArea>
+  <InvertArea>Invert</InvertArea>
   
   <!-- Control -->
   <CannotOrderNonControlled>Ei voi antaa määräyksiä hallitsemattomille yksiköille.</CannotOrderNonControlled>
@@ -66,6 +70,14 @@
 	<ReportHauling>Raahaamassa:{0}.</ReportHauling>
   <ReportSleeping>Nukkumassa.</ReportSleeping>
   <ReportResting>Lepää.</ReportResting>
+  <WatchingSunrise>Watching the sunrise</WatchingSunrise>
+  <CloudWatching>Cloudwatching</CloudWatching>
+  <WatchingSunset>Watching the sunset</WatchingSunset>
+  <Stargazing>Stargazing</Stargazing>
+  <WatchingEclipse>Watching the eclipse</WatchingEclipse>
+  <DeliveringFood>Delivering food to {0}.</DeliveringFood>
+  <UsingVerb>Using {0} on {1}.</UsingVerb>
+  <AreaLower>area</AreaLower>
 
 	<!-- Shooting report -->
   <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
@@ -169,7 +181,7 @@
   <OutdoorGrowingPeriod>Kasvukausi: {0}</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Ei koskaan</NoGrowingPeriod>
   <GrowYearRound>Ympärivuotinen</GrowYearRound>
-  <GrowSeasonHereNow>Täälä on nyt kasvukausi.</GrowSeasonHereNow>
+  <GrowSeasonHereNow>Täällä on nyt kasvukausi.</GrowSeasonHereNow>
   <CannotGrowTooCold>Ei voi kasvaa - liian kylmä.</CannotGrowTooCold>
   
   <!-- Zones -->
@@ -179,6 +191,7 @@
   <DumpingStockpile>Kaatopaikka</DumpingStockpile>
   <Priority>Tärkeys</Priority>
   <ClearAll>Poista kaikki</ClearAll>
+  <AllowAll>Salli kaikki</AllowAll>
 
   <!-- ThingFilter -->
   <HitPoints>{0} osumapisteitä</HitPoints>
@@ -191,7 +204,7 @@
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Alueiden näkyvyys.</ZoneVisibilityToggleButton>
   <ShowBeautyToggleButton>Aseta päälle kauneusnäkymä.\n\nNäyttää ympäristön kauneuden kuten kursorin kohdalla seisova hahmo sen näkisi.</ShowBeautyToggleButton>
-  <AutoHomeRegionToggleButton>Lisää kotialue automaattisesti uusien rakennusten ympärille.</AutoHomeRegionToggleButton>
+  <AutoHomeAreaToggleButton>Laajenna kotialuetta automaattisesti uusien rakennusten ympärille.</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Aseta luokiteltu materiaalivalikko päälle tai pois.</CategorizedResourceReadoutToggleButton>
 
   <!-- Fire -->
@@ -269,11 +282,9 @@
   <!-- Generic lifespan -->
   <LifespanExpiry>Menee vanhaksi:</LifespanExpiry>
 
-  <!-- JobDriver reports -->
-  <WatchingSunrise>Katselee auringonnousua</WatchingSunrise>
-  <CloudWatching>Katselee pilviä</CloudWatching>
-  <WatchingSunset>Katselee auringonlaskua</WatchingSunset>
-  <Stargazing>Katselee tähtiä</Stargazing>
-  <WatchingEclipse>Katselee auringonpimennystä</WatchingEclipse>
+  <!-- Traps -->
+  <TrapArmed>Armed</TrapArmed>
+  <TrapNotArmed>Not armed</TrapNotArmed>
+  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
   
 </LanguageData>

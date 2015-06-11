@@ -16,24 +16,30 @@
   <SavedAs>Tallennettu nimellä {0}.</SavedAs>
   <NeedAName>Anna nimi.</NeedAName>
   <LoadingLongEvent>Ladataan...</LoadingLongEvent>
-  
+  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>  
   
   <!-- Colony naming-->
-  <NameColonyMessage>On selvää ettet halua olla tällä kivellä kauaa. {0} kuitenkin ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
+  <NameColonyMessage>Näyttää siltä, että joudutte olemaan täällä kauan. {0} ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
   <ColonyGainsName>Yhdyskunta tunnetaan nyt nimellä {0}.</ColonyGainsName>
   <ColonyNameIsInvalid>Tuo yhdyskunnan nimi ei ole kelvollinen.</ColonyNameIsInvalid>
 
-  <!-- Zone naming -->
+  <!-- Renaming -->
+  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
+  <NameIsInUse>Name is already in use.</NameIsInUse>
   <ZoneGainsName>Aluetta kutsutaan nyt nimellä {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Anna alueelle sopiva nimi.</ZoneNameIsInvalid>
   
   <!-- Pawn naming -->
   <PawnGainsName>Yhdyskuntalaisen kutsumanimi on nyt {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Versio yhteensopimaton</VersionMismatch>
-  <SaveGameIncompatibleWarningText>Varoitus: Kenttä tallennettiin peliversiossa {0}, mutta käytössä oleva versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>Varoitus: Maailma luotiin peliversiossa {0}, mutta käytössä oleva versio on {1}.\n\nTämän maailman lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia. Suosittelemme, että luot uuden maailman.</WorldFileVersionMismatch>
+  <SaveGameIncompatibleWarningText>Kenttä tallennettiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Maailma luotiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\nTämän maailman lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia. Suosittelemme, että luot uuden maailman.</WorldFileVersionMismatch>
+  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
   
 
   <!-- Resolution change dialog -->
@@ -99,6 +105,7 @@
   <Accuracy>Tarkkuus</Accuracy>
   <BurstShotCount>Sarjatulen laukausmäärä</BurstShotCount>
   <WarmupTime>Lämmitysaika</WarmupTime>
+  <MeleeWarmupTime>Lähitaistelun lämmitysaika</MeleeWarmupTime>
   <CooldownTime>Jäähdytysaika</CooldownTime>
   <BurstShotFireRate>Tulinopeus</BurstShotFireRate>
   <Range>Kantama</Range>

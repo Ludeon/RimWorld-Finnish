@@ -5,7 +5,7 @@
   <!-- Tab titles -->
   <WorkTab>Työnteko</WorkTab>
   <OutfitsTab>Vaatekerrat</OutfitsTab>
-  <TimetablesTab>Aikataulut</TimetablesTab>
+  <RestrictionsTab>Rajoitukset</RestrictionsTab>
   <FactionsTab>Ryhmät</FactionsTab>
   <StatisticsTab>Tilastot</StatisticsTab>
   <HistoryTab>Historia</HistoryTab>
@@ -28,9 +28,10 @@
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
   <OutfitEdit>Muokkaa...</OutfitEdit>
   
-  <!-- Timetables tab -->
+  <!-- Restrictions tab -->
   <Copy>Kopioi</Copy>
   <Paste>Liitä</Paste>
+  <AllowedArea>Sallittu alue</AllowedArea>
   
   <!-- Factions tab -->
   <Hostile>Vihamielinen</Hostile>

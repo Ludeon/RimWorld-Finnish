@@ -31,10 +31,10 @@
   <GetsFood>Saa ruokaa</GetsFood>
   <DoctorsCare>Lääkärit huolehtivat</DoctorsCare>
   <GetsMedicine>Saa lääkintää</GetsMedicine>
-  <ShouldTryToRecruit>Yritä värvätä recruit</ShouldTryToRecruit>
+  <ShouldTryToRecruit>Yritä värvätä</ShouldTryToRecruit>
   <PrisonerNoInteraction>Ei vuorovaikutusta</PrisonerNoInteraction>
   <PrisonerFriendlyChat>Ystävällistä keskustelua</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>Yritä värvätä</PrisonerAttemptRecruit>
+  <PrisonerAttemptRecruit>Keskustele ja yritä värvätä</PrisonerAttemptRecruit>
   <PrisonerRelease>Päästä vapaaksi</PrisonerRelease>
   <PrisonerExecution>Teloitus</PrisonerExecution>
 

@@ -9,10 +9,10 @@
   <NeedSawmillDesc>Tarvitset jonkinlaisen sahan jolla voit sahata puita monikäyttöisemmiksi lankuiksi.\n\nRakenna SAHA tai SÄHKÖINEN SAHA.</NeedSawmillDesc>
 
   <PoorMood>Huono mieliala</PoorMood>
-  <PoorMoodDesc>Nämä yhdyskuntalaiset ovat huonolla tuulella ja saattavat saada hermoromahduksen hetkenä minä hyvänsä:\n\n{0}\nTarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</PoorMoodDesc>
-
+  <PoorMoodDesc>Nämä yhdyskuntalaiset ovat huonolla tuulella ja saattavat saada hermoromahduksen hetkenä minä hyvänsä:\n\n{0}</PoorMoodDesc>
   <TerribleMood>Surkea mielieala</TerribleMood>
-  <TerribleMoodDesc>Nämä yhdyskuntalaiset ovat erittäin rasittuneita ja saattavat kokea mahdollisesti väkivaltaisen hermoromahduksen minä hetkenä hyvänsä:\n\n{0}\nTarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</TerribleMoodDesc>
+  <TerribleMoodDesc>Nämä yhdyskuntalaiset ovat erittäin rasittuneita ja saattavat kokea mahdollisesti väkivaltaisen hermoromahduksen minä hetkenä hyvänsä:\n\n{0}</TerribleMoodDesc>
+  <LowMoodDescEnding>Tarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</LowMoodDescEnding>
 
   <ColonistNeedsRescue>Yhdyskuntalainen tarvitsee pelastusta</ColonistNeedsRescue>
   <ColonistsNeedRescue>Yhdyskuntalaiset tarvitsevat pelastusta</ColonistsNeedRescue>
@@ -34,7 +34,7 @@
   <NeedWardenDesc>Sinulla on vanki, mutta yhtään yhdyskuntalaistasi ei ole määritetty vanginvartijaksi.\n\nNimeä yhdyskuntalainen vanginvartijaksi.</NeedWardenDesc>
 
   <LowFood>Vähän ruokaa</LowFood>
-  <LowFoodDesc>Sinulla on vain {0} ravintoarvon edestä ruokaa varastossa. Tämä on vaarallisen vähän.\n\nKasvata, osta, etsi tai tapa jotain syötävää.</LowFoodDesc>
+  <LowFoodDesc>Sinulla on vain {0} täyden palkin edestä ruokaa varastossa. Tämä on vaarallisen vähän.\n\nKasvata, osta, etsi tai tapa jotain syötävää.</LowFoodDesc>
 
   <NeedColonistBeds>Tarvitset sängyn yhdyskuntalaisille</NeedColonistBeds>
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
@@ -59,8 +59,8 @@
   <NeedMealSource>Tarvitset ruuanlähteen</NeedMealSource>
   <NeedMealSourceDesc>Sinulla ei ole mitään tapaa valmistaa kunnollisia aterioita raa'oista aineksista.\n\nRakenna ravinnetahna-annostelija tai liesi.\n\n(Se ei saa olla vangin huoneessa, muuten yhdyskuntalaiset eivät voi käyttää sitä.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Tarvitset kotialueen</NeedHomeRegion>
-  <NeedHomeRegionDesc>Sinun täytyy määrittä KOTIALUE, missä yhdyskuntalaisesi siivoavat, sammuttavat paloja ja korjaavat rakennelmia.\n\nMääritä kotialue ALUEET-välilehdessä ARKKITEHTI-valikossa.</NeedHomeRegionDesc>
+  <NeedHomeArea>Tarvitset kotialueen</NeedHomeArea>
+  <NeedHomeAreaDesc>Sinun täytyy määrittä KOTIALUE, missä yhdyskuntalaisesi siivoavat, sammuttavat paloja ja korjaavat rakennelmia.\n\nMääritä kotialue ALUEET-välilehdessä ARKKITEHTI-valikossa.</NeedHomeAreaDesc>
 
   <NeedBatteries>Tarvitset akkuja</NeedBatteries>
   <NeedBatteriesDesc>Sinulla on aurinkopaneeleja, mutta ei yhtäkään akkua. Tästä johtuen joka kerta, kun aurinko laskee, sähköt katkeavat.\n\nRakenna muutama akku selvitäksesi yön yli ilman sähkökatkoja.</NeedBatteriesDesc>
@@ -98,8 +98,8 @@
   <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>Nämä yhdyskuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>
 
-  <FireInHomeRegion>Tuli on irti!</FireInHomeRegion>
-  <FireInHomeRegionDesc>Kotialueella on tulipalo.</FireInHomeRegionDesc>
+  <FireInHomeArea>Tuli on irti!</FireInHomeArea>
+  <FireInHomeAreaDesc>Kotialueella on tulipalo.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Vakavia sairauksia</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>Nämä yhdyskuntalaiset ovat hengenvaarassa vakavien sairauksien vuoksi:\n\n{0}\nVarmista, että he saavat niin paljon lääkitystä kuin mahdollista.</PawnsWithLifeThreateningDiseaseDesc>

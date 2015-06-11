@@ -38,23 +38,20 @@
   <DesignatorPlanRemove>Poista suunnitelmia</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Poista suunnitelmia.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Lisää kotialue</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Yhdyskuntalaiset korjaavat rakennuksia, siivoavat lattioita ja sammuttavat tulipaloja ainoastaan Kotialueiden sisällä.</DesignatorHomeRegionAddDesc>
+  <DesignatorAreaHomeExpand>Laajenna kotialuetta</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Yhdyskuntalaiset korjaavat rakennuksia, siivoavat lattioita ja sammuttavat tulipaloja ainoastaan Kotialueiden sisällä.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Poista kotialue</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Poista Kotialue. Yhdyskuntalaiset eivät enää siivoa, korjaa tai sammuta tulipaloja tällä alueella.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorHomeRegionRemove>Poista kotialue</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Poista Kotialue. Yhdyskuntalaiset eivät enää siivoa, korjaa tai sammuta tulipaloja tällä alueella.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorAreaNoRoofExpand>Laajenna katotonta aluetta</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Luo alue missä kattoja ei tehdä, yhdyskuntalaiset myös repivät olemassa olevat katot alas tällä alueella.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Poista katoton alue</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Poista katoton alue. Kattoja voidaan tehdä tälle alueelle ja olemassaolevia kattoja ei revitä alas.</DesignatorAreaNoRoofClearDesc>
 
-  <DesignatorRegionNoRoofAdd>Lisää katoton alue</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Luo alue missä kattoja ei tehdä, yhdyskuntalaiset myös repivät olemassa olevat katot alas tällä alueella.</DesignatorRegionNoRoofAddDesc>
-
-  <DesignatorRegionNoRoofRemove>Poista katoton alue</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Poista katoton alue. Kattoja voidaan tehdä tälle alueelle ja olemassaolevia kattoja ei revitä alas.</DesignatorRegionNoRoofRemoveDesc>
-
-  <DesignatorRegionSnowClearAdd>Lisää lumenkolausalue</DesignatorRegionSnowClearAdd>
-  <DesignatorRegionSnowClearAddDesc>Luo alue, jonka yhdyskuntalaiset yrittävät pitää puhtaana lumesta.</DesignatorRegionSnowClearAddDesc>
-
-  <DesignatorRegionSnowClearRemove>Poista lumenkolausalue</DesignatorRegionSnowClearRemove>
-  <DesignatorRegionSnowClearRemoveDesc>Poistaa lumenkolausmääräyksen. Yhdyskuntalaiset eivät enää yritä pitää tätä aluetta puhtaana lumesta.</DesignatorRegionSnowClearRemoveDesc>
+  <DesignatorAreaSnowClearExpand>Laajenna lumenkolausaluetta</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Luo alue, jonka yhdyskuntalaiset yrittävät pitää puhtaana lumesta.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Poista lumenkolausalue</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Poistaa lumenkolausmääräyksen. Yhdyskuntalaiset eivät enää yritä pitää tätä aluetta puhtaana lumesta.</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
 
@@ -67,6 +64,21 @@
   
   <DesignatorClaim>Valtaa</DesignatorClaim>
   <DesignatorClaimDesc>Valloita neutraaleja rakennelmia yhdyskunnalle, sisältäen muinaisrauniot ja hylätyt piiritys leirit. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Strip</DesignatorStrip>
+  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+
+  <DesignatorExpandAreaAllowed>Expand Allowed Area</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Clear Allowed Area</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
+  <ManageAreaAlloweds>Manage allowed areas...</ManageAreaAlloweds>
   
   
   <!-- Failure messages -->
@@ -84,15 +96,15 @@
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
 
 
-
-  <!-- placement of zones -->
+  <!-- Mouse attachments -->
   <ExpandOrCreateZone>Laajenna aluetta {0} tai\nLuo uusi {1}</ExpandOrCreateZone>
   <CreateNewZone>Luo uusi {0}</CreateNewZone>
   
   
-  <!-- desc helpers -->
+  <!-- Desc helpers -->
   <TransmitsPower>Lähettää virtaa</TransmitsPower>
 
 
