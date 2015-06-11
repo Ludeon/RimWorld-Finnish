@@ -31,11 +31,11 @@
     <PanicFlee.recoveryMessage>{0} ei enää pakene paniikissa.</PanicFlee.recoveryMessage>
     <PanicFlee.inspectLine>Murtunut: Pakenee paniikissa</PanicFlee.inspectLine>
     
-    <Manhunter.label>manhunter</Manhunter.label>
-    <Manhunter.beginLetterLabel>manhunter</Manhunter.beginLetterLabel>
-    <Manhunter.beginLetter>{0} has become a manhunter!</Manhunter.beginLetter>
-    <Manhunter.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</Manhunter.recoveryMessage>
-    <Manhunter.inspectLine>Broken: Manhunter</Manhunter.inspectLine>
+    <Manhunter.label>ihmisjahtaaja</Manhunter.label>
+    <Manhunter.beginLetterLabel>ihmisjahtaaja</Manhunter.beginLetterLabel>
+    <Manhunter.beginLetter>{0} on ryhtynyt ihmisjahtaajaksi!</Manhunter.beginLetter>
+    <Manhunter.recoveryMessage>Henkilön {0} verenhimoinen ihmisjahti on tullut päätökseensä.</Manhunter.recoveryMessage>
+    <Manhunter.inspectLine>Murtunut: Ihmisjahtaaja</Manhunter.inspectLine>
     
     <GiveUpExit.label>luovutus ja lähtö</GiveUpExit.label>
     <GiveUpExit.beginLetterLabel>luovuttanut</GiveUpExit.beginLetterLabel>
