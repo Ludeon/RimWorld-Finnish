@@ -9,10 +9,10 @@
     
     <!-- Damage multipliers should be stats on stuffs only-->
     
-    <MeleeWeapon_SharpDamageMultiplier.label>terävän lähitaisteluvahingon kerroin</MeleeWeapon_SharpDamageMultiplier.label>
-    <MeleeWeapon_SharpDamageMultiplier.description>Kerroin terävien hyökkäysten, kuten leikkaamisen tai pistämisen, vahinkoon.</MeleeWeapon_SharpDamageMultiplier.description>
+    <SharpDamageMultiplier.label>terävän vahingon kerroin</SharpDamageMultiplier.label>
+    <SharpDamageMultiplier.description>Tästä materaalista tehdyillä esineillä kerroin terävien hyökkäysten, kuten leikkaamisen tai pistämisen, vahinkoon.</SharpDamageMultiplier.description>
     
-    <MeleeWeapon_BluntDamageMultiplier.label>tylpän lähitaisteluvahingon kerroin</MeleeWeapon_BluntDamageMultiplier.label>
-    <MeleeWeapon_BluntDamageMultiplier.description>Kerroin tylppien hyökkäysten vahinkoon.</MeleeWeapon_BluntDamageMultiplier.description>
+    <BluntDamageMultiplier.label>tylpän vahingon kerroin</BluntDamageMultiplier.label>
+    <BluntDamageMultiplier.description>Tästä materaalista tehdyillä esineillä kerroin tylppien hyökkäysten vahinkoon.</BluntDamageMultiplier.description>
     
 </LanguageData>

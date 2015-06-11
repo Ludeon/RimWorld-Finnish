@@ -5,23 +5,23 @@
     
     <Malnutrition.label>aliravitsemus</Malnutrition.label>
     <rep>
-        <path>Malnutrition.stagedProps.severityStages[0].label</path>
+        <path>Malnutrition.stages[0].label</path>
         <trans>mitätön</trans>
     </rep>
     <rep>
-        <path>Malnutrition.stagedProps.severityStages[1].label</path>
+        <path>Malnutrition.stages[1].label</path>
         <trans>vähäinen</trans>
     </rep>
     <rep>
-        <path>Malnutrition.stagedProps.severityStages[2].label</path>
+        <path>Malnutrition.stages[2].label</path>
         <trans>kohtalainen</trans>
     </rep>
     <rep>
-        <path>Malnutrition.stagedProps.severityStages[3].label</path>
+        <path>Malnutrition.stages[3].label</path>
         <trans>vakava</trans>
     </rep>
     <rep>
-        <path>Malnutrition.stagedProps.severityStages[4].label</path>
+        <path>Malnutrition.stages[4].label</path>
         <trans>äärimmäinen</trans>
     </rep>
     

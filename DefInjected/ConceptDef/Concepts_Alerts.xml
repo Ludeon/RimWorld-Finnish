@@ -71,10 +71,10 @@
         <trans>Määrätäksesi lääkintäoperaation kuten elimenkeräyksen tai proteesin asentamisen avaa yhdyskuntalaisen TERVEYS-välilehti ja vaihda sitten OPERAATIOT, then switch to the OPERATIONS sub-tab.</trans>
     </rep>
     
-    <HomeRegion.label>Opettele kotialue</HomeRegion.label>
+    <HomeArea.label>Opettele kotialue</HomeArea.label>
     <rep>
-        <path>HomeRegion.helpTexts[0]</path>
-        <trans>KOTIALUEET kertovat yhdyskuntalaisille mitkä alueet tulee siivota ja missä sammuttaa tulipalot.\n\nMääritä KOTIALUE Alueet-kategoriasta Arkkitehti-valikossa.</trans>
+        <path>HomeArea.helpTexts[0]</path>
+        <trans>KOTI ALUE kertoo yhdyskuntalaisille mitkä alueet tulee siivota ja missä sammuttaa tulipalot.\n\nMääritä KOTIALUE Alueet-kategoriasta Arkkitehti-valikossa.</trans>
     </rep>
     
     <RightClickClearLetter.label>Opettele viestien poistaminen hiiren oikealla näppäimellä</RightClickClearLetter.label>

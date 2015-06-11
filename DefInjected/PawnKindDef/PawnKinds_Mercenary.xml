@@ -5,7 +5,9 @@
     
     <MercenarySniper.label>palkkatarkka-ampuja</MercenarySniper.label>
     
-    <Grenadier.label>pommimies</Grenadier.label>
+    <GrenadierDestructive.label>pommimies</GrenadierDestructive.label>
+    
+    <GrenadierEMP.label>EMP pommittaja</GrenadierEMP.label>
     
     <MercenarySlasher.label>palkattu viiltelijä</MercenarySlasher.label>
     

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <!--================================ Concrete ======================================-->
+    <!--================================ Sculptures ======================================-->
     
     <SculptureSmall.label>pieni veistos</SculptureSmall.label>
     <SculptureSmall.description>Koirankokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureSmall.description>
@@ -11,5 +11,10 @@
     
     <SculptureGrand.label>valtava veistos</SculptureGrand.label>
     <SculptureGrand.description>Autonkokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureGrand.description>
+    
+    <!--================================ Snowman ======================================-->
+    
+    <Snowman.label>snowman</Snowman.label>
+    <Snowman.description>A set of large snowballs piled and shaped to resemble a person.</Snowman.description>
     
 </LanguageData>

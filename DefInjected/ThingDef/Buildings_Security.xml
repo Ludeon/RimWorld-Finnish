@@ -24,4 +24,15 @@
     <Turret_MortarEMP.label>EMP-kranaatinheitin</Turret_MortarEMP.label>
     <Turret_MortarEMP.description>Kranaatinheitin joka ampuu EMP-kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarEMP.description>
     
+    <!--==================== Traps ======================== -->
+    
+    <TrapDeadfall.label>deadfall trap</TrapDeadfall.label>
+    <TrapDeadfall.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</TrapDeadfall.description>
+    
+    <TrapIEDBomb.label>IED trap</TrapIEDBomb.label>
+    <TrapIEDBomb.description>An artillery shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow an nimble enemy to escape.</TrapIEDBomb.description>
+    
+    <TrapIEDIncendiary.label>IED incendiary trap</TrapIEDIncendiary.label>
+    <TrapIEDIncendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. When someone disturbs the chemical trigger, it ignites burning fuel sprays. Since it doesn't need to detonate high exposives, the chemical trigger is simpler and more reliable than some others.</TrapIEDIncendiary.description>
+    
 </LanguageData>

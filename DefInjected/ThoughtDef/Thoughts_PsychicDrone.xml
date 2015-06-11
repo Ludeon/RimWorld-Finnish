@@ -5,34 +5,42 @@
     
     <rep>
         <path>PsychicDrone.stages[0].label</path>
-        <trans>psyykkinen häirintä (alhainen)</trans>
+        <trans>psychic soothe (medium)</trans>
     </rep>
     <rep>
         <path>PsychicDrone.stages[0].description</path>
-        <trans>Tuntuu kuin jokin raapisi mieltäni. Kuiskiva ääni. Saan selvää vain pari sanaa, enkä pidä niistä.</trans>
+        <trans>It's like a calming voice at the back of my mind, soothing me, settling my nerves.</trans>
     </rep>
     <rep>
         <path>PsychicDrone.stages[1].label</path>
-        <trans>psyykkinen häirintä (keskitaso)</trans>
+        <trans>psyykkinen häirintä (alhainen)</trans>
     </rep>
     <rep>
         <path>PsychicDrone.stages[1].description</path>
-        <trans>Tunnen kuin joku olisi aina puhumassa minulle näkökenttäni ulkopuolelta. Ääni muuttuu, muttei viesti. Minun pitäisi vahingoittaa ihmisiä. Vie se pois!</trans>
+        <trans>Tuntuu kuin jokin raapisi mieltäni. Kuiskiva ääni. Saan selvää vain pari sanaa, enkä pidä niistä.</trans>
     </rep>
     <rep>
         <path>PsychicDrone.stages[2].label</path>
-        <trans>psyykkinen häirintä (korkea)</trans>
+        <trans>psyykkinen häirintä (keskitaso)</trans>
     </rep>
     <rep>
         <path>PsychicDrone.stages[2].description</path>
-        <trans>Ääni on kestämättömän kova. Keskittyminen on vaikeaa. Huomaan puhuvani sille, huutavani sille. Mutta se vain jatkaa huutamista!</trans>
+        <trans>Tunnen kuin joku olisi aina puhumassa minulle näkökenttäni ulkopuolelta. Ääni muuttuu, muttei viesti. Minun pitäisi vahingoittaa ihmisiä. Vie se pois!</trans>
     </rep>
     <rep>
         <path>PsychicDrone.stages[3].label</path>
-        <trans>psyykkinen häirintä (äärimmäinen)</trans>
+        <trans>psyykkinen häirintä (korkea)</trans>
     </rep>
     <rep>
         <path>PsychicDrone.stages[3].description</path>
+        <trans>Ääni on kestämättömän kova. Keskittyminen on vaikeaa. Huomaan puhuvani sille, huutavani sille. Mutta se vain jatkaa huutamista!</trans>
+    </rep>
+    <rep>
+        <path>PsychicDrone.stages[4].label</path>
+        <trans>psyykkinen häirintä (äärimmäinen)</trans>
+    </rep>
+    <rep>
+        <path>PsychicDrone.stages[4].description</path>
         <trans>Sydämeni hakkaa ja hikoilen. Voin ajatella vain vahingoittamista ja kärsimystä ja kaikkia ympärilläni olevia vihollisia. He ovat minun painajaiseni, painajaiseni, painajaiseni...</trans>
     </rep>
     

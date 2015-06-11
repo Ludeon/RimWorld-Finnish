@@ -15,6 +15,8 @@
     
     <Arms.label>käsivarret</Arms.label>
     
+    <Shoulders.label>olkapäät</Shoulders.label>
+    
     <Hands.label>kädet</Hands.label>
     
     <LeftHand.label>vasen käsi</LeftHand.label>
@@ -39,9 +41,9 @@
     
     <FrontRightClaws.label>etuoikeat kynnet</FrontRightClaws.label>
     
-    <LeftKnifeProtrusion.label>vasen vetsiuloke</LeftKnifeProtrusion.label>
+    <LeftBlade.label>vasen terä</LeftBlade.label>
     
-    <RightKnifeProtrusion.label>oikea vetsiuloke</RightKnifeProtrusion.label>
+    <RightBlade.label>oikea terä</RightBlade.label>
     
     <CoveredByNaturalArmor.label>luonnollisen panssarin peittämä</CoveredByNaturalArmor.label>
     

@@ -3,37 +3,37 @@
     
     <Alcohol.label>alkoholi</Alcohol.label>
     <rep>
-        <path>Alcohol.stagedProps.severityStages[1].label</path>
+        <path>Alcohol.stages[1].label</path>
         <trans>lämmin</trans>
     </rep>
     <rep>
-        <path>Alcohol.stagedProps.severityStages[2].label</path>
+        <path>Alcohol.stages[2].label</path>
         <trans>humaltunut</trans>
     </rep>
     <rep>
-        <path>Alcohol.stagedProps.severityStages[3].label</path>
+        <path>Alcohol.stages[3].label</path>
         <trans>juopunut</trans>
     </rep>
     <rep>
-        <path>Alcohol.stagedProps.severityStages[4].label</path>
+        <path>Alcohol.stages[4].label</path>
         <trans>jurrissa</trans>
     </rep>
     <rep>
-        <path>Alcohol.stagedProps.severityStages[5].label</path>
+        <path>Alcohol.stages[5].label</path>
         <trans>sammunut</trans>
     </rep>
     
     <Hangover.label>krapula</Hangover.label>
     <rep>
-        <path>Hangover.stagedProps.severityStages[0].label</path>
+        <path>Hangover.stages[0].label</path>
         <trans>lievä</trans>
     </rep>
     <rep>
-        <path>Hangover.stagedProps.severityStages[1].label</path>
+        <path>Hangover.stages[1].label</path>
         <trans>vahva</trans>
     </rep>
     <rep>
-        <path>Hangover.stagedProps.severityStages[2].label</path>
+        <path>Hangover.stages[2].label</path>
         <trans>jyskyttävä</trans>
     </rep>
     

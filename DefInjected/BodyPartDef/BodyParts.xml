@@ -261,9 +261,9 @@
     
     <MechanicalThorax.label>keskiruumis</MechanicalThorax.label>
     
-    <LeftKnifeProtrusion.label>vasen veitsiuloke</LeftKnifeProtrusion.label>
+    <LeftBlade.label>vasen terä</LeftBlade.label>
     
-    <RightKnifeProtrusion.label>oikea veitsiuloke</RightKnifeProtrusion.label>
+    <RightBlade.label>oikea terä</RightBlade.label>
     
     <MechanicalNeck.label>kaula</MechanicalNeck.label>
     

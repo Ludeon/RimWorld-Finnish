@@ -10,6 +10,15 @@
     <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
     <PsychicDrone.description>Etäinen mutta voimakas tekoäly lähettää psyykkisiä voima-aaltoja, jotka saattavat ihmiset hulluuden partaalle.</PsychicDrone.description>
     
+    <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+    <PsychicSoothe.description>A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.</PsychicSoothe.description>
+    
+    <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+    <ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.</ToxicFallout.description>
+    
+    <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+    <VolcanicWinter.description>The atmosphere is choked with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.</VolcanicWinter.description>
+    
     <HeatWave.label>lämpöaalto</HeatWave.label>
     <HeatWave.description>Äärimmäinen lämpöaalto korventaa aluetta.</HeatWave.description>
     

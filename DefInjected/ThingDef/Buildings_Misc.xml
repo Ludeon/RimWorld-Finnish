@@ -5,7 +5,7 @@
     <SunLamp.description>Valaisee alueen niin kirkkaasti että viljelykasvit voivat kasvaa.</SunLamp.description>
     
     <OrbitalTradeBeacon.label>kiertoratavaihtokaupan majakka</OrbitalTradeBeacon.label>
-    <OrbitalTradeBeacon.description>Tarvitaan kiertoratavaihtokauppaan. Voit myydä vain tavaroita jotka ovat lähellä tällaista majakkaa eivätkä ole katon alla. Kiertoratavaihtokauppiaat myös pudottavat tavaransa tämän läheisyyteen.</OrbitalTradeBeacon.description>
+    <OrbitalTradeBeacon.description>Tarvitaan kiertoratavaihtokauppaan. Voit myydä vain tavaroita jotka ovat lähellä tällaista majakkaa. Voidaan asentaa sisätiloihin.</OrbitalTradeBeacon.description>
     
     <CommsConsole.label>kommunikaatiopääte</CommsConsole.label>
     <CommsConsole.description>Kommunikoi kiertoradalla olevien kauppa-alusten ja muiden ryhmien kanssa.</CommsConsole.description>

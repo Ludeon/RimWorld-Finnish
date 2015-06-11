@@ -39,6 +39,12 @@
     
     <!-- ============= Hauling ============= -->
     
+    <RearmTraps.verb>rearm</RearmTraps.verb>
+    <RearmTraps.gerund>rearming</RearmTraps.gerund>
+    
+    <Strip.verb>strip</Strip.verb>
+    <Strip.gerund>stripping</Strip.gerund>
+    
     <DoBillsCremate.verb>polttohaudata</DoBillsCremate.verb>
     <DoBillsCremate.gerund>polttohautaaminen kohteessa</DoBillsCremate.gerund>
     
@@ -101,6 +107,9 @@
     <ConstructDeliverResourcesToBlueprints.verb>työstää</ConstructDeliverResourcesToBlueprints.verb>
     <ConstructDeliverResourcesToBlueprints.gerund>työstäminen</ConstructDeliverResourcesToBlueprints.gerund>
     
+    <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
+    <ConstructRemoveFloors.gerund>removing floor</ConstructRemoveFloors.gerund>
+    
     <ConstructSmoothFloors.verb>hioa</ConstructSmoothFloors.verb>
     <ConstructSmoothFloors.gerund>hiominen</ConstructSmoothFloors.gerund>
     
@@ -152,10 +161,10 @@
     <DoBillsStonecut.verb>leikata kiviä</DoBillsStonecut.verb>
     <DoBillsStonecut.gerund>kivien leikkaaminen</DoBillsStonecut.gerund>
     
-    <DoBillsSlagRefining.verb>jalostaa</DoBillsSlagRefining.verb>
-    <DoBillsSlagRefining.gerund>jalostaminen</DoBillsSlagRefining.gerund>
+    <DoBillsSmelter.verb>jalostaa</DoBillsSmelter.verb>
+    <DoBillsSmelter.gerund>jalostaminen</DoBillsSmelter.gerund>
     
-    <DoBillsButcherMechanoid.verb>purkaa</DoBillsButcherMechanoid.verb>
-    <DoBillsButcherMechanoid.gerund>purkaminen</DoBillsButcherMechanoid.gerund>
+    <DoBillsMachiningTable.verb>purkaa</DoBillsMachiningTable.verb>
+    <DoBillsMachiningTable.gerund>purkaminen</DoBillsMachiningTable.gerund>
     
 </LanguageData>

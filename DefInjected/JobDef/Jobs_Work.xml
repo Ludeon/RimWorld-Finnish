@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--============= Item hauling ===============-->
+    
+    <HaulToCell.reportString>Siirtää esineen TargetA maahan.</HaulToCell.reportString>
+    
+    <HaulToContainer.reportString>Siirtää esinettä TargetA.</HaulToContainer.reportString>
+    
+    <!--============= Pawn hauling ===============-->
+    
+    <Rescue.reportString>Pelastaa henkilön TargetA.</Rescue.reportString>
+    
+    <CarryToCryptosleepCasket.reportString>Kantaa henkilöä TargetA salauniarkkuun.</CarryToCryptosleepCasket.reportString>
+    
+    <Capture.reportString>Kaappaa henkilön TargetA.</Capture.reportString>
+    
+    <Arrest.reportString>Pidättää henkilön TargetA.</Arrest.reportString>
+    
+    <ReleasePrisoner.reportString>Vapauttaa vankia TargetA.</ReleasePrisoner.reportString>
+    
+    <EscortPrisonerToBed.reportString>Saattaa vankia TargetA.</EscortPrisonerToBed.reportString>
+    
+    <TakeWoundedPrisonerToBed.reportString>Vie haavoittunutta vankia TargetA.</TakeWoundedPrisonerToBed.reportString>
+    
+    <TakeToBedToOperate.reportString>Vie henkilöä TargetA sänkyyn.</TakeToBedToOperate.reportString>
+    
+    <Kidnap.reportString>Kidnappaa henkilön TargetA.</Kidnap.reportString>
+    
+    <DeliverFood.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</DeliverFood.reportString>
+    
+    <FeedPatient.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</FeedPatient.reportString>
+    
+    <TreatPatient.reportString>Parantaa henkilön TargetA.</TreatPatient.reportString>
+    
+    <PlaceNoCostFrame.reportString>Rakentaa kohteen TargetA.</PlaceNoCostFrame.reportString>
+    
+    <DoBill.reportString>Täyttää tilauksen kohteessa TargetA.</DoBill.reportString>
+    
+    <Clean.reportString>Siivoaa TargetA.</Clean.reportString>
+    
+    <Research.reportString>Tutkii.</Research.reportString>
+    
+    <Hunt.reportString>Metsästää eläimen TargetA.</Hunt.reportString>    
+    
+    <UseCommsConsole.reportString>Käyttää kommunikaatiopäätettä.</UseCommsConsole.reportString>
+    
+    <Mine.reportString>Louhii kohteen TargetA.</Mine.reportString>
+    
+    <SmoothFloor.reportString>Hioo lattiaa.</SmoothFloor.reportString>
+    
+    <Repair.reportString>Korjaa kohteen TargetA.</Repair.reportString>
+    
+    <FinishFrame.reportString>Rakentaa kohteen TargetA.</FinishFrame.reportString>
+    
+    <Sow.reportString>Kylvää kohteen TargetA.</Sow.reportString>
+    
+    <Harvest.reportString>Kerää kasvin TargetA.</Harvest.reportString>
+    
+    <CutPlant.reportString>Leikkaa kasvin TargetA.</CutPlant.reportString>
+    
+    <Deconstruct.reportString>Purkaa kohteen TargetA.</Deconstruct.reportString>
+    
+    <PrisonerFriendlyChat.reportString>Keskustelee vangin TargetA kanssa.</PrisonerFriendlyChat.reportString>
+    
+    <PrisonerExecution.reportString>Teloittaa vangin TargetA.</PrisonerExecution.reportString>
+    
+</LanguageData>

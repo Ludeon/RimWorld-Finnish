@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Solitary -->
+    <!-- Meditative -->
     
     <Skygaze.reportString>Katselee taivasta.</Skygaze.reportString>
     
@@ -10,6 +10,8 @@
     <Pray.reportString>Rukoilee.</Pray.reportString>
     
     <GoForWalk.reportString>Kävelyllä.</GoForWalk.reportString>
+    
+    <BuildSnowman.reportString>Rakentaa lumiukon.</BuildSnowman.reportString>
     
     <!-- Social -->
     

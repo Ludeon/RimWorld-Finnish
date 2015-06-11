@@ -19,9 +19,9 @@
     
     <ArchitectMode.label>avaa arkkitehtivalikko</ArchitectMode.label>
     
-    <ToggleScreenshotMode.label>ruudunkaappaustila pois tai päälle</ToggleScreenshotMode.label>
-    
     <TakeScreenshot.label>ota ruudunkaappaus</TakeScreenshot.label>
+    
+    <ToggleScreenshotMode.label>ruudunkaappaustila pois tai päälle</ToggleScreenshotMode.label>
     
     <SelectNextInCell.label>valitse seuraava ruudussa</SelectNextInCell.label>
     
