@@ -147,7 +147,7 @@
 	<RotStateDessicated>Kuivunut</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
-  <ShotBy>{0} ampui tämän.</ShotBy>
+  <ShotBy>Henkilön {0} osumatarkkuus</ShotBy>
   <CannotHit>Kohteeseen ei voi osua.</CannotHit>
 
   <!-- Storage priority labels -->
