@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Special concepts with modal dialogs -->
-    
     <rep>
         <path>TradeGoodsMustBeNearBeacon.helpTexts[0]</path>
         <trans>Lähettääksesi tavaroita ja hopeaa kiertoradan vaihtokauppiaille sinun täytyy rakentaa KIERTORATAVAIHTOKAUPAN MAJAKKA ja asettaa tavarat varastoalueelle sen lähelle.</trans>

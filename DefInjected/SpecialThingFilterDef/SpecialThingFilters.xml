@@ -7,10 +7,13 @@
     <AllowCorpsesStranger.label>salli vieraat ruumiit</AllowCorpsesStranger.label>
     <AllowCorpsesStranger.description>Salli edesmenneiden vieralijoiden ja vihollisten ruumiit.</AllowCorpsesStranger.description>
     
-    <AllowBuried.label>salli haudatut ruumiit</AllowBuried.label>
-    <AllowBuried.description>Salli ruumiit, jotka on jo haudattu.</AllowBuried.description>
-    
     <AllowRotten.label>salli mädäntynyt</AllowRotten.label>
     <AllowRotten.description>Salli eloperäiset esineet, jotka ovat alkaneet mädäntyä.</AllowRotten.description>
+    
+    <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
+    <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
+    
+    <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
+    <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
     
 </LanguageData>

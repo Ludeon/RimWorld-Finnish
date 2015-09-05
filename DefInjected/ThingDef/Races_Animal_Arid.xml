@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Muffalo.label>hirvibiisoni</Muffalo.label>
+    <Muffalo.description>Suuri laiduntava kasvinsyöjä, joka on syntyisin biisonista ja sopeutunut eksoottiseen ympäristöön. Rauhantahtoinen ellei sitä häiritä.</Muffalo.description>
+    <Muffalo_Leather.label>hirvibiisonin nahkaa</Muffalo_Leather.label>
+    <Muffalo_Leather.description>Hirvibiisonin vuodasta tehtyä nahkaa.</Muffalo_Leather.description>
+    <Muffalo_Meat.label>hirvibiisonin lihaa</Muffalo_Meat.label>
+    <Muffalo_Meat.description>Raakaa hirvibiisonin lihaa.</Muffalo_Meat.description>
+    <Muffalo_Corpse.label>hirvibiisonin ruumis</Muffalo_Corpse.label>
+    <Muffalo_Corpse.description>Kuolleen hirvibiisonin ruumis.</Muffalo_Corpse.description>
+    
+    <Iguana.label>iguaani</Iguana.label>
+    <Iguana.description>Nämä suuret liskot syövät tavallisesti kasveja, mutta suututettuina niiden vahva nahka ja terävät kynnet tekevät niistä varsin vaarallisia.</Iguana.description>
+    <Iguana_Leather.label>iguaanin nahkaa</Iguana_Leather.label>
+    <Iguana_Leather.description>Iguaanin vuodasta tehtyä nahkaa.</Iguana_Leather.description>
+    <Iguana_Meat.label>iguaanin lihaa</Iguana_Meat.label>
+    <Iguana_Meat.description>Raakaa iguaanin lihaa.</Iguana_Meat.description>
+    <Iguana_Corpse.label>iguaanin ruumis</Iguana_Corpse.label>
+    <Iguana_Corpse.description>Kuolleen iguaanin ruumis.</Iguana_Corpse.description>
+    
+    <Rhinoceros.label>sarvikuono</Rhinoceros.label>
+    <Rhinoceros.description>Tämä suuri maanisäkäs on tyypillisesti rauhantahtoinen, mutta se ei epäröi rynnätä sarvensa kanssa hätistääkseen tunkeilijoita.</Rhinoceros.description>
+    <Rhinoceros_Leather.label>sarvikuonon nahkaa</Rhinoceros_Leather.label>
+    <Rhinoceros_Leather.description>Sarvikuonon vuodasta tehtyä nahkaa.</Rhinoceros_Leather.description>
+    <Rhinoceros_Meat.label>sarvikuonon lihaa</Rhinoceros_Meat.label>
+    <Rhinoceros_Meat.description>Raakaa sarvikuonon lihaa.</Rhinoceros_Meat.description>
+    <Rhinoceros_Corpse.label>sarvikuonon ruumis</Rhinoceros_Corpse.label>
+    <Rhinoceros_Corpse.description>Kuolleen sarvikuonon ruumis.</Rhinoceros_Corpse.description>
+    
+    <Dromedary.label>dromedaari</Dromedary.label>
+    <Dromedary.description>Tämä hevosen etäinen sukulainen selviää melkein viikon ilman vettä.</Dromedary.description>
+    <Dromedary_Leather.label>dromedaarin nahkaa</Dromedary_Leather.label>
+    <Dromedary_Leather.description>Dromedaarin vuodasta tehtyä nahkaa.</Dromedary_Leather.description>
+    <Dromedary_Meat.label>dromedaarin lihaa</Dromedary_Meat.label>
+    <Dromedary_Meat.description>Raakaa dromedaarin lihaa.</Dromedary_Meat.description>
+    <Dromedary_Corpse.label>dromedaarin ruumis</Dromedary_Corpse.label>
+    <Dromedary_Corpse.description>Kuolleen dromedaarin ruumis.</Dromedary_Corpse.description>
+    
+    <Elephant.label>elephant</Elephant.label>
+    <Elephant.description>The largest unmodified land animal. It can use its tusks as tools for moving objects - or as deadly weapons.</Elephant.description>
+    <Elephant_Leather.label>elephant leather</Elephant_Leather.label>
+    <Elephant_Leather.description>Leather made from the skin of a elephant.</Elephant_Leather.description>
+    <Elephant_Meat.label>elephant meat</Elephant_Meat.label>
+    <Elephant_Meat.description>Raw flesh of a elephant.</Elephant_Meat.description>
+    <Elephant_Corpse.label>elephant corpse</Elephant_Corpse.label>
+    <Elephant_Corpse.description>Dead body of a elephant.</Elephant_Corpse.description>
+    
+</LanguageData>

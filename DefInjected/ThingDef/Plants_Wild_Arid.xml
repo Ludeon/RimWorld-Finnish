@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
-    
     <PlantAgave.label>agaave</PlantAgave.label>
     <PlantAgave.description>Suurilehtinen aavikkokasvi, jonka kukat ja varret ovat syötäviä.</PlantAgave.description>
-    
-    <!--============================ Wild - Cacti ============================-->
     
     <PlantSaguaroCactus.label>jättikaktus</PlantSaguaroCactus.label>
     <PlantSaguaroCactus.description>Suuri kaktus, joka on kuivien alueiden asukas.</PlantSaguaroCactus.description>

@@ -12,18 +12,4 @@
     
     <Spark.label>kipinä</Spark.label>
     
-    <!-- ======================= Unfinished things ========================= -->
-    
-    <UnfinishedSculpture.label>Keskeneräinen veistos</UnfinishedSculpture.label>
-    
-    <UnfinishedWeapon.label>Keskeneräinen ase</UnfinishedWeapon.label>
-    
-    <UnfinishedApparel.label>Keskeneräinen vaatekappale</UnfinishedApparel.label>
-    
-    <!-- ======================= Minified things ========================= -->
-    
-    <MinifiedSculpture.label>Veistos</MinifiedSculpture.label>
-    
-    <MinifiedFurniture.label>Huonekalu</MinifiedFurniture.label>
-    
 </LanguageData>

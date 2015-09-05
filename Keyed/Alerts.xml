@@ -36,6 +36,10 @@
   <LowFood>Vähän ruokaa</LowFood>
   <LowFoodDesc>Sinulla on vain {0} täyden palkin edestä ruokaa varastossa. Tämä on vaarallisen vähän.\n\nKasvata, osta, etsi tai tapa jotain syötävää.</LowFoodDesc>
 
+  <LowMedicine>Low medicine</LowMedicine>
+  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+
   <NeedColonistBeds>Tarvitset sängyn yhdyskuntalaisille</NeedColonistBeds>
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
 
@@ -107,5 +111,8 @@
 
   <BilliardsNeedsSpace>Biljardipöytä tarvitsee tilaa</BilliardsNeedsSpace>
   <BilliardsNeedsSpaceDesc>Biljardipöytäsi on jonkin esteen vieressä, joka estää yhdyskuntalaisasi pelaamasta.\n\nBiljardipöytä tarvitsee tyhjää tilaa joka puolella ollakseen käyttökelpoinen.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
 
 </LanguageData>

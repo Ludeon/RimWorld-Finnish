@@ -3,7 +3,6 @@
 //Fallville
 Syrjäkylä
 //Rimtown
-Laskeuduimme
 //Jamestown
 Pelastus
 Unikylä
@@ -13,4 +12,53 @@ Unikylä
 //Planeton
 //Rimton
 Ludeon
-Uusikaupunki
+//Banthos
+//Parthos
+//Lutin
+//Shemston
+//Craterton
+//Wesselton
+//Stonkley
+//Flint
+//Troit
+//Planeton
+
+
+Laskeuduimme
+//We Made It
+//Landfall
+
+//Lakeside Ridge
+//Pine View
+//Flowerville
+//Sun Village
+
+
+//Congers
+//Colome
+//Sparks
+//Bedias
+//Rhine
+//Hialeah
+//Qulin
+//Crosbyton
+//Mayaguez
+//Seagraves
+//Whitaker
+//Welsh
+//Braselton
+//Colwyn
+//Sparta
+//La Minita
+//Lepanto
+//Graton
+//Progreso
+//Antioch
+//Nemacolin
+//Dannebrog
+//Palo Pinto
+//Breinigsville
+//Alturas
+//Pottstown
+//Caro
+//Sparland

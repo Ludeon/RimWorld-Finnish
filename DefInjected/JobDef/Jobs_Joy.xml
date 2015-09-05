@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Meditative -->
-    
     <Skygaze.reportString>Katselee taivasta.</Skygaze.reportString>
     
     <Meditate.reportString>Meditoi.</Meditate.reportString>
@@ -13,11 +11,9 @@
     
     <BuildSnowman.reportString>Rakentaa lumiukon.</BuildSnowman.reportString>
     
-    <!-- Social -->
+    <VisitGrave.reportString>Visiting grave.</VisitGrave.reportString>
     
     <SocialRelax.reportString>Hengailee.</SocialRelax.reportString>
-    
-    <!-- Building interaction -->
     
     <PlayHorseshoes.reportString>Heittää hevosenkenkiä.</PlayHorseshoes.reportString>
     

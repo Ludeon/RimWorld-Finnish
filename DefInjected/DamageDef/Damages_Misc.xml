@@ -9,8 +9,6 @@
     
     <Extinguish.label>sammuttaa tulta</Extinguish.label>
     
-    <!-- Stun -->
-    
     <Stun.label>tyrmäys</Stun.label>
     <Stun.deathMessage>{0} on tyrmätty kuoliaaksi.</Stun.deathMessage>
     

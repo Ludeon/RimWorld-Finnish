@@ -7,5 +7,6 @@
   <ResetBinding>Palauta oletukseen</ResetBinding>
   <BindingButtonToolTip>Paina hiiren vasenta nappia asettaaksesi tämän näppäimen tai oikeaa nappia saadaksesi valinnat</BindingButtonToolTip>
   <PressAnyKeyOrEsc>Paina mitä tahansa näppäintä tai Esc peruuttaaksesi...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
 
 </LanguageData>

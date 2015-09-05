@@ -14,11 +14,10 @@
 
   <CloseButton>Sulje</CloseButton>
 
-
   <VersionIndicator>Versio {0}</VersionIndicator>
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
   <CompiledOn>Laadittu {0}</CompiledOn>
-
+  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
 
 
   <!-- Content generation-->
@@ -47,6 +46,10 @@
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <!-- To express ownership. -->
+  <!-- For example Jack's Bedroom -->
+  <SomeonesSomething>{0}'s {1}</SomeonesSomething>
 
   <VariousLabel>(various)</VariousLabel>
 

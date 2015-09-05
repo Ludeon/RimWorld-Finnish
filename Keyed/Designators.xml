@@ -53,6 +53,12 @@
   <DesignatorAreaSnowClearClear>Poista lumenkolausalue</DesignatorAreaSnowClearClear>
   <DesignatorAreaSnowClearClearDesc>Poistaa lumenkolausmääräyksen. Yhdyskuntalaiset eivät enää yritä pitää tätä aluetta puhtaana lumesta.</DesignatorAreaSnowClearClearDesc>
 
+  <DesignatorExpandAreaAllowed>Laajenna sallittua aluetta</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Laajenna sallituksi merkittyä aluetta aluetta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Poista sallittua aluetta</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Poistaa neliöitä sallitusta alueesta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella..</DesignatorClearAreaAllowedDesc>
+  <ManageAreaAlloweds>Muokkaa sallittuja alueita...</ManageAreaAlloweds>
+
   <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
 
   <DesignatorZoneCreateStorageResourcesDesc>Luo varastoalue mihin yhdyskuntalaiset varastoivat resusseja.\nTätä voidaan käyttää myös olemassaolevien varastoalueiden laajentamiseen.</DesignatorZoneCreateStorageResourcesDesc>
@@ -74,11 +80,14 @@
   <DesignatorRearmTrap>Viritä ansa</DesignatorRearmTrap>
   <DesignatorRearmTrapDesc>Viritiä lauennut ansa uudelleen jotta se voi laueta jälleen.</DesignatorRearmTrapDesc>
 
-  <DesignatorExpandAreaAllowed>Laajenna sallittua aluetta</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Laajenna sallituksi merkittyä aluetta aluetta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>Poista sallittua aluetta</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Poistaa neliöitä sallitusta alueesta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella..</DesignatorClearAreaAllowedDesc>
-  <ManageAreaAlloweds>Muokkaa sallittuja alueita...</ManageAreaAlloweds>
+  <DesignatorOpen>Open</DesignatorOpen>
+  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Tame</DesignatorTame>
+  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
   
   
   <!-- Failure messages -->

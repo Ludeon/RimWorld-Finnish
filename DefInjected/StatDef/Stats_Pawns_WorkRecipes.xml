@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Artistic recipes - speed not affected by skill.-->
-    
     <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
     <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
     
@@ -11,8 +9,6 @@
     
     <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
     <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
-    
-    <!-- Production recipes - speed affected by skill.-->
     
     <CookSpeed.label>keittonopeus</CookSpeed.label>
     <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>

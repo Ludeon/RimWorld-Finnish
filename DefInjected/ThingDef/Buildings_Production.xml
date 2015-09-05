@@ -2,12 +2,10 @@
 <LanguageData>
     
     <NutrientPasteDispenser.label>ravinnetahna-annostelija</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>Tekee orgaaniseista raaka-aineista synteettista ravinnetahnaa.</NutrientPasteDispenser.description>
+    <NutrientPasteDispenser.description>Tekee orgaaniseista raaka-aineista synteettista ravinnetahnaa. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
     
     <Hopper.label>suppilo</Hopper.label>
     <Hopper.description>Varaa resursseja koneiden, kuten ravinnetahnan jakajan, käyttöön.</Hopper.description>
-    
-    <!-- ========================= Work tables ==========================-->
     
     <TableButcher.label>teurastuspöytä</TableButcher.label>
     <TableButcher.description>Raskas pöytä kuolleiden olioiden teurastamiseen raaoiksi lihanpalasiksi.</TableButcher.description>
@@ -36,13 +34,11 @@
     <ElectricSmelter.label>sähköinen sulatusuuni</ElectricSmelter.label>
     <ElectricSmelter.description>Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon virtaa.</ElectricSmelter.description>
     
-    <Crematorium.label>krematorio</Crematorium.label>
-    <Crematorium.description>Polttaa ruumiita.</Crematorium.description>
-    
     <ResearchBench.label>tutkimuspöytä</ResearchBench.label>
     <ResearchBench.description>Tutkijat työskentelevät tässä keksiäkseen uusia asioita.</ResearchBench.description>
     
-    <!-- ========== Hydroponics ==============-->
+    <Crematorium.label>krematorio</Crematorium.label>
+    <Crematorium.description>Polttaa ruumiita.</Crematorium.description>
     
     <HydroponicsBasin.label>vesiviljelyallas</HydroponicsBasin.label>
     <HydroponicsBasin.description>Ruokakasvien kasvattamiseen. Vesiviljelyaltaat kasvattavat muutaman kasvin nopeasti.</HydroponicsBasin.description>

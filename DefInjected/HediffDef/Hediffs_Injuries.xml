@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Injuries -->
-    
     <Misc.label>muu</Misc.label>
     <rep>
         <path>Misc.comps[0].labelTreatedWell</path>
@@ -457,7 +455,15 @@
         <trans>Paleltuman tuhoama</trans>
     </rep>
     
-    <!-- Missing body part -->
+    <BrainDamage.label>brain damage</BrainDamage.label>
+    <rep>
+        <path>BrainDamage.comps[0].oldLabel</path>
+        <trans>brain damage</trans>
+    </rep>
+    <rep>
+        <path>BrainDamage.injuryProps.destroyedLabel</path>
+        <trans>Damaged</trans>
+    </rep>
     
     <MissingBodyPart.label>puuttuva ruumiinosa</MissingBodyPart.label>
     

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <FilthBlood.label>verta</FilthBlood.label>
-    
-    <FilthSlime.label>limaa</FilthSlime.label>
-    
-    <FilthVomit.label>oksennusta</FilthVomit.label>
-    
     <FilthDirt.label>multaa</FilthDirt.label>
+    
+    <FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
     
     <FilthSand.label>hiekkaa</FilthSand.label>
     
@@ -16,5 +12,13 @@
     <BuildingRubble.label>rakennuksen jäänteet</BuildingRubble.label>
     
     <SandbagRubble.label>hajonneita hiekkasäkkejä</SandbagRubble.label>
+        
+    <FilthBlood.label>verta</FilthBlood.label>
+    
+    <FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
+    
+    <FilthSlime.label>limaa</FilthSlime.label>
+    
+    <FilthVomit.label>oksennusta</FilthVomit.label>
     
 </LanguageData>

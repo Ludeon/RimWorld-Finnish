@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Special concepts with modal dialogs -->
-    
     <rep>
         <path>WorldCameraMovement.helpTexts[0]</path>
-        <trans>Zoomaa maailmankarttaa HIIREN RULLALLA.\n\nSiirrä kuvaa kartan yllä WASD tai NUOLINÄPPÄIMILLÄ tai painamalla hiiren rullaa ja vetämällä.</trans>
+        <trans>Zoomaa maailmankarttaa HIIREN RULLALLA tai PAGEUP/PAGEDOWN-näppäimillä.\n\nSiirrä kuvaa WASD- tai NUOLINÄPPÄIMILLÄ tai painamalla HIIREN RULLAA ja vetämällä.</trans>
     </rep>
     
 </LanguageData>

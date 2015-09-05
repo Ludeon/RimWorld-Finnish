@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--=========================== Crops ==============================-->
-    
     <PlantPotato.label>perunakasvi</PlantPotato.label>
     <PlantPotato.description>Yksinkertainen erittäin ravitseva mukulakasvi. Kasvaa hyvin suhteellisen köyhässä maaperässä.</PlantPotato.description>
     
@@ -11,6 +9,9 @@
     
     <PlantRice.label>riisikasvi</PlantRice.label>
     <PlantRice.description>Lyhyt heinäkasvi joka kukoistaa hedelmäällisessä maassa ja tuottaa ruokaa nopeasti mutta ei ole hyvää raakana.</PlantRice.description>
+    
+    <PlantHaygrass.label>haygrass</PlantHaygrass.label>
+    <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>
     
     <PlantStrawberry.label>mansikkakasvi</PlantStrawberry.label>
     <PlantStrawberry.description>Hauras mutta maukas hedelmä. Herkullienn jopa raakana.</PlantStrawberry.description>
@@ -22,12 +23,10 @@
     <PlantDevilstrand.description>Tämä hauras sieni on geneettisesti muokattu tuottamaan erittäin korkealuokkaista silkkiverkkoa. Siinä on pitkään huhuttu olevan mystisiä ominaisuuksia, ja se on saanut nimesä ihmisten ahneudesta sitä kohtaan.</PlantDevilstrand.description>
     
     <PlantXerigium.label>xerigium</PlantXerigium.label>
-    <PlantXerigium.description>Uudisasukkaat ovat jalostaneet tämän kasvin vuosisatojen saatossa. Heimolaiset kutsuvat sitä myös joskus &quot;parantajankädeksi&quot; - se on saanut tämän lempinimen viiden lääketieteellisen hyveensä ansiosta.</PlantXerigium.description>
+    <PlantXerigium.description>Uudisasukkaat ovat jalostaneet tämän kasvin vuosisatojen saatossa. Heimolaiset kutsuvat sitä myös joskus "parantajankädeksi" - se on saanut tämän lempinimen viiden lääketieteellisen hyveensä ansiosta.</PlantXerigium.description>
     
     <PlantHops.label>humalakasvi</PlantHops.label>
     <PlantHops.description>Kukkiva kasvi joka tuottaa humalaa ja on tärkeä ainesosa oluessa.</PlantHops.description>
-    
-    <!--=========================== Decorative ==============================-->
     
     <PlantRose.label>ruusu</PlantRose.label>
     <PlantRose.description>Kaunis viljelty kasvi.</PlantRose.description>

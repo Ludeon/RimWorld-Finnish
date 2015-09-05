@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MeleeHitChance.label>lähitaistelun osumatarkkuus</MeleeHitChance.label>
-    <MeleeHitChance.description>Alkuarvo todennäköisyydelle kohteeseen osumiseen lähitaistelussa.</MeleeHitChance.description>
+    <MeleeDPS.label>melee DPS</MeleeDPS.label>
+    <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
     
     <ShootingAccuracy.label>ampumisen osumatarkkuus</ShootingAccuracy.label>
     <ShootingAccuracy.description>Alkuarvo osumisen todennäköisyydelle etäisyyden yhtä neliötä kohti.</ShootingAccuracy.description>
     
     <AimingDelayFactor.label>tähtäysaika</AimingDelayFactor.label>
     <AimingDelayFactor.description>Miten kauan ampumiseen kuluu aikaa kohteeseen lukittumisen jälkeen.</AimingDelayFactor.description>
+    
+    <MeleeHitChance.label>lähitaistelun osumatarkkuus</MeleeHitChance.label>
+    <MeleeHitChance.description>Alkuarvo todennäköisyydelle kohteeseen osumiseen lähitaistelussa.</MeleeHitChance.description>
     
 </LanguageData>

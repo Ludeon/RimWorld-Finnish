@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Beam -->
-    
     <Ship_Beam.label>avaruusaluksen rakennepalkki</Ship_Beam.label>
     <Ship_Beam.description>Rakennepalkki, jonka ympärille avaruusaluksen voi rakentaa.</Ship_Beam.description>
-    
-    <!-- Cryptosleep casket -->
     
     <Ship_CryptosleepCasket.label>avaruusaluksen salauniarkku</Ship_CryptosleepCasket.label>
     <Ship_CryptosleepCasket.description>Ulkoavaruuden vaaroja vastaan kovennettu salauniarkku. Kykenee ylläpitämään yhden hengen salaunessa vuosisatojen ajan avaruudessa ja selviämään ilmakehään palaamisesta.</Ship_CryptosleepCasket.description>
     
-    <!-- Computer core -->
-    
     <Ship_ComputerCore.label>avaruusaluksen tietokoneydin</Ship_ComputerCore.label>
     <Ship_ComputerCore.description>Yli-inhimillisen tekoälyn varastoimiseen kykenevä tietokoneydin. Tekoäly pystyy selvittämään minkä tahansa haasteen.</Ship_ComputerCore.description>
     
-    <!-- Reactor -->
-    
     <Ship_Reactor.label>avaruusaluksen reaktori</Ship_Reactor.label>
     <Ship_Reactor.description>Tuo alukselle virtaa sen matkalle avaruuden halki.</Ship_Reactor.description>
-    
-    <!-- Engine -->
     
     <Ship_Engine.label>avaruusaluksen moottori</Ship_Engine.label>
     <Ship_Engine.description>Antimaterialla toimiva moottori, joka kykenee laukaisemaan aluksen kiertoradalle ja tähtienvälisille lentoradoille.</Ship_Engine.description>

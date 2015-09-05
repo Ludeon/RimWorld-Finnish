@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- Start-active concepts -->
-    
     <Forbidding.label>Salli resursseja</Forbidding.label>
     <rep>
         <path>Forbidding.helpTexts[0]</path>
@@ -21,8 +19,6 @@
         <trans>Määritä KASVATUSALUE Arkkitehti-valikosta kasvattaaksesi ruokaa.\n\nNe voidaan määrittää vain hedelmällisille alueille.</trans>
     </rep>
     
-    <!-- Timed concepts -->
-    
     <EquippingWeapons.label>Ota aseet käyttöön</EquippingWeapons.label>
     <rep>
         <path>EquippingWeapons.helpTexts[0]</path>
@@ -35,10 +31,10 @@
         <trans>Lähennä ja loitonna kuvaa käyttämällä HIIREN RULLAA tai T- ja G-näppäimiä.</trans>
     </rep>
     
-    <WorkOverview.label>Muokkaa työasetuksia</WorkOverview.label>
+    <WorkTab.label>Muokkaa työasetuksia</WorkTab.label>
     <rep>
-        <path>WorkOverview.helpTexts[0]</path>
-        <trans>Voit asettaa jokaisen yhdyskuntalaisen työasetukset YLEISKATSAUS-näkymässä ruudun oikeassa alakulmassa.\n\nHe tekevät aina löytämänsä korkeimman prioriteetin työn.\n\nJos kenelläkään ei ole jotain työtä asetettuna, tai he ovat tekemässä korkeamman prioriteetin töitä, työ ei tule koskaan tehdyksi.</trans>
+        <path>WorkTab.helpTexts[0]</path>
+        <trans>Voit asettaa jokaisen yhdyskuntalaisen työasetukset TYÖT-näkymässä ruudun vasemmassa alakulmassa.\n\nHe tekevät aina löytämänsä korkeimman prioriteetin työn.\n\nJos kenelläkään ei ole jotain työtä asetettuna, tai he ovat tekemässä korkeamman prioriteetin töitä, työ ei tule koskaan tehdyksi.</trans>
     </rep>
     
     <TimeControls.label>Opettele aikakontrollit</TimeControls.label>
@@ -82,8 +78,6 @@
         <path>RightClickClearLetter.helpTexts[0]</path>
         <trans>Voit nopeasti hankkiutua eroon tulevista viesteistä painamalla niitä hiiren oikealla näppäimellä.</trans>
     </rep>
-    
-    <!-- Opportunity needer concepts -->
     
     <BuildOrbitalTradeBeacon.label>Rakenna kiertoratavaihtokaupan majakka</BuildOrbitalTradeBeacon.label>
     <rep>

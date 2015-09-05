@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <Squirrel.label>orava</Squirrel.label>
+    
+    <Boomrat.label>paukkurotta</Boomrat.label>
+    
+    <WildBoar.label>wild boar</WildBoar.label>
+    
     <Deer.label>peura</Deer.label>
     
     <Tortoise.label>kilpikonna</Tortoise.label>
@@ -10,5 +16,7 @@
     <Elk.label>hirvi</Elk.label>
     
     <Alphabeaver.label>alfamajava</Alphabeaver.label>
+    
+    <Thrumbo.label>thrumbo</Thrumbo.label>
     
 </LanguageData>

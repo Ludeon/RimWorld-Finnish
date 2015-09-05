@@ -22,8 +22,6 @@
     <Apparel_TribalA.label>heimovaate</Apparel_TribalA.label>
     <Apparel_TribalA.description>Kivikautisilla työkaluilla koottu vaatekappale.</Apparel_TribalA.description>
     
-    <!-- ============= Stuff-less apparel =================-->
-    
     <Apparel_VestPlate.label>panssariliivi</Apparel_VestPlate.label>
     <Apparel_VestPlate.description>Liivi, johon on ommeltu panssarilevyjä eteen ja taakse. Suojaa luodeilta.</Apparel_VestPlate.description>
     

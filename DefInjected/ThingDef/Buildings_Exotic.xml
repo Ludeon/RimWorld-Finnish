@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <CrashedShipPart.label>avaruusaluksen hylyn osa</CrashedShipPart.label>
-    <CrashedShipPart.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tällainen tegnologia voi olla vaarallinen.</CrashedShipPart.description>
+    <CrashedPsychicEmanatorShipPart.label>avaruusaluksen hylyn osa</CrashedPsychicEmanatorShipPart.label>
+    <CrashedPsychicEmanatorShipPart.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tällainen tegnologia voi olla vaarallinen.</CrashedPsychicEmanatorShipPart.description>
+    
+    <CrashedPoisonShipPart.label>myrkkyavaruusaluksen hylyn osa</CrashedPoisonShipPart.label>
+    <CrashedPoisonShipPart.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tämä näyttää myrkyttävän ympäristöään.</CrashedPoisonShipPart.description>
     
 </LanguageData>

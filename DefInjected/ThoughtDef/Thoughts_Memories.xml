@@ -7,7 +7,7 @@
     </rep>
     <rep>
         <path>SleepDisturbed.stages[0].description</path>
-        <trans>Minun untani häirittiin kun joku liikkui huoneessa.</trans>
+        <trans>Minun untani häirittiin kun joku liikkui lähistöllä. Yksityinen huone ratkaisisi asian.</trans>
     </rep>
     
     <rep>
@@ -45,8 +45,6 @@
         <path>AteLavishMeal.stages[0].description</path>
         <trans>Tuo yltäkylläinen ateria oli mahtava. Se ravitsi minun ruumiini ja sieluni.</trans>
     </rep>
-    
-    <!-- =========== Cannibalism ===============-->
     
     <rep>
         <path>AteHumanlikeMeatDirect.stages[0].label</path>
@@ -101,8 +99,6 @@
         <path>AteWithoutTable.stages[0].description</path>
         <trans>Minun täyty syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</trans>
     </rep>
-    
-    <!-- Combat -->
     
     <rep>
         <path>ObservedLayingCorpse.stages[0].label</path>
@@ -231,30 +227,80 @@
     </rep>
     
     <rep>
-        <path>KnowPrisonerExecuted.stages[0].label</path>
-        <trans>vanki teloitettiin</trans>
+        <path>KnowGuestExecuted.stages[0].label</path>
+        <trans>someone put to death</trans>
     </rep>
     <rep>
-        <path>KnowPrisonerExecuted.stages[0].description</path>
-        <trans>Vanki teloitettiin kylmäverisesti. Tästä yhdyskunnasta on tulossa ilkeämpi päivä päivältä.</trans>
+        <path>KnowGuestExecuted.stages[0].description</path>
+        <trans>A prisoner or guest was put to death.</trans>
+    </rep>
+    <rep>
+        <path>KnowGuestExecuted.stages[1].label</path>
+        <trans>someone was executed</trans>
+    </rep>
+    <rep>
+        <path>KnowGuestExecuted.stages[1].description</path>
+        <trans>A prisoner or guest was killed in cold blood. This colony seems more evil by the day.</trans>
+    </rep>
+    <rep>
+        <path>KnowGuestExecuted.stages[2].label</path>
+        <trans>organ harvested and killed</trans>
+    </rep>
+    <rep>
+        <path>KnowGuestExecuted.stages[2].description</path>
+        <trans>A prisoner or guest died because the colony took body parts from him. It's horrible.</trans>
     </rep>
     
     <rep>
-        <path>KnowPrisonerOrganHarvested.stages[0].label</path>
-        <trans>vangilta kerättiin elin</trans>
+        <path>KnowColonistExecuted.stages[0].label</path>
+        <trans>colonist put to death</trans>
     </rep>
     <rep>
-        <path>KnowPrisonerOrganHarvested.stages[0].description</path>
-        <trans>Yhdyskunta otti ruumiinosia vangilta. Se on kamalaa hajottaa joku osiksi eivätkä he voi väittää vastaan.</trans>
+        <path>KnowColonistExecuted.stages[0].description</path>
+        <trans>A colonist was put to death.</trans>
+    </rep>
+    <rep>
+        <path>KnowColonistExecuted.stages[1].label</path>
+        <trans>colonist was executed</trans>
+    </rep>
+    <rep>
+        <path>KnowColonistExecuted.stages[1].description</path>
+        <trans>A colonist was killed in cold blood. This colony seems more evil by the day.</trans>
+    </rep>
+    <rep>
+        <path>KnowColonistExecuted.stages[2].label</path>
+        <trans>colonist's organ harvested, killed</trans>
+    </rep>
+    <rep>
+        <path>KnowColonistExecuted.stages[2].description</path>
+        <trans>A colonist died because someone took body parts from him. It's horrible.</trans>
     </rep>
     
     <rep>
-        <path>MePrisonerOrganHarvested.stages[0].label</path>
-        <trans>elin kerätty</trans>
+        <path>KnowGuestOrganHarvested.stages[0].label</path>
+        <trans>someone's organ harvested</trans>
     </rep>
     <rep>
-        <path>MePrisonerOrganHarvested.stages[0].description</path>
-        <trans>Yhdyskunta keräsi minulta ruumiinosia! He hajottavat minut kuin vanhan moottorin!</trans>
+        <path>KnowGuestOrganHarvested.stages[0].description</path>
+        <trans>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</trans>
+    </rep>
+    
+    <rep>
+        <path>KnowColonistOrganHarvested.stages[0].label</path>
+        <trans>colonist's organ harvested</trans>
+    </rep>
+    <rep>
+        <path>KnowColonistOrganHarvested.stages[0].description</path>
+        <trans>Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice.</trans>
+    </rep>
+    
+    <rep>
+        <path>MyOrganHarvested.stages[0].label</path>
+        <trans>my organ harvested</trans>
+    </rep>
+    <rep>
+        <path>MyOrganHarvested.stages[0].description</path>
+        <trans>The colony harvested body parts from me! They're breaking me down like an old engine!</trans>
     </rep>
     
     <rep>
@@ -281,7 +327,7 @@
     </rep>
     <rep>
         <path>SocialTalk.stages[0].description</path>
-        <trans>Keskustelin juuri hyvän tyypin kanssa.</trans>
+        <trans>Keskustelin hyvän tyypin kanssa.</trans>
     </rep>
     
     <rep>
@@ -290,7 +336,7 @@
     </rep>
     <rep>
         <path>AbrasiveTalk.stages[0].description</path>
-        <trans>Joku oli töykeä minua kohtaan. Pahin asia on se, ettei hän edes tajunnut sitä...</trans>
+        <trans>Joku oli töykeä minua kohtaan.</trans>
     </rep>
     
     <rep>
@@ -309,6 +355,24 @@
     <rep>
         <path>Catharsis.stages[0].description</path>
         <trans>Mitä juuri tapahtui... Se ei ollut minunlaistani. Tiedän pystyväni parempaan.</trans>
+    </rep>
+    
+    <rep>
+        <path>Nuzzled.stages[0].label</path>
+        <trans>nuzzled</trans>
+    </rep>
+    <rep>
+        <path>Nuzzled.stages[0].description</path>
+        <trans>A cute animal nuzzled me.</trans>
+    </rep>
+    
+    <rep>
+        <path>SomeoneBuriedInSarcophagus.stages[0].label</path>
+        <trans>buried in sarcophagus</trans>
+    </rep>
+    <rep>
+        <path>SomeoneBuriedInSarcophagus.stages[0].description</path>
+        <trans>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</trans>
     </rep>
     
 </LanguageData>

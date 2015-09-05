@@ -4,6 +4,12 @@
     <RecruitPrisonerChance.label>vanginvärväyden todennäköisyys</RecruitPrisonerChance.label>
     <RecruitPrisonerChance.description>Alkupiste todennäköisyydelle, että tämä henkilö värvää vangin.</RecruitPrisonerChance.description>
     
+    <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
+    <TameAnimalChance.description>Base chance this person will tame an animal.</TameAnimalChance.description>
+    
+    <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
+    <TrainAnimalChance.description>Base chance this person will make progress training an animal on a given attempt. May change based on the animal.</TrainAnimalChance.description>
+    
     <SocialImpact.label>keskustelun vaikuttavuus</SocialImpact.label>
     <SocialImpact.description>Kun tämä henkilö vuorovaikuttaa sosiaalisesti, toinen henkilö vaikuttuu tämän verran.</SocialImpact.description>
     

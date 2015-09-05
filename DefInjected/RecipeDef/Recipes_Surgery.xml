@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- new body parts - natural -->
-    
     <InstallNaturalHeart.label>asenna sydän</InstallNaturalHeart.label>
     <InstallNaturalHeart.description>Asentaa sydämen.</InstallNaturalHeart.description>
     <InstallNaturalHeart.jobString>Asentaa sydäntä.</InstallNaturalHeart.jobString>
@@ -18,8 +16,6 @@
     <InstallNaturalLung.label>asenna keuhko</InstallNaturalLung.label>
     <InstallNaturalLung.description>Asentaa keuhkon.</InstallNaturalLung.description>
     <InstallNaturalLung.jobString>Asentaa keuhkoa.</InstallNaturalLung.jobString>
-    
-    <!-- new body parts - artificial -->
     
     <InstallPegLeg.label>asenna puujalka</InstallPegLeg.label>
     <InstallPegLeg.description>Asentaa puujalan.</InstallPegLeg.description>
@@ -57,7 +53,13 @@
     <InstallScytherBlade.description>Asentaa viikateulokkeen.</InstallScytherBlade.description>
     <InstallScytherBlade.jobString>Asentaa viikateuloketta.</InstallScytherBlade.jobString>
     
-  	<!-- removing body parts -->
+    <InstallJoywire.label>install joywire</InstallJoywire.label>
+    <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
+    <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+    
+    <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+    <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
+    <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
     
     <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
     <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>
@@ -66,8 +68,6 @@
     <RemoveMechanoidBodyPart.label>poista ruumiinosa</RemoveMechanoidBodyPart.label>
     <RemoveMechanoidBodyPart.description>Poistaa ruumiinosan.</RemoveMechanoidBodyPart.description>
     <RemoveMechanoidBodyPart.jobString>Poistaa ruumiinosaa.</RemoveMechanoidBodyPart.jobString>
-    
-  	<!-- Euthanization -->
     
     <Euthanize.label>armomurhaa</Euthanize.label>
     <Euthanize.description>Suorittaa eutanasian.</Euthanize.description>

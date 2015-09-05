@@ -25,4 +25,7 @@
     <ColdSnap.label>pakkaskausi</ColdSnap.label>
     <ColdSnap.description>Epätavallinen pakkaskausi jäädyttää aluetta.</ColdSnap.description>
     
+    <Flashstorm.label>flashstorm</Flashstorm.label>
+    <Flashstorm.description>Extreme amounts of lightning are hitting a small region.</Flashstorm.description>
+    
 </LanguageData>

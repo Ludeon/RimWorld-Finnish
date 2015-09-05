@@ -3,6 +3,8 @@
 
   <IndefiniteArticle></IndefiniteArticle>
   <DefiniteArticle></DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
 
   <Proits>sen</Proits>
   <Prohis>hänen</Prohis>
@@ -25,6 +27,5 @@
   <ProsheCap>Hän</ProsheCap>
   <ProitCap>Se</ProitCap>
   
-
 
 </LanguageData>

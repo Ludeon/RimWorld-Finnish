@@ -15,6 +15,12 @@
     
     <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
     
+    <OtherFoodRaw.label>animal products</OtherFoodRaw.label>
+    
+    <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
+    
+    <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+    
     <Manufactured.label>tuotetut</Manufactured.label>
     
     <Textiles.label>tekstiilit</Textiles.label>
@@ -47,7 +53,7 @@
     
     <Headgear.label>päähineet</Headgear.label>
     
-    <BodyParts.label>ruumiinosat</BodyParts.label>
+    <BodyPartsAndImplants.label>ruumiinosat</BodyPartsAndImplants.label>
     
     <Chunks.label>kimpaleet</Chunks.label>
     

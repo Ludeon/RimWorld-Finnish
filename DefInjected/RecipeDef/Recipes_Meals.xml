@@ -5,10 +5,6 @@
     <CookMealSimple.description>Kokkaa mutkattoman aterian yhdestä aineksesta.</CookMealSimple.description>
     <CookMealSimple.jobString>Kokkaa yksinkertaista ateriaa.</CookMealSimple.jobString>
     
-    <CookMealSimpleCampfire.label>kokkaa yksinkertainen ateria</CookMealSimpleCampfire.label>
-    <CookMealSimpleCampfire.description>Kokkaa mutkattoman aterian yhdestä aineksesta.</CookMealSimpleCampfire.description>
-    <CookMealSimpleCampfire.jobString>Kokkaa yksinkertaista ateriaa.</CookMealSimpleCampfire.jobString>
-    
     <CookMealFine.label>kokkaa hieno ateria</CookMealFine.label>
     <CookMealFine.description>Kokkaa jokseenkin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia.</CookMealFine.description>
     <CookMealFine.jobString>Kokkaa hienoa ateriaa.</CookMealFine.jobString>

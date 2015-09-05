@@ -12,7 +12,7 @@
     
     <rep>
         <path>SharedBedroom.stages[0].label</path>
-        <trans>jakaa makuuhuoneen</trans>
+        <trans>jaettu makuuhuone</trans>
     </rep>
     <rep>
         <path>SharedBedroom.stages[0].description</path>

@@ -17,7 +17,19 @@
   <Born>Syntynyt: {0} {1} {2}</Born>
   <AgeChronological>Kronologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeChronological>
   <AgeBiological>Biologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeBiological>
-
   <DaysHours>{0} päivää, {1} tuntia</DaysHours>
 
+  <!-- Date periods -->
+  <Period1Month>1 month</Period1Month>
+  <PeriodMonths>{0} months</PeriodMonths>
+  <Period1Day>1 day</Period1Day>
+  <PeriodDays>{0} days</PeriodDays>
+  <Period1Hour>1 hour</Period1Hour>
+  <PeriodHours>{0} hours</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Started</Started>
+  <Lasted>Lasted</Lasted>
+  
+  
 </LanguageData>

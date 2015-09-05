@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- ================= Wood floor ================= -->
-    
-    <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>
-    <WoodPlankFloor.description>Puulankuista tehty lattianpäällyste. Luo lämpimän ja kotoisan tunnelman.</WoodPlankFloor.description>
-    
-    <!-- ================= Tile ================= -->
-    
     <MetalTile.label>metallilaatta</MetalTile.label>
     <MetalTile.description>Metallilaattoja avaruusalustunnelman luomiseen.</MetalTile.description>
+    
+    <SilverTile.label>silver tile</SilverTile.label>
+    <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+    
+    <GoldTile.label>gold tile</GoldTile.label>
+    <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+    
+    <SterileTile.label>sterile tile</SterileTile.label>
+    <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
     
     <PavedTile.label>betonilaatta</PavedTile.label>
     <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
     
-    <!-- ================= Carpets ================= -->
+    <Concrete.label>betoni</Concrete.label>
+    <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
+    
+    <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>
+    <WoodPlankFloor.description>Puulankuista tehty lattianpäällyste. Luo lämpimän ja kotoisan tunnelman.</WoodPlankFloor.description>
     
     <CarpetRed.label>punainen kokolattiamatto</CarpetRed.label>
     <CarpetRed.description>Pehmeä matto viehättävässä ruunvärisessä sävyssä.</CarpetRed.description>
@@ -25,9 +31,10 @@
     <CarpetBlue.label>sininen kokolattiamatto</CarpetBlue.label>
     <CarpetBlue.description>Pehmeä varpaita hyväilevä matto viileässä sinisessä sävyssä.</CarpetBlue.description>
     
-    <!-- ================= Foundation solids ================= -->
+    <CarpetCream.label>cream carpet</CarpetCream.label>
+    <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
     
-    <Concrete.label>betoni</Concrete.label>
-    <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
+    <CarpetDark.label>dark carpet</CarpetDark.label>
+    <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
     
 </LanguageData>

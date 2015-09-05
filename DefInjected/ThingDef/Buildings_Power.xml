@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<PowerConduit.label>sähkökaapeli</PowerConduit.label>
-	<PowerConduit.description>Nippu sähköjohtimia tehon siirtämiseen.</PowerConduit.description>
+	<PowerConduit.description>Nippu sähköjohtimia tehon siirtämiseen. Can be placed under walls and other buildings.</PowerConduit.description>
     
     <PowerSwitch.label>virrankatkaisin</PowerSwitch.label>
     <PowerSwitch.description>Kytkee virran päälle ja pois.</PowerSwitch.description>

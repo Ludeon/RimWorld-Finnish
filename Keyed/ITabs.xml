@@ -5,6 +5,7 @@
   <TabBills>Tilaukset</TabBills>
   <TabGrowing>Kasvatus</TabGrowing>
   <TabCharacter>Henkilö</TabCharacter>
+  <TabTraining>Training</TabTraining>
   <TabPrisoner>Vanki</TabPrisoner>
   <TabGuest>Vieras</TabGuest>
   <TabGear>Varusteet</TabGear>
@@ -85,9 +86,12 @@
   <ExtremePain>Järjetön</ExtremePain>
 
 
+  <!-- Training tab-->
+  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
 
-
-
+  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
 
 
 

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--============= Item hauling ===============-->
-    
     <HaulToCell.reportString>Siirtää esineen TargetA maahan.</HaulToCell.reportString>
     
     <HaulToContainer.reportString>Siirtää esinettä TargetA.</HaulToContainer.reportString>
-    
-    <!--============= Pawn hauling ===============-->
     
     <Rescue.reportString>Pelastaa henkilön TargetA.</Rescue.reportString>
     
@@ -26,6 +22,16 @@
     <TakeToBedToOperate.reportString>Vie henkilöä TargetA sänkyyn.</TakeToBedToOperate.reportString>
     
     <Kidnap.reportString>Kidnappaa henkilön TargetA.</Kidnap.reportString>
+    
+    <Slaughter.reportString>Slaughtering TargetA.</Slaughter.reportString>
+    
+    <Milk.reportString>Milking TargetA.</Milk.reportString>
+    
+    <Shear.reportString>Shearing TargetA.</Shear.reportString>
+    
+    <Tame.reportString>Taming TargetA.</Tame.reportString>
+    
+    <Train.reportString>Training TargetA.</Train.reportString>
     
     <DeliverFood.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</DeliverFood.reportString>
     
@@ -49,6 +55,8 @@
     
     <SmoothFloor.reportString>Hioo lattiaa.</SmoothFloor.reportString>
     
+    <RemoveFloor.reportString>Removing floor.</RemoveFloor.reportString>
+    
     <Repair.reportString>Korjaa kohteen TargetA.</Repair.reportString>
     
     <FinishFrame.reportString>Rakentaa kohteen TargetA.</FinishFrame.reportString>
@@ -61,8 +69,14 @@
     
     <Deconstruct.reportString>Purkaa kohteen TargetA.</Deconstruct.reportString>
     
+    <Uninstall.reportString>Uninstalling TargetA.</Uninstall.reportString>
+    
     <PrisonerFriendlyChat.reportString>Keskustelee vangin TargetA kanssa.</PrisonerFriendlyChat.reportString>
     
+    <PrisonerAttemptRecruit.reportString>Attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
+    
     <PrisonerExecution.reportString>Teloittaa vangin TargetA.</PrisonerExecution.reportString>
+    
+    <BuryCorpse.reportString>Burying TargetA.</BuryCorpse.reportString>
     
 </LanguageData>

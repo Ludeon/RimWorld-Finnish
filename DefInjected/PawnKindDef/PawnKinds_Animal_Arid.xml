@@ -3,16 +3,12 @@
     
 	<Muffalo.label>hirvibiisoni</Muffalo.label>
 	
-	<Squirrel.label>orava</Squirrel.label>
-	
-	<Boomrat.label>paukkurotta</Boomrat.label>
-	
-	<Megascarab.label>jättipillerinpyörittäjä</Megascarab.label>
-	
 	<Iguana.label>iguaani</Iguana.label>
 	
 	<Rhinoceros.label>sarvikuono</Rhinoceros.label>
 	
 	<Dromedary.label>dromedaari</Dromedary.label>
+    
+    <Elephant.label>elephant</Elephant.label>
 	
 </LanguageData>

@@ -41,9 +41,35 @@
   <PowerSwitch_Power>Virta</PowerSwitch_Power>
   <JoyTolerances>Kyllästyminen huvitteluun</JoyTolerances>
   <BrokenLetterLabel>Murtunut</BrokenLetterLabel>
+  <MilkFullness>Milk fullness</MilkFullness>
+  <WoolGrowth>Wool growth</WoolGrowth>
+  <EggProgress>Egg progress</EggProgress>
+  <Fertilized>Fertilized</Fertilized>
+  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+  
+  <!--TextMotes-->
+  <Headshot>Headshot</Headshot>
+  <TreatQuality>treat quality {0}</TreatQuality>
+  <PoorResult>poor result</PoorResult>
+  <GoodResult>good result</GoodResult>
+  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
+  <HarvestFailed>Harvest\nfailed</HarvestFailed>
+  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
+  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
+  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+
+
+  <!-- Areas -->
+  <Home>Home</Home>
+  <NoRoof>No roof</NoRoof>
+  <SnowClear>Snow clear</SnowClear>
   <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
   <NoAreaAllowed>Unrestricted</NoAreaAllowed>
   <NewArea>New area</NewArea>
+  <NewAreaAnimal>New animal area</NewAreaAnimal>
   <InvertArea>Invert</InvertArea>
   
   <!-- Control -->
@@ -103,11 +129,9 @@
   <MentalBreakThresholdSoft>Vaimean hermoromahduksen kynnys</MentalBreakThresholdSoft>
 
   <!-- Pawn info readout -->
-  <Health>Terveys</Health>
-  <PawnMainDescWithFactionGendered>{0} ryhmän {2} {1}</PawnMainDescWithFactionGendered>
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-  <PawnMainDescWithFactionGenderless>Ryhmän {1} {0}</PawnMainDescWithFactionGenderless>
-  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <Faction>Ryhmä</Faction>
   <Equipped>Varuste</Equipped>
   <EquippedNothing>Ei mitään</EquippedNothing>
@@ -204,8 +228,10 @@
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Alueiden näkyvyys.</ZoneVisibilityToggleButton>
   <ShowBeautyToggleButton>Aseta päälle kauneusnäkymä.\n\nNäyttää ympäristön kauneuden kuten kursorin kohdalla seisova hahmo sen näkisi.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
   <AutoHomeAreaToggleButton>Laajenna kotialuetta automaattisesti uusien rakennusten ympärille.</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Aseta luokiteltu materiaalivalikko päälle tai pois.</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
 
   <!-- Fire -->
   <Fire>Tulipalo</Fire>
@@ -247,6 +273,9 @@
   <UseNeurotrainer>Käytä älykkyysvalmentajaa oppiaksesi {0}</UseNeurotrainer>
   <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
   
+  <!-- Artifact -->
+  <UseArtifact>Activate</UseArtifact>
+  
   <!-- Minification -->
   <Installed>Asennettu</Installed>
   <NotInstalled>Asentamaton</NotInstalled>
@@ -287,4 +316,8 @@
   <TrapNotArmed>Not armed</TrapNotArmed>
   <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
   
+  <!-- Facilities -->
+  <InactiveFacility>inactive</InactiveFacility>
+  
+
 </LanguageData>

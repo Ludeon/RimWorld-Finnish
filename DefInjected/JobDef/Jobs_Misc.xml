@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--========= General ============-->
-    
     <Goto.reportString>Liikkuu.</Goto.reportString>
     
     <GotoSafeTemperature.reportString>Etsii turvallista lämpötilaa.</GotoSafeTemperature.reportString>
@@ -22,7 +20,7 @@
     <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
     
     <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
-
+    
     
     <Equip.reportString>Ottaa TargetA käyttöön.</Equip.reportString>  
     
@@ -32,15 +30,17 @@
     
     <Strip.reportString>Riisuu TargetA.</Strip.reportString>
     
+    <Open.reportString>Opening TargetA.</Open.reportString>
+    
     <RearmTrap.reportString>Virittää ansan TargetA.</RearmTrap.reportString>
     
     <ManTurret.reportString>Käyttää konetta.</ManTurret.reportString>
     
     <EnterCryptosleepCasket.reportString>Menee salauniarkkuun.</EnterCryptosleepCasket.reportString>
     
-    <OpenCryptosleepCasket.reportString>Avaa salauniarkkua.</OpenCryptosleepCasket.reportString>
-    
     <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
+    
+    <UseArtifact.reportString>Activating artifact.</UseArtifact.reportString>
     
     <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
     
@@ -48,15 +48,11 @@
     
     <Flick.reportString>Kääntää kytkintä.</Flick.reportString>
     
-    <!--============ Fire ============-->
-    
     <Ignite.reportString>Sytyttää kohdetta TargetA.</Ignite.reportString>
     
     <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>
     
     <ExtinguishSelf.reportString>Sammuttaa itsensä tulesta.</ExtinguishSelf.reportString>
-    
-    <!--============ Need satisfaction ============-->
     
     <Ingest.reportString>Syö ruuan TargetA.</Ingest.reportString>
     

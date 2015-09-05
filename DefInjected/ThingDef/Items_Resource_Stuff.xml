@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--=============== Pure stuffs: Basics ====================-->
-    
     <Silver.label>hopeaa</Silver.label>
     <Silver.description>Tätä metallia käytetään useimmiten kauppatavaran valuuttana. Sitä voidaan myös käyttää viehättävien koristeiden tekemiseen.</Silver.description>
     <Silver.stuffProps.stuffAdjective>hopeinen</Silver.stuffProps.stuffAdjective>
@@ -19,15 +17,9 @@
     <Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
     <Plasteel.stuffProps.stuffAdjective>muoviteräksinen</Plasteel.stuffProps.stuffAdjective>
     
-    <WoodLog.label>puuta</WoodLog.label>
-    <WoodLog.description>Puuta puista ja muista puuvartisista kasveista. Hyödyllinen rakentamiseen, aseissa ja jopa yksinkertaisissa proteeseissa. Puuta voi hätätilassa käyttää aseena.</WoodLog.description>
-    <WoodLog.stuffProps.stuffAdjective>puinen</WoodLog.stuffProps.stuffAdjective>
-    
     <Uranium.label>uraania</Uranium.label>
     <Uranium.description>Äärimmäisen kova ja tiheä metalli. Vaikka sen tunnetuin käyttökohde on ydinreaktoreissa, sen fysikaaliset ominaisuudet tekevät siitä sopivan joissain tarkoituksissa työkaluna, aseena tai panssarina.</Uranium.description>
     <Uranium.stuffProps.stuffAdjective>uraanista tehty</Uranium.stuffProps.stuffAdjective>
-    
-    <!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
     
     <Cloth.label>kangasta</Cloth.label>
     <Cloth.description>Orgaanisista kuiduista kudottua kangasta.</Cloth.description>
@@ -45,40 +37,16 @@
     <Hyperweave.description>Huipputeknologisia nanokuituja kankaaksi kudottuna. Se on jokseenkin painava, mutta sitä on uskomattoman vaikea rikkoa.</Hyperweave.description>
     <Hyperweave.stuffProps.stuffAdjective>hyperkudottu</Hyperweave.stuffProps.stuffAdjective>
     
-    <!--=============== Raw foods ====================-->
+    <MuffaloWool.label>muffalo wool</MuffaloWool.label>
+    <MuffaloWool.description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</MuffaloWool.description>
+    <MuffaloWool.stuffProps.stuffAdjective>muffalo wool</MuffaloWool.stuffProps.stuffAdjective>
     
-    <RawHops.label>humalaa</RawHops.label>
-    <RawHops.description>Raakaa humalaa. Mauste- ja säilöntäaine jota tarvitaan oluen tekemiseen.</RawHops.description>
+    <CamelHair.label>camelhair</CamelHair.label>
+    <CamelHair.description>Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</CamelHair.description>
+    <CamelHair.stuffProps.stuffAdjective>camelhair</CamelHair.stuffProps.stuffAdjective>
     
-    <RawPotatoes.label>perunoita</RawPotatoes.label>
-    <RawPotatoes.description>Raakoja perunoita.</RawPotatoes.description>
-    
-    <RawCorn.label>maissia</RawCorn.label>
-    <RawCorn.description>Raakaa maissia. Mukava syödä jopa raakana.</RawCorn.description>
-    
-    <RawRice.label>riisiä</RawRice.label>
-    <RawRice.description>Raakaa riisiä.</RawRice.description>
-    
-    <RawBerries.label>marjoja</RawBerries.label>
-    <RawBerries.description>Sekalaisia marjoja. Mukavia syödä myös raakana.</RawBerries.description>
-    
-    <RawAgave.label>agaavehedelmä</RawAgave.label>
-    <RawAgave.description>Raaka agaavehedelmä.</RawAgave.description>
-    
-    <!--=============== Medicine ====================-->
-    
-    <HerbalMedicine.label>yrttilääkkeitä</HerbalMedicine.label>
-    <HerbalMedicine.description>Paketillinen yrttisekoituksia, joita uutetaan yleensä xerigium-kasvista. Ei yhtä tehokkaita kuin teollisesti valmistetut lääkkeet.</HerbalMedicine.description>
-    
-    <Medicine.label>lääketarpeita</Medicine.label>
-    <Medicine.description>Lääkintähenkilökunta käytää näitä tarvikkeita parantaakseen haavoittuneita.</Medicine.description>
-    
-    <GlitterworldMedicine.label>avaruusajan lääketarpeita</GlitterworldMedicine.label>
-    <GlitterworldMedicine.description>Kehittyneitä lääketarpeita hyipputeknologiselta planeetalta.</GlitterworldMedicine.description>
-    
-    <!--=============== Shells ====================-->
-    
-    <ArtilleryShell.label>tykin kranaatteja</ArtilleryShell.label>
-    <ArtilleryShell.description>Ammutaan kranaatinheittimistä.</ArtilleryShell.description>
+    <AlpacaWool.label>alpaca wool</AlpacaWool.label>
+    <AlpacaWool.description>The remarkably soft wool of an alpaca.</AlpacaWool.description>
+    <AlpacaWool.stuffProps.stuffAdjective>alpaca wool</AlpacaWool.stuffProps.stuffAdjective>
     
 </LanguageData>

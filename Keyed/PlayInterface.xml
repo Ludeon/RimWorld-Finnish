@@ -1,15 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Overview>Yleiskatsaus</Overview>
-  <OverviewTip>Hallitse yhdyskunnan työprioriteetteja ja tilastoja.</OverviewTip>
-  <ResearchTip>Tutki ja päätä kehitysprojekteista.</ResearchTip>
   <Wiki>Wiki</Wiki>
   <WikiTip>Avaa selaimen RimWorld wikiin (englanninkielinen) josta saat apua pelaamiseen.</WikiTip>
   <Menu>Valikko</Menu>
-  <MenuTip>Tallenna, lataa tai lopeta peli tai vaihda asetuksia.</MenuTip>
-
-  <Architect>Arkkitehti</Architect>
-
 
 </LanguageData>

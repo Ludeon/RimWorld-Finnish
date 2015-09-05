@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-       
-    <!-- =========== Misc chunks =========== -->
     
     <ChunkSlagSteel.label>metallikuonaa</ChunkSlagSteel.label>
-    
-    <!-- =========== Stone solids, chunks, and blocks =========== -->
     
     <Sandstone.label>hiekkakiveä</Sandstone.label>
     <Sandstone.description>Sedimenttikiveä joka koostuu yhteenpakkautuneista hiekanjyvistä.</Sandstone.description>

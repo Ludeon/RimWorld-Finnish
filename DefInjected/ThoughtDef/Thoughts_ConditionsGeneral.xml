@@ -144,4 +144,29 @@
         <trans>Minä palan. Voisin kuolla tähän kuumuuteen!</trans>
     </rep>
     
+    <rep>
+        <path>Crowded.stages[0].label</path>
+        <trans>a little bit crowded</trans>
+    </rep>
+    <rep>
+        <path>Crowded.stages[0].description</path>
+        <trans>It's a little bit crowded here.</trans>
+    </rep>
+    <rep>
+        <path>Crowded.stages[1].label</path>
+        <trans>crowded</trans>
+    </rep>
+    <rep>
+        <path>Crowded.stages[1].description</path>
+        <trans>This place is crowded. I would feel much better if there was more free space.</trans>
+    </rep>
+    <rep>
+        <path>Crowded.stages[2].label</path>
+        <trans>very crowded</trans>
+    </rep>
+    <rep>
+        <path>Crowded.stages[2].description</path>
+        <trans>This place is so crowded I can barely breathe. I need more space.</trans>
+    </rep>
+    
 </LanguageData>

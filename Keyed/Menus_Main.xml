@@ -45,11 +45,22 @@
   <GenerateWorld>Luo maailma</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
-  <GetMods>Hanki modeja</GetMods>
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
-  <Author>Tekijä</Author>
   <ConfirmDisableCoreMod>Oletko varma että haluat poistaa ytimen modin? Peli ei toimi ellei sinulla ole toista modia mikä korvaa kaikki ytimen keskinäiset toiminnot.\n\nMuista, muut modit voivat kumota def:ejä ytimen modissa käyttämällä samaa defName:a.</ConfirmDisableCoreMod>
-
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <Author>Tekijä</Author>
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <DownloadingMod>Downloading {0}</DownloadingMod>
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
@@ -62,6 +73,7 @@
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
+  <SelectRandomSite>Select random site</SelectRandomSite>
   <SelectSite>Valitse alue</SelectSite>
   <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
@@ -105,8 +117,8 @@
   <NoneLower>ei mitään</NoneLower>
   <Adulthood>Aikuisuus</Adulthood>
   <Childhood>Lapsuus</Childhood>
-  <Male>Uros</Male>
-  <Female>Naaras</Female>
+  <Male>uros</Male>
+  <Female>naaras</Female>
   <Pain>Kipu</Pain>
   
   

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Deer.label>peura</Deer.label>
+    <Deer.description>Keskikokoinen laiduntava kasvinsyöjä. Yleensä rauhantahtoinen ellei sitä häiritä.</Deer.description>
+    <Deer_Leather.label>peuran nahkaa</Deer_Leather.label>
+    <Deer_Leather.description>Peuran vuodasta tehtyä nahkaa.</Deer_Leather.description>
+    <Deer_Meat.label>peuran lihaa</Deer_Meat.label>
+    <Deer_Meat.description>Raakaa peuran lihaa.</Deer_Meat.description>
+    <Deer_Corpse.label>peuran ruumis</Deer_Corpse.label>
+    <Deer_Corpse.description>Kuolleen peuran ruumis.</Deer_Corpse.description>
+    
+    <Squirrel.label>orava</Squirrel.label>
+    <Squirrel.description>Yksi monista kätevistä jyrsijälajeista, joka seuraa ihmiskuntaa kaikkialle minne se leviää.</Squirrel.description>
+    <Squirrel_Leather.label>oravan nahkaa</Squirrel_Leather.label>
+    <Squirrel_Leather.description>Oravan vuodasta tehtyä nahkaa.</Squirrel_Leather.description>
+    <Squirrel_Meat.label>oravan lihaa</Squirrel_Meat.label>
+    <Squirrel_Meat.description>Raakaa oravan lihaa.</Squirrel_Meat.description>
+    <Squirrel_Corpse.label>oravan ruumis</Squirrel_Corpse.label>
+    <Squirrel_Corpse.description>Kuolleen oravan ruumis.</Squirrel_Corpse.description>
+    
+    <Elk.label>hirvi</Elk.label>
+    <Elk.description>Suuri hirvieläimien heimon jäsen ja kylmiin ilmastoihin hyvin sopeutunut.</Elk.description>
+    <Elk_Leather.label>hirven nahkaa</Elk_Leather.label>
+    <Elk_Leather.description>Hirven vuodasta tehtyä nahkaa.</Elk_Leather.description>
+    <Elk_Meat.label>hirven lihaa</Elk_Meat.label>
+    <Elk_Meat.description>Raakaa hirven lihaa.</Elk_Meat.description>
+    <Elk_Corpse.label>hirven ruumis</Elk_Corpse.label>
+    <Elk_Corpse.description>Kuolleen hirven ruumis.</Elk_Corpse.description>
+    
+    <Alphabeaver.label>alfamajava</Alphabeaver.label>
+    <Alphabeaver.description>Suuri majavasta geenimuunneltu eläin, joka on suunniteltu keräämään puuta konemaisella tehokkuudella. Erikoistunee ruokinnan puutteessa nämä eläimet tulevat hulluksi ja syövät puita kokonaisina.</Alphabeaver.description>
+    <Alphabeaver_Leather.label>alfamajavan nahkaa</Alphabeaver_Leather.label>
+    <Alphabeaver_Leather.description>Alfamajavan vuodasta tehtyä nahkaa.</Alphabeaver_Leather.description>
+    <Alphabeaver_Meat.label>alfamajavan lihaa</Alphabeaver_Meat.label>
+    <Alphabeaver_Meat.description>Raakaa alfamajavan lihaa.</Alphabeaver_Meat.description>
+    <Alphabeaver_Corpse.label>alfamajavan ruumis</Alphabeaver_Corpse.label>
+    <Alphabeaver_Corpse.description>Kuolleen alfamajavan ruumis.</Alphabeaver_Corpse.description>
+    
+    <WildBoar.label>villisika</WildBoar.label>
+    <WildBoar.description>Vaikka jotkin kulttuurit pitävät sitä epäpuhtaana, tätä kesytetyn sian karvaista esi-isää pidetään arvossa sen lihan maun takia.</WildBoar.description>
+    <WildBoar_Leather.label>villisian nahkaa</WildBoar_Leather.label>
+    <WildBoar_Leather.description>Villisian vuodasta tehtyä nahkaa.</WildBoar_Leather.description>
+    <WildBoar_Meat.label>villisian lihaa</WildBoar_Meat.label>
+    <WildBoar_Meat.description>Raakaa villisian lihaa.</WildBoar_Meat.description>
+    <WildBoar_Corpse.label>villisian ruumis</WildBoar_Corpse.label>
+    <WildBoar_Corpse.description>Kuolleen villisian ruumis.</WildBoar_Corpse.description>
+    
+    <Boomrat.label>paukkurotta</Boomrat.label>
+    <Boomrat.description>Nämä jyrsijämäiset oliot tuottavat kuollessaan voimakkaan räjähdyksen joko ihmisen tekemän geneettisen aseistamisen tai epätavallisen puolustusmekansimin takia.</Boomrat.description>
+    <Boomrat_Leather.label>paukkurotan nahkaa</Boomrat_Leather.label>
+    <Boomrat_Leather.description>Paukkurotan vuodasta tehtyä nahkaa.</Boomrat_Leather.description>
+    <Boomrat_Meat.label>paukkurotan lihaa</Boomrat_Meat.label>
+    <Boomrat_Meat.description>Raakaa paukkurotan lihaa.</Boomrat_Meat.description>
+    <Boomrat_Corpse.label>paukkurotan ruumis</Boomrat_Corpse.label>
+    <Boomrat_Corpse.description>Kuolleen paukkurotan ruumis.</Boomrat_Corpse.description>
+    
+    <Hare.label>jänis</Hare.label>
+    <Hare.description>Tämä pieni yksin liikkuva kasvinsyöjä pystyy loikkimaan nopeasti pois vaaran tieltä.</Hare.description>
+    <Hare_Leather.label>jäniksen nahkaa</Hare_Leather.label>
+    <Hare_Leather.description>Jäniksen vuodasta tehtyä nahkaa.</Hare_Leather.description>
+    <Hare_Meat.label>jäniksen lihaa</Hare_Meat.label>
+    <Hare_Meat.description>Raakaa jäniksen lihaa.</Hare_Meat.description>
+    <Hare_Corpse.label>jäniksen ruumis</Hare_Corpse.label>
+    <Hare_Corpse.description>Kuolleen jäniksen ruumis.</Hare_Corpse.description>
+    
+    <Tortoise.label>kilpikonna</Tortoise.label>
+    <Tortoise.description>Tämä raskaasti panssaroitu matelija on tunnettu hitaasta nopeudestaan ja yllättävän rajusta puremastaan.</Tortoise.description>
+    <Tortoise_Leather.label>kilpikonnan nahkaa</Tortoise_Leather.label>
+    <Tortoise_Leather.description>Kilpikonnan vuodasta tehtyä nahkaa.</Tortoise_Leather.description>
+    <Tortoise_Meat.label>kilpikonnan lihaa</Tortoise_Meat.label>
+    <Tortoise_Meat.description>Raakaa kilpikonnan lihaa.</Tortoise_Meat.description>
+    <Tortoise_Corpse.label>kilpikonnan ruumis</Tortoise_Corpse.label>
+    <Tortoise_Corpse.description>Kuolleen kilpikonnan ruumis.</Tortoise_Corpse.description>
+    
+    <Thrumbo.label>thrumbo</Thrumbo.label>
+    <Thrumbo.description>A gigantic creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. Its long fur is exceptionally beautiful and valuable, and its razor-sharp horn is very valuable in most markets. Legends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</Thrumbo.description>
+    <Thrumbo_Leather.label>thrumbo leather</Thrumbo_Leather.label>
+    <Thrumbo_Leather.description>Leather made from the skin of a thrumbo.</Thrumbo_Leather.description>
+    <Thrumbo_Meat.label>thrumbo meat</Thrumbo_Meat.label>
+    <Thrumbo_Meat.description>Raw flesh of a thrumbo.</Thrumbo_Meat.description>
+    <Thrumbo_Corpse.label>thrumbo corpse</Thrumbo_Corpse.label>
+    <Thrumbo_Corpse.description>Dead body of a thrumbo.</Thrumbo_Corpse.description>
+    
+</LanguageData>

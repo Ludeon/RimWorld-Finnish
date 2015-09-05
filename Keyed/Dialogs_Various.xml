@@ -7,6 +7,10 @@
   <GoBack>Takaisin</GoBack>
   <OK>OK</OK>
   
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  
   <!-- Save/load -->
   <SaveGameButton>Tallenna</SaveGameButton>
   <OverwriteButton>Korvaa</OverwriteButton>
@@ -19,7 +23,8 @@
   <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>  
+  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
+  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}</ProblemSavingFile>
   
   <!-- Colony naming-->
   <NameColonyMessage>Näyttää siltä, että joudutte olemaan täällä kauan. {0} ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
@@ -41,14 +46,10 @@
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
   <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
   
-
   <!-- Resolution change dialog -->
   <ConfirmResolutionChange>Vaihdoit resoluutiota. Toimiiko uusi kunnolla?\n\nAutomaattinen palautus {0}...</ConfirmResolutionChange>
   <ResolutionKeep>Pidä resoluutio</ResolutionKeep>
   <ResolutionRevert>Palauta</ResolutionRevert>
-
-  <!-- Overview -->
-  <OverviewOf>Yhdyskunnan {0} yleiskatsaus</OverviewOf>
 
   <!-- Research -->
   <Research>Tutki</Research>
@@ -89,6 +90,7 @@
   <WorkAmount>Työn määrä</WorkAmount>
   <MinimumSkills>Minimitaito:</MinimumSkills>
   <BillRequires>Tarvitsee {0} kategoriasta {1}</BillRequires>
+  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
   <BillRequiresMayVary>(Määrä saattaa vaihdella esineillä, joilla on epästandardi koko, kuten kullalla.)</BillRequiresMayVary>
   <ThisIsSmallVolume>Tämä on pienikokoinen ainesosa. Tämä tarkoittaa sitä, että jokainen 'yksikkö' on vain 1/20 normaalikokoisen ainesosan määrästä. Siten täyttääksesi saman ainesosavaatimuksen tarvitset 20 kertaa suuremman määrän.</ThisIsSmallVolume>
   <UsableIngredients>käytettävät ainekset</UsableIngredients>
@@ -123,13 +125,15 @@
   <Joy>Hupi</Joy>
   <FoodQuality>Ruuan laatu</FoodQuality>
   <WalkSpeedProperty>Kävelynopeus</WalkSpeedProperty>
-  <ButcherYield>Teurastuksen saanto</ButcherYield>
   <MinFoodQuality>Min. ruoan laatu</MinFoodQuality>
   <Diet>Dieetti</Diet>
   <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
   <BasePrice>Perushinta</BasePrice>
   <Covers>Suojaa</Covers>
   <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
+  <MoodChange>Mood change</MoodChange>
+  <Wildness>Wildness</Wildness>
+  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
   
   <!-- Trade -->
   <DragToTrade>Vedä vaihtaaksesi</DragToTrade>
@@ -148,6 +152,7 @@
   <TraderWillNotTrade>Vaihtokauppias ei suostu vaihtamaan tällaisia tavaroita.</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Neuvottelijasi {0} ei pysty puhumaan kunnolla huonon terveyden vuoksi.\n\nTällä on vaikutusta vaihtohintoihin.\n\nHarkitse terveemmässä kunnossa olevan neuvottelijan käyttöä.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>Vaihtokauppiaalla ei ole tarpeeksi hopeaa kauppaa varten.  Jatka silti?</ConfirmTraderShortFunds>
+  <SortBy>Sort by</SortBy>
 
   <!-- Comms -->
   <SocialSkillIs>Sosiaaliset taidot: {0}</SocialSkillIs>

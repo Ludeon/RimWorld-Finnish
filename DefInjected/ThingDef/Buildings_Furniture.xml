@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--============================== Beds ==============================-->
-    
     <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
     <SleepingSpot.Description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava. Lepäämisen tehokkuus: 7/10</SleepingSpot.Description>
     
@@ -14,8 +12,15 @@
     
     <HospitalBed.label>sairasvuode</HospitalBed.label>
     <HospitalBed.Description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.Description>
-
-    <!--======================= Basic domestic furniture ==============================-->
+    
+    <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+    
+    <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+    
+    <AnimalBed.label>animal bed</AnimalBed.label>
+    <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
     
     <Stool.label>jakkara</Stool.label>
     <Stool.description>Tämän päällä istutaan.</Stool.description>
@@ -35,8 +40,6 @@
     <PlantPot.label>kukkaruukku</PlantPot.label>
     <PlantPot.description>Istuta koristekukkia tähän parantaaksesi lähellä olevien ihmisten mielialaa.</PlantPot.description>
     
-    <!-- ======================== Lighting ======================= -->
-    
     <StandingLamp.label>jalkalamppu</StandingLamp.label>
     <StandingLamp.description>Seisova lamppu joka valaisee alueen.</StandingLamp.description>
     
@@ -49,9 +52,7 @@
     <StandingLamp_Blue.label>jalkalamppu (sininen)</StandingLamp_Blue.label>
     <StandingLamp_Blue.description>Seisova lamppu joka valaisee alueen sinisellä valolla.</StandingLamp_Blue.description>
     
-    <!--============================== Storage ==============================-->
-    
     <EquipmentRack.label>varusteteline</EquipmentRack.label>
-    <EquipmentRack.description>Kuljettajat kantavat tähän varusteita varastoon.</EquipmentRack.description>
+    <EquipmentRack.description>Items stored in this will not deteriorate, even if outside.</EquipmentRack.description>
     
 </LanguageData>
