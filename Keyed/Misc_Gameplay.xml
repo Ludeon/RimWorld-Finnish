@@ -18,7 +18,6 @@
   <NotEnoughStoredLower>ei tarpeeksi varastossa</NotEnoughStoredLower>
   <NothingLower>ei mitään</NothingLower>
   <Adapted>Mukautunut</Adapted>
-  <Headshot>Osuma päähän</Headshot>
   <FreshMissingBodyPart>tuore</FreshMissingBodyPart>
   <UntreatedLower>hoitamaton</UntreatedLower>
   <DevelopedImmunityLower>kehittynyt vastustuskyky</DevelopedImmunityLower>
@@ -48,7 +47,7 @@
   <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
   
   <!--TextMotes-->
-  <Headshot>Headshot</Headshot>
+  <Headshot>Osuma päähän</Headshot>
   <TreatQuality>treat quality {0}</TreatQuality>
   <PoorResult>poor result</PoorResult>
   <GoodResult>good result</GoodResult>
@@ -107,14 +106,14 @@
 
 	<!-- Shooting report -->
   <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
-	<ShootReportSkill>Taito</ShootReportSkill>
+	<ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
 	<ShootReportWeapon>Ase</ShootReportWeapon>
 	<Darkness>Pimeys</Darkness>
 	<TargetProne>Kohde makuulla</TargetProne>
 	<TargetSize>Kohteen koko</TargetSize>
 	<Weather>Sää</Weather>
 	<ShootingCover>Suoja</ShootingCover>
-	<CoverThingBlocksPercentOfShots>{0} pysäyttää {1}:n</CoverThingBlocksPercentOfShots>
+	<CoverThingBlocksPercentOfShots>{0} pysäyttää {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>ei suojaa</NoCoverLower>
 	
   <!-- Generated recipes -->

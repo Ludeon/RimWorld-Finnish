@@ -57,7 +57,7 @@
   <DesignatorExpandAreaAllowedDesc>Laajenna sallituksi merkittyä aluetta aluetta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella.</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>Poista sallittua aluetta</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>Poistaa neliöitä sallitusta alueesta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella..</DesignatorClearAreaAllowedDesc>
-  <ManageAreaAlloweds>Muokkaa sallittuja alueita...</ManageAreaAlloweds>
+  <ManageAreas>Muokkaa alueita...</ManageAreas>
 
   <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
 
