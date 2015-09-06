@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <rep>
-        <path>MoodOffsetSanguine.stages[0].label</path>
-        <trans>toiveikas</trans>
-    </rep>
-    <rep>
-        <path>MoodOffsetSanguine.stages[0].description</path>
-        <trans>Luonnollinen mielialalisä Toiveikas-luonteenpiirteestä.</trans>
-    </rep>
+    <MoodOffsetSanguine.stages.0.label>toiveikas</MoodOffsetSanguine.stages.0.label>
+    <MoodOffsetSanguine.stages.0.description>Luonnollinen mielialalisä Toiveikas-luonteenpiirteestä.</MoodOffsetSanguine.stages.0.description>
     
-    <rep>
-        <path>MoodOffsetOptimist.stages[0].label</path>
-        <trans>optimisti</trans>
-    </rep>
-    <rep>
-        <path>MoodOffsetOptimist.stages[0].description</path>
-        <trans>Luonnollinen mielialalisä Optimisti-luonteenpiirteestä.</trans>
-    </rep>
+    <MoodOffsetOptimist.stages.0.label>optimisti</MoodOffsetOptimist.stages.0.label>
+    <MoodOffsetOptimist.stages.0.description>Luonnollinen mielialalisä Optimisti-luonteenpiirteestä.</MoodOffsetOptimist.stages.0.description>
     
-    <rep>
-        <path>MoodOffsetPessimist.stages[0].label</path>
-        <trans>pessimisti</trans>
-    </rep>
-    <rep>
-        <path>MoodOffsetPessimist.stages[0].description</path>
-        <trans>Luonnollinen haitta Pessimisti-luonteenpiirteestä.</trans>
-    </rep>
+    <MoodOffsetPessimist.stages.0.label>pessimisti</MoodOffsetPessimist.stages.0.label>
+    <MoodOffsetPessimist.stages.0.description>Luonnollinen haitta Pessimisti-luonteenpiirteestä.</MoodOffsetPessimist.stages.0.description>
     
-    <rep>
-        <path>MoodOffsetDepressive.stages[0].label</path>
-        <trans>masentava</trans>
-    </rep>
-    <rep>
-        <path>MoodOffsetDepressive.stages[0].description</path>
-        <trans>Luonnollinen haitta Masentava-luonteenpiirteestä.</trans>
-    </rep>
+    <MoodOffsetDepressive.stages.0.label>masentava</MoodOffsetDepressive.stages.0.label>
+    <MoodOffsetDepressive.stages.0.description>Luonnollinen haitta Masentava-luonteenpiirteestä.</MoodOffsetDepressive.stages.0.description>
     
 </LanguageData>

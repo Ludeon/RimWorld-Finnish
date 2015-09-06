@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <rep>
-        <path>WorldCameraMovement.helpTexts[0]</path>
-        <trans>Zoomaa maailmankarttaa HIIREN RULLALLA tai PAGEUP/PAGEDOWN-näppäimillä.\n\nSiirrä kuvaa WASD- tai NUOLINÄPPÄIMILLÄ tai painamalla HIIREN RULLAA ja vetämällä.</trans>
-    </rep>
+    <WorldCameraMovement.helpTexts.0>Zoomaa maailmankarttaa HIIREN RULLALLA tai PAGEUP/PAGEDOWN-näppäimillä.\n\nSiirrä kuvaa WASD- tai NUOLINÄPPÄIMILLÄ tai painamalla HIIREN RULLAA ja vetämällä.</WorldCameraMovement.helpTexts.0>
     
 </LanguageData>

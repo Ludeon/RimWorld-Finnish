@@ -1,72 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <rep>
-        <path>CameraDolly.helpTexts[0]</path>
-        <trans>Liikuta kameraa painamalla HIIREN RULLAA ja pitämällä sitä pohjassa tai WASD-näppäimillä.</trans>
-    </rep>
+    <CameraDolly.helpTexts.0>Liikuta kameraa painamalla HIIREN RULLAA ja pitämällä sitä pohjassa tai WASD-näppäimillä.</CameraDolly.helpTexts.0>
     
-    <rep>
-        <path>Rescuing.helpTexts[0]</path>
-        <trans>Pelastaaksesi haavoittuneen yhdyskuntalaisen valitse terve yhdyskuntalainen ja paina haavoittunutta hiiren oikealla näppäimellä.</trans>
-    </rep>
+    <Rescuing.helpTexts.0>Pelastaaksesi haavoittuneen yhdyskuntalaisen valitse terve yhdyskuntalainen ja paina haavoittunutta hiiren oikealla näppäimellä.</Rescuing.helpTexts.0>
     
-    <rep>
-        <path>Capturing.helpTexts[0]</path>
-        <trans>Vihollinen on liikuntakyvytön. Voit kaapata hänet!</trans>
-    </rep>
-    <rep>
-        <path>Capturing.helpTexts[1]</path>
-        <trans>Jotta voit kaapata, valitse yhdyskuntalainen, paina liikuntakyvyttöntä vihollista hiiren oikealla näppäimellä ja valitse Kaappaa.\n\nTarvitsen ylimääräisen sängyn joka on merkitty vankien käyttöön.</trans>
-    </rep>
+    <Capturing.helpTexts.0>Vihollinen on liikuntakyvytön. Voit kaapata hänet!</Capturing.helpTexts.0>
+    <Capturing.helpTexts.1>Jotta voit kaapata, valitse yhdyskuntalainen, paina liikuntakyvyttöntä vihollista hiiren oikealla näppäimellä ja valitse Kaappaa.\n\nTarvitsen ylimääräisen sängyn joka on merkitty vankien käyttöön.</Capturing.helpTexts.1>
     
-    <rep>
-        <path>Drafting.helpTexts[0]</path>
-        <trans>Ohjataksesi yhdyskuntalaista suoraan taistelussa Värvää heidät valitsemalla heidät ja painamalla VÄRVÄÄ-nappia.</trans>
-    </rep>
-    <rep>
-        <path>Drafting.helpTexts[1]</path>
-        <trans>Värvätty yhdyskuntalainen tekee vain sen minkä käsket ja noudattaa vain taistelukäskyjä. Aseistetut yhdyskuntalaiset käyttävät niitä kun mahdollista.\n\nÄlä jätä yhdyskuntalaisia Värvätyiksi ikuisesti - he nääntyvät nälkään ja tulevat suruullisiksi.</trans>
-    </rep>
+    <Drafting.helpTexts.0>Ohjataksesi yhdyskuntalaista suoraan taistelussa Värvää heidät valitsemalla heidät ja painamalla VÄRVÄÄ-nappia.</Drafting.helpTexts.0>
+    <Drafting.helpTexts.1>Värvätty yhdyskuntalainen tekee vain sen minkä käsket ja noudattaa vain taistelukäskyjä. Aseistetut yhdyskuntalaiset käyttävät niitä kun mahdollista.\n\nÄlä jätä yhdyskuntalaisia Värvätyiksi ikuisesti - he nääntyvät nälkään ja tulevat suruullisiksi.</Drafting.helpTexts.1>
     
-    <rep>
-        <path>AnimalsDontAttackDoors.helpTexts[0]</path>
-        <trans>Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you.</trans>
-    </rep>
+    <AnimalsDontAttackDoors.helpTexts.0>Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you.</AnimalsDontAttackDoors.helpTexts.0>
     
-    <rep>
-        <path>BillsTab.helpTexts[0]</path>
-        <trans>Saadaksesi yhdyskuntalaisen työskentelemään pöydän ääressä valitse pöytä ja avaa Tilaukset-välilehti. Sielllä voit määrätä mitä aterioita valmistetaan, mitä käsitöitä tehdään ja mitä eläimiä teurastetaan.</trans>
-    </rep>
+    <BillsTab.helpTexts.0>Saadaksesi yhdyskuntalaisen työskentelemään pöydän ääressä valitse pöytä ja avaa Tilaukset-välilehti. Sielllä voit määrätä mitä aterioita valmistetaan, mitä käsitöitä tehdään ja mitä eläimiä teurastetaan.</BillsTab.helpTexts.0>
     
-    <rep>
-        <path>AnimalTraining.helpTexts[0]</path>
-        <trans>You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</trans>
-    </rep>
+    <AnimalTraining.helpTexts.0>You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</AnimalTraining.helpTexts.0>
     
-    <rep>
-        <path>StorageTabCategories.helpTexts[0]</path>
-        <trans>Varastoalueen Varasto-välilehdessä voit avata kategorioita salliaksesi ja estääksesi tietyt esineet. Paina kategorioiden nimien vasemmalla puolella olevia kolmioita.</trans>
-    </rep>
+    <StorageTabCategories.helpTexts.0>Varastoalueen Varasto-välilehdessä voit avata kategorioita salliaksesi ja estääksesi tietyt esineet. Paina kategorioiden nimien vasemmalla puolella olevia kolmioita.</StorageTabCategories.helpTexts.0>
     
-    <rep>
-        <path>Mining.helpTexts[0]</path>
-        <trans>Voit määrittää louhintapaikan avaamalla ARKKITEHTI-valikon ja valitsemalla MÄÄRÄYKSET-välilehden.\n\nJoistan louhittavista kivistä tulee TERÄSTÄ, KULTAA, MUOVITERÄSTÄ ja muita hyödyllisiä materiaaleja.</trans>
-    </rep>
+    <Mining.helpTexts.0>Voit määrittää louhintapaikan avaamalla ARKKITEHTI-valikon ja valitsemalla MÄÄRÄYKSET-välilehden.\n\nJoistan louhittavista kivistä tulee TERÄSTÄ, KULTAA, MUOVITERÄSTÄ ja muita hyödyllisiä materiaaleja.</Mining.helpTexts.0>
     
-    <rep>
-        <path>OpeningComms.helpTexts[0]</path>
-        <trans>Kommunikoidaksesi valitse työkelpoinen yhdyskuntalainen ja paina konsolia hiiren oikealla näppäimellä.</trans>
-    </rep>
+    <OpeningComms.helpTexts.0>Kommunikoidaksesi valitse työkelpoinen yhdyskuntalainen ja paina konsolia hiiren oikealla näppäimellä.</OpeningComms.helpTexts.0>
     
-    <rep>
-        <path>Deterioration.helpTexts[0]</path>
-        <trans>Ulos jätetyt tavarat hajoavat hiljalleen.\n\nJos haluat säilyttää esineitä pitkällä tähtäimellä pidä ne katon alla.</trans>
-    </rep>
+    <Deterioration.helpTexts.0>Ulos jätetyt tavarat hajoavat hiljalleen.\n\nJos haluat säilyttää esineitä pitkällä tähtäimellä pidä ne katon alla.</Deterioration.helpTexts.0>
     
-    <rep>
-        <path>InspectRoomStats.helpTexts[0]</path>
-        <trans>You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right.</trans>
-    </rep>    
+    <InspectRoomStats.helpTexts.0>You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right.</InspectRoomStats.helpTexts.0>    
     
 </LanguageData>

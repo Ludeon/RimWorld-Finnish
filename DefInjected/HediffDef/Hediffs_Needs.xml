@@ -2,25 +2,10 @@
 <LanguageData>
     
     <Malnutrition.label>aliravitsemus</Malnutrition.label>
-    <rep>
-        <path>Malnutrition.stages[0].label</path>
-        <trans>mitätön</trans>
-    </rep>
-    <rep>
-        <path>Malnutrition.stages[1].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>Malnutrition.stages[2].label</path>
-        <trans>kohtalainen</trans>
-    </rep>
-    <rep>
-        <path>Malnutrition.stages[3].label</path>
-        <trans>vakava</trans>
-    </rep>
-    <rep>
-        <path>Malnutrition.stages[4].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
+    <Malnutrition.stages.0.label>mitätön</Malnutrition.stages.0.label>
+    <Malnutrition.stages.1.label>vähäinen</Malnutrition.stages.1.label>
+    <Malnutrition.stages.2.label>kohtalainen</Malnutrition.stages.2.label>
+    <Malnutrition.stages.3.label>vakava</Malnutrition.stages.3.label>
+    <Malnutrition.stages.4.label>äärimmäinen</Malnutrition.stages.4.label>
     
 </LanguageData>

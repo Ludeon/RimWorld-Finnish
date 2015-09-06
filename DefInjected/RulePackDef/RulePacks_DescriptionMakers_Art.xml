@@ -1,59 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <rep>
-    <path>ArtSculpture.rulePack.rulesStrings[0]</path>
-    <trans>description->Tähän teokseen on [depiction] [image]</trans>
-  </rep>
-  <rep>
-    <path>ArtSculpture.rulePack.rulesStrings[1]</path>
-    <trans>description->Tämä [sculpture] [depicts] kuvausta jossa on [image]</trans>
-  </rep>
-  <rep>
-    <path>ArtSculpture.rulePack.rulesStrings[2]</path>
-    <trans>description->Tämä on [sculpture] ja siihen on [depiction] [image]</trans>
-  </rep> -->
-  <rep>
-    <path>ArtSculpture.rulePack.rulesStrings[3]</path>
-    <trans>sculpture->veistos</trans>
-  </rep>
-  <rep>
-    <path>ArtSculpture.rulePack.rulesStrings[4]</path>
-    <trans>sculpture->työ</trans>
-  </rep>
-  <rep>
-    <path>ArtSculpture.rulePack.rulesStrings[5]</path>
-    <trans>sculpture->taideteos</trans>
-  </rep>
-  <rep>
-    <path>ArtSculpture.rulePack.rulesStrings[6]</path>
-    <trans>sculpture->kaiverrus</trans>
-  </rep> 
+  <ArtSculpture.rulePack.rulesStrings.0>description->Tähän teokseen on [depiction] [image]</ArtSculpture.rulePack.rulesStrings.0>
+  <ArtSculpture.rulePack.rulesStrings.1>description->Tämä [sculpture] [depicts] kuvausta jossa on [image]</ArtSculpture.rulePack.rulesStrings.1>
+  <ArtSculpture.rulePack.rulesStrings.2>description->Tämä on [sculpture] ja siihen on [depiction] [image]</ArtSculpture.rulePack.rulesStrings.2> -->
+  <ArtSculpture.rulePack.rulesStrings.3>sculpture->veistos</ArtSculpture.rulePack.rulesStrings.3>
+  <ArtSculpture.rulePack.rulesStrings.4>sculpture->työ</ArtSculpture.rulePack.rulesStrings.4>
+  <ArtSculpture.rulePack.rulesStrings.5>sculpture->taideteos</ArtSculpture.rulePack.rulesStrings.5>
+  <ArtSculpture.rulePack.rulesStrings.6>sculpture->kaiverrus</ArtSculpture.rulePack.rulesStrings.6> 
     
-  <rep>
-    <path>ArtWeaponMelee.rulePack.rulesStrings[0]</path>
-    <trans>description->Tähän aseeseen on kaiverrettu [depiction] [image]</trans>
-  </rep>
-  <rep>
-    <path>ArtWeaponMelee.rulePack.rulesStrings[1]</path>
-    <trans>description->Kaiverrus tässä aseessa [depicts] [image]</trans>
-  </rep>
-  <rep>
-    <path>ArtWeaponMelee.rulePack.rulesStrings[2]</path>
-    <trans>description->Tässä aseessa on [depiction] [image]</trans>
-  </rep>
+  <ArtWeaponMelee.rulePack.rulesStrings.0>description->Tähän aseeseen on kaiverrettu [depiction] [image]</ArtWeaponMelee.rulePack.rulesStrings.0>
+  <ArtWeaponMelee.rulePack.rulesStrings.1>description->Kaiverrus tässä aseessa [depicts] [image]</ArtWeaponMelee.rulePack.rulesStrings.1>
+  <ArtWeaponMelee.rulePack.rulesStrings.2>description->Tässä aseessa on [depiction] [image]</ArtWeaponMelee.rulePack.rulesStrings.2>
     
-  <rep>
-    <path>ArtWeaponGun.rulePack.rulesStrings[0]</path>
-    <trans>description->Tähän aseeseen on kaiverrettu [depiction] [image]</trans>
-  </rep>
-  <rep>
-    <path>ArtWeaponGun.rulePack.rulesStrings[1]</path>
-    <trans>description->Kaiverrus tässä aseessa [depicts] [image]</trans>
-  </rep>
-  <rep>
-    <path>ArtWeaponGun.rulePack.rulesStrings[2]</path>
-    <trans>description->Tässä aseessa on [depiction] [image]</trans>
-  </rep>
+  <ArtWeaponGun.rulePack.rulesStrings.0>description->Tähän aseeseen on kaiverrettu [depiction] [image]</ArtWeaponGun.rulePack.rulesStrings.0>
+  <ArtWeaponGun.rulePack.rulesStrings.1>description->Kaiverrus tässä aseessa [depicts] [image]</ArtWeaponGun.rulePack.rulesStrings.1>
+  <ArtWeaponGun.rulePack.rulesStrings.2>description->Tässä aseessa on [depiction] [image]</ArtWeaponGun.rulePack.rulesStrings.2>
     
 </LanguageData>

@@ -1,236 +1,68 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>SpeedOffset.degreeDatas[0].label</path>
-		<trans>vätys</trans>
-	</rep>
-	<rep>
-		<path>SpeedOffset.degreeDatas[0].description</path>
-		<trans>NAME on aina jäämässä jälkeen meni HE minne tahansa.</trans>
-	</rep>
-	<rep>
-		<path>SpeedOffset.degreeDatas[1].label</path>
-		<trans>pikakävelijä</trans>
-	</rep>
-	<rep>
-		<path>SpeedOffset.degreeDatas[1].description</path>
-		<trans>NAME tykkää olla siellä mihin HE on menossa. HECAP kävelee nopeammin kuin useimmat ihmiset.</trans>
-	</rep>
-	<rep>
-		<path>SpeedOffset.degreeDatas[2].label</path>
-		<trans>hölkkääjä</trans>
-	</rep>
-	<rep>
-		<path>SpeedOffset.degreeDatas[2].description</path>
-		<trans>NAME liikkuu aina kiireellä - niin suurella että muut jäävät usein jälkeen.</trans>
-	</rep>
+	<SpeedOffset.degreeDatas.0.label>vätys</SpeedOffset.degreeDatas.0.label>
+	<SpeedOffset.degreeDatas.0.description>NAME on aina jäämässä jälkeen meni HE minne tahansa.</SpeedOffset.degreeDatas.0.description>
+	<SpeedOffset.degreeDatas.1.label>pikakävelijä</SpeedOffset.degreeDatas.1.label>
+	<SpeedOffset.degreeDatas.1.description>NAME tykkää olla siellä mihin HE on menossa. HECAP kävelee nopeammin kuin useimmat ihmiset.</SpeedOffset.degreeDatas.1.description>
+	<SpeedOffset.degreeDatas.2.label>hölkkääjä</SpeedOffset.degreeDatas.2.label>
+	<SpeedOffset.degreeDatas.2.description>NAME liikkuu aina kiireellä - niin suurella että muut jäävät usein jälkeen.</SpeedOffset.degreeDatas.2.description>
     
-    <rep>
-        <path>DrugDesire.degreeDatas[0].label</path>
-        <trans>huumausaineiden lumoama</trans>
-    </rep>
-    <rep>
-        <path>DrugDesire.degreeDatas[0].description</path>
-        <trans>Henkilöllä NAME on voimakas kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</trans>
-    </rep>
-    <rep>
-        <path>DrugDesire.degreeDatas[1].label</path>
-        <trans>kiinnostus huumausaineisiin</trans>
-    </rep>
-    <rep>
-        <path>DrugDesire.degreeDatas[1].description</path>
-        <trans>Henkilöllä NAME on epätavallinen kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</trans>
-    </rep>
-    <rep>
-        <path>DrugDesire.degreeDatas[2].label</path>
-        <trans>absolutisti</trans>
-    </rep>
-    <rep>
-        <path>DrugDesire.degreeDatas[2].description</path>
-        <trans>NAME kammoksuu huumausaineita ja välttää alkoholia ja huumeita.</trans>
-    </rep>
+    <DrugDesire.degreeDatas.0.label>huumausaineiden lumoama</DrugDesire.degreeDatas.0.label>
+    <DrugDesire.degreeDatas.0.description>Henkilöllä NAME on voimakas kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</DrugDesire.degreeDatas.0.description>
+    <DrugDesire.degreeDatas.1.label>kiinnostus huumausaineisiin</DrugDesire.degreeDatas.1.label>
+    <DrugDesire.degreeDatas.1.description>Henkilöllä NAME on epätavallinen kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</DrugDesire.degreeDatas.1.description>
+    <DrugDesire.degreeDatas.2.label>absolutisti</DrugDesire.degreeDatas.2.label>
+    <DrugDesire.degreeDatas.2.description>NAME kammoksuu huumausaineita ja välttää alkoholia ja huumeita.</DrugDesire.degreeDatas.2.description>
 
-	<rep>
-		<path>NaturalMood.degreeDatas[0].label</path>
-		<trans>toiveikas</trans>
-	</rep>
-	<rep>
-		<path>NaturalMood.degreeDatas[0].description</path>
-		<trans>NAME on luonnostaan aina myönteinen tilanteestaan riippumatta siitä millainen se on.</trans>
-	</rep>
-	<rep>
-		<path>NaturalMood.degreeDatas[1].label</path>
-		<trans>optimisti</trans>
-	</rep>
-	<rep>
-		<path>NaturalMood.degreeDatas[1].description</path>
-		<trans>NAME on luonnostaan optimistinen elämästä. HIM on vaikea lannistaa.</trans>
-	</rep>
-	<rep>
-		<path>NaturalMood.degreeDatas[2].label</path>
-		<trans>pessimisti</trans>
-	</rep>
-	<rep>
-		<path>NaturalMood.degreeDatas[2].description</path>
-		<trans>NAME taipuu tarkastelemaan elämän nurjaa puolta.</trans>
-	</rep>
-	<rep>
-		<path>NaturalMood.degreeDatas[3].label</path>
-		<trans>masentava</trans>
-	</rep>
-	<rep>
-		<path>NaturalMood.degreeDatas[3].description</path>
-		<trans>NAME on pysyvästi alakuloinen. HECAP kokee hyvän mielialan ylläpitämisen vaikeaksi jopa silloin kun kaikki on hyvin.</trans>
-	</rep>
+	<NaturalMood.degreeDatas.0.label>toiveikas</NaturalMood.degreeDatas.0.label>
+	<NaturalMood.degreeDatas.0.description>NAME on luonnostaan aina myönteinen tilanteestaan riippumatta siitä millainen se on.</NaturalMood.degreeDatas.0.description>
+	<NaturalMood.degreeDatas.1.label>optimisti</NaturalMood.degreeDatas.1.label>
+	<NaturalMood.degreeDatas.1.description>NAME on luonnostaan optimistinen elämästä. HIM on vaikea lannistaa.</NaturalMood.degreeDatas.1.description>
+	<NaturalMood.degreeDatas.2.label>pessimisti</NaturalMood.degreeDatas.2.label>
+	<NaturalMood.degreeDatas.2.description>NAME taipuu tarkastelemaan elämän nurjaa puolta.</NaturalMood.degreeDatas.2.description>
+	<NaturalMood.degreeDatas.3.label>masentava</NaturalMood.degreeDatas.3.label>
+	<NaturalMood.degreeDatas.3.description>NAME on pysyvästi alakuloinen. HECAP kokee hyvän mielialan ylläpitämisen vaikeaksi jopa silloin kun kaikki on hyvin.</NaturalMood.degreeDatas.3.description>
 
-	<rep>
-		<path>Nerves.degreeDatas[0].label</path>
-		<trans>lujatahtoinen</trans>
-	</rep>
-	<rep>
-		<path>Nerves.degreeDatas[0].description</path>
-		<trans>NAME on tahdoltaan raudanluja. HECAP käy läpi harmaan kiven, kun muut luovuttivat jo kauan sitten.</trans>
-	</rep>
-	<rep>
-		<path>Nerves.degreeDatas[1].label</path>
-		<trans>sinnikäs</trans>
-	</rep>
-	<rep>
-		<path>Nerves.degreeDatas[1].description</path>
-		<trans>NAME on psyykkisesti luja eikä alistu paineessa joka murtaisi useimmat ihmiset.</trans>
-	</rep>
-	<rep>
-		<path>Nerves.degreeDatas[2].label</path>
-		<trans>hermostunut</trans>
-	</rep>
-	<rep>
-		<path>Nerves.degreeDatas[2].description</path>
-		<trans>NAME tapaa murtumaan paineen alaisena.</trans>
-	</rep>
-	<rep>
-		<path>Nerves.degreeDatas[3].label</path>
-		<trans>epävakaa</trans>
-	</rep>
-	<rep>
-		<path>Nerves.degreeDatas[3].description</path>
-		<trans>NAME on aina hermo kireällä. HECAP on ensimmäinen, joka murtuu hankalassa tilanteessa.</trans>
-	</rep>
+	<Nerves.degreeDatas.0.label>lujatahtoinen</Nerves.degreeDatas.0.label>
+	<Nerves.degreeDatas.0.description>NAME on tahdoltaan raudanluja. HECAP käy läpi harmaan kiven, kun muut luovuttivat jo kauan sitten.</Nerves.degreeDatas.0.description>
+	<Nerves.degreeDatas.1.label>sinnikäs</Nerves.degreeDatas.1.label>
+	<Nerves.degreeDatas.1.description>NAME on psyykkisesti luja eikä alistu paineessa joka murtaisi useimmat ihmiset.</Nerves.degreeDatas.1.description>
+	<Nerves.degreeDatas.2.label>hermostunut</Nerves.degreeDatas.2.label>
+	<Nerves.degreeDatas.2.description>NAME tapaa murtumaan paineen alaisena.</Nerves.degreeDatas.2.description>
+	<Nerves.degreeDatas.3.label>epävakaa</Nerves.degreeDatas.3.label>
+	<Nerves.degreeDatas.3.description>NAME on aina hermo kireällä. HECAP on ensimmäinen, joka murtuu hankalassa tilanteessa.</Nerves.degreeDatas.3.description>
 
-	<rep>
-		<path>Neurotic.degreeDatas[0].label</path>
-		<trans>neuroottinen</trans>
-	</rep>
-	<rep>
-		<path>Neurotic.degreeDatas[0].description</path>
-		<trans>NAME pitää siitä kun asiat ovat hoidossa. HECAP työskentelee muita kovemmin saavuttaakseen tämän tilan, mutta HIS hermonsa saattavat pettää.</trans>
-	</rep>
-	<rep>
-		<path>Neurotic.degreeDatas[1].label</path>
-		<trans>erittäin neuroottinen</trans>
-	</rep>
-	<rep>
-		<path>Neurotic.degreeDatas[1].description</path>
-		<trans>NAME on jatkuvasti hermostunut kaikesta mikä on tehtävä. HECAP työskentelee äärimmäisen kovasti saavuttaakseen tämän tilan, mutta HIS hermonsa pettävät helposti.</trans>
-	</rep>
+	<Neurotic.degreeDatas.0.label>neuroottinen</Neurotic.degreeDatas.0.label>
+	<Neurotic.degreeDatas.0.description>NAME pitää siitä kun asiat ovat hoidossa. HECAP työskentelee muita kovemmin saavuttaakseen tämän tilan, mutta HIS hermonsa saattavat pettää.</Neurotic.degreeDatas.0.description>
+	<Neurotic.degreeDatas.1.label>erittäin neuroottinen</Neurotic.degreeDatas.1.label>
+	<Neurotic.degreeDatas.1.description>NAME on jatkuvasti hermostunut kaikesta mikä on tehtävä. HECAP työskentelee äärimmäisen kovasti saavuttaakseen tämän tilan, mutta HIS hermonsa pettävät helposti.</Neurotic.degreeDatas.1.description>
 
-	<rep>
-		<path>Industriousness.degreeDatas[0].label</path>
-		<trans>yritteliäs</trans>
-	</rep>
-	<rep>
-		<path>Industriousness.degreeDatas[0].description</path>
-		<trans>NAME pysyy helposti keskittyneenä tehtävääsä ja saa hommat hoidettua paljon muita nopeammin.</trans>
-	</rep>
-	<rep>
-		<path>Industriousness.degreeDatas[1].label</path>
-		<trans>ahkera</trans>
-	</rep>
-	<rep>
-		<path>Industriousness.degreeDatas[1].description</path>
-		<trans>NAME on luonnostaan kova työntekijä ja saa tehtävät tehtyä muita nopeammin.</trans>
-	</rep>
-	<rep>
-		<path>Industriousness.degreeDatas[2].label</path>
-		<trans>laiska</trans>
-	</rep>
-	<rep>
-		<path>Industriousness.degreeDatas[2].description</path>
-		<trans>NAME on hieman laiska.</trans>
-	</rep>
-	<rep>
-		<path>Industriousness.degreeDatas[3].label</path>
-		<trans>veltto</trans>
-	</rep>
-	<rep>
-		<path>Industriousness.degreeDatas[3].description</path>
-		<trans>NAME rakastaa joutenoloa ja vihaa kaikkea tuottavaa. HECAP liikkuu verkkaisesti ja pysyy harvoin keskittyneenä tehtävään.</trans>
-	</rep>
+	<Industriousness.degreeDatas.0.label>yritteliäs</Industriousness.degreeDatas.0.label>
+	<Industriousness.degreeDatas.0.description>NAME pysyy helposti keskittyneenä tehtävääsä ja saa hommat hoidettua paljon muita nopeammin.</Industriousness.degreeDatas.0.description>
+	<Industriousness.degreeDatas.1.label>ahkera</Industriousness.degreeDatas.1.label>
+	<Industriousness.degreeDatas.1.description>NAME on luonnostaan kova työntekijä ja saa tehtävät tehtyä muita nopeammin.</Industriousness.degreeDatas.1.description>
+	<Industriousness.degreeDatas.2.label>laiska</Industriousness.degreeDatas.2.label>
+	<Industriousness.degreeDatas.2.description>NAME on hieman laiska.</Industriousness.degreeDatas.2.description>
+	<Industriousness.degreeDatas.3.label>veltto</Industriousness.degreeDatas.3.label>
+	<Industriousness.degreeDatas.3.description>NAME rakastaa joutenoloa ja vihaa kaikkea tuottavaa. HECAP liikkuu verkkaisesti ja pysyy harvoin keskittyneenä tehtävään.</Industriousness.degreeDatas.3.description>
 
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[0].label</path>
-		<trans>psyykkisesti yliherkkä</trans>
-	</rep>
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[0].description</path>
-		<trans>NAME on mieleltään kuin psyykkinen äänirauta. HECAP on äärimmäisen herkkä psyykkisille ilmiöille.</trans>
-	</rep>
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[1].label</path>
-		<trans>psyykkisesti herkkä</trans>
-	</rep>
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[1].description</path>
-		<trans>NAME on mieleltään epätavallisen herkkä psyykkisille ilmiöille.</trans>
-	</rep>
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[2].label</path>
-		<trans>psyykkisesti eloton</trans>
-	</rep>
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[2].description</path>
-		<trans>NAME on mieleltään epävireessä muiden kanssa. HECAP ei ole yhtä altistunut psyykkisille ilmiöille.</trans>
-	</rep>
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[3].label</path>
-		<trans>psyykkisesti kuuro</trans>
-	</rep>
-	<rep>
-		<path>PsychicSensitivity.degreeDatas[3].description</path>
-		<trans>NAME toimii psyykkisesti eri taajuudella kuin muut. HECAP ei altistu ollenkaan psyykkisille ilmiöille.</trans>
-	</rep>
+	<PsychicSensitivity.degreeDatas.0.label>psyykkisesti yliherkkä</PsychicSensitivity.degreeDatas.0.label>
+	<PsychicSensitivity.degreeDatas.0.description>NAME on mieleltään kuin psyykkinen äänirauta. HECAP on äärimmäisen herkkä psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.0.description>
+	<PsychicSensitivity.degreeDatas.1.label>psyykkisesti herkkä</PsychicSensitivity.degreeDatas.1.label>
+	<PsychicSensitivity.degreeDatas.1.description>NAME on mieleltään epätavallisen herkkä psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.1.description>
+	<PsychicSensitivity.degreeDatas.2.label>psyykkisesti eloton</PsychicSensitivity.degreeDatas.2.label>
+	<PsychicSensitivity.degreeDatas.2.description>NAME on mieleltään epävireessä muiden kanssa. HECAP ei ole yhtä altistunut psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.2.description>
+	<PsychicSensitivity.degreeDatas.3.label>psyykkisesti kuuro</PsychicSensitivity.degreeDatas.3.label>
+	<PsychicSensitivity.degreeDatas.3.description>NAME toimii psyykkisesti eri taajuudella kuin muut. HECAP ei altistu ollenkaan psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.3.description>
     
-    <rep>
-        <path>TemperaturePreference.degreeDatas[0].label</path>
-        <trans>kylmänrakastaja</trans>
-    </rep>
-    <rep>
-        <path>TemperaturePreference.degreeDatas[0].description</path>
-        <trans>Henkilön NAME ruumis tuottaa suuret määrät lämpöä. Hänellä on mukava olla lämpötiloissa jotka saisivat kenen tahansa muun värisemäään, mutta HE ei pidä kuumasta.</trans>
-    </rep>
-    <rep>
-        <path>TemperaturePreference.degreeDatas[1].label</path>
-        <trans>kylmää kestävä</trans>
-    </rep>
-    <rep>
-        <path>TemperaturePreference.degreeDatas[1].description</path>
-        <trans>NAME kestää viileitä lämpötiloja paremmin kuin useimmat muut.</trans>
-    </rep>
-    <rep>
-        <path>TemperaturePreference.degreeDatas[2].label</path>
-        <trans>lämpöä kestävä</trans>
-    </rep>
-    <rep>
-        <path>TemperaturePreference.degreeDatas[2].description</path>
-        <trans>NAME kestää kuumia lämpötiloja paremmin kuin useimmat muut.</trans>
-    </rep>
-    <rep>
-        <path>TemperaturePreference.degreeDatas[3].label</path>
-        <trans>kuumanrakastaja</trans>
-    </rep>
-    <rep>
-        <path>TemperaturePreference.degreeDatas[3].description</path>
-        <trans>NAME rakastaa kuumaa säätä - mutta HE ei kestä kylmää kovin hyvin.</trans>
-    </rep>
+    <TemperaturePreference.degreeDatas.0.label>kylmänrakastaja</TemperaturePreference.degreeDatas.0.label>
+    <TemperaturePreference.degreeDatas.0.description>Henkilön NAME ruumis tuottaa suuret määrät lämpöä. Hänellä on mukava olla lämpötiloissa jotka saisivat kenen tahansa muun värisemäään, mutta HE ei pidä kuumasta.</TemperaturePreference.degreeDatas.0.description>
+    <TemperaturePreference.degreeDatas.1.label>kylmää kestävä</TemperaturePreference.degreeDatas.1.label>
+    <TemperaturePreference.degreeDatas.1.description>NAME kestää viileitä lämpötiloja paremmin kuin useimmat muut.</TemperaturePreference.degreeDatas.1.description>
+    <TemperaturePreference.degreeDatas.2.label>lämpöä kestävä</TemperaturePreference.degreeDatas.2.label>
+    <TemperaturePreference.degreeDatas.2.description>NAME kestää kuumia lämpötiloja paremmin kuin useimmat muut.</TemperaturePreference.degreeDatas.2.description>
+    <TemperaturePreference.degreeDatas.3.label>kuumanrakastaja</TemperaturePreference.degreeDatas.3.label>
+    <TemperaturePreference.degreeDatas.3.description>NAME rakastaa kuumaa säätä - mutta HE ei kestä kylmää kovin hyvin.</TemperaturePreference.degreeDatas.3.description>
 
 </LanguageData>

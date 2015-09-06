@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <rep>
-        <path>CurrentlyBrokenBerserk.stages[0].label</path>
-        <trans>raivopäisiä ajatuksia</trans>
-    </rep>
-    <rep>
-        <path>CurrentlyBrokenBerserk.stages[0].description</path>
-        <trans>Pakko tappaa!</trans>
-    </rep>
+    <CurrentlyBrokenBerserk.stages.0.label>raivopäisiä ajatuksia</CurrentlyBrokenBerserk.stages.0.label>
+    <CurrentlyBrokenBerserk.stages.0.description>Pakko tappaa!</CurrentlyBrokenBerserk.stages.0.description>
     
-    <rep>
-        <path>CurrentlyBrokenSad.stages[0].label</path>
-        <trans>murtuneita ajatuksia</trans>
-    </rep>
-    <rep>
-        <path>CurrentlyBrokenSad.stages[0].description</path>
-        <trans>Asiat painavat aivan liikaa.</trans>
-    </rep>
+    <CurrentlyBrokenSad.stages.0.label>murtuneita ajatuksia</CurrentlyBrokenSad.stages.0.label>
+    <CurrentlyBrokenSad.stages.0.description>Asiat painavat aivan liikaa.</CurrentlyBrokenSad.stages.0.description>
     
-    <rep>
-        <path>CurrentlyBrokenPanicFlee.stages[0].label</path>
-        <trans>paniikki</trans>
-    </rep>
-    <rep>
-        <path>CurrentlyBrokenPanicFlee.stages[0].description</path>
-        <trans>Täältä täytyy päästä pois!</trans>
-    </rep>
+    <CurrentlyBrokenPanicFlee.stages.0.label>paniikki</CurrentlyBrokenPanicFlee.stages.0.label>
+    <CurrentlyBrokenPanicFlee.stages.0.description>Täältä täytyy päästä pois!</CurrentlyBrokenPanicFlee.stages.0.description>
     
 </LanguageData>

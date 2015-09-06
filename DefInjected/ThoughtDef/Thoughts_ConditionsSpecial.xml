@@ -1,73 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <rep>
-        <path>Imprisoned.stages[0].label</path>
-        <trans>vangittu</trans>
-    </rep>
-    <rep>
-        <path>Imprisoned.stages[0].description</path>
-        <trans>Vihaan lukkojen takana olemista.</trans>
-    </rep>
+    <Imprisoned.stages.0.label>vangittu</Imprisoned.stages.0.label>
+    <Imprisoned.stages.0.description>Vihaan lukkojen takana olemista.</Imprisoned.stages.0.description>
     
-    <rep>
-        <path>SharedBedroom.stages[0].label</path>
-        <trans>jaettu makuuhuone</trans>
-    </rep>
-    <rep>
-        <path>SharedBedroom.stages[0].description</path>
-        <trans>Huoneen jakaminen muiden kanssa on ärsyttävää. Haluan edes hieman yksityisyyttä.</trans>
-    </rep>
+    <SharedBedroom.stages.0.label>jaettu makuuhuone</SharedBedroom.stages.0.label>
+    <SharedBedroom.stages.0.description>Huoneen jakaminen muiden kanssa on ärsyttävää. Haluan edes hieman yksityisyyttä.</SharedBedroom.stages.0.description>
     
-    <rep>
-        <path>ColonistLeftUnburied.stages[0].label</path>
-        <trans>yhdyskuntalainen hautaamatta</trans>
-    </rep>
-    <rep>
-        <path>ColonistLeftUnburied.stages[0].description</path>
-        <trans>Yksi meistä kuoli ja me vain jätämme hänet makaamaan näkyville. Ketään ei kuuluisi jättää noin. Ihmiset ansaitsevat säädylliset hautajaiset.</trans>
-    </rep>
+    <ColonistLeftUnburied.stages.0.label>yhdyskuntalainen hautaamatta</ColonistLeftUnburied.stages.0.label>
+    <ColonistLeftUnburied.stages.0.description>Yksi meistä kuoli ja me vain jätämme hänet makaamaan näkyville. Ketään ei kuuluisi jättää noin. Ihmiset ansaitsevat säädylliset hautajaiset.</ColonistLeftUnburied.stages.0.description>
     
-    <rep>
-        <path>Naked.stages[0].label</path>
-        <trans>alasti</trans>
-    </rep>
-    <rep>
-        <path>Naked.stages[0].description</path>
-        <trans>Olen nakuna. Tämä on nolottavaa.</trans>
-    </rep>
+    <Naked.stages.0.label>alasti</Naked.stages.0.label>
+    <Naked.stages.0.description>Olen nakuna. Tämä on nolottavaa.</Naked.stages.0.description>
     
-    <rep>
-        <path>Pain.stages[0].label</path>
-        <trans>vähän kipua</trans>
-    </rep>
-    <rep>
-        <path>Pain.stages[0].description</path>
-        <trans>Au... Tuo sattui.</trans>
-    </rep>
-    <rep>
-        <path>Pain.stages[1].label</path>
-        <trans>kohtalaisesti kipua</trans>
-    </rep>
-    <rep>
-        <path>Pain.stages[1].description</path>
-        <trans>Hyh... Milloin tämä loppuu?</trans>
-    </rep>
-    <rep>
-        <path>Pain.stages[2].label</path>
-        <trans>akuuttinen kipu</trans>
-    </rep>
-    <rep>
-        <path>Pain.stages[2].description</path>
-        <trans>Lopu jo... lopu jo... lopu jo...</trans>
-    </rep>
-    <rep>
-        <path>Pain.stages[3].label</path>
-        <trans>shokissa äärimmäisestä kivusta</trans>
-    </rep>
-    <rep>
-        <path>Pain.stages[3].description</path>
-        <trans>AAAAAUUU! Tapa minut nyt!</trans>
-    </rep>
+    <Pain.stages.0.label>vähän kipua</Pain.stages.0.label>
+    <Pain.stages.0.description>Au... Tuo sattui.</Pain.stages.0.description>
+    <Pain.stages.1.label>kohtalaisesti kipua</Pain.stages.1.label>
+    <Pain.stages.1.description>Hyh... Milloin tämä loppuu?</Pain.stages.1.description>
+    <Pain.stages.2.label>akuuttinen kipu</Pain.stages.2.label>
+    <Pain.stages.2.description>Lopu jo... lopu jo... lopu jo...</Pain.stages.2.description>
+    <Pain.stages.3.label>shokissa äärimmäisestä kivusta</Pain.stages.3.label>
+    <Pain.stages.3.description>AAAAAUUU! Tapa minut nyt!</Pain.stages.3.description>
     
 </LanguageData>

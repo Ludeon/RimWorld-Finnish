@@ -1,90 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <rep>
-    <path>GlobalCircumstances.rulePack.rulesStrings[0]</path>
-    <trans>circumstance_group->[circumstance_phrase] [date_phrase]</trans>
-  </rep>
-  <rep>
-    <path>GlobalCircumstances.rulePack.rulesStrings[1]</path>
-    <trans>circumstance_phrase-></trans>
-  </rep>
-  <rep>
-    <path>GlobalCircumstances.rulePack.rulesStrings[2]</path>
-    <trans>date_phrase->[date]</trans>
-  </rep>
+  <GlobalCircumstances.rulePack.rulesStrings.0>circumstance_group->[circumstance_phrase] [date_phrase]</GlobalCircumstances.rulePack.rulesStrings.0>
+  <GlobalCircumstances.rulePack.rulesStrings.1>circumstance_phrase-></GlobalCircumstances.rulePack.rulesStrings.1>
+  <GlobalCircumstances.rulePack.rulesStrings.2>date_phrase->[date]</GlobalCircumstances.rulePack.rulesStrings.2>
     
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[0]</path>
-    <trans>quantity_adjphrase->ryhmä</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[1]</path>
-    <trans>quantity_adjphrase->joukkio</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[2]</path>
-    <trans>quantity_adjphrase->joukko</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[3]</path>
-    <trans>quantity_adjphrase->pari</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[4]</path>
-    <trans>quantity_adjphrase->pari</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[5]</path>
-    <trans>quantity_adjphrase->pari</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[6]</path>
-    <trans>quantity_adjphrase->ryhmä</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[7]</path>
-    <trans>quantity_adjphrase->ryhmä</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[8]</path>
-    <trans>quantity_adjphrase->joukkio lukemattomista yksilöistä</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[9]</path>
-    <trans>quantity_adjphrase->ryhmä lukemattomista yksilöistä</trans>
-  </rep> 
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[10]</path>
-    <trans>game->pokeria</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[11]</path>
-    <trans>game->shakkia</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[12]</path>
-    <trans>game->korttia</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[13]</path>
-    <trans>game->backgammonia</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[14]</path>
-    <trans>game->nopilla</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[15]</path>
-    <trans>game->noppapeliä</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[16]</path>
-    <trans>game->rulettia</trans>
-  </rep>
-  <rep>
-    <path>GlobalUtility.rulePack.rulesStrings[17]</path>
-    <trans>game->venttiä</trans>
-  </rep> 
+  <GlobalUtility.rulePack.rulesStrings.0>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.0>
+  <GlobalUtility.rulePack.rulesStrings.1>quantity_adjphrase->joukkio</GlobalUtility.rulePack.rulesStrings.1>
+  <GlobalUtility.rulePack.rulesStrings.2>quantity_adjphrase->joukko</GlobalUtility.rulePack.rulesStrings.2>
+  <GlobalUtility.rulePack.rulesStrings.3>quantity_adjphrase->pari</GlobalUtility.rulePack.rulesStrings.3>
+  <GlobalUtility.rulePack.rulesStrings.4>quantity_adjphrase->pari</GlobalUtility.rulePack.rulesStrings.4>
+  <GlobalUtility.rulePack.rulesStrings.5>quantity_adjphrase->pari</GlobalUtility.rulePack.rulesStrings.5>
+  <GlobalUtility.rulePack.rulesStrings.6>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.6>
+  <GlobalUtility.rulePack.rulesStrings.7>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.7>
+  <GlobalUtility.rulePack.rulesStrings.8>quantity_adjphrase->joukkio lukemattomista yksilöistä</GlobalUtility.rulePack.rulesStrings.8>
+  <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->ryhmä lukemattomista yksilöistä</GlobalUtility.rulePack.rulesStrings.9> 
+  <GlobalUtility.rulePack.rulesStrings.10>game->pokeria</GlobalUtility.rulePack.rulesStrings.10>
+  <GlobalUtility.rulePack.rulesStrings.11>game->shakkia</GlobalUtility.rulePack.rulesStrings.11>
+  <GlobalUtility.rulePack.rulesStrings.12>game->korttia</GlobalUtility.rulePack.rulesStrings.12>
+  <GlobalUtility.rulePack.rulesStrings.13>game->backgammonia</GlobalUtility.rulePack.rulesStrings.13>
+  <GlobalUtility.rulePack.rulesStrings.14>game->nopilla</GlobalUtility.rulePack.rulesStrings.14>
+  <GlobalUtility.rulePack.rulesStrings.15>game->noppapeliä</GlobalUtility.rulePack.rulesStrings.15>
+  <GlobalUtility.rulePack.rulesStrings.16>game->rulettia</GlobalUtility.rulePack.rulesStrings.16>
+  <GlobalUtility.rulePack.rulesStrings.17>game->venttiä</GlobalUtility.rulePack.rulesStrings.17> 
     
 </LanguageData>

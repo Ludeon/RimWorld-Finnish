@@ -2,117 +2,39 @@
 <LanguageData>
     
     <WoundInfection.label>tartunta</WoundInfection.label>
-    <rep>
-        <path>WoundInfection.stages[0].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>WoundInfection.stages[1].label</path>
-        <trans>merkittävä</trans>
-    </rep>
-    <rep>
-        <path>WoundInfection.stages[2].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>WoundInfection.stages[3].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>WoundInfection.stages[4].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
+    <WoundInfection.stages.0.label>vähäinen</WoundInfection.stages.0.label>
+    <WoundInfection.stages.1.label>merkittävä</WoundInfection.stages.1.label>
+    <WoundInfection.stages.2.label>äärimmäinen</WoundInfection.stages.2.label>
+    <WoundInfection.stages.3.label>äärimmäinen</WoundInfection.stages.3.label>
+    <WoundInfection.stages.4.label>äärimmäinen</WoundInfection.stages.4.label>
     
     <Flu.label>influenssa</Flu.label>
-    <rep>
-        <path>Flu.stages[1].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>Flu.stages[2].label</path>
-        <trans>merkittävä</trans>
-    </rep>
-    <rep>
-        <path>Flu.stages[3].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>Flu.stages[4].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
+    <Flu.stages.1.label>vähäinen</Flu.stages.1.label>
+    <Flu.stages.2.label>merkittävä</Flu.stages.2.label>
+    <Flu.stages.3.label>äärimmäinen</Flu.stages.3.label>
+    <Flu.stages.4.label>äärimmäinen</Flu.stages.4.label>
     
     <Plague.label>rutto</Plague.label>
-    <rep>
-        <path>Plague.stages[0].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>Plague.stages[1].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>Plague.stages[2].label</path>
-        <trans>merkittävä</trans>
-    </rep>
-    <rep>
-        <path>Plague.stages[3].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>Plague.stages[4].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>Plague.stages[5].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
+    <Plague.stages.0.label>vähäinen</Plague.stages.0.label>
+    <Plague.stages.1.label>vähäinen</Plague.stages.1.label>
+    <Plague.stages.2.label>merkittävä</Plague.stages.2.label>
+    <Plague.stages.3.label>äärimmäinen</Plague.stages.3.label>
+    <Plague.stages.4.label>äärimmäinen</Plague.stages.4.label>
+    <Plague.stages.5.label>äärimmäinen</Plague.stages.5.label>
     
     <Malaria.label>malaria</Malaria.label>
-    <rep>
-        <path>Malaria.stages[0].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>Malaria.stages[1].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>Malaria.stages[2].label</path>
-        <trans>merkittävä</trans>
-    </rep>
-    <rep>
-        <path>Malaria.stages[3].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>Malaria.stages[4].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
+    <Malaria.stages.0.label>vähäinen</Malaria.stages.0.label>
+    <Malaria.stages.1.label>vähäinen</Malaria.stages.1.label>
+    <Malaria.stages.2.label>merkittävä</Malaria.stages.2.label>
+    <Malaria.stages.3.label>äärimmäinen</Malaria.stages.3.label>
+    <Malaria.stages.4.label>äärimmäinen</Malaria.stages.4.label>
     
     <SleepingSickness.label>unitauti</SleepingSickness.label>
-    <rep>
-        <path>SleepingSickness.stages[1].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>SleepingSickness.stages[2].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>SleepingSickness.stages[3].label</path>
-        <trans>merkittävä</trans>
-    </rep>
-    <rep>
-        <path>SleepingSickness.stages[4].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>SleepingSickness.stages[5].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
-    <rep>
-        <path>SleepingSickness.stages[6].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
+    <SleepingSickness.stages.1.label>vähäinen</SleepingSickness.stages.1.label>
+    <SleepingSickness.stages.2.label>vähäinen</SleepingSickness.stages.2.label>
+    <SleepingSickness.stages.3.label>merkittävä</SleepingSickness.stages.3.label>
+    <SleepingSickness.stages.4.label>äärimmäinen</SleepingSickness.stages.4.label>
+    <SleepingSickness.stages.5.label>äärimmäinen</SleepingSickness.stages.5.label>
+    <SleepingSickness.stages.6.label>äärimmäinen</SleepingSickness.stages.6.label>
     
 </LanguageData>

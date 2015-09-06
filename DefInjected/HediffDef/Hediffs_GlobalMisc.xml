@@ -2,26 +2,11 @@
 <LanguageData>
     
     <BloodLoss.label>verenhukka</BloodLoss.label>
-    <rep>
-        <path>BloodLoss.stages[0].label</path>
-        <trans>mitätön</trans>
-    </rep>
-    <rep>
-        <path>BloodLoss.stages[1].label</path>
-        <trans>vähäinen</trans>
-    </rep>
-    <rep>
-        <path>BloodLoss.stages[2].label</path>
-        <trans>kohtalainen</trans>
-    </rep>
-    <rep>
-        <path>BloodLoss.stages[3].label</path>
-        <trans>vakava</trans>
-    </rep>
-    <rep>
-        <path>BloodLoss.stages[4].label</path>
-        <trans>äärimmäinen</trans>
-    </rep>
+    <BloodLoss.stages.0.label>mitätön</BloodLoss.stages.0.label>
+    <BloodLoss.stages.1.label>vähäinen</BloodLoss.stages.1.label>
+    <BloodLoss.stages.2.label>kohtalainen</BloodLoss.stages.2.label>
+    <BloodLoss.stages.3.label>vakava</BloodLoss.stages.3.label>
+    <BloodLoss.stages.4.label>äärimmäinen</BloodLoss.stages.4.label>
     
     <Anesthetic.label>nukutusaine</Anesthetic.label>
     
@@ -32,29 +17,11 @@
     <FoodPoisoning.label>ruokamyrkytys</FoodPoisoning.label>
     
     <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
-    <rep>
-        <path>ToxicBuildup.stages[0].label</path>
-        <trans>initial-hidden</trans>
-    </rep>
-    <rep>
-        <path>ToxicBuildup.stages[1].label</path>
-        <trans>initial</trans>
-    </rep>
-    <rep>
-        <path>ToxicBuildup.stages[2].label</path>
-        <trans>minor</trans>
-    </rep>
-    <rep>
-        <path>ToxicBuildup.stages[3].label</path>
-        <trans>moderate</trans>
-    </rep>
-    <rep>
-        <path>ToxicBuildup.stages[4].label</path>
-        <trans>serious</trans>
-    </rep>
-    <rep>
-        <path>ToxicBuildup.stages[5].label</path>
-        <trans>extreme</trans>
-    </rep>
+    <ToxicBuildup.stages.0.label>initial-hidden</ToxicBuildup.stages.0.label>
+    <ToxicBuildup.stages.1.label>initial</ToxicBuildup.stages.1.label>
+    <ToxicBuildup.stages.2.label>minor</ToxicBuildup.stages.2.label>
+    <ToxicBuildup.stages.3.label>moderate</ToxicBuildup.stages.3.label>
+    <ToxicBuildup.stages.4.label>serious</ToxicBuildup.stages.4.label>
+    <ToxicBuildup.stages.5.label>extreme</ToxicBuildup.stages.5.label>
     
 </LanguageData>

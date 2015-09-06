@@ -1,172 +1,52 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <rep>
-        <path>LowExpectations.stages[0].label</path>
-        <trans>kohtuulliset odotukset</trans>
-    </rep>
-    <rep>
-        <path>LowExpectations.stages[0].description</path>
-        <trans>Tämä paikka ei ole kovin rikas. En voi vaatia hemmottelua.</trans>
-    </rep>
-    <rep>
-        <path>LowExpectations.stages[1].label</path>
-        <trans>matalat odotukset</trans>
-    </rep>
-    <rep>
-        <path>LowExpectations.stages[1].description</path>
-        <trans>Tällä paikalla ei ole varaa luksukseen. Minun täytyy pysyä lujana.</trans>
-    </rep>
-    <rep>
-        <path>LowExpectations.stages[2].label</path>
-        <trans>erittäin matalat odotukset</trans>
-    </rep>
-    <rep>
-        <path>LowExpectations.stages[2].description</path>
-        <trans>Tämä paikka on köyhyyden riivaama. En voi odottaa mukavuuksia täältä; minun täytyy pysyä lujana.</trans>
-    </rep>
-    <rep>
-        <path>LowExpectations.stages[3].label</path>
-        <trans>äärimmäisen matalat odotukset</trans>
-    </rep>
-    <rep>
-        <path>LowExpectations.stages[3].description</path>
-        <trans>Tämä paikka tarjoaa hädin tuskin suojaa säältä. Minun on paras terästäytyä selvitäkseni.</trans>
-    </rep>
+    <LowExpectations.stages.0.label>kohtuulliset odotukset</LowExpectations.stages.0.label>
+    <LowExpectations.stages.0.description>Tämä paikka ei ole kovin rikas. En voi vaatia hemmottelua.</LowExpectations.stages.0.description>
+    <LowExpectations.stages.1.label>matalat odotukset</LowExpectations.stages.1.label>
+    <LowExpectations.stages.1.description>Tällä paikalla ei ole varaa luksukseen. Minun täytyy pysyä lujana.</LowExpectations.stages.1.description>
+    <LowExpectations.stages.2.label>erittäin matalat odotukset</LowExpectations.stages.2.label>
+    <LowExpectations.stages.2.description>Tämä paikka on köyhyyden riivaama. En voi odottaa mukavuuksia täältä; minun täytyy pysyä lujana.</LowExpectations.stages.2.description>
+    <LowExpectations.stages.3.label>äärimmäisen matalat odotukset</LowExpectations.stages.3.label>
+    <LowExpectations.stages.3.description>Tämä paikka tarjoaa hädin tuskin suojaa säältä. Minun on paras terästäytyä selvitäkseni.</LowExpectations.stages.3.description>
     
-    <rep>
-        <path>EnvironmentDark.stages[0].label</path>
-        <trans>pimeässä</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentDark.stages[0].description</path>
-        <trans>Olen ollut pimeässä hetken aikaa. En pidä siitä.</trans>
-    </rep>
+    <EnvironmentDark.stages.0.label>pimeässä</EnvironmentDark.stages.0.label>
+    <EnvironmentDark.stages.0.description>Olen ollut pimeässä hetken aikaa. En pidä siitä.</EnvironmentDark.stages.0.description>
     
-    <rep>
-        <path>CabinFever.stages[0].label</path>
-        <trans>mökkihöperyys (mieto)</trans>
-    </rep>
-    <rep>
-        <path>CabinFever.stages[0].description</path>
-        <trans>Olen ollut sisätiloissa päiviä. Minun pitää mennä ulos.</trans>
-    </rep>
-    <rep>
-        <path>CabinFever.stages[1].label</path>
-        <trans>mökkihöperyys (vakava)</trans>
-    </rep>
-    <rep>
-        <path>CabinFever.stages[1].description</path>
-        <trans>Olen ollut täällä loukussa kuin rotta todella kauan. Minun täytyy epätoivoisen kipeästi mennä ulos tai tulen hulluksi!</trans>
-    </rep>
+    <CabinFever.stages.0.label>mökkihöperyys (mieto)</CabinFever.stages.0.label>
+    <CabinFever.stages.0.description>Olen ollut sisätiloissa päiviä. Minun pitää mennä ulos.</CabinFever.stages.0.description>
+    <CabinFever.stages.1.label>mökkihöperyys (vakava)</CabinFever.stages.1.label>
+    <CabinFever.stages.1.description>Olen ollut täällä loukussa kuin rotta todella kauan. Minun täytyy epätoivoisen kipeästi mennä ulos tai tulen hulluksi!</CabinFever.stages.1.description>
     
-    <rep>
-        <path>ApparelDamaged.stages[0].label</path>
-        <trans>kuluneet vaatteet</trans>
-    </rep>
-    <rep>
-        <path>ApparelDamaged.stages[0].description</path>
-        <trans>Minun vaatekertani näyttää surkealta. Enkö saisi jotain säädyllistä ylleni?</trans>
-    </rep>
-    <rep>
-        <path>ApparelDamaged.stages[1].label</path>
-        <trans>repaleiset vaatteet</trans>
-    </rep>
-    <rep>
-        <path>ApparelDamaged.stages[1].description</path>
-        <trans>Minulla on yllä repaleisia rättejä. Enkö saisi jotain säädyllistä ylleni?</trans>
-    </rep>
+    <ApparelDamaged.stages.0.label>kuluneet vaatteet</ApparelDamaged.stages.0.label>
+    <ApparelDamaged.stages.0.description>Minun vaatekertani näyttää surkealta. Enkö saisi jotain säädyllistä ylleni?</ApparelDamaged.stages.0.description>
+    <ApparelDamaged.stages.1.label>repaleiset vaatteet</ApparelDamaged.stages.1.label>
+    <ApparelDamaged.stages.1.description>Minulla on yllä repaleisia rättejä. Enkö saisi jotain säädyllistä ylleni?</ApparelDamaged.stages.1.description>
     
-    <rep>
-        <path>Sick.stages[0].label</path>
-        <trans>kipeä</trans>
-    </rep>
-    <rep>
-        <path>Sick.stages[0].description</path>
-        <trans>En voi kovin hyvin, olen sairas.</trans>
-    </rep>
+    <Sick.stages.0.label>kipeä</Sick.stages.0.label>
+    <Sick.stages.0.description>En voi kovin hyvin, olen sairas.</Sick.stages.0.description>
     
-    <rep>
-        <path>EnvironmentCold.stages[0].label</path>
-        <trans>kylmä</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentCold.stages[0].description</path>
-        <trans>Minulla on epämukavan kylmä.</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentCold.stages[1].label</path>
-        <trans>erittäin kylmä</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentCold.stages[1].description</path>
-        <trans>Minulla on niin kylmä. Värisen. En saa lämpöä.</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentCold.stages[2].label</path>
-        <trans>jääkylmä</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentCold.stages[2].description</path>
-        <trans>Minun hampaani kalisevat niin kovaa että pystyn hädin tuskin puhumaan. Varpaani ovat turtat. Tarvitsen lämpöä.</trans>
-    </rep>
+    <EnvironmentCold.stages.0.label>kylmä</EnvironmentCold.stages.0.label>
+    <EnvironmentCold.stages.0.description>Minulla on epämukavan kylmä.</EnvironmentCold.stages.0.description>
+    <EnvironmentCold.stages.1.label>erittäin kylmä</EnvironmentCold.stages.1.label>
+    <EnvironmentCold.stages.1.description>Minulla on niin kylmä. Värisen. En saa lämpöä.</EnvironmentCold.stages.1.description>
+    <EnvironmentCold.stages.2.label>jääkylmä</EnvironmentCold.stages.2.label>
+    <EnvironmentCold.stages.2.description>Minun hampaani kalisevat niin kovaa että pystyn hädin tuskin puhumaan. Varpaani ovat turtat. Tarvitsen lämpöä.</EnvironmentCold.stages.2.description>
 
-    <rep>
-        <path>EnvironmentHot.stages[0].label</path>
-        <trans>kuuma</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentHot.stages[0].description</path>
-        <trans>Tämä lämpö on epämiellyttävä. Minä hikoilen.</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentHot.stages[1].label</path>
-        <trans>erittäin kuuma</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentHot.stages[1].description</path>
-        <trans>Olen ylikuumentunut.</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentHot.stages[2].label</path>
-        <trans>äärimmäisen kuuma</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentHot.stages[2].description</path>
-        <trans>Tuntuu kuin olisin uunissa! En ole varma miten kauan kestän tätä.</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentHot.stages[3].label</path>
-        <trans>palaa</trans>
-    </rep>
-    <rep>
-        <path>EnvironmentHot.stages[3].description</path>
-        <trans>Minä palan. Voisin kuolla tähän kuumuuteen!</trans>
-    </rep>
+    <EnvironmentHot.stages.0.label>kuuma</EnvironmentHot.stages.0.label>
+    <EnvironmentHot.stages.0.description>Tämä lämpö on epämiellyttävä. Minä hikoilen.</EnvironmentHot.stages.0.description>
+    <EnvironmentHot.stages.1.label>erittäin kuuma</EnvironmentHot.stages.1.label>
+    <EnvironmentHot.stages.1.description>Olen ylikuumentunut.</EnvironmentHot.stages.1.description>
+    <EnvironmentHot.stages.2.label>äärimmäisen kuuma</EnvironmentHot.stages.2.label>
+    <EnvironmentHot.stages.2.description>Tuntuu kuin olisin uunissa! En ole varma miten kauan kestän tätä.</EnvironmentHot.stages.2.description>
+    <EnvironmentHot.stages.3.label>palaa</EnvironmentHot.stages.3.label>
+    <EnvironmentHot.stages.3.description>Minä palan. Voisin kuolla tähän kuumuuteen!</EnvironmentHot.stages.3.description>
     
-    <rep>
-        <path>Crowded.stages[0].label</path>
-        <trans>a little bit crowded</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[0].description</path>
-        <trans>It's a little bit crowded here.</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[1].label</path>
-        <trans>crowded</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[1].description</path>
-        <trans>This place is crowded. I would feel much better if there was more free space.</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[2].label</path>
-        <trans>very crowded</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[2].description</path>
-        <trans>This place is so crowded I can barely breathe. I need more space.</trans>
-    </rep>
+    <Crowded.stages.0.label>a little bit crowded</Crowded.stages.0.label>
+    <Crowded.stages.0.description>It's a little bit crowded here.</Crowded.stages.0.description>
+    <Crowded.stages.1.label>crowded</Crowded.stages.1.label>
+    <Crowded.stages.1.description>This place is crowded. I would feel much better if there was more free space.</Crowded.stages.1.description>
+    <Crowded.stages.2.label>very crowded</Crowded.stages.2.label>
+    <Crowded.stages.2.description>This place is so crowded I can barely breathe. I need more space.</Crowded.stages.2.description>
     
 </LanguageData>

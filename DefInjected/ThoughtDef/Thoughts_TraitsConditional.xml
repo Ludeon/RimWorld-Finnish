@@ -1,240 +1,72 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <rep>
-        <path>MasochistPain.stages[0].label</path>
-        <trans>vähän kipua</trans>
-    </rep>
-    <rep>
-        <path>MasochistPain.stages[0].description</path>
-        <trans>Au... Heh heh heh... Voisin tottua tähän!</trans>
-    </rep>
-    <rep>
-        <path>MasochistPain.stages[1].label</path>
-        <trans>kohtalaisesti kipua</trans>
-    </rep>
-    <rep>
-        <path>MasochistPain.stages[1].description</path>
-        <trans>Huh... Sattuu, mutta pidän siitä! Antaa tulla vaan!</trans>
-    </rep>
-    <rep>
-        <path>MasochistPain.stages[2].label</path>
-        <trans>akuuttinen kipu</trans>
-    </rep>
-    <rep>
-        <path>MasochistPain.stages[2].description</path>
-        <trans>Auts... Jotain taitaa olla rikki... Mutta onpas aistikas tunne!</trans>
-    </rep>
-    <rep>
-        <path>MasochistPain.stages[3].label</path>
-        <trans>shokissa äärimmäisestä kivusta</trans>
-    </rep>
-    <rep>
-        <path>MasochistPain.stages[3].description</path>
-        <trans>Aaah... Olenko taivaassa?</trans>
-    </rep>
+    <MasochistPain.stages.0.label>vähän kipua</MasochistPain.stages.0.label>
+    <MasochistPain.stages.0.description>Au... Heh heh heh... Voisin tottua tähän!</MasochistPain.stages.0.description>
+    <MasochistPain.stages.1.label>kohtalaisesti kipua</MasochistPain.stages.1.label>
+    <MasochistPain.stages.1.description>Huh... Sattuu, mutta pidän siitä! Antaa tulla vaan!</MasochistPain.stages.1.description>
+    <MasochistPain.stages.2.label>akuuttinen kipu</MasochistPain.stages.2.label>
+    <MasochistPain.stages.2.description>Auts... Jotain taitaa olla rikki... Mutta onpas aistikas tunne!</MasochistPain.stages.2.description>
+    <MasochistPain.stages.3.label>shokissa äärimmäisestä kivusta</MasochistPain.stages.3.label>
+    <MasochistPain.stages.3.description>Aaah... Olenko taivaassa?</MasochistPain.stages.3.description>
     
-    <rep>
-        <path>ProsthophileNoProsthetic.stages[0].label</path>
-        <trans>ei bionista ruumiinosaa</trans>
-    </rep>
-    <rep>
-        <path>ProsthophileNoProsthetic.stages[0].description</path>
-        <trans>Ihmisliha on niin rajoittavaa. Olisipa minulla jokin keinotekoinen ruumiinosa.</trans>
-    </rep>
+    <ProsthophileNoProsthetic.stages.0.label>ei bionista ruumiinosaa</ProsthophileNoProsthetic.stages.0.label>
+    <ProsthophileNoProsthetic.stages.0.description>Ihmisliha on niin rajoittavaa. Olisipa minulla jokin keinotekoinen ruumiinosa.</ProsthophileNoProsthetic.stages.0.description>
     
-    <rep>
-        <path>ProsthophileHappy.stages[0].label</path>
-        <trans>bioninen ruumiinosa</trans>
-    </rep>
-    <rep>
-        <path>ProsthophileHappy.stages[0].description</path>
-        <trans>Olen modernin teknologian tulos! Voin tehdä kaiken paremmin!</trans>
-    </rep>
+    <ProsthophileHappy.stages.0.label>bioninen ruumiinosa</ProsthophileHappy.stages.0.label>
+    <ProsthophileHappy.stages.0.description>Olen modernin teknologian tulos! Voin tehdä kaiken paremmin!</ProsthophileHappy.stages.0.description>
     
-    <rep>
-        <path>ProsthophobeUnhappy.stages[0].label</path>
-        <trans>bioninen ruumiinosa</trans>
-    </rep>
-    <rep>
-        <path>ProsthophobeUnhappy.stages[0].description</path>
-        <trans>He tekivät minusta teknologisen iljetyksen... Jos he vain olisivat antaneet minulle vaihtoehdon...</trans>
-    </rep>
+    <ProsthophobeUnhappy.stages.0.label>bioninen ruumiinosa</ProsthophobeUnhappy.stages.0.label>
+    <ProsthophobeUnhappy.stages.0.description>He tekivät minusta teknologisen iljetyksen... Jos he vain olisivat antaneet minulle vaihtoehdon...</ProsthophobeUnhappy.stages.0.description>
     
-    <rep>
-        <path>BrawlerUnhappy.stages[0].label</path>
-        <trans>painijalla on etätaisteluase</trans>
-    </rep>
-    <rep>
-        <path>BrawlerUnhappy.stages[0].description</path>
-        <trans>Vihaan etäältä taisetemista. Haluan päästä lähelle!</trans>
-    </rep>
+    <BrawlerUnhappy.stages.0.label>painijalla on etätaisteluase</BrawlerUnhappy.stages.0.label>
+    <BrawlerUnhappy.stages.0.description>Vihaan etäältä taisetemista. Haluan päästä lähelle!</BrawlerUnhappy.stages.0.description>
     
-    <rep>
-        <path>ClothedNudist.stages[0].label</path>
-        <trans>rajoittavat vaatteet</trans>
-    </rep>
-    <rep>
-        <path>ClothedNudist.stages[0].description</path>
-        <trans>Olen nudisti mutta minun täytyy pitää tätä vaatekertaa. Se ei ole sietämätöntä - mutta tunnen silti itseni rajoittuneeksi ja epämukavaksi.</trans>
-    </rep>
+    <ClothedNudist.stages.0.label>rajoittavat vaatteet</ClothedNudist.stages.0.label>
+    <ClothedNudist.stages.0.description>Olen nudisti mutta minun täytyy pitää tätä vaatekertaa. Se ei ole sietämätöntä - mutta tunnen silti itseni rajoittuneeksi ja epämukavaksi.</ClothedNudist.stages.0.description>
     
-    <rep>
-        <path>HappyNude.stages[0].label</path>
-        <trans>onnellisesti alaston</trans>
-    </rep>
-    <rep>
-        <path>HappyNude.stages[0].description</path>
-        <trans>Olen nakuna ja pidän siitä! Tunnen itseni niin vapaaksi ja rajoittamattomaksi ja yhdteydessä ympäristööni!</trans>
-    </rep>
+    <HappyNude.stages.0.label>onnellisesti alaston</HappyNude.stages.0.label>
+    <HappyNude.stages.0.description>Olen nakuna ja pidän siitä! Tunnen itseni niin vapaaksi ja rajoittamattomaksi ja yhdteydessä ympäristööni!</HappyNude.stages.0.description>
     
-    <rep>
-        <path>NightOwlDuringTheDay.stages[0].label</path>
-        <trans>night owl in daytime</trans>
-    </rep>
-    <rep>
-        <path>NightOwlDuringTheDay.stages[0].description</path>
-        <trans>I don't like working during the day.</trans>
-    </rep>
+    <NightOwlDuringTheDay.stages.0.label>night owl in daytime</NightOwlDuringTheDay.stages.0.label>
+    <NightOwlDuringTheDay.stages.0.description>I don't like working during the day.</NightOwlDuringTheDay.stages.0.description>
     
-    <rep>
-        <path>NightOwlDuringTheNight.stages[0].label</path>
-        <trans>night owl at night</trans>
-    </rep>
-    <rep>
-        <path>NightOwlDuringTheNight.stages[0].description</path>
-        <trans>I feel much better at night.</trans>
-    </rep>
+    <NightOwlDuringTheNight.stages.0.label>night owl at night</NightOwlDuringTheNight.stages.0.label>
+    <NightOwlDuringTheNight.stages.0.description>I feel much better at night.</NightOwlDuringTheNight.stages.0.description>
     
-    <rep>
-        <path>Greedy.stages[0].label</path>
-        <trans>no impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[0].description</path>
-        <trans>I'm greedy. I want a really impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[1].label</path>
-        <trans>no impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[1].description</path>
-        <trans>I'm greedy. My room is pathetic! I want a really impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[2].label</path>
-        <trans>no impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[2].description</path>
-        <trans>I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[3].label</path>
-        <trans>no impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[3].description</path>
-        <trans>I'm greedy. My room isn't good enough. I want a really impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[4].label</path>
-        <trans>no impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Greedy.stages[4].description</path>
-        <trans>I'm greedy. My room isn't quite good enough. I want a really impressive bedroom.</trans>
-    </rep>
+    <Greedy.stages.0.label>no impressive bedroom</Greedy.stages.0.label>
+    <Greedy.stages.0.description>I'm greedy. I want a really impressive bedroom.</Greedy.stages.0.description>
+    <Greedy.stages.1.label>no impressive bedroom</Greedy.stages.1.label>
+    <Greedy.stages.1.description>I'm greedy. My room is pathetic! I want a really impressive bedroom.</Greedy.stages.1.description>
+    <Greedy.stages.2.label>no impressive bedroom</Greedy.stages.2.label>
+    <Greedy.stages.2.description>I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom.</Greedy.stages.2.description>
+    <Greedy.stages.3.label>no impressive bedroom</Greedy.stages.3.label>
+    <Greedy.stages.3.description>I'm greedy. My room isn't good enough. I want a really impressive bedroom.</Greedy.stages.3.description>
+    <Greedy.stages.4.label>no impressive bedroom</Greedy.stages.4.label>
+    <Greedy.stages.4.description>I'm greedy. My room isn't quite good enough. I want a really impressive bedroom.</Greedy.stages.4.description>
     
-    <rep>
-        <path>Jealous.stages[0].label</path>
-        <trans>jealous</trans>
-    </rep>
-    <rep>
-        <path>Jealous.stages[0].description</path>
-        <trans>Someone else has a more impressive bedroom than me!</trans>
-    </rep>
+    <Jealous.stages.0.label>jealous</Jealous.stages.0.label>
+    <Jealous.stages.0.description>Someone else has a more impressive bedroom than me!</Jealous.stages.0.description>
     
-    <rep>
-        <path>Ascetic.stages[0].label</path>
-        <trans>awful bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[0].description</path>
-        <trans>My bedroom is just how I want it to be. Very humble and simple.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[1].label</path>
-        <trans>repulsive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[1].description</path>
-        <trans>My bedroom is just how I want it to be. Very humble and simple.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[2].label</path>
-        <trans>dull bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[2].description</path>
-        <trans>My bedroom is very humble and simple. I like it.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[5].label</path>
-        <trans>impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[5].description</path>
-        <trans>I don't like having an impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[6].label</path>
-        <trans>impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[6].description</path>
-        <trans>I don't like having an impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[7].label</path>
-        <trans>impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[7].description</path>
-        <trans>I don't like having an impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[8].label</path>
-        <trans>impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[8].description</path>
-        <trans>I don't like having an impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[9].label</path>
-        <trans>impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[9].description</path>
-        <trans>I don't like having an impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[10].label</path>
-        <trans>impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[10].description</path>
-        <trans>I don't like having an impressive bedroom.</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[11].label</path>
-        <trans>impressive bedroom</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.stages[11].description</path>
-        <trans>I don't like having an impressive bedroom.</trans>
-    </rep>
+    <Ascetic.stages.0.label>awful bedroom</Ascetic.stages.0.label>
+    <Ascetic.stages.0.description>My bedroom is just how I want it to be. Very humble and simple.</Ascetic.stages.0.description>
+    <Ascetic.stages.1.label>repulsive bedroom</Ascetic.stages.1.label>
+    <Ascetic.stages.1.description>My bedroom is just how I want it to be. Very humble and simple.</Ascetic.stages.1.description>
+    <Ascetic.stages.2.label>dull bedroom</Ascetic.stages.2.label>
+    <Ascetic.stages.2.description>My bedroom is very humble and simple. I like it.</Ascetic.stages.2.description>
+    <Ascetic.stages.5.label>impressive bedroom</Ascetic.stages.5.label>
+    <Ascetic.stages.5.description>I don't like having an impressive bedroom.</Ascetic.stages.5.description>
+    <Ascetic.stages.6.label>impressive bedroom</Ascetic.stages.6.label>
+    <Ascetic.stages.6.description>I don't like having an impressive bedroom.</Ascetic.stages.6.description>
+    <Ascetic.stages.7.label>impressive bedroom</Ascetic.stages.7.label>
+    <Ascetic.stages.7.description>I don't like having an impressive bedroom.</Ascetic.stages.7.description>
+    <Ascetic.stages.8.label>impressive bedroom</Ascetic.stages.8.label>
+    <Ascetic.stages.8.description>I don't like having an impressive bedroom.</Ascetic.stages.8.description>
+    <Ascetic.stages.9.label>impressive bedroom</Ascetic.stages.9.label>
+    <Ascetic.stages.9.description>I don't like having an impressive bedroom.</Ascetic.stages.9.description>
+    <Ascetic.stages.10.label>impressive bedroom</Ascetic.stages.10.label>
+    <Ascetic.stages.10.description>I don't like having an impressive bedroom.</Ascetic.stages.10.description>
+    <Ascetic.stages.11.label>impressive bedroom</Ascetic.stages.11.label>
+    <Ascetic.stages.11.description>I don't like having an impressive bedroom.</Ascetic.stages.11.description>
     
 </LanguageData>
