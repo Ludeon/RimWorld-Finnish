@@ -2,13 +2,16 @@
 <LanguageData>
     
 	<Muffalo.label>hirvibiisoni</Muffalo.label>
+    <Muffalo.lifeStages.0.label>muffalo calf</Muffalo.lifeStages.0.label>
 	
 	<Iguana.label>iguaani</Iguana.label>
 	
 	<Rhinoceros.label>sarvikuono</Rhinoceros.label>
 	
 	<Dromedary.label>dromedaari</Dromedary.label>
+    <Dromedary.lifeStages.0.label>dromedary calf</Dromedary.lifeStages.0.label>
     
     <Elephant.label>elephant</Elephant.label>
+    <Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
 	
 </LanguageData>

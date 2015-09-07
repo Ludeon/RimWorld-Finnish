@@ -128,7 +128,7 @@
   <MinFoodQuality>Min. ruoan laatu</MinFoodQuality>
   <Diet>Dieetti</Diet>
   <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
-  <BasePrice>Perushinta</BasePrice>
+  <MarketValue>Perushinta</MarketValue>
   <Covers>Suojaa</Covers>
   <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
   <MoodChange>Mood change</MoodChange>

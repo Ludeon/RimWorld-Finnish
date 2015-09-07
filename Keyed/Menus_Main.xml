@@ -65,7 +65,7 @@
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
   <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
-  <MustChooseChallengeScale>Valitse vaikeustaso.</MustChooseChallengeScale>
+  <MustChooseDifficulty>Valitse vaikeustaso.</MustChooseDifficulty>
   <Difficulty>Vaikeustaso</Difficulty>
 
 

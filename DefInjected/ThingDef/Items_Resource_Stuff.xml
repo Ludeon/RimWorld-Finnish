@@ -17,6 +17,10 @@
     <Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
     <Plasteel.stuffProps.stuffAdjective>muoviteräksinen</Plasteel.stuffProps.stuffAdjective>
     
+    <WoodLog.label>wood</WoodLog.label>
+    <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.</WoodLog.description>
+    <WoodLog.stuffProps.stuffAdjective>wood</WoodLog.stuffProps.stuffAdjective>
+    
     <Uranium.label>uraania</Uranium.label>
     <Uranium.description>Äärimmäisen kova ja tiheä metalli. Vaikka sen tunnetuin käyttökohde on ydinreaktoreissa, sen fysikaaliset ominaisuudet tekevät siitä sopivan joissain tarkoituksissa työkaluna, aseena tai panssarina.</Uranium.description>
     <Uranium.stuffProps.stuffAdjective>uraanista tehty</Uranium.stuffProps.stuffAdjective>

@@ -2,16 +2,16 @@
 <LanguageData>
     
     <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
-    <SleepingSpot.Description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava. Lepäämisen tehokkuus: 7/10</SleepingSpot.Description>
+    <SleepingSpot.description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava. Lepäämisen tehokkuus: 7/10</SleepingSpot.description>
     
     <Bed.label>sänky</Bed.label>
-    <Bed.Description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä. Lepäämisen tehokkuus: 10/10</Bed.Description>
+    <Bed.description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä. Lepäämisen tehokkuus: 10/10</Bed.description>
     
     <RoyalBed.label>kuninkaallinen sänky</RoyalBed.label>
-    <RoyalBed.Description>Ylellinen vuode jalosukuisille.</RoyalBed.Description>
+    <RoyalBed.description>Ylellinen vuode jalosukuisille.</RoyalBed.description>
     
     <HospitalBed.label>sairasvuode</HospitalBed.label>
-    <HospitalBed.Description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.Description>
+    <HospitalBed.description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.description>
     
     <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
     <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>

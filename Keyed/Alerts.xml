@@ -83,16 +83,20 @@
 
   <NeedDump>Tarvitset kaatopaikan</NeedDump>
   <NeedDumpDesc>Olet merkinnyt esineen {0} raahattavaksi, mutta yhdyskuntalaisillasi ei ole paikkaa minne viedä sitä.\n\nMääritä kaatopaikka ja aseta se hyväksymään samantyyppisiä tavaroita kuin {0}.</NeedDumpDesc>
-
-  <NeedGrave>Tarvitset haudan</NeedGrave>
-  <NeedGraveDesc>Maassa makaa kuollut ruumis eikä paikkaa minne yhdyskuntalasisesi voisivat viedä sen.\n\nTee hauta tai kaatopaikka ja aseta se vastaanottamaan ruumiita.</NeedGraveDesc>
+  
+    <!-- Removed
+    <NeedGrave>Need grave</NeedGrave>
+    <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
+    -->
 
   <ColonistsIdle>{0} yhdyskuntalaista joutilaana</ColonistsIdle>
   <ColonistsIdleDesc>Nämä yhdyskuntalaiset haahuilevat toimettomina:\n\n{0}\nSinun kannattaisi keksiä heille jotain tekemistä.</ColonistsIdleDesc>
-
-  <HaltedConstructions>{0} rakennuksesta puuttuu materiaaleja</HaltedConstructions>
-  <HaltedConstructionsDesc>Näillä rakennushankkeilla ei ole kaikkia tarvittavia materiaaleja:\n\n{0}\nSinun kannattaisi kerätä tarvittavia materiaaleja, jotta yhdyskuntalaisesi voivat jatkaa rakentamista.</HaltedConstructionsDesc>
-
+  
+    <!-- Removed
+    <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
+    <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
+    -->
+    
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
 

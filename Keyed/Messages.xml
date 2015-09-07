@@ -49,7 +49,7 @@
 
   <MessageCriticalAlert>Kriittinen varoitus: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestableFood>Pitää määrittää ruokaa tuottavia, tarpeeksi kasvaneita kasveja.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestable>Pitää määrittää ruokaa tuottavia, tarpeeksi kasvaneita kasveja.</MessageMustDesignateHarvestable>
   <MessageMustDesignateHarvestableWood>Pitää määrittää puuta tuottavia, tarpeeksi kasvaneita puita.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Pitää määrittää kasveja.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Pitää määrittää siirrettäviä tavaroita.</MessageMustDesignateHaulable>

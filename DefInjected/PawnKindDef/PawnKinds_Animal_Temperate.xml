@@ -8,15 +8,19 @@
     <WildBoar.label>wild boar</WildBoar.label>
     
     <Deer.label>peura</Deer.label>
+    <Deer.labelMale>buck</Deer.labelMale>
+    <Deer.labelFemale>ewe</Deer.labelFemale>
     
     <Tortoise.label>kilpikonna</Tortoise.label>
     
     <Hare.label>jänis</Hare.label>
     
     <Elk.label>hirvi</Elk.label>
+    <Elk.lifeStages.0.label>elk calf</Elk.lifeStages.0.label>
     
     <Alphabeaver.label>alfamajava</Alphabeaver.label>
     
     <Thrumbo.label>thrumbo</Thrumbo.label>
+    <Thrumbo.lifeStages.0.label>thrumbo calf</Thrumbo.lifeStages.0.label>
     
 </LanguageData>

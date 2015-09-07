@@ -3,6 +3,7 @@
 
   <Level>Taso</Level>
   <ProgressToNextLevel>Seuraavaan tasoon</ProgressToNextLevel>
+  <Experience>Experience</Experience>
   <Passion>Intohimo</Passion>
   <PassionNone>Ei kiinnostunut (oppii {0}x)</PassionNone>
   <PassionMinor>Kiinnostunut (oppii {0}x)</PassionMinor>

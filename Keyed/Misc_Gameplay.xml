@@ -9,6 +9,7 @@
   <ForColonistUse>Yhdyskuntalaisten käyttöön</ForColonistUse>
   <MedicalBed>Lääkitsemiseen</MedicalBed>
   <Owner>Omistaja</Owner>
+  <AssignedColonist>Assigned colonist</AssignedColonist>
   <Nobody>Ei kukaan</Nobody>
   <Unowned>Omistamaton</Unowned>
   <DeadTime>Kuollut {0}</DeadTime>
@@ -22,7 +23,7 @@
   <UntreatedLower>hoitamaton</UntreatedLower>
   <DevelopedImmunityLower>kehittynyt vastustuskyky</DevelopedImmunityLower>
   <InjuryRequiresTreatment>tarvitsee hoitoa parantuakseen</InjuryRequiresTreatment>
-  <NextTreatmentAfter>seuraava hoito {0} päivän jälkeen</NextTreatmentAfter>
+  <NextTreatmentIn>Seuraavaan hoitoon {0}</NextTreatmentIn>
   <MissingMedicalBillIngredient>{0} puuttuu</MissingMedicalBillIngredient>
   <Immunity>Vastustuskyky</Immunity>
   <Race>Rotu</Race>

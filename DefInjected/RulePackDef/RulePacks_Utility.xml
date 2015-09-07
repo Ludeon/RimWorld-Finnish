@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <ArtUtility.rulePack.rulesStrings.0>depicts->jäljittelee</ArtUtility.rulePack.rulesStrings.0>
-  <ArtUtility.rulePack.rulesStrings.1>depicts->esittää</ArtUtility.rulePack.rulesStrings.1>
-  <ArtUtility.rulePack.rulesStrings.2>depicts->kuvailee</ArtUtility.rulePack.rulesStrings.2>
-  <ArtUtility.rulePack.rulesStrings.3>depicts->muistuttaa</ArtUtility.rulePack.rulesStrings.3>
-  <ArtUtility.rulePack.rulesStrings.4>depicts->havainnollistaa</ArtUtility.rulePack.rulesStrings.4>
-  <ArtUtility.rulePack.rulesStrings.5>depicts->edustaa</ArtUtility.rulePack.rulesStrings.5>
-  <ArtUtility.rulePack.rulesStrings.6>depicts->mukailee</ArtUtility.rulePack.rulesStrings.6>
-  <ArtUtility.rulePack.rulesStrings.7>depiction->esitettynä</ArtUtility.rulePack.rulesStrings.7>
-  <ArtUtility.rulePack.rulesStrings.8>depiction->kuvattuna</ArtUtility.rulePack.rulesStrings.8>
-  <ArtUtility.rulePack.rulesStrings.9>depiction->kuvailtuna</ArtUtility.rulePack.rulesStrings.9>
-  <ArtUtility.rulePack.rulesStrings.10>depiction->edustettuna</ArtUtility.rulePack.rulesStrings.10>
-  <ArtUtility.rulePack.rulesStrings.11>depiction->kuvitettuna</ArtUtility.rulePack.rulesStrings.11>
-  <ArtUtility.rulePack.rulesStrings.12>desc_sentence_group->[desc_sentence] [artextra_sentence] [style_sentence]</ArtUtility.rulePack.rulesStrings.12>
-  <ArtUtility.rulePack.rulesStrings.13>desc_sentence_group->[desc_sentence] [style_sentence] [artextra_sentence]</ArtUtility.rulePack.rulesStrings.13>
-  <ArtUtility.rulePack.rulesStrings.14>artextra_sentence->Kuvaa ympäröi [animal][quantity_adjphrase].</ArtUtility.rulePack.rulesStrings.14>
-  <ArtUtility.rulePack.rulesStrings.15>artextra_sentence->[side_position] on [community].</ArtUtility.rulePack.rulesStrings.15>
-  <ArtUtility.rulePack.rulesStrings.16>artextra_sentence->[side_position] on [terrainfeature].</ArtUtility.rulePack.rulesStrings.16>
-  <ArtUtility.rulePack.rulesStrings.17>artextra_sentence->[side_position] on [animal].</ArtUtility.rulePack.rulesStrings.17>
-  <ArtUtility.rulePack.rulesStrings.18>artextra_sentence->Kuvan pääaiheen takana on [terrainfeature].</ArtUtility.rulePack.rulesStrings.18>
-  <ArtUtility.rulePack.rulesStrings.19>artextra_sentence->Tapahtuman ympäristönä on [community].</ArtUtility.rulePack.rulesStrings.19>
-  <ArtUtility.rulePack.rulesStrings.20>artextra_sentence->Tapahtuman taustalla häämöttää [community].</ArtUtility.rulePack.rulesStrings.20>
-  <ArtUtility.rulePack.rulesStrings.21>artextra_sentence->Kuvan alalaitaa hallitsee [terrainfeature].</ArtUtility.rulePack.rulesStrings.21>
-  <ArtUtility.rulePack.rulesStrings.22>artextra_sentence->[outlander] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.22>
-  <ArtUtility.rulePack.rulesStrings.23>artextra_sentence->[animal] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.23>
-  <ArtUtility.rulePack.rulesStrings.24>artextra_sentence->Jos siristät silmiäsi, kuvan asetelmasta paljastuu [composition] [animal].</ArtUtility.rulePack.rulesStrings.24>
-  <ArtUtility.rulePack.rulesStrings.25>artextra_sentence->Koko kuva on esitetty huolellisesti aseteltuna [animal]kollaasina.</ArtUtility.rulePack.rulesStrings.25>
-  <ArtUtility.rulePack.rulesStrings.26>artextra_sentence->Kaiken yllä on hymyilevä [outlander].</ArtUtility.rulePack.rulesStrings.26>
-  <ArtUtility.rulePack.rulesStrings.27>artextra_sentence->Kuollut [animal] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.27>
-  <ArtUtility.rulePack.rulesStrings.28>artextra_sentence->Persoonallinen kuvaus aiheesta [concept] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.28>
-  <ArtUtility.rulePack.rulesStrings.29>artextra_sentence->[animal] [side_position] näyttää symboloivan aihetta [concept].</ArtUtility.rulePack.rulesStrings.29>
-  <ArtUtility.rulePack.rulesStrings.30>artextra_sentence->[outlander][quantity_adjphrase] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.30>
-  <ArtUtility.rulePack.rulesStrings.31>artextra_sentence->Tapahtuman ympäristönä on [community] jonka lähellä on [terrainfeature].</ArtUtility.rulePack.rulesStrings.31>
-  <ArtUtility.rulePack.rulesStrings.32>style_sentence->Kuva näyttää edustavan aihetta [concept].</ArtUtility.rulePack.rulesStrings.32>
-  <ArtUtility.rulePack.rulesStrings.33>style_sentence->Työ on aiheen [concept] täyttämä ja sen tyyli on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.33>
-  <ArtUtility.rulePack.rulesStrings.34>style_sentence->Työ vihjaa aiheeseen [concept].</ArtUtility.rulePack.rulesStrings.34>
-  <ArtUtility.rulePack.rulesStrings.35>style_sentence->Työn tyylilaji on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.35>
-  <ArtUtility.rulePack.rulesStrings.36>style_sentence->Keskeisessä asemassa olevan tapahtuman [artstyle_adj] tyyli ja taustan [artstyle_adj] tyyli ovat epäsuhdassa.</ArtUtility.rulePack.rulesStrings.36>
-  <ArtUtility.rulePack.rulesStrings.37>style_sentence->Lähes jokainen kuvan muoto näyttää olevan [composition].</ArtUtility.rulePack.rulesStrings.37>
-  <ArtUtility.rulePack.rulesStrings.38>style_sentence->Työssä on [artstyle_adj] tunne ja [composition] rakenne.</ArtUtility.rulePack.rulesStrings.38>
-  <ArtUtility.rulePack.rulesStrings.39>style_sentence->Kuvan asetelma on [composition].</ArtUtility.rulePack.rulesStrings.39>
-  <ArtUtility.rulePack.rulesStrings.40>style_sentence->Tyyli on [artstyle_adj] ja siinä on elementtejä joiden tyyli on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.40>
-  <ArtUtility.rulePack.rulesStrings.41>style_sentence->Kuvasta puuttuu kokonaan sekä [concept] että [concept].</ArtUtility.rulePack.rulesStrings.41>
-  <ArtUtility.rulePack.rulesStrings.42>style_sentence->Kuvan aiheena on jotenkin sekä [concept] että [concept].</ArtUtility.rulePack.rulesStrings.42>
-  <ArtUtility.rulePack.rulesStrings.43>style_sentence->Kuvan [composition] rakenne on lähes epäsuhdassa sen tyylin kanssa, joka on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.43>
-  <ArtUtility.rulePack.rulesStrings.44>composition->kolmiomainen</ArtUtility.rulePack.rulesStrings.44>
-  <ArtUtility.rulePack.rulesStrings.45>composition->suorakaiteinen</ArtUtility.rulePack.rulesStrings.45>
-  <ArtUtility.rulePack.rulesStrings.46>composition->neliömäinen</ArtUtility.rulePack.rulesStrings.46>
-  <ArtUtility.rulePack.rulesStrings.47>composition->epätasapainoinen</ArtUtility.rulePack.rulesStrings.47>
-  <ArtUtility.rulePack.rulesStrings.48>composition->hyvin tasapainotettu</ArtUtility.rulePack.rulesStrings.48>
-  <ArtUtility.rulePack.rulesStrings.49>composition->erittäin dynaaminen</ArtUtility.rulePack.rulesStrings.49>
-  <ArtUtility.rulePack.rulesStrings.50>composition->erittäin staattinen</ArtUtility.rulePack.rulesStrings.50>
-  <ArtUtility.rulePack.rulesStrings.51>artstyle_adj->tavallinen</ArtUtility.rulePack.rulesStrings.51>
-  <ArtUtility.rulePack.rulesStrings.52>artstyle_adj->yksinkertainen</ArtUtility.rulePack.rulesStrings.52>
-  <ArtUtility.rulePack.rulesStrings.53>artstyle_adj->monimutkainen ja realistinen</ArtUtility.rulePack.rulesStrings.53>
-  <ArtUtility.rulePack.rulesStrings.54>artstyle_adj->surrealistinen</ArtUtility.rulePack.rulesStrings.54>
-  <ArtUtility.rulePack.rulesStrings.55>artstyle_adj->klassinen</ArtUtility.rulePack.rulesStrings.55>
-  <ArtUtility.rulePack.rulesStrings.56>artstyle_adj->moderni</ArtUtility.rulePack.rulesStrings.56>
-  <ArtUtility.rulePack.rulesStrings.57>artstyle_adj->symbolinen</ArtUtility.rulePack.rulesStrings.57>
-  <ArtUtility.rulePack.rulesStrings.58>artstyle_adj->amatöörimäinen mutta viehättävä</ArtUtility.rulePack.rulesStrings.58>
-  <ArtUtility.rulePack.rulesStrings.59>artstyle_adj->yksityiskohtainen</ArtUtility.rulePack.rulesStrings.59>
-  <ArtUtility.rulePack.rulesStrings.60>artstyle_adj->kuutiomainen</ArtUtility.rulePack.rulesStrings.60>
-  <ArtUtility.rulePack.rulesStrings.61>artstyle_adj->kubistinen</ArtUtility.rulePack.rulesStrings.61>
-  <ArtUtility.rulePack.rulesStrings.62>artstyle_adj->impressionistinen</ArtUtility.rulePack.rulesStrings.62>
-  <ArtUtility.rulePack.rulesStrings.63>artstyle_adj->ekspressionistinen</ArtUtility.rulePack.rulesStrings.63>
-  <ArtUtility.rulePack.rulesStrings.64>artstyle_adj->valokuvauksellinen</ArtUtility.rulePack.rulesStrings.64>
-  <ArtUtility.rulePack.rulesStrings.65>artstyle_adj->barokkinen</ArtUtility.rulePack.rulesStrings.65>
-  <ArtUtility.rulePack.rulesStrings.66>artstyle_adj->dadaistinen</ArtUtility.rulePack.rulesStrings.66>
-  <ArtUtility.rulePack.rulesStrings.67>artstyle_adj->glitch-tyyppinen</ArtUtility.rulePack.rulesStrings.67>
-  <ArtUtility.rulePack.rulesStrings.68>composition->pikselöity</ArtUtility.rulePack.rulesStrings.68>
-  <ArtUtility.rulePack.rulesStrings.69>artstyle_adj->fauvistinen</ArtUtility.rulePack.rulesStrings.69>
-  <ArtUtility.rulePack.rulesStrings.70>artstyle_adj->kansanläheinen</ArtUtility.rulePack.rulesStrings.70>
-  <ArtUtility.rulePack.rulesStrings.71>artstyle_adj->kuvainnollinen</ArtUtility.rulePack.rulesStrings.71>
-  <ArtUtility.rulePack.rulesStrings.72>artstyle_adj->sulava</ArtUtility.rulePack.rulesStrings.72>
-  <ArtUtility.rulePack.rulesStrings.73>artstyle_adj->geometrinen</ArtUtility.rulePack.rulesStrings.73>
-  <ArtUtility.rulePack.rulesStrings.74>artstyle_adj->abstrakti</ArtUtility.rulePack.rulesStrings.74>
-  <ArtUtility.rulePack.rulesStrings.75>artstyle_adj->hyperrealistinen</ArtUtility.rulePack.rulesStrings.75>
-  <ArtUtility.rulePack.rulesStrings.76>artstyle_adj->populaarikulttuurinen</ArtUtility.rulePack.rulesStrings.76>
-  <ArtUtility.rulePack.rulesStrings.77>artstyle_adj->minimalistinen</ArtUtility.rulePack.rulesStrings.77>
-  <ArtUtility.rulePack.rulesStrings.78>artstyle_adj->neoklassinen</ArtUtility.rulePack.rulesStrings.78>
-  <ArtUtility.rulePack.rulesStrings.79>artstyle_adj->piirrostyyppinen</ArtUtility.rulePack.rulesStrings.79>
-  <ArtUtility.rulePack.rulesStrings.80>artstyle_adj->postimpressionistinen</ArtUtility.rulePack.rulesStrings.80>
-  <ArtUtility.rulePack.rulesStrings.81>artstyle_adj->puristinen</ArtUtility.rulePack.rulesStrings.81>
-  <ArtUtility.rulePack.rulesStrings.82>artstyle_adj->rokokoo-tyyppinen</ArtUtility.rulePack.rulesStrings.82>
-  <ArtUtility.rulePack.rulesStrings.83>artstyle_adj->romaaninen</ArtUtility.rulePack.rulesStrings.83>
-  <ArtUtility.rulePack.rulesStrings.84>artstyle_adj->romanttinen</ArtUtility.rulePack.rulesStrings.84>
-  <ArtUtility.rulePack.rulesStrings.85>artstyle_adj->graffitimainen</ArtUtility.rulePack.rulesStrings.85>
-  <ArtUtility.rulePack.rulesStrings.86>artstyle_adj->eroottinen</ArtUtility.rulePack.rulesStrings.86>
-  <ArtUtility.rulePack.rulesStrings.87>artstyle_adj->aistikas</ArtUtility.rulePack.rulesStrings.87>
-  <ArtUtility.rulePack.rulesStrings.88>artstyle_adj->vilpitön</ArtUtility.rulePack.rulesStrings.88> 
-  <ArtUtility.rulePack.rulesStrings.89>idle_verb_progressive->istuu</ArtUtility.rulePack.rulesStrings.89>
-  <ArtUtility.rulePack.rulesStrings.90>idle_verb_progressive->seisoo</ArtUtility.rulePack.rulesStrings.90>
-  <ArtUtility.rulePack.rulesStrings.91>idle_verb_progressive->odottaa</ArtUtility.rulePack.rulesStrings.91>
-  <ArtUtility.rulePack.rulesStrings.92>idle_verb_progressive->hymyilee</ArtUtility.rulePack.rulesStrings.92>
-  <ArtUtility.rulePack.rulesStrings.93>idle_verb_progressive->makaa</ArtUtility.rulePack.rulesStrings.93>
-  <ArtUtility.rulePack.rulesStrings.94>idle_verb_progressive->poseeraa</ArtUtility.rulePack.rulesStrings.94>
-  <ArtUtility.rulePack.rulesStrings.95>idle_verb_progressive->näyttäytyy</ArtUtility.rulePack.rulesStrings.95>
-  <ArtUtility.rulePack.rulesStrings.96>idle_verb_progressive->on kuvattu</ArtUtility.rulePack.rulesStrings.96>
-  <ArtUtility.rulePack.rulesStrings.97>idle_verb_progressive->lipuu esiin</ArtUtility.rulePack.rulesStrings.97>
-  <ArtUtility.rulePack.rulesStrings.98>idle_verb_progressive->kelluu</ArtUtility.rulePack.rulesStrings.98> 
-  <ArtUtility.rulePack.rulesStrings.99>side_position->sivussa</ArtUtility.rulePack.rulesStrings.99>
-  <ArtUtility.rulePack.rulesStrings.100>side_position->lähellä kuvan reunaa</ArtUtility.rulePack.rulesStrings.100>
-  <ArtUtility.rulePack.rulesStrings.101>side_position->taustalla</ArtUtility.rulePack.rulesStrings.101>
-  <ArtUtility.rulePack.rulesStrings.102>side_position->kaukaisuudessa</ArtUtility.rulePack.rulesStrings.102>
-  <ArtUtility.rulePack.rulesStrings.103>side_position->kuvan alalaidassa</ArtUtility.rulePack.rulesStrings.103>
-  <ArtUtility.rulePack.rulesStrings.104>side_position->kuvan ylälaidassa</ArtUtility.rulePack.rulesStrings.104>
-  <ArtUtility.rulePack.rulesStrings.105>side_position->kuvan keskeisen aiheen alla</ArtUtility.rulePack.rulesStrings.105>
-  <ArtUtility.rulePack.rulesStrings.106>side_position->kuvan keskipisteenä olevan aiheen takana</ArtUtility.rulePack.rulesStrings.106>
-  <ArtUtility.rulePack.rulesStrings.107>side_position->kuvan vasemmalla puolella</ArtUtility.rulePack.rulesStrings.107>
-  <ArtUtility.rulePack.rulesStrings.108>side_position->kuvan oikealla puolella</ArtUtility.rulePack.rulesStrings.108> 
-
-  <NamerArtUtility.rulePack.rulesStrings.0>trans->of</NamerArtUtility.rulePack.rulesStrings.0>
-  <NamerArtUtility.rulePack.rulesStrings.1>trans->for</NamerArtUtility.rulePack.rulesStrings.1>
-  <NamerArtUtility.rulePack.rulesStrings.2>trans->by</NamerArtUtility.rulePack.rulesStrings.2>
-  <NamerArtUtility.rulePack.rulesStrings.3>trans->with</NamerArtUtility.rulePack.rulesStrings.3>
-
+    <ArtUtility.rulePack.rulesStrings.0>depicts->jäljittelee</ArtUtility.rulePack.rulesStrings.0>
+    <ArtUtility.rulePack.rulesStrings.1>depicts->esittää</ArtUtility.rulePack.rulesStrings.1>
+    <ArtUtility.rulePack.rulesStrings.2>depicts->kuvailee</ArtUtility.rulePack.rulesStrings.2>
+    <ArtUtility.rulePack.rulesStrings.3>depicts->muistuttaa</ArtUtility.rulePack.rulesStrings.3>
+    <ArtUtility.rulePack.rulesStrings.4>depicts->havainnollistaa</ArtUtility.rulePack.rulesStrings.4>
+    <ArtUtility.rulePack.rulesStrings.5>depicts->edustaa</ArtUtility.rulePack.rulesStrings.5>
+    <ArtUtility.rulePack.rulesStrings.6>depicts->mukailee</ArtUtility.rulePack.rulesStrings.6>
+    <ArtUtility.rulePack.rulesStrings.7>depiction->esitettynä</ArtUtility.rulePack.rulesStrings.7>
+    <ArtUtility.rulePack.rulesStrings.8>depiction->kuvattuna</ArtUtility.rulePack.rulesStrings.8>
+    <ArtUtility.rulePack.rulesStrings.9>depiction->kuvailtuna</ArtUtility.rulePack.rulesStrings.9>
+    <ArtUtility.rulePack.rulesStrings.10>depiction->edustettuna</ArtUtility.rulePack.rulesStrings.10>
+    <ArtUtility.rulePack.rulesStrings.11>depiction->kuvitettuna</ArtUtility.rulePack.rulesStrings.11>
+    <ArtUtility.rulePack.rulesStrings.12>desc_sentence_group->[desc_sentence] [artextra_sentence] [style_sentence]</ArtUtility.rulePack.rulesStrings.12>
+    <ArtUtility.rulePack.rulesStrings.13>desc_sentence_group->[desc_sentence] [style_sentence] [artextra_sentence]</ArtUtility.rulePack.rulesStrings.13>
+    <ArtUtility.rulePack.rulesStrings.14>artextra_sentence->Kuvaa ympäröi [animal][quantity_adjphrase].</ArtUtility.rulePack.rulesStrings.14>
+    <ArtUtility.rulePack.rulesStrings.15>artextra_sentence->[side_position] on [community].</ArtUtility.rulePack.rulesStrings.15>
+    <ArtUtility.rulePack.rulesStrings.16>artextra_sentence->[side_position] on [terrainfeature].</ArtUtility.rulePack.rulesStrings.16>
+    <ArtUtility.rulePack.rulesStrings.17>artextra_sentence->[side_position] on [animal].</ArtUtility.rulePack.rulesStrings.17>
+    <ArtUtility.rulePack.rulesStrings.18>artextra_sentence->Kuvan pääaiheen takana on [terrainfeature].</ArtUtility.rulePack.rulesStrings.18>
+    <ArtUtility.rulePack.rulesStrings.19>artextra_sentence->Tapahtuman ympäristönä on [community].</ArtUtility.rulePack.rulesStrings.19>
+    <ArtUtility.rulePack.rulesStrings.20>artextra_sentence->Tapahtuman taustalla häämöttää [community].</ArtUtility.rulePack.rulesStrings.20>
+    <ArtUtility.rulePack.rulesStrings.21>artextra_sentence->Kuvan alalaitaa hallitsee [terrainfeature].</ArtUtility.rulePack.rulesStrings.21>
+    <ArtUtility.rulePack.rulesStrings.22>artextra_sentence->[outlander] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.22>
+    <ArtUtility.rulePack.rulesStrings.23>artextra_sentence->[animal] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.23>
+    <ArtUtility.rulePack.rulesStrings.24>artextra_sentence->Jos siristät silmiäsi, kuvan asetelmasta paljastuu [composition] [animal].</ArtUtility.rulePack.rulesStrings.24>
+    <ArtUtility.rulePack.rulesStrings.25>artextra_sentence->Koko kuva on esitetty huolellisesti aseteltuna [animal]kollaasina.</ArtUtility.rulePack.rulesStrings.25>
+    <ArtUtility.rulePack.rulesStrings.26>artextra_sentence->Kaiken yllä on hymyilevä [outlander].</ArtUtility.rulePack.rulesStrings.26>
+    <ArtUtility.rulePack.rulesStrings.27>artextra_sentence->Kuollut [animal] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.27>
+    <ArtUtility.rulePack.rulesStrings.28>artextra_sentence->Persoonallinen kuvaus aiheesta [concept] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.28>
+    <ArtUtility.rulePack.rulesStrings.29>artextra_sentence->[animal] [side_position] näyttää symboloivan aihetta [concept].</ArtUtility.rulePack.rulesStrings.29>
+    <ArtUtility.rulePack.rulesStrings.30>artextra_sentence->[outlander][quantity_adjphrase] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.30>
+    <ArtUtility.rulePack.rulesStrings.31>artextra_sentence->Tapahtuman ympäristönä on [community] jonka lähellä on [terrainfeature].</ArtUtility.rulePack.rulesStrings.31>
+    <ArtUtility.rulePack.rulesStrings.32>style_sentence->Kuva näyttää edustavan aihetta [concept].</ArtUtility.rulePack.rulesStrings.32>
+    <ArtUtility.rulePack.rulesStrings.33>style_sentence->Työ on aiheen [concept] täyttämä ja sen tyyli on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.33>
+    <ArtUtility.rulePack.rulesStrings.34>style_sentence->Työ vihjaa aiheeseen [concept].</ArtUtility.rulePack.rulesStrings.34>
+    <ArtUtility.rulePack.rulesStrings.35>style_sentence->Työn tyylilaji on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.35>
+    <ArtUtility.rulePack.rulesStrings.36>style_sentence->Keskeisessä asemassa olevan tapahtuman [artstyle_adj] tyyli ja taustan [artstyle_adj] tyyli ovat epäsuhdassa.</ArtUtility.rulePack.rulesStrings.36>
+    <ArtUtility.rulePack.rulesStrings.37>style_sentence->Lähes jokainen kuvan muoto näyttää olevan [composition].</ArtUtility.rulePack.rulesStrings.37>
+    <ArtUtility.rulePack.rulesStrings.38>style_sentence->Työssä on [artstyle_adj] tunne ja [composition] rakenne.</ArtUtility.rulePack.rulesStrings.38>
+    <ArtUtility.rulePack.rulesStrings.39>style_sentence->Kuvan asetelma on [composition].</ArtUtility.rulePack.rulesStrings.39>
+    <ArtUtility.rulePack.rulesStrings.40>style_sentence->Tyyli on [artstyle_adj] ja siinä on elementtejä joiden tyyli on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.40>
+    <ArtUtility.rulePack.rulesStrings.41>style_sentence->Kuvasta puuttuu kokonaan sekä [concept] että [concept].</ArtUtility.rulePack.rulesStrings.41>
+    <ArtUtility.rulePack.rulesStrings.42>style_sentence->Kuvan aiheena on jotenkin sekä [concept] että [concept].</ArtUtility.rulePack.rulesStrings.42>
+    <ArtUtility.rulePack.rulesStrings.43>style_sentence->Kuvan [composition] rakenne on lähes epäsuhdassa sen tyylin kanssa, joka on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.43>
+    <ArtUtility.rulePack.rulesStrings.44>composition->kolmiomainen</ArtUtility.rulePack.rulesStrings.44>
+    <ArtUtility.rulePack.rulesStrings.45>composition->suorakaiteinen</ArtUtility.rulePack.rulesStrings.45>
+    <ArtUtility.rulePack.rulesStrings.46>composition->neliömäinen</ArtUtility.rulePack.rulesStrings.46>
+    <ArtUtility.rulePack.rulesStrings.47>composition->epätasapainoinen</ArtUtility.rulePack.rulesStrings.47>
+    <ArtUtility.rulePack.rulesStrings.48>composition->hyvin tasapainotettu</ArtUtility.rulePack.rulesStrings.48>
+    <ArtUtility.rulePack.rulesStrings.49>composition->erittäin dynaaminen</ArtUtility.rulePack.rulesStrings.49>
+    <ArtUtility.rulePack.rulesStrings.50>composition->erittäin staattinen</ArtUtility.rulePack.rulesStrings.50>
+    <ArtUtility.rulePack.rulesStrings.51>artstyle_adj->tavallinen</ArtUtility.rulePack.rulesStrings.51>
+    <ArtUtility.rulePack.rulesStrings.52>artstyle_adj->yksinkertainen</ArtUtility.rulePack.rulesStrings.52>
+    <ArtUtility.rulePack.rulesStrings.53>artstyle_adj->monimutkainen ja realistinen</ArtUtility.rulePack.rulesStrings.53>
+    <ArtUtility.rulePack.rulesStrings.54>artstyle_adj->surrealistinen</ArtUtility.rulePack.rulesStrings.54>
+    <ArtUtility.rulePack.rulesStrings.55>artstyle_adj->klassinen</ArtUtility.rulePack.rulesStrings.55>
+    <ArtUtility.rulePack.rulesStrings.56>artstyle_adj->moderni</ArtUtility.rulePack.rulesStrings.56>
+    <ArtUtility.rulePack.rulesStrings.57>artstyle_adj->symbolinen</ArtUtility.rulePack.rulesStrings.57>
+    <ArtUtility.rulePack.rulesStrings.58>artstyle_adj->amatöörimäinen mutta viehättävä</ArtUtility.rulePack.rulesStrings.58>
+    <ArtUtility.rulePack.rulesStrings.59>artstyle_adj->yksityiskohtainen</ArtUtility.rulePack.rulesStrings.59>
+    <ArtUtility.rulePack.rulesStrings.60>artstyle_adj->kuutiomainen</ArtUtility.rulePack.rulesStrings.60>
+    <ArtUtility.rulePack.rulesStrings.61>artstyle_adj->kubistinen</ArtUtility.rulePack.rulesStrings.61>
+    <ArtUtility.rulePack.rulesStrings.62>artstyle_adj->impressionistinen</ArtUtility.rulePack.rulesStrings.62>
+    <ArtUtility.rulePack.rulesStrings.63>artstyle_adj->ekspressionistinen</ArtUtility.rulePack.rulesStrings.63>
+    <ArtUtility.rulePack.rulesStrings.64>artstyle_adj->valokuvauksellinen</ArtUtility.rulePack.rulesStrings.64>
+    <ArtUtility.rulePack.rulesStrings.65>artstyle_adj->barokkinen</ArtUtility.rulePack.rulesStrings.65>
+    <ArtUtility.rulePack.rulesStrings.66>artstyle_adj->dadaistinen</ArtUtility.rulePack.rulesStrings.66>
+    <ArtUtility.rulePack.rulesStrings.67>artstyle_adj->glitch-tyyppinen</ArtUtility.rulePack.rulesStrings.67>
+    <ArtUtility.rulePack.rulesStrings.68>composition->pikselöity</ArtUtility.rulePack.rulesStrings.68>
+    <ArtUtility.rulePack.rulesStrings.69>artstyle_adj->fauvistinen</ArtUtility.rulePack.rulesStrings.69>
+    <ArtUtility.rulePack.rulesStrings.70>artstyle_adj->kansanläheinen</ArtUtility.rulePack.rulesStrings.70>
+    <ArtUtility.rulePack.rulesStrings.71>artstyle_adj->kuvainnollinen</ArtUtility.rulePack.rulesStrings.71>
+    <ArtUtility.rulePack.rulesStrings.72>artstyle_adj->sulava</ArtUtility.rulePack.rulesStrings.72>
+    <ArtUtility.rulePack.rulesStrings.73>artstyle_adj->geometrinen</ArtUtility.rulePack.rulesStrings.73>
+    <ArtUtility.rulePack.rulesStrings.74>artstyle_adj->abstrakti</ArtUtility.rulePack.rulesStrings.74>
+    <ArtUtility.rulePack.rulesStrings.75>artstyle_adj->hyperrealistinen</ArtUtility.rulePack.rulesStrings.75>
+    <ArtUtility.rulePack.rulesStrings.76>artstyle_adj->populaarikulttuurinen</ArtUtility.rulePack.rulesStrings.76>
+    <ArtUtility.rulePack.rulesStrings.77>artstyle_adj->minimalistinen</ArtUtility.rulePack.rulesStrings.77>
+    <ArtUtility.rulePack.rulesStrings.78>artstyle_adj->neoklassinen</ArtUtility.rulePack.rulesStrings.78>
+    <ArtUtility.rulePack.rulesStrings.79>artstyle_adj->piirrostyyppinen</ArtUtility.rulePack.rulesStrings.79>
+    <ArtUtility.rulePack.rulesStrings.80>artstyle_adj->postimpressionistinen</ArtUtility.rulePack.rulesStrings.80>
+    <ArtUtility.rulePack.rulesStrings.81>artstyle_adj->puristinen</ArtUtility.rulePack.rulesStrings.81>
+    <ArtUtility.rulePack.rulesStrings.82>artstyle_adj->rokokoo-tyyppinen</ArtUtility.rulePack.rulesStrings.82>
+    <ArtUtility.rulePack.rulesStrings.83>artstyle_adj->romanilainen</ArtUtility.rulePack.rulesStrings.83>
+    <ArtUtility.rulePack.rulesStrings.84>artstyle_adj->romanttinen</ArtUtility.rulePack.rulesStrings.84>
+    <ArtUtility.rulePack.rulesStrings.85>artstyle_adj->graffitimainen</ArtUtility.rulePack.rulesStrings.85>
+    <ArtUtility.rulePack.rulesStrings.86>artstyle_adj->eroottinen</ArtUtility.rulePack.rulesStrings.86>
+    <ArtUtility.rulePack.rulesStrings.87>artstyle_adj->aistikas</ArtUtility.rulePack.rulesStrings.87>
+    <ArtUtility.rulePack.rulesStrings.88>artstyle_adj->vilpitön</ArtUtility.rulePack.rulesStrings.88> 
+    <ArtUtility.rulePack.rulesStrings.89>idle_verb_progressive->istuu</ArtUtility.rulePack.rulesStrings.89>
+    <ArtUtility.rulePack.rulesStrings.90>idle_verb_progressive->seisoo</ArtUtility.rulePack.rulesStrings.90>
+    <ArtUtility.rulePack.rulesStrings.91>idle_verb_progressive->odottaa</ArtUtility.rulePack.rulesStrings.91>
+    <ArtUtility.rulePack.rulesStrings.92>idle_verb_progressive->hymyilee</ArtUtility.rulePack.rulesStrings.92>
+    <ArtUtility.rulePack.rulesStrings.93>idle_verb_progressive->makaa</ArtUtility.rulePack.rulesStrings.93>
+    <ArtUtility.rulePack.rulesStrings.94>idle_verb_progressive->poseeraa</ArtUtility.rulePack.rulesStrings.94>
+    <ArtUtility.rulePack.rulesStrings.95>idle_verb_progressive->näyttäytyy</ArtUtility.rulePack.rulesStrings.95>
+    <ArtUtility.rulePack.rulesStrings.96>idle_verb_progressive->on kuvattu</ArtUtility.rulePack.rulesStrings.96>
+    <ArtUtility.rulePack.rulesStrings.97>idle_verb_progressive->lipuu esiin</ArtUtility.rulePack.rulesStrings.97>
+    <ArtUtility.rulePack.rulesStrings.98>idle_verb_progressive->kelluu</ArtUtility.rulePack.rulesStrings.98> 
+    <ArtUtility.rulePack.rulesStrings.99>side_position->sivussa</ArtUtility.rulePack.rulesStrings.99>
+    <ArtUtility.rulePack.rulesStrings.100>side_position->lähellä kuvan reunaa</ArtUtility.rulePack.rulesStrings.100>
+    <ArtUtility.rulePack.rulesStrings.101>side_position->taustalla</ArtUtility.rulePack.rulesStrings.101>
+    <ArtUtility.rulePack.rulesStrings.102>side_position->kaukaisuudessa</ArtUtility.rulePack.rulesStrings.102>
+    <ArtUtility.rulePack.rulesStrings.103>side_position->kuvan alalaidassa</ArtUtility.rulePack.rulesStrings.103>
+    <ArtUtility.rulePack.rulesStrings.104>side_position->kuvan ylälaidassa</ArtUtility.rulePack.rulesStrings.104>
+    <ArtUtility.rulePack.rulesStrings.105>side_position->kuvan keskeisen aiheen alla</ArtUtility.rulePack.rulesStrings.105>
+    <ArtUtility.rulePack.rulesStrings.106>side_position->kuvan keskipisteenä olevan aiheen takana</ArtUtility.rulePack.rulesStrings.106>
+    <ArtUtility.rulePack.rulesStrings.107>side_position->kuvan vasemmalla puolella</ArtUtility.rulePack.rulesStrings.107>
+    <ArtUtility.rulePack.rulesStrings.108>side_position->kuvan oikealla puolella</ArtUtility.rulePack.rulesStrings.108> 
+    
+    <NamerArtUtility.rulePack.rulesStrings.0>trans->of</NamerArtUtility.rulePack.rulesStrings.0>
+    <NamerArtUtility.rulePack.rulesStrings.1>trans->for</NamerArtUtility.rulePack.rulesStrings.1>
+    <NamerArtUtility.rulePack.rulesStrings.2>trans->by</NamerArtUtility.rulePack.rulesStrings.2>
+    <NamerArtUtility.rulePack.rulesStrings.3>trans->with</NamerArtUtility.rulePack.rulesStrings.3>
+    
 </LanguageData>

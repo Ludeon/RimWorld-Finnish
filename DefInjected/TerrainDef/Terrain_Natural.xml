@@ -17,26 +17,6 @@
     
     <MossyTerrain.label>jäkälän peittämää maata</MossyTerrain.label>
     
-    <Sandstone_Rough.label>karkeaa hiekkakiveä</Sandstone_Rough.label>
-    <Sandstone_RoughHewn.label>karkeaksi louhittua hiekkakiveä</Sandstone_RoughHewn.label>
-    <Sandstone_Smooth.label>sileää hiekkakiveä</Sandstone_Smooth.label>
-    
-    <Granite_Rough.label>karkeaa graniittia</Granite_Rough.label>
-    <Granite_RoughHewn.label>karkeaksi louhittua graniittia</Granite_RoughHewn.label>
-    <Granite_Smooth.label>sileää graniittia</Granite_Smooth.label>
-    
-    <Limestone_Rough.label>karkeaa kalkkikiveä</Limestone_Rough.label>
-    <Limestone_RoughHewn.label>karkeaksi louhittua kalkkikiveä</Limestone_RoughHewn.label>
-    <Limestone_Smooth.label>sileää kalkkikiveä</Limestone_Smooth.label>
-    
-    <Slate_Rough.label>karkeaa liuskekiveä</Slate_Rough.label>
-    <Slate_RoughHewn.label>karkeaksi louhittua liuskekiveä</Slate_RoughHewn.label>
-    <Slate_Smooth.label>sileää liuskekiveä</Slate_Smooth.label>
-    
-    <Marble_Rough.label>karkeaa marmoria</Marble_Rough.label>
-    <Marble_RoughHewn.label>karkeaksi louhittua marmoria</Marble_RoughHewn.label>
-    <Marble_Smooth.label>sileää marmoria</Marble_Smooth.label>
-    
     <Ice.label>Ice</Ice.label>
     
 </LanguageData>

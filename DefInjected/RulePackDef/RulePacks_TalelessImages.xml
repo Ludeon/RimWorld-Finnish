@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <TalelessImages.rulePack.rulesStrings.0>image->[outlander] jota ympäröi [outlander]joukkio. [part2]</TalelessImages.rulePack.rulesStrings.0>
-  <TalelessImages.rulePack.rulesStrings.1>image->[outlander] pelaamassa [game] [outlander]joukkion kanssa. [part2]</TalelessImages.rulePack.rulesStrings.1>
-  <TalelessImages.rulePack.rulesStrings.2>image->[outlander] joka [subject_desc] ja hänen kädessään on [weapon]. [part2]</TalelessImages.rulePack.rulesStrings.2>
-  <TalelessImages.rulePack.rulesStrings.3>image->yksinäinen [outlander]. [part2]</TalelessImages.rulePack.rulesStrings.3>
-  <TalelessImages.rulePack.rulesStrings.4>image->[adjective] [outlander] jolla on päällä [apparel]. [part2]</TalelessImages.rulePack.rulesStrings.4>
-  <TalelessImages.rulePack.rulesStrings.5>image->tyhjä [apparel] [subject_desc]. [part2]</TalelessImages.rulePack.rulesStrings.5>
-  <TalelessImages.rulePack.rulesStrings.6>image->[adjective] [terrainfeature]. [part2]</TalelessImages.rulePack.rulesStrings.6>
-  <TalelessImages.rulePack.rulesStrings.7>image->[animal]lauma pelaamassa [game]. [part2]</TalelessImages.rulePack.rulesStrings.7>
-  <TalelessImages.rulePack.rulesStrings.8>image->[animal], jolla on päällä [apparel], ja se [subject_desc]. [part2]</TalelessImages.rulePack.rulesStrings.8>
-  <TalelessImages.rulePack.rulesStrings.9>part2->[artextra_sentence] [artextra_sentence]</TalelessImages.rulePack.rulesStrings.9>
-  <TalelessImages.rulePack.rulesStrings.10>subject_desc->lentää ilmassa</TalelessImages.rulePack.rulesStrings.10>
-  <TalelessImages.rulePack.rulesStrings.11>subject_desc->leijuu ilmassa</TalelessImages.rulePack.rulesStrings.11>
-  <TalelessImages.rulePack.rulesStrings.12>subject_desc->seisoo maassa</TalelessImages.rulePack.rulesStrings.12>
-  <TalelessImages.rulePack.rulesStrings.13>subject_desc->liikkuu vasemmalle</TalelessImages.rulePack.rulesStrings.13>
-  <TalelessImages.rulePack.rulesStrings.14>subject_desc->liikkuu oikealle</TalelessImages.rulePack.rulesStrings.14>
-  <TalelessImages.rulePack.rulesStrings.15>subject_desc->istuu pöydällä</TalelessImages.rulePack.rulesStrings.15>
-  <TalelessImages.rulePack.rulesStrings.16>subject_desc->näkyy kuvastimen kautta</TalelessImages.rulePack.rulesStrings.16>
-  <TalelessImages.rulePack.rulesStrings.17>subject_desc->josta näkyy vain siluetti</TalelessImages.rulePack.rulesStrings.17>
-  <TalelessImages.rulePack.rulesStrings.18>subject_desc->ratsunaan [animal] jolla on päällä [apparel]</TalelessImages.rulePack.rulesStrings.18>
-  <TalelessImages.rulePack.rulesStrings.19>subject_desc->josta tulee [adjective] vaikutelma</TalelessImages.rulePack.rulesStrings.19>
+    <TalelessImages.rulePack.rulesStrings.0>image->[outlander] jota ympäröi [outlander]joukkio. [part2]</TalelessImages.rulePack.rulesStrings.0>
+    <TalelessImages.rulePack.rulesStrings.1>image->[outlander] pelaamassa [game] [outlander]joukkion kanssa. [part2]</TalelessImages.rulePack.rulesStrings.1>
+    <TalelessImages.rulePack.rulesStrings.2>image->[outlander] joka [subject_desc] ja hänen kädessään on [weapon]. [part2]</TalelessImages.rulePack.rulesStrings.2>
+    <TalelessImages.rulePack.rulesStrings.3>image->yksinäinen [outlander]. [part2]</TalelessImages.rulePack.rulesStrings.3>
+    <TalelessImages.rulePack.rulesStrings.4>image->[adjective] [outlander] jolla on päällä [apparel]. [part2]</TalelessImages.rulePack.rulesStrings.4>
+    <TalelessImages.rulePack.rulesStrings.5>image->tyhjä [apparel] [subject_desc]. [part2]</TalelessImages.rulePack.rulesStrings.5>
+    <TalelessImages.rulePack.rulesStrings.6>image->[adjective] [terrainfeature]. [part2]</TalelessImages.rulePack.rulesStrings.6>
+    <TalelessImages.rulePack.rulesStrings.7>image->[animal]lauma pelaamassa [game]. [part2]</TalelessImages.rulePack.rulesStrings.7>
+    <TalelessImages.rulePack.rulesStrings.8>image->[animal], jolla on päällä [apparel], ja se [subject_desc]. [part2]</TalelessImages.rulePack.rulesStrings.8>
+    <TalelessImages.rulePack.rulesStrings.9>part2->[artextra_sentence] [artextra_sentence]</TalelessImages.rulePack.rulesStrings.9>
+    <TalelessImages.rulePack.rulesStrings.10>subject_desc->lentää ilmassa</TalelessImages.rulePack.rulesStrings.10>
+    <TalelessImages.rulePack.rulesStrings.11>subject_desc->leijuu ilmassa</TalelessImages.rulePack.rulesStrings.11>
+    <TalelessImages.rulePack.rulesStrings.12>subject_desc->seisoo maassa</TalelessImages.rulePack.rulesStrings.12>
+    <TalelessImages.rulePack.rulesStrings.13>subject_desc->liikkuu vasemmalle</TalelessImages.rulePack.rulesStrings.13>
+    <TalelessImages.rulePack.rulesStrings.14>subject_desc->liikkuu oikealle</TalelessImages.rulePack.rulesStrings.14>
+    <TalelessImages.rulePack.rulesStrings.15>subject_desc->istuu pöydällä</TalelessImages.rulePack.rulesStrings.15>
+    <TalelessImages.rulePack.rulesStrings.16>subject_desc->näkyy kuvastimen kautta</TalelessImages.rulePack.rulesStrings.16>
+    <TalelessImages.rulePack.rulesStrings.17>subject_desc->josta näkyy vain siluetti</TalelessImages.rulePack.rulesStrings.17>
+    <TalelessImages.rulePack.rulesStrings.18>subject_desc->ratsunaan [animal] jolla on päällä [apparel]</TalelessImages.rulePack.rulesStrings.18>
+    <TalelessImages.rulePack.rulesStrings.19>subject_desc->josta tulee [adjective] vaikutelma</TalelessImages.rulePack.rulesStrings.19>
     
 </LanguageData>
