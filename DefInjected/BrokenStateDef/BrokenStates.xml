@@ -19,11 +19,11 @@
     <BingingAlcohol.recoveryMessage>{0} ei ole enää ryyppyputkella.</BingingAlcohol.recoveryMessage>
     <BingingAlcohol.inspectLine>Murtunut: Ryyppyputkella</BingingAlcohol.inspectLine>
     
-    <ConfusedWander.label>confused wandering</ConfusedWander.label>
-    <ConfusedWander.beginLetterLabel>confusion</ConfusedWander.beginLetterLabel>
-    <ConfusedWander.beginLetter>{0} has broken down and is wandering around confused.</ConfusedWander.beginLetter>
-    <ConfusedWander.recoveryMessage>{0} is no longer confused.</ConfusedWander.recoveryMessage>
-    <ConfusedWander.inspectLine>Broken: Confused and wandering</ConfusedWander.inspectLine>
+    <ConfusedWander.label>sekava haahuilu</ConfusedWander.label>
+    <ConfusedWander.beginLetterLabel>sekava olo</ConfusedWander.beginLetterLabel>
+    <ConfusedWander.beginLetter>{0} on murtunut ja haahuilee sekavana ympäriinsä.</ConfusedWander.beginLetter>
+    <ConfusedWander.recoveryMessage>{0} ei ole enää sekava.</ConfusedWander.recoveryMessage>
+    <ConfusedWander.inspectLine>Murtunut: Haahuilee sekavana</ConfusedWander.inspectLine>
     
     <PanicFlee.label>pakokauhu</PanicFlee.label>
     <PanicFlee.beginLetterLabel>paniikki</PanicFlee.beginLetterLabel>

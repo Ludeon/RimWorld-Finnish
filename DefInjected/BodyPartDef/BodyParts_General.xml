@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Head.label>head</Head.label>
+    <Head.label>pää</Head.label>
     
-    <Skull.label>skull</Skull.label>
+    <Skull.label>kallo</Skull.label>
     
-    <Brain.label>brain</Brain.label>
+    <Brain.label>aivot</Brain.label>
     
-    <LeftEye.label>left eye</LeftEye.label>
+    <LeftEye.label>vasen silmä</LeftEye.label>
     
-    <RightEye.label>right eye</RightEye.label>
+    <RightEye.label>oikea silmä</RightEye.label>
     
-    <LeftEar.label>left ear</LeftEar.label>
+    <LeftEar.label>vasen korva</LeftEar.label>
     
-    <RightEar.label>right ear</RightEar.label>
+    <RightEar.label>oikea korva</RightEar.label>
     
-    <Nose.label>nose</Nose.label>
+    <Nose.label>nenä</Nose.label>
     
-    <Jaw.label>jaw</Jaw.label>
+    <Jaw.label>leuka</Jaw.label>
     
-    <Neck.label>neck</Neck.label>
+    <Neck.label>kaula</Neck.label>
     
-    <Rib.label>rib</Rib.label>
+    <Rib.label>kylkiluu</Rib.label>
     
-    <Spine.label>spine</Spine.label>
+    <Spine.label>selkäranka</Spine.label>
     
-    <LeftLeg.label>left leg</LeftLeg.label>
+    <LeftLeg.label>vasen jalka</LeftLeg.label>
     
-    <LeftFoot.label>left foot</LeftFoot.label>
+    <LeftFoot.label>vasen jalkaterä</LeftFoot.label>
     
-    <RightLeg.label>right leg</RightLeg.label>
+    <RightLeg.label>oikea jalka</RightLeg.label>
     
-    <RightFoot.label>right foot</RightFoot.label>
+    <RightFoot.label>oikea jalkaterä</RightFoot.label>
     
 </LanguageData>

@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MechanicalThorax.label>thorax</MechanicalThorax.label>
+    <MechanicalThorax.label>keskiruumis</MechanicalThorax.label>
     
-    <LeftBlade.label>left blade</LeftBlade.label>
+    <LeftBlade.label>vasen terä</LeftBlade.label>
     
-    <RightBlade.label>right blade</RightBlade.label>
+    <RightBlade.label>oikea terä</RightBlade.label>
     
-    <MechanicalNeck.label>neck</MechanicalNeck.label>
+    <MechanicalNeck.label>kaula</MechanicalNeck.label>
     
-    <MechanicalHead.label>head</MechanicalHead.label>
+    <MechanicalHead.label>pää</MechanicalHead.label>
     
-    <LeftSightSensor.label>left sight sensor</LeftSightSensor.label>
+    <LeftSightSensor.label>vasen näköanturi</LeftSightSensor.label>
     
-    <RightSightSensor.label>right sight sensor</RightSightSensor.label>
+    <RightSightSensor.label>oikea näköanturi</RightSightSensor.label>
     
-    <LeftHearingSensor.label>left hearing sensor</LeftHearingSensor.label>
+    <LeftHearingSensor.label>vasen kuuloanturi</LeftHearingSensor.label>
     
-    <RightHearingSensor.label>right hearing sensor</RightHearingSensor.label>
+    <RightHearingSensor.label>oikea kuuloanturi</RightHearingSensor.label>
     
-    <SmellSensor.label>smell sensor</SmellSensor.label>
+    <SmellSensor.label>hajuanturi</SmellSensor.label>
     
-    <LeftMechanicalShoulder.label>left shoulder</LeftMechanicalShoulder.label>
+    <LeftMechanicalShoulder.label>vasen olkapää</LeftMechanicalShoulder.label>
     
-    <LeftMechanicalArm.label>left arm</LeftMechanicalArm.label>
+    <LeftMechanicalArm.label>vasen käsivarsi</LeftMechanicalArm.label>
     
-    <LeftMechanicalHand.label>left hand</LeftMechanicalHand.label>
+    <LeftMechanicalHand.label>vasen käsi</LeftMechanicalHand.label>
     
-    <LeftHandMechanicalPinky.label>left pinky</LeftHandMechanicalPinky.label>
+    <LeftHandMechanicalPinky.label>vasen pikkurilli</LeftHandMechanicalPinky.label>
     
-    <LeftHandMechanicalMiddleFinger.label>left middle finger</LeftHandMechanicalMiddleFinger.label>
+    <LeftHandMechanicalMiddleFinger.label>vasen keskisormi</LeftHandMechanicalMiddleFinger.label>
     
-    <LeftHandMechanicalIndexFinger.label>left index finger</LeftHandMechanicalIndexFinger.label>
+    <LeftHandMechanicalIndexFinger.label>vasen etusormi</LeftHandMechanicalIndexFinger.label>
     
-    <LeftHandMechanicalThumb.label>left thumb</LeftHandMechanicalThumb.label>
+    <LeftHandMechanicalThumb.label>vasen peukalo</LeftHandMechanicalThumb.label>
     
-    <RightMechanicalShoulder.label>right shoulder</RightMechanicalShoulder.label>
+    <RightMechanicalShoulder.label>oikea olkapää</RightMechanicalShoulder.label>
     
-    <RightMechanicalArm.label>right arm</RightMechanicalArm.label>
+    <RightMechanicalArm.label>oikea käsivarsi</RightMechanicalArm.label>
     
-    <RightMechanicalHand.label>right hand</RightMechanicalHand.label>
+    <RightMechanicalHand.label>oikea käsi</RightMechanicalHand.label>
     
-    <RightHandMechanicalPinky.label>right pinky</RightHandMechanicalPinky.label>
+    <RightHandMechanicalPinky.label>oikea pikkurilli</RightHandMechanicalPinky.label>
     
-    <RightHandMechanicalMiddleFinger.label>right middle finger</RightHandMechanicalMiddleFinger.label>
+    <RightHandMechanicalMiddleFinger.label>oikea keskisormi</RightHandMechanicalMiddleFinger.label>
     
-    <RightHandMechanicalIndexFinger.label>right index finger</RightHandMechanicalIndexFinger.label>
+    <RightHandMechanicalIndexFinger.label>oikea etusormi</RightHandMechanicalIndexFinger.label>
     
-    <RightHandMechanicalThumb.label>right thumb</RightHandMechanicalThumb.label>
+    <RightHandMechanicalThumb.label>oikea peukalo</RightHandMechanicalThumb.label>
     
-    <LeftMechanicalLeg.label>left leg</LeftMechanicalLeg.label>
+    <LeftMechanicalLeg.label>vasen jalka</LeftMechanicalLeg.label>
     
-    <LeftMechanicalFoot.label>left foot</LeftMechanicalFoot.label>
+    <LeftMechanicalFoot.label>vasen jalkaterä</LeftMechanicalFoot.label>
     
-    <RightMechanicalLeg.label>right leg</RightMechanicalLeg.label>
+    <RightMechanicalLeg.label>oikea jalka</RightMechanicalLeg.label>
     
-    <RightMechanicalFoot.label>right foot</RightMechanicalFoot.label>
+    <RightMechanicalFoot.label>oikea jalkaterä</RightMechanicalFoot.label>
     
-    <MechanicalCentipedeBodyFirstRing.label>first body ring</MechanicalCentipedeBodyFirstRing.label>
+    <MechanicalCentipedeBodyFirstRing.label>vartalon ensimmäinen jaoke</MechanicalCentipedeBodyFirstRing.label>
     
-    <MechanicalCentipedeBodySecondRing.label>second body ring</MechanicalCentipedeBodySecondRing.label>
+    <MechanicalCentipedeBodySecondRing.label>vartalon toinen jaoke</MechanicalCentipedeBodySecondRing.label>
     
-    <MechanicalCentipedeBodyThirdRing.label>third body ring</MechanicalCentipedeBodyThirdRing.label>
+    <MechanicalCentipedeBodyThirdRing.label>vartalon kolmas jaoke</MechanicalCentipedeBodyThirdRing.label>
     
-    <MechanicalCentipedeBodyFourthRing.label>fourth body ring</MechanicalCentipedeBodyFourthRing.label>
+    <MechanicalCentipedeBodyFourthRing.label>vartalon neljäs jaoke</MechanicalCentipedeBodyFourthRing.label>
     
-    <MechanicalCentipedeBodyFifthRing.label>fifth body ring</MechanicalCentipedeBodyFifthRing.label>
+    <MechanicalCentipedeBodyFifthRing.label>vartalon viides jaoke</MechanicalCentipedeBodyFifthRing.label>
     
-    <MechanicalCentipedeBodySixthRing.label>sixth body ring</MechanicalCentipedeBodySixthRing.label>
+    <MechanicalCentipedeBodySixthRing.label>vartalon kuudes jaoke</MechanicalCentipedeBodySixthRing.label>
     
-    <ArtificialBrain.label>artificial brain</ArtificialBrain.label>
+    <ArtificialBrain.label>keinotekoiset aivot</ArtificialBrain.label>
     
 </LanguageData>

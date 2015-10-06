@@ -134,9 +134,9 @@
     <Frostbite.comps.2.oldLabel>Paleltuma-arpi</Frostbite.comps.2.oldLabel>
     <Frostbite.injuryProps.destroyedLabel>Paleltuman tuhoama</Frostbite.injuryProps.destroyedLabel>
     
-    <BrainDamage.label>brain damage</BrainDamage.label>
-    <BrainDamage.comps.0.oldLabel>brain damage</BrainDamage.comps.0.oldLabel>
-    <BrainDamage.injuryProps.destroyedLabel>Damaged</BrainDamage.injuryProps.destroyedLabel>
+    <BrainDamage.label>aivovaurio</BrainDamage.label>
+    <BrainDamage.comps.0.oldLabel>aivovaurio</BrainDamage.comps.0.oldLabel>
+    <BrainDamage.injuryProps.destroyedLabel>Vaurioitunut</BrainDamage.injuryProps.destroyedLabel>
     
     <MissingBodyPart.label>puuttuva ruumiinosa</MissingBodyPart.label>
     

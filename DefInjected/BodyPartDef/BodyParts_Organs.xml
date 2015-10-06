@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Heart.label>heart</Heart.label>
+    <Heart.label>sydän</Heart.label>
     
-    <LeftLung.label>left lung</LeftLung.label>
+    <LeftLung.label>vasen keuhko</LeftLung.label>
     
-    <RightLung.label>right lung</RightLung.label>
+    <RightLung.label>oikea keuhko</RightLung.label>
     
-    <LeftKidney.label>left kidney</LeftKidney.label>
+    <LeftKidney.label>vasen munuainen</LeftKidney.label>
     
-    <RightKidney.label>right kidney</RightKidney.label>
+    <RightKidney.label>oikea munuainen</RightKidney.label>
     
-    <Liver.label>liver</Liver.label>
+    <Liver.label>maksa</Liver.label>
     
-    <Stomach.label>stomach</Stomach.label>
+    <Stomach.label>maha</Stomach.label>
     
 </LanguageData>

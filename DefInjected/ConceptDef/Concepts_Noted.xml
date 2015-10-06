@@ -11,11 +11,11 @@
     <Drafting.helpTexts.0>Ohjataksesi yhdyskuntalaista suoraan taistelussa Värvää heidät valitsemalla heidät ja painamalla VÄRVÄÄ-nappia.</Drafting.helpTexts.0>
     <Drafting.helpTexts.1>Värvätty yhdyskuntalainen tekee vain sen minkä käsket ja noudattaa vain taistelukäskyjä. Aseistetut yhdyskuntalaiset käyttävät niitä kun mahdollista.\n\nÄlä jätä yhdyskuntalaisia Värvätyiksi ikuisesti - he nääntyvät nälkään ja tulevat suruullisiksi.</Drafting.helpTexts.1>
     
-    <AnimalsDontAttackDoors.helpTexts.0>Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you.</AnimalsDontAttackDoors.helpTexts.0>
+    <AnimalsDontAttackDoors.helpTexts.0>Ihmisiä jahtaavat eläimet eivät yleensä hyökkää ovien tai sammutettujen tykkitornien kimppuun.\n\nVoit paeta niiltä hankkiutumalla sisätiloihin tai muurin taakse. Mutta ne odottavat kyllä.</AnimalsDontAttackDoors.helpTexts.0>
     
     <BillsTab.helpTexts.0>Saadaksesi yhdyskuntalaisen työskentelemään pöydän ääressä valitse pöytä ja avaa Tilaukset-välilehti. Sielllä voit määrätä mitä aterioita valmistetaan, mitä käsitöitä tehdään ja mitä eläimiä teurastetaan.</BillsTab.helpTexts.0>
     
-    <AnimalTraining.helpTexts.0>You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</AnimalTraining.helpTexts.0>
+    <AnimalTraining.helpTexts.0>Voit määrätä kesyn eläimen koulutettavaksi teittyihin tehtäviin sen KOULUTTAMINEN-välilehdessä.\n\nEläimiä ei voi kouluttaa jatkuvasti; ne tarvitsevat aikaa koulutussessioiden välissä.</AnimalTraining.helpTexts.0>
     
     <StorageTabCategories.helpTexts.0>Varastoalueen Varasto-välilehdessä voit avata kategorioita salliaksesi ja estääksesi tietyt esineet. Paina kategorioiden nimien vasemmalla puolella olevia kolmioita.</StorageTabCategories.helpTexts.0>
     
@@ -25,6 +25,6 @@
     
     <Deterioration.helpTexts.0>Ulos jätetyt tavarat hajoavat hiljalleen.\n\nJos haluat säilyttää esineitä pitkällä tähtäimellä pidä ne katon alla.</Deterioration.helpTexts.0>
     
-    <InspectRoomStats.helpTexts.0>You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right.</InspectRoomStats.helpTexts.0>    
+    <InspectRoomStats.helpTexts.0>Voit tarkistaa yksittäisten huoneiden vaikuttavuuden, vaurauden ja kauneuden laittamalla ruudun oikeassa alalaidassa olevan HUONEIDEN TILASTOJEN TARKISTAMINEN -valinnan päälle.</InspectRoomStats.helpTexts.0>    
     
 </LanguageData>
