@@ -3,11 +3,11 @@
     
     
     
-    <PsychicEmanatorShipPartCrash.letterLabel>Psychic ship</PsychicEmanatorShipPartCrash.letterLabel>
-    <PsychicEmanatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible.</PsychicEmanatorShipPartCrash.letterText>
+    <PsychicEmanatorShipPartCrash.letterLabel>Psyykkinen alus</PsychicEmanatorShipPartCrash.letterLabel>
+    <PsychicEmanatorShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nYhdyskuntalaisesi tuntevat sen mieliensä perukoilla, kehottaen hirveitä tekoja. Siinä on varmasti tekoälypersoona, jolla on psyykkisiä projektiokykyjä. Ja tämä tekoäly ei ole ystävällinen.\n\nTuhoa se niin pian kuin mahdollista.</PsychicEmanatorShipPartCrash.letterText>
     
-    <PoisonShipPartCrash.letterLabel>Poison ship</PoisonShipPartCrash.letterLabel>
-    <PoisonShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIt is leaking toxic material and will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible.</PoisonShipPartCrash.letterText>
+    <PoisonShipPartCrash.letterLabel>Myrkkyalus</PoisonShipPartCrash.letterLabel>
+    <PoisonShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nSiitä vuotaa myrkyllisiä aineita, jotka tappavat kaikki kasvit laajenevalta säteeltä ympäriltään.\n\nTuhoa se niin pian kuin mahdollista.</PoisonShipPartCrash.letterText>
     
     
 </LanguageData>

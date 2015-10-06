@@ -26,11 +26,11 @@
     
     <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>  
     
-    <Wear.reportString>Pukee päälle TargetA.</Wear.reportString>
+    <Wear.reportString>Pukee päälle vaatteen TargetA.</Wear.reportString>
     
-    <Strip.reportString>Riisuu TargetA.</Strip.reportString>
+    <Strip.reportString>Riisuu vaatteen TargetA.</Strip.reportString>
     
-    <Open.reportString>Opening TargetA.</Open.reportString>
+    <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
     
     <RearmTrap.reportString>Virittää ansan TargetA.</RearmTrap.reportString>
     
@@ -40,7 +40,7 @@
     
     <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
     
-    <UseArtifact.reportString>Activating artifact.</UseArtifact.reportString>
+    <UseArtifact.reportString>Aktivoi artefaktia.</UseArtifact.reportString>
     
     <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
     

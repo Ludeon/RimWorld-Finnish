@@ -3,38 +3,38 @@
     
     <SolarFlare.label>auringonpurkaus</SolarFlare.label>
     <SolarFlare.description>Auringonpurkaus on osumassa planeettaan. Tästä tulee häiriöitä sähkölaitteisiin ja estää niitä toimimasta.</SolarFlare.description>
-    <SolarFlare.endMessage>The solar flare is ending.</SolarFlare.endMessage>
+    <SolarFlare.endMessage>Auringonpurkaus on loppumassa.</SolarFlare.endMessage>
     
     <Eclipse.label>auringonpimennys</Eclipse.label>
     <Eclipse.description>Kuu peittää auringon. Päiväsaikaankin tulee olemaan pimeää.</Eclipse.description>
-    <Eclipse.endMessage>The eclipse is ending.</Eclipse.endMessage>
+    <Eclipse.endMessage>Auringonpimennys on loppumassa.</Eclipse.endMessage>
     
     <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
     <PsychicDrone.description>Etäinen mutta voimakas tekoäly lähettää psyykkisiä voima-aaltoja, jotka saattavat ihmiset hulluuden partaalle.</PsychicDrone.description>
-    <PsychicDrone.endMessage>The psychic drone is ending.</PsychicDrone.endMessage>
+    <PsychicDrone.endMessage>Psyykkinen häirintä on loppumassa.</PsychicDrone.endMessage>
     
-    <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
-    <PsychicSoothe.description>A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.</PsychicSoothe.description>
-    <PsychicSoothe.endMessage>The psychic soothe is ending.</PsychicSoothe.endMessage>
+    <PsychicSoothe.label>psyykkinen rauhoitus</PsychicSoothe.label>
+    <PsychicSoothe.description>Etäinen mutta voimakas tekoäly lähettää psyykkisiä voima-aaltoja, jotka rauhoittavat ihmisiä ja vakauttavat heidän mieliään.</PsychicSoothe.description>
+    <PsychicSoothe.endMessage>Psyykkinen rauhoitus on loppumassa.</PsychicSoothe.endMessage>
     
-    <ToxicFallout.label>toxic fallout</ToxicFallout.label>
-    <ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.</ToxicFallout.description>
-    <ToxicFallout.endMessage>The worst of the toxic fallout has settled.</ToxicFallout.endMessage>
+    <ToxicFallout.label>myrkkylaskeuma</ToxicFallout.label>
+    <ToxicFallout.description>Pilvi myrkyllistä pölyä jostain etäisestä lähteestä on hitaasti laskeutumassa planeetan koko tälle alueelle. Kaikki, jotka eivät ole katon alla, myrkyttyvät hitaasti.</ToxicFallout.description>
+    <ToxicFallout.endMessage>Pahin myrkkylaskeumasta on asettunut.</ToxicFallout.endMessage>
     
-    <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
-    <VolcanicWinter.description>The atmosphere is choked with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.</VolcanicWinter.description>
-    <VolcanicWinter.endMessage>Most of the volcanic ash has settled.</VolcanicWinter.endMessage>
+    <VolcanicWinter.label>vulkaaninen talvi</VolcanicWinter.label>
+    <VolcanicWinter.description>Ilmakehä on paksunaan vulkaanisia hiukkasia, jotka vähentävät huomattavasti maanpinnalle saapuvan valon määrää. Lämpötilat tulevat kylmemmiksi ja kasvit kasvavat hitaammin.</VolcanicWinter.description>
+    <VolcanicWinter.endMessage>Suurin osa vulkaanisesta tuhkasta on asettunut.</VolcanicWinter.endMessage>
     
     <HeatWave.label>lämpöaalto</HeatWave.label>
     <HeatWave.description>Äärimmäinen lämpöaalto korventaa aluetta.</HeatWave.description>
-    <HeatWave.endMessage>The heat wave is over.</HeatWave.endMessage>
+    <HeatWave.endMessage>Lämpöaalto on ohi.</HeatWave.endMessage>
     
     <ColdSnap.label>pakkaskausi</ColdSnap.label>
     <ColdSnap.description>Epätavallinen pakkaskausi jäädyttää aluetta.</ColdSnap.description>
-    <ColdSnap.endMessage>The cold snap is over.</ColdSnap.endMessage>
+    <ColdSnap.endMessage>Pakkaskausi on ohi.</ColdSnap.endMessage>
     
-    <Flashstorm.label>flashstorm</Flashstorm.label>
-    <Flashstorm.description>Extreme amounts of lightning are hitting a small region.</Flashstorm.description>
-    <Flashstorm.endMessage>The flashstorm is over.</Flashstorm.endMessage>
+    <Flashstorm.label>ykkosmyrsky</Flashstorm.label>
+    <Flashstorm.description>Äärimmäisen moni salamanisku on iskemässä pinelle alueelle.</Flashstorm.description>
+    <Flashstorm.endMessage>Ukkosmyrsky on ohi.</Flashstorm.endMessage>
     
 </LanguageData>

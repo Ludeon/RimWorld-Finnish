@@ -23,15 +23,15 @@
     
     <Kidnap.reportString>Kidnappaa henkilön TargetA.</Kidnap.reportString>
     
-    <Slaughter.reportString>Slaughtering TargetA.</Slaughter.reportString>
+    <Slaughter.reportString>Teurastaa kohdetta TargetA.</Slaughter.reportString>
     
-    <Milk.reportString>Milking TargetA.</Milk.reportString>
+    <Milk.reportString>Lypsää kohteen TargetA.</Milk.reportString>
     
-    <Shear.reportString>Shearing TargetA.</Shear.reportString>
+    <Shear.reportString>Keritsee kohteen TargetA.</Shear.reportString>
     
-    <Tame.reportString>Taming TargetA.</Tame.reportString>
+    <Tame.reportString>Kesyttää kohteen TargetA.</Tame.reportString>
     
-    <Train.reportString>Training TargetA.</Train.reportString>
+    <Train.reportString>Kouluttaa kohdetta TargetA.</Train.reportString>
     
     <DeliverFood.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</DeliverFood.reportString>
     
@@ -55,7 +55,7 @@
     
     <SmoothFloor.reportString>Hioo lattiaa.</SmoothFloor.reportString>
     
-    <RemoveFloor.reportString>Removing floor.</RemoveFloor.reportString>
+    <RemoveFloor.reportString>Poistaa lattiaa.</RemoveFloor.reportString>
     
     <Repair.reportString>Korjaa kohteen TargetA.</Repair.reportString>
     
@@ -69,14 +69,14 @@
     
     <Deconstruct.reportString>Purkaa kohteen TargetA.</Deconstruct.reportString>
     
-    <Uninstall.reportString>Uninstalling TargetA.</Uninstall.reportString>
+    <Uninstall.reportString>Poistaa kohdetta TargetA.</Uninstall.reportString>
     
     <PrisonerFriendlyChat.reportString>Keskustelee vangin TargetA kanssa.</PrisonerFriendlyChat.reportString>
     
-    <PrisonerAttemptRecruit.reportString>Attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
+    <PrisonerAttemptRecruit.reportString>Yrittää värvätä vangin TargetA.</PrisonerAttemptRecruit.reportString>
     
     <PrisonerExecution.reportString>Teloittaa vangin TargetA.</PrisonerExecution.reportString>
     
-    <BuryCorpse.reportString>Burying TargetA.</BuryCorpse.reportString>
+    <BuryCorpse.reportString>Hautaa henkilön TargetA.</BuryCorpse.reportString>
     
 </LanguageData>

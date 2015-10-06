@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Nuzzle.reportString>Nuzzling TargetA.</Nuzzle.reportString>
+    <Nuzzle.reportString>Kiehnää kohdetta TargetA.</Nuzzle.reportString>
     
-    <Mate.reportString>Mating with TargetA.</Mate.reportString>
+    <Mate.reportString>Pariutuu kohteen TargetA kanssa.</Mate.reportString>
     
-    <LayEgg.reportString>Laying egg.</LayEgg.reportString>
+    <LayEgg.reportString>Munii.</LayEgg.reportString>
     
 </LanguageData>

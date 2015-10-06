@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Inspect.label>inspect</Inspect.label>
+    <Inspect.label>tarkasta</Inspect.label>
     
-    <Architect.label>architect</Architect.label>
-    <Architect.description>Designate where and what colonists should build, farm, store items, and so on.</Architect.description>
+    <Architect.label>arkkitehti</Architect.label>
+    <Architect.description>Määrää minne ja mitä yhdyskuntalaisten tulisi rakentaa, viljellä, varastoida ja niin edespäin.</Architect.description>
     
-    <Work.label>work</Work.label>
-    <Work.description>Choose which colonist does what kinds of work, and in what priority order.</Work.description>
+    <Work.label>työ</Work.label>
+    <Work.description>Valitse kuka yhdyskuntalainen tekee minkälaista työtä ja missä tärkeysjärjestyksessä.</Work.description>
     
-    <Restrictions.label>restrictions</Restrictions.label>
-    <Restrictions.description>Restrict colonists to certain activities at certain times of day, or to specific allowed areas.</Restrictions.description>
+    <Restrictions.label>rajoitukset</Restrictions.label>
+    <Restrictions.description>Rajoita yhdyskuntalaisia tiettyihin toimiin tiettyyn aikaan päivästä tai tiettyihin salittuihin alueisiin.</Restrictions.description>
     
-    <Outfits.label>outfits</Outfits.label>
-    <Outfits.description>Configure what each colonist is allowed to wear.</Outfits.description>
+    <Outfits.label>vaatekerrat</Outfits.label>
+    <Outfits.description>Määritä mitä kukin yhdyskuntalainen saa pitää yllään.</Outfits.description>
     
-    <Animals.label>animals</Animals.label>
-    <Animals.description>Configure how the colony's tame animals should be treated.</Animals.description>
+    <Animals.label>eläimet</Animals.label>
+    <Animals.description>Määritä miten yhdyskunnan kesyjä eläimiä kohdellaan.</Animals.description>
     
-    <Factions.label>factions</Factions.label>
-    <Factions.description>Review the factions known to the colony and their relationships.</Factions.description>
+    <Factions.label>ryhmät</Factions.label>
+    <Factions.description>Käy läpi yhdyskunnan tuntemat ryhmät ja niiden suhteet.</Factions.description>
     
-    <World.label>world</World.label>
-    <World.description>Examine the world map.</World.description>
+    <World.label>maailma</World.label>
+    <World.description>Tutki maailman karttaa.</World.description>
     
-    <History.label>history</History.label>
-    <History.description>Review records of the colony's history.</History.description>
+    <History.label>historia</History.label>
+    <History.description>Käy läpi tietoja yhdyskunnan historiasta.</History.description>
     
-    <Statistics.label>statistics</Statistics.label>
-    <Statistics.description>Review statistics about the colony.</Statistics.description>
+    <Statistics.label>tilastotiedot</Statistics.label>
+    <Statistics.description>Käy läpi tilastotietoja yhdyskunnasta.</Statistics.description>
     
-    <Research.label>research</Research.label>
-    <Research.description>Examine and decide on research projects.</Research.description>
+    <Research.label>tutkimus</Research.label>
+    <Research.description>Tarkastele ja päätä tutkimusprojekteista.</Research.description>
     
-    <Menu.label>menu</Menu.label>
-    <Menu.description>Change options, save, load, or quit the game.</Menu.description>
+    <Menu.label>valikko</Menu.label>
+    <Menu.description>Vaihda asetuksia, tallenna, lataa tai lopeta peli.</Menu.description>
     
 </LanguageData>

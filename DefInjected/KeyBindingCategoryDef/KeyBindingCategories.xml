@@ -7,8 +7,8 @@
     <Game.label>Pelinaikaiset ohjaimet</Game.label>
     <Game.description>Yhdyskuntatilan näppäinasetukset, jotka ovat voimassa useimmissa tapauksissa.</Game.description>
     
-    <MainTabs.label>Main tabs</MainTabs.label>
-    <MainTabs.description>Controls for the main tabs.</MainTabs.description>
+    <MainTabs.label>Päävälilehdet</MainTabs.label>
+    <MainTabs.description>Näppäinasetukset päävälilehdille.</MainTabs.description>
     
     <SelectionMisc.label>Sekalaiset ohjaimet</SelectionMisc.label>
     <SelectionMisc.description>Yleisiä näppäinasetuksia, joita käyttävät monet pelin esineet ja asiat.</SelectionMisc.description>
