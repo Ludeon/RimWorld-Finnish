@@ -53,13 +53,13 @@
     <InstallScytherBlade.description>Asentaa viikateulokkeen.</InstallScytherBlade.description>
     <InstallScytherBlade.jobString>Asentaa viikateuloketta.</InstallScytherBlade.jobString>
     
-    <InstallJoywire.label>install joywire</InstallJoywire.label>
-    <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
-    <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+    <InstallJoywire.label>asenna iloimplantti</InstallJoywire.label>
+    <InstallJoywire.description>Asentaa iloimplantin.</InstallJoywire.description>
+    <InstallJoywire.jobString>Asentaa iloimplanttia.</InstallJoywire.jobString>
     
-    <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
-    <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
-    <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+    <InstallPainstopper.label>asenna kivunestäjä</InstallPainstopper.label>
+    <InstallPainstopper.description>Asentaa kivunestäjän.</InstallPainstopper.description>
+    <InstallPainstopper.jobString>Asentaa kivunestäjää.</InstallPainstopper.jobString>
     
     <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
     <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>

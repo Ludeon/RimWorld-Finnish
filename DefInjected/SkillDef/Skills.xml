@@ -2,51 +2,51 @@
 <LanguageData>
     
     <Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
-    <Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
+    <Shooting.description>Kaikenlaisten ampuma-aseiden käyttäminen.</Shooting.description>
     <Shooting.pawnLabel>Ampuja</Shooting.pawnLabel>
     
     <Melee.skillLabel>Lähitaistelu</Melee.skillLabel>
-    <Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
+    <Melee.description>Kaikenlaisten lähitaisteluaseiden käyttäminen ja aseeton taistelu.</Melee.description>
     <Melee.pawnLabel>Painija</Melee.pawnLabel>
     
     <Social.skillLabel>Sosiaalisuus</Social.skillLabel>
-    <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
+    <Social.description>Muiden neuvottelu, suostuttelu, manipulointi, johtaminen ja kannustaminen.</Social.description>
     <Social.pawnLabel>Seurapiirihenkilö</Social.pawnLabel>
     
-    <Animals.skillLabel>Animals</Animals.skillLabel>
-    <Animals.description>Taming, training, managing, and controlling animals.</Animals.description>
-    <Animals.pawnLabel>Handler</Animals.pawnLabel>
+    <Animals.skillLabel>Eläimet</Animals.skillLabel>
+    <Animals.description>Eläinten kesyttäminen, kouluttaminen, hoitaminen ja ohjaaminen.</Animals.description>
+    <Animals.pawnLabel>Eläintenkäsittelijä</Animals.pawnLabel>
     
     <Medicine.skillLabel>Lääkitseminen</Medicine.skillLabel>
-    <Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
+    <Medicine.description>Haavojen ja sairauksien hoitaminen ja kirurgia.</Medicine.description>
     <Medicine.pawnLabel>Lääkäri</Medicine.pawnLabel>
     
     <Cooking.skillLabel>Ruuanlaitto</Cooking.skillLabel>
-    <Cooking.description>Creating meals from raw ingredients.</Cooking.description>
+    <Cooking.description>Aterioiden tekeminen raaoista raaka-aineista.</Cooking.description>
     <Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
     
     <Construction.skillLabel>Rakentaminen</Construction.skillLabel>
-    <Construction.description>Better constructors build structures and furniture faster and of higher quality.</Construction.description>
+    <Construction.description>Paremmat rakentajat rakentavat rakennelmia ja huonekaluja nopeammin ja parempilaatuisina.</Construction.description>
     <Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
     
     <Growing.skillLabel>Viljeleminen</Growing.skillLabel>
-    <Growing.description>Sowing, caring for, and harvesting crops.</Growing.description>
+    <Growing.description>Kylväminen, viljelmien huolehtiminen ja sadonkorjuu.</Growing.description>
     <Growing.pawnLabel>Viljelijä</Growing.pawnLabel>
     
     <Mining.skillLabel>Louhiminen</Mining.skillLabel>
-    <Mining.description>Digging tunnels and extracting mineral or buried resources.</Mining.description>
+    <Mining.description>Tunneleiden ja haudatuiden resurssien kaivaminen.</Mining.description>
     <Mining.pawnLabel>Louhija</Mining.pawnLabel>
     
     <Artistic.skillLabel>Taiteellisuus</Artistic.skillLabel>
-    <Artistic.description>Crafting art.</Artistic.description>
+    <Artistic.description>Taiteenteko.</Artistic.description>
     <Artistic.pawnLabel>Taiteilija</Artistic.pawnLabel>
     
     <Crafting.skillLabel>Työskentely käsin</Crafting.skillLabel>
-    <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
+    <Crafting.description>Yleishyödyllisten tavaroiden, kuten aseiden ja työkalujen, teko.</Crafting.description>
     <Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
     
     <Research.skillLabel>Tutkiminen</Research.skillLabel>
-    <Research.description>Investigating evidence, doing experiments, and learning.</Research.description>
+    <Research.description>Todisteiden tutkiminen, kokeiden tekeminen ja opiskelu.</Research.description>
     <Research.pawnLabel>Tutkija</Research.pawnLabel>
     
 </LanguageData>

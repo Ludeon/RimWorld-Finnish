@@ -17,12 +17,12 @@
     <ArtWeaponGun.rulePack.rulesStrings.1>description->Kaiverrus tässä aseessa [depicts] [image]</ArtWeaponGun.rulePack.rulesStrings.1>
     <ArtWeaponGun.rulePack.rulesStrings.2>description->Tässä aseessa on [depiction] [image]</ArtWeaponGun.rulePack.rulesStrings.2>
     
-    <ArtFurniture.rulePack.rulesStrings.0>description->This furniture is engraved with a [depiction] of [image]</ArtFurniture.rulePack.rulesStrings.0>
-    <ArtFurniture.rulePack.rulesStrings.1>description->This furniture bears a [depiction] of [image]</ArtFurniture.rulePack.rulesStrings.1>
-    <ArtFurniture.rulePack.rulesStrings.2>description->An engraving on this furniture [depicts] [image]</ArtFurniture.rulePack.rulesStrings.2>
+    <ArtFurniture.rulePack.rulesStrings.0>description->Tähän huonekaluun on kaiverrettu [depiction] [image]</ArtFurniture.rulePack.rulesStrings.0>
+    <ArtFurniture.rulePack.rulesStrings.1>description->Tässä huonekalussa on [depiction] [image]</ArtFurniture.rulePack.rulesStrings.1>
+    <ArtFurniture.rulePack.rulesStrings.2>description->Kaiverrus tässä huonekalussa [depicts] [image]</ArtFurniture.rulePack.rulesStrings.2>
     
-    <ArtSarcophagusPlate.rulePack.rulesStrings.0>description->The sarcophagus is engraved with a [depiction] of [image]</ArtSarcophagusPlate.rulePack.rulesStrings.0>
-    <ArtSarcophagusPlate.rulePack.rulesStrings.1>description->The sarcophagus bears a [depiction] of [image]</ArtSarcophagusPlate.rulePack.rulesStrings.1>
-    <ArtSarcophagusPlate.rulePack.rulesStrings.2>description->An engraving on this sarcophagus [depicts] [image]</ArtSarcophagusPlate.rulePack.rulesStrings.2>
+    <ArtSarcophagusPlate.rulePack.rulesStrings.0>description->Sarkofagiin on kaiverrettu [depiction] [image]</ArtSarcophagusPlate.rulePack.rulesStrings.0>
+    <ArtSarcophagusPlate.rulePack.rulesStrings.1>description->Sarkofagissa on [depiction] [image]</ArtSarcophagusPlate.rulePack.rulesStrings.1>
+    <ArtSarcophagusPlate.rulePack.rulesStrings.2>description->Kaiverrus tässä sarkofagissa [depicts] [image]</ArtSarcophagusPlate.rulePack.rulesStrings.2>
     
 </LanguageData>

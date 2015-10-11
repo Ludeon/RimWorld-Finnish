@@ -2,15 +2,15 @@
 <LanguageData>
     
     <Warg.label>warg</Warg.label>
-    <Warg.lifeStages.0.label>warg puppy</Warg.lifeStages.0.label>
+    <Warg.lifeStages.0.label>warg pentu</Warg.lifeStages.0.label>
     
-    <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
-    <YorkshireTerrier.lifeStages.0.label>yorkshire terrier puppy</YorkshireTerrier.lifeStages.0.label>
+    <YorkshireTerrier.label>yorkshirenterrieri</YorkshireTerrier.label>
+    <YorkshireTerrier.lifeStages.0.label>yorkshirenterrierin pentu</YorkshireTerrier.lifeStages.0.label>
     
     <Husky.label>husky</Husky.label>
-    <Husky.lifeStages.0.label>husky puppy</Husky.lifeStages.0.label>
+    <Husky.lifeStages.0.label>husky pentu</Husky.lifeStages.0.label>
     
-    <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
-    <LabradorRetriever.lifeStages.0.label>labrador puppy</LabradorRetriever.lifeStages.0.label>
+    <LabradorRetriever.label>labradorinnoutaja</LabradorRetriever.label>
+    <LabradorRetriever.lifeStages.0.label>labradorinnoutajan pentu</LabradorRetriever.lifeStages.0.label>
     
 </LanguageData>

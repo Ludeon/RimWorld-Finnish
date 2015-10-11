@@ -10,10 +10,10 @@
     <AllowRotten.label>salli mädäntynyt</AllowRotten.label>
     <AllowRotten.description>Salli eloperäiset esineet, jotka ovat alkaneet mädäntyä.</AllowRotten.description>
     
-    <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
-    <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
+    <AllowNonSmeltableWeapons.label>salli sulattamiskelvottomat</AllowNonSmeltableWeapons.label>
+    <AllowNonSmeltableWeapons.description>Salli aseet joita ei voi sulattaa.</AllowNonSmeltableWeapons.description>
     
-    <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
-    <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+    <AllowPlantFood.label>salli raaka kasvisruoka</AllowPlantFood.label>
+    <AllowPlantFood.description>Salli ruuat jotka ovat keräämättömien kasvien laatutasoa, kuten heinä.</AllowPlantFood.description>
     
 </LanguageData>

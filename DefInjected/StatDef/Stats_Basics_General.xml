@@ -22,8 +22,8 @@
     <Beauty.label>kauneus</Beauty.label>
     <Beauty.description>Miten miellyttävää esineen ympärillä olo ja katselu on.</Beauty.description>
     
-    <Cleanliness.label>cleanliness</Cleanliness.label>
-    <Cleanliness.description>How clean an object is.</Cleanliness.description>
+    <Cleanliness.label>puhtaus</Cleanliness.label>
+    <Cleanliness.description>Miten puhdas esine on.</Cleanliness.description>
     
     <Comfort.label>mukavuus</Comfort.label>
     <Comfort.description>Miten mukava esineen päällä on istua tai maata.</Comfort.description>

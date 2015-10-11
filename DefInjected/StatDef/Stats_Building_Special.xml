@@ -7,22 +7,22 @@
     <BedRestEffectiveness.label>levon tehokkuus</BedRestEffectiveness.label>
     <BedRestEffectiveness.description>Miten nopeasti nukkuvat ihmiset saavat tässä lepoa.</BedRestEffectiveness.description>
     
-    <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
-    <TrapMeleeDamage.description>How much damage this trap typically does. The actual damage may vary somewhat.</TrapMeleeDamage.description>
+    <TrapMeleeDamage.label>ansan vahinko</TrapMeleeDamage.label>
+    <TrapMeleeDamage.description>Miten paljon vahinkoa tämä ansa yleensä tekee. Todellinen vahinko voi vaihdella hieman.</TrapMeleeDamage.description>
     
-    <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
-    <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+    <TrapSpringChance.label>ansan laukeamistodennäköisyys</TrapSpringChance.label>
+    <TrapSpringChance.description>Todennäköisyys, että ansa laukeaa kun siitä tietämätön olio liikkuu sen yli.</TrapSpringChance.description>
     
-    <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-    <ResearchSpeedFactor.description>Speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
+    <ResearchSpeedFactor.label>tutkimisnopeuden kerroin</ResearchSpeedFactor.label>
+    <ResearchSpeedFactor.description>Nopeus, jolla tutkimusta tehdään, kerrotaan tällä arvolla.</ResearchSpeedFactor.description>
     
-    <MedicalTreatmentQualityFactor.label>medical treatment quality factor</MedicalTreatmentQualityFactor.label>
-    <MedicalTreatmentQualityFactor.description>Medical treatment quality is multiplied by this value.</MedicalTreatmentQualityFactor.description>
+    <MedicalTreatmentQualityFactor.label>lääkinnän laatukerroin</MedicalTreatmentQualityFactor.label>
+    <MedicalTreatmentQualityFactor.description>Lääkehoidon laatu kerrotaan tällä arvolla.</MedicalTreatmentQualityFactor.description>
     
-    <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
-    <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+    <ImmunityGainSpeedFactor.label>immuniteetinsaamisnopeuden kerroin</ImmunityGainSpeedFactor.label>
+    <ImmunityGainSpeedFactor.description>Immuniteetinsaamisnopeus kerrotaan tällä arvolla.</ImmunityGainSpeedFactor.description>
     
-    <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
-    <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+    <WorkTableWorkSpeedFactor.label>työskentelynopeuden kerroin</WorkTableWorkSpeedFactor.label>
+    <WorkTableWorkSpeedFactor.description>Työskentelynopeus kerrotaan tällä arvolla.</WorkTableWorkSpeedFactor.description>
     
 </LanguageData>
