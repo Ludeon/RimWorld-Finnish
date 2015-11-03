@@ -4,14 +4,14 @@
     <MetalTile.label>metallilaatta</MetalTile.label>
     <MetalTile.description>Metallilaattoja avaruusalustunnelman luomiseen.</MetalTile.description>
     
-    <SilverTile.label>silver tile</SilverTile.label>
-    <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+    <SilverTile.label>hopealaatta</SilverTile.label>
+    <SilverTile.description>Kallis ja hidas rakentaa mutta erittäin kaunis. Sopii täydellisesti kaikenlaisiin luksushuoneisiin.</SilverTile.description>
     
-    <GoldTile.label>gold tile</GoldTile.label>
-    <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+    <GoldTile.label>kultalaatta</GoldTile.label>
+    <GoldTile.description>Kaikkein kaunein ja vaikuttavin lattia. Erittäin kallis ja tarvitsee paljon työtä sen rakentamiseen.</GoldTile.description>
     
-    <SterileTile.label>sterile tile</SterileTile.label>
-    <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+    <SterileTile.label>steriili laatta</SterileTile.label>
+    <SterileTile.description>Steriilit laatat auttavat pitämään huoneen puhtaana. Erittäin hyödyllisiä sairaaloissa estämääm potilaita saamasta erilaisia tartuntoja. Mitäänsanomattoman näköiset ja erittäin hitaat rakentaa.</SterileTile.description>
     
     <PavedTile.label>betonilaatta</PavedTile.label>
     <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
@@ -31,11 +31,11 @@
     <CarpetBlue.label>sininen kokolattiamatto</CarpetBlue.label>
     <CarpetBlue.description>Pehmeä varpaita hyväilevä matto viileässä sinisessä sävyssä.</CarpetBlue.description>
     
-    <CarpetCream.label>cream carpet</CarpetCream.label>
-    <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+    <CarpetCream.label>kermanvärinen kokolattiamatto</CarpetCream.label>
+    <CarpetCream.description>Kutsuva kermanvärinen kokolattiamatto.</CarpetCream.description>
     
-    <CarpetDark.label>dark carpet</CarpetDark.label>
-    <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+    <CarpetDark.label>tumma kokolattiamatto</CarpetDark.label>
+    <CarpetDark.description>Ammattimaisen näköinen tummanharmaa kokolattiamatto.</CarpetDark.description>
     
     <Sandstone_Rough.label>karkeaa hiekkakiveä</Sandstone_Rough.label>
     <Sandstone_RoughHewn.label>karkeaksi louhittua hiekkakiveä</Sandstone_RoughHewn.label>

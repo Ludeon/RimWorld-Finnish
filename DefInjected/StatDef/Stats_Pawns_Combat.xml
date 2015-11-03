@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MeleeDPS.label>melee DPS</MeleeDPS.label>
-    <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
+    <MeleeDPS.label>lähitaistelun vahinko sekunnissa</MeleeDPS.label>
+    <MeleeDPS.description>Keskimääräinen sekunnissa aiheutettu vahinko lähitaistelussa.</MeleeDPS.description>
     
     <ShootingAccuracy.label>ampumisen osumatarkkuus</ShootingAccuracy.label>
     <ShootingAccuracy.description>Alkuarvo osumisen todennäköisyydelle etäisyyden yhtä neliötä kohti.</ShootingAccuracy.description>

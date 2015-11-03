@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <RecruitPrisonerChance.label>vanginvärväyden todennäköisyys</RecruitPrisonerChance.label>
-    <RecruitPrisonerChance.description>Alkupiste todennäköisyydelle, että tämä henkilö värvää vangin.</RecruitPrisonerChance.description>
+    <RecruitPrisonerChance.label>vanginvärväyksen todennäköisyys</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö värvää vangin.</RecruitPrisonerChance.description>
     
-    <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
-    <TameAnimalChance.description>Base chance this person will tame an animal.</TameAnimalChance.description>
+    <TameAnimalChance.label>eläimen kesyttämisen todennäköisyys</TameAnimalChance.label>
+    <TameAnimalChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö kesyttää eläimen.</TameAnimalChance.description>
     
-    <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
-    <TrainAnimalChance.description>Base chance this person will make progress training an animal on a given attempt. May change based on the animal.</TrainAnimalChance.description>
+    <TrainAnimalChance.label>eläimen kouluttamisen todennäköisyys</TrainAnimalChance.label>
+    <TrainAnimalChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö edistyy eläimen kouluttamisessa kullakin yrityskerralla. Saattaa muuttua eläimestä riippuen.</TrainAnimalChance.description>
     
     <SocialImpact.label>keskustelun vaikuttavuus</SocialImpact.label>
     <SocialImpact.description>Kun tämä henkilö vuorovaikuttaa sosiaalisesti, toinen henkilö vaikuttuu tämän verran.</SocialImpact.description>

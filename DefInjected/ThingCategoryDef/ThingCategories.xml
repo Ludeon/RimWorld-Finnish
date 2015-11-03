@@ -15,11 +15,11 @@
     
     <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
     
-    <OtherFoodRaw.label>animal products</OtherFoodRaw.label>
+    <OtherFoodRaw.label>eläintuotteet</OtherFoodRaw.label>
     
-    <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
+    <EggsUnfertilized.label>munat (ei hedel.)</EggsUnfertilized.label>
     
-    <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+    <EggsFertilized.label>munat (hedel.)</EggsFertilized.label>
     
     <Manufactured.label>tuotetut</Manufactured.label>
     

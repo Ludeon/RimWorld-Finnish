@@ -19,7 +19,7 @@
     <PlantWorkSpeed.label>kasvityönopeus</PlantWorkSpeed.label>
     <PlantWorkSpeed.description>Nopeus, jolla tämä henkilö viljelee ja kerää kasveja.</PlantWorkSpeed.description>
     
-    <HarvestFailChance.label>harvest fail chance</HarvestFailChance.label>
-    <HarvestFailChance.description>The chance that this person will accidentally destroy the harvest instead of collecting it.</HarvestFailChance.description>
+    <HarvestFailChance.label>sadonkorjuun epäonnistumisen todennäköisyys</HarvestFailChance.label>
+    <HarvestFailChance.description>Todennäköisyys, että tämä henkilö tuhoaa vahingossa sadon sen keräämisen sijaan.</HarvestFailChance.description>
     
 </LanguageData>
