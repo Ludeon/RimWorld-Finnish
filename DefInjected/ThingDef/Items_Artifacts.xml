@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PsychicInsanityLance.label>psychic insanity lance</PsychicInsanityLance.label>
-    <PsychicInsanityLance.description>One-use artifact that drives any character into a berserk state from any distance - even through walls.</PsychicInsanityLance.description>
+    <PsychicInsanityLance.label>psyykkinen hulluussauva</PsychicInsanityLance.label>
+    <PsychicInsanityLance.description>Kertakäyttöinen artefakti joka saa kenet tahansa raivopäiseksi miltä etäisyydeltä tahansa - jopa seinien läpi.</PsychicInsanityLance.description>
     
-    <PsychicShockLance.label>psychic shock lance</PsychicShockLance.label>
-    <PsychicShockLance.description>One-use artifact that directs psychic disturbances towards one character, dropping them into a state of psychic shock for some time. Large risk of brain damage.</PsychicShockLance.description>
+    <PsychicShockLance.label>psyykkinen shokkisauva</PsychicShockLance.label>
+    <PsychicShockLance.description>Kertakäyttöinen artefakti joka ohjaa psyykkistä häirintää kohdehahmoon, joka joutuu psyykkisen shokin valtaan joksikin aikaa. Suuri aivovaurion vaara.</PsychicShockLance.description>
     
-    <PsychicAnimalPulser.label>psychic animal pulser</PsychicAnimalPulser.label>
-    <PsychicAnimalPulser.description>One-use artifact that drives all animals in the region into a manhunting rage.</PsychicAnimalPulser.description>
+    <PsychicAnimalPulser.label>psyykkinen eläinsäteilijä</PsychicAnimalPulser.label>
+    <PsychicAnimalPulser.description>Kertakäyttöinen artefakti joka saa kaikki alueen eläimet jahtaamaan ihmisiä.</PsychicAnimalPulser.description>
     
-    <PsychicSoothePulser.label>psychic soothe pulser</PsychicSoothePulser.label>
-    <PsychicSoothePulser.description>One-use artifact which gives a temporary mood boost to everyone on the map.</PsychicSoothePulser.description>
+    <PsychicSoothePulser.label>psyykkinen rauhoitussäteilijä</PsychicSoothePulser.label>
+    <PsychicSoothePulser.description>Kertakäyttöinen artefakti joka parantaa väliaikaisesti kaikkien alueen ihmisien mielialaa.</PsychicSoothePulser.description>
     
 </LanguageData>

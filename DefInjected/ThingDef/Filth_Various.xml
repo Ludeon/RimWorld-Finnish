@@ -3,7 +3,7 @@
     
     <FilthDirt.label>multaa</FilthDirt.label>
     
-    <FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
+    <FilthAnimalFilth.label>eläimen saastaa</FilthAnimalFilth.label>
     
     <FilthSand.label>hiekkaa</FilthSand.label>
     
@@ -15,7 +15,7 @@
         
     <FilthBlood.label>verta</FilthBlood.label>
     
-    <FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
+    <FilthAmnioticFluid.label>lapsivettä</FilthAmnioticFluid.label>
     
     <FilthSlime.label>limaa</FilthSlime.label>
     

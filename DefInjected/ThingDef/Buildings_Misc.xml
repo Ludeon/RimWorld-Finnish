@@ -10,20 +10,20 @@
     <CommsConsole.label>kommunikaatiopääte</CommsConsole.label>
     <CommsConsole.description>Kommunikoi kiertoradalla olevien kauppa-alusten ja muiden ryhmien kanssa.</CommsConsole.description>
     
-    <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Increases research speed. Needs to be placed near research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer.description>
+    <MultiAnalyzer.label>monianalysaattori</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Kasvattaa tutkimisnopeutta. Täytyy rakentaa lähelle tutkimuspöytää. Yksi tutkimuspöytä voi olla yhdistettynä vain yhteen monianalysaattoriin.</MultiAnalyzer.description>
     
-    <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
-    <VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor.description>
+    <VitalsMonitor.label>terveydentilan näyttö</VitalsMonitor.label>
+    <VitalsMonitor.description>Parantaa potilaiden parantamisen laatua. Täytyy rakentaa lääkintävuoteen viereen. Yksi lääkintävuode voi olla yhdistettynä vain yhteen terveydentilan näyttöön.</VitalsMonitor.description>
     
-    <ToolCabinet.label>tool cabinet</ToolCabinet.label>
-    <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>
+    <ToolCabinet.label>työkalukaappi</ToolCabinet.label>
+    <ToolCabinet.description>Lisää työskentelynopeutta. Täytyy rakentaa lähelle työpöytää. Yksi työpöytä voi olla yhdistettynä vain yhteen työkalukaappiin.</ToolCabinet.description>
     
     <Grave.label>hauta</Grave.label>
     <Grave.description>Aseta kuolleet hautoihin antaaksesi heille arvollisen viimeisen leposijan.</Grave.description>
     
-    <Sarcophagus.label>sarcophagus</Sarcophagus.label>
-    <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
+    <Sarcophagus.label>sarkofagi</Sarcophagus.label>
+    <Sarcophagus.description>Koristeellisesti kuvioitu hautausarkku kunnioitetuille kuolleille.</Sarcophagus.description>
     
     <CryptosleepCasket.label>salauniarkku</CryptosleepCasket.label>
     <CryptosleepCasket.description>Itsetoiminen sarkofagi, joka on suunniteltu pitämään henkilö keskeytetyn elon tilassa monia vuosia.</CryptosleepCasket.description>

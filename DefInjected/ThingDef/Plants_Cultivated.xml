@@ -10,8 +10,8 @@
     <PlantRice.label>riisikasvi</PlantRice.label>
     <PlantRice.description>Lyhyt heinäkasvi joka kukoistaa hedelmäällisessä maassa ja tuottaa ruokaa nopeasti mutta ei ole hyvää raakana.</PlantRice.description>
     
-    <PlantHaygrass.label>haygrass</PlantHaygrass.label>
-    <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>
+    <PlantHaygrass.label>heinää</PlantHaygrass.label>
+    <PlantHaygrass.description>Sekoitus ravinnerikkaita ruohoja jotka tuottavat suuret määrät heinää. Heinä on syömäkelpoista eläimille mutta ei ihmisille.</PlantHaygrass.description>
     
     <PlantStrawberry.label>mansikkakasvi</PlantStrawberry.label>
     <PlantStrawberry.description>Hauras mutta maukas hedelmä. Herkullienn jopa raakana.</PlantStrawberry.description>

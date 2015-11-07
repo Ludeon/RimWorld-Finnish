@@ -17,9 +17,9 @@
     <Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
     <Plasteel.stuffProps.stuffAdjective>muoviteräksinen</Plasteel.stuffProps.stuffAdjective>
     
-    <WoodLog.label>wood</WoodLog.label>
-    <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.</WoodLog.description>
-    <WoodLog.stuffProps.stuffAdjective>wood</WoodLog.stuffProps.stuffAdjective>
+    <WoodLog.label>puuta</WoodLog.label>
+    <WoodLog.description>Puumateriaalia puista tai muista kuituisista kasveista. Hyödyllinen rakennelmien, aseiden ja jopa yksinkertaisten proteesien rakentamiseen. Puutikkua voi käyttää aseena tiukan paikan tullen.</WoodLog.description>
+    <WoodLog.stuffProps.stuffAdjective>puinen</WoodLog.stuffProps.stuffAdjective>
     
     <Uranium.label>uraania</Uranium.label>
     <Uranium.description>Äärimmäisen kova ja tiheä metalli. Vaikka sen tunnetuin käyttökohde on ydinreaktoreissa, sen fysikaaliset ominaisuudet tekevät siitä sopivan joissain tarkoituksissa työkaluna, aseena tai panssarina.</Uranium.description>
@@ -41,16 +41,16 @@
     <Hyperweave.description>Huipputeknologisia nanokuituja kankaaksi kudottuna. Se on jokseenkin painava, mutta sitä on uskomattoman vaikea rikkoa.</Hyperweave.description>
     <Hyperweave.stuffProps.stuffAdjective>hyperkudottu</Hyperweave.stuffProps.stuffAdjective>
     
-    <MuffaloWool.label>muffalo wool</MuffaloWool.label>
-    <MuffaloWool.description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</MuffaloWool.description>
-    <MuffaloWool.stuffProps.stuffAdjective>muffalo wool</MuffaloWool.stuffProps.stuffAdjective>
+    <MuffaloWool.label>hirvibiisonin villaa</MuffaloWool.label>
+    <MuffaloWool.description>Pehmeä, kevyt ja hyvä eristämään lämpöä. Villavaatteet pitävät ruumiin lämpimänä jopa äärimmäisissä olosuhteissa.</MuffaloWool.description>
+    <MuffaloWool.stuffProps.stuffAdjective>hirvibiisonin villainen</MuffaloWool.stuffProps.stuffAdjective>
     
-    <CamelHair.label>camelhair</CamelHair.label>
-    <CamelHair.description>Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</CamelHair.description>
-    <CamelHair.stuffProps.stuffAdjective>camelhair</CamelHair.stuffProps.stuffAdjective>
+    <CamelHair.label>kamelinkarvaa</CamelHair.label>
+    <CamelHair.description>Kamelinkarvaiset vaatteet ovat yleisesti aavikkomatkaajien käyttämiä suojaamaan kuumalta. Se tarjoaa erinomaisen eristyksen lämmöltä sen termostaattisten ominaisuuksiensa ansiosta.</CamelHair.description>
+    <CamelHair.stuffProps.stuffAdjective>kamelinkarvainen</CamelHair.stuffProps.stuffAdjective>
     
-    <AlpacaWool.label>alpaca wool</AlpacaWool.label>
-    <AlpacaWool.description>The remarkably soft wool of an alpaca.</AlpacaWool.description>
-    <AlpacaWool.stuffProps.stuffAdjective>alpaca wool</AlpacaWool.stuffProps.stuffAdjective>
+    <AlpacaWool.label>alpakanvillaa</AlpacaWool.label>
+    <AlpacaWool.description>Huomattavan pehmeä villaa alpakasta.</AlpacaWool.description>
+    <AlpacaWool.stuffProps.stuffAdjective>alpakanvillainen</AlpacaWool.stuffProps.stuffAdjective>
     
 </LanguageData>

@@ -40,8 +40,8 @@
     <ColoredLights.label>värilliset valot</ColoredLights.label>
     <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
     
-    <HospitalBed.label>sairasvuode</HospitalBed.label>
-    <HospitalBed.description>Mahdollistaa yhdyskuntalaisiten rakentaa sairasvuoteita, jotka parantavat onnistuneen hoidon mahdollisuuksia.</HospitalBed.description>
+    <HospitalBed.label>lääkintävuode</HospitalBed.label>
+    <HospitalBed.description>Mahdollistaa yhdyskuntalaisiten rakentaa lääkintävuoteita, jotka parantavat onnistuneen hoidon mahdollisuuksia.</HospitalBed.description>
     
     <Cryptosleep.label>salauniarkku</Cryptosleep.label>
     <Cryptosleep.description>Mahdollistaa yhdyskuntalaisten rakentaa salauniarkkuja joihin voidaan laittaa eläviä olentoja lepotilaan.</Cryptosleep.description>

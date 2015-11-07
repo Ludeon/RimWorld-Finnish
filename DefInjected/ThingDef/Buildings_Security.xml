@@ -16,13 +16,13 @@
     <Turret_MortarEMP.label>EMP-kranaatinheitin</Turret_MortarEMP.label>
     <Turret_MortarEMP.description>Kranaatinheitin joka ampuu EMP-kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarEMP.description>
     
-    <TrapDeadfall.label>deadfall trap</TrapDeadfall.label>
-    <TrapDeadfall.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</TrapDeadfall.description>
+    <TrapDeadfall.label>piikkipalloansa</TrapDeadfall.label>
+    <TrapDeadfall.description>Herkän laukaisimen kannattelema piikikäs paino. Kun uhri häiritsee laukaisinta, paino vapautetaan ja se putoaa hänen päälleen.</TrapDeadfall.description>
     
-    <TrapIEDBomb.label>IED trap</TrapIEDBomb.label>
-    <TrapIEDBomb.description>An artillery shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIEDBomb.description>
+    <TrapIEDBomb.label>improvisoitu räjähdeansa</TrapIEDBomb.label>
+    <TrapIEDBomb.description>Tykinammus yhdistettynä kotitekoiseen laukaisimeen. Kun joku häiritsee laukaisinta, ammus räjähtää. Improvisoidussa laukaisimessa on satunnainen viive, joka saattaa mahdollistaa ketterän uhrin karkaamisen.</TrapIEDBomb.description>
     
-    <TrapIEDIncendiary.label>IED incendiary trap</TrapIEDIncendiary.label>
-    <TrapIEDIncendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</TrapIEDIncendiary.description>
+    <TrapIEDIncendiary.label>improvisoitu palopommiansa</TrapIEDIncendiary.label>
+    <TrapIEDIncendiary.description>Räjähteitä sekoitettuna palopommitahnaan kemiallisella laukaisimella. Sen kemiallinen laukaisin on yksinkertainen ja varma.</TrapIEDIncendiary.description>
     
 </LanguageData>

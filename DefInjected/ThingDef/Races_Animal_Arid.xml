@@ -37,13 +37,13 @@
     <Dromedary_Corpse.label>dromedaarin ruumis</Dromedary_Corpse.label>
     <Dromedary_Corpse.description>Kuolleen dromedaarin ruumis.</Dromedary_Corpse.description>
     
-    <Elephant.label>elephant</Elephant.label>
-    <Elephant.description>The largest unmodified land animal. It can use its tusks as tools for moving objects - or as deadly weapons.</Elephant.description>
-    <Elephant_Leather.label>elephant leather</Elephant_Leather.label>
-    <Elephant_Leather.description>Leather made from the skin of a elephant.</Elephant_Leather.description>
-    <Elephant_Meat.label>elephant meat</Elephant_Meat.label>
-    <Elephant_Meat.description>Raw flesh of a elephant.</Elephant_Meat.description>
-    <Elephant_Corpse.label>elephant corpse</Elephant_Corpse.label>
-    <Elephant_Corpse.description>Dead body of a elephant.</Elephant_Corpse.description>
+    <Elephant.label>norsu</Elephant.label>
+    <Elephant.description>Suurin muokkaamaton määeläin. Se voi käyttää syöksyhampaitaan työkaluina esineiden liikuttamiseen - tai tappavina aseina.</Elephant.description>
+    <Elephant_Leather.label>norsun nahkaa</Elephant_Leather.label>
+    <Elephant_Leather.description>Norsun vuodasta tehtyä nahkaa.</Elephant_Leather.description>
+    <Elephant_Meat.label>norsun lihaa</Elephant_Meat.label>
+    <Elephant_Meat.description>Raakaa norsun lihaa.</Elephant_Meat.description>
+    <Elephant_Corpse.label>norsun ruumis</Elephant_Corpse.label>
+    <Elephant_Corpse.description>Kuolleen norsun ruumis.</Elephant_Corpse.description>
     
 </LanguageData>

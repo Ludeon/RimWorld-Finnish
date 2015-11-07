@@ -2,25 +2,25 @@
 <LanguageData>
     
     <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
-    <SleepingSpot.description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava. Lepäämisen tehokkuus: 7/10</SleepingSpot.description>
+    <SleepingSpot.description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava.</SleepingSpot.description>
     
     <Bed.label>sänky</Bed.label>
-    <Bed.description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä. Lepäämisen tehokkuus: 10/10</Bed.description>
+    <Bed.description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä.</Bed.description>
     
     <RoyalBed.label>kuninkaallinen sänky</RoyalBed.label>
     <RoyalBed.description>Ylellinen vuode jalosukuisille.</RoyalBed.description>
     
-    <HospitalBed.label>sairasvuode</HospitalBed.label>
+    <HospitalBed.label>lääkintävuode</HospitalBed.label>
     <HospitalBed.description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.description>
     
-    <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
-    <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+    <AnimalSleepingSpot.label>eläimen nukkumapaikka</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>Määrää paikan maassa, jossa eläinten kannattaa nukkua.</AnimalSleepingSpot.description>
     
-    <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
-    <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+    <AnimalSleepingBox.label>eläimen nukkumalaatikko</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>Pieni laatikko jossa eläimet voivat nukkua. Tähän sopivat pienet eläimet kuten kanat, kissat tai pienet koirat.</AnimalSleepingBox.description>
     
-    <AnimalBed.label>animal bed</AnimalBed.label>
-    <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
+    <AnimalBed.label>eläimen sänky</AnimalBed.label>
+    <AnimalBed.description>Pehmeä sänky jossa eläimet voivat nukkua.  Tähän sopivat kaikki eläimet.</AnimalBed.description>
     
     <Stool.label>jakkara</Stool.label>
     <Stool.description>Tämän päällä istutaan.</Stool.description>
@@ -53,6 +53,6 @@
     <StandingLamp_Blue.description>Seisova lamppu joka valaisee alueen sinisellä valolla.</StandingLamp_Blue.description>
     
     <EquipmentRack.label>varusteteline</EquipmentRack.label>
-    <EquipmentRack.description>Items stored in this will not deteriorate, even if outside.</EquipmentRack.description>
+    <EquipmentRack.description>Tässä olevat esineet eivät hajoa edes ulkona.</EquipmentRack.description>
     
 </LanguageData>
