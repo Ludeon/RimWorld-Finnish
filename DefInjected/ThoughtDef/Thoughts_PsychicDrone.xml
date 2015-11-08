@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PsychicDrone.stages.0.label>psychic soothe (medium)</PsychicDrone.stages.0.label>
-    <PsychicDrone.stages.0.description>It's like a calming voice at the back of my mind, soothing me, settling my nerves.</PsychicDrone.stages.0.description>
+    <PsychicDrone.stages.0.label>psyykkinen rauhoitus (keskitaso)</PsychicDrone.stages.0.label>
+    <PsychicDrone.stages.0.description>Se on kuin rauhoittava ääni mieleni perukoilla, ja se rauhoittelee minua ja hermojani.</PsychicDrone.stages.0.description>
     <PsychicDrone.stages.1.label>psyykkinen häirintä (alhainen)</PsychicDrone.stages.1.label>
     <PsychicDrone.stages.1.description>Tuntuu kuin jokin raapisi mieltäni. Kuiskiva ääni. Saan selvää vain pari sanaa, enkä pidä niistä.</PsychicDrone.stages.1.description>
     <PsychicDrone.stages.2.label>psyykkinen häirintä (keskitaso)</PsychicDrone.stages.2.label>

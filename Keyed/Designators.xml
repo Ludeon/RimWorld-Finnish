@@ -19,9 +19,9 @@
   <DesignatorHarvestWood>Kaada puita</DesignatorHarvestWood>
   <DesignatorHarvestWoodDesc>Merkitse puut jotka kaadetaan.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Siirrä esineitä</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka siirretään kaatopaikoille. Ei tarvita asioille kuten ruualle tai ruumiille, jotka ovat aina siirrettävissä.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Voit merkitä ainoastana siirrettäviä, ei-automaattisia asioita (kuten kiviä).</MustHaulHaulables>
+  <DesignatorHaulThings>Kuljeta esineitä</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka kuljetetaan kaatopaikoille. Ei tarvita sellaisille kuin ruualle tai ruumiille, jotka ovat aina kuljetettavissa.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Voit merkitä ainoastana kuljetettavia, ei-automaattisia asioita (kuten kiviä).</MustHaulHaulables>
 
   <DesignatorHunt>Metsästä</DesignatorHunt>
   <DesignatorHuntDesc>Merkitse eläimet joita metsästäjäsi metsästävät.</DesignatorHuntDesc>
@@ -78,13 +78,13 @@
   <DesignatorStripDesc>Riisu vaatteet ruumiilta ja haavoittuneilta.</DesignatorStripDesc>
 
   <DesignatorRearmTrap>Viritä ansa</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Viritiä lauennut ansa uudelleen jotta se voi laueta jälleen.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrapDesc>Viritä lauennut ansa uudelleen jotta se voi laueta jälleen.</DesignatorRearmTrapDesc>
 
-  <DesignatorOpen>Open</DesignatorOpen>
+  <DesignatorOpen>Avaa</DesignatorOpen>
   <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
   
-  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+  <DesignatorSlaughter>Tapa</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Tapa kesy eläin.</DesignatorSlaughterDesc>
 
   <DesignatorTame>Tame</DesignatorTame>
   <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>

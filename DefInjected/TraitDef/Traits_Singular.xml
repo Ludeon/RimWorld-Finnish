@@ -31,25 +31,25 @@
 	<Masochist.degreeDatas.0.label>masokisti</Masochist.degreeDatas.0.label>
 	<Masochist.degreeDatas.0.description>NAME pitää itsensä satuttamisen tuomasta jännityksestä. HECAP ei tiedä miksi, HIS ajatuksenkulkunsa vain on erilainen.</Masochist.degreeDatas.0.description>
 
-	<Prosthophile.degreeDatas.0.label>Proteesimyönteinen</Prosthophile.degreeDatas.0.label>
+	<Prosthophile.degreeDatas.0.label>proteesimyönteinen</Prosthophile.degreeDatas.0.label>
 	<Prosthophile.degreeDatas.0.description>NAME tuntee itsensä rajoittuneeksi HIS heikossa ihmisruumiissaan. HECAP unelmoi usein kehonsa parantelemisesta bioelektrisillä osilla.</Prosthophile.degreeDatas.0.description>
 
-	<Prosthophobe.degreeDatas.0.label>Proteesikielteinen</Prosthophobe.degreeDatas.0.label>
+	<Prosthophobe.degreeDatas.0.label>proteesikielteinen</Prosthophobe.degreeDatas.0.label>
 	<Prosthophobe.degreeDatas.0.description>NAME uskoo, että ihmisruumis on tarkoituksella rajoitteinen. HIS mielestä bioelektriset ruumiinosat ovat epäeettisiä.</Prosthophobe.degreeDatas.0.description>
 
-	<GreenThumb.degreeDatas.0.label>Viherpeukalo</GreenThumb.degreeDatas.0.label>
+	<GreenThumb.degreeDatas.0.label>viherpeukalo</GreenThumb.degreeDatas.0.label>
 	<GreenThumb.degreeDatas.0.description>NAME pitää puutarhanhoidosta. HISCAP mielialansa kohenee jokaisen istutetun kasvin myötä.</GreenThumb.degreeDatas.0.description>
     
-    <NightOwl.degreeDatas.0.label>night owl</NightOwl.degreeDatas.0.label>
-    <NightOwl.degreeDatas.0.description>NAME likes to work at night. HECAP gets a mood bonus if awake at night and mood loss if awake during the day.</NightOwl.degreeDatas.0.description>
+    <NightOwl.degreeDatas.0.label>yökyöpeli</NightOwl.degreeDatas.0.label>
+    <NightOwl.degreeDatas.0.description>NAME tykkää työskennellä öisin. HECAP saa paremman mielialan ollessaa yöllä hereillä ja huonomman päiväsaikaan.</NightOwl.degreeDatas.0.description>
     
-    <Greedy.degreeDatas.0.label>greedy</Greedy.degreeDatas.0.label>
-    <Greedy.degreeDatas.0.description>NAME needs a really impressive bedroom. HECAP gets a mood loss if HE doesn't get what HE wants.</Greedy.degreeDatas.0.description>
+    <Greedy.degreeDatas.0.label>ahne</Greedy.degreeDatas.0.label>
+    <Greedy.degreeDatas.0.description>NAME tarvitsee todella vaikuttavan makuuhuoneen. HECAP saa huonomman mielialan jos HE ei saa mitä haluaa.</Greedy.degreeDatas.0.description>
     
-    <Jealous.degreeDatas.0.label>jealous</Jealous.degreeDatas.0.label>
-    <Jealous.degreeDatas.0.description>For NAME, it's degrading to have a less impressive bedroom than someone else. HECAP gets a mood loss if any colonist has a more impressive bedroom.</Jealous.degreeDatas.0.description>
+    <Jealous.degreeDatas.0.label>kateellinen</Jealous.degreeDatas.0.label>
+    <Jealous.degreeDatas.0.description>Henkilön NAME mielestä on alentavaa omistaa huonompi makuuhuone kuin jollain muulla. HECAP saa huonomman mielialan jos jollain muulla yhdyskuntalaisella on vaikuttavampi makuuhuone.</Jealous.degreeDatas.0.description>
     
-    <Ascetic.degreeDatas.0.label>ascetic</Ascetic.degreeDatas.0.label>
-    <Ascetic.degreeDatas.0.description>NAME prefers to live in asceticism. HECAP gets a mood loss if HE has a bedroom that's too impressive.</Ascetic.degreeDatas.0.description>
+    <Ascetic.degreeDatas.0.label>askeettinen</Ascetic.degreeDatas.0.label>
+    <Ascetic.degreeDatas.0.description>NAME pitää enemmän koruttomasti elämisestä. HECAP saa huonomman mielialan jos hänellä on liian vaikuttava makuuhuone.</Ascetic.degreeDatas.0.description>
 
 </LanguageData>

@@ -5,7 +5,7 @@
     <Research.description>Tutkijat tekevät tutkimustyötä.</Research.description>
     <Research.pawnLabel>Tutkija</Research.pawnLabel>
     <Research.gerundLabel>Tutkiminen</Research.gerundLabel>
-    <Research.verb>Tutki kohteesa</Research.verb>
+    <Research.verb>Tutki kohteessa</Research.verb>
     
     <Cleaning.labelShort>Siivoa</Cleaning.labelShort>
     <Cleaning.description>Siivooja kolaavat lunta ja siivoavat kotialueella.</Cleaning.description>
@@ -13,11 +13,11 @@
     <Cleaning.gerundLabel>Siivoaminen</Cleaning.gerundLabel>
     <Cleaning.verb>Siivoa</Cleaning.verb>
     
-    <Hauling.labelShort>Siirrä</Hauling.labelShort>
-    <Hauling.description>Siirtäjät kantavat esineitä sinne, missä niiden tarvitsee olla.</Hauling.description>
-    <Hauling.pawnLabel>Siirtäjä</Hauling.pawnLabel>
-    <Hauling.gerundLabel>Siirtäminen</Hauling.gerundLabel>
-    <Hauling.verb>Siirrä</Hauling.verb>
+    <Hauling.labelShort>Kuljeta</Hauling.labelShort>
+    <Hauling.description>Kuljettajat kantavat esineitä sinne, missä niiden tarvitsee olla.</Hauling.description>
+    <Hauling.pawnLabel>Kuljettaja</Hauling.pawnLabel>
+    <Hauling.gerundLabel>Kuljettaminen</Hauling.gerundLabel>
+    <Hauling.verb>Kuljeta</Hauling.verb>
     
     <Crafting.labelShort>Tee käsitöitä</Crafting.labelShort>
     <Crafting.description>Käsityöntekijät kokoavat esineitä raaoista materiaaleista.</Crafting.description>
@@ -85,23 +85,23 @@
     <Cooking.gerundLabel>Kokkaaminen</Cooking.gerundLabel>
     <Cooking.verb>Kokkaa</Cooking.verb>
     
-    <Handling.labelShort>Handle</Handling.labelShort>
-    <Handling.description>Animal handlers tame, care for, harvest resources from and slaughter animals.</Handling.description>
-    <Handling.pawnLabel>Handler</Handling.pawnLabel>
-    <Handling.gerundLabel>Handling</Handling.gerundLabel>
-    <Handling.verb>Handle</Handling.verb>
+    <Handling.labelShort>Käsittele eläimiä</Handling.labelShort>
+    <Handling.description>Eläintenkäsittelijät kesyttävät, huolehtivat, keräävät resursseja ja tappavat eläimiä.</Handling.description>
+    <Handling.pawnLabel>Eläintenkäsittelijä</Handling.pawnLabel>
+    <Handling.gerundLabel>Eläintenkäsittely</Handling.gerundLabel>
+    <Handling.verb>Käsittele</Handling.verb>
     
-    <Warden.labelShort>Vartioi</Warden.labelShort>
+    <Warden.labelShort>Vanginvartija</Warden.labelShort>
     <Warden.description>Vanginvartijat vierailevat vankien luona värväämässä heitä, keskustelemassa heidän kanssaan, hakkaamassa heitä tai teloittamassa heitä - mitä vain oletkin päättänyt. Vanginvartijat vievät lisäksi vangeille ruokaa.</Warden.description>
     <Warden.pawnLabel>Vanginvartija</Warden.pawnLabel>
     <Warden.gerundLabel>Vanginvartiointi</Warden.gerundLabel>
     <Warden.verb>Käsittele</Warden.verb>
     
-    <Flicker.labelShort>Käytä kytkimiä</Flicker.labelShort>
+    <Flicker.labelShort>Kytke</Flicker.labelShort>
     <Flicker.description>Kytkijät käyttävät kytkimiä. Esimerkiksi kun määräät tykkitornin virran kytkettäväksi kytkijän on käytävä kytkemässä virta käsin.</Flicker.description>
     <Flicker.pawnLabel>Kytkijä</Flicker.pawnLabel>
     <Flicker.gerundLabel>Kytkimien käyttö</Flicker.gerundLabel>
-    <Flicker.verb>Flick</Flicker.verb>
+    <Flicker.verb>Napsauta</Flicker.verb>
     
     <Patient.labelShort>Potilas</Patient.labelShort>
     <Patient.description>Potilaat menevät sairasvuoteeseen jos he tarvitsevat hoitoa.</Patient.description>
@@ -115,7 +115,7 @@
     <Doctor.gerundLabel>Lääkitseminen</Doctor.gerundLabel>
     <Doctor.verb>Hoida</Doctor.verb>
     
-    <Firefighter.labelShort>Sammuta tulia</Firefighter.labelShort>
+    <Firefighter.labelShort>Palomies</Firefighter.labelShort>
     <Firefighter.description>Palomiehet sammuttavat tulia yhdyskunnassa.</Firefighter.description>
     <Firefighter.pawnLabel>Palomies</Firefighter.pawnLabel>
     <Firefighter.gerundLabel>Tulensammmutus</Firefighter.gerundLabel>

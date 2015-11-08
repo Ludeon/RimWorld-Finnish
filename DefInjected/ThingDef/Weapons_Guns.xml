@@ -28,7 +28,7 @@
     
     <Bullet_PDW.label>Konepistoolin luoti</Bullet_PDW.label>
     
-    <Gun_PDW.label>Konepistooli</Gun_PDW.label>
+    <Gun_PDW.label>konepistooli</Gun_PDW.label>
     <Gun_PDW.description>Muinaisen kaavan konepistooli. Lyhyt kantama, matala teho ja nopea ampumisnopeus.</Gun_PDW.description>
     
     <Bullet_HeavySMG.label>raskaan konepistoolin bullet</Bullet_HeavySMG.label>
@@ -43,8 +43,8 @@
     
     <Bullet_LMG.label>pikakiväärin luoti</Bullet_LMG.label>
     
-    <Gun_LMG.label>pikakivääri</Gun_LMG.label>
-    <Gun_LMG.description>Pikakivääri (Light Machine Gun).</Gun_LMG.description>
+    <Gun_LMG.label>kevyt konekivääri</Gun_LMG.label>
+    <Gun_LMG.description>Kevyt konekivääri.</Gun_LMG.description>
     
     <Bullet_ChargeRifle.label>varauslaukaus</Bullet_ChargeRifle.label>
     
@@ -59,7 +59,7 @@
     <Bullet_Minigun.label>minigunin luoti</Bullet_Minigun.label>
     
     <Gun_Minigun.label>minigun</Gun_Minigun.label>
-    <Gun_Minigun.description>Monipiippuinen konetykki äärimmäisen nopealla ampumnisnopeudella. Mekanoidien rakentama.</Gun_Minigun.description>
+    <Gun_Minigun.description>Monipiippuinen konekivääri äärimmäisen nopealla ampumnisnopeudella. Mekanoidien rakentama.</Gun_Minigun.description>
     
     <Bullet_DoomsdayRocket.label>tuomionpäiväraketti</Bullet_DoomsdayRocket.label>
     

@@ -92,8 +92,8 @@
   <ShellNotLoaded>Lataamaton</ShellNotLoaded>
   
   <!-- Job reports -->
-	<ReportHaulingTo>Raahaamassa: {0} kohteeseen {1}.</ReportHaulingTo>
-	<ReportHauling>Raahaamassa:{0}.</ReportHauling>
+	<ReportHaulingTo>Kuljettamassa: {0} kohteeseen {1}.</ReportHaulingTo>
+	<ReportHauling>Kuljettamassa: {0}.</ReportHauling>
   <ReportSleeping>Nukkumassa.</ReportSleeping>
   <ReportResting>Lepää.</ReportResting>
   <WatchingSunrise>Watching the sunrise</WatchingSunrise>

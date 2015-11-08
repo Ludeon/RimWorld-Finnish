@@ -28,45 +28,45 @@
     <HappyNude.stages.0.label>onnellisesti alaston</HappyNude.stages.0.label>
     <HappyNude.stages.0.description>Olen nakuna ja pidän siitä! Tunnen itseni niin vapaaksi ja rajoittamattomaksi ja yhdteydessä ympäristööni!</HappyNude.stages.0.description>
     
-    <NightOwlDuringTheDay.stages.0.label>night owl in daytime</NightOwlDuringTheDay.stages.0.label>
-    <NightOwlDuringTheDay.stages.0.description>I don't like working during the day.</NightOwlDuringTheDay.stages.0.description>
+    <NightOwlDuringTheDay.stages.0.label>yökyöpeli päiväsaikaan</NightOwlDuringTheDay.stages.0.label>
+    <NightOwlDuringTheDay.stages.0.description>En pidä päiväsaikaan työskentelemisestä.</NightOwlDuringTheDay.stages.0.description>
     
-    <NightOwlDuringTheNight.stages.0.label>night owl at night</NightOwlDuringTheNight.stages.0.label>
-    <NightOwlDuringTheNight.stages.0.description>I feel much better at night.</NightOwlDuringTheNight.stages.0.description>
+    <NightOwlDuringTheNight.stages.0.label>yökyöpeli yöaikaan</NightOwlDuringTheNight.stages.0.label>
+    <NightOwlDuringTheNight.stages.0.description>Tunnen itseni paljon paremmaksi yöllä.</NightOwlDuringTheNight.stages.0.description>
     
-    <Greedy.stages.0.label>no impressive bedroom</Greedy.stages.0.label>
-    <Greedy.stages.0.description>I'm greedy. I want a really impressive bedroom.</Greedy.stages.0.description>
-    <Greedy.stages.1.label>no impressive bedroom</Greedy.stages.1.label>
-    <Greedy.stages.1.description>I'm greedy. My room is pathetic! I want a really impressive bedroom.</Greedy.stages.1.description>
-    <Greedy.stages.2.label>no impressive bedroom</Greedy.stages.2.label>
-    <Greedy.stages.2.description>I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom.</Greedy.stages.2.description>
-    <Greedy.stages.3.label>no impressive bedroom</Greedy.stages.3.label>
-    <Greedy.stages.3.description>I'm greedy. My room isn't good enough. I want a really impressive bedroom.</Greedy.stages.3.description>
-    <Greedy.stages.4.label>no impressive bedroom</Greedy.stages.4.label>
-    <Greedy.stages.4.description>I'm greedy. My room isn't quite good enough. I want a really impressive bedroom.</Greedy.stages.4.description>
+    <Greedy.stages.0.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.0.label>
+    <Greedy.stages.0.description>Olen ahne. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.0.description>
+    <Greedy.stages.1.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.1.label>
+    <Greedy.stages.1.description>Olen ahne. Huoneeni on säälittävä! Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.1.description>
+    <Greedy.stages.2.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.2.label>
+    <Greedy.stages.2.description>Olen ahne. Huoneeni ei ole läheskään tarpeeksi hyvä. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.2.description>
+    <Greedy.stages.3.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.3.label>
+    <Greedy.stages.3.description>Olen ahne. Huoneeni ei ole tarpeeksi hyvä. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.3.description>
+    <Greedy.stages.4.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.4.label>
+    <Greedy.stages.4.description>Olen ahne. Huoneeni ei ole juuri ja juuri tarpeeksi hyvä. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.4.description>
     
-    <Jealous.stages.0.label>jealous</Jealous.stages.0.label>
-    <Jealous.stages.0.description>Someone else has a more impressive bedroom than me!</Jealous.stages.0.description>
+    <Jealous.stages.0.label>kateellinen</Jealous.stages.0.label>
+    <Jealous.stages.0.description>Jollain muulla on hienompi makuuhuone kuin minulla!</Jealous.stages.0.description>
     
-    <Ascetic.stages.0.label>awful bedroom</Ascetic.stages.0.label>
-    <Ascetic.stages.0.description>My bedroom is just how I want it to be. Very humble and simple.</Ascetic.stages.0.description>
-    <Ascetic.stages.1.label>repulsive bedroom</Ascetic.stages.1.label>
-    <Ascetic.stages.1.description>My bedroom is just how I want it to be. Very humble and simple.</Ascetic.stages.1.description>
-    <Ascetic.stages.2.label>dull bedroom</Ascetic.stages.2.label>
-    <Ascetic.stages.2.description>My bedroom is very humble and simple. I like it.</Ascetic.stages.2.description>
-    <Ascetic.stages.5.label>impressive bedroom</Ascetic.stages.5.label>
-    <Ascetic.stages.5.description>I don't like having an impressive bedroom.</Ascetic.stages.5.description>
-    <Ascetic.stages.6.label>impressive bedroom</Ascetic.stages.6.label>
-    <Ascetic.stages.6.description>I don't like having an impressive bedroom.</Ascetic.stages.6.description>
-    <Ascetic.stages.7.label>impressive bedroom</Ascetic.stages.7.label>
-    <Ascetic.stages.7.description>I don't like having an impressive bedroom.</Ascetic.stages.7.description>
-    <Ascetic.stages.8.label>impressive bedroom</Ascetic.stages.8.label>
-    <Ascetic.stages.8.description>I don't like having an impressive bedroom.</Ascetic.stages.8.description>
-    <Ascetic.stages.9.label>impressive bedroom</Ascetic.stages.9.label>
-    <Ascetic.stages.9.description>I don't like having an impressive bedroom.</Ascetic.stages.9.description>
-    <Ascetic.stages.10.label>impressive bedroom</Ascetic.stages.10.label>
-    <Ascetic.stages.10.description>I don't like having an impressive bedroom.</Ascetic.stages.10.description>
-    <Ascetic.stages.11.label>impressive bedroom</Ascetic.stages.11.label>
-    <Ascetic.stages.11.description>I don't like having an impressive bedroom.</Ascetic.stages.11.description>
+    <Ascetic.stages.0.label>hirveä makuuhuone</Ascetic.stages.0.label>
+    <Ascetic.stages.0.description>Minun makuuhuoneeni on juuri sellainen kuin haluan. Erittäin nöyräs ja yksinkertainen.</Ascetic.stages.0.description>
+    <Ascetic.stages.1.label>luotaantyöntävä makuuhuone</Ascetic.stages.1.label>
+    <Ascetic.stages.1.description>Minun makuuhuoneeni on juuri sellainen kuin haluan. Erittäin nöyräs ja yksinkertainen.</Ascetic.stages.1.description>
+    <Ascetic.stages.2.label>tylsä makuuhuone</Ascetic.stages.2.label>
+    <Ascetic.stages.2.description>Minun makuuhuoneeni on erittäin nöyräs ja yksinkertainen. Pidän siitä.</Ascetic.stages.2.description>
+    <Ascetic.stages.5.label>vaikuttava makuuhuone</Ascetic.stages.5.label>
+    <Ascetic.stages.5.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.5.description>
+    <Ascetic.stages.6.label>vaikuttava makuuhuone</Ascetic.stages.6.label>
+    <Ascetic.stages.6.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.6.description>
+    <Ascetic.stages.7.label>vaikuttava makuuhuone</Ascetic.stages.7.label>
+    <Ascetic.stages.7.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.7.description>
+    <Ascetic.stages.8.label>vaikuttava makuuhuone</Ascetic.stages.8.label>
+    <Ascetic.stages.8.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.8.description>
+    <Ascetic.stages.9.label>vaikuttava makuuhuone</Ascetic.stages.9.label>
+    <Ascetic.stages.9.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.9.description>
+    <Ascetic.stages.10.label>vaikuttava makuuhuone</Ascetic.stages.10.label>
+    <Ascetic.stages.10.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.10.description>
+    <Ascetic.stages.11.label>vaikuttava makuuhuone</Ascetic.stages.11.label>
+    <Ascetic.stages.11.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.11.description>
     
 </LanguageData>

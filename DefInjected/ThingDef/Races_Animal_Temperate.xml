@@ -74,12 +74,12 @@
     <Tortoise_Corpse.description>Kuolleen kilpikonnan ruumis.</Tortoise_Corpse.description>
     
     <Thrumbo.label>thrumbo</Thrumbo.label>
-    <Thrumbo.description>A gigantic creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. Its long fur is exceptionally beautiful and valuable, and its razor-sharp horn is very valuable in most markets. Legends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</Thrumbo.description>
-    <Thrumbo_Leather.label>thrumbo leather</Thrumbo_Leather.label>
-    <Thrumbo_Leather.description>Leather made from the skin of a thrumbo.</Thrumbo_Leather.description>
-    <Thrumbo_Meat.label>thrumbo meat</Thrumbo_Meat.label>
-    <Thrumbo_Meat.description>Raw flesh of a thrumbo.</Thrumbo_Meat.description>
-    <Thrumbo_Corpse.label>thrumbo corpse</Thrumbo_Corpse.label>
-    <Thrumbo_Corpse.description>Dead body of a thrumbo.</Thrumbo_Corpse.description>
+    <Thrumbo.description>Jättimäinen olio, jonka alkuperä on tuntematon. Thrumbo on luonnoltaan lempeä, mutta äärimmäisen vaarallinen suututettuna. Sen pitkä turkki on poikkeuksellisen kaunista ja arvokasta ja sen veitsenterävä sarvi on erittäin arvostettu useimmilla markkinoilla. Legendat kertovat, että vanha thrumbo on universumin viisain olio - se vain haluaa olla puhumatta.</Thrumbo.description>
+    <Thrumbo_Leather.label>thrumbon nahkaa</Thrumbo_Leather.label>
+    <Thrumbo_Leather.description>Thrumbon vuodasta tehtyä nahkaa.</Thrumbo_Leather.description>
+    <Thrumbo_Meat.label>thrumbon lihaa</Thrumbo_Meat.label>
+    <Thrumbo_Meat.description>Raakaa thrumbon lihaa.</Thrumbo_Meat.description>
+    <Thrumbo_Corpse.label>thrumbon ruumis</Thrumbo_Corpse.label>
+    <Thrumbo_Corpse.description>Kuolleen thrumbon ruumis.</Thrumbo_Corpse.description>
     
 </LanguageData>

@@ -5,7 +5,7 @@
     <Chicken.description>Perinteisintä maatilalintua kanaa kasvatetaan sen munien ja lihan vuoksi.</Chicken.description>
     <Chicken_Meat.label>kanan lihaa</Chicken_Meat.label>
     <Chicken_Meat.description>Raakaa kanan lihaa.</Chicken_Meat.description>
-    <Chicken_Corpse.label>chicken corpse</Chicken_Corpse.label>
+    <Chicken_Corpse.label>kanan ruumis</Chicken_Corpse.label>
     <Chicken_Corpse.description>Kuolleen kanan ruumis.</Chicken_Corpse.description>
     
     <Pig.label>sika</Pig.label>

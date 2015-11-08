@@ -22,20 +22,20 @@
     <PatientGoToBed.verb>ottaa hoitoa vastaan kohteessa</PatientGoToBed.verb>
     <PatientGoToBed.gerund>hoidon vastaanottaminen kohteessa</PatientGoToBed.gerund>
     
-    <Slaughter.verb>slaughter</Slaughter.verb>
-    <Slaughter.gerund>slaughtering</Slaughter.gerund>
+    <Slaughter.verb>tappaa</Slaughter.verb>
+    <Slaughter.gerund>tappaminen</Slaughter.gerund>
     
-    <Milk.verb>milk</Milk.verb>
-    <Milk.gerund>milking</Milk.gerund>
+    <Milk.verb>lypsää</Milk.verb>
+    <Milk.gerund>lypsäminen</Milk.gerund>
     
-    <Shear.verb>shear</Shear.verb>
-    <Shear.gerund>shearing</Shear.gerund>
+    <Shear.verb>keritä</Shear.verb>
+    <Shear.gerund>keritseminen</Shear.gerund>
     
-    <Tame.verb>tame</Tame.verb>
-    <Tame.gerund>taming</Tame.gerund>
+    <Tame.verb>kesyttää</Tame.verb>
+    <Tame.gerund>kesyttäminen</Tame.gerund>
     
-    <Train.verb>train</Train.verb>
-    <Train.gerund>training</Train.gerund>
+    <Train.verb>kouluttaa</Train.verb>
+    <Train.gerund>kouluttaminen</Train.gerund>
     
     <CleanClearSnow.verb>kolata lunta</CleanClearSnow.verb>
     <CleanClearSnow.gerund>lumen kolaaminen</CleanClearSnow.gerund>
@@ -46,23 +46,23 @@
     <Flick.verb>kääntää kytkintä</Flick.verb>
     <Flick.gerund>kytkimen kääntäminen</Flick.gerund>
     
-    <RearmTraps.verb>rearm</RearmTraps.verb>
-    <RearmTraps.gerund>rearming</RearmTraps.gerund>
+    <RearmTraps.verb>virittää uudelleen</RearmTraps.verb>
+    <RearmTraps.gerund>uudelleenvirittäminen</RearmTraps.gerund>
     
-    <Strip.verb>strip</Strip.verb>
-    <Strip.gerund>stripping</Strip.gerund>
+    <Strip.verb>riisua</Strip.verb>
+    <Strip.gerund>riisuminen</Strip.gerund>
     
-    <Open.verb>open</Open.verb>
-    <Open.gerund>opening</Open.gerund>
+    <Open.verb>avata</Open.verb>
+    <Open.gerund>avaaminen</Open.gerund>
     
     <DoBillsCremate.verb>polttohaudata</DoBillsCremate.verb>
     <DoBillsCremate.gerund>polttohautaaminen kohteessa</DoBillsCremate.gerund>
     
-    <HaulGeneral.verb>siirtää</HaulGeneral.verb>
-    <HaulGeneral.gerund>siirtäminen</HaulGeneral.gerund>
+    <HaulGeneral.verb>kuljettaa</HaulGeneral.verb>
+    <HaulGeneral.gerund>kuljettaminen</HaulGeneral.gerund>
     
-    <BuryCorpses.verb>bury</BuryCorpses.verb>
-    <BuryCorpses.gerund>burying</BuryCorpses.gerund>
+    <BuryCorpses.verb>haudata</BuryCorpses.verb>
+    <BuryCorpses.gerund>hautaaminen</BuryCorpses.gerund>
     
     <GrowerSow.verb>kylvää</GrowerSow.verb>
     <GrowerSow.gerund>kylväminen</GrowerSow.gerund>
@@ -100,8 +100,8 @@
     <Deconstruct.verb>purkaa</Deconstruct.verb>
     <Deconstruct.gerund>purkaminen</Deconstruct.gerund>
     
-    <Uninstall.verb>uninstall</Uninstall.verb>
-    <Uninstall.gerund>uninstalling</Uninstall.gerund>
+    <Uninstall.verb>poistaa</Uninstall.verb>
+    <Uninstall.gerund>poistaminen</Uninstall.gerund>
     
     <ConstructFinishFrames.verb>rakentaa</ConstructFinishFrames.verb>
     <ConstructFinishFrames.gerund>rakentaminen</ConstructFinishFrames.gerund>
@@ -112,8 +112,8 @@
     <ConstructDeliverResourcesToBlueprints.verb>työstää</ConstructDeliverResourcesToBlueprints.verb>
     <ConstructDeliverResourcesToBlueprints.gerund>työstäminen</ConstructDeliverResourcesToBlueprints.gerund>
     
-    <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
-    <ConstructRemoveFloors.gerund>removing floor</ConstructRemoveFloors.gerund>
+    <ConstructRemoveFloors.verb>poistaa lattiaa</ConstructRemoveFloors.verb>
+    <ConstructRemoveFloors.gerund>lattian poistaminen</ConstructRemoveFloors.gerund>
     
     <ConstructSmoothFloors.verb>hioa</ConstructSmoothFloors.verb>
     <ConstructSmoothFloors.gerund>hiominen</ConstructSmoothFloors.gerund>

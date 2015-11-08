@@ -20,30 +20,30 @@
     <Monkey_Corpse.description>Kuolleen apinan ruumis.</Monkey_Corpse.description>
     
     <Chinchilla.label>chinchilla</Chinchilla.label>
-    <Chinchilla.description>A small but quick rodent famous for its exceptionally soft fur.</Chinchilla.description>
-    <Chinchilla_Leather.label>chinchilla leather</Chinchilla_Leather.label>
-    <Chinchilla_Leather.description>Leather made from the skin of a chinchilla.</Chinchilla_Leather.description>
-    <Chinchilla_Meat.label>chinchilla meat</Chinchilla_Meat.label>
-    <Chinchilla_Meat.description>Raw flesh of a chinchilla.</Chinchilla_Meat.description>
-    <Chinchilla_Corpse.label>chinchilla corpse</Chinchilla_Corpse.label>
-    <Chinchilla_Corpse.description>Dead body of a chinchilla.</Chinchilla_Corpse.description>
+    <Chinchilla.description>Pieni mutta nopea jyrsijä, joka on kuuluisa sen poikkeuksellisen pehmeästä turkista.</Chinchilla.description>
+    <Chinchilla_Leather.label>chinchillan nahkaa</Chinchilla_Leather.label>
+    <Chinchilla_Leather.description>Chinchillan vuodasta tehtyä nahkaa.</Chinchilla_Leather.description>
+    <Chinchilla_Meat.label>chinchillan lihaa</Chinchilla_Meat.label>
+    <Chinchilla_Meat.description>Raakaa chinchillan lihaa.</Chinchilla_Meat.description>
+    <Chinchilla_Corpse.label>chinchillan ruumis</Chinchilla_Corpse.label>
+    <Chinchilla_Corpse.description>Kuolleen chinchillan ruumis.</Chinchilla_Corpse.description>
     
-    <Boomalope.label>boomalope</Boomalope.label>
-    <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies.</Boomalope.description>
-    <Boomalope_Leather.label>boomalope leather</Boomalope_Leather.label>
-    <Boomalope_Leather.description>Leather made from the skin of a boomalope.</Boomalope_Leather.description>
-    <Boomalope_Meat.label>boomalope meat</Boomalope_Meat.label>
-    <Boomalope_Meat.description>Raw flesh of a boomalope.</Boomalope_Meat.description>
-    <Boomalope_Corpse.label>boomalope corpse</Boomalope_Corpse.label>
-    <Boomalope_Corpse.description>Dead body of a boomalope.</Boomalope_Corpse.description>
+    <Boomalope.label>paukkulooppi</Boomalope.label>
+    <Boomalope.description>Suunniteltu kemikaalien valmistamiseen ja kasvattaa suuren pussillisen epävakaita kemikaaleja selässään. Vaikka sen on heikko ja hauras kokoisekseen, muut eläimet ovat oppineet välttelemään sitä sen kuollessa syntyvän valtavan räjähdyksen takia.</Boomalope.description>
+    <Boomalope_Leather.label>paukkuloopin nahkaa</Boomalope_Leather.label>
+    <Boomalope_Leather.description>Paukkuloopin vuodasta tehtyä nahkaa.</Boomalope_Leather.description>
+    <Boomalope_Meat.label>paukkuloopin lihaa</Boomalope_Meat.label>
+    <Boomalope_Meat.description>Raakaa paukkuloopin lihaa.</Boomalope_Meat.description>
+    <Boomalope_Corpse.label>paukkuloopin ruumis</Boomalope_Corpse.label>
+    <Boomalope_Corpse.description>Kuolleen paukkuloopin ruumis.</Boomalope_Corpse.description>
     
-    <Capybara.label>capybara</Capybara.label>
-    <Capybara.description>The largest natural rodent, the capybara is well-adapted for steaming jungle.</Capybara.description>
-    <Capybara_Leather.label>capybara leather</Capybara_Leather.label>
-    <Capybara_Leather.description>Leather made from the skin of a capybara.</Capybara_Leather.description>
-    <Capybara_Meat.label>capybara meat</Capybara_Meat.label>
-    <Capybara_Meat.description>Raw flesh of a capybara.</Capybara_Meat.description>
-    <Capybara_Corpse.label>capybara corpse</Capybara_Corpse.label>
-    <Capybara_Corpse.description>Dead body of a capybara.</Capybara_Corpse.description>
+    <Capybara.label>kapybara</Capybara.label>
+    <Capybara.description>Suurin luonnollinen jyrsijä, joka on sopeutunut hyvin huuruiseen viidakkoon.</Capybara.description>
+    <Capybara_Leather.label>kapybaran nahkaa</Capybara_Leather.label>
+    <Capybara_Leather.description>Kapybaran vuodasta tehtyä nahkaa.</Capybara_Leather.description>
+    <Capybara_Meat.label>kapybaran lihaa</Capybara_Meat.label>
+    <Capybara_Meat.description>Raakaa kapybaran lihaa.</Capybara_Meat.description>
+    <Capybara_Corpse.label>kapybaran ruumis</Capybara_Corpse.label>
+    <Capybara_Corpse.description>Kuolleen kapybaran ruumis.</Capybara_Corpse.description>
     
 </LanguageData>

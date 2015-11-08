@@ -52,7 +52,7 @@
   <MessageMustDesignateHarvestable>Pitää määrittää ruokaa tuottavia, tarpeeksi kasvaneita kasveja.</MessageMustDesignateHarvestable>
   <MessageMustDesignateHarvestableWood>Pitää määrittää puuta tuottavia, tarpeeksi kasvaneita puita.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Pitää määrittää kasveja.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Pitää määrittää siirrettäviä tavaroita.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>Pitää määrittää kuljetettavia tavaroita.</MessageMustDesignateHaulable>
   <MessageMustDesignateMineable>Pitää määrittää läpäisemätöntä louhimiskelpoista kiveä.</MessageMustDesignateMineable>
   <MessageMustDesignateHuntable>Pitää määrittää metsästämiskelpoisia eläimiä.</MessageMustDesignateHuntable>
   <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>

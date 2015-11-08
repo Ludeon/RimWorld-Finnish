@@ -16,16 +16,16 @@
     <AteLavishMeal.stages.0.label>söi yltäkylläisen aterian</AteLavishMeal.stages.0.label>
     <AteLavishMeal.stages.0.description>Tuo yltäkylläinen ateria oli mahtava. Se ravitsi minun ruumiini ja sieluni.</AteLavishMeal.stages.0.description>
     
-    <AteHumanlikeMeatDirect.stages.0.label>raaka kannibalismi</AteHumanlikeMeatDirect.stages.0.label>
+    <AteHumanlikeMeatDirect.stages.0.label>raakaa kannibalismia</AteHumanlikeMeatDirect.stages.0.label>
     <AteHumanlikeMeatDirect.stages.0.description>Söin toisen ihmisen lihaa raakana kuin eläin. Tämä on painajaista.</AteHumanlikeMeatDirect.stages.0.description>
 
-    <AteHumanlikeMeatAsIngredient.stages.0.label>keitetty kannibalismi</AteHumanlikeMeatAsIngredient.stages.0.label>
+    <AteHumanlikeMeatAsIngredient.stages.0.label>keitettyä kannibalismia</AteHumanlikeMeatAsIngredient.stages.0.label>
     <AteHumanlikeMeatAsIngredient.stages.0.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Tämä on hirvittävää.</AteHumanlikeMeatAsIngredient.stages.0.description>
     
-    <AteHumanlikeMeatDirectCannibal.stages.0.label>raaka kannibalismi</AteHumanlikeMeatDirectCannibal.stages.0.label>
+    <AteHumanlikeMeatDirectCannibal.stages.0.label>raakaa kannibalismia</AteHumanlikeMeatDirectCannibal.stages.0.label>
     <AteHumanlikeMeatDirectCannibal.stages.0.description>Söin toisen ihmisen lihaa raakana kuin eläin. Se oli niin... mehukasta.</AteHumanlikeMeatDirectCannibal.stages.0.description>
     
-    <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>keitetty kannibalismi</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+    <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>keitettyä kannibalismia</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
     <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Niin miellyttävää. Jos minulla olisi vain härkäpapuja ja Chianti-viiniä.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
     
     <ButcheredHumanlikeCorpse.stages.0.label>teurasti ihmisen</ButcheredHumanlikeCorpse.stages.0.label>
@@ -76,28 +76,28 @@
     <KnowPrisonerSold.stages.0.label>vanki myytiin</KnowPrisonerSold.stages.0.label>
     <KnowPrisonerSold.stages.0.description>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</KnowPrisonerSold.stages.0.description>
     
-    <KnowGuestExecuted.stages.0.label>someone put to death</KnowGuestExecuted.stages.0.label>
-    <KnowGuestExecuted.stages.0.description>A prisoner or guest was put to death.</KnowGuestExecuted.stages.0.description>
-    <KnowGuestExecuted.stages.1.label>someone was executed</KnowGuestExecuted.stages.1.label>
-    <KnowGuestExecuted.stages.1.description>A prisoner or guest was killed in cold blood. This colony seems more evil by the day.</KnowGuestExecuted.stages.1.description>
-    <KnowGuestExecuted.stages.2.label>organ harvested and killed</KnowGuestExecuted.stages.2.label>
-    <KnowGuestExecuted.stages.2.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.2.description>
+    <KnowGuestExecuted.stages.0.label>joku armomurhattiin</KnowGuestExecuted.stages.0.label>
+    <KnowGuestExecuted.stages.0.description>Vanki tai vieras armomurhattiin.</KnowGuestExecuted.stages.0.description>
+    <KnowGuestExecuted.stages.1.label>joku teloitettiin</KnowGuestExecuted.stages.1.label>
+    <KnowGuestExecuted.stages.1.description>Vanki tai vieras tapettiin kylmäverisesti. Tämä yhdyskunta vaikuttaa päivä päivältä pahantahtoisemmalta.</KnowGuestExecuted.stages.1.description>
+    <KnowGuestExecuted.stages.2.label>elin kerättiin ja henkilö tapettiin</KnowGuestExecuted.stages.2.label>
+    <KnowGuestExecuted.stages.2.description>Vanki tai vieras kuoli koska yhdyskunta otti häneltä ruumiinosia. Se on kamalaa.</KnowGuestExecuted.stages.2.description>
     
-    <KnowColonistExecuted.stages.0.label>colonist put to death</KnowColonistExecuted.stages.0.label>
-    <KnowColonistExecuted.stages.0.description>A colonist was put to death.</KnowColonistExecuted.stages.0.description>
-    <KnowColonistExecuted.stages.1.label>colonist was executed</KnowColonistExecuted.stages.1.label>
-    <KnowColonistExecuted.stages.1.description>A colonist was killed in cold blood. This colony seems more evil by the day.</KnowColonistExecuted.stages.1.description>
-    <KnowColonistExecuted.stages.2.label>colonist's organ harvested, killed</KnowColonistExecuted.stages.2.label>
-    <KnowColonistExecuted.stages.2.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.2.description>
+    <KnowColonistExecuted.stages.0.label>yhdyskuntalainen armomurhattiin</KnowColonistExecuted.stages.0.label>
+    <KnowColonistExecuted.stages.0.description>Yhdyskuntalainen armomurhattiin.</KnowColonistExecuted.stages.0.description>
+    <KnowColonistExecuted.stages.1.label>yhdyskuntalainen teloitettiin</KnowColonistExecuted.stages.1.label>
+    <KnowColonistExecuted.stages.1.description>Yhdyskuntalainen tapettiin kylmäverisesti. Tämä yhdyskunta vaikuttaa päivä päivältä pahantahtoisemmalta.</KnowColonistExecuted.stages.1.description>
+    <KnowColonistExecuted.stages.2.label>yhdyskuntalaisen elin kerättiin ja hänet tapettiin</KnowColonistExecuted.stages.2.label>
+    <KnowColonistExecuted.stages.2.description>Yhdyskuntalainen kuoli koska yhdyskunta otti häneltä ruumiinosia. Se on kamalaa.</KnowColonistExecuted.stages.2.description>
     
-    <KnowGuestOrganHarvested.stages.0.label>someone's organ harvested</KnowGuestOrganHarvested.stages.0.label>
-    <KnowGuestOrganHarvested.stages.0.description>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</KnowGuestOrganHarvested.stages.0.description>
+    <KnowGuestOrganHarvested.stages.0.label>jonkun elin kerättiin</KnowGuestOrganHarvested.stages.0.label>
+    <KnowGuestOrganHarvested.stages.0.description>Yhdyskunta otti vangilta tai vieraalta ruumiinosia. Se on kamalaa kun ihminen hajotetaan osia varten kun heillä ei ole vaihtoehtoa.</KnowGuestOrganHarvested.stages.0.description>
     
-    <KnowColonistOrganHarvested.stages.0.label>colonist's organ harvested</KnowColonistOrganHarvested.stages.0.label>
-    <KnowColonistOrganHarvested.stages.0.description>Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice.</KnowColonistOrganHarvested.stages.0.description>
+    <KnowColonistOrganHarvested.stages.0.label>yhdyskuntalaisen elin kerättiin</KnowColonistOrganHarvested.stages.0.label>
+    <KnowColonistOrganHarvested.stages.0.description>Joku otti yhdyskuntalaiselta ruumiinosia. Se on kamalaa kun ihminen hajotetaan osia varten kun heillä ei ole vaihtoehtoa.</KnowColonistOrganHarvested.stages.0.description>
     
-    <MyOrganHarvested.stages.0.label>my organ harvested</MyOrganHarvested.stages.0.label>
-    <MyOrganHarvested.stages.0.description>The colony harvested body parts from me! They're breaking me down like an old engine!</MyOrganHarvested.stages.0.description>
+    <MyOrganHarvested.stages.0.label>minulta kerättiin elin</MyOrganHarvested.stages.0.label>
+    <MyOrganHarvested.stages.0.description>Yhdyskunta keräsi minulta ruumiinosia! He hajottavat minut kuin vanhan moottorin!</MyOrganHarvested.stages.0.description>
     
     <WasImprisoned.stages.0.label>oli vangittu</WasImprisoned.stages.0.label>
     <WasImprisoned.stages.0.description>Yhdyskunta piti minua hetken vankina kuin eläintä häkissä.</WasImprisoned.stages.0.description>
@@ -117,10 +117,10 @@
     <Catharsis.stages.0.label>Katarsis</Catharsis.stages.0.label>
     <Catharsis.stages.0.description>Mitä juuri tapahtui... Se ei ollut minunlaistani. Tiedän pystyväni parempaan.</Catharsis.stages.0.description>
     
-    <Nuzzled.stages.0.label>nuzzled</Nuzzled.stages.0.label>
-    <Nuzzled.stages.0.description>A cute animal nuzzled me.</Nuzzled.stages.0.description>
+    <Nuzzled.stages.0.label>kiehnätty</Nuzzled.stages.0.label>
+    <Nuzzled.stages.0.description>Söpö eläin kiehnäsi minua.</Nuzzled.stages.0.description>
     
-    <SomeoneBuriedInSarcophagus.stages.0.label>buried in sarcophagus</SomeoneBuriedInSarcophagus.stages.0.label>
-    <SomeoneBuriedInSarcophagus.stages.0.description>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</SomeoneBuriedInSarcophagus.stages.0.description>
+    <SomeoneBuriedInSarcophagus.stages.0.label>haudattu sarkofagiin</SomeoneBuriedInSarcophagus.stages.0.label>
+    <SomeoneBuriedInSarcophagus.stages.0.description>Tämä yhdyskunta hautasi jonkun koristeelliseen sarkofagiin. Levätköön hänen sielunsa rauhassa.</SomeoneBuriedInSarcophagus.stages.0.description>
     
 </LanguageData>

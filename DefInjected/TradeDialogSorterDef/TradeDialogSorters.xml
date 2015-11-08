@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <None.label>none</None.label>
+    <None.label>ei mikään</None.label>
     
-    <Name.label>name</Name.label>
+    <Name.label>nimi</Name.label>
     
-    <MarketValue.label>market value</MarketValue.label>
+    <MarketValue.label>markkina-arvo</MarketValue.label>
     
-    <Category.label>category</Category.label>
+    <Category.label>kategoria</Category.label>
     
-    <Quality.label>quality</Quality.label>
+    <Quality.label>laatu</Quality.label>
     
-    <HitPointsPercentage.label>hit points percentage</HitPointsPercentage.label>
+    <HitPointsPercentage.label>osumapisteiden määrä</HitPointsPercentage.label>
     
 </LanguageData>
