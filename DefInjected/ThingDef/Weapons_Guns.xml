@@ -26,15 +26,15 @@
     <Gun_SniperRifle.label>tarkka-ampuja-ase</Gun_SniperRifle.label>
     <Gun_SniperRifle.description>Muinaisen kaavan mukainen armeijan tarkka-ampuja-ase. Pulttilukko. Pitkä kantama, mahtava tarkkuus ja teho.</Gun_SniperRifle.description>
     
-    <Bullet_PDW.label>Konepistoolin luoti</Bullet_PDW.label>
+    <Bullet_PDW.label>konepistoolin luoti</Bullet_PDW.label>
     
     <Gun_PDW.label>konepistooli</Gun_PDW.label>
     <Gun_PDW.description>Muinaisen kaavan konepistooli. Lyhyt kantama, matala teho ja nopea ampumisnopeus.</Gun_PDW.description>
     
-    <Bullet_HeavySMG.label>raskaan konepistoolin bullet</Bullet_HeavySMG.label>
+    <Bullet_HeavySMG.label>raskaan konepistoolin luoti</Bullet_HeavySMG.label>
     
     <Gun_HeavySMG.label>raskas konepistooli</Gun_HeavySMG.label>
-    <Gun_HeavySMG.description>Pienikokoinen mutta suurikaliiberinen ase. Erittäin lyhyt kantama mutta aiheuttaa paljon vahinkoa ja helppo käsitellä.</Gun_HeavySMG.description>
+    <Gun_HeavySMG.description>Pienikokoinen mutta suurikaliiberinen ase. Sillä on erittäin lyhyt kantama, mutta se aiheuttaa paljon vahinkoa ja on helppo käsitellä.</Gun_HeavySMG.description>
     
     <Bullet_IncendiaryLauncher.label>polttonuoli</Bullet_IncendiaryLauncher.label>
     
