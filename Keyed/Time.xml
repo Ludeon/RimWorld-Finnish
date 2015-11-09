@@ -20,16 +20,16 @@
   <DaysHours>{0} päivää, {1} tuntia</DaysHours>
 
   <!-- Date periods -->
-  <Period1Month>1 month</Period1Month>
-  <PeriodMonths>{0} months</PeriodMonths>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+  <Period1Month>1 kuukausi</Period1Month>
+  <PeriodMonths>{0} kuukautta</PeriodMonths>
+  <Period1Day>1 päivä</Period1Day>
+  <PeriodDays>{0} päivää</PeriodDays>
+  <Period1Hour>1 tunti</Period1Hour>
+  <PeriodHours>{0} tuntia</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
+  <Started>Alkoi</Started>
+  <Lasted>Kesti</Lasted>
   
   
 </LanguageData>

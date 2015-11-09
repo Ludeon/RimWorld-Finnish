@@ -33,15 +33,15 @@
 
   <MessageOutOfNearbyShellsFor>{0} ei löytänyt lähistöltä varaamattomia ammuksia kohteeseen {1}.</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>Warning: {0}s will often attack when harmed.</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>Warning: {0}s may attack upon a failed taming attempt ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalsGoPsychoHunted>Varoitus: {0} hyökkää yleensä uhattuna.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Varoitus: {0} saattaa hyökätä epäonnistuneen kesytysyrityksen takia (todennäköisyys {1}).</MessageAnimalManhuntsOnTameFailed>
 
   <LetterLabelMessageRecruitSuccess>Uusi jäsen</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitSuccess>
 	<MessageRecruitFail>{0} epäonnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitFail>
-	<MessageRecruitFailBecauseMood>{0} failed to recruit {1} (prisoner below {2} mood).</MessageRecruitFailBecauseMood>
-  <MessageTameSuccess>{0} successfully tamed {1} ({2} chance).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} successfully tamed {1} ({2} chance) and named it {3}.</MessageTameAndNameSuccess>
+	<MessageRecruitFailBecauseMood>{0} epäonnsitui vangin {1} värväämisessä (vaingin mieliala alle {2}).</MessageRecruitFailBecauseMood>
+  <MessageTameSuccess>{0} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}) ja antoi sille nimeksi {3}.</MessageTameAndNameSuccess>
 
 
   <MessageColonyCannotAfford>Yhdyskunnalla ei ole varaaa tähän kauppaan.</MessageColonyCannotAfford>
@@ -55,14 +55,14 @@
   <MessageMustDesignateHaulable>Pitää määrittää kuljetettavia tavaroita.</MessageMustDesignateHaulable>
   <MessageMustDesignateMineable>Pitää määrittää läpäisemätöntä louhimiskelpoista kiveä.</MessageMustDesignateMineable>
   <MessageMustDesignateHuntable>Pitää määrittää metsästämiskelpoisia eläimiä.</MessageMustDesignateHuntable>
-  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>Pitää määrittää kesytettäviä eläimiä.</MessageMustDesignateTameable>
   <MessageMustDesignateClaimable>Pitää määrittää hylättyjä keinotekoisia rakennelmia.</MessageMustDesignateClaimable>
   <MessageMustDesignateSmoothableFloor>Pitää määrittää karkeaa kivilattiaa.</MessageMustDesignateSmoothableFloor>
-  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
-  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
-  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
-  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
-  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
+  <MessageNothingCanRemoveThickRoofs>Mikään ei voi poistaa paksuja kattoja.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>Tämä on jo varastossa ja siirretään tarvittaessa korkean prioriteetin varastoon.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Täytyy määrittää ruumis tai maassa oleva henkilö jolla on riisuttavia vaatteita.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Täytyy määrittää kesy eläin joka kuuluu yhdyskunnalle.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Täytyy määrittää täysiä hautoja tai säilöjä.</MessageMustDesignateOpenable>
 
   <MessageRefusedArrest>{0} vastusti pidätystä!</MessageRefusedArrest>
   
@@ -77,16 +77,16 @@
   <MessageMedicalOperationFailureCatastrophic>{0} epäonnistui katastrofaalisesti operoidessaan potilasta {1}.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} epäonnistui hieman operoidessaan potilasta {1}.</MessageMedicalOperationFailureMinor>
 
-  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Tämä lääkintäoperaatio vihastuttaa ryhmän {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
+  <MessagePawnExitMapRelationsGain>Koska {0} poistui alueelta terveenä, suhteesi ryhmän {1} kanssa ovat parantuneet {2}.</MessagePawnExitMapRelationsGain>
 
-  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
-  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
-  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+  <MessageMiscarriedStarvation>{0} epäonnistui synnytyksessä nälänhädän vuoksi.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} epäonnistui synnytyksessä huonon terveydentilan vuoksi.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} on synnyttänyt.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{0} antoi eläimelle {1} nimeksi {2} kun se kiehnäsi häntä.</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Mikään eläintenkäsittelijä ei voi kesyttää eläintä {0} (tarvitsee tason {1} taidossa {2}, parhaalla käsittelijällä {3} on {4}).</MessageNoHandlerSkilledEnough>
   
 </LanguageData>

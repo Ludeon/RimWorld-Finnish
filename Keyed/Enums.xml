@@ -66,27 +66,27 @@
   <Hilliness_Mountainous>Vuoristoinen</Hilliness_Mountainous>
   
   <!-- Steam workshop interaction -->
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <WorkshopInteractStage_CreatingItem>Luodaan</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Julkaistaan</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Kelvoton</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Valmistellaan konfiguraatiodataa</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Valmistellaan sisältötiedostoja</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Ladataan sisältöjä palvelimelle</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Ladataan esikatselutiedostoa palvelimelle</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Tehdään muutoksia</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>None</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>Simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>Intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>Advanced</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_None>Ei mikään</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>Yksinkertainen</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>Keskinkertainen</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>Kehittynyt</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Normal medicine or worse</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Best quality medical care</MedicalCareCategory_Best>
+  <MedicalCareCategory_NoCare>Ei lääkintää</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Lääkärit pitävät huolta, mutta eivät käytä lääketarpeita</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Yrttilääkkeitä tai huonompia</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Normaaleja lääketarpeita tai huonompia</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Parhaan laadun lääkintää</MedicalCareCategory_Best>
 
 
 

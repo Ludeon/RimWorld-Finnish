@@ -6,7 +6,7 @@
     <Architect.label>arkkitehti</Architect.label>
     <Architect.description>Määrää minne ja mitä yhdyskuntalaisten tulisi rakentaa, viljellä, varastoida ja niin edespäin.</Architect.description>
     
-    <Work.label>työ</Work.label>
+    <Work.label>työnteko</Work.label>
     <Work.description>Valitse kuka yhdyskuntalainen tekee minkälaista työtä ja missä tärkeysjärjestyksessä.</Work.description>
     
     <Restrictions.label>rajoitukset</Restrictions.label>

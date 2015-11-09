@@ -34,11 +34,11 @@
 
   <CommandBedSetOwnerLabel>Aseta omistaja</CommandBedSetOwnerLabel>
   <CommandBedSetOwnerDesc>Aseta tämä sänky tietylle yhdyskuntalaiselle.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
-  <CommandGraveSetToUnassignedLabel>Set to unassigned</CommandGraveSetToUnassignedLabel>
-  <CommandGraveSetToUnassignedDesc>Set this grave to be unassigned to anybody.</CommandGraveSetToUnassignedDesc>
-  <BuildingAssign>Assign</BuildingAssign>
+  <CommandGraveAssignColonistLabel>Aseta yhdyskuntalainen</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Aseta tämä hauta tietyn yhdyskuntalaisen omistukseen.</CommandGraveAssignColonistDesc>
+  <CommandGraveSetToUnassignedLabel>Poista asetus</CommandGraveSetToUnassignedLabel>
+  <CommandGraveSetToUnassignedDesc>Poista tämän haudan asetus tietylle henkilölle.</CommandGraveSetToUnassignedDesc>
+  <BuildingAssign>Aseta</BuildingAssign>
   <CommandBedSetForPrisonersLabel>Aseta vangeille</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Aseta tämän huoneen sängyt vankien käyttöön.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Ulkona olevia sänkyjä ei voi asettaa vangeille.</CommandBedSetForPrisonersFailOutdoors>
@@ -65,14 +65,14 @@
   <CommandDeleteZoneLabel>Poista</CommandDeleteZoneLabel>
   <CommandDeleteZoneDesc>Poista tämä alue.</CommandDeleteZoneDesc>
 
-  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsLabel>Kopioi asetukset</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Kopioi tämän alueen asetukset leikepöydälle niin että voit liittää ne toiselle alueelle.</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsLabel>Liitä asetukset</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Korvaa tämän alueen asetukset aikaisemmin leikepöydälle kopioiduilla.</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>Allow sowing</CommandAllowSow>
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>  
+  <CommandAllowSow>Salli kylväminen</CommandAllowSow>
+  <CommandAllowSowDesc>Kun tämä on pois käytöstä, yhdyskuntalaiset eivät koskaan kylvä kasveja tälle alueelle. He korjaavat silty yhä sadon.</CommandAllowSowDesc>  
   
   <!-- Artillery -->
   <CommandSetForceAttackTarget>Aseta pakotettu kohde</CommandSetForceAttackTarget>
@@ -97,10 +97,10 @@
   <CommandPodEjectFailEmpty>Ei sisällä ketään.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
-  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
-  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorForbid>Käynti kielletty</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Kun ovi on asetettu kielletyksi, yhdyskuntalaiset ja liittolaiset eivät mene sen läpi. Tällä ei ole vaikutusta siihen mitä viholliset ja eläimet tekevät oven kanssa.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Pidä auki</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>Käytössä ollessa yhdyskuntalaisesi eivät sulje ovea sen läpi käynnin jälkeen.</CommandToggleDoorHoldOpenDesc>
 
 
   <!-- Temperature control -->
@@ -122,12 +122,12 @@
   <CommandSunLampMakeGrowingZoneLabel>Luo kasvatusalue</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
-  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
-  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
+  <CommandAutoRearm>Automaattinen uudelleenviritys</CommandAutoRearm>
+  <CommandAutoRearmDesc>Jos tämä on päällä, tämä ansa tullaan automaattisesti asettamaan viritettäväksi uudelleen kun se laukeaa.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
-  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsLabel>Vapauta eläimet</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Kun tämä on päällä, hallussa olevat eläimet lasketaan vapaaksi hyökkäämään etäällä olevia vihollisia vastaan. Kun tämä on pois päältä, eläimet pysyttelevät lähettyvillä ja suojelevat isäntäänsä.</CommandReleaseAnimalsDesc>
 
 
 </LanguageData>

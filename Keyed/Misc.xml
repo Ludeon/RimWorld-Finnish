@@ -17,7 +17,7 @@
   <VersionIndicator>Versio {0}</VersionIndicator>
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
   <CompiledOn>Laadittu {0}</CompiledOn>
-  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <LoggedIntoSteamAs>Kirjautunut Steamiin nimellä {0}</LoggedIntoSteamAs>
 
 
   <!-- Content generation-->
@@ -49,9 +49,9 @@
 
   <!-- To express ownership. -->
   <!-- For example Jack's Bedroom -->
-  <SomeonesSomething>{0}'s {1}</SomeonesSomething>
+  <SomeonesSomething>Henkilön {0} {1}</SomeonesSomething>
 
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(erilaisia)</VariousLabel>
 
   <!-- History events -->
   <ColonistDied>Yhdyskuntalainen kuoli</ColonistDied>

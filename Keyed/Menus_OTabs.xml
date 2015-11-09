@@ -6,7 +6,7 @@
   <WorkTab>Työnteko</WorkTab>
   <OutfitsTab>Vaatekerrat</OutfitsTab>
   <RestrictionsTab>Rajoitukset</RestrictionsTab>
-  <AnimalsTab>Animals</AnimalsTab>
+  <AnimalsTab>Eläimet</AnimalsTab>
   <FactionsTab>Ryhmät</FactionsTab>
   <StatisticsTab>Tilastot</StatisticsTab>
   <HistoryTab>Historia</HistoryTab>
@@ -35,7 +35,7 @@
   <AllowedArea>Sallittu alue</AllowedArea>
   
   <!-- Animals tab -->
-  <Master>Master</Master>
+  <Master>Isäntä</Master>
   
   <!-- Factions tab -->
   <Hostile>Vihamielinen</Hostile>

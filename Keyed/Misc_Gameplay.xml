@@ -9,7 +9,7 @@
   <ForColonistUse>Yhdyskuntalaisten käyttöön</ForColonistUse>
   <MedicalBed>Lääkitsemiseen</MedicalBed>
   <Owner>Omistaja</Owner>
-  <AssignedColonist>Assigned colonist</AssignedColonist>
+  <AssignedColonist>Asetettu yhdyskuntalainen</AssignedColonist>
   <Nobody>Ei kukaan</Nobody>
   <Unowned>Omistamaton</Unowned>
   <DeadTime>Kuollut {0}</DeadTime>
@@ -33,7 +33,7 @@
   <Inventory>Omaisuudet</Inventory>
   <ThingInfo>Tietoja</ThingInfo>
   <DropThing>Pudota</DropThing>
-  <Rename>Rename</Rename>
+  <Rename>Nimeä uudelleen</Rename>
   <RenameColonist>Nimeä yhdyskuntalainen uudelleen</RenameColonist>
   <UnknownLower>tuntematon</UnknownLower>
   <On>Päällä</On>
@@ -41,36 +41,36 @@
   <PowerSwitch_Power>Virta</PowerSwitch_Power>
   <JoyTolerances>Kyllästyminen huvitteluun</JoyTolerances>
   <BrokenLetterLabel>Murtunut</BrokenLetterLabel>
-  <MilkFullness>Milk fullness</MilkFullness>
-  <WoolGrowth>Wool growth</WoolGrowth>
-  <EggProgress>Egg progress</EggProgress>
-  <Fertilized>Fertilized</Fertilized>
-  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+  <MilkFullness>Maidon täyttävyys</MilkFullness>
+  <WoolGrowth>Villan kasvu</WoolGrowth>
+  <EggProgress>Munan kehittyminen</EggProgress>
+  <Fertilized>Hedelmöitytetty</Fertilized>
+  <SkillTooLow>tarvitsee tason {2} taidossa {0}, nykyinen taso {1}</SkillTooLow>
   
   <!--TextMotes-->
   <Headshot>Osuma päähän</Headshot>
-  <TreatQuality>treat quality {0}</TreatQuality>
-  <PoorResult>poor result</PoorResult>
-  <GoodResult>good result</GoodResult>
-  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
-  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
-  <HarvestFailed>Harvest\nfailed</HarvestFailed>
-  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
-  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
-  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
-  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+  <TreatQuality>hoidon laatu {0}</TreatQuality>
+  <PoorResult>kehno tulos</PoorResult>
+  <GoodResult>hyvä tulos</GoodResult>
+  <TextMote_TreatSuccess>Hoito onnistui!\n{0} todennäköisyys</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Hoito epäonnistui\n{0} todennäköisyys</TextMote_TreatFailed>
+  <HarvestFailed>Sadonkorjuu\nepäonnistui</HarvestFailed>
+  <TextMote_TameFail>Kesytys epäonnistui\n{0} todennäköisyys</TextMote_TameFail>
+  <TextMote_TameSuccess>Kesytetty!\n{0} todennäköisyys</TextMote_TameSuccess>
+  <TextMote_TrainFail>Koulutus epäonnistui: {0}\n{1} todennäköisyys</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Koulutettu: {0}\n{1} todennäköisyys</TextMote_TrainSuccess>
 
 
   <!-- Areas -->
-  <Home>Home</Home>
-  <NoRoof>No roof</NoRoof>
-  <SnowClear>Snow clear</SnowClear>
-  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
-  <NoAreaAllowed>Unrestricted</NoAreaAllowed>
-  <NewArea>New area</NewArea>
-  <NewAreaAnimal>New animal area</NewAreaAnimal>
-  <InvertArea>Invert</InvertArea>
+  <Home>Koti</Home>
+  <NoRoof>Ei kattoa</NoRoof>
+  <SnowClear>Lumenkolaus</SnowClear>
+  <AreaDefaultLabel>Alue {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Eläinten alue {0}</AreaAnimalDefaultLabel>
+  <NoAreaAllowed>Rajoittamaton</NoAreaAllowed>
+  <NewArea>Uusi lue</NewArea>
+  <NewAreaAnimal>Uusi eläinten alue</NewAreaAnimal>
+  <InvertArea>Käänteinen alue</InvertArea>
   
   <!-- Control -->
   <CannotOrderNonControlled>Ei voi antaa määräyksiä hallitsemattomille yksiköille.</CannotOrderNonControlled>
@@ -96,18 +96,18 @@
 	<ReportHauling>Kuljettamassa: {0}.</ReportHauling>
   <ReportSleeping>Nukkumassa.</ReportSleeping>
   <ReportResting>Lepää.</ReportResting>
-  <WatchingSunrise>Watching the sunrise</WatchingSunrise>
-  <CloudWatching>Cloudwatching</CloudWatching>
-  <WatchingSunset>Watching the sunset</WatchingSunset>
-  <Stargazing>Stargazing</Stargazing>
-  <WatchingEclipse>Watching the eclipse</WatchingEclipse>
-  <DeliveringFood>Delivering food to {0}.</DeliveringFood>
-  <UsingVerb>Using {0} on {1}.</UsingVerb>
-  <AreaLower>area</AreaLower>
+  <WatchingSunrise>Katselee auringonnousua</WatchingSunrise>
+  <CloudWatching>Katselee pilviä</CloudWatching>
+  <WatchingSunset>Katselee auringonlaskua</WatchingSunset>
+  <Stargazing>Katselee tähtiä</Stargazing>
+  <WatchingEclipse>Katselee auringonpimennystä</WatchingEclipse>
+  <DeliveringFood>Tuomassa ruokaa henkilölle {0}.</DeliveringFood>
+  <UsingVerb>Käyttää esinettä {0} kohteeseen {1}.</UsingVerb>
+  <AreaLower>alue</AreaLower>
 
 	<!-- Shooting report -->
   <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
-	<ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
+	<ShootReportShooterAbility>Ampuja</ShootReportShooterAbility>
 	<ShootReportWeapon>Ase</ShootReportWeapon>
 	<Darkness>Pimeys</Darkness>
 	<TargetProne>Kohde makuulla</TargetProne>
@@ -130,12 +130,12 @@
 
   <!-- Pawn info readout -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>ryhmän {1} {0}</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <Faction>Ryhmä</Faction>
   <Equipped>Varuste</Equipped>
   <EquippedNothing>Ei mitään</EquippedNothing>
-  <Incapacitated>Työkyvytön</Incapacitated>
+  <Incapacitated>Lamantunut</Incapacitated>
   <InRestraints>Kahleissa (hidastunut)</InRestraints>
   <Carrying>Kantaa</Carrying>
   
@@ -228,10 +228,10 @@
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Alueiden näkyvyys.</ZoneVisibilityToggleButton>
   <ShowBeautyToggleButton>Aseta päälle kauneusnäkymä.\n\nNäyttää ympäristön kauneuden kuten kursorin kohdalla seisova hahmo sen näkisi.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>Aseta päälle huoneiden tilastojen näyttäminen.\n\nNäyttää tietoja huoneesta, jonka päällä kursori on.</ShowRoomStatsToggleButton>
   <AutoHomeAreaToggleButton>Laajenna kotialuetta automaattisesti uusien rakennusten ympärille.</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Aseta luokiteltu materiaalivalikko päälle tai pois.</CategorizedResourceReadoutToggleButton>
-  <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Aseta päälle kesyjen eläinten nimien näyttäminen.</ShowAnimalNamesToggleButton>
 
   <!-- Fire -->
   <Fire>Tulipalo</Fire>
@@ -274,7 +274,7 @@
   <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
   
   <!-- Artifact -->
-  <UseArtifact>Activate</UseArtifact>
+  <UseArtifact>Aktivoi</UseArtifact>
   
   <!-- Minification -->
   <Installed>Asennettu</Installed>
@@ -312,12 +312,12 @@
   <LifespanExpiry>Menee vanhaksi:</LifespanExpiry>
 
   <!-- Traps -->
-  <TrapArmed>Armed</TrapArmed>
-  <TrapNotArmed>Not armed</TrapNotArmed>
-  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
+  <TrapArmed>Viritetty</TrapArmed>
+  <TrapNotArmed>Virittämätön</TrapNotArmed>
+  <TrapRearmingCost>Virittämiskustannukset: {0}</TrapRearmingCost>
   
   <!-- Facilities -->
-  <InactiveFacility>inactive</InactiveFacility>
+  <InactiveFacility>pois käytöstä</InactiveFacility>
   
 
 </LanguageData>

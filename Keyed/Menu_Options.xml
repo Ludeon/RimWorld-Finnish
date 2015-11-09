@@ -5,7 +5,7 @@
   <Audiovisuals>Äänet ja kuva</Audiovisuals>
   <GameVolume>Peliäänien voimakkuus</GameVolume>
   <MusicVolume>Musiikin voimakkuus</MusicVolume>
-  <Antialiasing>Anti-aliasing</Antialiasing>
+  <Antialiasing>Reunanpehmennys</Antialiasing>
   
   <!-- Gameplay -->
   <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
@@ -18,13 +18,13 @@
   <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
   <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
   <DevelopmentMode>Kehitystila</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Restoi modit kaatumisen jälkeen</ResetModsConfigOnCrash>
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen sukunimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
-  <AutosaveInterval>Automaattitallennuksen aikaväli</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
+  <AutosaveInterval>Automaattitallennus</AutosaveInterval>
+  <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
   
   <!-- Resolution -->
   <Resolution>Resoluutio</Resolution>

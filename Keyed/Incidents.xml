@@ -3,7 +3,7 @@
 
   <LetterLabelAnimalInsanitySingle>Hullu eläin</LetterLabelAnimalInsanitySingle>
   <AnimalInsanitySingle>Paikallinen {0} on tullut hulluksi. Se hyökkää jokaisen näkemänsä kimppuun.</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>Mad animals!</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>Hulluja eläimiä!</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>Jonkinlainen psyykkinen aalto on pyyhkinyt alueen yli. Yhdyskuntalaisesi ovat kunnossa, mutta...\n\nNäyttää siltä että moni alueen {0} on tullut hulluksi siitä.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Vitsaus</LetterLabelCropBlight>
@@ -14,7 +14,7 @@
 
   <!-- Enemy raids -->
   <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut pudotusaluksilla lähistölle.</EnemyRaidEdgeDrop>
+  <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut laskeutumiskapseleissa lähistölle.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
 
   <!-- Friendly raids -->
@@ -22,8 +22,8 @@
   <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
 
-  <LetterLabelRefugeePodCrash>Pakosäiliö</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>Olet huomannut pakoaluksen putoavan lähistöllesi.\n\nJos joku selvisi törmäyksestä, hän olisi vakavasti haavoittunut.</RefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Pakokapselin</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Olet huomannut pakokapselin putoavan lähistöllesi.\n\nJos joku selvisi törmäyksestä, hän olisi vakavasti haavoittunut.</RefugeePodCrash>
 
   <LetterLabelCargoPodCrash>Varastosäiliöitä</LetterLabelCargoPodCrash>
   <CargoPodCrash>Olet huomannut rykelmän pieniä rahtikapseleita putoavan lähistölle.\n\nEhkä löydät niistä jotain hyödyllistä.</CargoPodCrash>
@@ -47,8 +47,8 @@
   <LetterLabelWandererJoin>Kulkuri liittyy</LetterLabelWandererJoin>
   <WandererJoin>Eräs {0} nimeltään NAME on saapunut ja liittyy yhdyskuntaasi. HECAP on {1}.</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days..</ManhunterPackArrived>  
+  <LetterLabelManhunterPackArrived>Ihmisjahtaajia</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>{0}lauma on saapunut alueelle ja ne jahtaavat ihmisiä. Ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät voi kulkea ovista, joten sinun pitäisi olla turvassa jos pysyt seinien sisällä. Ne eivät hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi jos haluat säästää ne.\n\nNe lähtevät alueelta parin päivän päästä.</ManhunterPackArrived>  
   
   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut spyykkisen pulssin mikä on ajanut kaikki läheiset eläimet hulluiksi.</MessageAnimalInsanityPulse>
@@ -70,31 +70,31 @@
   <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
   <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.</LetterIncidentPsychicDrone>
 
-  <LetterLabelPsychicSoothe>Psychic soothe</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better.</LetterIncidentPsychicSoothe>
+  <LetterLabelPsychicSoothe>Psyykkinen rauhoitus</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Jokainen sukupuolta {0} edustava yhdyskuntalainen hymyilee onnessaan!\n\nJokin etäinen onnellisuuskone hyrrää. Se lähettää voimakasta psyykkistä säteilyä koko alueen ylle taajuudella joka tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon parempi.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Majavia!</LetterLabelBeaversArrived>
   <BeaversArrived>Ryhmä nälkäisiä alfamajavia on juuri saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puun.</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
+  <RefugeeChasedInitial>{1} nimeltään {0} kutsuu sinua lähistöltä. Häntä jahtaa {2} tukikohdasta {3}!\n\nHECAP anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. Hänen biologinen ikänsä on {4}.\n\nOle varuillasi - jos hyväksyt, joudut taistelemaan HIS kannoillaan olevia {2} vastaan.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Jätä viesti huomiotta</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} huutaa kauhuissaan särisevästä kaiuttimesta ennen kuin katkaiset lähetyksen.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} self-tamed</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0} has become tame.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} has become tame. It is now designated {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {1}.</LetterAnimalSelfTameAndName>
+  <LetterLabelAnimalSelfTame>{0} kesyyntyi itsestään</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>Eläimestä {0} on tullut kesy.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>Eläimestä {0} on tullut kesy. Sen nimitys on nyt {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>Eläimestä {0} on tullut kesy. Yhdyskuntalaiset antoivat sille nimeksi {1}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0}s join</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0}lauma liittyy</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Hylätty tai eksynyt {0}lauma on kuljeutunut alueelle.\n\nNe näyttävät tottuneilta ihmiskontaktiin ja liittyvät yhdyskuntaan.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+  <LetterLabelThrumboPasses>Harvinaisia thrumboja</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Pieni lauma thrumboja on kuljeutunut alueelle.\n\nNe ovat luonnostaan rauhantahtoisia, mutta nämä harvinaiset oliot ovat äärimmäisen vaarallisia uhmattuina. Jotkin vaihtokauppiaat haluavat maksaa paljon rahaa niiden arvokkaasta nahasta ja sarvesta.\n\nThrumbot lähtevät alueelta muutamassa päivässä.</LetterThrumboPasses>
 
 </LanguageData>

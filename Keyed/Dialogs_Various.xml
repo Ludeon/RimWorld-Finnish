@@ -8,8 +8,8 @@
   <OK>OK</OK>
   
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>Palauduttiin epäyhteensopivista tai vioittuneista modivirheistä</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Näyttää siltä, että jotkin käytössä olevista modeista aiheuttivat virheitä.\n\nNe olivat epäyhteensopivia toistensa kanssa, suunniteltu toiselle RimWorldin versiolle tai vioittuneita.\n\nKaikki modit on otettu pois käytöstä ja voidaan ottaa uudelleen käyttöön modivalikosta.</RecoveredFromErrorsText>
   
   <!-- Save/load -->
   <SaveGameButton>Tallenna</SaveGameButton>
@@ -20,11 +20,11 @@
   <SavedAs>Tallennettu nimellä {0}.</SavedAs>
   <NeedAName>Anna nimi.</NeedAName>
   <LoadingLongEvent>Ladataan...</LoadingLongEvent>
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}</ProblemSavingFile>
+  <SaveIsFromDifferentGameVersion>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on täysin eri versio.\n\nTämän datan lataaminen ei luultavasti tule toimimaan.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on eri koontiversiosta.\n\nTämän datan lataamisen pitäisi silti toimia.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Tallennustiedosto on tehty tämän pelin versiolla ja pitäisi toimia ongelmia.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Tallennusdata on tuntematonta formaattia eikä lähes varmasti tule latautumaan oikein.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Tiedoston {0} tallentamisessa oli ongelma:\n\n{1}</ProblemSavingFile>
   
   <!-- Colony naming-->
   <NameColonyMessage>Näyttää siltä, että joudutte olemaan täällä kauan. {0} ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
@@ -32,8 +32,8 @@
   <ColonyNameIsInvalid>Tuo yhdyskunnan nimi ei ole kelvollinen.</ColonyNameIsInvalid>
 
   <!-- Renaming -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
+  <NameIsInvalid>Ole hyvä ja syötä kelvollinen nimi.</NameIsInvalid>
+  <NameIsInUse>Nimi on jo käytössä.</NameIsInUse>
   <ZoneGainsName>Aluetta kutsutaan nyt nimellä {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
@@ -43,8 +43,8 @@
   <VersionMismatch>Versio yhteensopimaton</VersionMismatch>
   <SaveGameIncompatibleWarningText>Kenttä tallennettiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>Maailma luotiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\nTämän maailman lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia. Suosittelemme, että luot uuden maailman.</WorldFileVersionMismatch>
-  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningTitle>Modien eroavuus</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Kartta tallennettiin eri kokoelmalla modeja käytössä kuin nykyiset käytössä olevat. Tämä saatta ehkä aiheuttaa ongelmia riippuen siitä, mitä modit tekevät.\n\nKartta tallennettiin näillä modeilla (tässä järjestyksessä):\n\n{0}\n\nKäytössä olevat modit ovat:\n\n{1}</ModsMismatchWarningText>
   
   <!-- Resolution change dialog -->
   <ConfirmResolutionChange>Vaihdoit resoluutiota. Toimiiko uusi kunnolla?\n\nAutomaattinen palautus {0}...</ConfirmResolutionChange>
@@ -90,7 +90,7 @@
   <WorkAmount>Työn määrä</WorkAmount>
   <MinimumSkills>Minimitaito:</MinimumSkills>
   <BillRequires>Tarvitsee {0} kategoriasta {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
+  <BillRequiresNutrition>Tarvitsee ravinnemäärän {0}</BillRequiresNutrition>
   <BillRequiresMayVary>(Määrä saattaa vaihdella esineillä, joilla on epästandardi koko, kuten kullalla.)</BillRequiresMayVary>
   <ThisIsSmallVolume>Tämä on pienikokoinen ainesosa. Tämä tarkoittaa sitä, että jokainen 'yksikkö' on vain 1/20 normaalikokoisen ainesosan määrästä. Siten täyttääksesi saman ainesosavaatimuksen tarvitset 20 kertaa suuremman määrän.</ThisIsSmallVolume>
   <UsableIngredients>käytettävät ainekset</UsableIngredients>
@@ -126,14 +126,14 @@
   <FoodQuality>Ruuan laatu</FoodQuality>
   <WalkSpeedProperty>Kävelynopeus</WalkSpeedProperty>
   <MinFoodQuality>Min. ruoan laatu</MinFoodQuality>
-  <Diet>Dieetti</Diet>
+  <Diet>Ruokavalio</Diet>
   <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
   <MarketValue>Perushinta</MarketValue>
   <Covers>Suojaa</Covers>
   <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
-  <MoodChange>Mood change</MoodChange>
-  <Wildness>Wildness</Wildness>
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
+  <MoodChange>Vaikutus mielialaan</MoodChange>
+  <Wildness>Villiys</Wildness>
+  <WildnessExplanation>Villimpiä eläimiä on luonnostaan vaikeampi kesyttää, kouluttaa ja käsitellä.</WildnessExplanation>
   
   <!-- Trade -->
   <DragToTrade>Vedä vaihtaaksesi</DragToTrade>
@@ -151,8 +151,8 @@
   <ColonyHasNoMore>Sinulla ei ole enempää.</ColonyHasNoMore>
   <TraderWillNotTrade>Vaihtokauppias ei suostu vaihtamaan tällaisia tavaroita.</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Neuvottelijasi {0} ei pysty puhumaan kunnolla huonon terveyden vuoksi.\n\nTällä on vaikutusta vaihtohintoihin.\n\nHarkitse terveemmässä kunnossa olevan neuvottelijan käyttöä.</NegotiatorTalkingImpaired>
-  <ConfirmTraderShortFunds>Vaihtokauppiaalla ei ole tarpeeksi hopeaa kauppaa varten.  Jatka silti?</ConfirmTraderShortFunds>
-  <SortBy>Sort by</SortBy>
+  <ConfirmTraderShortFunds>Vaihtokauppiaalla ei ole tarpeeksi hopeaa kauppaa varten. Jatka silti?</ConfirmTraderShortFunds>
+  <SortBy>Järjestä</SortBy>
 
   <!-- Comms -->
   <SocialSkillIs>Sosiaaliset taidot: {0}</SocialSkillIs>

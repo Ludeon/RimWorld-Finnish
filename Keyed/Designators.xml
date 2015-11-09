@@ -11,7 +11,7 @@
   <DesignatorDeconstructDesc>Pura rakennuksia ja kierrätä osa niihin käytetyistä resursseista.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Poista</DesignatorUninstall>
-  <DesignatorUninstallDesc>Poistaa tämän asetelman jotta sen voi siirtää, myydä tai asentaa muualle.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Poistaa tämän kalusteen jotta sen voi siirtää, myydä tai asentaa muualle.</DesignatorUninstallDesc>
 
   <DesignatorHarvest>Korjaa sato</DesignatorHarvest>
   <DesignatorHarvestDesc>Merkitse kasvit joista ruokaa kerätään. Ruoka kerätään kasvista, mutta kasvi jätetään paikoilleen.</DesignatorHarvestDesc>
@@ -81,13 +81,13 @@
   <DesignatorRearmTrapDesc>Viritä lauennut ansa uudelleen jotta se voi laueta jälleen.</DesignatorRearmTrapDesc>
 
   <DesignatorOpen>Avaa</DesignatorOpen>
-  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+  <DesignatorOpenDesc>Avaa täytettyjä hautoja tai säiliöitä.</DesignatorOpenDesc>
   
   <DesignatorSlaughter>Tapa</DesignatorSlaughter>
   <DesignatorSlaughterDesc>Tapa kesy eläin.</DesignatorSlaughterDesc>
 
-  <DesignatorTame>Tame</DesignatorTame>
-  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+  <DesignatorTame>Kesytä</DesignatorTame>
+  <DesignatorTameDesc>Kesytä villi eläin.</DesignatorTameDesc>
   
   
   <!-- Failure messages -->

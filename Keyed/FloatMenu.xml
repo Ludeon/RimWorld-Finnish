@@ -31,13 +31,13 @@
   <AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
   <MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
   <MissingSkill>taitotaso liian matala</MissingSkill>
-  <NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
+  <NoEmptyGraveLower>ei ole tyhjää hautaa määritelty sen varastointiin</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>eläin on vuorovaikuttanut liian äskettäin</AnimalInteractedTooRecently>
+  <NoUsableFood>ei käyttökelpoista ruokaa</NoUsableFood>
+  <AnimalsSkillTooLow>Eläimen taitotaso liian matala</AnimalsSkillTooLow>
   
-  <ConsumeThing>Syö {0}</ConsumeThing>
-  <Teetotaler>teetotaler</Teetotaler>
+  <ConsumeThing>Syö/juo {0}</ConsumeThing>
+  <Teetotaler>absolutisti</Teetotaler>
   
   
   <CannotGoNoPath>Ei voi mennä tänne (ei reittiä)</CannotGoNoPath>

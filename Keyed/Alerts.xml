@@ -36,9 +36,9 @@
   <LowFood>Vähän ruokaa</LowFood>
   <LowFoodDesc>Sinulla on vain {0} täyden palkin edestä ruokaa varastossa. Tämä on vaarallisen vähän.\n\nKasvata, osta, etsi tai tapa jotain syötävää.</LowFoodDesc>
 
-  <LowMedicine>Low medicine</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicine>Vähän lääketarpeita</LowMedicine>
+  <LowMedicineDesc>Sinulla on vain {0} lääketarvetta jäljellä varastossa.\n\nOsta lisää lääketarpeita vaihtokauppiailta.</LowMedicineDesc>
+  <NoMedicineDesc>Sinulla ei ole yhtään lääketarpeita jäljellä varastossa.\n\nOsta lisää lääketarpeita vaihtokauppiailta.</NoMedicineDesc>
 
   <NeedColonistBeds>Tarvitset sängyn yhdyskuntalaisille</NeedColonistBeds>
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
@@ -100,7 +100,7 @@
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
+  <AlertHypothermia>Hypotermia</AlertHypothermia>
   <AlertHypothermiaDesc>Nämä yhdyskuntalaiset kärsivät hypotermiasta.\n\n{0}\nVarmista, että heidän vaatetuksensa on vuodenaikaan sopiva ja että sisätilat ovat lämmitettyjä.</AlertHypothermiaDesc>
 
   <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
@@ -116,7 +116,7 @@
   <BilliardsNeedsSpace>Biljardipöytä tarvitsee tilaa</BilliardsNeedsSpace>
   <BilliardsNeedsSpaceDesc>Biljardipöytäsi on jonkin esteen vieressä, joka estää yhdyskuntalaisasi pelaamasta.\n\nBiljardipöytä tarvitsee tyhjää tilaa joka puolella ollakseen käyttökelpoinen.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Metsästäjällä on suojakilpi ja ampuma-ase</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Erääs metsästäjäsi käyttää ampuma-asetta ja hänellä on päällään henkilökohtainen suojakilpi, joka estää ampumisen.\n\nHe eivät voi metsästää ellei suojaakilpeä poisteta.</HunterHasShieldAndRangedWeaponDesc>
 
 </LanguageData>

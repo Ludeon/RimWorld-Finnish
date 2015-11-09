@@ -45,22 +45,22 @@
   <GenerateWorld>Luo maailma</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <OpenSteamWorkshop>Avaa Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Hanki modeja foorumilta</GetModsFromForum>
   <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Oletko varma että haluat poistaa ytimen modin? Peli ei toimi ellei sinulla ole toista modia mikä korvaa kaikki ytimen keskinäiset toiminnot.\n\nMuista, muut modit voivat kumota def:ejä ytimen modissa käyttämällä samaa defName:a.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <ConfirmDeleteMod>Oletko varma että haluat poistaa kaiken modin {0} sisällön?</ConfirmDeleteMod>
+  <Unsubscribe>Poista tilaus</Unsubscribe>
+  <ConfirmUnsubscribe>Oletko varma että haluat poistaa tilauksen modista {0}?</ConfirmUnsubscribe>
   <Author>Tekijä</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <DownloadingMod>Downloading {0}</DownloadingMod>
+  <WorkshopPage>Workshop-sivu</WorkshopPage>
+  <UploadToSteamWorkshop>Lataa Steam Workshoppiin</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Päivitä Steam Workshopissa</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Lataus palvelimelle on jo menossa.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Julkaisu Workshoppiin epäonnistui.\n\nSyy: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>Julkaisemalla tämän modin hyväksyt  Steam Workshopin käyttöehdot. Paina tästä lisätietoja.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>{0} ladattiin onnistuneesti palvelimelle.</WorkshopUploadSucceeded>
+  <DownloadingMod>Ladataan {0}</DownloadingMod>
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
@@ -73,7 +73,7 @@
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
+  <SelectRandomSite>Valitse satunnainen alue</SelectRandomSite>
   <SelectSite>Valitse alue</SelectSite>
   <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>

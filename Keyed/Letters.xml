@@ -41,21 +41,21 @@
 
   <StruckMineable>Olemme osuneet {0} esiintymään!</StruckMineable>
 
-  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+  <LetterLabelAnimalManhunterRevenge>{0} kosto</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>{0} hyökkää tultuaan vahingoitetuksi!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} hyökkää kesytysyrityksen takia!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>{0}lauma on myös tullut raivostuneeksi!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} hit trap</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{0} osui ansaan</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} on vahingossa laukaissut ansan ja ottanut siitä vahinkoa.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} has developed {1} as a complication of {2}.</LetterHealthComplications>
+  <LetterHealthComplications>Henkilölle {0} on tullut {1} lisätautina sairaudesta {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
   
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>Hyväntahtoisuutta</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Pahantahtoisuutta</LetterLabelRelationsChangeBad>
-  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelShortCircuit>Zzzap...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Mielen murtuminen</LetterLabelMentalBreakdown>
 
 
