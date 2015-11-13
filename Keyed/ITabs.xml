@@ -5,7 +5,7 @@
   <TabBills>Tilaukset</TabBills>
   <TabGrowing>Kasvatus</TabGrowing>
   <TabCharacter>Henkilö</TabCharacter>
-  <TabTraining>Koulutus</TabTraining>
+  <TabTraining>Kouluttaminen</TabTraining>
   <TabPrisoner>Vanki</TabPrisoner>
   <TabGuest>Vieras</TabGuest>
   <TabGear>Varusteet</TabGear>
@@ -87,8 +87,8 @@
 
 
   <!-- Training tab-->
-  <TrainableIntelligence>Älykkyys koulutuksessa</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>Tarvitsee koulutukseen älykkyyden {0}.</CannotTrainNotSmartEnough>
+  <TrainableIntelligence>Älykkyys kouluttamisessa</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Tarvitsee kouluttamiseen älykkyyden {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Tarvittava koulutus: {0}</TrainingNeedsPrerequisite>

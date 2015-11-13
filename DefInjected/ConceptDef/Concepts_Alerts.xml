@@ -13,7 +13,7 @@
     <EquippingWeapons.label>Ota aseet käyttöön</EquippingWeapons.label>
     <EquippingWeapons.helpTexts.0>Yhdyskuntalaisesi toivat mukanaan aseita. Ota ne käyttöön!\n\nValitse vuorotellen kukin yhdyskuntalainen ja paina hiiren oikealla näppäimellä asetta jonka haluat heidän ottavan käyttöön.</EquippingWeapons.helpTexts.0>
     
-    <CameraZoom.label>Opettele kameran zoomaus</CameraZoom.label>
+    <CameraZoom.label>Opettele kameran säätö</CameraZoom.label>
     <CameraZoom.helpTexts.0>Lähennä ja loitonna kuvaa käyttämällä HIIREN RULLAA tai T- ja G-näppäimiä.</CameraZoom.helpTexts.0>
     
     <WorkTab.label>Muokkaa työasetuksia</WorkTab.label>
@@ -32,7 +32,7 @@
     <StorageTab.helpTexts.0>Voit muokata varastoalueiden ja -rakennelmien asetuksia valitsemalla ne ja avaamalla VARASTO-välilehden tarkastelupaneelin yläpuolelta ruudun vasemmassa alakulmassa.</StorageTab.helpTexts.0>
     
     <MedicalOperations.label>Opettele lääkintäoperaatiot</MedicalOperations.label>
-    <MedicalOperations.helpTexts.0>Määrätäksesi lääkintäoperaation kuten elimenkeräyksen tai proteesin asentamisen avaa yhdyskuntalaisen TERVEYS-välilehti ja vaihda sitten OPERAATIOT, then switch to the OPERATIONS sub-tab.</MedicalOperations.helpTexts.0>
+    <MedicalOperations.helpTexts.0>Määrätäksesi lääkintäoperaation kuten elimenkeräyksen tai proteesin asentamisen avaa yhdyskuntalaisen TERVEYS-välilehti ja vaihda sitten OPERAATIOT.</MedicalOperations.helpTexts.0>
     
     <HomeArea.label>Opettele kotialue</HomeArea.label>
     <HomeArea.helpTexts.0>KOTI ALUE kertoo yhdyskuntalaisille mitkä alueet tulee siivota ja missä sammuttaa tulipalot.\n\nMääritä KOTIALUE Alueet-kategoriasta Arkkitehti-valikossa.</HomeArea.helpTexts.0>

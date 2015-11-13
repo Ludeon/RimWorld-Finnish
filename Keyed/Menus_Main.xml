@@ -90,9 +90,9 @@
   <Terrain>Maasto</Terrain>
   <Elevation>Korkeus</Elevation>
   <Fertility>Hedelmällisyys</Fertility>
-  <AvgTemp>Keskim. lämpötila</AvgTemp>
-  <AvgJanTemp>Keskim. lämp. (Tammi): {0}</AvgJanTemp>
-  <AvgJulTemp>Keskim. lämp. (Kesä): {0}</AvgJulTemp>
+  <AvgTemp>Keskilämpötila</AvgTemp>
+  <AvgJanTemp>Keskilämp. (Tammi): {0}</AvgJanTemp>
+  <AvgJulTemp>Keskilämp. (Kesä): {0}</AvgJulTemp>
   <Rainfall>Sademäärä</Rainfall>
   <HasCoast0>Pohjoisrannikko</HasCoast0>
   <HasCoast1>Itärannikko</HasCoast1>

@@ -37,7 +37,7 @@
   <NewPartDisease>{0} sai {1}-tartunnan. Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>Muinainen vaara</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>Kun {0} lähestyy muinaista seinää, pahaenteinen tunne valtaa HIM. HECAP ei ole varma miksi, mutta HE tuntee että tämä pölyinen rakennelma saattaa sisältää suuren vaaran.</AncientShrineWarning>
+  <AncientShrineWarning>Kun {0} lähestyy muinaista seinää, pahaenteinen tunne valtaa hänet. Hän ei ole varma miksi, mutta hän tuntee että tämä pölyinen rakennelma saattaa sisältää suuren vaaran.</AncientShrineWarning>
 
   <StruckMineable>Olemme osuneet {0} esiintymään!</StruckMineable>
 

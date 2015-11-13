@@ -18,7 +18,7 @@
   <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
   <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
   <DevelopmentMode>Kehitystila</DevelopmentMode>
-  <ResetModsConfigOnCrash>Restoi modit kaatumisen jälkeen</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Resetoi modit kaatumisen jälkeen</ResetModsConfigOnCrash>
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen sukunimet jotka haluat nähdä pelissä:</NamesYouWantToSee>

@@ -57,7 +57,7 @@
   <HarvestFailed>Sadonkorjuu\nepäonnistui</HarvestFailed>
   <TextMote_TameFail>Kesytys epäonnistui\n{0} todennäköisyys</TextMote_TameFail>
   <TextMote_TameSuccess>Kesytetty!\n{0} todennäköisyys</TextMote_TameSuccess>
-  <TextMote_TrainFail>Koulutus epäonnistui: {0}\n{1} todennäköisyys</TextMote_TrainFail>
+  <TextMote_TrainFail>Kouluttaminen epäonnistui: {0}\n{1} todennäköisyys</TextMote_TrainFail>
   <TextMote_TrainSuccess>Koulutettu: {0}\n{1} todennäköisyys</TextMote_TrainSuccess>
 
 
@@ -135,7 +135,7 @@
   <Faction>Ryhmä</Faction>
   <Equipped>Varuste</Equipped>
   <EquippedNothing>Ei mitään</EquippedNothing>
-  <Incapacitated>Lamantunut</Incapacitated>
+  <Incapacitated>Lamaantunut</Incapacitated>
   <InRestraints>Kahleissa (hidastunut)</InRestraints>
   <Carrying>Kantaa</Carrying>
   

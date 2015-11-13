@@ -10,6 +10,7 @@
     <HumanlikeChild.label>lapsi</HumanlikeChild.label>
     
     <HumanlikeTeenager.label>teini-ikäinen</HumanlikeTeenager.label>
+    <HumanlikeTeenager.adjective>teini-ikäinen</HumanlikeTeenager.adjective>
     
     <HumanlikeAdult.label>aikuinen</HumanlikeAdult.label>
     

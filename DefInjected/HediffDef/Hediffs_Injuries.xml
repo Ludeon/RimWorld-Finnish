@@ -31,7 +31,7 @@
     <Crush.comps.2.oldLabel>arpi</Crush.comps.2.oldLabel>
     <Crush.injuryProps.destroyedLabel>Murskattu</Crush.injuryProps.destroyedLabel>
     
-    <Crack.label>haljennut</Crack.label>
+    <Crack.label>murtuma</Crack.label>
     <Crack.comps.0.labelTreatedWell>hoidettu</Crack.comps.0.labelTreatedWell>
     <Crack.comps.0.labelTreated>huonosti hoidettu</Crack.comps.0.labelTreated>
     <Crack.comps.0.labelTreatedWellInner>hoidettu</Crack.comps.0.labelTreatedWellInner>
@@ -67,7 +67,7 @@
     <Scratch.comps.0.labelTreatedInner>huonosti ommeltu</Scratch.comps.0.labelTreatedInner>
     <Scratch.comps.0.labelSolidTreatedWell>asetettu</Scratch.comps.0.labelSolidTreatedWell>
     <Scratch.comps.0.labelSolidTreated>huonosti asetettu</Scratch.comps.0.labelSolidTreated>
-    <Scratch.comps.2.oldLabel>scratch arpi</Scratch.comps.2.oldLabel>
+    <Scratch.comps.2.oldLabel>raapaisuarpi</Scratch.comps.2.oldLabel>
     <Scratch.injuryProps.destroyedLabel>Poisrevitty</Scratch.injuryProps.destroyedLabel>
     <Scratch.injuryProps.destroyedOutLabel>Ulosrevitty</Scratch.injuryProps.destroyedOutLabel>
     

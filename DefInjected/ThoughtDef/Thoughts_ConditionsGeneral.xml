@@ -43,7 +43,7 @@
     <EnvironmentHot.stages.3.description>Minä palan. Voisin kuolla tähän kuumuuteen!</EnvironmentHot.stages.3.description>
     
     <Crowded.stages.0.label>hieman tungosta</Crowded.stages.0.label>
-    <Crowded.stages.0.description>Täälä on hieman liian paljon väkirikasta.</Crowded.stages.0.description>
+    <Crowded.stages.0.description>Täälä on hieman liian väkirikasta.</Crowded.stages.0.description>
     <Crowded.stages.1.label>tungosta</Crowded.stages.1.label>
     <Crowded.stages.1.description>Täällä on väkirikasta. Tuntisin oloni paljon paremmaksi jos täällä olisi enemmän vapaata tilaa.</Crowded.stages.1.description>
     <Crowded.stages.2.label>paljon tungosta</Crowded.stages.2.label>
