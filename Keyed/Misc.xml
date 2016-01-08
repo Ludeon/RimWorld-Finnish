@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Autosaving>Tallentaa automaattisesti</Autosaving>
@@ -19,8 +19,8 @@
   <CompiledOn>Laadittu {0}</CompiledOn>
   <LoggedIntoSteamAs>Kirjautunut Steamiin nimellä {0}</LoggedIntoSteamAs>
 
-
-  <!-- Content generation-->
+  
+  
   
 	<MeatLabel>{0} lihaa</MeatLabel>
   <MeatDesc>Raakaa lihaa oliosta {0}.</MeatDesc>
@@ -28,7 +28,7 @@
   <LeatherLabel>{0} nahka</LeatherLabel>
   <LeatherDesc>Nahka joka on tehty oliosta {0}.</LeatherDesc>
 
-	<CorpseLabel>{0} ruumis</CorpseLabel>
+  <CorpseLabel>{0} ruumis</CorpseLabel>
 	<CorpseDesc>Kuollut {0}.</CorpseDesc>
   <DeadLabel>{0} (kuollut)</DeadLabel>
 
@@ -39,21 +39,21 @@
   <SmoothStoneTerrainLabel>sileä {0}</SmoothStoneTerrainLabel>
   <SmoothStoneTerrainDesc>Hiottu luonnollinen {0}lattia.</SmoothStoneTerrainDesc>
 
-	<BlueprintLabelExtra> (piirrustus)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (piirrustus)</BlueprintLabelExtra>
   <FrameLabelExtra> (rakennus)</FrameLabelExtra>
 
 
-  <!-- For things made of stuff, e.g. "Stone bed" -->
-  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  
+  
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <!-- To express ownership. -->
-  <!-- For example Jack's Bedroom -->
+  
+  
   <SomeonesSomething>Henkilön {0} {1}</SomeonesSomething>
-
+  
   <VariousLabel>(erilaisia)</VariousLabel>
 
-  <!-- History events -->
+  
   <ColonistDied>Yhdyskuntalainen kuoli</ColonistDied>
   
   

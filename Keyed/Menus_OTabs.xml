@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
 
-  <!-- Tab titles -->
+  
   <WorkTab>Työnteko</WorkTab>
   <OutfitsTab>Vaatekerrat</OutfitsTab>
   <RestrictionsTab>Rajoitukset</RestrictionsTab>
@@ -12,7 +12,7 @@
   <HistoryTab>Historia</HistoryTab>
   <WorldTab>Maailma</WorldTab>
 
-  <!-- Work tab -->
+  
   <ManualPriorities>Säädä tärkeyksiä</ManualPriorities>
   <HigherPriority>Tärkeämpi</HigherPriority>
   <LowerPriority>Vähemmän tärkeä</LowerPriority>
@@ -21,7 +21,7 @@
   <CannotDoThisWork>{0} ei voi tehdä tätä työtä.</CannotDoThisWork>
   <NoneBrackets>(ei mitään)</NoneBrackets>
 
-  <!-- Outfits tab -->
+  
   <CurrentOutfit>Nykyinen vaatekerta</CurrentOutfit>
   <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
@@ -29,20 +29,20 @@
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
   <OutfitEdit>Muokkaa...</OutfitEdit>
   
-  <!-- Restrictions tab -->
+  
   <Copy>Kopioi</Copy>
   <Paste>Liitä</Paste>
   <AllowedArea>Sallittu alue</AllowedArea>
   
-  <!-- Animals tab -->
+  
   <Master>Isäntä</Master>
   
-  <!-- Factions tab -->
+  
   <Hostile>Vihamielinen</Hostile>
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
   <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
-
-  <!-- Statistics tab -->
+  
+  
   <Playtime>Pelattu aika</Playtime>
   <Storyteller>Tarinankertoja</Storyteller>
   <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
@@ -54,7 +54,7 @@
   <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
   <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
 
-  <!-- History tab -->
+  
   <SelectGraph>Valitse kaavio</SelectGraph>
   <Last30Days>Viimeiset 30 päivää</Last30Days>
   <Last100Days>Viimeiset 100 päivää</Last100Days>

@@ -22,9 +22,9 @@
     <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
     
     
-    <Equip.reportString>Ottaa TargetA käyttöön.</Equip.reportString>  
+    <Equip.reportString>Ottaa TargetA käyttöön.</Equip.reportString>
     
-    <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>  
+    <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>
     
     <Wear.reportString>Pukee päälle vaatteen TargetA.</Wear.reportString>
     

@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<CommandForbiddenDesc>Kielletty - yhdyskuntalaiset eivät käytä tätä.</CommandForbiddenDesc>
 	<CommandNotForbiddenDesc>Sallittu - yhdyskuntalaiset voivat käyttää tätä.</CommandNotForbiddenDesc>
 
-  <!-- Power -->
+  
   <CommandTogglePowerLabel>Kytke virta</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>Kytkee virran päälle tai pois.</CommandTogglePowerDesc>
   
   <CommandDesignateTogglePowerLabel>Määrää virran kytkeminen</CommandDesignateTogglePowerLabel>
   <CommandDesignateTogglePowerDesc>Määrää tämän esineen virran kytkeminen päälle tai pois. Yhdyskuntalainen tulee pian kääntämään kytkimen.</CommandDesignateTogglePowerDesc>
-
+  
   <CommandTryReconnectLabel>Yhdistä uudelleen</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Kokeile yhdistää toiseen sähköverkkoon yhdistämisalueeni säteellä. Tämä on käytännöllistä jos minut on yhdistetty virrattomaan verkkoon mutta lähistöllä on virrallinen verkko.</CommandTryReconnectDesc>
 
@@ -19,7 +19,7 @@
   <CommandGatherSpotToggleDescInactive>Ei aktiivinen - yhdyskuntalaiset eivät keräänny tämän esineen ympärille.</CommandGatherSpotToggleDescInactive>
   
   
-  <!-- Drafting -->
+  
   <CommandDraftLabel>Värvää</CommandDraftLabel>
   <CommandUndraftLabel>Vapauta palveluksesta</CommandUndraftLabel>
   <CommandToggleDraftDesc>Asepalvelus päällä/pois.\n\nKutsutut henkilöt ottavat vastaan komentoja ja taistelevat. He eivät tee työtä, syö tai lepää.</CommandToggleDraftDesc>
@@ -51,7 +51,7 @@
   <TurningOnPrisonerBedWarning>Normaalisängyn määrittäminen vankisängyksi vaikutaa koko huoneeseen (koska vangit ja yhdyskuntalaiset eivät voi nukkua samassa huoneessa).\n\nNämä henkilöt menettävät sänkyjensä omistuksen:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Vankisängyn määrittäminen normaaliksi vaikutaa koko huoneeseen (koska vangit ja yhdyskuntalaiset eivät voi nukkua samassa huoneessa).\n\nNämä henkilöt menettävät sänkyjensä omistuksen:</TurningOffPrisonerBedWarning>
   <AreYouSure>Oleko varma että haluat tehdä tämän?</AreYouSure>
-  
+
   <CommandDetonateLabel>Räjäytä</CommandDetonateLabel>
   <CommandDetonateDesc>Aloita lähtölaskenta räjäytykseen.</CommandDetonateDesc>
 
@@ -72,9 +72,9 @@
   <CommandPasteZoneSettingsDesc>Korvaa tämän alueen asetukset aikaisemmin leikepöydälle kopioiduilla.</CommandPasteZoneSettingsDesc>
 
   <CommandAllowSow>Salli kylväminen</CommandAllowSow>
-  <CommandAllowSowDesc>Kun tämä on pois käytöstä, yhdyskuntalaiset eivät koskaan kylvä kasveja tälle alueelle. He korjaavat silty yhä sadon.</CommandAllowSowDesc>  
+  <CommandAllowSowDesc>Kun tämä on pois käytöstä, yhdyskuntalaiset eivät koskaan kylvä kasveja tälle alueelle. He korjaavat silty yhä sadon.</CommandAllowSowDesc>
+
   
-  <!-- Artillery -->
   <CommandSetForceAttackTarget>Aseta pakotettu kohde</CommandSetForceAttackTarget>
   <CommandSetForceAttackTargetDesc>Asettaa kohteen jota tämä tykkitorni ampuu jatkuvasti niin kauan kuin se voi.</CommandSetForceAttackTargetDesc>
   <CommandStopForceAttack>Poista pakotettu kohde</CommandStopForceAttack>
@@ -84,50 +84,50 @@
   <MessageTargetBelowMinimumRange>Kohde liian lähellä.</MessageTargetBelowMinimumRange>
   
   
-  <!-- Ship computer core -->
+  
   <CommandShipLaunch>Lähetä alus</CommandShipLaunch>
   <CommandShipLaunchDesc>Aloita aluksen lähtölaskenta nykyisillä asetuksilla.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Näytä laukaisuraportti</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>Näytä valmiusraportti aluksen lähtövalmiudesta.</CommandShipLaunchReportDesc>
 
 
-  <!-- Pod -->
+  
   <CommandPodEject>Poista nukkuja aluksesta</CommandPodEject>
   <CommandPodEjectDesc>Herätä kryptonukkuja ja poista heidät aluksesta.</CommandPodEjectDesc>
   <CommandPodEjectFailEmpty>Ei sisällä ketään.</CommandPodEjectFailEmpty>
 
-  <!-- Door -->
+  
   <CommandToggleDoorForbid>Käynti kielletty</CommandToggleDoorForbid>
   <CommandToggleDoorForbidDesc>Kun ovi on asetettu kielletyksi, yhdyskuntalaiset ja liittolaiset eivät mene sen läpi. Tällä ei ole vaikutusta siihen mitä viholliset ja eläimet tekevät oven kanssa.</CommandToggleDoorForbidDesc>
   <CommandToggleDoorHoldOpen>Pidä auki</CommandToggleDoorHoldOpen>
   <CommandToggleDoorHoldOpenDesc>Käytössä ollessa yhdyskuntalaisesi eivät sulje ovea sen läpi käynnin jälkeen.</CommandToggleDoorHoldOpenDesc>
 
 
-  <!-- Temperature control -->
+  
   <CommandResetTemp>Nollaa</CommandResetTemp>
   <CommandResetTempDesc>Aseta tavoitelämpötila takaisin huoneenlämpötilaan.</CommandResetTempDesc>
   <CommandRaiseTempDesc>Nosta tavoitelämpötilaa.</CommandRaiseTempDesc>
   <CommandLowerTempDesc>Laske tavoitelämpötilaa.</CommandLowerTempDesc>
 
-  <!-- Art -->
+  
   <CommandInstall>Asenna</CommandInstall>
   <CommandInstallDesc>Tämä esine on pakattu varastoimista ja kuljetusta varten. Käytä tätä komentoa asentaaksesi tämän esineen lopulliselle paikalleen, jotta sitä voidaan katsella tai käyttää.</CommandInstallDesc>
 
-  <!-- Trade beacon -->
+  
   <CommandMakeBeaconStockpileDesc>Luo tämän rakennelman ympärille varastoalue, joka vastaa täysin majakan kantamaa.</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>Luo varastoalue</CommandMakeBeaconStockpileLabel>
 
-  <!-- Sun lamp -->
+  
   <CommandSunLampMakeGrowingZoneDesc>Luo tämän rakennelman ympärille kasvatusalue, joka vastaa täysin lampun kantamaa.</CommandSunLampMakeGrowingZoneDesc>
   <CommandSunLampMakeGrowingZoneLabel>Luo kasvatusalue</CommandSunLampMakeGrowingZoneLabel>
 
-  <!-- Trap -->
+  
   <CommandAutoRearm>Automaattinen uudelleenviritys</CommandAutoRearm>
   <CommandAutoRearmDesc>Jos tämä on päällä, tämä ansa tullaan automaattisesti asettamaan viritettäväksi uudelleen kun se laukeaa.</CommandAutoRearmDesc>
   
-  <!-- Animal control -->
+  
   <CommandReleaseAnimalsLabel>Vapauta eläimet</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>Kun tämä on päällä, hallussa olevat eläimet lasketaan vapaaksi hyökkäämään etäällä olevia vihollisia vastaan. Kun tämä on pois päältä, eläimet pysyttelevät lähettyvillä ja suojelevat isäntäänsä.</CommandReleaseAnimalsDesc>
-
-
+  
+  
 </LanguageData>

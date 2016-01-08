@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <Captured.rulePack.rulesStrings.0>image->[capturer_nameFull] kaapaamassa henkilöä [prisoner_nameFull] [circumstance_group]. [desc_sentence_group]</Captured.rulePack.rulesStrings.0>
-  <Captured.rulePack.rulesStrings.1>image->[capturer_nameFull] sitomassa henkilön [prisoner_nameFull] kädet [circumstance_group]. [desc_sentence_group]</Captured.rulePack.rulesStrings.1>
-  <Captured.rulePack.rulesStrings.2>image->[capturer_nameFull] lyömässä henkilöä [prisoner_nameFull] kaapatessaan [prisoner_objective] [circumstance_group]. [desc_sentence_group]</Captured.rulePack.rulesStrings.2>
-  <Captured.rulePack.rulesStrings.3>circumstance_phrase->[prisoner_possessive] rimpuilee maassa</Captured.rulePack.rulesStrings.3>
-  <Captured.rulePack.rulesStrings.4>circumstance_phrase->[prisoner_possessive] kiemurtelee tuskissaan</Captured.rulePack.rulesStrings.4>
-  <Captured.rulePack.rulesStrings.5>circumstance_phrase->ammatitaidolla</Captured.rulePack.rulesStrings.5>
-  <Captured.rulePack.rulesStrings.6>circumstance_phrase->raa'asti ja amatöörimäisesti</Captured.rulePack.rulesStrings.6>
-  <Captured.rulePack.rulesStrings.7>circumstance_phrase->selkeästi liikaa voimaa käyttäen</Captured.rulePack.rulesStrings.7>
-  <Captured.rulePack.rulesStrings.8>circumstance_phrase->selvää nautintoa näyttäen</Captured.rulePack.rulesStrings.8>
-  <Captured.rulePack.rulesStrings.9>circumstance_phrase->hymyillen hallitsevasti</Captured.rulePack.rulesStrings.9>
-  <Captured.rulePack.rulesStrings.10>desc_sentence->[capturer_nameShortDefinite] katsoo vankinsa silmiin alistavasti.</Captured.rulePack.rulesStrings.10>
-  <Captured.rulePack.rulesStrings.11>desc_sentence->[prisoner_nameShortDefinite] on haavoittunut ja näyttää olevan tuskissaan.</Captured.rulePack.rulesStrings.11>
-  <Captured.rulePack.rulesStrings.12>desc_sentence->[prisoner_nameShortDefinite] näyttää kohtaloonsa alistuneelta.</Captured.rulePack.rulesStrings.12>
-  <Captured.rulePack.rulesStrings.13>desc_sentence->[prisoner_nameShortDefinite] irvistää tappion vimmassa.</Captured.rulePack.rulesStrings.13>
-  <Captured.rulePack.rulesStrings.14>desc_sentence->[capturer_nameShortDefinite] läimäyttää vankiaan hiljeentääkseen [prisoner_objective].</Captured.rulePack.rulesStrings.14>
-  <Captured.rulePack.rulesStrings.15>desc_sentence->[capturer_nameShortDefinite] vetää vankiaan korvasta.</Captured.rulePack.rulesStrings.15>
-  <Captured.rulePack.rulesStrings.16>desc_sentence->[capturer_nameShortDefinite] pitää vankiaan polvilukossa.</Captured.rulePack.rulesStrings.16>
-  <Captured.rulePack.rulesStrings.17>desc_sentence->[capturer_nameShortDefinite] sylkee vankinsa naamaan.</Captured.rulePack.rulesStrings.17>
-  <Captured.rulePack.rulesStrings.18>desc_sentence->[capturer_nameShortDefinite] nauraa samalla kun [prisoner_nameShortDefinite] vuodattaa kyyneleitä.</Captured.rulePack.rulesStrings.18>
-  <Captured.rulePack.rulesStrings.19>desc_sentence->[capturer_nameShortDefinite] potkii vankiaan ilman näkyvää syytä.</Captured.rulePack.rulesStrings.19>
-
-  <Recruited.rulePack.rulesStrings.0>image->[recruiter_nameFull] värväämässä henkilöä [joiner_nameFull] [circumstance_group]. [desc_sentence_group]</Recruited.rulePack.rulesStrings.0>
-  <Recruited.rulePack.rulesStrings.1>image->[recruiter_nameFull] toivottamassa henkilöä [joiner_nameFull] tervetulleeksi kun [joiner_pronoun] liittyy yhdyskuntaan [circumstance_group]. [desc_sentence_group]</Recruited.rulePack.rulesStrings.1>
-  <Recruited.rulePack.rulesStrings.2>image->[recruiter_nameFull] puhuu vakuuttavasti henkilölle [joiner_nameFull] [circumstance_group]. [desc_sentence_group]</Recruited.rulePack.rulesStrings.2>
-  <Recruited.rulePack.rulesStrings.3>desc_sentence->[joiner_nameShortDefinite] nyökkäilee ymmärtäväisenä.</Recruited.rulePack.rulesStrings.3>
-  <Recruited.rulePack.rulesStrings.4>desc_sentence->[joiner_nameShortDefinite] hymyilee ja tekee katsekontaktin.</Recruited.rulePack.rulesStrings.4>
-  <Recruited.rulePack.rulesStrings.5>desc_sentence->[joiner_nameShortDefinite] näyttää helpottuneelta.</Recruited.rulePack.rulesStrings.5>
-  <Recruited.rulePack.rulesStrings.6>desc_sentence->[joiner_nameShortDefinite] näyttää toiveekkaalta.</Recruited.rulePack.rulesStrings.6>
-
-  <Hunted.rulePack.rulesStrings.0>image->[hunter_nameFull] jolla on jäljityksessä [prey_nameFull] [circumstance_group]. [desc_sentence_group]</Hunted.rulePack.rulesStrings.0>
-  <Hunted.rulePack.rulesStrings.1>image->[hunter_nameFull] jonka tuiman katseen kohteena on [prey_nameFull] [circumstance_group]. [desc_sentence_group]</Hunted.rulePack.rulesStrings.1>
-  <Hunted.rulePack.rulesStrings.2>image->[hunter_nameFull] metsästämässä kohdetta [prey_nameFull] [circumstance_group]. [desc_sentence_group]</Hunted.rulePack.rulesStrings.2>
-  <Hunted.rulePack.rulesStrings.3>desc_sentence->[prey_nameShortDefinite] näyttää asiasta täysin tietämättömältä.</Hunted.rulePack.rulesStrings.3>
-  <Hunted.rulePack.rulesStrings.4>desc_sentence->[hunter_nameShortDefinite] pitää lujasti kiinni [hunter_possessive] aseestaan.</Hunted.rulePack.rulesStrings.4>
-  <Hunted.rulePack.rulesStrings.5>desc_sentence->[prey_nameShortDefinite] katselee ympärilleen kuin havaitsisi jonkin olevan pielessä.</Hunted.rulePack.rulesStrings.5>
-
-  <DidSurgery.rulePack.rulesStrings.0>image->[surgeon_nameFull] laittamassa potilasta [patient_nameFull] nukutukseen puudutusaineella [circumstance_group]. [desc_sentence_group]</DidSurgery.rulePack.rulesStrings.0>
-  <DidSurgery.rulePack.rulesStrings.1>image->[surgeon_nameFull] kyynärpäitään myöden potilaan [patient_nameFull] sisälmyksissä kirurgian aikana [circumstance_group]. [desc_sentence_group]</DidSurgery.rulePack.rulesStrings.1>
-  <DidSurgery.rulePack.rulesStrings.2>image->[surgeon_nameFull] leikkamassa potilasta [patient_nameFull] kirurgian aikana [circumstance_group]. [desc_sentence_group]</DidSurgery.rulePack.rulesStrings.2>
-  <DidSurgery.rulePack.rulesStrings.3>desc_sentence->[surgeon_nameShortDefinite] hikoilee ylen määrin.</DidSurgery.rulePack.rulesStrings.3>
-  <DidSurgery.rulePack.rulesStrings.4>desc_sentence->[surgeon_nameShortDefinite] näyttää erittäin keskittyneeltä tehtäväänsä.</DidSurgery.rulePack.rulesStrings.4>
-  <DidSurgery.rulePack.rulesStrings.5>desc_sentence->[surgeon_nameShortDefinite] on veren tahrima.</DidSurgery.rulePack.rulesStrings.5>
-  <DidSurgery.rulePack.rulesStrings.6>desc_sentence->[patient_nameShortDefinite] vapisee ja kiemurtelee.</DidSurgery.rulePack.rulesStrings.6>
+    <Captured.rulePack.rulesStrings.0>image->[capturer_nameFull] kaapaamassa henkilöä [prisoner_nameFull] [circumstance_group]. [desc_sentence_group]</Captured.rulePack.rulesStrings.0>
+    <Captured.rulePack.rulesStrings.1>image->[capturer_nameFull] sitomassa henkilön [prisoner_nameFull] kädet [circumstance_group]. [desc_sentence_group]</Captured.rulePack.rulesStrings.1>
+    <Captured.rulePack.rulesStrings.2>image->[capturer_nameFull] lyömässä henkilöä [prisoner_nameFull] kaapatessaan [prisoner_objective] [circumstance_group]. [desc_sentence_group]</Captured.rulePack.rulesStrings.2>
+    <Captured.rulePack.rulesStrings.3>circumstance_phrase->[prisoner_possessive] rimpuilee maassa</Captured.rulePack.rulesStrings.3>
+    <Captured.rulePack.rulesStrings.4>circumstance_phrase->[prisoner_possessive] kiemurtelee tuskissaan</Captured.rulePack.rulesStrings.4>
+    <Captured.rulePack.rulesStrings.5>circumstance_phrase->ammatitaidolla</Captured.rulePack.rulesStrings.5>
+    <Captured.rulePack.rulesStrings.6>circumstance_phrase->raa'asti ja amatöörimäisesti</Captured.rulePack.rulesStrings.6>
+    <Captured.rulePack.rulesStrings.7>circumstance_phrase->selkeästi liikaa voimaa käyttäen</Captured.rulePack.rulesStrings.7>
+    <Captured.rulePack.rulesStrings.8>circumstance_phrase->selvää nautintoa näyttäen</Captured.rulePack.rulesStrings.8>
+    <Captured.rulePack.rulesStrings.9>circumstance_phrase->hymyillen hallitsevasti</Captured.rulePack.rulesStrings.9>
+    <Captured.rulePack.rulesStrings.10>desc_sentence->[capturer_nameShortDefinite] katsoo vankinsa silmiin alistavasti.</Captured.rulePack.rulesStrings.10>
+    <Captured.rulePack.rulesStrings.11>desc_sentence->[prisoner_nameShortDefinite] on haavoittunut ja näyttää olevan tuskissaan.</Captured.rulePack.rulesStrings.11>
+    <Captured.rulePack.rulesStrings.12>desc_sentence->[prisoner_nameShortDefinite] näyttää kohtaloonsa alistuneelta.</Captured.rulePack.rulesStrings.12>
+    <Captured.rulePack.rulesStrings.13>desc_sentence->[prisoner_nameShortDefinite] irvistää tappion vimmassa.</Captured.rulePack.rulesStrings.13>
+    <Captured.rulePack.rulesStrings.14>desc_sentence->[capturer_nameShortDefinite] läimäyttää vankiaan hiljeentääkseen [prisoner_objective].</Captured.rulePack.rulesStrings.14>
+    <Captured.rulePack.rulesStrings.15>desc_sentence->[capturer_nameShortDefinite] vetää vankiaan korvasta.</Captured.rulePack.rulesStrings.15>
+    <Captured.rulePack.rulesStrings.16>desc_sentence->[capturer_nameShortDefinite] pitää vankiaan polvilukossa.</Captured.rulePack.rulesStrings.16>
+    <Captured.rulePack.rulesStrings.17>desc_sentence->[capturer_nameShortDefinite] sylkee vankinsa naamaan.</Captured.rulePack.rulesStrings.17>
+    <Captured.rulePack.rulesStrings.18>desc_sentence->[capturer_nameShortDefinite] nauraa samalla kun [prisoner_nameShortDefinite] vuodattaa kyyneleitä.</Captured.rulePack.rulesStrings.18>
+    <Captured.rulePack.rulesStrings.19>desc_sentence->[capturer_nameShortDefinite] potkii vankiaan ilman näkyvää syytä.</Captured.rulePack.rulesStrings.19>
+    
+    <Recruited.rulePack.rulesStrings.0>image->[recruiter_nameFull] värväämässä henkilöä [joiner_nameFull] [circumstance_group]. [desc_sentence_group]</Recruited.rulePack.rulesStrings.0>
+    <Recruited.rulePack.rulesStrings.1>image->[recruiter_nameFull] toivottamassa henkilöä [joiner_nameFull] tervetulleeksi kun [joiner_pronoun] liittyy yhdyskuntaan [circumstance_group]. [desc_sentence_group]</Recruited.rulePack.rulesStrings.1>
+    <Recruited.rulePack.rulesStrings.2>image->[recruiter_nameFull] puhuu vakuuttavasti henkilölle [joiner_nameFull] [circumstance_group]. [desc_sentence_group]</Recruited.rulePack.rulesStrings.2>
+    <Recruited.rulePack.rulesStrings.3>desc_sentence->[joiner_nameShortDefinite] nyökkäilee ymmärtäväisenä.</Recruited.rulePack.rulesStrings.3>
+    <Recruited.rulePack.rulesStrings.4>desc_sentence->[joiner_nameShortDefinite] hymyilee ja tekee katsekontaktin.</Recruited.rulePack.rulesStrings.4>
+    <Recruited.rulePack.rulesStrings.5>desc_sentence->[joiner_nameShortDefinite] näyttää helpottuneelta.</Recruited.rulePack.rulesStrings.5>
+    <Recruited.rulePack.rulesStrings.6>desc_sentence->[joiner_nameShortDefinite] näyttää toiveekkaalta.</Recruited.rulePack.rulesStrings.6>
+    
+    <Hunted.rulePack.rulesStrings.0>image->[hunter_nameFull] jolla on jäljityksessä [prey_nameFull] [circumstance_group]. [desc_sentence_group]</Hunted.rulePack.rulesStrings.0>
+    <Hunted.rulePack.rulesStrings.1>image->[hunter_nameFull] jonka tuiman katseen kohteena on [prey_nameFull] [circumstance_group]. [desc_sentence_group]</Hunted.rulePack.rulesStrings.1>
+    <Hunted.rulePack.rulesStrings.2>image->[hunter_nameFull] metsästämässä kohdetta [prey_nameFull] [circumstance_group]. [desc_sentence_group]</Hunted.rulePack.rulesStrings.2>
+    <Hunted.rulePack.rulesStrings.3>desc_sentence->[prey_nameShortDefinite] näyttää asiasta täysin tietämättömältä.</Hunted.rulePack.rulesStrings.3>
+    <Hunted.rulePack.rulesStrings.4>desc_sentence->[hunter_nameShortDefinite] pitää lujasti kiinni [hunter_possessive] aseestaan.</Hunted.rulePack.rulesStrings.4>
+    <Hunted.rulePack.rulesStrings.5>desc_sentence->[prey_nameShortDefinite] katselee ympärilleen kuin havaitsisi jonkin olevan pielessä.</Hunted.rulePack.rulesStrings.5>
+    
+    <DidSurgery.rulePack.rulesStrings.0>image->[surgeon_nameFull] laittamassa potilasta [patient_nameFull] nukutukseen puudutusaineella [circumstance_group]. [desc_sentence_group]</DidSurgery.rulePack.rulesStrings.0>
+    <DidSurgery.rulePack.rulesStrings.1>image->[surgeon_nameFull] kyynärpäitään myöden potilaan [patient_nameFull] sisälmyksissä kirurgian aikana [circumstance_group]. [desc_sentence_group]</DidSurgery.rulePack.rulesStrings.1>
+    <DidSurgery.rulePack.rulesStrings.2>image->[surgeon_nameFull] leikkamassa potilasta [patient_nameFull] kirurgian aikana [circumstance_group]. [desc_sentence_group]</DidSurgery.rulePack.rulesStrings.2>
+    <DidSurgery.rulePack.rulesStrings.3>desc_sentence->[surgeon_nameShortDefinite] hikoilee ylen määrin.</DidSurgery.rulePack.rulesStrings.3>
+    <DidSurgery.rulePack.rulesStrings.4>desc_sentence->[surgeon_nameShortDefinite] näyttää erittäin keskittyneeltä tehtäväänsä.</DidSurgery.rulePack.rulesStrings.4>
+    <DidSurgery.rulePack.rulesStrings.5>desc_sentence->[surgeon_nameShortDefinite] on veren tahrima.</DidSurgery.rulePack.rulesStrings.5>
+    <DidSurgery.rulePack.rulesStrings.6>desc_sentence->[patient_nameShortDefinite] vapisee ja kiemurtelee.</DidSurgery.rulePack.rulesStrings.6>
     
 </LanguageData>

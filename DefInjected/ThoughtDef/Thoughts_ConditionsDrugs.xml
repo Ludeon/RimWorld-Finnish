@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <Inebriated.stages.0.label>buzzed-hidden</Inebriated.stages.0.label>
+    <Inebriated.stages.0.description>Should not appear.</Inebriated.stages.0.description>
     <Inebriated.stages.1.label>Päihtynyt (lämmin)</Inebriated.stages.1.label>
     <Inebriated.stages.1.description>Tunnen olevani hieman rentoutuneenpi tuon kulauksen jälkeen. Se on hienoa.</Inebriated.stages.1.description>
     <Inebriated.stages.2.label>Päihtynyt (humaltunut)</Inebriated.stages.2.label>
@@ -16,6 +18,6 @@
     <Hungover.stages.1.description>Pääni on kipeä viinan jäljiltä.</Hungover.stages.1.description>
     <Hungover.stages.2.label>Krapula (jyskyttävä)</Hungover.stages.2.label>
     <Hungover.stages.2.description>Tuntuu kuin hanhiparvi nokkisi kalloani.</Hungover.stages.2.description>
-    
+    <Hungover.stages.3.label>hungover-hidden</Hungover.stages.3.label>
     
 </LanguageData>

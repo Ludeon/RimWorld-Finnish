@@ -1,132 +1,132 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <LandedInPod.rulePack.rulesStrings.0>image->[pawn_nameFull] tulossa alas laskeutumiskapselissa [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.0>
-  <LandedInPod.rulePack.rulesStrings.1>image->[pawn_nameFull] osumassa maahan laskeutumiskapselissa [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.1>
-  <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull] iskemässä maahan laskeutumiskapselilla [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.2>
-  <LandedInPod.rulePack.rulesStrings.3>image->[pawn_nameFull] ratsastamassa laskeutumispaselilla [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.3>
-  <LandedInPod.rulePack.rulesStrings.4>circumstance_phrase->takanaan [terrainfeature]</LandedInPod.rulePack.rulesStrings.4>
-  <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase->uskomattoman suurella voimalla</LandedInPod.rulePack.rulesStrings.5>
-  <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase->pöly- ja kivisuihkussa</LandedInPod.rulePack.rulesStrings.6>
-  <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase->hidastusrakettien palaessa dramaattisesti</LandedInPod.rulePack.rulesStrings.7>
-  <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase->uskomattomalla tarkkuudella</LandedInPod.rulePack.rulesStrings.8>
-  <LandedInPod.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] keskittyy päättäväisesti ohjaimiin.</LandedInPod.rulePack.rulesStrings.9>
-  <LandedInPod.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] silmänsä ovat kiinni ja [pawn_pronoun] näyttää pelkäävän.</LandedInPod.rulePack.rulesStrings.10>
-  <LandedInPod.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] on tajuton ja [pawn_possessive] kielensä roikkuu ulkona kuolaa valuen.</LandedInPod.rulePack.rulesStrings.11>
-  <LandedInPod.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] hymyilee julmasti.</LandedInPod.rulePack.rulesStrings.12>
-  <LandedInPod.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] ei näytä tietävän yhtään mitä [pawn_pronoun] tekee.</LandedInPod.rulePack.rulesStrings.13>
-  <LandedInPod.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] on täysin avuttomana ja [pawn_possessive] silmänsä ovat kiinni.</LandedInPod.rulePack.rulesStrings.14>
-  <LandedInPod.rulePack.rulesStrings.15>desc_sentence->Tulenlieskan jälki nuolee kapselin takaosaa.</LandedInPod.rulePack.rulesStrings.15>
-  <LandedInPod.rulePack.rulesStrings.16>desc_sentence->Lähellä oleva [animal] katsoo ylös säikähtäneenä.</LandedInPod.rulePack.rulesStrings.16>
-  <LandedInPod.rulePack.rulesStrings.17>desc_sentence->[animal] pakenee osumakohtaa pelokkaana.</LandedInPod.rulePack.rulesStrings.17>
-  <LandedInPod.rulePack.rulesStrings.18>desc_sentence->Taustalla on [terrainfeature].</LandedInPod.rulePack.rulesStrings.18>
-  <LandedInPod.rulePack.rulesStrings.19>desc_sentence->[outlander] katsoo vaiteliaana kaukaisuudesta.</LandedInPod.rulePack.rulesStrings.19>
+    <LandedInPod.rulePack.rulesStrings.0>image->[pawn_nameFull] tulossa alas laskeutumiskapselissa [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.0>
+    <LandedInPod.rulePack.rulesStrings.1>image->[pawn_nameFull] osumassa maahan laskeutumiskapselissa [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.1>
+    <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull] iskemässä maahan laskeutumiskapselilla [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.2>
+    <LandedInPod.rulePack.rulesStrings.3>image->[pawn_nameFull] ratsastamassa laskeutumispaselilla [circumstance_group]. [desc_sentence_group]</LandedInPod.rulePack.rulesStrings.3>
+    <LandedInPod.rulePack.rulesStrings.4>circumstance_phrase->takanaan [terrainfeature]</LandedInPod.rulePack.rulesStrings.4>
+    <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase->uskomattoman suurella voimalla</LandedInPod.rulePack.rulesStrings.5>
+    <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase->pöly- ja kivisuihkussa</LandedInPod.rulePack.rulesStrings.6>
+    <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase->hidastusrakettien palaessa dramaattisesti</LandedInPod.rulePack.rulesStrings.7>
+    <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase->uskomattomalla tarkkuudella</LandedInPod.rulePack.rulesStrings.8>
+    <LandedInPod.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] keskittyy päättäväisesti ohjaimiin.</LandedInPod.rulePack.rulesStrings.9>
+    <LandedInPod.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] silmänsä ovat kiinni ja [pawn_pronoun] näyttää pelkäävän.</LandedInPod.rulePack.rulesStrings.10>
+    <LandedInPod.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] on tajuton ja [pawn_possessive] kielensä roikkuu ulkona kuolaa valuen.</LandedInPod.rulePack.rulesStrings.11>
+    <LandedInPod.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] hymyilee julmasti.</LandedInPod.rulePack.rulesStrings.12>
+    <LandedInPod.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] ei näytä tietävän yhtään mitä [pawn_pronoun] tekee.</LandedInPod.rulePack.rulesStrings.13>
+    <LandedInPod.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] on täysin avuttomana ja [pawn_possessive] silmänsä ovat kiinni.</LandedInPod.rulePack.rulesStrings.14>
+    <LandedInPod.rulePack.rulesStrings.15>desc_sentence->Tulenlieskan jälki nuolee kapselin takaosaa.</LandedInPod.rulePack.rulesStrings.15>
+    <LandedInPod.rulePack.rulesStrings.16>desc_sentence->Lähellä oleva [animal] katsoo ylös säikähtäneenä.</LandedInPod.rulePack.rulesStrings.16>
+    <LandedInPod.rulePack.rulesStrings.17>desc_sentence->[animal] pakenee osumakohtaa pelokkaana.</LandedInPod.rulePack.rulesStrings.17>
+    <LandedInPod.rulePack.rulesStrings.18>desc_sentence->Taustalla on [terrainfeature].</LandedInPod.rulePack.rulesStrings.18>
+    <LandedInPod.rulePack.rulesStrings.19>desc_sentence->[outlander] katsoo vaiteliaana kaukaisuudesta.</LandedInPod.rulePack.rulesStrings.19>
     
-  <Vomited.rulePack.rulesStrings.0>image->[pawn_nameFull] syöksemässä oksennusta maahan [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.0>
-  <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull] näyttämässä vastenmieliseltä ja on kuivuneen oksennuksen peittämä [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.1>
-  <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull] kyyrisyneenä maahan yökkäillen [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.2>
-  <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull] polvillaan oksentamassa lattialle [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.3>
-  <Vomited.rulePack.rulesStrings.4>circumstance_phrase->kärsivä ilme kasvoillaan</Vomited.rulePack.rulesStrings.4>
-  <Vomited.rulePack.rulesStrings.5>circumstance_phrase->suuressa häpeässä</Vomited.rulePack.rulesStrings.5>
-  <Vomited.rulePack.rulesStrings.6>circumstance_phrase->samalla kun muut katsovat</Vomited.rulePack.rulesStrings.6>
-  <Vomited.rulePack.rulesStrings.7>desc_sentence->[pawn_pronoun] näyttä olevan täysin tiedoton siitä mitä [pawn_possessive] tapahtuu.</Vomited.rulePack.rulesStrings.7>
-  <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_possessive] kasvonsa näyttävät turvonneilta.</Vomited.rulePack.rulesStrings.8>
-  <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] on lähes tajuton ja [pawn_possessive] kielensä roikkuu ulkona kuolaa valuen.</Vomited.rulePack.rulesStrings.9>
-  <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] kouristelee rajusti.</Vomited.rulePack.rulesStrings.10>
-  <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] näyttää häpeävän.</Vomited.rulePack.rulesStrings.11>
-  <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] näyttää yrittävän nauraa olosuhteista huolimatta.</Vomited.rulePack.rulesStrings.12>
-  <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] näyttää siltä kuin hän olisi täysin tyhjentynyt voimakkaan oksentelun jäljiltä.</Vomited.rulePack.rulesStrings.13>
-  <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] on taiteellisesti kuvatun törkykehän ympäröimä.</Vomited.rulePack.rulesStrings.14>
-  <Vomited.rulePack.rulesStrings.15>desc_sentence->[animal] syö oksennusvanasta taustalla.</Vomited.rulePack.rulesStrings.15>
+    <Vomited.rulePack.rulesStrings.0>image->[pawn_nameFull] syöksemässä oksennusta maahan [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.0>
+    <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull] näyttämässä vastenmieliseltä ja on kuivuneen oksennuksen peittämä [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.1>
+    <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull] kyyrisyneenä maahan yökkäillen [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.2>
+    <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull] polvillaan oksentamassa lattialle [circumstance_group]. [desc_sentence_group]</Vomited.rulePack.rulesStrings.3>
+    <Vomited.rulePack.rulesStrings.4>circumstance_phrase->kärsivä ilme kasvoillaan</Vomited.rulePack.rulesStrings.4>
+    <Vomited.rulePack.rulesStrings.5>circumstance_phrase->suuressa häpeässä</Vomited.rulePack.rulesStrings.5>
+    <Vomited.rulePack.rulesStrings.6>circumstance_phrase->samalla kun muut katsovat</Vomited.rulePack.rulesStrings.6>
+    <Vomited.rulePack.rulesStrings.7>desc_sentence->[pawn_pronoun] näyttä olevan täysin tiedoton siitä mitä [pawn_possessive] tapahtuu.</Vomited.rulePack.rulesStrings.7>
+    <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_possessive] kasvonsa näyttävät turvonneilta.</Vomited.rulePack.rulesStrings.8>
+    <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] on lähes tajuton ja [pawn_possessive] kielensä roikkuu ulkona kuolaa valuen.</Vomited.rulePack.rulesStrings.9>
+    <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] kouristelee rajusti.</Vomited.rulePack.rulesStrings.10>
+    <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] näyttää häpeävän.</Vomited.rulePack.rulesStrings.11>
+    <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] näyttää yrittävän nauraa olosuhteista huolimatta.</Vomited.rulePack.rulesStrings.12>
+    <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] näyttää siltä kuin hän olisi täysin tyhjentynyt voimakkaan oksentelun jäljiltä.</Vomited.rulePack.rulesStrings.13>
+    <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] on taiteellisesti kuvatun törkykehän ympäröimä.</Vomited.rulePack.rulesStrings.14>
+    <Vomited.rulePack.rulesStrings.15>desc_sentence->[animal] syö oksennusvanasta taustalla.</Vomited.rulePack.rulesStrings.15>
     
-  <Drunk.rulePack.rulesStrings.0>image->[pawn_nameFull] hoippumassa ympäriinsä juopuneena [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.0>
-  <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull] kallistamassa päätään taaksepäin viinaa ryypäten [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.1>
-  <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull] keräämässä ahnaasti viinapulloja [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.2>
-  <Drunk.rulePack.rulesStrings.3>image->[pawn_nameFull] juomassa rankasti [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.3>
-  <Drunk.rulePack.rulesStrings.4>circumstance_phrase->tietämättömänä ympäristöstään</Drunk.rulePack.rulesStrings.4>
-  <Drunk.rulePack.rulesStrings.5>circumstance_phrase->kytevässä tokkurassa</Drunk.rulePack.rulesStrings.5>
-  <Drunk.rulePack.rulesStrings.6>circumstance_phrase->ja kyseenalaistamassa omaa olemassaoloaan</Drunk.rulePack.rulesStrings.6>
-  <Drunk.rulePack.rulesStrings.7>circumstance_phrase->kyyneleet [pawn_possessive] silmissään</Drunk.rulePack.rulesStrings.7>
-  <Drunk.rulePack.rulesStrings.8>circumstance_phrase->ja hekottamassa hullusti</Drunk.rulePack.rulesStrings.8>
-  <Drunk.rulePack.rulesStrings.9>circumstance_phrase->ja nyyhkyttämässä</Drunk.rulePack.rulesStrings.9>
-  <Drunk.rulePack.rulesStrings.10>circumstance_phrase->säälittävältä näyttäen</Drunk.rulePack.rulesStrings.10>
-  <Drunk.rulePack.rulesStrings.11>circumstance_phrase->ympärillään olevia ihmisiä vihaisesti mulkoillen</Drunk.rulePack.rulesStrings.11>
-  <Drunk.rulePack.rulesStrings.12>circumstance_phrase->ja mulkoilemassa jotain lähellä olevaa henkilöä</Drunk.rulePack.rulesStrings.12>
-  <Drunk.rulePack.rulesStrings.13>circumstance_phrase->ja yrittämässä riisuuntua</Drunk.rulePack.rulesStrings.13>
-  <Drunk.rulePack.rulesStrings.14>circumstance_phrase->sormi suussaan</Drunk.rulePack.rulesStrings.14>
-  <Drunk.rulePack.rulesStrings.15>circumstance_phrase->ja oksennusta pidättelemässä</Drunk.rulePack.rulesStrings.15>
-  <Drunk.rulePack.rulesStrings.16>circumstance_phrase->täysin huoletta</Drunk.rulePack.rulesStrings.16>
-  <Drunk.rulePack.rulesStrings.17>circumstance_phrase->himokas pilke silmäkulmassaan</Drunk.rulePack.rulesStrings.17>
-  <Drunk.rulePack.rulesStrings.18>circumstance_phrase->ja menneisyyden haamujaan tutkimassa</Drunk.rulePack.rulesStrings.18>
-  <Drunk.rulePack.rulesStrings.19>desc_sentence->[pawn_pronoun] näyttää olevan täysin tietämätön ympäristöstään.</Drunk.rulePack.rulesStrings.19>
-  <Drunk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] naamansa näyttää turvonneelta.</Drunk.rulePack.rulesStrings.20>
-  <Drunk.rulePack.rulesStrings.21>desc_sentence->[pawn_pronoun] on lähes tajuton ja [pawn_possessive] kielensä roikku ulkona kuolaa valuen.</Drunk.rulePack.rulesStrings.21>
-  <Drunk.rulePack.rulesStrings.22>desc_sentence->[pawn_pronoun] näyttää sekä onnelliselta että suruulliselta samaan aikaan.</Drunk.rulePack.rulesStrings.22>
-  <Drunk.rulePack.rulesStrings.23>desc_sentence->[pawn_possessive] etumuksessaan on tahroja.</Drunk.rulePack.rulesStrings.23>
-  <Drunk.rulePack.rulesStrings.24>desc_sentence->[pawn_possessive] takanaan on vana käytettyjä juomatölkkejä.</Drunk.rulePack.rulesStrings.24>
-  <Drunk.rulePack.rulesStrings.25>desc_sentence->[pawn_possessive] housuillaan on valkoista ainetta.</Drunk.rulePack.rulesStrings.25>
-  <Drunk.rulePack.rulesStrings.26>desc_sentence->[pawn_pronoun] näyttää hukanneen kenkänsä.</Drunk.rulePack.rulesStrings.26>
-  <Drunk.rulePack.rulesStrings.27>desc_sentence->[pawn_possessive] hiuksensa ovat erittäin sotkuiset.</Drunk.rulePack.rulesStrings.27>
+    <Drunk.rulePack.rulesStrings.0>image->[pawn_nameFull] hoippumassa ympäriinsä juopuneena [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.0>
+    <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull] kallistamassa päätään taaksepäin viinaa ryypäten [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.1>
+    <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull] keräämässä ahnaasti viinapulloja [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.2>
+    <Drunk.rulePack.rulesStrings.3>image->[pawn_nameFull] juomassa rankasti [circumstance_group]. [desc_sentence_group]</Drunk.rulePack.rulesStrings.3>
+    <Drunk.rulePack.rulesStrings.4>circumstance_phrase->tietämättömänä ympäristöstään</Drunk.rulePack.rulesStrings.4>
+    <Drunk.rulePack.rulesStrings.5>circumstance_phrase->kytevässä tokkurassa</Drunk.rulePack.rulesStrings.5>
+    <Drunk.rulePack.rulesStrings.6>circumstance_phrase->ja kyseenalaistamassa omaa olemassaoloaan</Drunk.rulePack.rulesStrings.6>
+    <Drunk.rulePack.rulesStrings.7>circumstance_phrase->kyyneleet [pawn_possessive] silmissään</Drunk.rulePack.rulesStrings.7>
+    <Drunk.rulePack.rulesStrings.8>circumstance_phrase->ja hekottamassa hullusti</Drunk.rulePack.rulesStrings.8>
+    <Drunk.rulePack.rulesStrings.9>circumstance_phrase->ja nyyhkyttämässä</Drunk.rulePack.rulesStrings.9>
+    <Drunk.rulePack.rulesStrings.10>circumstance_phrase->säälittävältä näyttäen</Drunk.rulePack.rulesStrings.10>
+    <Drunk.rulePack.rulesStrings.11>circumstance_phrase->ympärillään olevia ihmisiä vihaisesti mulkoillen</Drunk.rulePack.rulesStrings.11>
+    <Drunk.rulePack.rulesStrings.12>circumstance_phrase->ja mulkoilemassa jotain lähellä olevaa henkilöä</Drunk.rulePack.rulesStrings.12>
+    <Drunk.rulePack.rulesStrings.13>circumstance_phrase->ja yrittämässä riisuuntua</Drunk.rulePack.rulesStrings.13>
+    <Drunk.rulePack.rulesStrings.14>circumstance_phrase->sormi suussaan</Drunk.rulePack.rulesStrings.14>
+    <Drunk.rulePack.rulesStrings.15>circumstance_phrase->ja oksennusta pidättelemässä</Drunk.rulePack.rulesStrings.15>
+    <Drunk.rulePack.rulesStrings.16>circumstance_phrase->täysin huoletta</Drunk.rulePack.rulesStrings.16>
+    <Drunk.rulePack.rulesStrings.17>circumstance_phrase->himokas pilke silmäkulmassaan</Drunk.rulePack.rulesStrings.17>
+    <Drunk.rulePack.rulesStrings.18>circumstance_phrase->ja menneisyyden haamujaan tutkimassa</Drunk.rulePack.rulesStrings.18>
+    <Drunk.rulePack.rulesStrings.19>desc_sentence->[pawn_pronoun] näyttää olevan täysin tietämätön ympäristöstään.</Drunk.rulePack.rulesStrings.19>
+    <Drunk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] naamansa näyttää turvonneelta.</Drunk.rulePack.rulesStrings.20>
+    <Drunk.rulePack.rulesStrings.21>desc_sentence->[pawn_pronoun] on lähes tajuton ja [pawn_possessive] kielensä roikku ulkona kuolaa valuen.</Drunk.rulePack.rulesStrings.21>
+    <Drunk.rulePack.rulesStrings.22>desc_sentence->[pawn_pronoun] näyttää sekä onnelliselta että suruulliselta samaan aikaan.</Drunk.rulePack.rulesStrings.22>
+    <Drunk.rulePack.rulesStrings.23>desc_sentence->[pawn_possessive] etumuksessaan on tahroja.</Drunk.rulePack.rulesStrings.23>
+    <Drunk.rulePack.rulesStrings.24>desc_sentence->[pawn_possessive] takanaan on vana käytettyjä juomatölkkejä.</Drunk.rulePack.rulesStrings.24>
+    <Drunk.rulePack.rulesStrings.25>desc_sentence->[pawn_possessive] housuillaan on valkoista ainetta.</Drunk.rulePack.rulesStrings.25>
+    <Drunk.rulePack.rulesStrings.26>desc_sentence->[pawn_pronoun] näyttää hukanneen kenkänsä.</Drunk.rulePack.rulesStrings.26>
+    <Drunk.rulePack.rulesStrings.27>desc_sentence->[pawn_possessive] hiuksensa ovat erittäin sotkuiset.</Drunk.rulePack.rulesStrings.27>
     
-  <WasOnFire.rulePack.rulesStrings.0>image->[pawn_nameFull] lyömässä hätäisesti [pawn_possessive] kehossaan olevaa liekkiä [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.0>
-  <WasOnFire.rulePack.rulesStrings.1>image->[pawn_nameFull] liekkien ympäröimänä [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.1>
-  <WasOnFire.rulePack.rulesStrings.2>image->[pawn_nameFull] polvillaan kädet pään takana yrittäen sammuttaa tulta [pawn_possessive] vartalollaan [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.2>
-  <WasOnFire.rulePack.rulesStrings.3>image->[pawn_nameFull] kierimässä maassa liekkien kourissa [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.3>
-  <WasOnFire.rulePack.rulesStrings.4>circumstance_phrase->ja yrittämässä riisuuntua</WasOnFire.rulePack.rulesStrings.4>
-  <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase->samalla kun muut katsovat</WasOnFire.rulePack.rulesStrings.5>
-  <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase->lähes alastomana</WasOnFire.rulePack.rulesStrings.6>
-  <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase->keskittyneen näköisenä</WasOnFire.rulePack.rulesStrings.7>
-  <WasOnFire.rulePack.rulesStrings.8>desc_sentence->[pawn_possessive] lihansa on hiiltynyt.</WasOnFire.rulePack.rulesStrings.8>
-  <WasOnFire.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] silmänsä ovat paniikin auki repimät.</WasOnFire.rulePack.rulesStrings.9>
-  <WasOnFire.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] näyttää olevan juuri ja juuri tajuissaan; [pawn_possessive] silmänsä ovat elottomat.</WasOnFire.rulePack.rulesStrings.10>
-  <WasOnFire.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] suunsa on auki ja [pawn_pronoun] huutaa apua.</WasOnFire.rulePack.rulesStrings.11>
-  <WasOnFire.rulePack.rulesStrings.12>desc_sentence->Liekit ovat ympäröimässä [pawn_possessive] päänsä.</WasOnFire.rulePack.rulesStrings.12>
-  <WasOnFire.rulePack.rulesStrings.13>desc_sentence->Symbolinen tulikehä ympäröi [pawn_possessive] kasvojaan.</WasOnFire.rulePack.rulesStrings.13>
-  <WasOnFire.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] nauraa mielipuolisesti.</WasOnFire.rulePack.rulesStrings.14>
-  <WasOnFire.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] näyttää olevan menettämässä itsensä.</WasOnFire.rulePack.rulesStrings.15>
-  <WasOnFire.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] tupruttaa savua.</WasOnFire.rulePack.rulesStrings.16>
-  <WasOnFire.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] on kuvattu taiteellisesti ruumismaiseen tyyliin.</WasOnFire.rulePack.rulesStrings.17>
+    <WasOnFire.rulePack.rulesStrings.0>image->[pawn_nameFull] lyömässä hätäisesti [pawn_possessive] kehossaan olevaa liekkiä [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.0>
+    <WasOnFire.rulePack.rulesStrings.1>image->[pawn_nameFull] liekkien ympäröimänä [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.1>
+    <WasOnFire.rulePack.rulesStrings.2>image->[pawn_nameFull] polvillaan kädet pään takana yrittäen sammuttaa tulta [pawn_possessive] vartalollaan [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.2>
+    <WasOnFire.rulePack.rulesStrings.3>image->[pawn_nameFull] kierimässä maassa liekkien kourissa [circumstance_group]. [desc_sentence_group]</WasOnFire.rulePack.rulesStrings.3>
+    <WasOnFire.rulePack.rulesStrings.4>circumstance_phrase->ja yrittämässä riisuuntua</WasOnFire.rulePack.rulesStrings.4>
+    <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase->samalla kun muut katsovat</WasOnFire.rulePack.rulesStrings.5>
+    <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase->lähes alastomana</WasOnFire.rulePack.rulesStrings.6>
+    <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase->keskittyneen näköisenä</WasOnFire.rulePack.rulesStrings.7>
+    <WasOnFire.rulePack.rulesStrings.8>desc_sentence->[pawn_possessive] lihansa on hiiltynyt.</WasOnFire.rulePack.rulesStrings.8>
+    <WasOnFire.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] silmänsä ovat paniikin auki repimät.</WasOnFire.rulePack.rulesStrings.9>
+    <WasOnFire.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] näyttää olevan juuri ja juuri tajuissaan; [pawn_possessive] silmänsä ovat elottomat.</WasOnFire.rulePack.rulesStrings.10>
+    <WasOnFire.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] suunsa on auki ja [pawn_pronoun] huutaa apua.</WasOnFire.rulePack.rulesStrings.11>
+    <WasOnFire.rulePack.rulesStrings.12>desc_sentence->Liekit ovat ympäröimässä [pawn_possessive] päänsä.</WasOnFire.rulePack.rulesStrings.12>
+    <WasOnFire.rulePack.rulesStrings.13>desc_sentence->Symbolinen tulikehä ympäröi [pawn_possessive] kasvojaan.</WasOnFire.rulePack.rulesStrings.13>
+    <WasOnFire.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] nauraa mielipuolisesti.</WasOnFire.rulePack.rulesStrings.14>
+    <WasOnFire.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] näyttää olevan menettämässä itsensä.</WasOnFire.rulePack.rulesStrings.15>
+    <WasOnFire.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] tupruttaa savua.</WasOnFire.rulePack.rulesStrings.16>
+    <WasOnFire.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] on kuvattu taiteellisesti ruumismaiseen tyyliin.</WasOnFire.rulePack.rulesStrings.17>
     
-  <MentalBreakBerserk.rulePack.rulesStrings.0>image->[pawn_nameFull] raivoamassa hulluna [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.0>
-  <MentalBreakBerserk.rulePack.rulesStrings.1>image->[pawn_nameFull] tulemassa vihoissaan väkivaltaisen hulluksi [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.1>
-  <MentalBreakBerserk.rulePack.rulesStrings.2>image->[pawn_nameFull] kompuroimassa eteenpäin sekopäinen katse [pawn_possessive] kasvoillaan [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.2>
-  <MentalBreakBerserk.rulePack.rulesStrings.3>circumstance_phrase->ja yrittämässä riisuuntua</MentalBreakBerserk.rulePack.rulesStrings.3>
-  <MentalBreakBerserk.rulePack.rulesStrings.4>circumstance_phrase->näennäisesti ilman syytä</MentalBreakBerserk.rulePack.rulesStrings.4>
-  <MentalBreakBerserk.rulePack.rulesStrings.5>circumstance_phrase->samalla kun muut kyyristyvät peloissaan</MentalBreakBerserk.rulePack.rulesStrings.5>
-  <MentalBreakBerserk.rulePack.rulesStrings.6>circumstance_phrase->samalla kun ystävä pakenee</MentalBreakBerserk.rulePack.rulesStrings.6>
-  <MentalBreakBerserk.rulePack.rulesStrings.7>circumstance_phrase->rasituksesta johtuen</MentalBreakBerserk.rulePack.rulesStrings.7>
-  <MentalBreakBerserk.rulePack.rulesStrings.8>circumstance_phrase->viimeisenä tekonaan</MentalBreakBerserk.rulePack.rulesStrings.8>
-  <MentalBreakBerserk.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] kihisee hallitsematonta kiukkua.</MentalBreakBerserk.rulePack.rulesStrings.9>
-  <MentalBreakBerserk.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] hampaansa ovat paljastettuina tappavassa irvistyksessä.</MentalBreakBerserk.rulePack.rulesStrings.10>
-  <MentalBreakBerserk.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] silmänsä ovat hulluuden täyttämät.</MentalBreakBerserk.rulePack.rulesStrings.11>
-  <MentalBreakBerserk.rulePack.rulesStrings.12>desc_sentence->Sylkeä lentää [pawn_possessive] suustaan samalla kun hän huutaa raivoissaan.</MentalBreakBerserk.rulePack.rulesStrings.12>
-  <MentalBreakBerserk.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] on menettänyt palan [pawn_possessive] vaatteestaan.</MentalBreakBerserk.rulePack.rulesStrings.13>
-  <MentalBreakBerserk.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] irvistää kärsimyksissään.</MentalBreakBerserk.rulePack.rulesStrings.14>
-  <MentalBreakBerserk.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] näyttää hymyilevän sekopäisesti.</MentalBreakBerserk.rulePack.rulesStrings.15>
-  <MentalBreakBerserk.rulePack.rulesStrings.16>desc_sentence->Hänet on kuvattu [animal]kasvoisena.</MentalBreakBerserk.rulePack.rulesStrings.16>
-  <MentalBreakBerserk.rulePack.rulesStrings.17>desc_sentence->[animal]lauma ympäröi [pawn_possessive] päätään symbolisesti.</MentalBreakBerserk.rulePack.rulesStrings.17>
-  <MentalBreakBerserk.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] silmäkulmassaan on murhamielinen pilke.</MentalBreakBerserk.rulePack.rulesStrings.18>
-  <MentalBreakBerserk.rulePack.rulesStrings.19>desc_sentence->[pawn_possessive] koko ruumiinsa näyttää tärisevän vihasta.</MentalBreakBerserk.rulePack.rulesStrings.19>
-  <MentalBreakBerserk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] kasvonsa on tehty kuvaamaan kieroutunutta seesteisyyttä.</MentalBreakBerserk.rulePack.rulesStrings.20>
-  <MentalBreakBerserk.rulePack.rulesStrings.21>desc_sentence->Yksittäinen kyynel vierii [pawn_possessive] poskellaan.</MentalBreakBerserk.rulePack.rulesStrings.21>
+    <MentalBreakBerserk.rulePack.rulesStrings.0>image->[pawn_nameFull] raivoamassa hulluna [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.0>
+    <MentalBreakBerserk.rulePack.rulesStrings.1>image->[pawn_nameFull] tulemassa vihoissaan väkivaltaisen hulluksi [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.1>
+    <MentalBreakBerserk.rulePack.rulesStrings.2>image->[pawn_nameFull] kompuroimassa eteenpäin sekopäinen katse [pawn_possessive] kasvoillaan [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.2>
+    <MentalBreakBerserk.rulePack.rulesStrings.3>circumstance_phrase->ja yrittämässä riisuuntua</MentalBreakBerserk.rulePack.rulesStrings.3>
+    <MentalBreakBerserk.rulePack.rulesStrings.4>circumstance_phrase->näennäisesti ilman syytä</MentalBreakBerserk.rulePack.rulesStrings.4>
+    <MentalBreakBerserk.rulePack.rulesStrings.5>circumstance_phrase->samalla kun muut kyyristyvät peloissaan</MentalBreakBerserk.rulePack.rulesStrings.5>
+    <MentalBreakBerserk.rulePack.rulesStrings.6>circumstance_phrase->samalla kun ystävä pakenee</MentalBreakBerserk.rulePack.rulesStrings.6>
+    <MentalBreakBerserk.rulePack.rulesStrings.7>circumstance_phrase->rasituksesta johtuen</MentalBreakBerserk.rulePack.rulesStrings.7>
+    <MentalBreakBerserk.rulePack.rulesStrings.8>circumstance_phrase->viimeisenä tekonaan</MentalBreakBerserk.rulePack.rulesStrings.8>
+    <MentalBreakBerserk.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] kihisee hallitsematonta kiukkua.</MentalBreakBerserk.rulePack.rulesStrings.9>
+    <MentalBreakBerserk.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] hampaansa ovat paljastettuina tappavassa irvistyksessä.</MentalBreakBerserk.rulePack.rulesStrings.10>
+    <MentalBreakBerserk.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] silmänsä ovat hulluuden täyttämät.</MentalBreakBerserk.rulePack.rulesStrings.11>
+    <MentalBreakBerserk.rulePack.rulesStrings.12>desc_sentence->Sylkeä lentää [pawn_possessive] suustaan samalla kun hän huutaa raivoissaan.</MentalBreakBerserk.rulePack.rulesStrings.12>
+    <MentalBreakBerserk.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] on menettänyt palan [pawn_possessive] vaatteestaan.</MentalBreakBerserk.rulePack.rulesStrings.13>
+    <MentalBreakBerserk.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] irvistää kärsimyksissään.</MentalBreakBerserk.rulePack.rulesStrings.14>
+    <MentalBreakBerserk.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] näyttää hymyilevän sekopäisesti.</MentalBreakBerserk.rulePack.rulesStrings.15>
+    <MentalBreakBerserk.rulePack.rulesStrings.16>desc_sentence->Hänet on kuvattu [animal]kasvoisena.</MentalBreakBerserk.rulePack.rulesStrings.16>
+    <MentalBreakBerserk.rulePack.rulesStrings.17>desc_sentence->[animal]lauma ympäröi [pawn_possessive] päätään symbolisesti.</MentalBreakBerserk.rulePack.rulesStrings.17>
+    <MentalBreakBerserk.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] silmäkulmassaan on murhamielinen pilke.</MentalBreakBerserk.rulePack.rulesStrings.18>
+    <MentalBreakBerserk.rulePack.rulesStrings.19>desc_sentence->[pawn_possessive] koko ruumiinsa näyttää tärisevän vihasta.</MentalBreakBerserk.rulePack.rulesStrings.19>
+    <MentalBreakBerserk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] kasvonsa on tehty kuvaamaan kieroutunutta seesteisyyttä.</MentalBreakBerserk.rulePack.rulesStrings.20>
+    <MentalBreakBerserk.rulePack.rulesStrings.21>desc_sentence->Yksittäinen kyynel vierii [pawn_possessive] poskellaan.</MentalBreakBerserk.rulePack.rulesStrings.21>
     
-  <MentalBreakGaveUp.rulePack.rulesStrings.0>image->[pawn_nameFull] antamassa lopulta periksi rasituksen alla [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.0>
-  <MentalBreakGaveUp.rulePack.rulesStrings.1>image->[pawn_nameFull] nyyhkimässä hallitsemattomasti [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.1>
-  <MentalBreakGaveUp.rulePack.rulesStrings.2>image->[pawn_nameFull] kompuroimassa ympäriinsä täysin murtunut ilme kasvoillaan [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.2>
-  <MentalBreakGaveUp.rulePack.rulesStrings.3>circumstance_phrase->ja yrittämässä riisuuntua</MentalBreakGaveUp.rulePack.rulesStrings.3>
-  <MentalBreakGaveUp.rulePack.rulesStrings.4>circumstance_phrase->näennäisesti ilman syytä</MentalBreakGaveUp.rulePack.rulesStrings.4>
-  <MentalBreakGaveUp.rulePack.rulesStrings.5>circumstance_phrase->muiden tarjotessa myötätuntoa</MentalBreakGaveUp.rulePack.rulesStrings.5>
-  <MentalBreakGaveUp.rulePack.rulesStrings.6>circumstance_phrase->ystävän itkiessä</MentalBreakGaveUp.rulePack.rulesStrings.6>
-  <MentalBreakGaveUp.rulePack.rulesStrings.7>circumstance_phrase->stressistä johtuen</MentalBreakGaveUp.rulePack.rulesStrings.7>
-  <MentalBreakGaveUp.rulePack.rulesStrings.8>circumstance_phrase->viimeisenä tekonaan</MentalBreakGaveUp.rulePack.rulesStrings.8>
-  <MentalBreakGaveUp.rulePack.rulesStrings.9>desc_sentence->Kyyneleet virtaavat [pawn_possessive] kasvoillaan.</MentalBreakGaveUp.rulePack.rulesStrings.9>
-  <MentalBreakGaveUp.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] nauraa masennuksensa kourissa.</MentalBreakGaveUp.rulePack.rulesStrings.10>
-  <MentalBreakGaveUp.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDefinite] katsoo ylöspäin apua pyytäen.</MentalBreakGaveUp.rulePack.rulesStrings.11>
-  <MentalBreakGaveUp.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] repii [pawn_possessive] vaatteitaan.</MentalBreakGaveUp.rulePack.rulesStrings.12>
-  <MentalBreakGaveUp.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] näyttää olevan täysin tietämätön ympäristöstään.</MentalBreakGaveUp.rulePack.rulesStrings.13>
-  <MentalBreakGaveUp.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] näyttää sekä onnelliselta että suruulliselta samaan aikaan.</MentalBreakGaveUp.rulePack.rulesStrings.14>
-  <MentalBreakGaveUp.rulePack.rulesStrings.15>desc_sentence->[pawn_possessive] etumuksessaan on tahroja.</MentalBreakGaveUp.rulePack.rulesStrings.15>
-  <MentalBreakGaveUp.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] näyttää hukanneen kenkänsä.</MentalBreakGaveUp.rulePack.rulesStrings.16>
-  <MentalBreakGaveUp.rulePack.rulesStrings.17>desc_sentence->[pawn_possessive] hiuksensa ovat erittäin sotkuiset.</MentalBreakGaveUp.rulePack.rulesStrings.17>
+    <MentalBreakGaveUp.rulePack.rulesStrings.0>image->[pawn_nameFull] antamassa lopulta periksi rasituksen alla [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.0>
+    <MentalBreakGaveUp.rulePack.rulesStrings.1>image->[pawn_nameFull] nyyhkimässä hallitsemattomasti [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.1>
+    <MentalBreakGaveUp.rulePack.rulesStrings.2>image->[pawn_nameFull] kompuroimassa ympäriinsä täysin murtunut ilme kasvoillaan [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.2>
+    <MentalBreakGaveUp.rulePack.rulesStrings.3>circumstance_phrase->ja yrittämässä riisuuntua</MentalBreakGaveUp.rulePack.rulesStrings.3>
+    <MentalBreakGaveUp.rulePack.rulesStrings.4>circumstance_phrase->näennäisesti ilman syytä</MentalBreakGaveUp.rulePack.rulesStrings.4>
+    <MentalBreakGaveUp.rulePack.rulesStrings.5>circumstance_phrase->muiden tarjotessa myötätuntoa</MentalBreakGaveUp.rulePack.rulesStrings.5>
+    <MentalBreakGaveUp.rulePack.rulesStrings.6>circumstance_phrase->ystävän itkiessä</MentalBreakGaveUp.rulePack.rulesStrings.6>
+    <MentalBreakGaveUp.rulePack.rulesStrings.7>circumstance_phrase->stressistä johtuen</MentalBreakGaveUp.rulePack.rulesStrings.7>
+    <MentalBreakGaveUp.rulePack.rulesStrings.8>circumstance_phrase->viimeisenä tekonaan</MentalBreakGaveUp.rulePack.rulesStrings.8>
+    <MentalBreakGaveUp.rulePack.rulesStrings.9>desc_sentence->Kyyneleet virtaavat [pawn_possessive] kasvoillaan.</MentalBreakGaveUp.rulePack.rulesStrings.9>
+    <MentalBreakGaveUp.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] nauraa masennuksensa kourissa.</MentalBreakGaveUp.rulePack.rulesStrings.10>
+    <MentalBreakGaveUp.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDefinite] katsoo ylöspäin apua pyytäen.</MentalBreakGaveUp.rulePack.rulesStrings.11>
+    <MentalBreakGaveUp.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] repii [pawn_possessive] vaatteitaan.</MentalBreakGaveUp.rulePack.rulesStrings.12>
+    <MentalBreakGaveUp.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] näyttää olevan täysin tietämätön ympäristöstään.</MentalBreakGaveUp.rulePack.rulesStrings.13>
+    <MentalBreakGaveUp.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] näyttää sekä onnelliselta että suruulliselta samaan aikaan.</MentalBreakGaveUp.rulePack.rulesStrings.14>
+    <MentalBreakGaveUp.rulePack.rulesStrings.15>desc_sentence->[pawn_possessive] etumuksessaan on tahroja.</MentalBreakGaveUp.rulePack.rulesStrings.15>
+    <MentalBreakGaveUp.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] näyttää hukanneen kenkänsä.</MentalBreakGaveUp.rulePack.rulesStrings.16>
+    <MentalBreakGaveUp.rulePack.rulesStrings.17>desc_sentence->[pawn_possessive] hiuksensa ovat erittäin sotkuiset.</MentalBreakGaveUp.rulePack.rulesStrings.17>
     
 </LanguageData>

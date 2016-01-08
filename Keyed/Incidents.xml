@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <LetterLabelAnimalInsanitySingle>Hullu eläin</LetterLabelAnimalInsanitySingle>
@@ -12,12 +12,12 @@
   <LetterLabelMiracleHeal>Ihmeparantuminen</LetterLabelMiracleHeal>
   <MiracleHeal>{0} on kokenut ihmeparantumisen!</MiracleHeal>
 
-  <!-- Enemy raids -->
+  
   <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut laskeutumiskapseleissa lähistölle.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
 
-  <!-- Friendly raids -->
+  
   <FriendlyRaidWalkIn>Ryhmä ystävällisiä {0} tukikohdasta {1} on saapunut lähistölle.</FriendlyRaidWalkIn>
   <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
@@ -48,9 +48,9 @@
   <WandererJoin>Eräs {0} nimeltään NAME on saapunut ja liittyy yhdyskuntaasi. HECAP on {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Ihmisjahtaajia</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>{0}lauma on saapunut alueelle ja ne jahtaavat ihmisiä. Ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät voi kulkea ovista, joten sinun pitäisi olla turvassa jos pysyt seinien sisällä. Ne eivät hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi jos haluat säästää ne.\n\nNe lähtevät alueelta parin päivän päästä.</ManhunterPackArrived>  
+  <ManhunterPackArrived>{0}lauma on saapunut alueelle ja ne jahtaavat ihmisiä. Ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät voi kulkea ovista, joten sinun pitäisi olla turvassa jos pysyt seinien sisällä. Ne eivät hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi jos haluat säästää ne.\n\nNe lähtevät alueelta parin päivän päästä.</ManhunterPackArrived>
   
-  <!-- Crashed ship part-->
+  
   <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut spyykkisen pulssin mikä on ajanut kaikki läheiset eläimet hulluiksi.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>Pudonneen aluksen kappale on lähettänyt keskitetyn psyykkisen pulssin, joka on ajanut yhdyskuntalaisen {0} hulluksi.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Heräsi {0} päivää sitten</AwokeDaysAgo>
@@ -62,39 +62,39 @@
   <LetterLabelPsychicDroneLevelIncreased>Häirintä voimistuu</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
   
-  <!-- Agent revealed -->
+  
   <LetterLabelAgentRevealed>Vakooja</LetterLabelAgentRevealed>
   <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojaksi.\n\nHän yrittää nyt paeta.</LetterAgentRevealed>
+
   
-  <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
   <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>Psyykkinen rauhoitus</LetterLabelPsychicSoothe>
   <LetterIncidentPsychicSoothe>Jokainen sukupuolta {0} edustava yhdyskuntalainen hymyilee onnessaan!\n\nJokin etäinen onnellisuuskone hyrrää. Se lähettää voimakasta psyykkistä säteilyä koko alueen ylle taajuudella joka tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon parempi.</LetterIncidentPsychicSoothe>
 
-  <!-- Beavers -->
+  
   <LetterLabelBeaversArrived>Majavia!</LetterLabelBeaversArrived>
   <BeaversArrived>Ryhmä nälkäisiä alfamajavia on juuri saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puun.</BeaversArrived>
   
-  <!-- Refugee chased -->
+  
   <RefugeeChasedInitial>{1} nimeltään {0} kutsuu sinua lähistöltä. Häntä jahtaa {2} tukikohdasta {3}!\n\nHECAP anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. Hänen biologinen ikänsä on {4}.\n\nOle varuillasi - jos hyväksyt, joudut taistelemaan HIS kannoillaan olevia {2} vastaan.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Jätä viesti huomiotta</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} huutaa kauhuissaan särisevästä kaiuttimesta ennen kuin katkaiset lähetyksen.</RefugeeChasedRejected>
 
-  <!-- Self-tame -->
+  
   <LetterLabelAnimalSelfTame>{0} kesyyntyi itsestään</LetterLabelAnimalSelfTame>
   <LetterAnimalSelfTame>Eläimestä {0} on tullut kesy.</LetterAnimalSelfTame>
   <LetterAnimalSelfTameAndNameNumerical>Eläimestä {0} on tullut kesy. Sen nimitys on nyt {1}.</LetterAnimalSelfTameAndNameNumerical>
   <LetterAnimalSelfTameAndName>Eläimestä {0} on tullut kesy. Yhdyskuntalaiset antoivat sille nimeksi {1}.</LetterAnimalSelfTameAndName>
 
-  <!-- Farm animals wander in -->
+  
   <LetterLabelFarmAnimalsWanderIn>{0}lauma liittyy</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>Hylätty tai eksynyt {0}lauma on kuljeutunut alueelle.\n\nNe näyttävät tottuneilta ihmiskontaktiin ja liittyvät yhdyskuntaan.</LetterFarmAnimalsWanderIn>
   
-  <!-- Thrumbo passes -->
+  
   <LetterLabelThrumboPasses>Harvinaisia thrumboja</LetterLabelThrumboPasses>
   <LetterThrumboPasses>Pieni lauma thrumboja on kuljeutunut alueelle.\n\nNe ovat luonnostaan rauhantahtoisia, mutta nämä harvinaiset oliot ovat äärimmäisen vaarallisia uhmattuina. Jotkin vaihtokauppiaat haluavat maksaa paljon rahaa niiden arvokkaasta nahasta ja sarvesta.\n\nThrumbot lähtevät alueelta muutamassa päivässä.</LetterThrumboPasses>
-
+  
 </LanguageData>

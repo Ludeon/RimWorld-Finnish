@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClickToJumpToProblem>Klikkaa hypätäksesi ongelmaan</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Klikkaa hypätäksesi ongelmaan</ClickToJumpToProblem>
 
-
-
+  
+  
   <NeedSawmill>Tarvitset sahan</NeedSawmill>
   <NeedSawmillDesc>Tarvitset jonkinlaisen sahan jolla voit sahata puita monikäyttöisemmiksi lankuiksi.\n\nRakenna SAHA tai SÄHKÖINEN SAHA.</NeedSawmillDesc>
 
@@ -13,7 +13,7 @@
   <TerribleMood>Surkea mielieala</TerribleMood>
   <TerribleMoodDesc>Nämä yhdyskuntalaiset ovat erittäin rasittuneita ja saattavat kokea mahdollisesti väkivaltaisen hermoromahduksen minä hetkenä hyvänsä:\n\n{0}</TerribleMoodDesc>
   <LowMoodDescEnding>Tarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</LowMoodDescEnding>
-
+  
   <ColonistNeedsRescue>Yhdyskuntalainen tarvitsee pelastusta</ColonistNeedsRescue>
   <ColonistsNeedRescue>Yhdyskuntalaiset tarvitsevat pelastusta</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>Nämä yhdyskuntalaiset makaavat maassa liikuntakyvyttöminä:\n\n{0}\nLähetä toinen yhdyskuntalainen pelastamaan heidät ja kantamaan heidät sänkyyn.\n\n(Valitse toinen yhdyskuntalainen, sitten paina hiiren oikealla näppäimellä uhria ja valitse Pelasta.</ColonistsNeedRescueDesc>
@@ -39,7 +39,7 @@
   <LowMedicine>Vähän lääketarpeita</LowMedicine>
   <LowMedicineDesc>Sinulla on vain {0} lääketarvetta jäljellä varastossa.\n\nOsta lisää lääketarpeita vaihtokauppiailta.</LowMedicineDesc>
   <NoMedicineDesc>Sinulla ei ole yhtään lääketarpeita jäljellä varastossa.\n\nOsta lisää lääketarpeita vaihtokauppiailta.</NoMedicineDesc>
-
+  
   <NeedColonistBeds>Tarvitset sängyn yhdyskuntalaisille</NeedColonistBeds>
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
 
@@ -80,29 +80,23 @@
 
   <NeedResearchProject>Tarvitset tutkimusprojektin</NeedResearchProject>
   <NeedResearchProjectDesc>Sinulla on tutkimusvälineet mutta et ole valinnut tutkimuskohdetta.\n\nAvaa tutkimusvalikko ja valitse tutkimuskohde.</NeedResearchProjectDesc>
-
+  
   <NeedDump>Tarvitset kaatopaikan</NeedDump>
   <NeedDumpDesc>Olet merkinnyt esineen {0} raahattavaksi, mutta yhdyskuntalaisillasi ei ole paikkaa minne viedä sitä.\n\nMääritä kaatopaikka ja aseta se hyväksymään samantyyppisiä tavaroita kuin {0}.</NeedDumpDesc>
+
   
-    <!-- Removed
-    <NeedGrave>Need grave</NeedGrave>
-    <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
-    -->
 
   <ColonistsIdle>{0} yhdyskuntalaista joutilaana</ColonistsIdle>
   <ColonistsIdleDesc>Nämä yhdyskuntalaiset haahuilevat toimettomina:\n\n{0}\nSinun kannattaisi keksiä heille jotain tekemistä.</ColonistsIdleDesc>
+
   
-    <!-- Removed
-    <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
-    <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
-    -->
-    
+  
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Hypotermia</AlertHypothermia>
   <AlertHypothermiaDesc>Nämä yhdyskuntalaiset kärsivät hypotermiasta.\n\n{0}\nVarmista, että heidän vaatetuksensa on vuodenaikaan sopiva ja että sisätilat ovat lämmitettyjä.</AlertHypothermiaDesc>
-
+  
   <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>Nämä yhdyskuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>
 
@@ -118,5 +112,5 @@
 
   <HunterHasShieldAndRangedWeapon>Metsästäjällä on suojakilpi ja ampuma-ase</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>Erääs metsästäjäsi käyttää ampuma-asetta ja hänellä on päällään henkilökohtainen suojakilpi, joka estää ampumisen.\n\nHe eivät voi metsästää ellei suojaakilpeä poisteta.</HunterHasShieldAndRangedWeaponDesc>
-
+  
 </LanguageData>

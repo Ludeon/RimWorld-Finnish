@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
  
@@ -18,7 +18,7 @@
   <MessageVisitorsTakingWounded>{0} tukikohdasta {1} ottavat mukaansa haavoittuneen vieraan.</MessageVisitorsTakingWounded>
   
   <MessageWornApparelDeterioratedAway>Henkilön {1} yllä ollut {0} hajosi olemattomiin.</MessageWornApparelDeterioratedAway>
-
+  
   <MessageSeasonBegun>{0} on alkanut.</MessageSeasonBegun>
 
   <MessageShipHasLeftCommsRange>{0} on nyt yhteyskantaman ulkopuolella.</MessageShipHasLeftCommsRange>
@@ -35,7 +35,7 @@
 
   <MessageAnimalsGoPsychoHunted>Varoitus: {0} hyökkää yleensä uhattuna.</MessageAnimalsGoPsychoHunted>
   <MessageAnimalManhuntsOnTameFailed>Varoitus: {0} saattaa hyökätä epäonnistuneen kesytysyrityksen takia (todennäköisyys {1}).</MessageAnimalManhuntsOnTameFailed>
-
+  
   <LetterLabelMessageRecruitSuccess>Uusi jäsen</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitSuccess>
 	<MessageRecruitFail>{0} epäonnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitFail>

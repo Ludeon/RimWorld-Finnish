@@ -7,11 +7,11 @@
     <TurretGun.label>improvisoitu tykkitorni</TurretGun.label>
     <TurretGun.description>Heikko improvisoitu tykki joka ampuu automaattisesti kantamassa olevia vihollisia. Räjähtää vaurioituessaan.</TurretGun.description>
     
-    <Turret_MortarIncendiary.label>palopomminheitin</Turret_MortarIncendiary.label>
-    <Turret_MortarIncendiary.description>Kranaatinheitin joka ampuu palopommeja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarIncendiary.description>
-    
     <Turret_MortarBomb.label>kranaatinheitin</Turret_MortarBomb.label>
     <Turret_MortarBomb.description>Kranaatinheitin joka ampuu räjähtäviä kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarBomb.description>
+    
+    <Turret_MortarIncendiary.label>palopomminheitin</Turret_MortarIncendiary.label>
+    <Turret_MortarIncendiary.description>Kranaatinheitin joka ampuu palopommeja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarIncendiary.description>
     
     <Turret_MortarEMP.label>EMP-kranaatinheitin</Turret_MortarEMP.label>
     <Turret_MortarEMP.description>Kranaatinheitin joka ampuu EMP-kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarEMP.description>

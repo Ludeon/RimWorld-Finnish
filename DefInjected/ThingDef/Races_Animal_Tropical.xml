@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
+    
     <Cobra.label>kobra</Cobra.label>
     <Cobra.description>Suuri käärme. Kobrat ovat hyvin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olioista.</Cobra.description>
     <Cobra_Leather.label>kobran nahkaa</Cobra_Leather.label>
@@ -9,7 +9,7 @@
     <Cobra_Meat.description>Raakaa kobran lihaa.</Cobra_Meat.description>
     <Cobra_Corpse.label>kobran ruumis</Cobra_Corpse.label>
     <Cobra_Corpse.description>Kuolleen kobran ruumis.</Cobra_Corpse.description>
-
+    
     <Monkey.label>apina</Monkey.label>
     <Monkey.description>Tämä apina voi käyttää kippuraista häntäänsä tarttuakseen puunoksiin jättäen kätensä vapaiksi tekemään muita toimia.</Monkey.description>
     <Monkey_Leather.label>apinan nahkaa</Monkey_Leather.label>

@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <JumpToLocation>Hyppää sijaintiin</JumpToLocation>
-
+  
   <LetterLabelFirstSummerWarning>Kesä</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Kesä on alkanut! Talvi on silti tulossa.\n\nSinun ruokaviljelmäsi eivät kasva talven kylmässä. Varmista, että sinulla on ruokaa varastossa usean kuukauden tarpeiksi kun sinulla on siihen vielä mahdollisuus.\n\nVoit rakentaa pakastehuoneen estääksesi ruuan pilaantumisen.\n\nYritä lisäksi ostaa, varastaa tai tehdä itse anorakkeja tai jäädyt astueassasi ulos.</FirstSummerWarning>
 
@@ -24,14 +24,14 @@
   <TheseThingsCrushed>Nämä tavarat murskautuivat:</TheseThingsCrushed>
   <NothingCrushed>Mitään ei murskautunut.</NothingCrushed>
   <LetterLabelRoofCollapsed>Katon romahtaminen</LetterLabelRoofCollapsed>
-
+  
   <RecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</RecruitSuccess>
   <RecruitFail>{0} epäonnistui vangin {1} värmäämisessä ({2} mahdollisuus).</RecruitFail>
 
   <LetterLabelBirthday>Syntymäpäivä</LetterLabelBirthday>
   <BirthdayChronological>Tänään on henkilön {0} syntymäpäivä! Hänen biologinen ikänsä on {3} vuotta.\n\Ajanlaskun mukaan {1} täytti juuri {2}.\n\nHuomaa, että ihmiset eivät ikäänny ollessaan salaunessa, ja siksi ajanlaskun mukainen syntymäpäivä on erillinen biologisesta syntymäpäivästä.</BirthdayChronological>
   <BirthdayBiologicalAgeInjuries>{0} on saavuttanut {1} vuoden biologisen iän.\n\nValitettavasti hän sai seuraavat sairaudet ikääntymisen mukana:\n{2}</BirthdayBiologicalAgeInjuries>
-  
+
   <LetterLabelNewDisease>Sairaus</LetterLabelNewDisease>
   <NewDisease>{0} tuli sairaaksi ({1}). Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewDisease>
   <NewPartDisease>{0} sai {1}-tartunnan. Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewPartDisease>
@@ -51,8 +51,8 @@
 
   <LetterHealthComplications>Henkilölle {0} on tullut {1} lisätautina sairaudesta {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+
   
-  <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>Hyväntahtoisuutta</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Pahantahtoisuutta</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Zzzap...</LetterLabelShortCircuit>

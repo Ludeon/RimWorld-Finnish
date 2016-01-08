@@ -64,11 +64,11 @@
     <BuryCorpses.verb>haudata</BuryCorpses.verb>
     <BuryCorpses.gerund>hautaaminen</BuryCorpses.gerund>
     
-    <GrowerSow.verb>kylvää</GrowerSow.verb>
-    <GrowerSow.gerund>kylväminen</GrowerSow.gerund>
-    
     <GrowerHarvest.verb>korjata</GrowerHarvest.verb>
     <GrowerHarvest.gerund>korjaminen</GrowerHarvest.gerund>
+    
+    <GrowerSow.verb>kylvää</GrowerSow.verb>
+    <GrowerSow.gerund>kylväminen</GrowerSow.gerund>
     
     <Repair.verb>korjata</Repair.verb>
     <Repair.gerund>korjaaminen</Repair.gerund>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <LetterDay>vrk</LetterDay>
@@ -19,7 +19,7 @@
   <AgeBiological>Biologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeBiological>
   <DaysHours>{0} päivää, {1} tuntia</DaysHours>
 
-  <!-- Date periods -->
+  
   <Period1Month>1 kuukausi</Period1Month>
   <PeriodMonths>{0} kuukautta</PeriodMonths>
   <Period1Day>1 päivä</Period1Day>
@@ -27,7 +27,7 @@
   <Period1Hour>1 tunti</Period1Hour>
   <PeriodHours>{0} tuntia</PeriodHours>
 
-  <!-- Misc -->
+  
   <Started>Alkoi</Started>
   <Lasted>Kesti</Lasted>
   

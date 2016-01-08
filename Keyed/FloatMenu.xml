@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 
   
-  <CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
+	<CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
   <CannotUseReason>Ei voi käyttää ({0})</CannotUseReason>
-  <CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
-  <CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
-  <CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
+	<CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
+	<CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
+	<CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
   <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
   <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
   
@@ -23,19 +23,19 @@
   <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
   <NoPath>ei reittiä</NoPath>
 
-  <ForbiddenLower>kielletty</ForbiddenLower>
-  <SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
+	<ForbiddenLower>kielletty</ForbiddenLower>
+	<SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
   <PrisonerRoomLower>vangin huone</PrisonerRoomLower>
-  <BurningLower>palaa</BurningLower>
-  <NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
-  <AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
-  <MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
+	<BurningLower>palaa</BurningLower>
+	<NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
+	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
+	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
   <MissingSkill>taitotaso liian matala</MissingSkill>
-  <NoEmptyGraveLower>ei ole tyhjää hautaa määritelty sen varastointiin</NoEmptyGraveLower>
+	<NoEmptyGraveLower>ei ole tyhjää hautaa määritelty sen varastointiin</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>eläin on vuorovaikuttanut liian äskettäin</AnimalInteractedTooRecently>
   <NoUsableFood>ei käyttökelpoista ruokaa</NoUsableFood>
   <AnimalsSkillTooLow>Eläimen taitotaso liian matala</AnimalsSkillTooLow>
-  
+
   <ConsumeThing>Syö/juo {0}</ConsumeThing>
   <Teetotaler>absolutisti</Teetotaler>
   
@@ -82,21 +82,21 @@
   <SelfDestructHere>Tuhoudu tässä</SelfDestructHere>
   
   <Drop>Pudota {0}</Drop>
-  
+
   <UseMedicalBed>Lepää kunnes täysin parantunut</UseMedicalBed>
   <NotInjured>Ei loukkaantunut</NotInjured>
   <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
 
-  <!-- Specific thing interactions -->
+  
   <EnterCryptosleepCasket>Mene salauniarkkuun</EnterCryptosleepCasket>
   <OpenCryptosleepCasket>Avaa salauniarkku</OpenCryptosleepCasket>
+
+
+
   
-  
-  
-  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  
   <CannotMissingHealthActivities>Ei voi priorisoida (kykenemätön toimeen {0})</CannotMissingHealthActivities>
 
   <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
@@ -106,9 +106,9 @@
   <CannotPrioritizeResearch>Ei voi priorisoida (tutkimus on pitkäaikainen tehtävä)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
-
-
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  
+  
+  
   <PrioritizeGeneric>Priorisoi kohteen {1} {0}</PrioritizeGeneric>
   
 </LanguageData>

@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  
   <CreateWorld>Luo maailma</CreateWorld>
   <NewColony>Uusi yhdyskunta</NewColony>
   <BackToGame>Takaisin peliin</BackToGame>
@@ -20,7 +20,7 @@
   <TynansDesignBook>Tynanin design book</TynansDesignBook>
   <HelpTranslate>Auta kääntämään RimWorldia</HelpTranslate>
 
-  <!--=========== Create/review world ================-->
+  
   <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
   <WorldGenerate>Luo</WorldGenerate>
   <WorldSaveAndFinish>Tallenna</WorldSaveAndFinish>
@@ -30,21 +30,21 @@
   <RandomizeSeed>Satunnainen luontiarvo</RandomizeSeed>
 
 
-  <!--=========== Select world ===================-->
-  <SelectWorld>Valitse maailma</SelectWorld>
-  <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo maailma ensin.</NoWorldsFilesFound>
-  <WorldChooseButton>Valitse</WorldChooseButton>
   
-  <!--=========== Version info ==========-->
+  <SelectWorld>Valitse maailma</SelectWorld>
+  <WorldChooseButton>Valitse</WorldChooseButton>
+  <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo maailma ensin.</NoWorldsFilesFound>
+  
+  
   <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
 	<BuildUpToDate>Versio on uusin</BuildUpToDate>
 	<ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>Ladataan versiotietoja...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  
   <GenerateWorld>Luo maailma</GenerateWorld>
 
-  <!--=========== Mods screen ==========-->
+  
   <OpenSteamWorkshop>Avaa Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Hanki modeja foorumilta</GetModsFromForum>
   <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
@@ -61,8 +61,8 @@
   <YouAgreeToSteamWorkshopLegal>Julkaisemalla tämän modin hyväksyt  Steam Workshopin käyttöehdot. Paina tästä lisätietoja.</YouAgreeToSteamWorkshopLegal>
   <WorkshopUploadSucceeded>{0} ladattiin onnistuneesti palvelimelle.</WorkshopUploadSucceeded>
   <DownloadingMod>Ladataan {0}</DownloadingMod>
-
-  <!--=========== Select storyteller ==========-->
+  
+  
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
   <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
   <MustChooseDifficulty>Valitse vaikeustaso.</MustChooseDifficulty>
@@ -71,7 +71,7 @@
 
 
 
-  <!--=========== Landing site select =========-->
+  
   <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
   <SelectRandomSite>Valitse satunnainen alue</SelectRandomSite>
   <SelectSite>Valitse alue</SelectSite>
@@ -102,7 +102,7 @@
   <StoneTypesHere>Kivilajit</StoneTypesHere>
 
 
-  <!--=========== Character chooser ==========-->
+  
   <CreateCharacters>Luo hahmot</CreateCharacters>
   <FirstNameDesc>Hahmon ensimmäinen nimi.\n\nTämä näytetään vain tietyissä valikoissa.</FirstNameDesc>
   <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla ensimmäinen tai toinen nimi, tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
@@ -122,7 +122,7 @@
   <Pain>Kipu</Pain>
   
   
-  <!--=========== Misc ==========-->
+  
   <Start>Aloita</Start>
   <Advanced>Lisäasetukset</Advanced>
   <Next>Seuraava</Next>

@@ -14,7 +14,7 @@
     <GlobalUtility.rulePack.rulesStrings.6>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.6>
     <GlobalUtility.rulePack.rulesStrings.7>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.7>
     <GlobalUtility.rulePack.rulesStrings.8>quantity_adjphrase->joukkio lukemattomista yksilöistä</GlobalUtility.rulePack.rulesStrings.8>
-    <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->ryhmä lukemattomista yksilöistä</GlobalUtility.rulePack.rulesStrings.9> 
+    <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->ryhmä lukemattomista yksilöistä</GlobalUtility.rulePack.rulesStrings.9>
     <GlobalUtility.rulePack.rulesStrings.10>game->pokeria</GlobalUtility.rulePack.rulesStrings.10>
     <GlobalUtility.rulePack.rulesStrings.11>game->shakkia</GlobalUtility.rulePack.rulesStrings.11>
     <GlobalUtility.rulePack.rulesStrings.12>game->korttia</GlobalUtility.rulePack.rulesStrings.12>
@@ -22,6 +22,6 @@
     <GlobalUtility.rulePack.rulesStrings.14>game->nopilla</GlobalUtility.rulePack.rulesStrings.14>
     <GlobalUtility.rulePack.rulesStrings.15>game->noppapeliä</GlobalUtility.rulePack.rulesStrings.15>
     <GlobalUtility.rulePack.rulesStrings.16>game->rulettia</GlobalUtility.rulePack.rulesStrings.16>
-    <GlobalUtility.rulePack.rulesStrings.17>game->venttiä</GlobalUtility.rulePack.rulesStrings.17> 
+    <GlobalUtility.rulePack.rulesStrings.17>game->venttiä</GlobalUtility.rulePack.rulesStrings.17>
     
 </LanguageData>

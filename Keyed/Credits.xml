@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <MainPageCredit>Tynan Sylvesterin yhdyskuntasimulaattori</MainPageCredit>
@@ -17,7 +17,7 @@
   <Credit_Moderator>Moderaattori</Credit_Moderator>
   <Credit_WikiMaster>Wikimestari</Credit_WikiMaster>
 
-
+  
   <Credits_TitleLanguage>{0}</Credits_TitleLanguage>
   <Credit_Writer>Kirjoittaja</Credit_Writer>
   <Credit_Translator>Kääntäjä</Credit_Translator>

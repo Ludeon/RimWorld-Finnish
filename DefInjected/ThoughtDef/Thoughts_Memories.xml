@@ -18,7 +18,7 @@
     
     <AteHumanlikeMeatDirect.stages.0.label>raakaa kannibalismia</AteHumanlikeMeatDirect.stages.0.label>
     <AteHumanlikeMeatDirect.stages.0.description>Söin toisen ihmisen lihaa raakana kuin eläin. Tämä on painajaista.</AteHumanlikeMeatDirect.stages.0.description>
-
+    
     <AteHumanlikeMeatAsIngredient.stages.0.label>keitettyä kannibalismia</AteHumanlikeMeatAsIngredient.stages.0.label>
     <AteHumanlikeMeatAsIngredient.stages.0.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Tämä on hirvittävää.</AteHumanlikeMeatAsIngredient.stages.0.description>
     
@@ -101,7 +101,7 @@
     
     <WasImprisoned.stages.0.label>oli vangittu</WasImprisoned.stages.0.label>
     <WasImprisoned.stages.0.description>Yhdyskunta piti minua hetken vankina kuin eläintä häkissä.</WasImprisoned.stages.0.description>
-
+    
     <PrisonerFriendlyChat.stages.0.label>vanginvartijan vakuuttelema</PrisonerFriendlyChat.stages.0.label>
     <PrisonerFriendlyChat.stages.0.description>Juttelin vanginvartijan kanssa yhdyskunnasta. Kuulostaa hyvältä paikalta...</PrisonerFriendlyChat.stages.0.description>
     

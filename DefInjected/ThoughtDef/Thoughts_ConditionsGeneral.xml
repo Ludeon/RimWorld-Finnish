@@ -32,7 +32,7 @@
     <EnvironmentCold.stages.1.description>Minulla on niin kylmä. Värisen. En saa lämpöä.</EnvironmentCold.stages.1.description>
     <EnvironmentCold.stages.2.label>jääkylmä</EnvironmentCold.stages.2.label>
     <EnvironmentCold.stages.2.description>Minun hampaani kalisevat niin kovaa että pystyn hädin tuskin puhumaan. Varpaani ovat turtat. Tarvitsen lämpöä.</EnvironmentCold.stages.2.description>
-
+    
     <EnvironmentHot.stages.0.label>kuuma</EnvironmentHot.stages.0.label>
     <EnvironmentHot.stages.0.description>Tämä lämpö on epämiellyttävä. Minä hikoilen.</EnvironmentHot.stages.0.description>
     <EnvironmentHot.stages.1.label>erittäin kuuma</EnvironmentHot.stages.1.label>

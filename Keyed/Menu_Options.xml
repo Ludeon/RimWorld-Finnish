@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Audiovisuals -->
+  
   <Audiovisuals>Äänet ja kuva</Audiovisuals>
   <GameVolume>Peliäänien voimakkuus</GameVolume>
   <MusicVolume>Musiikin voimakkuus</MusicVolume>
   <Antialiasing>Reunanpehmennys</Antialiasing>
+
   
-  <!-- Gameplay -->
   <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
   <PauseOnLoad>Pysäytä peli lataamisen jälkeen</PauseOnLoad>
   <CustomCursor>Mukautettu kursori</CustomCursor>
@@ -25,13 +25,12 @@
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   <AutosaveInterval>Automaattitallennus</AutosaveInterval>
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
+
   
-  <!-- Resolution -->
   <Resolution>Resoluutio</Resolution>
   <Fullscreen>Koko näytön tila</Fullscreen>
 
   
-  <!-- Privacy-->
   <Privacy>Yksityisyys</Privacy>
   <UserName>Käyttäjänimi</UserName>
   <ChooseHistoryUploadPref>Salli pelitietojen lähetys</ChooseHistoryUploadPref>

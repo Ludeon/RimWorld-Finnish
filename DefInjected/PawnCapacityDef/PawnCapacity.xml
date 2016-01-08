@@ -3,7 +3,7 @@
     
     <Consciousness.label>tietoisuus</Consciousness.label>
     <Consciousness.labelMechanoids>Tiedonkäsittely</Consciousness.labelMechanoids>
-
+    
     <Sight.label>näkö</Sight.label>
     
     <Hearing.label>kuulo</Hearing.label>
@@ -14,7 +14,7 @@
     
     <Talking.label>puhuminen</Talking.label>
     <Talking.labelMechanoids>Viestintä</Talking.labelMechanoids>
-
+    
     <Eating.label>syöminen</Eating.label>
     
     <Breathing.label>hengittäminen</Breathing.label>

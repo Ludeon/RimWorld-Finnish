@@ -2,6 +2,7 @@
 <LanguageData>
     
     <Alcohol.label>alkoholi</Alcohol.label>
+    <Alcohol.stages.0.label>buzzed-hidden</Alcohol.stages.0.label>
     <Alcohol.stages.1.label>lämmin</Alcohol.stages.1.label>
     <Alcohol.stages.2.label>humaltunut</Alcohol.stages.2.label>
     <Alcohol.stages.3.label>juopunut</Alcohol.stages.3.label>
@@ -12,5 +13,6 @@
     <Hangover.stages.0.label>lievä</Hangover.stages.0.label>
     <Hangover.stages.1.label>vahva</Hangover.stages.1.label>
     <Hangover.stages.2.label>jyskyttävä</Hangover.stages.2.label>
+    <Hangover.stages.3.label>hidden-drunk</Hangover.stages.3.label>
     
 </LanguageData>

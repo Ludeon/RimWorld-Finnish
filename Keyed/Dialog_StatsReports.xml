@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 
@@ -19,7 +19,7 @@
   <StatsReport_AgeMultiplier>Iästä johtuva kerroin {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>Terveydestä johtuva kerroin {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>Mielialasta johtuva kerroin {0}</StatsReport_MoodMultiplier>
-  <StatsReport_DifficultyMultiplier>Vaikeustasosta johtuva kerroin {0}</StatsReport_DifficultyMultiplier>
+	<StatsReport_DifficultyMultiplier>Vaikeustasosta johtuva kerroin {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>Sängyssä</StatsReport_InBed>
   <StatsReport_Facilities>Facilities</StatsReport_Facilities>
   <StatsReport_BodySize>Kerroin ruumiinkoosta</StatsReport_BodySize>

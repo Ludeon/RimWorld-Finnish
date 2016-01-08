@@ -9,7 +9,7 @@
     <Misc.comps.0.labelSolidTreatedWell>asetettu</Misc.comps.0.labelSolidTreatedWell>
     <Misc.comps.0.labelSolidTreated>huonosti asetettu</Misc.comps.0.labelSolidTreated>
     <Misc.injuryProps.destroyedLabel>Tuhoutunut</Misc.injuryProps.destroyedLabel>
-            
+    
     <Burn.label>palovamma</Burn.label>
     <Burn.comps.0.labelTreatedWell>sidottu</Burn.comps.0.labelTreatedWell>
     <Burn.comps.0.labelTreated>huonosti sidottu</Burn.comps.0.labelTreated>
@@ -20,7 +20,7 @@
     <Burn.comps.2.oldLabel>paloarpi</Burn.comps.2.oldLabel>
     <Burn.injuryProps.destroyedLabel>Poispalanut</Burn.injuryProps.destroyedLabel>
     <Burn.injuryProps.destroyedOutLabel>Ulospalanut</Burn.injuryProps.destroyedOutLabel>
-
+    
     <Crush.label>ruhje</Crush.label>
     <Crush.comps.0.labelTreatedWell>sidottu</Crush.comps.0.labelTreatedWell>
     <Crush.comps.0.labelTreated>huonosti sidottu</Crush.comps.0.labelTreated>
@@ -123,7 +123,7 @@
     <Bruise.comps.0.labelSolidTreatedWell>asetettu</Bruise.comps.0.labelSolidTreatedWell>
     <Bruise.comps.0.labelSolidTreated>huonosti asetettu</Bruise.comps.0.labelSolidTreated>
     <Bruise.injuryProps.destroyedLabel>Tuhoutunut</Bruise.injuryProps.destroyedLabel>
-
+    
     <Frostbite.label>paleltuma</Frostbite.label>
     <Frostbite.comps.0.labelTreatedWell>sidottu</Frostbite.comps.0.labelTreatedWell>
     <Frostbite.comps.0.labelTreated>huonosti sidottu</Frostbite.comps.0.labelTreated>

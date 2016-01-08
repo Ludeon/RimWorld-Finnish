@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- ITab titles -->
+  
   <TabBills>Tilaukset</TabBills>
   <TabGrowing>Kasvatus</TabGrowing>
   <TabCharacter>Henkilö</TabCharacter>
@@ -18,7 +18,7 @@
   <TabArt>Taide</TabArt>
 
   
-  <!-- Bills tab  -->
+  
   <AddBill>Lisää tilaus</AddBill>
   <RecipeRequiresSkills>Resepti {0} tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
   <MinimumSkill>Minimi taitotaso</MinimumSkill>
@@ -27,7 +27,7 @@
   <PlantVerb>Istuta</PlantVerb>
 
 
-  <!-- Guest/prisoner tab -->
+  
   <RecruitmentDifficulty>Värväyksen vaikeus</RecruitmentDifficulty>
   <GetsFood>Saa ruokaa</GetsFood>
   <DoctorsCare>Lääkärit huolehtivat</DoctorsCare>
@@ -40,7 +40,7 @@
   <PrisonerExecution>Teloitus</PrisonerExecution>
 
 
-  <!-- Medical - general -->
+  
   <MoveSpeed>Liikkumisnopeus</MoveSpeed>
   <Efficiency>Tehokkuus</Efficiency>
   <MissingBodyPart>Poissa</MissingBodyPart>
@@ -69,7 +69,7 @@
   
   
 
-  <!-- Medical - Body and activities condition -->
+  
   <None>Ei ollenkaan</None>
   <VeryPoor>Erittäin heikko</VeryPoor>
   <Poor>Heikko</Poor>
@@ -86,7 +86,7 @@
   <ExtremePain>Järjetön</ExtremePain>
 
 
-  <!-- Training tab-->
+  
   <TrainableIntelligence>Älykkyys kouluttamisessa</TrainableIntelligence>
   <CannotTrainNotSmartEnough>Tarvitsee kouluttamiseen älykkyyden {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>

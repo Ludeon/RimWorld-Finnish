@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- glow -->
+  
   <Dark>Pimeä</Dark>
   <Lit>Valaistu</Lit>
   <LitBrightly>Kirkkaasti valaistu</LitBrightly>
   
-  <!-- diet type -->
+  
   <NeverEats>Ei syö koskaan</NeverEats>
   <Omnivorous>Kaikkiruokainen</Omnivorous>
   <Herbivorous>Kasvissyöjä</Herbivorous>
   <Carnivorous>Lihansyöjä</Carnivorous>
   <Dendrovorous>Puunsyöjä</Dendrovorous>
+
   
-  <!-- history upload pref -->
   <Unspecified>Päättämätön</Unspecified>
   <Always>Salli</Always>
   <Never>Älä salli</Never>
   
-  <!-- Price types -->
+  
   <PriceTypeVeryCheap>hyvin halpa</PriceTypeVeryCheap>
   <PriceTypeCheap>halpa</PriceTypeCheap>
   <PriceTypeNormal>normaali</PriceTypeNormal>
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
   <PriceTypeExorbitant>kohtuuton</PriceTypeExorbitant>
 
-  <!-- Quality category -->
+  
   <QualityCategory_Awful>hirveä</QualityCategory_Awful>
   <QualityCategory_Shoddy>surkea</QualityCategory_Shoddy>
   <QualityCategory_Poor>huono</QualityCategory_Poor>
@@ -47,25 +47,25 @@
   <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
   
   
-  <!-- Hunger -->
+  
   <HungerLevel_Starving>Nälänhätä</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>Erittäin nälkäinen</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>Nälkäinen</HungerLevel_Hungry>
   <HungerLevel_Fed>Ruokittu</HungerLevel_Fed>
 
-  <!-- -Fatigue -->
+  
   <HungerLevel_Exhausted>Uupunut</HungerLevel_Exhausted>
   <HungerLevel_VeryTired>Erittäin väsynyt</HungerLevel_VeryTired>
   <HungerLevel_Tired>Väsynyt</HungerLevel_Tired>
   <HungerLevel_Rested>Levännyt</HungerLevel_Rested>
 
-  <!-- Hilliness -->
+  
   <Hilliness_Flat>Tasainen</Hilliness_Flat>
   <Hilliness_SmallHills>Pieniä mäkiä</Hilliness_SmallHills>
   <Hilliness_LargeHills>Suuria mäkiä</Hilliness_LargeHills>
   <Hilliness_Mountainous>Vuoristoinen</Hilliness_Mountainous>
   
-  <!-- Steam workshop interaction -->
+  
   <WorkshopInteractStage_CreatingItem>Luodaan</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Julkaistaan</WorkshopInteractStage_SubmittingItem>
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Kelvoton</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
@@ -75,13 +75,13 @@
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Ladataan esikatselutiedostoa palvelimelle</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Tehdään muutoksia</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
-  <!-- Trainable intelligence -->
+  
   <TrainableIntelligence_None>Ei mikään</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>Yksinkertainen</TrainableIntelligence_Simple>
   <TrainableIntelligence_Intermediate>Keskinkertainen</TrainableIntelligence_Intermediate>
   <TrainableIntelligence_Advanced>Kehittynyt</TrainableIntelligence_Advanced>
 
-  <!-- Medical care category -->
+  
   <MedicalCareCategory_NoCare>Ei lääkintää</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>Lääkärit pitävät huolta, mutta eivät käytä lääketarpeita</MedicalCareCategory_NoMeds>
   <MedicalCareCategory_HerbalOrWorse>Yrttilääkkeitä tai huonompia</MedicalCareCategory_HerbalOrWorse>
