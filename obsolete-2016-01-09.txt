@@ -1,0 +1,14 @@
+List of obsolete tags in this translation. These tags have been removed from the game 
+or have changed their name.
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Farm.xml
+    <Chicken.labelMale>kukko</Chicken.labelMale>
+    <Cow.labelMale>sonni</Cow.labelMale>
+    <Pig.labelFemale>emakko</Pig.labelFemale>
+    <Cow.labelFemale>lehmä</Cow.labelFemale>
+    <Chicken.labelFemale>kana</Chicken.labelFemale>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Temperate.xml
+    <Deer.labelFemale>naaraspeura</Deer.labelFemale>
+    <Deer.labelMale>urospeura</Deer.labelMale>
+

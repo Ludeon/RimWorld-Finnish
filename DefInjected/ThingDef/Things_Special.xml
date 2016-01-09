@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <RectTrigger.label>RectTrigger</RectTrigger.label>
     
     <Puddle_Fuel.label>öljyläikkä</Puddle_Fuel.label>
     <Puddle_Fuel.description>Palaa maassa.</Puddle_Fuel.description>

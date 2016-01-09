@@ -5,6 +5,7 @@
     <Muffalo.description>Suuri laiduntava kasvinsyöjä, joka on syntyisin biisonista ja sopeutunut eksoottiseen ympäristöön. Rauhantahtoinen ellei sitä häiritä.</Muffalo.description>
     <Muffalo_Leather.label>hirvibiisonin nahkaa</Muffalo_Leather.label>
     <Muffalo_Leather.description>Hirvibiisonin vuodasta tehtyä nahkaa.</Muffalo_Leather.description>
+	<Muffalo_Leather.stuffProps.stuffAdjective>muffalo leathery</Muffalo_Leather.stuffProps.stuffAdjective>
     <Muffalo_Meat.label>hirvibiisonin lihaa</Muffalo_Meat.label>
     <Muffalo_Meat.description>Raakaa hirvibiisonin lihaa.</Muffalo_Meat.description>
     <Muffalo_Corpse.label>hirvibiisonin ruumis</Muffalo_Corpse.label>
@@ -14,6 +15,7 @@
     <Iguana.description>Nämä suuret liskot syövät tavallisesti kasveja, mutta suututettuina niiden vahva nahka ja terävät kynnet tekevät niistä varsin vaarallisia.</Iguana.description>
     <Iguana_Leather.label>iguaanin nahkaa</Iguana_Leather.label>
     <Iguana_Leather.description>Iguaanin vuodasta tehtyä nahkaa.</Iguana_Leather.description>
+	<Iguana_Leather.stuffProps.stuffAdjective>iguana leathery</Iguana_Leather.stuffProps.stuffAdjective>
     <Iguana_Meat.label>iguaanin lihaa</Iguana_Meat.label>
     <Iguana_Meat.description>Raakaa iguaanin lihaa.</Iguana_Meat.description>
     <Iguana_Corpse.label>iguaanin ruumis</Iguana_Corpse.label>
@@ -23,6 +25,7 @@
     <Rhinoceros.description>Tämä suuri maanisäkäs on tyypillisesti rauhantahtoinen, mutta se ei epäröi rynnätä sarvensa kanssa hätistääkseen tunkeilijoita.</Rhinoceros.description>
     <Rhinoceros_Leather.label>sarvikuonon nahkaa</Rhinoceros_Leather.label>
     <Rhinoceros_Leather.description>Sarvikuonon vuodasta tehtyä nahkaa.</Rhinoceros_Leather.description>
+	<Rhinoceros_Leather.stuffProps.stuffAdjective>rhinoceros leathery</Rhinoceros_Leather.stuffProps.stuffAdjective>
     <Rhinoceros_Meat.label>sarvikuonon lihaa</Rhinoceros_Meat.label>
     <Rhinoceros_Meat.description>Raakaa sarvikuonon lihaa.</Rhinoceros_Meat.description>
     <Rhinoceros_Corpse.label>sarvikuonon ruumis</Rhinoceros_Corpse.label>
@@ -32,6 +35,7 @@
     <Dromedary.description>Tämä hevosen etäinen sukulainen selviää melkein viikon ilman vettä.</Dromedary.description>
     <Dromedary_Leather.label>dromedaarin nahkaa</Dromedary_Leather.label>
     <Dromedary_Leather.description>Dromedaarin vuodasta tehtyä nahkaa.</Dromedary_Leather.description>
+	<Dromedary_Leather.stuffProps.stuffAdjective>dromedary leathery</Dromedary_Leather.stuffProps.stuffAdjective>
     <Dromedary_Meat.label>dromedaarin lihaa</Dromedary_Meat.label>
     <Dromedary_Meat.description>Raakaa dromedaarin lihaa.</Dromedary_Meat.description>
     <Dromedary_Corpse.label>dromedaarin ruumis</Dromedary_Corpse.label>
@@ -41,6 +45,7 @@
     <Elephant.description>Suurin muokkaamaton määeläin. Se voi käyttää syöksyhampaitaan työkaluina esineiden liikuttamiseen - tai tappavina aseina.</Elephant.description>
     <Elephant_Leather.label>norsun nahkaa</Elephant_Leather.label>
     <Elephant_Leather.description>Norsun vuodasta tehtyä nahkaa.</Elephant_Leather.description>
+	<Elephant_Leather.stuffProps.stuffAdjective>elephant leathery</Elephant_Leather.stuffProps.stuffAdjective>
     <Elephant_Meat.label>norsun lihaa</Elephant_Meat.label>
     <Elephant_Meat.description>Raakaa norsun lihaa.</Elephant_Meat.description>
     <Elephant_Corpse.label>norsun ruumis</Elephant_Corpse.label>
