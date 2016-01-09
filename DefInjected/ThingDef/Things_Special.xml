@@ -2,6 +2,7 @@
 <LanguageData>
     
     <RectTrigger.label>RectTrigger</RectTrigger.label>
+    <RectTrigger.description>Suorakaiteen muotoinen laukaisin.</RectTrigger.description>
     
     <Puddle_Fuel.label>öljyläikkä</Puddle_Fuel.label>
     <Puddle_Fuel.description>Palaa maassa.</Puddle_Fuel.description>
