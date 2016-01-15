@@ -3,28 +3,28 @@
     
     <Chicken.label>kana</Chicken.label>
     <Chicken.lifeStages.0.label>tipu</Chicken.lifeStages.0.label>
-    <Chicken.lifeStages.1.labelMale>young rooster</Chicken.lifeStages.1.labelMale>
-    <Chicken.lifeStages.1.labelFemale>young hen</Chicken.lifeStages.1.labelFemale>
-    <Chicken.lifeStages.2.labelMale>rooster</Chicken.lifeStages.2.labelMale>
-    <Chicken.lifeStages.2.labelFemale>hen</Chicken.lifeStages.2.labelFemale>
+    <Chicken.lifeStages.1.labelMale>nuori kukko</Chicken.lifeStages.1.labelMale>
+    <Chicken.lifeStages.1.labelFemale>nuori kana</Chicken.lifeStages.1.labelFemale>
+    <Chicken.lifeStages.2.labelMale>kukko</Chicken.lifeStages.2.labelMale>
+    <Chicken.lifeStages.2.labelFemale>kana</Chicken.lifeStages.2.labelFemale>
     
     <Pig.label>sika</Pig.label>
     <Pig.lifeStages.0.label>porsas</Pig.lifeStages.0.label>
-    <Pig.lifeStages.1.labelMale>young pig</Pig.lifeStages.1.labelMale>
-    <Pig.lifeStages.1.labelFemale>young sow</Pig.lifeStages.1.labelFemale>
-    <Pig.lifeStages.2.labelMale>pig</Pig.lifeStages.2.labelMale>
-    <Pig.lifeStages.2.labelFemale>sow</Pig.lifeStages.2.labelFemale>
+    <Pig.lifeStages.1.labelMale>nuori sika</Pig.lifeStages.1.labelMale>
+    <Pig.lifeStages.1.labelFemale>nuori emakko</Pig.lifeStages.1.labelFemale>
+    <Pig.lifeStages.2.labelMale>sika</Pig.lifeStages.2.labelMale>
+    <Pig.lifeStages.2.labelFemale>emakko</Pig.lifeStages.2.labelFemale>
     
     <Cow.label>lehmä</Cow.label>
     <Cow.lifeStages.0.label>vasikka</Cow.lifeStages.0.label>
-    <Cow.lifeStages.1.labelMale>young bull</Cow.lifeStages.1.labelMale>
-    <Cow.lifeStages.1.labelFemale>young cow</Cow.lifeStages.1.labelFemale>
-    <Cow.lifeStages.2.labelMale>bull</Cow.lifeStages.2.labelMale>
-    <Cow.lifeStages.2.labelFemale>cow</Cow.lifeStages.2.labelFemale>
+    <Cow.lifeStages.1.labelMale>nuori sonni</Cow.lifeStages.1.labelMale>
+    <Cow.lifeStages.1.labelFemale>nuori lehmä</Cow.lifeStages.1.labelFemale>
+    <Cow.lifeStages.2.labelMale>sonni</Cow.lifeStages.2.labelMale>
+    <Cow.lifeStages.2.labelFemale>lehmä</Cow.lifeStages.2.labelFemale>
     
     <Alpaca.label>alpakka</Alpaca.label>
-    <Alpaca.lifeStages.0.label>baby alpaca</Alpaca.lifeStages.0.label>
-    <Alpaca.lifeStages.1.label>young alpaca</Alpaca.lifeStages.1.label>
-    <Alpaca.lifeStages.2.label>alpaca</Alpaca.lifeStages.2.label>
+    <Alpaca.lifeStages.0.label>alpakkavauva</Alpaca.lifeStages.0.label>
+    <Alpaca.lifeStages.1.label>nuori alpakka</Alpaca.lifeStages.1.label>
+    <Alpaca.lifeStages.2.label>alpakka</Alpaca.lifeStages.2.label>
     
 </LanguageData>
