@@ -26,6 +26,7 @@
     <Bite.deathMessage>{0} on purtu kuoliaaksi.</Bite.deathMessage>
     
     <ToxicBite.label>myrkkypurema</ToxicBite.label>
+    <ToxicBite.deathMessage>{0} has been poisoned to death.</ToxicBite.deathMessage>
     
     <Bomb.label>pommi</Bomb.label>
     <Bomb.deathMessage>{0} on kuollut räjähdykseen.</Bomb.deathMessage>
