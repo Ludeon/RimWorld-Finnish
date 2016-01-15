@@ -5,7 +5,7 @@
     <Warg.description>Lihaksikas sudentapainen olio. Tiedemiehet sanovat, että wargit ovat armeijan käyttöön väkiluvun hillitsemiseen luotujen eläinten jälkeläisiä. Taikauskoiset pitävät niitä vihaisen jumalan työkaluna.</Warg.description>
     <Warg_Leather.label>wargin nahkaa</Warg_Leather.label>
     <Warg_Leather.description>Wargin vuodasta tehtyä nahkaa.</Warg_Leather.description>
-	<Warg_Leather.stuffProps.stuffAdjective>warg leathery</Warg_Leather.stuffProps.stuffAdjective>
+    <Warg_Leather.stuffProps.stuffAdjective>warg leathery</Warg_Leather.stuffProps.stuffAdjective>
     <Warg_Meat.label>wargin lihaa</Warg_Meat.label>
     <Warg_Meat.description>Raakaa wargin lihaa.</Warg_Meat.description>
     <Warg_Corpse.label>wargin ruumis</Warg_Corpse.label>
@@ -15,7 +15,7 @@
     <YorkshireTerrier.description>Pieni ja rauhallinen koira. Alunperin rottien metsästämiseen jalostettu, ja myöhemmin siitä on tullut näyttely- ja seuraeläin.</YorkshireTerrier.description>
     <YorkshireTerrier_Leather.label>yorkshirenterrierin nahkaa</YorkshireTerrier_Leather.label>
     <YorkshireTerrier_Leather.description>Yorkshirenterrierin vuodasta tehtyä nahkaa.</YorkshireTerrier_Leather.description>
-	<YorkshireTerrier_Leather.stuffProps.stuffAdjective>yorkshire terrier leathery</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
+    <YorkshireTerrier_Leather.stuffProps.stuffAdjective>yorkshire terrier leathery</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
     <YorkshireTerrier_Meat.label>yorkshirenterrierin lihaa</YorkshireTerrier_Meat.label>
     <YorkshireTerrier_Meat.description>Raakaa yorkshirenterrierin lihaa.</YorkshireTerrier_Meat.description>
     <YorkshireTerrier_Corpse.label>yorkshirenterrierin ruumis</YorkshireTerrier_Corpse.label>
@@ -25,7 +25,7 @@
     <Husky.description>Suuri ja tarmokas koira, jolla on paksu turkki arktisissa olosuheissa lämpimänä pysymiseen.</Husky.description>
     <Husky_Leather.label>huskyn nahkaa</Husky_Leather.label>
     <Husky_Leather.description>Huskyn vuodasta tehtyä nahkaa.</Husky_Leather.description>
-	<Husky_Leather.stuffProps.stuffAdjective>husky leathery</Husky_Leather.stuffProps.stuffAdjective>
+    <Husky_Leather.stuffProps.stuffAdjective>husky leathery</Husky_Leather.stuffProps.stuffAdjective>
     <Husky_Meat.label>huskyn lihaa</Husky_Meat.label>
     <Husky_Meat.description>Raakaa huskyn lihaa.</Husky_Meat.description>
     <Husky_Corpse.label>huskyn ruumis</Husky_Corpse.label>
@@ -35,7 +35,7 @@
     <LabradorRetriever.description>Erittäin monikäyttöinen keskikokoinen koira. Alunperin metsästäessä lintuja noutamaan jalostettu koirarotu, joka soveltuu erinomaisesti myös vahtikoiraksi, leikkikaveriksi ja perheen jäseneksi.</LabradorRetriever.description>
     <LabradorRetriever_Leather.label>labradorinnoutajan nahkaa</LabradorRetriever_Leather.label>
     <LabradorRetriever_Leather.description>Labradorinnoutajan vuodasta tehtyä nahkaa.</LabradorRetriever_Leather.description>
-	<LabradorRetriever_Leather.stuffProps.stuffAdjective>labrador retriever leathery</LabradorRetriever_Leather.stuffProps.stuffAdjective>
+    <LabradorRetriever_Leather.stuffProps.stuffAdjective>labrador retriever leathery</LabradorRetriever_Leather.stuffProps.stuffAdjective>
     <LabradorRetriever_Meat.label>labradorinnoutajan lihaa</LabradorRetriever_Meat.label>
     <LabradorRetriever_Meat.description>Raakaa labradorinnoutajan lihaa.</LabradorRetriever_Meat.description>
     <LabradorRetriever_Corpse.label>labradorinnoutajan ruumis</LabradorRetriever_Corpse.label>

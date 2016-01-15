@@ -12,7 +12,7 @@
     <Pig.description>Sika oli yksi ensimmäisistä ihmisen kesyttämistä eläimistä. Sitä kasvatetaan useimmiten sen lihan ja nahan vuoksi, ja sitä on helppo ruokkia sen kaikkiruokaisen ruokavalion vuoksi.</Pig.description>
     <Pig_Leather.label>sian nahkaa</Pig_Leather.label>
     <Pig_Leather.description>Sian vuodasta tehtyä nahkaa.</Pig_Leather.description>
-	<Pig_Leather.stuffProps.stuffAdjective>pig leathery</Pig_Leather.stuffProps.stuffAdjective>
+    <Pig_Leather.stuffProps.stuffAdjective>pig leathery</Pig_Leather.stuffProps.stuffAdjective>
     <Pig_Meat.label>sian lihaa</Pig_Meat.label>
     <Pig_Meat.description>Raakaa sian lihaa.</Pig_Meat.description>
     <Pig_Corpse.label>sian ruumis</Pig_Corpse.label>
@@ -22,7 +22,7 @@
     <Cow.description>Erittäin yleinen kotieläin. Voi tuottaa suuret määrät maitoa tai voidaan teurastaa herkullisen ruuan takia.</Cow.description>
     <Cow_Leather.label>lehmän nahkaa</Cow_Leather.label>
     <Cow_Leather.description>Lehmän vuodasta tehtyä nahkaa.</Cow_Leather.description>
-	<Cow_Leather.stuffProps.stuffAdjective>cow leathery</Cow_Leather.stuffProps.stuffAdjective>
+    <Cow_Leather.stuffProps.stuffAdjective>cow leathery</Cow_Leather.stuffProps.stuffAdjective>
     <Cow_Meat.label>lehmän lihaa</Cow_Meat.label>
     <Cow_Meat.description>Raakaa lehmän lihaa.</Cow_Meat.description>
     <Cow_Corpse.label>lehmän corpse</Cow_Corpse.label>
@@ -32,7 +32,7 @@
     <Alpaca.description>Keskikokoinen sorkkaeläin joka muistuttaa läheisesti laamaa. Alpakkaa ylistetään usein sen huomattavan pehmeää villaa.</Alpaca.description>
     <Alpaca_Leather.label>alpakan nahkaa</Alpaca_Leather.label>
     <Alpaca_Leather.description>Alpakan vuodasta tehtyä nahkaa.</Alpaca_Leather.description>
-	<Alpaca_Leather.stuffProps.stuffAdjective>alpaca leathery</Alpaca_Leather.stuffProps.stuffAdjective>
+    <Alpaca_Leather.stuffProps.stuffAdjective>alpaca leathery</Alpaca_Leather.stuffProps.stuffAdjective>
     <Alpaca_Meat.label>alpakan lihaa</Alpaca_Meat.label>
     <Alpaca_Meat.description>Raakaa alpakan lihaa.</Alpaca_Meat.description>
     <Alpaca_Corpse.label>alpakan corpse</Alpaca_Corpse.label>
