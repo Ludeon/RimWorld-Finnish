@@ -9,11 +9,11 @@
     <Work.label>työnteko</Work.label>
     <Work.description>Valitse kuka yhdyskuntalainen tekee minkälaista työtä ja missä tärkeysjärjestyksessä.</Work.description>
     
-    <Restrict.label>restrict</Restrict.label>
-    <Restrict.description>Restrict colonists to certain activities at certain times of day, or to specific allowed areas.</Restrict.description>
+    <Restrict.label>rajoitukset</Restrict.label>
+    <Restrict.description>Rajoita yhdyskuntalaisia tiettyihin toimiin tiettyyn aikaan päivästä tai tiettyihin salittuihin alueisiin.</Restrict.description>
     
-    <Assign.label>assign</Assign.label>
-    <Assign.description>Configure what each colonist is allowed to wear, and how to react to nearby enemies.</Assign.description>
+    <Assign.label>määräykset</Assign.label>
+    <Assign.description>Määritä mitä kukin yhdyskuntalainen saa pitää yllään ja miten reagoida lähellä oleviin vihollisiin.</Assign.description>
     
     <Animals.label>eläimet</Animals.label>
     <Animals.description>Määritä miten yhdyskunnan kesyjä eläimiä kohdellaan.</Animals.description>

@@ -10,8 +10,8 @@
     <BilliardsTable.label>biljardipöytä</BilliardsTable.label>
     <BilliardsTable.description>Pehmeäksi päällystetty pöytä erilaisten biljardin tyyppisten pelien pelaamiseen.</BilliardsTable.description>
     
-    <TubeTelevision.label>tube television</TubeTelevision.label>
-    <TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision.description>
+    <TubeTelevision.label>kuvaputkitelevisio</TubeTelevision.label>
+    <TubeTelevision.description>Katodisädeputkinäyttö joka näyttää liikkuvia kuvia äänen kanssa. Jopa syrjäisillä planeetoilla on usein vanha lähetin joka pyörittää jotain lähes mielenkiintoista katsottavaa.</TubeTelevision.description>
     
     <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
     <FlatscreenTelevision.description>A high-tech flat-screen television with crystal-clear image and rich color. More entertaining than a grainy tube TV.</FlatscreenTelevision.description>

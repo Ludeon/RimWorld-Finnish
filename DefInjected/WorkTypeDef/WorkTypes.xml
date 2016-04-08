@@ -7,11 +7,11 @@
     <Firefighter.gerundLabel>Tulensammmutus</Firefighter.gerundLabel>
     <Firefighter.verb>Sammuta liekki</Firefighter.verb>
     
-    <PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
+    <PatientEmergency.labelShort>Potilas</PatientEmergency.labelShort>
     <PatientEmergency.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</PatientEmergency.description>
-    <PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-    <PatientEmergency.gerundLabel>Patienting</PatientEmergency.gerundLabel>
-    <PatientEmergency.verb>Become patient</PatientEmergency.verb>
+    <PatientEmergency.pawnLabel>Potilas</PatientEmergency.pawnLabel>
+    <PatientEmergency.gerundLabel>Potilas</PatientEmergency.gerundLabel>
+    <PatientEmergency.verb>Tule potilaaksi</PatientEmergency.verb>
     
     <Doctor.labelShort>Lääkäri</Doctor.labelShort>
     <Doctor.description>Lääkärit tuovat ruokaa ja hoitavat liikkumattomina sängyssä makaavia. He hoitavat sekä yhdyskuntalaisia ja vankeja.</Doctor.description>

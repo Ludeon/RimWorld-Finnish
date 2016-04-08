@@ -19,10 +19,10 @@
     <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
     <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
     
-    <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+    <ElectricSmithy.label>electric taontapöytä</ElectricSmithy.label>
     <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
     
-    <FueledSmithy.label>fueled smithy</FueledSmithy.label>
+    <FueledSmithy.label>fueled taontapöytä</FueledSmithy.label>
     <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
     
     <TableSculpting.label>veistäjän pöytä</TableSculpting.label>
@@ -34,8 +34,8 @@
     <ElectricStove.label>electric stove</ElectricStove.label>
     <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
     
-    <FueledStove.label>fueled stove</FueledStove.label>
-    <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+    <FueledStove.label>puuliesi</FueledStove.label>
+    <FueledStove.description>Yksinkertainen puukäyttöinen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia.</FueledStove.description>
     
     <TableStonecutter.label>kivenleikkajan pöytä</TableStonecutter.label>
     <TableStonecutter.description>Työpöytä karkeiden kivien leikkaamiseen käyttökelpoisiksi harkoiksi.</TableStonecutter.description>
@@ -49,8 +49,8 @@
     <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
     <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
     
-    <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
-    <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+    <SimpleResearchBench.label>yksinkertainen tutkimuspöytä</SimpleResearchBench.label>
+    <SimpleResearchBench.description>Yksinkertainen työpöytä, jossa on kirjoitusvälineitä ja tietellisiä työkaluja. Tutkijat työskentelevät tässä keksiäkseen uusia asioita.</SimpleResearchBench.description>
     
     <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
     <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>

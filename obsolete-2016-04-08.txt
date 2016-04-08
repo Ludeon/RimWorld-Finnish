@@ -1,95 +1,6 @@
 List of obsolete tags in this translation. These tags have been removed from the game 
 or have changed their name.
 
-DefInjected\HediffDef\Hediffs_Injuries.xml
-    <Bite.comps.0.labelSolidTreated>huonosti asetettu</Bite.comps.0.labelSolidTreated>
-    <Bite.comps.0.labelSolidTreatedWell>asetettu</Bite.comps.0.labelSolidTreatedWell>
-    <Bite.comps.0.labelTreated>huonosti sidottu</Bite.comps.0.labelTreated>
-    <Bite.comps.0.labelTreatedInner>huonosti ommeltu</Bite.comps.0.labelTreatedInner>
-    <Bite.comps.0.labelTreatedWell>sidottu</Bite.comps.0.labelTreatedWell>
-    <Bite.comps.0.labelTreatedWellInner>ommeltu</Bite.comps.0.labelTreatedWellInner>
-    <Bruise.comps.0.labelSolidTreated>huonosti asetettu</Bruise.comps.0.labelSolidTreated>
-    <Bruise.comps.0.labelSolidTreatedWell>asetettu</Bruise.comps.0.labelSolidTreatedWell>
-    <Bruise.comps.0.labelTreated>huonosti sidottu</Bruise.comps.0.labelTreated>
-    <Bruise.comps.0.labelTreatedInner>huonosti ommeltu</Bruise.comps.0.labelTreatedInner>
-    <Bruise.comps.0.labelTreatedWell>sidottu</Bruise.comps.0.labelTreatedWell>
-    <Bruise.comps.0.labelTreatedWellInner>ommeltu</Bruise.comps.0.labelTreatedWellInner>
-    <Burn.comps.0.labelSolidTreated>huonosti asetettu</Burn.comps.0.labelSolidTreated>
-    <Burn.comps.0.labelSolidTreatedWell>asetettu</Burn.comps.0.labelSolidTreatedWell>
-    <Burn.comps.0.labelTreated>huonosti sidottu</Burn.comps.0.labelTreated>
-    <Burn.comps.0.labelTreatedInner>huonosti ommeltu</Burn.comps.0.labelTreatedInner>
-    <Burn.comps.0.labelTreatedWell>sidottu</Burn.comps.0.labelTreatedWell>
-    <Burn.comps.0.labelTreatedWellInner>ommeltu</Burn.comps.0.labelTreatedWellInner>
-    <Crack.comps.0.labelSolidTreated>huonosti asetettu</Crack.comps.0.labelSolidTreated>
-    <Crack.comps.0.labelSolidTreatedWell>asetettu</Crack.comps.0.labelSolidTreatedWell>
-    <Crack.comps.0.labelTreated>huonosti hoidettu</Crack.comps.0.labelTreated>
-    <Crack.comps.0.labelTreatedInner>huonosti hoidettu</Crack.comps.0.labelTreatedInner>
-    <Crack.comps.0.labelTreatedWell>hoidettu</Crack.comps.0.labelTreatedWell>
-    <Crack.comps.0.labelTreatedWellInner>hoidettu</Crack.comps.0.labelTreatedWellInner>
-    <Crush.comps.0.labelSolidTreated>huonosti asetettu</Crush.comps.0.labelSolidTreated>
-    <Crush.comps.0.labelSolidTreatedWell>asetettu</Crush.comps.0.labelSolidTreatedWell>
-    <Crush.comps.0.labelTreated>huonosti sidottu</Crush.comps.0.labelTreated>
-    <Crush.comps.0.labelTreatedInner>huonosti ommeltu</Crush.comps.0.labelTreatedInner>
-    <Crush.comps.0.labelTreatedWell>sidottu</Crush.comps.0.labelTreatedWell>
-    <Crush.comps.0.labelTreatedWellInner>ommeltu</Crush.comps.0.labelTreatedWellInner>
-    <Cut.comps.0.labelSolidTreated>huonosti asetettu</Cut.comps.0.labelSolidTreated>
-    <Cut.comps.0.labelSolidTreatedWell>asetettu</Cut.comps.0.labelSolidTreatedWell>
-    <Cut.comps.0.labelTreated>huonosti sidottu</Cut.comps.0.labelTreated>
-    <Cut.comps.0.labelTreatedInner>huonosti ommeltu</Cut.comps.0.labelTreatedInner>
-    <Cut.comps.0.labelTreatedWell>sidottu</Cut.comps.0.labelTreatedWell>
-    <Cut.comps.0.labelTreatedWellInner>ommeltu</Cut.comps.0.labelTreatedWellInner>
-    <Frostbite.comps.0.labelSolidTreated>huonosti asetettu</Frostbite.comps.0.labelSolidTreated>
-    <Frostbite.comps.0.labelSolidTreatedWell>asetettu</Frostbite.comps.0.labelSolidTreatedWell>
-    <Frostbite.comps.0.labelTreated>huonosti sidottu</Frostbite.comps.0.labelTreated>
-    <Frostbite.comps.0.labelTreatedInner>huonosti ommeltu</Frostbite.comps.0.labelTreatedInner>
-    <Frostbite.comps.0.labelTreatedWell>sidottu</Frostbite.comps.0.labelTreatedWell>
-    <Frostbite.comps.0.labelTreatedWellInner>ommeltu</Frostbite.comps.0.labelTreatedWellInner>
-    <Gunshot.comps.0.labelSolidTreated>huonosti asetettu</Gunshot.comps.0.labelSolidTreated>
-    <Gunshot.comps.0.labelSolidTreatedWell>asetettu</Gunshot.comps.0.labelSolidTreatedWell>
-    <Gunshot.comps.0.labelTreated>huonosti sidottu</Gunshot.comps.0.labelTreated>
-    <Gunshot.comps.0.labelTreatedInner>huonosti ommeltu</Gunshot.comps.0.labelTreatedInner>
-    <Gunshot.comps.0.labelTreatedWell>sidottu</Gunshot.comps.0.labelTreatedWell>
-    <Gunshot.comps.0.labelTreatedWellInner>ommeltu</Gunshot.comps.0.labelTreatedWellInner>
-    <Misc.comps.0.labelSolidTreated>huonosti asetettu</Misc.comps.0.labelSolidTreated>
-    <Misc.comps.0.labelSolidTreatedWell>asetettu</Misc.comps.0.labelSolidTreatedWell>
-    <Misc.comps.0.labelTreated>huonosti sidottu</Misc.comps.0.labelTreated>
-    <Misc.comps.0.labelTreatedInner>huonosti ommeltu</Misc.comps.0.labelTreatedInner>
-    <Misc.comps.0.labelTreatedWell>sidottu</Misc.comps.0.labelTreatedWell>
-    <Misc.comps.0.labelTreatedWellInner>ommeltu</Misc.comps.0.labelTreatedWellInner>
-    <Scratch.comps.0.labelSolidTreated>huonosti asetettu</Scratch.comps.0.labelSolidTreated>
-    <Scratch.comps.0.labelSolidTreatedWell>asetettu</Scratch.comps.0.labelSolidTreatedWell>
-    <Scratch.comps.0.labelTreated>huonosti sidottu</Scratch.comps.0.labelTreated>
-    <Scratch.comps.0.labelTreatedInner>huonosti ommeltu</Scratch.comps.0.labelTreatedInner>
-    <Scratch.comps.0.labelTreatedWell>sidottu</Scratch.comps.0.labelTreatedWell>
-    <Scratch.comps.0.labelTreatedWellInner>ommeltu</Scratch.comps.0.labelTreatedWellInner>
-    <Shredded.comps.0.labelSolidTreated>huonosti asetettu</Shredded.comps.0.labelSolidTreated>
-    <Shredded.comps.0.labelSolidTreatedWell>asetettu</Shredded.comps.0.labelSolidTreatedWell>
-    <Shredded.comps.0.labelTreated>huonosti sidottu</Shredded.comps.0.labelTreated>
-    <Shredded.comps.0.labelTreatedInner>huonosti ommeltu</Shredded.comps.0.labelTreatedInner>
-    <Shredded.comps.0.labelTreatedWell>sidottu</Shredded.comps.0.labelTreatedWell>
-    <Shredded.comps.0.labelTreatedWellInner>ommeltu</Shredded.comps.0.labelTreatedWellInner>
-    <Stab.comps.0.labelSolidTreated>huonosti asetettu</Stab.comps.0.labelSolidTreated>
-    <Stab.comps.0.labelSolidTreatedWell>asetettu</Stab.comps.0.labelSolidTreatedWell>
-    <Stab.comps.0.labelTreated>huonosti sidottu</Stab.comps.0.labelTreated>
-    <Stab.comps.0.labelTreatedInner>huonosti ommeltu</Stab.comps.0.labelTreatedInner>
-    <Stab.comps.0.labelTreatedWell>sidottu</Stab.comps.0.labelTreatedWell>
-    <Stab.comps.0.labelTreatedWellInner>ommeltu</Stab.comps.0.labelTreatedWellInner>
-    <SurgicalCut.comps.0.labelSolidTreated>huonosti asetettu</SurgicalCut.comps.0.labelSolidTreated>
-    <SurgicalCut.comps.0.labelSolidTreatedWell>asetettu</SurgicalCut.comps.0.labelSolidTreatedWell>
-    <SurgicalCut.comps.0.labelTreated>huonosti sidottu</SurgicalCut.comps.0.labelTreated>
-    <SurgicalCut.comps.0.labelTreatedInner>huonosti ommeltu</SurgicalCut.comps.0.labelTreatedInner>
-    <SurgicalCut.comps.0.labelTreatedWell>sidottu</SurgicalCut.comps.0.labelTreatedWell>
-    <SurgicalCut.comps.0.labelTreatedWellInner>ommeltu</SurgicalCut.comps.0.labelTreatedWellInner>
-
-DefInjected\JobDef\Jobs_Work.xml
-    <TreatPatient.reportString>Parantaa henkilön TargetA.</TreatPatient.reportString>
-
-DefInjected\MainTabDef\MainTabs.xml
-    <Outfits.description>Määritä mitä kukin yhdyskuntalainen saa pitää yllään.</Outfits.description>
-    <Outfits.label>vaatekerrat</Outfits.label>
-    <Restrictions.description>Rajoita yhdyskuntalaisia tiettyihin toimiin tiettyyn aikaan päivästä tai tiettyihin salittuihin alueisiin.</Restrictions.description>
-    <Restrictions.label>rajoitukset</Restrictions.label>
-
 DefInjected\PawnKindDef\PawnKinds_Animal_Arid.xml
     <Dromedary.lifeStages.1.label>nuori dromedaari</Dromedary.lifeStages.1.label>
     <Dromedary.lifeStages.2.label>dromedaari</Dromedary.lifeStages.2.label>
@@ -409,20 +320,9 @@ DefInjected\TaleDef\Tales_SinglePawn.xml
     <MentalBreakGaveUp.rulePack.rulesStrings.8>circumstance_phrase->viimeisenä tekonaan</MentalBreakGaveUp.rulePack.rulesStrings.8>
     <MentalBreakGaveUp.rulePack.rulesStrings.9>desc_sentence->Kyyneleet virtaavat [pawn_possessive] kasvoillaan.</MentalBreakGaveUp.rulePack.rulesStrings.9>
 
-DefInjected\ThingCategoryDef\ThingCategories.xml
-    <OtherFoodRaw.label>eläintuotteet</OtherFoodRaw.label>
-
-DefInjected\ThingDef\Buildings_Joy.xml
-    <Television.description>Katodisädeputkinäyttö joka näyttää liikkuvia kuvia äänen kanssa. Jopa syrjäisillä planeetoilla on usein vanha lähetin joka pyörittää jotain lähes mielenkiintoista katsottavaa.</Television.description>
-    <Television.label>televisio</Television.label>
-
 DefInjected\ThingDef\Buildings_Production.xml
-    <CookStove.description>Yksinkertainen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia.</CookStove.description>
-    <CookStove.label>keittoliesi</CookStove.label>
     <Crematorium.description>Polttaa ruumiita.</Crematorium.description>
     <Crematorium.label>krematorio</Crematorium.label>
-    <ResearchBench.description>Tutkijat työskentelevät tässä keksiäkseen uusia asioita.</ResearchBench.description>
-    <ResearchBench.label>tutkimuspöytä</ResearchBench.label>
     <TableSmithing.description>Aseiden ja työkalujen valmistamiseen varusteltu työpöytä.</TableSmithing.description>
     <TableSmithing.label>taontapöytä</TableSmithing.label>
     <TableTailor.description>Kankaiden parantelemiseen ja vaatteiden tuotantoon tarkoitettu pöytä.</TableTailor.description>
@@ -468,10 +368,6 @@ DefInjected\WorkGiverDef\WorkGivers.xml
 
 DefInjected\WorkTypeDef\WorkTypes.xml
     <Patient.description>Potilaat menevät sairasvuoteeseen jos he tarvitsevat hoitoa.</Patient.description>
-    <Patient.gerundLabel>Potilas</Patient.gerundLabel>
-    <Patient.labelShort>Potilas</Patient.labelShort>
-    <Patient.pawnLabel>Potilas</Patient.pawnLabel>
-    <Patient.verb>Tule potilaaksi</Patient.verb>
 
 Keyed\Alerts.xml
     <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
@@ -547,4 +443,3 @@ Keyed\Time.xml
     <DaysHours>{0} päivää, {1} tuntia</DaysHours>
     <Period1Month>1 kuukausi</Period1Month>
     <PeriodMonths>{0} kuukautta</PeriodMonths>
-
