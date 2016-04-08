@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Firefoam.label>firefoam</Firefoam.label>
+    <Firefoam.description>Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
+    
+    <GeothermalPower.label>maalämpö</GeothermalPower.label>
+    <GeothermalPower.description>Mahdollistaa maalämpögeneraattorien rakentamisen geysireiden päälle. Maalämpögeneraattori tuottaa energiaa taukoamatta.</GeothermalPower.description>
+    
+    <HospitalBed.label>lääkintävuode</HospitalBed.label>
+    <HospitalBed.description>Mahdollistaa yhdyskuntalaisiten rakentaa lääkintävuoteita, jotka parantavat onnistuneen hoidon mahdollisuuksia.</HospitalBed.description>
+    
+    <MultiAnalyzer.label>monianalysaattori</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Kasvattaa tutkimisnopeutta. Täytyy rakentaa lähelle tutkimuspöytää. Yksi tutkimuspöytä voi olla yhdistettynä vain yhteen monianalysaattoriin.</MultiAnalyzer.description>
+    
+    <VitalsMonitor.label>terveydentilan näyttö</VitalsMonitor.label>
+    <VitalsMonitor.description>Parantaa potilaiden parantamisen laatua. Täytyy rakentaa lääkintävuoteen viereen. Yksi lääkintävuode voi olla yhdistettynä vain yhteen terveydentilan näyttöön.</VitalsMonitor.description>
+    
+    <Cryptosleep.label>salauniarkku</Cryptosleep.label>
+    <Cryptosleep.description>Mahdollistaa yhdyskuntalaisten rakentaa salauniarkkuja joihin voidaan laittaa eläviä olentoja lepotilaan.</Cryptosleep.description>
+    
+    <ComponentAssembly.label>component assembly</ComponentAssembly.label>
+    <ComponentAssembly.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</ComponentAssembly.description>
+    
+    <PoweredArmor.label>powered armor</PoweredArmor.label>
+    <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+    
+    <ChargedShot.label>charged shot</ChargedShot.label>
+    <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
+    
+    <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
+    <MultibarrelWeapons.description>Allows you to build miniguns.</MultibarrelWeapons.description>
+    
+</LanguageData>

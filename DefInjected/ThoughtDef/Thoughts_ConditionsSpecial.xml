@@ -7,6 +7,9 @@
     <SharedBedroom.stages.0.label>jaettu makuuhuone</SharedBedroom.stages.0.label>
     <SharedBedroom.stages.0.description>Huoneen jakaminen muiden kanssa on ärsyttävää. Haluan edes hieman yksityisyyttä.</SharedBedroom.stages.0.description>
     
+    <SharedBed.stages.0.label>sharing bed</SharedBed.stages.0.label>
+    <SharedBed.stages.0.description>I have to share a bed with someone who I don't particularly want to.</SharedBed.stages.0.description>
+    
     <ColonistLeftUnburied.stages.0.label>yhdyskuntalainen hautaamatta</ColonistLeftUnburied.stages.0.label>
     <ColonistLeftUnburied.stages.0.description>Yksi meistä kuoli ja me vain jätämme hänet makaamaan näkyville. Ketään ei kuuluisi jättää noin. Ihmiset ansaitsevat säädylliset hautajaiset.</ColonistLeftUnburied.stages.0.description>
     

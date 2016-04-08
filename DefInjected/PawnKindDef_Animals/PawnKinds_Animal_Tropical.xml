@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Cobra.label>kobra</Cobra.label>
+    
+    <Monkey.label>apina</Monkey.label>
+    
+    <Chinchilla.label>chinchilla</Chinchilla.label>
+    
+    <Boomalope.label>paukkulooppi</Boomalope.label>
+    <Boomalope.lifeStages.0.label>paukkuloopin vasikka</Boomalope.lifeStages.0.label>
+    
+    <Capybara.label>kapybara</Capybara.label>
+    
+    <Cougar.label>cougar</Cougar.label>
+    
+</LanguageData>

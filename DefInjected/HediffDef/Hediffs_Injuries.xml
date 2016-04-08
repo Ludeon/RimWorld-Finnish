@@ -2,135 +2,135 @@
 <LanguageData>
     
     <Misc.label>muu</Misc.label>
-    <Misc.comps.0.labelTreatedWell>sidottu</Misc.comps.0.labelTreatedWell>
-    <Misc.comps.0.labelTreated>huonosti sidottu</Misc.comps.0.labelTreated>
-    <Misc.comps.0.labelTreatedWellInner>ommeltu</Misc.comps.0.labelTreatedWellInner>
-    <Misc.comps.0.labelTreatedInner>huonosti ommeltu</Misc.comps.0.labelTreatedInner>
-    <Misc.comps.0.labelSolidTreatedWell>asetettu</Misc.comps.0.labelSolidTreatedWell>
-    <Misc.comps.0.labelSolidTreated>huonosti asetettu</Misc.comps.0.labelSolidTreated>
+    <Misc.comps.0.labelTendedWell>bandaged</Misc.comps.0.labelTendedWell>
+    <Misc.comps.0.labelTended>poorly bandaged</Misc.comps.0.labelTended>
+    <Misc.comps.0.labelTendedWellInner>sutured</Misc.comps.0.labelTendedWellInner>
+    <Misc.comps.0.labelTendedInner>poorly sutured</Misc.comps.0.labelTendedInner>
+    <Misc.comps.0.labelSolidTendedWell>set</Misc.comps.0.labelSolidTendedWell>
+    <Misc.comps.0.labelSolidTended>poorly set</Misc.comps.0.labelSolidTended>
     <Misc.injuryProps.destroyedLabel>Tuhoutunut</Misc.injuryProps.destroyedLabel>
     
     <Burn.label>palovamma</Burn.label>
-    <Burn.comps.0.labelTreatedWell>sidottu</Burn.comps.0.labelTreatedWell>
-    <Burn.comps.0.labelTreated>huonosti sidottu</Burn.comps.0.labelTreated>
-    <Burn.comps.0.labelTreatedWellInner>ommeltu</Burn.comps.0.labelTreatedWellInner>
-    <Burn.comps.0.labelTreatedInner>huonosti ommeltu</Burn.comps.0.labelTreatedInner>
-    <Burn.comps.0.labelSolidTreatedWell>asetettu</Burn.comps.0.labelSolidTreatedWell>
-    <Burn.comps.0.labelSolidTreated>huonosti asetettu</Burn.comps.0.labelSolidTreated>
+    <Burn.comps.0.labelTendedWell>bandaged</Burn.comps.0.labelTendedWell>
+    <Burn.comps.0.labelTended>poorly bandaged</Burn.comps.0.labelTended>
+    <Burn.comps.0.labelTendedWellInner>sutured</Burn.comps.0.labelTendedWellInner>
+    <Burn.comps.0.labelTendedInner>poorly sutured</Burn.comps.0.labelTendedInner>
+    <Burn.comps.0.labelSolidTendedWell>set</Burn.comps.0.labelSolidTendedWell>
+    <Burn.comps.0.labelSolidTended>poorly set</Burn.comps.0.labelSolidTended>
     <Burn.comps.2.oldLabel>paloarpi</Burn.comps.2.oldLabel>
     <Burn.injuryProps.destroyedLabel>Poispalanut</Burn.injuryProps.destroyedLabel>
     <Burn.injuryProps.destroyedOutLabel>Ulospalanut</Burn.injuryProps.destroyedOutLabel>
     
     <Crush.label>ruhje</Crush.label>
-    <Crush.comps.0.labelTreatedWell>sidottu</Crush.comps.0.labelTreatedWell>
-    <Crush.comps.0.labelTreated>huonosti sidottu</Crush.comps.0.labelTreated>
-    <Crush.comps.0.labelTreatedWellInner>ommeltu</Crush.comps.0.labelTreatedWellInner>
-    <Crush.comps.0.labelTreatedInner>huonosti ommeltu</Crush.comps.0.labelTreatedInner>
-    <Crush.comps.0.labelSolidTreatedWell>asetettu</Crush.comps.0.labelSolidTreatedWell>
-    <Crush.comps.0.labelSolidTreated>huonosti asetettu</Crush.comps.0.labelSolidTreated>
+    <Crush.comps.0.labelTendedWell>bandaged</Crush.comps.0.labelTendedWell>
+    <Crush.comps.0.labelTended>poorly bandaged</Crush.comps.0.labelTended>
+    <Crush.comps.0.labelTendedWellInner>sutured</Crush.comps.0.labelTendedWellInner>
+    <Crush.comps.0.labelTendedInner>poorly sutured</Crush.comps.0.labelTendedInner>
+    <Crush.comps.0.labelSolidTendedWell>set</Crush.comps.0.labelSolidTendedWell>
+    <Crush.comps.0.labelSolidTended>poorly set</Crush.comps.0.labelSolidTended>
     <Crush.comps.2.oldLabel>arpi</Crush.comps.2.oldLabel>
     <Crush.injuryProps.destroyedLabel>Murskattu</Crush.injuryProps.destroyedLabel>
     
     <Crack.label>murtuma</Crack.label>
-    <Crack.comps.0.labelTreatedWell>hoidettu</Crack.comps.0.labelTreatedWell>
-    <Crack.comps.0.labelTreated>huonosti hoidettu</Crack.comps.0.labelTreated>
-    <Crack.comps.0.labelTreatedWellInner>hoidettu</Crack.comps.0.labelTreatedWellInner>
-    <Crack.comps.0.labelTreatedInner>huonosti hoidettu</Crack.comps.0.labelTreatedInner>
-    <Crack.comps.0.labelSolidTreatedWell>asetettu</Crack.comps.0.labelSolidTreatedWell>
-    <Crack.comps.0.labelSolidTreated>huonosti asetettu</Crack.comps.0.labelSolidTreated>
+    <Crack.comps.0.labelTendedWell>healed</Crack.comps.0.labelTendedWell>
+    <Crack.comps.0.labelTended>poorly healed</Crack.comps.0.labelTended>
+    <Crack.comps.0.labelTendedWellInner>healed</Crack.comps.0.labelTendedWellInner>
+    <Crack.comps.0.labelTendedInner>poorly healed</Crack.comps.0.labelTendedInner>
+    <Crack.comps.0.labelSolidTendedWell>set</Crack.comps.0.labelSolidTendedWell>
+    <Crack.comps.0.labelSolidTended>poorly set</Crack.comps.0.labelSolidTended>
     <Crack.injuryProps.destroyedLabel>Pirstaloitunut</Crack.injuryProps.destroyedLabel>
     
     <Cut.label>viilto</Cut.label>
-    <Cut.comps.0.labelTreatedWell>sidottu</Cut.comps.0.labelTreatedWell>
-    <Cut.comps.0.labelTreated>huonosti sidottu</Cut.comps.0.labelTreated>
-    <Cut.comps.0.labelTreatedWellInner>ommeltu</Cut.comps.0.labelTreatedWellInner>
-    <Cut.comps.0.labelTreatedInner>huonosti ommeltu</Cut.comps.0.labelTreatedInner>
-    <Cut.comps.0.labelSolidTreatedWell>asetettu</Cut.comps.0.labelSolidTreatedWell>
-    <Cut.comps.0.labelSolidTreated>huonosti asetettu</Cut.comps.0.labelSolidTreated>
+    <Cut.comps.0.labelTendedWell>bandaged</Cut.comps.0.labelTendedWell>
+    <Cut.comps.0.labelTended>poorly bandaged</Cut.comps.0.labelTended>
+    <Cut.comps.0.labelTendedWellInner>sutured</Cut.comps.0.labelTendedWellInner>
+    <Cut.comps.0.labelTendedInner>poorly sutured</Cut.comps.0.labelTendedInner>
+    <Cut.comps.0.labelSolidTendedWell>set</Cut.comps.0.labelSolidTendedWell>
+    <Cut.comps.0.labelSolidTended>poorly set</Cut.comps.0.labelSolidTended>
     <Cut.comps.2.oldLabel>viiltoarpi</Cut.comps.2.oldLabel>
     <Cut.injuryProps.destroyedLabel>Poisleikattu</Cut.injuryProps.destroyedLabel>
     <Cut.injuryProps.destroyedOutLabel>Ulosleikattu</Cut.injuryProps.destroyedOutLabel>
     
     <SurgicalCut.label>kirurginen haava</SurgicalCut.label>
-    <SurgicalCut.comps.0.labelTreatedWell>sidottu</SurgicalCut.comps.0.labelTreatedWell>
-    <SurgicalCut.comps.0.labelTreated>huonosti sidottu</SurgicalCut.comps.0.labelTreated>
-    <SurgicalCut.comps.0.labelTreatedWellInner>ommeltu</SurgicalCut.comps.0.labelTreatedWellInner>
-    <SurgicalCut.comps.0.labelTreatedInner>huonosti ommeltu</SurgicalCut.comps.0.labelTreatedInner>
-    <SurgicalCut.comps.0.labelSolidTreatedWell>asetettu</SurgicalCut.comps.0.labelSolidTreatedWell>
-    <SurgicalCut.comps.0.labelSolidTreated>huonosti asetettu</SurgicalCut.comps.0.labelSolidTreated>
+    <SurgicalCut.comps.0.labelTendedWell>bandaged</SurgicalCut.comps.0.labelTendedWell>
+    <SurgicalCut.comps.0.labelTended>poorly bandaged</SurgicalCut.comps.0.labelTended>
+    <SurgicalCut.comps.0.labelTendedWellInner>sutured</SurgicalCut.comps.0.labelTendedWellInner>
+    <SurgicalCut.comps.0.labelTendedInner>poorly sutured</SurgicalCut.comps.0.labelTendedInner>
+    <SurgicalCut.comps.0.labelSolidTendedWell>set</SurgicalCut.comps.0.labelSolidTendedWell>
+    <SurgicalCut.comps.0.labelSolidTended>poorly set</SurgicalCut.comps.0.labelSolidTended>
     <SurgicalCut.comps.1.oldLabel>viiltoarpi</SurgicalCut.comps.1.oldLabel>
     
     <Scratch.label>naarmu</Scratch.label>
-    <Scratch.comps.0.labelTreatedWell>sidottu</Scratch.comps.0.labelTreatedWell>
-    <Scratch.comps.0.labelTreated>huonosti sidottu</Scratch.comps.0.labelTreated>
-    <Scratch.comps.0.labelTreatedWellInner>ommeltu</Scratch.comps.0.labelTreatedWellInner>
-    <Scratch.comps.0.labelTreatedInner>huonosti ommeltu</Scratch.comps.0.labelTreatedInner>
-    <Scratch.comps.0.labelSolidTreatedWell>asetettu</Scratch.comps.0.labelSolidTreatedWell>
-    <Scratch.comps.0.labelSolidTreated>huonosti asetettu</Scratch.comps.0.labelSolidTreated>
+    <Scratch.comps.0.labelTendedWell>bandaged</Scratch.comps.0.labelTendedWell>
+    <Scratch.comps.0.labelTended>poorly bandaged</Scratch.comps.0.labelTended>
+    <Scratch.comps.0.labelTendedWellInner>sutured</Scratch.comps.0.labelTendedWellInner>
+    <Scratch.comps.0.labelTendedInner>poorly sutured</Scratch.comps.0.labelTendedInner>
+    <Scratch.comps.0.labelSolidTendedWell>set</Scratch.comps.0.labelSolidTendedWell>
+    <Scratch.comps.0.labelSolidTended>poorly set</Scratch.comps.0.labelSolidTended>
     <Scratch.comps.2.oldLabel>raapaisuarpi</Scratch.comps.2.oldLabel>
     <Scratch.injuryProps.destroyedLabel>Poisrevitty</Scratch.injuryProps.destroyedLabel>
     <Scratch.injuryProps.destroyedOutLabel>Ulosrevitty</Scratch.injuryProps.destroyedOutLabel>
     
     <Bite.label>purema</Bite.label>
-    <Bite.comps.0.labelTreatedWell>sidottu</Bite.comps.0.labelTreatedWell>
-    <Bite.comps.0.labelTreated>huonosti sidottu</Bite.comps.0.labelTreated>
-    <Bite.comps.0.labelTreatedWellInner>ommeltu</Bite.comps.0.labelTreatedWellInner>
-    <Bite.comps.0.labelTreatedInner>huonosti ommeltu</Bite.comps.0.labelTreatedInner>
-    <Bite.comps.0.labelSolidTreatedWell>asetettu</Bite.comps.0.labelSolidTreatedWell>
-    <Bite.comps.0.labelSolidTreated>huonosti asetettu</Bite.comps.0.labelSolidTreated>
+    <Bite.comps.0.labelTendedWell>bandaged</Bite.comps.0.labelTendedWell>
+    <Bite.comps.0.labelTended>poorly bandaged</Bite.comps.0.labelTended>
+    <Bite.comps.0.labelTendedWellInner>sutured</Bite.comps.0.labelTendedWellInner>
+    <Bite.comps.0.labelTendedInner>poorly sutured</Bite.comps.0.labelTendedInner>
+    <Bite.comps.0.labelSolidTendedWell>set</Bite.comps.0.labelSolidTendedWell>
+    <Bite.comps.0.labelSolidTended>poorly set</Bite.comps.0.labelSolidTended>
     <Bite.comps.2.oldLabel>purema-arpi</Bite.comps.2.oldLabel>
     <Bite.injuryProps.destroyedLabel>Poispurtu</Bite.injuryProps.destroyedLabel>
     <Bite.injuryProps.destroyedOutLabel>Ulospurtu</Bite.injuryProps.destroyedOutLabel>
     
     <Stab.label>pisto</Stab.label>
-    <Stab.comps.0.labelTreatedWell>sidottu</Stab.comps.0.labelTreatedWell>
-    <Stab.comps.0.labelTreated>huonosti sidottu</Stab.comps.0.labelTreated>
-    <Stab.comps.0.labelTreatedWellInner>ommeltu</Stab.comps.0.labelTreatedWellInner>
-    <Stab.comps.0.labelTreatedInner>huonosti ommeltu</Stab.comps.0.labelTreatedInner>
-    <Stab.comps.0.labelSolidTreatedWell>asetettu</Stab.comps.0.labelSolidTreatedWell>
-    <Stab.comps.0.labelSolidTreated>huonosti asetettu</Stab.comps.0.labelSolidTreated>
+    <Stab.comps.0.labelTendedWell>bandaged</Stab.comps.0.labelTendedWell>
+    <Stab.comps.0.labelTended>poorly bandaged</Stab.comps.0.labelTended>
+    <Stab.comps.0.labelTendedWellInner>sutured</Stab.comps.0.labelTendedWellInner>
+    <Stab.comps.0.labelTendedInner>poorly sutured</Stab.comps.0.labelTendedInner>
+    <Stab.comps.0.labelSolidTendedWell>set</Stab.comps.0.labelSolidTendedWell>
+    <Stab.comps.0.labelSolidTended>poorly set</Stab.comps.0.labelSolidTended>
     <Stab.comps.2.oldLabel>pistoarpi</Stab.comps.2.oldLabel>
     <Stab.injuryProps.destroyedLabel>Poisleikattu</Stab.injuryProps.destroyedLabel>
     <Stab.injuryProps.destroyedOutLabel>Ulosleikattu</Stab.injuryProps.destroyedOutLabel>
     
     <Gunshot.label>ampumahaava</Gunshot.label>
-    <Gunshot.comps.0.labelTreatedWell>sidottu</Gunshot.comps.0.labelTreatedWell>
-    <Gunshot.comps.0.labelTreated>huonosti sidottu</Gunshot.comps.0.labelTreated>
-    <Gunshot.comps.0.labelTreatedWellInner>ommeltu</Gunshot.comps.0.labelTreatedWellInner>
-    <Gunshot.comps.0.labelTreatedInner>huonosti ommeltu</Gunshot.comps.0.labelTreatedInner>
-    <Gunshot.comps.0.labelSolidTreatedWell>asetettu</Gunshot.comps.0.labelSolidTreatedWell>
-    <Gunshot.comps.0.labelSolidTreated>huonosti asetettu</Gunshot.comps.0.labelSolidTreated>
+    <Gunshot.comps.0.labelTendedWell>bandaged</Gunshot.comps.0.labelTendedWell>
+    <Gunshot.comps.0.labelTended>poorly bandaged</Gunshot.comps.0.labelTended>
+    <Gunshot.comps.0.labelTendedWellInner>sutured</Gunshot.comps.0.labelTendedWellInner>
+    <Gunshot.comps.0.labelTendedInner>poorly sutured</Gunshot.comps.0.labelTendedInner>
+    <Gunshot.comps.0.labelSolidTendedWell>set</Gunshot.comps.0.labelSolidTendedWell>
+    <Gunshot.comps.0.labelSolidTended>poorly set</Gunshot.comps.0.labelSolidTended>
     <Gunshot.comps.2.oldLabel>ampuma-arpi</Gunshot.comps.2.oldLabel>
     <Gunshot.injuryProps.destroyedLabel>Poisammutttu</Gunshot.injuryProps.destroyedLabel>
     <Gunshot.injuryProps.destroyedOutLabel>Ulosammuttu</Gunshot.injuryProps.destroyedOutLabel>
     
     <Shredded.label>revitty</Shredded.label>
-    <Shredded.comps.0.labelTreatedWell>sidottu</Shredded.comps.0.labelTreatedWell>
-    <Shredded.comps.0.labelTreated>huonosti sidottu</Shredded.comps.0.labelTreated>
-    <Shredded.comps.0.labelTreatedWellInner>ommeltu</Shredded.comps.0.labelTreatedWellInner>
-    <Shredded.comps.0.labelTreatedInner>huonosti ommeltu</Shredded.comps.0.labelTreatedInner>
-    <Shredded.comps.0.labelSolidTreatedWell>asetettu</Shredded.comps.0.labelSolidTreatedWell>
-    <Shredded.comps.0.labelSolidTreated>huonosti asetettu</Shredded.comps.0.labelSolidTreated>
+    <Shredded.comps.0.labelTendedWell>bandaged</Shredded.comps.0.labelTendedWell>
+    <Shredded.comps.0.labelTended>poorly bandaged</Shredded.comps.0.labelTended>
+    <Shredded.comps.0.labelTendedWellInner>sutured</Shredded.comps.0.labelTendedWellInner>
+    <Shredded.comps.0.labelTendedInner>poorly sutured</Shredded.comps.0.labelTendedInner>
+    <Shredded.comps.0.labelSolidTendedWell>set</Shredded.comps.0.labelSolidTendedWell>
+    <Shredded.comps.0.labelSolidTended>poorly set</Shredded.comps.0.labelSolidTended>
     <Shredded.comps.2.oldLabel>arpi</Shredded.comps.2.oldLabel>
     <Shredded.injuryProps.destroyedLabel>Poisrevitty</Shredded.injuryProps.destroyedLabel>
     <Shredded.injuryProps.destroyedOutLabel>Ulosrevitty</Shredded.injuryProps.destroyedOutLabel>
     
     <Bruise.label>ruhje</Bruise.label>
-    <Bruise.comps.0.labelTreatedWell>sidottu</Bruise.comps.0.labelTreatedWell>
-    <Bruise.comps.0.labelTreated>huonosti sidottu</Bruise.comps.0.labelTreated>
-    <Bruise.comps.0.labelTreatedWellInner>ommeltu</Bruise.comps.0.labelTreatedWellInner>
-    <Bruise.comps.0.labelTreatedInner>huonosti ommeltu</Bruise.comps.0.labelTreatedInner>
-    <Bruise.comps.0.labelSolidTreatedWell>asetettu</Bruise.comps.0.labelSolidTreatedWell>
-    <Bruise.comps.0.labelSolidTreated>huonosti asetettu</Bruise.comps.0.labelSolidTreated>
+    <Bruise.comps.0.labelTendedWell>bandaged</Bruise.comps.0.labelTendedWell>
+    <Bruise.comps.0.labelTended>poorly bandaged</Bruise.comps.0.labelTended>
+    <Bruise.comps.0.labelTendedWellInner>sutured</Bruise.comps.0.labelTendedWellInner>
+    <Bruise.comps.0.labelTendedInner>poorly sutured</Bruise.comps.0.labelTendedInner>
+    <Bruise.comps.0.labelSolidTendedWell>set</Bruise.comps.0.labelSolidTendedWell>
+    <Bruise.comps.0.labelSolidTended>poorly set</Bruise.comps.0.labelSolidTended>
     <Bruise.injuryProps.destroyedLabel>Tuhoutunut</Bruise.injuryProps.destroyedLabel>
     
     <Frostbite.label>paleltuma</Frostbite.label>
-    <Frostbite.comps.0.labelTreatedWell>sidottu</Frostbite.comps.0.labelTreatedWell>
-    <Frostbite.comps.0.labelTreated>huonosti sidottu</Frostbite.comps.0.labelTreated>
-    <Frostbite.comps.0.labelTreatedWellInner>ommeltu</Frostbite.comps.0.labelTreatedWellInner>
-    <Frostbite.comps.0.labelTreatedInner>huonosti ommeltu</Frostbite.comps.0.labelTreatedInner>
-    <Frostbite.comps.0.labelSolidTreatedWell>asetettu</Frostbite.comps.0.labelSolidTreatedWell>
-    <Frostbite.comps.0.labelSolidTreated>huonosti asetettu</Frostbite.comps.0.labelSolidTreated>
+    <Frostbite.comps.0.labelTendedWell>bandaged</Frostbite.comps.0.labelTendedWell>
+    <Frostbite.comps.0.labelTended>poorly bandaged</Frostbite.comps.0.labelTended>
+    <Frostbite.comps.0.labelTendedWellInner>sutured</Frostbite.comps.0.labelTendedWellInner>
+    <Frostbite.comps.0.labelTendedInner>poorly sutured</Frostbite.comps.0.labelTendedInner>
+    <Frostbite.comps.0.labelSolidTendedWell>set</Frostbite.comps.0.labelSolidTendedWell>
+    <Frostbite.comps.0.labelSolidTended>poorly set</Frostbite.comps.0.labelSolidTended>
     <Frostbite.comps.2.oldLabel>Paleltuma-arpi</Frostbite.comps.2.oldLabel>
     <Frostbite.injuryProps.destroyedLabel>Paleltuman tuhoama</Frostbite.injuryProps.destroyedLabel>
     

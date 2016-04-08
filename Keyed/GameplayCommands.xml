@@ -36,9 +36,8 @@
   <CommandBedSetOwnerDesc>Aseta tämä sänky tietylle yhdyskuntalaiselle.</CommandBedSetOwnerDesc>
   <CommandGraveAssignColonistLabel>Aseta yhdyskuntalainen</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>Aseta tämä hauta tietyn yhdyskuntalaisen omistukseen.</CommandGraveAssignColonistDesc>
-  <CommandGraveSetToUnassignedLabel>Poista asetus</CommandGraveSetToUnassignedLabel>
-  <CommandGraveSetToUnassignedDesc>Poista tämän haudan asetus tietylle henkilölle.</CommandGraveSetToUnassignedDesc>
   <BuildingAssign>Aseta</BuildingAssign>
+  <BuildingUnassign>Unassign</BuildingUnassign>
   <CommandBedSetForPrisonersLabel>Aseta vangeille</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Aseta tämän huoneen sängyt vankien käyttöön.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Ulkona olevia sänkyjä ei voi asettaa vangeille.</CommandBedSetForPrisonersFailOutdoors>
@@ -112,7 +111,9 @@
   
   <CommandInstall>Asenna</CommandInstall>
   <CommandInstallDesc>Tämä esine on pakattu varastoimista ja kuljetusta varten. Käytä tätä komentoa asentaaksesi tämän esineen lopulliselle paikalleen, jotta sitä voidaan katsella tai käyttää.</CommandInstallDesc>
-
+  <CommandReinstall>Reinstall at...</CommandReinstall>
+  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  
   
   <CommandMakeBeaconStockpileDesc>Luo tämän rakennelman ympärille varastoalue, joka vastaa täysin majakan kantamaa.</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>Luo varastoalue</CommandMakeBeaconStockpileLabel>
@@ -129,5 +130,9 @@
   <CommandReleaseAnimalsLabel>Vapauta eläimet</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>Kun tämä on päällä, hallussa olevat eläimet lasketaan vapaaksi hyökkäämään etäällä olevia vihollisia vastaan. Kun tämä on pois päältä, eläimet pysyttelevät lähettyvillä ja suojelevat isäntäänsä.</CommandReleaseAnimalsDesc>
   
+  
+  <CommandSquadAttack>Attack</CommandSquadAttack>
+  <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
+
   
 </LanguageData>

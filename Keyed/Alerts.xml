@@ -49,6 +49,9 @@
   <Starvation>Nälänhätä</Starvation>
   <StarvationDesc>Nämä yhdyskuntalaiset ovat nääntymässä nälkään:\n\n{0}\nHanki heille jotain ruokaa. Tarvitset ruo'oanlähteen kuten ravinnetahna-annostelija ja joitain ruokaa millä tehdä ravinnetahnaa. Varmista myös että he eivät ole värvättyjä.</StarvationDesc>
 
+  <StarvationAnimals>Animal starvation</StarvationAnimals>
+  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+
   <Exhaustion>Ylirasittuminen</Exhaustion>
   <ExhaustionDesc>Nämä yhdyskuntalaiset ovat erittäin väsyneitä ja tarvitsevat lepoa:\n\n{0}\nHe tarvitsevat sängyn, joka on merkitty yhdyskuntalaisten käyttöön. Varmista lisäksi etteivät he ole värvättyjä.</ExhaustionDesc>
 
@@ -97,8 +100,8 @@
   <AlertHypothermia>Hypotermia</AlertHypothermia>
   <AlertHypothermiaDesc>Nämä yhdyskuntalaiset kärsivät hypotermiasta.\n\n{0}\nVarmista, että heidän vaatetuksensa on vuodenaikaan sopiva ja että sisätilat ovat lämmitettyjä.</AlertHypothermiaDesc>
   
-  <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>Nämä yhdyskuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Tuli on irti!</FireInHomeArea>
   <FireInHomeAreaDesc>Kotialueella on tulipalo.</FireInHomeAreaDesc>

@@ -11,7 +11,9 @@
   <Mods>Modit</Mods>
   <Credits>Tekijät</Credits>
   <QuitToMainMenu>Poistu päävalikkoon</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Save and quit to Menu</SaveAndQuitToMainMenu>
   <QuitToOS>Poistu työpöydälle</QuitToOS>
+  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
   <FictionPrimer>Tarinan pohja</FictionPrimer>
   <LudeonBlog>Ludeon blogi</LudeonBlog>
   <Forums>Foorumit</Forums>
@@ -19,6 +21,7 @@
   <TynansTwitter>Tynanin twitter</TynansTwitter>
   <TynansDesignBook>Tynanin design book</TynansDesignBook>
   <HelpTranslate>Auta kääntämään RimWorldia</HelpTranslate>
+  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
 
   
   <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
@@ -120,6 +123,8 @@
   <Male>uros</Male>
   <Female>naaras</Female>
   <Pain>Kipu</Pain>
+  <Health>Health</Health>
+  <Relations>Relations</Relations>
   
   
   

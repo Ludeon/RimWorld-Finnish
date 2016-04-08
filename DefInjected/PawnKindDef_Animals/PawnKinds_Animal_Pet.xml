@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Warg.label>warg</Warg.label>
+    <Warg.lifeStages.0.label>warg pentu</Warg.lifeStages.0.label>
+    
+    <YorkshireTerrier.label>yorkshirenterrieri</YorkshireTerrier.label>
+    <YorkshireTerrier.lifeStages.0.label>yorkshirenterrierin pentu</YorkshireTerrier.lifeStages.0.label>
+    
+    <Husky.label>husky</Husky.label>
+    <Husky.lifeStages.0.label>husky pentu</Husky.lifeStages.0.label>
+    
+    <LabradorRetriever.label>labradorinnoutaja</LabradorRetriever.label>
+    <LabradorRetriever.lifeStages.0.label>labradorinnoutajan pentu</LabradorRetriever.lifeStages.0.label>
+    
+    <Cat.label>cat</Cat.label>
+    <Cat.lifeStages.0.label>kitten</Cat.lifeStages.0.label>
+    
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Hay.label>heinää</Hay.label>
+    <Hay.description>Ravinnerikkaita ruohoja ja versoja kerättynä ja pakkautettuna varastointia varten. Heinä on hyvää eläimen rehua, mutta syömäkelvotonta ihmisille.</Hay.description>
+    
+    <RawHops.label>humalaa</RawHops.label>
+    <RawHops.description>Raakaa humalaa. Mauste- ja säilöntäaine jota tarvitaan oluen tekemiseen.</RawHops.description>
+    
+    <RawPotatoes.label>perunoita</RawPotatoes.label>
+    <RawPotatoes.description>Raakoja perunoita.</RawPotatoes.description>
+    
+    <RawCorn.label>maissia</RawCorn.label>
+    <RawCorn.description>Raakaa maissia. Mukava syödä jopa raakana.</RawCorn.description>
+    
+    <RawRice.label>riisiä</RawRice.label>
+    <RawRice.description>Raakaa riisiä.</RawRice.description>
+    
+    <RawBerries.label>marjoja</RawBerries.label>
+    <RawBerries.description>Sekalaisia marjoja. Mukavia syödä myös raakana.</RawBerries.description>
+    
+    <RawAgave.label>agaavehedelmä</RawAgave.label>
+    <RawAgave.description>Raaka agaavehedelmä.</RawAgave.description>
+    
+</LanguageData>

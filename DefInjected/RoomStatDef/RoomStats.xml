@@ -54,8 +54,12 @@
     
     <InfectionChanceFactor.label>tartunnansaamiskerroin factor</InfectionChanceFactor.label>
     
+    <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
+    
     <ResearchSpeedFactor.label>tutkimisnopeuskerroin</ResearchSpeedFactor.label>
     
     <GraveVisitingJoyGainFactor.label>huvinsaantikerroin haudalla vierailusta</GraveVisitingJoyGainFactor.label>
+    
+    <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
     
 </LanguageData>

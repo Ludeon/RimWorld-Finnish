@@ -1,154 +1,252 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Mine.verb>louhia</Mine.verb>
-    <Mine.gerund>louhiminen</Mine.gerund>
-    
-    <Research.verb>tutkia</Research.verb>
-    <Research.gerund>tutkiminen</Research.gerund>
-    
-    <PlantsCut.verb>leikata</PlantsCut.verb>
-    <PlantsCut.gerund>leikkaaminen</PlantsCut.gerund>
-    
+    <FightFires.label>fight fires</FightFires.label>
     <FightFires.verb>samuttaa tulta</FightFires.verb>
     <FightFires.gerund>tulen sammuttaminen</FightFires.gerund>
     
-    <Warden.verb>vartioida</Warden.verb>
-    <Warden.gerund>vartioiminen</Warden.gerund>
+    <PatientGoToBedEmergency.label>go to bed for emergency treatment</PatientGoToBedEmergency.label>
+    <PatientGoToBedEmergency.verb>receive treatment in</PatientGoToBedEmergency.verb>
+    <PatientGoToBedEmergency.gerund>receiving treatment in</PatientGoToBedEmergency.gerund>
     
-    <HunterHunt.verb>metsästää</HunterHunt.verb>
-    <HunterHunt.gerund>metsästäminen</HunterHunt.gerund>
-    
-    <PatientGoToBed.verb>ottaa hoitoa vastaan kohteessa</PatientGoToBed.verb>
-    <PatientGoToBed.gerund>hoidon vastaanottaminen kohteessa</PatientGoToBed.gerund>
-    
-    <Slaughter.verb>tappaa</Slaughter.verb>
-    <Slaughter.gerund>tappaminen</Slaughter.gerund>
-    
-    <Milk.verb>lypsää</Milk.verb>
-    <Milk.gerund>lypsäminen</Milk.gerund>
-    
-    <Shear.verb>keritä</Shear.verb>
-    <Shear.gerund>keritseminen</Shear.gerund>
-    
-    <Tame.verb>kesyttää</Tame.verb>
-    <Tame.gerund>kesyttäminen</Tame.gerund>
-    
-    <Train.verb>kouluttaa</Train.verb>
-    <Train.gerund>kouluttaminen</Train.gerund>
-    
-    <CleanClearSnow.verb>kolata lunta</CleanClearSnow.verb>
-    <CleanClearSnow.gerund>lumen kolaaminen</CleanClearSnow.gerund>
-    
-    <CleanFilth.verb>siivota</CleanFilth.verb>
-    <CleanFilth.gerund>siivoaminen</CleanFilth.gerund>
-    
-    <Flick.verb>kääntää kytkintä</Flick.verb>
-    <Flick.gerund>kytkimen kääntäminen</Flick.gerund>
-    
-    <RearmTraps.verb>virittää uudelleen</RearmTraps.verb>
-    <RearmTraps.gerund>uudelleenvirittäminen</RearmTraps.gerund>
-    
-    <Strip.verb>riisua</Strip.verb>
-    <Strip.gerund>riisuminen</Strip.gerund>
-    
-    <Open.verb>avata</Open.verb>
-    <Open.gerund>avaaminen</Open.gerund>
-    
-    <DoBillsCremate.verb>polttohaudata</DoBillsCremate.verb>
-    <DoBillsCremate.gerund>polttohautaaminen kohteessa</DoBillsCremate.gerund>
-    
-    <HaulGeneral.verb>kuljettaa</HaulGeneral.verb>
-    <HaulGeneral.gerund>kuljettaminen</HaulGeneral.gerund>
-    
-    <BuryCorpses.verb>haudata</BuryCorpses.verb>
-    <BuryCorpses.gerund>hautaaminen</BuryCorpses.gerund>
-    
-    <GrowerHarvest.verb>korjata</GrowerHarvest.verb>
-    <GrowerHarvest.gerund>korjaminen</GrowerHarvest.gerund>
-    
-    <GrowerSow.verb>kylvää</GrowerSow.verb>
-    <GrowerSow.gerund>kylväminen</GrowerSow.gerund>
-    
-    <Repair.verb>korjata</Repair.verb>
-    <Repair.gerund>korjaaminen</Repair.gerund>
-    
-    <DoBillsMedicalMechanoidOperation.verb>muokata</DoBillsMedicalMechanoidOperation.verb>
-    <DoBillsMedicalMechanoidOperation.gerund>muokkaaminen</DoBillsMedicalMechanoidOperation.gerund>
-    
+    <DoctorTreatEmergency.label>give emergency treatment</DoctorTreatEmergency.label>
     <DoctorTreatEmergency.verb>parantaa</DoctorTreatEmergency.verb>
     <DoctorTreatEmergency.gerund>parantaminen</DoctorTreatEmergency.gerund>
     
+    <DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
     <DoctorRescue.verb>pelastaa</DoctorRescue.verb>
     <DoctorRescue.gerund>pelastaminen</DoctorRescue.gerund>
     
-    <DoctorTreat.verb>parantaa</DoctorTreat.verb>
-    <DoctorTreat.gerund>parantaminen</DoctorTreat.gerund>
-    
-    <DoctorFeed.verb>ruokkia</DoctorFeed.verb>
-    <DoctorFeed.gerund>ruokkiminen</DoctorFeed.gerund>
-    
+    <DoBillsMedicalHumanOperation.label>operate on humanlikes</DoBillsMedicalHumanOperation.label>
     <DoBillsMedicalHumanOperation.verb>operoida</DoBillsMedicalHumanOperation.verb>
     <DoBillsMedicalHumanOperation.gerund>operoiminen</DoBillsMedicalHumanOperation.gerund>
     
+    <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
     <DoBillsMedicalAnimalOperation.verb>operoida</DoBillsMedicalAnimalOperation.verb>
     <DoBillsMedicalAnimalOperation.gerund>operoiminen</DoBillsMedicalAnimalOperation.gerund>
     
+    <DoctorTreat.label>give treatment</DoctorTreat.label>
+    <DoctorTreat.verb>parantaa</DoctorTreat.verb>
+    <DoctorTreat.gerund>parantaminen</DoctorTreat.gerund>
+    
+    <DoctorFeed.label>feed patients</DoctorFeed.label>
+    <DoctorFeed.verb>ruokkia</DoctorFeed.verb>
+    <DoctorFeed.gerund>ruokkiminen</DoctorFeed.gerund>
+    
+    <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
     <TakeToBedToOperate.verb>ottaa operointiin</TakeToBedToOperate.verb>
     <TakeToBedToOperate.gerund>operointiin ottaminen</TakeToBedToOperate.gerund>
     
-    <Deconstruct.verb>purkaa</Deconstruct.verb>
-    <Deconstruct.gerund>purkaminen</Deconstruct.gerund>
+    <VisitSickPawn.label>visit sick people</VisitSickPawn.label>
+    <VisitSickPawn.verb>visit</VisitSickPawn.verb>
+    <VisitSickPawn.gerund>visiting</VisitSickPawn.gerund>
     
-    <Uninstall.verb>poistaa</Uninstall.verb>
-    <Uninstall.gerund>poistaminen</Uninstall.gerund>
+    <PatientGoToBed.label>recuperate in bed</PatientGoToBed.label>
+    <PatientGoToBed.verb>ottaa hoitoa vastaan kohteessa</PatientGoToBed.verb>
+    <PatientGoToBed.gerund>hoidon vastaanottaminen kohteessa</PatientGoToBed.gerund>
     
-    <ConstructFinishFrames.verb>rakentaa</ConstructFinishFrames.verb>
-    <ConstructFinishFrames.gerund>rakentaminen</ConstructFinishFrames.gerund>
+    <Flick.label>flick switches</Flick.label>
+    <Flick.verb>kääntää kytkintä</Flick.verb>
+    <Flick.gerund>kytkimen kääntäminen</Flick.gerund>
     
-    <ConstructDeliverResourcesToFrames.verb>työstää</ConstructDeliverResourcesToFrames.verb>
-    <ConstructDeliverResourcesToFrames.gerund>työstäminen</ConstructDeliverResourcesToFrames.gerund>
+    <DoExecution.label>execute prisoners</DoExecution.label>
+    <DoExecution.verb>do execution on</DoExecution.verb>
+    <DoExecution.gerund>doing execution on</DoExecution.gerund>
     
-    <ConstructDeliverResourcesToBlueprints.verb>työstää</ConstructDeliverResourcesToBlueprints.verb>
-    <ConstructDeliverResourcesToBlueprints.gerund>työstäminen</ConstructDeliverResourcesToBlueprints.gerund>
+    <ReleasePrisoner.label>release prisoners</ReleasePrisoner.label>
+    <ReleasePrisoner.verb>release</ReleasePrisoner.verb>
+    <ReleasePrisoner.gerund>releasing</ReleasePrisoner.gerund>
     
-    <ConstructRemoveFloors.verb>poistaa lattiaa</ConstructRemoveFloors.verb>
-    <ConstructRemoveFloors.gerund>lattian poistaminen</ConstructRemoveFloors.gerund>
+    <TakePrisonerToBed.label>take prisoners to bed</TakePrisonerToBed.label>
+    <TakePrisonerToBed.verb>take to bed</TakePrisonerToBed.verb>
+    <TakePrisonerToBed.gerund>taking to bed</TakePrisonerToBed.gerund>
     
-    <ConstructSmoothFloors.verb>hioa</ConstructSmoothFloors.verb>
-    <ConstructSmoothFloors.gerund>hiominen</ConstructSmoothFloors.gerund>
+    <FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
+    <FeedPrisoner.verb>feed</FeedPrisoner.verb>
+    <FeedPrisoner.gerund>feeding</FeedPrisoner.gerund>
     
+    <DeliverFoodToPrisoner.label>deliver food to prisoners</DeliverFoodToPrisoner.label>
+    <DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
+    <DeliverFoodToPrisoner.gerund>delivering food for</DeliverFoodToPrisoner.gerund>
+    
+    <ChatWithPrisoner.label>chat with prisoners</ChatWithPrisoner.label>
+    <ChatWithPrisoner.verb>chat with</ChatWithPrisoner.verb>
+    <ChatWithPrisoner.gerund>chatting with</ChatWithPrisoner.gerund>
+    
+    <Slaughter.label>slaughter animals</Slaughter.label>
+    <Slaughter.verb>tappaa</Slaughter.verb>
+    <Slaughter.gerund>tappaminen</Slaughter.gerund>
+    
+    <Milk.label>maitoa</Milk.label>
+    <Milk.verb>lypsää</Milk.verb>
+    <Milk.gerund>lypsäminen</Milk.gerund>
+    
+    <Shear.label>shear animals</Shear.label>
+    <Shear.verb>keritä</Shear.verb>
+    <Shear.gerund>keritseminen</Shear.gerund>
+    
+    <Tame.label>tame animals</Tame.label>
+    <Tame.verb>kesyttää</Tame.verb>
+    <Tame.gerund>kesyttäminen</Tame.gerund>
+    
+    <Train.label>train animals</Train.label>
+    <Train.verb>kouluttaa</Train.verb>
+    <Train.gerund>kouluttaminen</Train.gerund>
+    
+    <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
     <DoBillsCook.verb>kokata</DoBillsCook.verb>
     <DoBillsCook.gerund>kokkaaminen</DoBillsCook.gerund>
     
+    <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
     <DoBillsCookCampfire.verb>kokata</DoBillsCookCampfire.verb>
     <DoBillsCookCampfire.gerund>kokkaaminen</DoBillsCookCampfire.gerund>
     
+    <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
     <DoBillsBrew.verb>valmistaa olutta</DoBillsBrew.verb>
     <DoBillsBrew.gerund>oluen valmistaminen</DoBillsBrew.gerund>
     
+    <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
     <DoBillsButcherFlesh.verb>teurastaa</DoBillsButcherFlesh.verb>
     <DoBillsButcherFlesh.gerund>teurastaminen</DoBillsButcherFlesh.gerund>
     
+    <CookFillHopper.label>fill food hoppers</CookFillHopper.label>
     <CookFillHopper.verb>täyttää</CookFillHopper.verb>
     <CookFillHopper.gerund>täyttäminen</CookFillHopper.gerund>
     
-    <DoBillsSculpt.verb>veistää</DoBillsSculpt.verb>
-    <DoBillsSculpt.gerund>veistäminen</DoBillsSculpt.gerund>
+    <HunterHunt.label>hunt</HunterHunt.label>
+    <HunterHunt.verb>metsästää</HunterHunt.verb>
+    <HunterHunt.gerund>metsästäminen</HunterHunt.gerund>
     
+    <Deconstruct.label>deconstruct structures</Deconstruct.label>
+    <Deconstruct.verb>purkaa</Deconstruct.verb>
+    <Deconstruct.gerund>purkaminen</Deconstruct.gerund>
+    
+    <Uninstall.label>uninstall structures</Uninstall.label>
+    <Uninstall.verb>poistaa</Uninstall.verb>
+    <Uninstall.gerund>poistaminen</Uninstall.gerund>
+    
+    <ConstructFinishFrames.label>construct placed frames</ConstructFinishFrames.label>
+    <ConstructFinishFrames.verb>rakentaa</ConstructFinishFrames.verb>
+    <ConstructFinishFrames.gerund>rakentaminen</ConstructFinishFrames.gerund>
+    
+    <ConstructDeliverResourcesToFrames.label>deliver resources to frames</ConstructDeliverResourcesToFrames.label>
+    <ConstructDeliverResourcesToFrames.verb>työstää</ConstructDeliverResourcesToFrames.verb>
+    <ConstructDeliverResourcesToFrames.gerund>työstäminen</ConstructDeliverResourcesToFrames.gerund>
+    
+    <ConstructDeliverResourcesToBlueprints.label>deliver resources to blueprints</ConstructDeliverResourcesToBlueprints.label>
+    <ConstructDeliverResourcesToBlueprints.verb>työstää</ConstructDeliverResourcesToBlueprints.verb>
+    <ConstructDeliverResourcesToBlueprints.gerund>työstäminen</ConstructDeliverResourcesToBlueprints.gerund>
+    
+    <ConstructRemoveFloors.label>remove floors</ConstructRemoveFloors.label>
+    <ConstructRemoveFloors.verb>poistaa lattiaa</ConstructRemoveFloors.verb>
+    <ConstructRemoveFloors.gerund>lattian poistaminen</ConstructRemoveFloors.gerund>
+    
+    <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
+    <ConstructSmoothFloors.verb>hioa</ConstructSmoothFloors.verb>
+    <ConstructSmoothFloors.gerund>hiominen</ConstructSmoothFloors.gerund>
+    
+    <FixBrokenDownBuilding.label>fix broken-down things</FixBrokenDownBuilding.label>
+    <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
+    <FixBrokenDownBuilding.gerund>replacing broken components in</FixBrokenDownBuilding.gerund>
+    
+    <Repair.label>korjaa</Repair.label>
+    <Repair.verb>korjata</Repair.verb>
+    <Repair.gerund>korjaaminen</Repair.gerund>
+    
+    <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
+    <DoBillsMedicalMechanoidOperation.verb>muokata</DoBillsMedicalMechanoidOperation.verb>
+    <DoBillsMedicalMechanoidOperation.gerund>muokkaaminen</DoBillsMedicalMechanoidOperation.gerund>
+    
+    <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
+    <GrowerHarvest.verb>korjata</GrowerHarvest.verb>
+    <GrowerHarvest.gerund>korjaminen</GrowerHarvest.gerund>
+    
+    <GrowerSow.label>sow crops</GrowerSow.label>
+    <GrowerSow.verb>kylvää</GrowerSow.verb>
+    <GrowerSow.gerund>kylväminen</GrowerSow.gerund>
+    
+    <Mine.label>mine</Mine.label>
+    <Mine.verb>louhia</Mine.verb>
+    <Mine.gerund>louhiminen</Mine.gerund>
+    
+    <PlantsCut.label>cut plants</PlantsCut.label>
+    <PlantsCut.verb>leikata</PlantsCut.verb>
+    <PlantsCut.gerund>leikkaaminen</PlantsCut.gerund>
+    
+    <DoBillsMakeWeapons.label>make weapons</DoBillsMakeWeapons.label>
     <DoBillsMakeWeapons.verb>takoa</DoBillsMakeWeapons.verb>
     <DoBillsMakeWeapons.gerund>takominen</DoBillsMakeWeapons.gerund>
     
+    <DoBillsMachiningTable.label>do bills at machining table</DoBillsMachiningTable.label>
+    <DoBillsMachiningTable.verb>purkaa</DoBillsMachiningTable.verb>
+    <DoBillsMachiningTable.gerund>purkaminen</DoBillsMachiningTable.gerund>
+    
+    <DoBillsComponentAssemblyBench.label>assemble components</DoBillsComponentAssemblyBench.label>
+    <DoBillsComponentAssemblyBench.verb>produce components</DoBillsComponentAssemblyBench.verb>
+    <DoBillsComponentAssemblyBench.gerund>producing components at</DoBillsComponentAssemblyBench.gerund>
+    
+    <DoBillsMakeApparel.label>tailor apparel</DoBillsMakeApparel.label>
     <DoBillsMakeApparel.verb>räätälöidä</DoBillsMakeApparel.verb>
     <DoBillsMakeApparel.gerund>räätälöiminen</DoBillsMakeApparel.gerund>
     
+    <DoBillsSculpt.label>sculpt</DoBillsSculpt.label>
+    <DoBillsSculpt.verb>veistää</DoBillsSculpt.verb>
+    <DoBillsSculpt.gerund>veistäminen</DoBillsSculpt.gerund>
+    
+    <DoBillsUseCraftingSpot.label>do bills at crafting spot</DoBillsUseCraftingSpot.label>
+    <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
+    <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
+    
+    <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
     <DoBillsStonecut.verb>leikata kiviä</DoBillsStonecut.verb>
     <DoBillsStonecut.gerund>kivien leikkaaminen</DoBillsStonecut.gerund>
     
+    <DoBillsSmelter.label>smelt items</DoBillsSmelter.label>
     <DoBillsSmelter.verb>jalostaa</DoBillsSmelter.verb>
     <DoBillsSmelter.gerund>jalostaminen</DoBillsSmelter.gerund>
     
-    <DoBillsMachiningTable.verb>purkaa</DoBillsMachiningTable.verb>
-    <DoBillsMachiningTable.gerund>purkaminen</DoBillsMachiningTable.gerund>
+    <Refuel.label>refuel fuelable buildings</Refuel.label>
+    <Refuel.verb>refuel</Refuel.verb>
+    <Refuel.gerund>refueling</Refuel.gerund>
+    
+    <RearmTraps.label>rearm traps</RearmTraps.label>
+    <RearmTraps.verb>virittää uudelleen</RearmTraps.verb>
+    <RearmTraps.gerund>uudelleenvirittäminen</RearmTraps.gerund>
+    
+    <Strip.label>strip corpses</Strip.label>
+    <Strip.verb>riisua</Strip.verb>
+    <Strip.gerund>riisuminen</Strip.gerund>
+    
+    <Open.label>open containers</Open.label>
+    <Open.verb>avata</Open.verb>
+    <Open.gerund>avaaminen</Open.gerund>
+    
+    <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
+    <DoBillsCremate.verb>polttohaudata</DoBillsCremate.verb>
+    <DoBillsCremate.gerund>polttohautaaminen kohteessa</DoBillsCremate.gerund>
+    
+    <BuryCorpses.label>bury corpses</BuryCorpses.label>
+    <BuryCorpses.verb>haudata</BuryCorpses.verb>
+    <BuryCorpses.gerund>hautaaminen</BuryCorpses.gerund>
+    
+    <HaulCorpses.label>haul corpses</HaulCorpses.label>
+    <HaulCorpses.verb>haul</HaulCorpses.verb>
+    <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
+    
+    <HaulGeneral.label>haul general things</HaulGeneral.label>
+    <HaulGeneral.verb>kuljettaa</HaulGeneral.verb>
+    <HaulGeneral.gerund>kuljettaminen</HaulGeneral.gerund>
+    
+    <CleanClearSnow.label>clear snow</CleanClearSnow.label>
+    <CleanClearSnow.verb>kolata lunta</CleanClearSnow.verb>
+    <CleanClearSnow.gerund>lumen kolaaminen</CleanClearSnow.gerund>
+    
+    <CleanFilth.label>clean filth</CleanFilth.label>
+    <CleanFilth.verb>siivota</CleanFilth.verb>
+    <CleanFilth.gerund>siivoaminen</CleanFilth.gerund>
+    
+    <Research.label>tutkimus</Research.label>
+    <Research.verb>tutkia</Research.verb>
+    <Research.gerund>tutkiminen</Research.gerund>
     
 </LanguageData>

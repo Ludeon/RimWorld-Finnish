@@ -15,7 +15,9 @@
   <TabRace>Rotu</TabRace>
   <TabBasics>Perustiedot</TabBasics>
   <TabStats>Tilastot</TabStats>
+  <TabRecords>Records</TabRecords>
   <TabArt>Taide</TabArt>
+  <TabSocial>Social</TabSocial>
 
   
   
@@ -66,7 +68,10 @@
   <MedicalOperations>Lääkintäoperaatiot</MedicalOperations>
   <Amputate>Amputoi</Amputate>
   <Harvest>Kerää</Harvest>
-  
+  <MemoryLower>memory</MemoryLower>
+  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <HungerRate>Hunger rate</HungerRate>
+  <Tiredness>Tiredness</Tiredness>
   
 
   
@@ -92,7 +97,15 @@
   <CannotTrainTooSmall>{0} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Tarvittava koulutus: {0}</TrainingNeedsPrerequisite>
-
-
+  
+  
+  <NoRelationships>(no relationships)</NoRelationships>
+  <Kidnapped>Kidnapped</Kidnapped>
+  <Slave>Slave</Slave>
+  <FactionLeader>Faction leader</FactionLeader>
+  <OpinionOf>Opinion of {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <IAmDead>I'm dead</IAmDead>
+  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
 
 </LanguageData>

@@ -15,10 +15,14 @@
     
     <FilthBlood.label>verta</FilthBlood.label>
     
+    <FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
+    
     <FilthAmnioticFluid.label>lapsivettä</FilthAmnioticFluid.label>
     
     <FilthSlime.label>limaa</FilthSlime.label>
     
     <FilthVomit.label>oksennusta</FilthVomit.label>
+    
+    <FilthFireFoam.label>firefoam</FilthFireFoam.label>
     
 </LanguageData>

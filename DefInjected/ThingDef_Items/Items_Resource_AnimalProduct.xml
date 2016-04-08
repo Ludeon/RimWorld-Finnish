@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Kibble.label>kibble</Kibble.label>
+    <Kibble.description>Kibble animal feed made from mixed meat and plant sources.</Kibble.description>
+    
+    <Milk.label>maitoa</Milk.label>
+    <Milk.description>Maitoa eläimestä.</Milk.description>
+    
+    <EggChickenUnfertilized.label>kananmuna (ei hedel.)</EggChickenUnfertilized.label>
+    <EggChickenUnfertilized.description>Hedelmöitymättämön kananmuna. Voidaan syödä raakana, mutta se on paljon, paljon parempaa keitettynä.</EggChickenUnfertilized.description>
+    
+    <EggChickenFertilized.label>kananmuna (hedel.)</EggChickenFertilized.label>
+    <EggChickenFertilized.description>Hedelmöitytetty kananmuna. Jos kaikki sujuu oikein, siitä pitäisi syntyä kananpoikanen. Voidaan syödä raakana, mutta se on paljon parempaa keitettynä.</EggChickenFertilized.description>
+    
+    <EggCobraFertilized.label>kobranmuna (hedel.)</EggCobraFertilized.label>
+    <EggCobraFertilized.description>Hedelmöitytetty kobranmuna. Jos kaikki sujuu oikein, siitä pitäisi syntyä kobravauva. Voidaan syödä raakana, mutta se on paljon parempaa keitettynä.</EggCobraFertilized.description>
+    
+    <EggIguanaFertilized.label>iguaaninmuna (hedel.)</EggIguanaFertilized.label>
+    <EggIguanaFertilized.description>Hedelmöitytetty iguaaninmuna. Jos kaikki sujuu oikein, siitä pitäisi syntyä iguaanivauva. Voidaan syödä raakana, mutta se on paljon parempaa keitettynä.</EggIguanaFertilized.description>
+    
+    <EggTortoiseFertilized.label>kilpikonnanmuna (hedel.)</EggTortoiseFertilized.label>
+    <EggTortoiseFertilized.description>Hedelmöitytetty kilpikonnanmuna. Jos kaikki sujuu oikein, siitä pitäisi syntyä kilpikonnavauva. Voidaan syödä raakana, mutta se on paljon parempaa keitettynä.</EggTortoiseFertilized.description>
+    
+    <InsectJelly.label>insect jelly</InsectJelly.label>
+    <InsectJelly.description>Jelly stored and used as food by oversized insects. It is smooth, rich, and immensely satisfying. Because of its unique biological properties, it can nourish almost any creature and never rots.</InsectJelly.description>
+    
+</LanguageData>

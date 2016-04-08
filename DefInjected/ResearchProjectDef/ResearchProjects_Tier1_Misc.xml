@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Devilstrand.label>devilstrand</Devilstrand.label>
+    <Devilstrand.description>Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.</Devilstrand.description>
+    
+    <Hydroponics.label>vesiviljely</Hydroponics.label>
+    <Hydroponics.description>Mahdollistaa vesiviljelyaltaiden rakentamisen ruokakasvien nopeaan kasvattamiseen sisätiloissa.</Hydroponics.description>
+    
+    <Brewing.label>alkoholin valmistus</Brewing.label>
+    <Brewing.description>Mahdollistaa panimon tekemisen, joka muuttaa humalakasvit oikein maittavaksi olueksi.</Brewing.description>
+    
+    <Stonecutting.label>kivenleikkaus</Stonecutting.label>
+    <Stonecutting.description>Rakenna kivenleikkauspöytiä, jotka mahdollistavat kivenlohkareista jalostamisen harkoiksi, joita voidaan käyttää rakentamiseen.</Stonecutting.description>
+    
+    <ElectricSmelting.label>sähkösulatus</ElectricSmelting.label>
+    <ElectricSmelting.description>Rakenna sähkösulattimia, jotka käyttävät lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta ja muista esineistä.</ElectricSmelting.description>
+    
+    <ElectricCremation.label>electric cremation</ElectricCremation.label>
+    <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
+    
+    <CarpetMaking.label>matonteko</CarpetMaking.label>
+    <CarpetMaking.description>Mahdollistaa yhdyskuntalaisten rakentaa kokolattiamattoja parantaakseen heidän ympäristönsä laatua.</CarpetMaking.description>
+    
+    <Smithing.label>smithing</Smithing.label>
+    <Smithing.description>Sepät tekevät aseita ja työkaluja raaoista materiaaleista.</Smithing.description>
+    
+    <ColoredLights.label>värilliset valot</ColoredLights.label>
+    <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
+    
+    <Machining.label>työstäminen</Machining.label>
+    <Machining.description>Rakenna työstöpöytiä kuolleiden mekanoidien purkamiseen käyttökelpoiseksi metalliksi.</Machining.description>
+    
+    <Mortars.label>kranaatinheittimet</Mortars.label>
+    <Mortars.description>Opi rakentamaan kranaatinheittimiä, jotka pystyvät heittämään kranaatteja pitkiä matkoja seinien yli.</Mortars.description>
+    
+    <IEDBomb.label>improvisoidut räjähteet</IEDBomb.label>
+    <IEDBomb.description>Mahdollistaa yhdyskuntalaisten rakentaa omatekoisia pommiansoja tykin kranaateista.</IEDBomb.description>
+    
+    <IEDIncendiary.label>improvisoidut palopommit</IEDIncendiary.label>
+    <IEDIncendiary.description>Mahdollistaa yhdyskuntalaisten rakentaa omatekoisia palopommiansoja tykin kranaateista.</IEDIncendiary.description>
+    
+    <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
+    <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
+    
+    <TubeTelevision.label>tube television</TubeTelevision.label>
+    <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
+    
+</LanguageData>

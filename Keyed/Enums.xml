@@ -7,13 +7,6 @@
   <LitBrightly>Kirkkaasti valaistu</LitBrightly>
   
   
-  <NeverEats>Ei syö koskaan</NeverEats>
-  <Omnivorous>Kaikkiruokainen</Omnivorous>
-  <Herbivorous>Kasvissyöjä</Herbivorous>
-  <Carnivorous>Lihansyöjä</Carnivorous>
-  <Dendrovorous>Puunsyöjä</Dendrovorous>
-
-  
   <Unspecified>Päättämätön</Unspecified>
   <Always>Salli</Always>
   <Never>Älä salli</Never>
@@ -24,6 +17,19 @@
   <PriceTypeNormal>normaali</PriceTypeNormal>
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
   <PriceTypeExorbitant>kohtuuton</PriceTypeExorbitant>
+
+  
+  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>seeds</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
+  <FoodTypeFlags_NutritionalDrug>liquor</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_AnimalKibble>kibble</FoodTypeFlags_AnimalKibble>
 
   
   <QualityCategory_Awful>hirveä</QualityCategory_Awful>
@@ -88,7 +94,15 @@
   <MedicalCareCategory_NormalOrWorse>Normaaleja lääketarpeita tai huonompia</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>Parhaan laadun lääkintää</MedicalCareCategory_Best>
 
-
+  
+  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  
+  
+  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
 
 
 </LanguageData>

@@ -9,4 +9,8 @@
     <ButcherCorpseMechanoid.description>Purkaa kuolleen mekanoidin komponentteihinsa.</ButcherCorpseMechanoid.description>
     <ButcherCorpseMechanoid.jobString>Purkaa mekanoidia.</ButcherCorpseMechanoid.jobString>
     
+    <MakeKibble.label>make kibble</MakeKibble.label>
+    <MakeKibble.description>Make animal kibble by combining raw meat and plants.</MakeKibble.description>
+    <MakeKibble.jobString>Making kibble.</MakeKibble.jobString>
+    
 </LanguageData>

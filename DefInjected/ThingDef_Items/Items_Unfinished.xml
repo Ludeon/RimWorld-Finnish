@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <UnfinishedSculpture.label>keskeneräinen veistos</UnfinishedSculpture.label>
+    
+    <UnfinishedGun.label>Unfinished gun</UnfinishedGun.label>
+    
+    <UnfinishedWeapon.label>keskeneräinen ase</UnfinishedWeapon.label>
+    
+    <UnfinishedTechArmor.label>Unfinished armor</UnfinishedTechArmor.label>
+    
+    <UnfinishedApparel.label>keskeneräinen vaate</UnfinishedApparel.label>
+    
+    <MinifiedSculpture.label>veistos</MinifiedSculpture.label>
+    
+    <MinifiedFurniture.label>huonekalu</MinifiedFurniture.label>
+    
+</LanguageData>

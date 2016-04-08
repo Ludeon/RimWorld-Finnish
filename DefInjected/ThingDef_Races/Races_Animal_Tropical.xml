@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Cobra.label>kobra</Cobra.label>
+    <Cobra.description>Suuri käärme. Kobrat ovat hyvin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olioista.</Cobra.description>
+    <Cobra_Leather.label>kobran nahkaa</Cobra_Leather.label>
+    <Cobra_Leather.description>Kobran vuodasta tehtyä nahkaa.</Cobra_Leather.description>
+    <Cobra_Leather.stuffProps.stuffAdjective>cobra leathery</Cobra_Leather.stuffProps.stuffAdjective>
+    <Cobra_Meat.label>kobran lihaa</Cobra_Meat.label>
+    <Cobra_Meat.description>Raakaa kobran lihaa.</Cobra_Meat.description>
+    <Cobra_Corpse.label>kobran ruumis</Cobra_Corpse.label>
+    <Cobra_Corpse.description>Kuolleen kobran ruumis.</Cobra_Corpse.description>
+    
+    <Monkey.label>apina</Monkey.label>
+    <Monkey.description>Tämä apina voi käyttää kippuraista häntäänsä tarttuakseen puunoksiin jättäen kätensä vapaiksi tekemään muita toimia.</Monkey.description>
+    <Monkey_Leather.label>apinan nahkaa</Monkey_Leather.label>
+    <Monkey_Leather.description>Apinan vuodasta tehtyä nahkaa.</Monkey_Leather.description>
+    <Monkey_Leather.stuffProps.stuffAdjective>monkey leathery</Monkey_Leather.stuffProps.stuffAdjective>
+    <Monkey_Meat.label>apinan lihaa</Monkey_Meat.label>
+    <Monkey_Meat.description>Raakaa apinan lihaa.</Monkey_Meat.description>
+    <Monkey_Corpse.label>apinan ruumis</Monkey_Corpse.label>
+    <Monkey_Corpse.description>Kuolleen apinan ruumis.</Monkey_Corpse.description>
+    
+    <Chinchilla.label>chinchilla</Chinchilla.label>
+    <Chinchilla.description>Pieni mutta nopea jyrsijä, joka on kuuluisa sen poikkeuksellisen pehmeästä turkista.</Chinchilla.description>
+    <Chinchilla_Leather.label>chinchillan nahkaa</Chinchilla_Leather.label>
+    <Chinchilla_Leather.description>Chinchillan vuodasta tehtyä nahkaa.</Chinchilla_Leather.description>
+    <Chinchilla_Leather.stuffProps.stuffAdjective>chinchilla leathery</Chinchilla_Leather.stuffProps.stuffAdjective>
+    <Chinchilla_Meat.label>chinchillan lihaa</Chinchilla_Meat.label>
+    <Chinchilla_Meat.description>Raakaa chinchillan lihaa.</Chinchilla_Meat.description>
+    <Chinchilla_Corpse.label>chinchillan ruumis</Chinchilla_Corpse.label>
+    <Chinchilla_Corpse.description>Kuolleen chinchillan ruumis.</Chinchilla_Corpse.description>
+    
+    <Boomalope.label>paukkulooppi</Boomalope.label>
+    <Boomalope.description>Suunniteltu kemikaalien valmistamiseen ja kasvattaa suuren pussillisen epävakaita kemikaaleja selässään. Vaikka sen on heikko ja hauras kokoisekseen, muut eläimet ovat oppineet välttelemään sitä sen kuollessa syntyvän valtavan räjähdyksen takia.</Boomalope.description>
+    <Boomalope_Leather.label>paukkuloopin nahkaa</Boomalope_Leather.label>
+    <Boomalope_Leather.description>Paukkuloopin vuodasta tehtyä nahkaa.</Boomalope_Leather.description>
+    <Boomalope_Leather.stuffProps.stuffAdjective>boomalope leathery</Boomalope_Leather.stuffProps.stuffAdjective>
+    <Boomalope_Meat.label>paukkuloopin lihaa</Boomalope_Meat.label>
+    <Boomalope_Meat.description>Raakaa paukkuloopin lihaa.</Boomalope_Meat.description>
+    <Boomalope_Corpse.label>paukkuloopin ruumis</Boomalope_Corpse.label>
+    <Boomalope_Corpse.description>Kuolleen paukkuloopin ruumis.</Boomalope_Corpse.description>
+    
+    <Capybara.label>kapybara</Capybara.label>
+    <Capybara.description>Suurin luonnollinen jyrsijä, joka on sopeutunut hyvin huuruiseen viidakkoon.</Capybara.description>
+    <Capybara_Leather.label>kapybaran nahkaa</Capybara_Leather.label>
+    <Capybara_Leather.description>Kapybaran vuodasta tehtyä nahkaa.</Capybara_Leather.description>
+    <Capybara_Leather.stuffProps.stuffAdjective>capybara leathery</Capybara_Leather.stuffProps.stuffAdjective>
+    <Capybara_Meat.label>kapybaran lihaa</Capybara_Meat.label>
+    <Capybara_Meat.description>Raakaa kapybaran lihaa.</Capybara_Meat.description>
+    <Capybara_Corpse.label>kapybaran ruumis</Capybara_Corpse.label>
+    <Capybara_Corpse.description>Kuolleen kapybaran ruumis.</Capybara_Corpse.description>
+    
+    <Cougar.label>cougar</Cougar.label>
+    <Cougar.description>One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat.</Cougar.description>
+    <Cougar_Leather.label>cougarskin</Cougar_Leather.label>
+    <Cougar_Leather.description>Leather made from the skin of a cougar.</Cougar_Leather.description>
+    <Cougar_Leather.stuffProps.stuffAdjective>cougarskin</Cougar_Leather.stuffProps.stuffAdjective>
+    <Cougar_Meat.label>cougar meat</Cougar_Meat.label>
+    <Cougar_Meat.description>Raw flesh of a cougar.</Cougar_Meat.description>
+    <Cougar_Corpse.label>cougar corpse</Cougar_Corpse.label>
+    <Cougar_Corpse.description>Dead body of a cougar.</Cougar_Corpse.description>
+    
+</LanguageData>

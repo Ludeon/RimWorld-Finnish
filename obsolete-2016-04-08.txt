@@ -1,0 +1,550 @@
+List of obsolete tags in this translation. These tags have been removed from the game 
+or have changed their name.
+
+DefInjected\HediffDef\Hediffs_Injuries.xml
+    <Bite.comps.0.labelSolidTreated>huonosti asetettu</Bite.comps.0.labelSolidTreated>
+    <Bite.comps.0.labelSolidTreatedWell>asetettu</Bite.comps.0.labelSolidTreatedWell>
+    <Bite.comps.0.labelTreated>huonosti sidottu</Bite.comps.0.labelTreated>
+    <Bite.comps.0.labelTreatedInner>huonosti ommeltu</Bite.comps.0.labelTreatedInner>
+    <Bite.comps.0.labelTreatedWell>sidottu</Bite.comps.0.labelTreatedWell>
+    <Bite.comps.0.labelTreatedWellInner>ommeltu</Bite.comps.0.labelTreatedWellInner>
+    <Bruise.comps.0.labelSolidTreated>huonosti asetettu</Bruise.comps.0.labelSolidTreated>
+    <Bruise.comps.0.labelSolidTreatedWell>asetettu</Bruise.comps.0.labelSolidTreatedWell>
+    <Bruise.comps.0.labelTreated>huonosti sidottu</Bruise.comps.0.labelTreated>
+    <Bruise.comps.0.labelTreatedInner>huonosti ommeltu</Bruise.comps.0.labelTreatedInner>
+    <Bruise.comps.0.labelTreatedWell>sidottu</Bruise.comps.0.labelTreatedWell>
+    <Bruise.comps.0.labelTreatedWellInner>ommeltu</Bruise.comps.0.labelTreatedWellInner>
+    <Burn.comps.0.labelSolidTreated>huonosti asetettu</Burn.comps.0.labelSolidTreated>
+    <Burn.comps.0.labelSolidTreatedWell>asetettu</Burn.comps.0.labelSolidTreatedWell>
+    <Burn.comps.0.labelTreated>huonosti sidottu</Burn.comps.0.labelTreated>
+    <Burn.comps.0.labelTreatedInner>huonosti ommeltu</Burn.comps.0.labelTreatedInner>
+    <Burn.comps.0.labelTreatedWell>sidottu</Burn.comps.0.labelTreatedWell>
+    <Burn.comps.0.labelTreatedWellInner>ommeltu</Burn.comps.0.labelTreatedWellInner>
+    <Crack.comps.0.labelSolidTreated>huonosti asetettu</Crack.comps.0.labelSolidTreated>
+    <Crack.comps.0.labelSolidTreatedWell>asetettu</Crack.comps.0.labelSolidTreatedWell>
+    <Crack.comps.0.labelTreated>huonosti hoidettu</Crack.comps.0.labelTreated>
+    <Crack.comps.0.labelTreatedInner>huonosti hoidettu</Crack.comps.0.labelTreatedInner>
+    <Crack.comps.0.labelTreatedWell>hoidettu</Crack.comps.0.labelTreatedWell>
+    <Crack.comps.0.labelTreatedWellInner>hoidettu</Crack.comps.0.labelTreatedWellInner>
+    <Crush.comps.0.labelSolidTreated>huonosti asetettu</Crush.comps.0.labelSolidTreated>
+    <Crush.comps.0.labelSolidTreatedWell>asetettu</Crush.comps.0.labelSolidTreatedWell>
+    <Crush.comps.0.labelTreated>huonosti sidottu</Crush.comps.0.labelTreated>
+    <Crush.comps.0.labelTreatedInner>huonosti ommeltu</Crush.comps.0.labelTreatedInner>
+    <Crush.comps.0.labelTreatedWell>sidottu</Crush.comps.0.labelTreatedWell>
+    <Crush.comps.0.labelTreatedWellInner>ommeltu</Crush.comps.0.labelTreatedWellInner>
+    <Cut.comps.0.labelSolidTreated>huonosti asetettu</Cut.comps.0.labelSolidTreated>
+    <Cut.comps.0.labelSolidTreatedWell>asetettu</Cut.comps.0.labelSolidTreatedWell>
+    <Cut.comps.0.labelTreated>huonosti sidottu</Cut.comps.0.labelTreated>
+    <Cut.comps.0.labelTreatedInner>huonosti ommeltu</Cut.comps.0.labelTreatedInner>
+    <Cut.comps.0.labelTreatedWell>sidottu</Cut.comps.0.labelTreatedWell>
+    <Cut.comps.0.labelTreatedWellInner>ommeltu</Cut.comps.0.labelTreatedWellInner>
+    <Frostbite.comps.0.labelSolidTreated>huonosti asetettu</Frostbite.comps.0.labelSolidTreated>
+    <Frostbite.comps.0.labelSolidTreatedWell>asetettu</Frostbite.comps.0.labelSolidTreatedWell>
+    <Frostbite.comps.0.labelTreated>huonosti sidottu</Frostbite.comps.0.labelTreated>
+    <Frostbite.comps.0.labelTreatedInner>huonosti ommeltu</Frostbite.comps.0.labelTreatedInner>
+    <Frostbite.comps.0.labelTreatedWell>sidottu</Frostbite.comps.0.labelTreatedWell>
+    <Frostbite.comps.0.labelTreatedWellInner>ommeltu</Frostbite.comps.0.labelTreatedWellInner>
+    <Gunshot.comps.0.labelSolidTreated>huonosti asetettu</Gunshot.comps.0.labelSolidTreated>
+    <Gunshot.comps.0.labelSolidTreatedWell>asetettu</Gunshot.comps.0.labelSolidTreatedWell>
+    <Gunshot.comps.0.labelTreated>huonosti sidottu</Gunshot.comps.0.labelTreated>
+    <Gunshot.comps.0.labelTreatedInner>huonosti ommeltu</Gunshot.comps.0.labelTreatedInner>
+    <Gunshot.comps.0.labelTreatedWell>sidottu</Gunshot.comps.0.labelTreatedWell>
+    <Gunshot.comps.0.labelTreatedWellInner>ommeltu</Gunshot.comps.0.labelTreatedWellInner>
+    <Misc.comps.0.labelSolidTreated>huonosti asetettu</Misc.comps.0.labelSolidTreated>
+    <Misc.comps.0.labelSolidTreatedWell>asetettu</Misc.comps.0.labelSolidTreatedWell>
+    <Misc.comps.0.labelTreated>huonosti sidottu</Misc.comps.0.labelTreated>
+    <Misc.comps.0.labelTreatedInner>huonosti ommeltu</Misc.comps.0.labelTreatedInner>
+    <Misc.comps.0.labelTreatedWell>sidottu</Misc.comps.0.labelTreatedWell>
+    <Misc.comps.0.labelTreatedWellInner>ommeltu</Misc.comps.0.labelTreatedWellInner>
+    <Scratch.comps.0.labelSolidTreated>huonosti asetettu</Scratch.comps.0.labelSolidTreated>
+    <Scratch.comps.0.labelSolidTreatedWell>asetettu</Scratch.comps.0.labelSolidTreatedWell>
+    <Scratch.comps.0.labelTreated>huonosti sidottu</Scratch.comps.0.labelTreated>
+    <Scratch.comps.0.labelTreatedInner>huonosti ommeltu</Scratch.comps.0.labelTreatedInner>
+    <Scratch.comps.0.labelTreatedWell>sidottu</Scratch.comps.0.labelTreatedWell>
+    <Scratch.comps.0.labelTreatedWellInner>ommeltu</Scratch.comps.0.labelTreatedWellInner>
+    <Shredded.comps.0.labelSolidTreated>huonosti asetettu</Shredded.comps.0.labelSolidTreated>
+    <Shredded.comps.0.labelSolidTreatedWell>asetettu</Shredded.comps.0.labelSolidTreatedWell>
+    <Shredded.comps.0.labelTreated>huonosti sidottu</Shredded.comps.0.labelTreated>
+    <Shredded.comps.0.labelTreatedInner>huonosti ommeltu</Shredded.comps.0.labelTreatedInner>
+    <Shredded.comps.0.labelTreatedWell>sidottu</Shredded.comps.0.labelTreatedWell>
+    <Shredded.comps.0.labelTreatedWellInner>ommeltu</Shredded.comps.0.labelTreatedWellInner>
+    <Stab.comps.0.labelSolidTreated>huonosti asetettu</Stab.comps.0.labelSolidTreated>
+    <Stab.comps.0.labelSolidTreatedWell>asetettu</Stab.comps.0.labelSolidTreatedWell>
+    <Stab.comps.0.labelTreated>huonosti sidottu</Stab.comps.0.labelTreated>
+    <Stab.comps.0.labelTreatedInner>huonosti ommeltu</Stab.comps.0.labelTreatedInner>
+    <Stab.comps.0.labelTreatedWell>sidottu</Stab.comps.0.labelTreatedWell>
+    <Stab.comps.0.labelTreatedWellInner>ommeltu</Stab.comps.0.labelTreatedWellInner>
+    <SurgicalCut.comps.0.labelSolidTreated>huonosti asetettu</SurgicalCut.comps.0.labelSolidTreated>
+    <SurgicalCut.comps.0.labelSolidTreatedWell>asetettu</SurgicalCut.comps.0.labelSolidTreatedWell>
+    <SurgicalCut.comps.0.labelTreated>huonosti sidottu</SurgicalCut.comps.0.labelTreated>
+    <SurgicalCut.comps.0.labelTreatedInner>huonosti ommeltu</SurgicalCut.comps.0.labelTreatedInner>
+    <SurgicalCut.comps.0.labelTreatedWell>sidottu</SurgicalCut.comps.0.labelTreatedWell>
+    <SurgicalCut.comps.0.labelTreatedWellInner>ommeltu</SurgicalCut.comps.0.labelTreatedWellInner>
+
+DefInjected\JobDef\Jobs_Work.xml
+    <TreatPatient.reportString>Parantaa henkilön TargetA.</TreatPatient.reportString>
+
+DefInjected\MainTabDef\MainTabs.xml
+    <Outfits.description>Määritä mitä kukin yhdyskuntalainen saa pitää yllään.</Outfits.description>
+    <Outfits.label>vaatekerrat</Outfits.label>
+    <Restrictions.description>Rajoita yhdyskuntalaisia tiettyihin toimiin tiettyyn aikaan päivästä tai tiettyihin salittuihin alueisiin.</Restrictions.description>
+    <Restrictions.label>rajoitukset</Restrictions.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Arid.xml
+    <Dromedary.lifeStages.1.label>nuori dromedaari</Dromedary.lifeStages.1.label>
+    <Dromedary.lifeStages.2.label>dromedaari</Dromedary.lifeStages.2.label>
+    <Elephant.lifeStages.1.label>nuori norsu</Elephant.lifeStages.1.label>
+    <Elephant.lifeStages.2.label>norsu</Elephant.lifeStages.2.label>
+    <Iguana.lifeStages.0.label>iguaaninpoikanen</Iguana.lifeStages.0.label>
+    <Iguana.lifeStages.1.label>nuori iguaani</Iguana.lifeStages.1.label>
+    <Iguana.lifeStages.2.label>iguaani</Iguana.lifeStages.2.label>
+    <Muffalo.lifeStages.1.label>nuori hirvibiisoni</Muffalo.lifeStages.1.label>
+    <Muffalo.lifeStages.2.label>hirvibiisoni</Muffalo.lifeStages.2.label>
+    <Rhinoceros.lifeStages.0.label>sarvikuonon vasa</Rhinoceros.lifeStages.0.label>
+    <Rhinoceros.lifeStages.1.label>nuori sarvikuono</Rhinoceros.lifeStages.1.label>
+    <Rhinoceros.lifeStages.2.label>sarvikuono</Rhinoceros.lifeStages.2.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Farm.xml
+    <Alpaca.lifeStages.0.label>alpakkavauva</Alpaca.lifeStages.0.label>
+    <Alpaca.lifeStages.1.label>nuori alpakka</Alpaca.lifeStages.1.label>
+    <Alpaca.lifeStages.2.label>alpakka</Alpaca.lifeStages.2.label>
+    <Chicken.lifeStages.1.labelFemale>nuori kana</Chicken.lifeStages.1.labelFemale>
+    <Chicken.lifeStages.1.labelMale>nuori kukko</Chicken.lifeStages.1.labelMale>
+    <Chicken.lifeStages.2.labelFemale>kana</Chicken.lifeStages.2.labelFemale>
+    <Chicken.lifeStages.2.labelMale>kukko</Chicken.lifeStages.2.labelMale>
+    <Cow.lifeStages.1.labelFemale>nuori lehmä</Cow.lifeStages.1.labelFemale>
+    <Cow.lifeStages.1.labelMale>nuori sonni</Cow.lifeStages.1.labelMale>
+    <Cow.lifeStages.2.labelFemale>lehmä</Cow.lifeStages.2.labelFemale>
+    <Cow.lifeStages.2.labelMale>sonni</Cow.lifeStages.2.labelMale>
+    <Pig.lifeStages.1.labelFemale>nuori emakko</Pig.lifeStages.1.labelFemale>
+    <Pig.lifeStages.1.labelMale>nuori sika</Pig.lifeStages.1.labelMale>
+    <Pig.lifeStages.2.labelFemale>emakko</Pig.lifeStages.2.labelFemale>
+    <Pig.lifeStages.2.labelMale>sika</Pig.lifeStages.2.labelMale>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Insect.xml
+    <Megascarab.lifeStages.0.label>megascarab larva</Megascarab.lifeStages.0.label>
+    <Megascarab.lifeStages.1.label>young megascarab</Megascarab.lifeStages.1.label>
+    <Megascarab.lifeStages.2.label>megascarab</Megascarab.lifeStages.2.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Pet.xml
+    <Husky.lifeStages.1.label>young husky</Husky.lifeStages.1.label>
+    <Husky.lifeStages.2.label>husky</Husky.lifeStages.2.label>
+    <LabradorRetriever.lifeStages.1.label>young labrador puppy</LabradorRetriever.lifeStages.1.label>
+    <LabradorRetriever.lifeStages.2.label>labrador puppy</LabradorRetriever.lifeStages.2.label>
+    <Warg.lifeStages.1.label>young warg</Warg.lifeStages.1.label>
+    <Warg.lifeStages.2.label>warg</Warg.lifeStages.2.label>
+    <YorkshireTerrier.lifeStages.1.label>young yorkshire terrier</YorkshireTerrier.lifeStages.1.label>
+    <YorkshireTerrier.lifeStages.2.label>yorkshire terrier</YorkshireTerrier.lifeStages.2.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Temperate.xml
+    <Alphabeaver.lifeStages.0.label>alfamajavavauva</Alphabeaver.lifeStages.0.label>
+    <Alphabeaver.lifeStages.1.label>nuori alfamajava</Alphabeaver.lifeStages.1.label>
+    <Alphabeaver.lifeStages.2.label>alfamajava</Alphabeaver.lifeStages.2.label>
+    <Boomrat.lifeStages.0.label>paukkurottavauva</Boomrat.lifeStages.0.label>
+    <Boomrat.lifeStages.1.label>nuori paukkurotta</Boomrat.lifeStages.1.label>
+    <Boomrat.lifeStages.2.label>paukkurotta</Boomrat.lifeStages.2.label>
+    <Deer.lifeStages.0.label>peuranvasa</Deer.lifeStages.0.label>
+    <Deer.lifeStages.1.labelFemale>nuori naaraspeura</Deer.lifeStages.1.labelFemale>
+    <Deer.lifeStages.1.labelMale>nuori urospeura</Deer.lifeStages.1.labelMale>
+    <Deer.lifeStages.2.labelFemale>naaraspeura</Deer.lifeStages.2.labelFemale>
+    <Deer.lifeStages.2.labelMale>urospeura</Deer.lifeStages.2.labelMale>
+    <Elk.lifeStages.1.labelFemale>nuori hirivnaraas</Elk.lifeStages.1.labelFemale>
+    <Elk.lifeStages.1.labelMale>nuori hirviuros</Elk.lifeStages.1.labelMale>
+    <Elk.lifeStages.2.labelFemale>hirivnaraas</Elk.lifeStages.2.labelFemale>
+    <Elk.lifeStages.2.labelMale>hirviuros</Elk.lifeStages.2.labelMale>
+    <Hare.lifeStages.0.label>jänisvauva</Hare.lifeStages.0.label>
+    <Hare.lifeStages.1.label>nuori jänis</Hare.lifeStages.1.label>
+    <Hare.lifeStages.2.label>jänis</Hare.lifeStages.2.label>
+    <Squirrel.lifeStages.0.label>orava</Squirrel.lifeStages.0.label>
+    <Squirrel.lifeStages.1.label>nuori orava</Squirrel.lifeStages.1.label>
+    <Squirrel.lifeStages.2.label>orava</Squirrel.lifeStages.2.label>
+    <Thrumbo.lifeStages.1.label>nuori thrumbo</Thrumbo.lifeStages.1.label>
+    <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
+    <Tortoise.lifeStages.0.label>kilpikonnavauva</Tortoise.lifeStages.0.label>
+    <Tortoise.lifeStages.1.label>nuori kilpikonna</Tortoise.lifeStages.1.label>
+    <Tortoise.lifeStages.2.label>kilpikonna</Tortoise.lifeStages.2.label>
+    <WildBoar.lifeStages.0.label>villiporsas</WildBoar.lifeStages.0.label>
+    <WildBoar.lifeStages.1.label>nuori villisika</WildBoar.lifeStages.1.label>
+    <WildBoar.lifeStages.2.label>villisika</WildBoar.lifeStages.2.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Tropical.xml
+    <Boomalope.lifeStages.1.label>young boomalope</Boomalope.lifeStages.1.label>
+    <Boomalope.lifeStages.2.label>boomalope</Boomalope.lifeStages.2.label>
+    <Capybara.lifeStages.0.label>baby capybara</Capybara.lifeStages.0.label>
+    <Capybara.lifeStages.1.label>young capybara</Capybara.lifeStages.1.label>
+    <Capybara.lifeStages.2.label>capybara</Capybara.lifeStages.2.label>
+    <Chinchilla.lifeStages.0.label>baby chinchilla</Chinchilla.lifeStages.0.label>
+    <Chinchilla.lifeStages.1.label>young chinchilla</Chinchilla.lifeStages.1.label>
+    <Chinchilla.lifeStages.2.label>chinchilla</Chinchilla.lifeStages.2.label>
+    <Cobra.lifeStages.0.label>baby cobra</Cobra.lifeStages.0.label>
+    <Cobra.lifeStages.1.label>young cobra</Cobra.lifeStages.1.label>
+    <Cobra.lifeStages.2.label>cobra</Cobra.lifeStages.2.label>
+    <Monkey.lifeStages.0.label>baby monkey</Monkey.lifeStages.0.label>
+    <Monkey.lifeStages.1.label>young monkey</Monkey.lifeStages.1.label>
+    <Monkey.lifeStages.2.label>monkey</Monkey.lifeStages.2.label>
+
+DefInjected\ResearchProjectDef\ResearchProjects_Misc.xml
+    <Cremation.description>Rakenna krematorioita, jotka höyrystävät ei-toivottuja ruumiita.</Cremation.description>
+    <Cremation.label>polttohautaus</Cremation.label>
+    <GunTurretCooling.description>Tykkitornit ampuvat yhdessä purskeessa neljä luotia kolmen sijaan.</GunTurretCooling.description>
+    <GunTurretCooling.label>tykkitornin jäähdytys</GunTurretCooling.label>
+    <NutrientResynthesis.description>Ravinnetahna-annostelijat kuluttavat 10% vähemmän ruokaa tuotettua ateriaa kohti.</NutrientResynthesis.description>
+    <NutrientResynthesis.label>ravinteiden kierrätys</NutrientResynthesis.label>
+    <PneumaticPicks.description>Louhijoiden hakut ovat 20% tehokkaampia.</PneumaticPicks.description>
+    <PneumaticPicks.label>paineilmahakut</PneumaticPicks.label>
+
+DefInjected\RulePackDef\RulePacks_DescriptionMakers_Art.xml
+    <ArtFurniture.rulePack.rulesStrings.0>description->Tähän huonekaluun on kaiverrettu [depiction] [image]</ArtFurniture.rulePack.rulesStrings.0>
+    <ArtFurniture.rulePack.rulesStrings.1>description->Tässä huonekalussa on [depiction] [image]</ArtFurniture.rulePack.rulesStrings.1>
+    <ArtFurniture.rulePack.rulesStrings.2>description->Kaiverrus tässä huonekalussa [depicts] [image]</ArtFurniture.rulePack.rulesStrings.2>
+    <ArtSarcophagusPlate.rulePack.rulesStrings.0>description->Sarkofagiin on kaiverrettu [depiction] [image]</ArtSarcophagusPlate.rulePack.rulesStrings.0>
+    <ArtSarcophagusPlate.rulePack.rulesStrings.1>description->Sarkofagissa on [depiction] [image]</ArtSarcophagusPlate.rulePack.rulesStrings.1>
+    <ArtSarcophagusPlate.rulePack.rulesStrings.2>description->Kaiverrus tässä sarkofagissa [depicts] [image]</ArtSarcophagusPlate.rulePack.rulesStrings.2>
+    <ArtSculpture.rulePack.rulesStrings.0>description->Tähän teokseen on [depiction] [image]</ArtSculpture.rulePack.rulesStrings.0>
+    <ArtSculpture.rulePack.rulesStrings.1>description->Tämä [sculpture] [depicts] kuvausta jossa on [image]</ArtSculpture.rulePack.rulesStrings.1>
+    <ArtSculpture.rulePack.rulesStrings.2>description->Tämä on [sculpture] ja siihen on [depiction] [image]</ArtSculpture.rulePack.rulesStrings.2>
+    <ArtSculpture.rulePack.rulesStrings.3>sculpture->veistos</ArtSculpture.rulePack.rulesStrings.3>
+    <ArtSculpture.rulePack.rulesStrings.4>sculpture->työ</ArtSculpture.rulePack.rulesStrings.4>
+    <ArtSculpture.rulePack.rulesStrings.5>sculpture->taideteos</ArtSculpture.rulePack.rulesStrings.5>
+    <ArtSculpture.rulePack.rulesStrings.6>sculpture->kaiverrus</ArtSculpture.rulePack.rulesStrings.6>
+    <ArtWeaponGun.rulePack.rulesStrings.0>description->Tähän aseeseen on kaiverrettu [depiction] [image]</ArtWeaponGun.rulePack.rulesStrings.0>
+    <ArtWeaponGun.rulePack.rulesStrings.1>description->Kaiverrus tässä aseessa [depicts] [image]</ArtWeaponGun.rulePack.rulesStrings.1>
+    <ArtWeaponGun.rulePack.rulesStrings.2>description->Tässä aseessa on [depiction] [image]</ArtWeaponGun.rulePack.rulesStrings.2>
+    <ArtWeaponMelee.rulePack.rulesStrings.0>description->Tähän aseeseen on kaiverrettu [depiction] [image]</ArtWeaponMelee.rulePack.rulesStrings.0>
+    <ArtWeaponMelee.rulePack.rulesStrings.1>description->Kaiverrus tässä aseessa [depicts] [image]</ArtWeaponMelee.rulePack.rulesStrings.1>
+    <ArtWeaponMelee.rulePack.rulesStrings.2>description->Tässä aseessa on [depiction] [image]</ArtWeaponMelee.rulePack.rulesStrings.2>
+
+DefInjected\RulePackDef\RulePacks_Global.xml
+    <GlobalCircumstances.rulePack.rulesStrings.0>circumstance_group->[circumstance_phrase] [date_phrase]</GlobalCircumstances.rulePack.rulesStrings.0>
+    <GlobalCircumstances.rulePack.rulesStrings.1>circumstance_phrase-></GlobalCircumstances.rulePack.rulesStrings.1>
+    <GlobalCircumstances.rulePack.rulesStrings.2>date_phrase->[date]</GlobalCircumstances.rulePack.rulesStrings.2>
+
+DefInjected\RulePackDef\RulePacks_NameMakers_Art.xml
+    <NamerFurniture.rulePack.rulesStrings.0>name->Henkilön [personname] [positiveconcept]</NamerFurniture.rulePack.rulesStrings.0>
+    <NamerFurniture.rulePack.rulesStrings.1>name->[positiveconcept]</NamerFurniture.rulePack.rulesStrings.1>
+    <NamerFurniture.rulePack.rulesStrings.2>name->[animal]</NamerFurniture.rulePack.rulesStrings.2>
+    <NamerFurniture.rulePack.rulesStrings.3>name->[badasscolor] [animal]</NamerFurniture.rulePack.rulesStrings.3>
+    <NamerSarcophagusPlate.rulePack.rulesStrings.0>name->[angstyadjective] [badassperson]</NamerSarcophagusPlate.rulePack.rulesStrings.0>
+    <NamerSarcophagusPlate.rulePack.rulesStrings.1>name->[badassperson]</NamerSarcophagusPlate.rulePack.rulesStrings.1>
+    <NamerSarcophagusPlate.rulePack.rulesStrings.2>name->[color] [badassperson]</NamerSarcophagusPlate.rulePack.rulesStrings.2>
+    <NamerSarcophagusPlate.rulePack.rulesStrings.3>name->[angstyadjective] [angstyconcept]</NamerSarcophagusPlate.rulePack.rulesStrings.3>
+    <NamerSarcophagusPlate.rulePack.rulesStrings.4>name->[angstyadjective] [badassconcept]</NamerSarcophagusPlate.rulePack.rulesStrings.4>
+    <NamerSculpture.rulePack.rulesStrings.0>name->[artname]</NamerSculpture.rulePack.rulesStrings.0>
+    <NamerSculpture.rulePack.rulesStrings.1>name->Henkilön [personname] [artname]</NamerSculpture.rulePack.rulesStrings.1>
+    <NamerSculpture.rulePack.rulesStrings.10>name->[artname] [romannumeral]</NamerSculpture.rulePack.rulesStrings.10>
+    <NamerSculpture.rulePack.rulesStrings.11>name->[concept] Nro. [digit]</NamerSculpture.rulePack.rulesStrings.11>
+    <NamerSculpture.rulePack.rulesStrings.12>name->[artname] Nro. [digit]</NamerSculpture.rulePack.rulesStrings.12>
+    <NamerSculpture.rulePack.rulesStrings.13>name->[artname] Nro. [digit][digit]</NamerSculpture.rulePack.rulesStrings.13>
+    <NamerSculpture.rulePack.rulesStrings.14>name->[artname] No. [digit][digit]</NamerSculpture.rulePack.rulesStrings.14>
+    <NamerSculpture.rulePack.rulesStrings.2>name->Aiheen [concept] [artname]</NamerSculpture.rulePack.rulesStrings.2>
+    <NamerSculpture.rulePack.rulesStrings.3>name->[concept][artname]</NamerSculpture.rulePack.rulesStrings.3>
+    <NamerSculpture.rulePack.rulesStrings.4>name->Henkilön [personname] [concept]</NamerSculpture.rulePack.rulesStrings.4>
+    <NamerSculpture.rulePack.rulesStrings.5>name->[concept]</NamerSculpture.rulePack.rulesStrings.5>
+    <NamerSculpture.rulePack.rulesStrings.6>name->[color] [concept]</NamerSculpture.rulePack.rulesStrings.6>
+    <NamerSculpture.rulePack.rulesStrings.7>name->[color] [artname]</NamerSculpture.rulePack.rulesStrings.7>
+    <NamerSculpture.rulePack.rulesStrings.8>name->[color] [personname]</NamerSculpture.rulePack.rulesStrings.8>
+    <NamerSculpture.rulePack.rulesStrings.9>name->[art_adjective] [concept]</NamerSculpture.rulePack.rulesStrings.9>
+    <NamerWeapon.rulePack.rulesStrings.0>name->Henkilön [personname] [badassconcept]</NamerWeapon.rulePack.rulesStrings.0>
+    <NamerWeapon.rulePack.rulesStrings.1>name->[badassconcept]</NamerWeapon.rulePack.rulesStrings.1>
+    <NamerWeapon.rulePack.rulesStrings.2>name->[badassanimal]</NamerWeapon.rulePack.rulesStrings.2>
+    <NamerWeapon.rulePack.rulesStrings.3>name->[badassadjective] [badassanimal]</NamerWeapon.rulePack.rulesStrings.3>
+    <NamerWeapon.rulePack.rulesStrings.4>name->[badasscolor] [badassperson]</NamerWeapon.rulePack.rulesStrings.4>
+    <NamerWeapon.rulePack.rulesStrings.5>name->[badasscolor] [badassanimal]</NamerWeapon.rulePack.rulesStrings.5>
+    <NamerWeapon.rulePack.rulesStrings.6>name->[badassconcept] [badasscolor]</NamerWeapon.rulePack.rulesStrings.6>
+
+DefInjected\RulePackDef\RulePacks_Utility.xml
+    <ArtUtility.rulePack.rulesStrings.0>depicts->jäljittelee</ArtUtility.rulePack.rulesStrings.0>
+    <ArtUtility.rulePack.rulesStrings.1>depicts->esittää</ArtUtility.rulePack.rulesStrings.1>
+    <ArtUtility.rulePack.rulesStrings.10>depiction->edustettuna</ArtUtility.rulePack.rulesStrings.10>
+    <ArtUtility.rulePack.rulesStrings.100>side_position->lähellä kuvan reunaa</ArtUtility.rulePack.rulesStrings.100>
+    <ArtUtility.rulePack.rulesStrings.101>side_position->taustalla</ArtUtility.rulePack.rulesStrings.101>
+    <ArtUtility.rulePack.rulesStrings.102>side_position->kaukaisuudessa</ArtUtility.rulePack.rulesStrings.102>
+    <ArtUtility.rulePack.rulesStrings.103>side_position->kuvan alalaidassa</ArtUtility.rulePack.rulesStrings.103>
+    <ArtUtility.rulePack.rulesStrings.104>side_position->kuvan ylälaidassa</ArtUtility.rulePack.rulesStrings.104>
+    <ArtUtility.rulePack.rulesStrings.105>side_position->kuvan keskeisen aiheen alla</ArtUtility.rulePack.rulesStrings.105>
+    <ArtUtility.rulePack.rulesStrings.106>side_position->kuvan keskipisteenä olevan aiheen takana</ArtUtility.rulePack.rulesStrings.106>
+    <ArtUtility.rulePack.rulesStrings.107>side_position->kuvan vasemmalla puolella</ArtUtility.rulePack.rulesStrings.107>
+    <ArtUtility.rulePack.rulesStrings.108>side_position->kuvan oikealla puolella</ArtUtility.rulePack.rulesStrings.108>
+    <ArtUtility.rulePack.rulesStrings.11>depiction->kuvitettuna</ArtUtility.rulePack.rulesStrings.11>
+    <ArtUtility.rulePack.rulesStrings.12>desc_sentence_group->[desc_sentence] [artextra_sentence] [style_sentence]</ArtUtility.rulePack.rulesStrings.12>
+    <ArtUtility.rulePack.rulesStrings.13>desc_sentence_group->[desc_sentence] [style_sentence] [artextra_sentence]</ArtUtility.rulePack.rulesStrings.13>
+    <ArtUtility.rulePack.rulesStrings.14>artextra_sentence->Kuvaa ympäröi [animal][quantity_adjphrase].</ArtUtility.rulePack.rulesStrings.14>
+    <ArtUtility.rulePack.rulesStrings.15>artextra_sentence->[side_position] on [community].</ArtUtility.rulePack.rulesStrings.15>
+    <ArtUtility.rulePack.rulesStrings.16>artextra_sentence->[side_position] on [terrainfeature].</ArtUtility.rulePack.rulesStrings.16>
+    <ArtUtility.rulePack.rulesStrings.17>artextra_sentence->[side_position] on [animal].</ArtUtility.rulePack.rulesStrings.17>
+    <ArtUtility.rulePack.rulesStrings.18>artextra_sentence->Kuvan pääaiheen takana on [terrainfeature].</ArtUtility.rulePack.rulesStrings.18>
+    <ArtUtility.rulePack.rulesStrings.19>artextra_sentence->Tapahtuman ympäristönä on [community].</ArtUtility.rulePack.rulesStrings.19>
+    <ArtUtility.rulePack.rulesStrings.2>depicts->kuvailee</ArtUtility.rulePack.rulesStrings.2>
+    <ArtUtility.rulePack.rulesStrings.20>artextra_sentence->Tapahtuman taustalla häämöttää [community].</ArtUtility.rulePack.rulesStrings.20>
+    <ArtUtility.rulePack.rulesStrings.21>artextra_sentence->Kuvan alalaitaa hallitsee [terrainfeature].</ArtUtility.rulePack.rulesStrings.21>
+    <ArtUtility.rulePack.rulesStrings.22>artextra_sentence->[outlander] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.22>
+    <ArtUtility.rulePack.rulesStrings.23>artextra_sentence->[animal] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.23>
+    <ArtUtility.rulePack.rulesStrings.24>artextra_sentence->Jos siristät silmiäsi, kuvan asetelmasta paljastuu [composition] [animal].</ArtUtility.rulePack.rulesStrings.24>
+    <ArtUtility.rulePack.rulesStrings.25>artextra_sentence->Koko kuva on esitetty huolellisesti aseteltuna [animal]kollaasina.</ArtUtility.rulePack.rulesStrings.25>
+    <ArtUtility.rulePack.rulesStrings.26>artextra_sentence->Kaiken yllä on hymyilevä [outlander].</ArtUtility.rulePack.rulesStrings.26>
+    <ArtUtility.rulePack.rulesStrings.27>artextra_sentence->Kuollut [animal] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.27>
+    <ArtUtility.rulePack.rulesStrings.28>artextra_sentence->Persoonallinen kuvaus aiheesta [concept] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.28>
+    <ArtUtility.rulePack.rulesStrings.29>artextra_sentence->[animal] [side_position] näyttää symboloivan aihetta [concept].</ArtUtility.rulePack.rulesStrings.29>
+    <ArtUtility.rulePack.rulesStrings.3>depicts->muistuttaa</ArtUtility.rulePack.rulesStrings.3>
+    <ArtUtility.rulePack.rulesStrings.30>artextra_sentence->[outlander][quantity_adjphrase] [idle_verb_progressive] [side_position].</ArtUtility.rulePack.rulesStrings.30>
+    <ArtUtility.rulePack.rulesStrings.31>artextra_sentence->Tapahtuman ympäristönä on [community] jonka lähellä on [terrainfeature].</ArtUtility.rulePack.rulesStrings.31>
+    <ArtUtility.rulePack.rulesStrings.32>style_sentence->Kuva näyttää edustavan aihetta [concept].</ArtUtility.rulePack.rulesStrings.32>
+    <ArtUtility.rulePack.rulesStrings.33>style_sentence->Työ on aiheen [concept] täyttämä ja sen tyyli on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.33>
+    <ArtUtility.rulePack.rulesStrings.34>style_sentence->Työ vihjaa aiheeseen [concept].</ArtUtility.rulePack.rulesStrings.34>
+    <ArtUtility.rulePack.rulesStrings.35>style_sentence->Työn tyylilaji on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.35>
+    <ArtUtility.rulePack.rulesStrings.36>style_sentence->Keskeisessä asemassa olevan tapahtuman [artstyle_adj] tyyli ja taustan [artstyle_adj] tyyli ovat epäsuhdassa.</ArtUtility.rulePack.rulesStrings.36>
+    <ArtUtility.rulePack.rulesStrings.37>style_sentence->Lähes jokainen kuvan muoto näyttää olevan [composition].</ArtUtility.rulePack.rulesStrings.37>
+    <ArtUtility.rulePack.rulesStrings.38>style_sentence->Työssä on [artstyle_adj] tunne ja [composition] rakenne.</ArtUtility.rulePack.rulesStrings.38>
+    <ArtUtility.rulePack.rulesStrings.39>style_sentence->Kuvan asetelma on [composition].</ArtUtility.rulePack.rulesStrings.39>
+    <ArtUtility.rulePack.rulesStrings.4>depicts->havainnollistaa</ArtUtility.rulePack.rulesStrings.4>
+    <ArtUtility.rulePack.rulesStrings.40>style_sentence->Tyyli on [artstyle_adj] ja siinä on elementtejä joiden tyyli on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.40>
+    <ArtUtility.rulePack.rulesStrings.41>style_sentence->Kuvasta puuttuu kokonaan sekä [concept] että [concept].</ArtUtility.rulePack.rulesStrings.41>
+    <ArtUtility.rulePack.rulesStrings.42>style_sentence->Kuvan aiheena on jotenkin sekä [concept] että [concept].</ArtUtility.rulePack.rulesStrings.42>
+    <ArtUtility.rulePack.rulesStrings.43>style_sentence->Kuvan [composition] rakenne on lähes epäsuhdassa sen tyylin kanssa, joka on [artstyle_adj].</ArtUtility.rulePack.rulesStrings.43>
+    <ArtUtility.rulePack.rulesStrings.44>composition->kolmiomainen</ArtUtility.rulePack.rulesStrings.44>
+    <ArtUtility.rulePack.rulesStrings.45>composition->suorakaiteinen</ArtUtility.rulePack.rulesStrings.45>
+    <ArtUtility.rulePack.rulesStrings.46>composition->neliömäinen</ArtUtility.rulePack.rulesStrings.46>
+    <ArtUtility.rulePack.rulesStrings.47>composition->epätasapainoinen</ArtUtility.rulePack.rulesStrings.47>
+    <ArtUtility.rulePack.rulesStrings.48>composition->hyvin tasapainotettu</ArtUtility.rulePack.rulesStrings.48>
+    <ArtUtility.rulePack.rulesStrings.49>composition->erittäin dynaaminen</ArtUtility.rulePack.rulesStrings.49>
+    <ArtUtility.rulePack.rulesStrings.5>depicts->edustaa</ArtUtility.rulePack.rulesStrings.5>
+    <ArtUtility.rulePack.rulesStrings.50>composition->erittäin staattinen</ArtUtility.rulePack.rulesStrings.50>
+    <ArtUtility.rulePack.rulesStrings.51>artstyle_adj->tavallinen</ArtUtility.rulePack.rulesStrings.51>
+    <ArtUtility.rulePack.rulesStrings.52>artstyle_adj->yksinkertainen</ArtUtility.rulePack.rulesStrings.52>
+    <ArtUtility.rulePack.rulesStrings.53>artstyle_adj->monimutkainen ja realistinen</ArtUtility.rulePack.rulesStrings.53>
+    <ArtUtility.rulePack.rulesStrings.54>artstyle_adj->surrealistinen</ArtUtility.rulePack.rulesStrings.54>
+    <ArtUtility.rulePack.rulesStrings.55>artstyle_adj->klassinen</ArtUtility.rulePack.rulesStrings.55>
+    <ArtUtility.rulePack.rulesStrings.56>artstyle_adj->moderni</ArtUtility.rulePack.rulesStrings.56>
+    <ArtUtility.rulePack.rulesStrings.57>artstyle_adj->symbolinen</ArtUtility.rulePack.rulesStrings.57>
+    <ArtUtility.rulePack.rulesStrings.58>artstyle_adj->amatöörimäinen mutta viehättävä</ArtUtility.rulePack.rulesStrings.58>
+    <ArtUtility.rulePack.rulesStrings.59>artstyle_adj->yksityiskohtainen</ArtUtility.rulePack.rulesStrings.59>
+    <ArtUtility.rulePack.rulesStrings.6>depicts->mukailee</ArtUtility.rulePack.rulesStrings.6>
+    <ArtUtility.rulePack.rulesStrings.60>artstyle_adj->kuutiomainen</ArtUtility.rulePack.rulesStrings.60>
+    <ArtUtility.rulePack.rulesStrings.61>artstyle_adj->kubistinen</ArtUtility.rulePack.rulesStrings.61>
+    <ArtUtility.rulePack.rulesStrings.62>artstyle_adj->impressionistinen</ArtUtility.rulePack.rulesStrings.62>
+    <ArtUtility.rulePack.rulesStrings.63>artstyle_adj->ekspressionistinen</ArtUtility.rulePack.rulesStrings.63>
+    <ArtUtility.rulePack.rulesStrings.64>artstyle_adj->valokuvauksellinen</ArtUtility.rulePack.rulesStrings.64>
+    <ArtUtility.rulePack.rulesStrings.65>artstyle_adj->barokkinen</ArtUtility.rulePack.rulesStrings.65>
+    <ArtUtility.rulePack.rulesStrings.66>artstyle_adj->dadaistinen</ArtUtility.rulePack.rulesStrings.66>
+    <ArtUtility.rulePack.rulesStrings.67>artstyle_adj->glitch-tyyppinen</ArtUtility.rulePack.rulesStrings.67>
+    <ArtUtility.rulePack.rulesStrings.68>composition->pikselöity</ArtUtility.rulePack.rulesStrings.68>
+    <ArtUtility.rulePack.rulesStrings.69>artstyle_adj->fauvistinen</ArtUtility.rulePack.rulesStrings.69>
+    <ArtUtility.rulePack.rulesStrings.7>depiction->esitettynä</ArtUtility.rulePack.rulesStrings.7>
+    <ArtUtility.rulePack.rulesStrings.70>artstyle_adj->kansanläheinen</ArtUtility.rulePack.rulesStrings.70>
+    <ArtUtility.rulePack.rulesStrings.71>artstyle_adj->kuvainnollinen</ArtUtility.rulePack.rulesStrings.71>
+    <ArtUtility.rulePack.rulesStrings.72>artstyle_adj->sulava</ArtUtility.rulePack.rulesStrings.72>
+    <ArtUtility.rulePack.rulesStrings.73>artstyle_adj->geometrinen</ArtUtility.rulePack.rulesStrings.73>
+    <ArtUtility.rulePack.rulesStrings.74>artstyle_adj->abstrakti</ArtUtility.rulePack.rulesStrings.74>
+    <ArtUtility.rulePack.rulesStrings.75>artstyle_adj->hyperrealistinen</ArtUtility.rulePack.rulesStrings.75>
+    <ArtUtility.rulePack.rulesStrings.76>artstyle_adj->populaarikulttuurinen</ArtUtility.rulePack.rulesStrings.76>
+    <ArtUtility.rulePack.rulesStrings.77>artstyle_adj->minimalistinen</ArtUtility.rulePack.rulesStrings.77>
+    <ArtUtility.rulePack.rulesStrings.78>artstyle_adj->neoklassinen</ArtUtility.rulePack.rulesStrings.78>
+    <ArtUtility.rulePack.rulesStrings.79>artstyle_adj->piirrostyyppinen</ArtUtility.rulePack.rulesStrings.79>
+    <ArtUtility.rulePack.rulesStrings.8>depiction->kuvattuna</ArtUtility.rulePack.rulesStrings.8>
+    <ArtUtility.rulePack.rulesStrings.80>artstyle_adj->postimpressionistinen</ArtUtility.rulePack.rulesStrings.80>
+    <ArtUtility.rulePack.rulesStrings.81>artstyle_adj->puristinen</ArtUtility.rulePack.rulesStrings.81>
+    <ArtUtility.rulePack.rulesStrings.82>artstyle_adj->rokokoo-tyyppinen</ArtUtility.rulePack.rulesStrings.82>
+    <ArtUtility.rulePack.rulesStrings.83>artstyle_adj->romanilainen</ArtUtility.rulePack.rulesStrings.83>
+    <ArtUtility.rulePack.rulesStrings.84>artstyle_adj->romanttinen</ArtUtility.rulePack.rulesStrings.84>
+    <ArtUtility.rulePack.rulesStrings.85>artstyle_adj->graffitimainen</ArtUtility.rulePack.rulesStrings.85>
+    <ArtUtility.rulePack.rulesStrings.86>artstyle_adj->eroottinen</ArtUtility.rulePack.rulesStrings.86>
+    <ArtUtility.rulePack.rulesStrings.87>artstyle_adj->aistikas</ArtUtility.rulePack.rulesStrings.87>
+    <ArtUtility.rulePack.rulesStrings.88>artstyle_adj->vilpitön</ArtUtility.rulePack.rulesStrings.88>
+    <ArtUtility.rulePack.rulesStrings.89>idle_verb_progressive->istuu</ArtUtility.rulePack.rulesStrings.89>
+    <ArtUtility.rulePack.rulesStrings.9>depiction->kuvailtuna</ArtUtility.rulePack.rulesStrings.9>
+    <ArtUtility.rulePack.rulesStrings.90>idle_verb_progressive->seisoo</ArtUtility.rulePack.rulesStrings.90>
+    <ArtUtility.rulePack.rulesStrings.91>idle_verb_progressive->odottaa</ArtUtility.rulePack.rulesStrings.91>
+    <ArtUtility.rulePack.rulesStrings.92>idle_verb_progressive->hymyilee</ArtUtility.rulePack.rulesStrings.92>
+    <ArtUtility.rulePack.rulesStrings.93>idle_verb_progressive->makaa</ArtUtility.rulePack.rulesStrings.93>
+    <ArtUtility.rulePack.rulesStrings.94>idle_verb_progressive->poseeraa</ArtUtility.rulePack.rulesStrings.94>
+    <ArtUtility.rulePack.rulesStrings.95>idle_verb_progressive->näyttäytyy</ArtUtility.rulePack.rulesStrings.95>
+    <ArtUtility.rulePack.rulesStrings.96>idle_verb_progressive->on kuvattu</ArtUtility.rulePack.rulesStrings.96>
+    <ArtUtility.rulePack.rulesStrings.97>idle_verb_progressive->lipuu esiin</ArtUtility.rulePack.rulesStrings.97>
+    <ArtUtility.rulePack.rulesStrings.98>idle_verb_progressive->kelluu</ArtUtility.rulePack.rulesStrings.98>
+    <ArtUtility.rulePack.rulesStrings.99>side_position->sivussa</ArtUtility.rulePack.rulesStrings.99>
+    <NamerArtUtility.rulePack.rulesStrings.0>trans->of</NamerArtUtility.rulePack.rulesStrings.0>
+    <NamerArtUtility.rulePack.rulesStrings.1>trans->for</NamerArtUtility.rulePack.rulesStrings.1>
+    <NamerArtUtility.rulePack.rulesStrings.2>trans->by</NamerArtUtility.rulePack.rulesStrings.2>
+    <NamerArtUtility.rulePack.rulesStrings.3>trans->with</NamerArtUtility.rulePack.rulesStrings.3>
+
+DefInjected\TaleDef\Tales_SinglePawn.xml
+    <MentalBreakBerserk.rulePack.rulesStrings.0>image->[pawn_nameFull] raivoamassa hulluna [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.0>
+    <MentalBreakBerserk.rulePack.rulesStrings.1>image->[pawn_nameFull] tulemassa vihoissaan väkivaltaisen hulluksi [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.1>
+    <MentalBreakBerserk.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] hampaansa ovat paljastettuina tappavassa irvistyksessä.</MentalBreakBerserk.rulePack.rulesStrings.10>
+    <MentalBreakBerserk.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] silmänsä ovat hulluuden täyttämät.</MentalBreakBerserk.rulePack.rulesStrings.11>
+    <MentalBreakBerserk.rulePack.rulesStrings.12>desc_sentence->Sylkeä lentää [pawn_possessive] suustaan samalla kun hän huutaa raivoissaan.</MentalBreakBerserk.rulePack.rulesStrings.12>
+    <MentalBreakBerserk.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] on menettänyt palan [pawn_possessive] vaatteestaan.</MentalBreakBerserk.rulePack.rulesStrings.13>
+    <MentalBreakBerserk.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] irvistää kärsimyksissään.</MentalBreakBerserk.rulePack.rulesStrings.14>
+    <MentalBreakBerserk.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] näyttää hymyilevän sekopäisesti.</MentalBreakBerserk.rulePack.rulesStrings.15>
+    <MentalBreakBerserk.rulePack.rulesStrings.16>desc_sentence->Hänet on kuvattu [animal]kasvoisena.</MentalBreakBerserk.rulePack.rulesStrings.16>
+    <MentalBreakBerserk.rulePack.rulesStrings.17>desc_sentence->[animal]lauma ympäröi [pawn_possessive] päätään symbolisesti.</MentalBreakBerserk.rulePack.rulesStrings.17>
+    <MentalBreakBerserk.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] silmäkulmassaan on murhamielinen pilke.</MentalBreakBerserk.rulePack.rulesStrings.18>
+    <MentalBreakBerserk.rulePack.rulesStrings.19>desc_sentence->[pawn_possessive] koko ruumiinsa näyttää tärisevän vihasta.</MentalBreakBerserk.rulePack.rulesStrings.19>
+    <MentalBreakBerserk.rulePack.rulesStrings.2>image->[pawn_nameFull] kompuroimassa eteenpäin sekopäinen katse [pawn_possessive] kasvoillaan [circumstance_group]. [desc_sentence_group]</MentalBreakBerserk.rulePack.rulesStrings.2>
+    <MentalBreakBerserk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] kasvonsa on tehty kuvaamaan kieroutunutta seesteisyyttä.</MentalBreakBerserk.rulePack.rulesStrings.20>
+    <MentalBreakBerserk.rulePack.rulesStrings.21>desc_sentence->Yksittäinen kyynel vierii [pawn_possessive] poskellaan.</MentalBreakBerserk.rulePack.rulesStrings.21>
+    <MentalBreakBerserk.rulePack.rulesStrings.3>circumstance_phrase->ja yrittämässä riisuuntua</MentalBreakBerserk.rulePack.rulesStrings.3>
+    <MentalBreakBerserk.rulePack.rulesStrings.4>circumstance_phrase->näennäisesti ilman syytä</MentalBreakBerserk.rulePack.rulesStrings.4>
+    <MentalBreakBerserk.rulePack.rulesStrings.5>circumstance_phrase->samalla kun muut kyyristyvät peloissaan</MentalBreakBerserk.rulePack.rulesStrings.5>
+    <MentalBreakBerserk.rulePack.rulesStrings.6>circumstance_phrase->samalla kun ystävä pakenee</MentalBreakBerserk.rulePack.rulesStrings.6>
+    <MentalBreakBerserk.rulePack.rulesStrings.7>circumstance_phrase->rasituksesta johtuen</MentalBreakBerserk.rulePack.rulesStrings.7>
+    <MentalBreakBerserk.rulePack.rulesStrings.8>circumstance_phrase->viimeisenä tekonaan</MentalBreakBerserk.rulePack.rulesStrings.8>
+    <MentalBreakBerserk.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] kihisee hallitsematonta kiukkua.</MentalBreakBerserk.rulePack.rulesStrings.9>
+    <MentalBreakGaveUp.rulePack.rulesStrings.0>image->[pawn_nameFull] antamassa lopulta periksi rasituksen alla [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.0>
+    <MentalBreakGaveUp.rulePack.rulesStrings.1>image->[pawn_nameFull] nyyhkimässä hallitsemattomasti [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.1>
+    <MentalBreakGaveUp.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] nauraa masennuksensa kourissa.</MentalBreakGaveUp.rulePack.rulesStrings.10>
+    <MentalBreakGaveUp.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDefinite] katsoo ylöspäin apua pyytäen.</MentalBreakGaveUp.rulePack.rulesStrings.11>
+    <MentalBreakGaveUp.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] repii [pawn_possessive] vaatteitaan.</MentalBreakGaveUp.rulePack.rulesStrings.12>
+    <MentalBreakGaveUp.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] näyttää olevan täysin tietämätön ympäristöstään.</MentalBreakGaveUp.rulePack.rulesStrings.13>
+    <MentalBreakGaveUp.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] näyttää sekä onnelliselta että suruulliselta samaan aikaan.</MentalBreakGaveUp.rulePack.rulesStrings.14>
+    <MentalBreakGaveUp.rulePack.rulesStrings.15>desc_sentence->[pawn_possessive] etumuksessaan on tahroja.</MentalBreakGaveUp.rulePack.rulesStrings.15>
+    <MentalBreakGaveUp.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] näyttää hukanneen kenkänsä.</MentalBreakGaveUp.rulePack.rulesStrings.16>
+    <MentalBreakGaveUp.rulePack.rulesStrings.17>desc_sentence->[pawn_possessive] hiuksensa ovat erittäin sotkuiset.</MentalBreakGaveUp.rulePack.rulesStrings.17>
+    <MentalBreakGaveUp.rulePack.rulesStrings.2>image->[pawn_nameFull] kompuroimassa ympäriinsä täysin murtunut ilme kasvoillaan [circumstance_group]. [desc_sentence_group]</MentalBreakGaveUp.rulePack.rulesStrings.2>
+    <MentalBreakGaveUp.rulePack.rulesStrings.3>circumstance_phrase->ja yrittämässä riisuuntua</MentalBreakGaveUp.rulePack.rulesStrings.3>
+    <MentalBreakGaveUp.rulePack.rulesStrings.4>circumstance_phrase->näennäisesti ilman syytä</MentalBreakGaveUp.rulePack.rulesStrings.4>
+    <MentalBreakGaveUp.rulePack.rulesStrings.5>circumstance_phrase->muiden tarjotessa myötätuntoa</MentalBreakGaveUp.rulePack.rulesStrings.5>
+    <MentalBreakGaveUp.rulePack.rulesStrings.6>circumstance_phrase->ystävän itkiessä</MentalBreakGaveUp.rulePack.rulesStrings.6>
+    <MentalBreakGaveUp.rulePack.rulesStrings.7>circumstance_phrase->stressistä johtuen</MentalBreakGaveUp.rulePack.rulesStrings.7>
+    <MentalBreakGaveUp.rulePack.rulesStrings.8>circumstance_phrase->viimeisenä tekonaan</MentalBreakGaveUp.rulePack.rulesStrings.8>
+    <MentalBreakGaveUp.rulePack.rulesStrings.9>desc_sentence->Kyyneleet virtaavat [pawn_possessive] kasvoillaan.</MentalBreakGaveUp.rulePack.rulesStrings.9>
+
+DefInjected\ThingCategoryDef\ThingCategories.xml
+    <OtherFoodRaw.label>eläintuotteet</OtherFoodRaw.label>
+
+DefInjected\ThingDef\Buildings_Joy.xml
+    <Television.description>Katodisädeputkinäyttö joka näyttää liikkuvia kuvia äänen kanssa. Jopa syrjäisillä planeetoilla on usein vanha lähetin joka pyörittää jotain lähes mielenkiintoista katsottavaa.</Television.description>
+    <Television.label>televisio</Television.label>
+
+DefInjected\ThingDef\Buildings_Production.xml
+    <CookStove.description>Yksinkertainen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia.</CookStove.description>
+    <CookStove.label>keittoliesi</CookStove.label>
+    <Crematorium.description>Polttaa ruumiita.</Crematorium.description>
+    <Crematorium.label>krematorio</Crematorium.label>
+    <ResearchBench.description>Tutkijat työskentelevät tässä keksiäkseen uusia asioita.</ResearchBench.description>
+    <ResearchBench.label>tutkimuspöytä</ResearchBench.label>
+    <TableSmithing.description>Aseiden ja työkalujen valmistamiseen varusteltu työpöytä.</TableSmithing.description>
+    <TableSmithing.label>taontapöytä</TableSmithing.label>
+    <TableTailor.description>Kankaiden parantelemiseen ja vaatteiden tuotantoon tarkoitettu pöytä.</TableTailor.description>
+    <TableTailor.label>räätälin pöytä</TableTailor.label>
+
+DefInjected\ThingDef\Plants_Cultivated.xml
+    <PlantXerigium.description>Uudisasukkaat ovat jalostaneet tämän kasvin vuosisatojen saatossa. Heimolaiset kutsuvat sitä myös joskus "parantajankädeksi" - se on saanut tämän lempinimen viiden lääketieteellisen hyveensä ansiosta.</PlantXerigium.description>
+    <PlantXerigium.label>xerigium</PlantXerigium.label>
+
+DefInjected\ThingDef\Things_Special.xml
+    <RectTrigger.description>Suorakaiteen muotoinen laukaisin.</RectTrigger.description>
+
+DefInjected\ThoughtDef\Thoughts_Broken.xml
+    <CurrentlyBrokenBerserk.stages.0.description>Pakko tappaa!</CurrentlyBrokenBerserk.stages.0.description>
+    <CurrentlyBrokenBerserk.stages.0.label>raivopäisiä ajatuksia</CurrentlyBrokenBerserk.stages.0.label>
+    <CurrentlyBrokenPanicFlee.stages.0.description>Täältä täytyy päästä pois!</CurrentlyBrokenPanicFlee.stages.0.description>
+    <CurrentlyBrokenPanicFlee.stages.0.label>paniikki</CurrentlyBrokenPanicFlee.stages.0.label>
+    <CurrentlyBrokenSad.stages.0.description>Asiat painavat aivan liikaa.</CurrentlyBrokenSad.stages.0.description>
+    <CurrentlyBrokenSad.stages.0.label>murtuneita ajatuksia</CurrentlyBrokenSad.stages.0.label>
+
+DefInjected\ThoughtDef\Thoughts_Memories.xml
+    <AbrasiveTalk.stages.0.description>Joku oli töykeä minua kohtaan.</AbrasiveTalk.stages.0.description>
+    <AbrasiveTalk.stages.0.label>epämiellyttävä keskustelu</AbrasiveTalk.stages.0.label>
+    <SocialTalk.stages.0.description>Keskustelin hyvän tyypin kanssa.</SocialTalk.stages.0.description>
+    <SocialTalk.stages.0.label>sosiaalinen keskustelu</SocialTalk.stages.0.label>
+    <SomeoneBuriedInSarcophagus.stages.0.description>Tämä yhdyskunta hautasi jonkun koristeelliseen sarkofagiin. Levätköön hänen sielunsa rauhassa.</SomeoneBuriedInSarcophagus.stages.0.description>
+    <SomeoneBuriedInSarcophagus.stages.0.label>haudattu sarkofagiin</SomeoneBuriedInSarcophagus.stages.0.label>
+
+DefInjected\TraderKindDef\TraderKinds.xml
+    <BulkGoodsTrader.label>irtotavarakauppias</BulkGoodsTrader.label>
+    <CombatSupplier.label>taisteluvälineiden toimittaja</CombatSupplier.label>
+    <ExoticTrader.label>eksoottisten tavaroiden kauppias</ExoticTrader.label>
+    <PirateMerchant.label>rosvokauppias</PirateMerchant.label>
+
+DefInjected\TraitDef\Traits_Singular.xml
+    <CarefulShooter.degreeDatas.0.description>NAME on hyvä tähtäämään, mutta HE tarvitsee enemmän aikaa keskittyäkseen kohteeseensa.</CarefulShooter.degreeDatas.0.description>
+    <CarefulShooter.degreeDatas.0.label>huolellinen ampuja</CarefulShooter.degreeDatas.0.label>
+    <TriggerHappy.degreeDatas.0.description>Pau! Pau! Pau! NAME on surkea tähtäämään, mutta HE ei välitä, koska aseet ovat mahtavia!</TriggerHappy.degreeDatas.0.description>
+    <TriggerHappy.degreeDatas.0.label>liipaisinherkkä</TriggerHappy.degreeDatas.0.label>
+
+DefInjected\WorkGiverDef\WorkGivers.xml
+    <Warden.gerund>vartioiminen</Warden.gerund>
+
+DefInjected\WorkTypeDef\WorkTypes.xml
+    <Patient.description>Potilaat menevät sairasvuoteeseen jos he tarvitsevat hoitoa.</Patient.description>
+    <Patient.gerundLabel>Potilas</Patient.gerundLabel>
+    <Patient.labelShort>Potilas</Patient.labelShort>
+    <Patient.pawnLabel>Potilas</Patient.pawnLabel>
+    <Patient.verb>Tule potilaaksi</Patient.verb>
+
+Keyed\Alerts.xml
+    <ColonistsAwaitingMedicalOperation>{0} yhdyskuntalaista odottaa leikkausta</ColonistsAwaitingMedicalOperation>
+    <ColonistsAwaitingMedicalOperationDesc>Nämä yhdyskuntalaiset odottavat leikkausta:\n\n{0}\nVarmista, että sinulla on kaikki tarvittavat lääketarpeet ja vapaana oleva lääkäri.</ColonistsAwaitingMedicalOperationDesc>
+
+Keyed\Credits.xml
+    <Credit_AdditionalProgramming>Ylimääräinen ohjelmointi</Credit_AdditionalProgramming>
+    <Credit_Ludomancer>Pääarkkitehti</Credit_Ludomancer>
+
+Keyed\Dates.xml
+    <MonthFullApril>Huhtikuu</MonthFullApril>
+    <MonthFullAugust>Elokuu</MonthFullAugust>
+    <MonthFullDate>{0} {1}</MonthFullDate>
+    <MonthFullDecember>Joulukuu</MonthFullDecember>
+    <MonthFullFebruary>Helmikuu</MonthFullFebruary>
+    <MonthFullJanuary>Tammikuu</MonthFullJanuary>
+    <MonthFullJuly>Heinäkuu</MonthFullJuly>
+    <MonthFullJune>Kesäkuu</MonthFullJune>
+    <MonthFullMarch>Maaliskuu</MonthFullMarch>
+    <MonthFullMay>Toukokuu</MonthFullMay>
+    <MonthFullNovember>Marraskuu</MonthFullNovember>
+    <MonthFullOctober>Lokakuu</MonthFullOctober>
+    <MonthFullSeptember>Syyskuu</MonthFullSeptember>
+    <MonthShortApril>Huhti</MonthShortApril>
+    <MonthShortAugust>Elo</MonthShortAugust>
+    <MonthShortDecember>Joulu</MonthShortDecember>
+    <MonthShortFebruary>Helmi</MonthShortFebruary>
+    <MonthShortJanuary>Tammi</MonthShortJanuary>
+    <MonthShortJuly>Heinä</MonthShortJuly>
+    <MonthShortJune>Kesä</MonthShortJune>
+    <MonthShortMarch>Maalis</MonthShortMarch>
+    <MonthShortMay>Touko</MonthShortMay>
+    <MonthShortNovember>Marras</MonthShortNovember>
+    <MonthShortOctober>Loka</MonthShortOctober>
+    <MonthShortSeptember>Syys</MonthShortSeptember>
+
+Keyed\Dialogs_Various.xml
+    <MapStartMonth>Aloituskuukausi:</MapStartMonth>
+    <MapStartMonthDefault>Automaattinen</MapStartMonthDefault>
+
+Keyed\Enums.xml
+    <Carnivorous>Lihansyöjä</Carnivorous>
+    <Dendrovorous>Puunsyöjä</Dendrovorous>
+    <Herbivorous>Kasvissyöjä</Herbivorous>
+    <NeverEats>Ei syö koskaan</NeverEats>
+    <Omnivorous>Kaikkiruokainen</Omnivorous>
+
+Keyed\FloatMenu.xml
+    <CannotFight>{0} ei voi taistella</CannotFight>
+
+Keyed\GameplayCommands.xml
+    <CommandGraveSetToUnassignedDesc>Poista tämän haudan asetus tietylle henkilölle.</CommandGraveSetToUnassignedDesc>
+    <CommandGraveSetToUnassignedLabel>Poista asetus</CommandGraveSetToUnassignedLabel>
+
+Keyed\Menus_OTabs.xml
+    <AnimalsTab>Eläimet</AnimalsTab>
+    <FactionsTab>Ryhmät</FactionsTab>
+    <HistoryTab>Historia</HistoryTab>
+    <OutfitsTab>Vaatekerrat</OutfitsTab>
+    <RestrictionsTab>Rajoitukset</RestrictionsTab>
+    <StatisticsTab>Tilastot</StatisticsTab>
+    <WorkTab>Työnteko</WorkTab>
+    <WorldTab>Maailma</WorldTab>
+
+Keyed\Misc.xml
+    <SomeonesSomething>Henkilön {0} {1}</SomeonesSomething>
+
+Keyed\Misc_Gameplay.xml
+    <BrokenLetterLabel>Murtunut</BrokenLetterLabel>
+    <Mood_Broken>murtunut</Mood_Broken>
+
+Keyed\Time.xml
+    <DaysHours>{0} päivää, {1} tuntia</DaysHours>
+    <Period1Month>1 kuukausi</Period1Month>
+    <PeriodMonths>{0} kuukautta</PeriodMonths>
+

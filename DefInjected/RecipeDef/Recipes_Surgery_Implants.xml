@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <InstallJoywire.label>asenna iloimplantti</InstallJoywire.label>
+    <InstallJoywire.description>Asentaa iloimplantin.</InstallJoywire.description>
+    <InstallJoywire.jobString>Asentaa iloimplanttia.</InstallJoywire.jobString>
+    
+    <InstallPainstopper.label>asenna kivunestäjä</InstallPainstopper.label>
+    <InstallPainstopper.description>Asentaa kivunestäjän.</InstallPainstopper.description>
+    <InstallPainstopper.jobString>Asentaa kivunestäjää.</InstallPainstopper.jobString>
+    
+</LanguageData>

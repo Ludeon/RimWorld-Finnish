@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CrashedPsychicEmanatorShipPart.label>avaruusaluksen hylyn osa</CrashedPsychicEmanatorShipPart.label>
+    <CrashedPsychicEmanatorShipPart.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tällainen tegnologia voi olla vaarallinen.</CrashedPsychicEmanatorShipPart.description>
+    
+    <CrashedPoisonShipPart.label>myrkkyavaruusaluksen hylyn osa</CrashedPoisonShipPart.label>
+    <CrashedPoisonShipPart.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tämä näyttää myrkyttävän ympäristöään.</CrashedPoisonShipPart.description>
+    
+    <ShipChunk.label>ship chunk</ShipChunk.label>
+    <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful steel and components.</ShipChunk.description>
+    
+</LanguageData>

@@ -15,7 +15,9 @@
 
   <OutOfRange>kantaman ulkopuolella</OutOfRange>
   <CannotHitTarget>kohteeseen ei voi osua</CannotHitTarget>
-  <CannotFight>{0} ei voi taistella</CannotFight>
+  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
 
   <OrderManThing>Miehitä {0}</OrderManThing>
   
@@ -35,6 +37,8 @@
   <AnimalInteractedTooRecently>eläin on vuorovaikuttanut liian äskettäin</AnimalInteractedTooRecently>
   <NoUsableFood>ei käyttökelpoista ruokaa</NoUsableFood>
   <AnimalsSkillTooLow>Eläimen taitotaso liian matala</AnimalsSkillTooLow>
+	<NoComponentsToRepair>need components</NoComponentsToRepair>
+	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
 
   <ConsumeThing>Syö/juo {0}</ConsumeThing>
   <Teetotaler>absolutisti</Teetotaler>
@@ -59,6 +63,7 @@
   <NoCryptosleepCasket>Ei saatavilla olevaa salauniarkkua.</NoCryptosleepCasket>
   <NoPrisonerBed>Ei saatavilla ja suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
   <NoNonPrisonerBed>Ei saatavilla olevaa muille kuin vangeille tarkoitettua sänkyä.</NoNonPrisonerBed>
+  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
   <Reserved>Joku muu on varannut tämän.</Reserved>
   <ReservedBy>{0} on varannut tämän.</ReservedBy>
   <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
@@ -72,6 +77,7 @@
   
   <ForceWear>Pakota pukemaan {0}</ForceWear>
   <CannotWear>Ei voi pukea {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
   
   <Strip>Riisu {0}</Strip>
   <CannotStrip>Ei voi riisua {0}</CannotStrip>
@@ -86,6 +92,9 @@
   <UseMedicalBed>Lepää kunnes täysin parantunut</UseMedicalBed>
   <NotInjured>Ei loukkaantunut</NotInjured>
   <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
+  
+  <TradeWith>Trade with {0}</TradeWith>
+  <CannotTrade>Cannot trade</CannotTrade>
 
   
   <EnterCryptosleepCasket>Mene salauniarkkuun</EnterCryptosleepCasket>

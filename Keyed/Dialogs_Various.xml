@@ -12,6 +12,27 @@
   <RecoveredFromErrorsText>Näyttää siltä, että jotkin käytössä olevista modeista aiheuttivat virheitä.\n\nNe olivat epäyhteensopivia toistensa kanssa, suunniteltu toiselle RimWorldin versiolle tai vioittuneita.\n\nKaikki modit on otettu pois käytöstä ja voidaan ottaa uudelleen käyttöön modivalikosta.</RecoveredFromErrorsText>
   
   
+  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>An error occured while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>An error occured while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>An error occured while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  
+  
+  <InitializingInterface>Initializing interface</InitializingInterface>
+  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
+  <LoadingDefs>Loading defs</LoadingDefs>
+  <LoadingAssets>Loading assets</LoadingAssets>
+  <Initializing>Initializing</Initializing>
+  <LoadingWorld>Loading world</LoadingWorld>
+  <LoadingMap>Loading map</LoadingMap>
+  <InitializingMap>Initializing map</InitializingMap>
+  <SpawningAllThings>Spawning all things</SpawningAllThings>
+  
+  
   <SaveGameButton>Tallenna</SaveGameButton>
   <OverwriteButton>Korvaa</OverwriteButton>
   <LoadGameButton>Lataa</LoadGameButton>
@@ -20,6 +41,8 @@
   <SavedAs>Tallennettu nimellä {0}.</SavedAs>
   <NeedAName>Anna nimi.</NeedAName>
   <LoadingLongEvent>Ladataan...</LoadingLongEvent>
+  <SavingLongEvent>Saving</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on täysin eri versio.\n\nTämän datan lataaminen ei luultavasti tule toimimaan.</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on eri koontiversiosta.\n\nTämän datan lataamisen pitäisi silti toimia.</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>Tallennustiedosto on tehty tämän pelin versiolla ja pitäisi toimia ongelmia.</SaveIsFromThisGameBuild>
@@ -57,8 +80,11 @@
   <Unresearched>Tutkimatta</Unresearched>
   <Finished>Päättynyt</Finished>
   <InProgress>Tutkitaan</InProgress>
+  <Locked>Locked</Locked>
   <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖYDÄN, yhdyskuntalaisesi eivät pysty tekemään tutkimusta.\n\nVoit kuitenkin tarkastella vaihtoehtoja ja valita tutkimusprojektin jo nyt.</ResearchMenuWithoutBench>
-  
+  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
+  <RequiredResearchBench>Required research bench</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
   
   
   <MapTemperatureDangerWarning>Varoitus: Olet laskeutumassa jäiseen ympäristöön. Selviytyminen saattaa olla vaikeaa tai lähes mahdotonta. Jos et halua äärimmäistä haastetta, valitse erilainen paikka tai aloituskuukausi.</MapTemperatureDangerWarning>
@@ -69,9 +95,10 @@
   <MapSizeMedium>Keskikokoinen</MapSizeMedium>
   <MapSizeLarge>Suuri</MapSizeLarge>
   <MapSizeExtreme>Ludeoninen</MapSizeExtreme>
-  <MapStartMonth>Aloituskuukausi:</MapStartMonth>
-  <MapStartMonthDefault>Automaattinen</MapStartMonthDefault>
-
+  <MapStartSeason>Starting season:</MapStartSeason>
+  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <PermadeathMode>Permadeath mode</PermadeathMode>
+  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
 
   
   <Suspended>Pysäytetty</Suspended>
@@ -134,7 +161,11 @@
   <MoodChange>Vaikutus mielialaan</MoodChange>
   <Wildness>Villiys</Wildness>
   <WildnessExplanation>Villimpiä eläimiä on luonnostaan vaikeampi kesyttää, kouluttaa ja käsitellä.</WildnessExplanation>
-  
+  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Time</TimeRecordsCategory>
+  <MiscRecordsCategory>Misc</MiscRecordsCategory>
+
   
   <DragToTrade>Vedä vaihtaaksesi</DragToTrade>
   <BuyPriceDesc>Hinta, jonka maksat ostaaksesi tämän.</BuyPriceDesc>

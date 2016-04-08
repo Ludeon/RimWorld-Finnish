@@ -25,6 +25,8 @@
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   <AutosaveInterval>Automaattitallennus</AutosaveInterval>
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
+  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
 
   
   <Resolution>Resoluutio</Resolution>

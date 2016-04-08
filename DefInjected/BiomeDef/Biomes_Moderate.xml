@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Ocean.label>meri</Ocean.label>
+    <Ocean.description>Avomeri. Täydellinen kaloille - ei niin hyvä sinulle.</Ocean.description>
+    
+    <TemperateForest.label>lauhkea metsä</TemperateForest.label>
+    <TemperateForest.description>Ystävällinen metsikkö täynnä lehtipuita ja hedelmällisiä aukioita. Monenlaiset eläimet liikkuvat puissa ja maassa.</TemperateForest.description>
+    
+    <TropicalRainforest.label>trooppinen sademetsä</TropicalRainforest.label>
+    <TropicalRainforest.description>Tiheä ja kostea viidakko. Umpeenkasvu ja aggressiivinen luonto tekevät rakentamisesta ja selviytymisestä haastavan.</TropicalRainforest.description>
+    
+</LanguageData>

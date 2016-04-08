@@ -9,6 +9,7 @@
   <ForColonistUse>Yhdyskuntalaisten käyttöön</ForColonistUse>
   <MedicalBed>Lääkitsemiseen</MedicalBed>
   <Owner>Omistaja</Owner>
+  <Owners>Owners</Owners>
   <AssignedColonist>Asetettu yhdyskuntalainen</AssignedColonist>
   <Nobody>Ei kukaan</Nobody>
   <Unowned>Omistamaton</Unowned>
@@ -40,13 +41,19 @@
   <Off>Pois päältä</Off>
   <PowerSwitch_Power>Virta</PowerSwitch_Power>
   <JoyTolerances>Kyllästyminen huvitteluun</JoyTolerances>
-  <BrokenLetterLabel>Murtunut</BrokenLetterLabel>
+  <MentalStateLetterLabel>Mental state</MentalStateLetterLabel>
   <MilkFullness>Maidon täyttävyys</MilkFullness>
   <WoolGrowth>Villan kasvu</WoolGrowth>
   <EggProgress>Munan kehittyminen</EggProgress>
   <Fertilized>Hedelmöitytetty</Fertilized>
   <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
   <SkillTooLow>tarvitsee tason {2} taidossa {0}, nykyinen taso {1}</SkillTooLow>
+  <EggDamagedEmbryo>damaged embryo</EggDamagedEmbryo>
+  <CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+  <HiveReproducesIn>Reproduces in</HiveReproducesIn>
+  <BrokenDown>Broken down</BrokenDown>
+  <BondBrackets>(bond)</BondBrackets>
+  <Fuel>Fuel</Fuel>
   
   
   <Headshot>Osuma päähän</Headshot>
@@ -60,6 +67,7 @@
   <TextMote_TameSuccess>Kesytetty!\n{0} todennäköisyys</TextMote_TameSuccess>
   <TextMote_TrainFail>Kouluttaminen epäonnistui: {0}\n{1} todennäköisyys</TextMote_TrainFail>
   <TextMote_TrainSuccess>Koulutettu: {0}\n{1} todennäköisyys</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
 
 
   
@@ -106,6 +114,7 @@
   <DeliveringFood>Tuomassa ruokaa henkilölle {0}.</DeliveringFood>
   <UsingVerb>Käyttää esinettä {0} kohteeseen {1}.</UsingVerb>
   <AreaLower>alue</AreaLower>
+  <ReportCowering>Cowering.</ReportCowering>
   
 	
   <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
@@ -144,6 +153,10 @@
   
   <SelectNextInSquareTip>Valitse seuraava asia samassa neliössä.\n\nPikanäppäin: {0}\n\nVoit myös tehdä tämän klikkaamalla samaa ruutua hitaasti uudestaan.</SelectNextInSquareTip>
   <DefInfoTip>Tietoja tästä esineestä.</DefInfoTip>
+  
+  
+  <HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
+  <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
   
 	
 	<OfLower>joka kuuluu yksilölle</OfLower>
@@ -189,6 +202,7 @@
   <CurrentlyRefrigerated>Jäähdytetty (Pilaantumiseen {0})</CurrentlyRefrigerated>
   <NotRefrigerated>Ei jäähdytetty (Pilaantumiseen {0})</NotRefrigerated>
   <OverADecade>yli vuosikymmen</OverADecade>
+  <LessThanADay>less than a day</LessThanADay>
   
   
   <Ingredients>Ainekset</Ingredients>
@@ -279,6 +293,9 @@
   <UseArtifact>Aktivoi</UseArtifact>
   
   
+  <TriggerFirefoamPopper>Trigger firefoam popper</TriggerFirefoamPopper>
+  
+  
   <Installed>Asennettu</Installed>
   <NotInstalled>Asentamaton</NotInstalled>
 
@@ -296,7 +313,7 @@
   <QualityIs>Laatu: {0}</QualityIs>
     
   
-  <Mood_Broken>murtunut</Mood_Broken>
+  <Mood_MentalState>mental state</Mood_MentalState>
   <Mood_AboutToBreak>murtumassa</Mood_AboutToBreak>
   <Mood_OnEdge>ärtynyt</Mood_OnEdge>
   <Mood_Stressed>rasittunut</Mood_Stressed>
@@ -321,5 +338,9 @@
   
   <InactiveFacility>pois käytöstä</InactiveFacility>
   
+  
+  <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
 
 </LanguageData>

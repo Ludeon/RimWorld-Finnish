@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Chicken.label>kana</Chicken.label>
+    <Chicken.labelMale>rooster</Chicken.labelMale>
+    <Chicken.labelFemale>hen</Chicken.labelFemale>
+    <Chicken.lifeStages.0.label>tipu</Chicken.lifeStages.0.label>
+    
+    <Pig.label>sika</Pig.label>
+    <Pig.labelFemale>sow</Pig.labelFemale>
+    <Pig.lifeStages.0.label>porsas</Pig.lifeStages.0.label>
+    
+    <Cow.label>lehmä</Cow.label>
+    <Cow.labelMale>bull</Cow.labelMale>
+    <Cow.labelFemale>cow</Cow.labelFemale>
+    <Cow.lifeStages.0.label>vasikka</Cow.lifeStages.0.label>
+    
+    <Alpaca.label>alpakka</Alpaca.label>
+    
+</LanguageData>

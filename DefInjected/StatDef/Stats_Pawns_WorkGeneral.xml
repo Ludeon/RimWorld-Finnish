@@ -22,4 +22,7 @@
     <HarvestFailChance.label>sadonkorjuun epäonnistumisen todennäköisyys</HarvestFailChance.label>
     <HarvestFailChance.description>Todennäköisyys, että tämä henkilö tuhoaa vahingossa sadon sen keräämisen sijaan.</HarvestFailChance.description>
     
+    <FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
+    <FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
+    
 </LanguageData>

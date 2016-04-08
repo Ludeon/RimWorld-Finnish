@@ -47,9 +47,8 @@
   
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  
-  
-  <SomeonesSomething>Henkilön {0} {1}</SomeonesSomething>
+  <SomeonesRoom>{0}'s {1}</SomeonesRoom>
+  <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
   
   <VariousLabel>(erilaisia)</VariousLabel>
 

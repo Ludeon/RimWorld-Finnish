@@ -7,6 +7,9 @@
     <AteRawFood.stages.0.label>söi raakaa ruokaa</AteRawFood.stages.0.label>
     <AteRawFood.stages.0.description>Minun täytyi syödä raakaa ruokaa. Emmekö voi keittää sitä, tai ainakin valmistaa ravinnetahnaa?</AteRawFood.stages.0.description>
     
+    <AteCorpse.stages.0.label>ate corpse</AteCorpse.stages.0.label>
+    <AteCorpse.stages.0.description>I had to eat a corpse like an animal. It was horrible.</AteCorpse.stages.0.description>
+    
     <AteNutrientPasteMeal.stages.0.label>söi ravinnetahnaa</AteNutrientPasteMeal.stages.0.label>
     <AteNutrientPasteMeal.stages.0.description>Minun täytyi syödä ravinnetahnaa. Tiedän, että se pitää minut hengissä, mutta kukaan ei halua niellä sitä mönjää.</AteNutrientPasteMeal.stages.0.description>
     
@@ -16,44 +19,8 @@
     <AteLavishMeal.stages.0.label>söi yltäkylläisen aterian</AteLavishMeal.stages.0.label>
     <AteLavishMeal.stages.0.description>Tuo yltäkylläinen ateria oli mahtava. Se ravitsi minun ruumiini ja sieluni.</AteLavishMeal.stages.0.description>
     
-    <AteHumanlikeMeatDirect.stages.0.label>raakaa kannibalismia</AteHumanlikeMeatDirect.stages.0.label>
-    <AteHumanlikeMeatDirect.stages.0.description>Söin toisen ihmisen lihaa raakana kuin eläin. Tämä on painajaista.</AteHumanlikeMeatDirect.stages.0.description>
-    
-    <AteHumanlikeMeatAsIngredient.stages.0.label>keitettyä kannibalismia</AteHumanlikeMeatAsIngredient.stages.0.label>
-    <AteHumanlikeMeatAsIngredient.stages.0.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Tämä on hirvittävää.</AteHumanlikeMeatAsIngredient.stages.0.description>
-    
-    <AteHumanlikeMeatDirectCannibal.stages.0.label>raakaa kannibalismia</AteHumanlikeMeatDirectCannibal.stages.0.label>
-    <AteHumanlikeMeatDirectCannibal.stages.0.description>Söin toisen ihmisen lihaa raakana kuin eläin. Se oli niin... mehukasta.</AteHumanlikeMeatDirectCannibal.stages.0.description>
-    
-    <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>keitettyä kannibalismia</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
-    <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Niin miellyttävää. Jos minulla olisi vain härkäpapuja ja Chianti-viiniä.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
-    
-    <ButcheredHumanlikeCorpse.stages.0.label>teurasti ihmisen</ButcheredHumanlikeCorpse.stages.0.label>
-    <ButcheredHumanlikeCorpse.stages.0.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanlikeCorpse.stages.0.description>
-    
     <AteWithoutTable.stages.0.label>söi maasta </AteWithoutTable.stages.0.label>
     <AteWithoutTable.stages.0.description>Minun täyty syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.stages.0.description>
-    
-    <ObservedLayingCorpse.stages.0.label>havaitsi ruumiin</ObservedLayingCorpse.stages.0.label>
-    <ObservedLayingCorpse.stages.0.description>Näin kuolleen ihmisen makaavan maassa.</ObservedLayingCorpse.stages.0.description>
-    
-    <ObservedLayingRottingCorpse.stages.0.label>havaitsi mädäntyvän ruumiin</ObservedLayingRottingCorpse.stages.0.label>
-    <ObservedLayingRottingCorpse.stages.0.description>Näin mädäntyvän ruumiin makaavan maassa. Se oli vastenmielistä.</ObservedLayingRottingCorpse.stages.0.description>
-    
-    <WitnessedDeathAlly.stages.0.label>koki liittolaisen kuoleman</WitnessedDeathAlly.stages.0.label>
-    <WitnessedDeathAlly.stages.0.description>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathAlly.stages.0.description>
-    
-    <WitnessedDeathStranger.stages.0.label>koki vieraan kuoleman</WitnessedDeathStranger.stages.0.label>
-    <WitnessedDeathStranger.stages.0.description>Näin jonkun kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathStranger.stages.0.description>
-    
-    <WitnessedDeathStrangerBloodlust.stages.0.label>koki vieraan kuoleman</WitnessedDeathStrangerBloodlust.stages.0.label>
-    <WitnessedDeathStrangerBloodlust.stages.0.description>Näin jonkun kuolevan! Se oli nastaa!</WitnessedDeathStrangerBloodlust.stages.0.description>
-    
-    <KilledHumanlikeBloodlust.stages.0.label>tappoi jonkun</KilledHumanlikeBloodlust.stages.0.label>
-    <KilledHumanlikeBloodlust.stages.0.description>Tapoin jonkun! Olipa kiihottavaa!</KilledHumanlikeBloodlust.stages.0.description>
-    
-    <BattleWounded.stages.0.label>haavoittunut</BattleWounded.stages.0.label>
-    <BattleWounded.stages.0.description>Tuo on minun vertani! Olen haavoittunut taistelussa!</BattleWounded.stages.0.description>
     
     <NewColonyOptimism.stages.0.label>uuden yhdyskunnan optimismia</NewColonyOptimism.stages.0.label>
     <NewColonyOptimism.stages.0.description>Laskeuduimme juuri tänne. Tämä on ankara tilanne, mutta olen innoissani uuden yhdyskunnan perustamisesta.</NewColonyOptimism.stages.0.description>
@@ -102,15 +69,6 @@
     <WasImprisoned.stages.0.label>oli vangittu</WasImprisoned.stages.0.label>
     <WasImprisoned.stages.0.description>Yhdyskunta piti minua hetken vankina kuin eläintä häkissä.</WasImprisoned.stages.0.description>
     
-    <PrisonerFriendlyChat.stages.0.label>vanginvartijan vakuuttelema</PrisonerFriendlyChat.stages.0.label>
-    <PrisonerFriendlyChat.stages.0.description>Juttelin vanginvartijan kanssa yhdyskunnasta. Kuulostaa hyvältä paikalta...</PrisonerFriendlyChat.stages.0.description>
-    
-    <SocialTalk.stages.0.label>sosiaalinen keskustelu</SocialTalk.stages.0.label>
-    <SocialTalk.stages.0.description>Keskustelin hyvän tyypin kanssa.</SocialTalk.stages.0.description>
-    
-    <AbrasiveTalk.stages.0.label>epämiellyttävä keskustelu</AbrasiveTalk.stages.0.label>
-    <AbrasiveTalk.stages.0.description>Joku oli töykeä minua kohtaan.</AbrasiveTalk.stages.0.description>
-    
     <GreenThumbHappy.stages.0.label>kylvi kasvin</GreenThumbHappy.stages.0.label>
     <GreenThumbHappy.stages.0.description>Maailma tarvitsee enemmän kasveja!</GreenThumbHappy.stages.0.description>
     
@@ -120,7 +78,46 @@
     <Nuzzled.stages.0.label>kiehnätty</Nuzzled.stages.0.label>
     <Nuzzled.stages.0.description>Söpö eläin kiehnäsi minua.</Nuzzled.stages.0.description>
     
-    <SomeoneBuriedInSarcophagus.stages.0.label>haudattu sarkofagiin</SomeoneBuriedInSarcophagus.stages.0.label>
-    <SomeoneBuriedInSarcophagus.stages.0.description>Tämä yhdyskunta hautasi jonkun koristeelliseen sarkofagiin. Levätköön hänen sielunsa rauhassa.</SomeoneBuriedInSarcophagus.stages.0.description>
+    <KnowBuriedInSarcophagus.stages.0.label>buried in sarcophagus</KnowBuriedInSarcophagus.stages.0.label>
+    <KnowBuriedInSarcophagus.stages.0.description>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</KnowBuriedInSarcophagus.stages.0.description>
+    
+    <AteHumanlikeMeatDirect.stages.0.label>raakaa kannibalismia</AteHumanlikeMeatDirect.stages.0.label>
+    <AteHumanlikeMeatDirect.stages.0.description>Söin toisen ihmisen lihaa raakana kuin eläin. Tämä on painajaista.</AteHumanlikeMeatDirect.stages.0.description>
+    
+    <AteHumanlikeMeatAsIngredient.stages.0.label>keitettyä kannibalismia</AteHumanlikeMeatAsIngredient.stages.0.label>
+    <AteHumanlikeMeatAsIngredient.stages.0.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Tämä on hirvittävää.</AteHumanlikeMeatAsIngredient.stages.0.description>
+    
+    <AteHumanlikeMeatDirectCannibal.stages.0.label>raakaa kannibalismia</AteHumanlikeMeatDirectCannibal.stages.0.label>
+    <AteHumanlikeMeatDirectCannibal.stages.0.description>Söin toisen ihmisen lihaa raakana kuin eläin. Se oli niin... mehukasta.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+    
+    <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>keitettyä kannibalismia</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+    <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Söin aterian, joka oli tehty toisen ihmisen lihasta. Niin miellyttävää. Jos minulla olisi vain härkäpapuja ja Chianti-viiniä.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+    
+    <ButcheredHumanlikeCorpse.stages.0.label>teurasti ihmisen</ButcheredHumanlikeCorpse.stages.0.label>
+    <ButcheredHumanlikeCorpse.stages.0.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanlikeCorpse.stages.0.description>
+    
+    <KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
+    <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
+    
+    <ObservedLayingCorpse.stages.0.label>havaitsi ruumiin</ObservedLayingCorpse.stages.0.label>
+    <ObservedLayingCorpse.stages.0.description>Näin kuolleen ihmisen makaavan maassa.</ObservedLayingCorpse.stages.0.description>
+    
+    <ObservedLayingRottingCorpse.stages.0.label>havaitsi mädäntyvän ruumiin</ObservedLayingRottingCorpse.stages.0.label>
+    <ObservedLayingRottingCorpse.stages.0.description>Näin mädäntyvän ruumiin makaavan maassa. Se oli vastenmielistä.</ObservedLayingRottingCorpse.stages.0.description>
+    
+    <WitnessedDeathAlly.stages.0.label>koki liittolaisen kuoleman</WitnessedDeathAlly.stages.0.label>
+    <WitnessedDeathAlly.stages.0.description>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathAlly.stages.0.description>
+    
+    <WitnessedDeathStranger.stages.0.label>koki vieraan kuoleman</WitnessedDeathStranger.stages.0.label>
+    <WitnessedDeathStranger.stages.0.description>Näin jonkun kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathStranger.stages.0.description>
+    
+    <WitnessedDeathStrangerBloodlust.stages.0.label>koki vieraan kuoleman</WitnessedDeathStrangerBloodlust.stages.0.label>
+    <WitnessedDeathStrangerBloodlust.stages.0.description>Näin jonkun kuolevan! Se oli nastaa!</WitnessedDeathStrangerBloodlust.stages.0.description>
+    
+    <KilledHumanlikeBloodlust.stages.0.label>tappoi jonkun</KilledHumanlikeBloodlust.stages.0.label>
+    <KilledHumanlikeBloodlust.stages.0.description>Tapoin jonkun! Olipa kiihottavaa!</KilledHumanlikeBloodlust.stages.0.description>
+    
+    <BattleWounded.stages.0.label>haavoittunut</BattleWounded.stages.0.label>
+    <BattleWounded.stages.0.description>Tuo on minun vertani! Olen haavoittunut taistelussa!</BattleWounded.stages.0.description>
     
 </LanguageData>

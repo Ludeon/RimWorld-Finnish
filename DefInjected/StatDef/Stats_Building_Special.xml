@@ -15,6 +15,7 @@
     
     <ResearchSpeedFactor.label>tutkimisnopeuden kerroin</ResearchSpeedFactor.label>
     <ResearchSpeedFactor.description>Nopeus, jolla tutkimusta tehdään, kerrotaan tällä arvolla.</ResearchSpeedFactor.description>
+    <ResearchSpeedFactor.parts.0.customLabel>Room cleanliness</ResearchSpeedFactor.parts.0.customLabel>
     
     <MedicalTreatmentQualityFactor.label>lääkinnän laatukerroin</MedicalTreatmentQualityFactor.label>
     <MedicalTreatmentQualityFactor.description>Lääkehoidon laatu kerrotaan tällä arvolla.</MedicalTreatmentQualityFactor.description>
@@ -24,5 +25,8 @@
     
     <WorkTableWorkSpeedFactor.label>työskentelynopeuden kerroin</WorkTableWorkSpeedFactor.label>
     <WorkTableWorkSpeedFactor.description>Työskentelynopeus kerrotaan tällä arvolla.</WorkTableWorkSpeedFactor.description>
+    
+    <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
+    <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
     
 </LanguageData>

@@ -28,11 +28,15 @@
     
     <Wear.reportString>Pukee päälle vaatteen TargetA.</Wear.reportString>
     
+    <RemoveApparel.reportString>Removing TargetA.</RemoveApparel.reportString>
+    
     <Strip.reportString>Riisuu vaatteen TargetA.</Strip.reportString>
     
     <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
     
     <RearmTrap.reportString>Virittää ansan TargetA.</RearmTrap.reportString>
+    
+    <Refuel.reportString>Refueling TargetA.</Refuel.reportString>
     
     <ManTurret.reportString>Käyttää konetta.</ManTurret.reportString>
     
@@ -42,11 +46,17 @@
     
     <UseArtifact.reportString>Aktivoi artefaktia.</UseArtifact.reportString>
     
+    <TriggerFirefoamPopper.reportString>Triggering firefoam popper.</TriggerFirefoamPopper.reportString>
+    
     <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
     
     <Vomit.reportString>Oksentaa.</Vomit.reportString>
     
     <Flick.reportString>Kääntää kytkintä.</Flick.reportString>
+    
+    <TradeWithPawn.reportString>Trading with TargetA.</TradeWithPawn.reportString>
+    
+    <FleeAndCower.reportString>Fleeing.</FleeAndCower.reportString>
     
     <Ignite.reportString>Sytyttää kohdetta TargetA.</Ignite.reportString>
     
@@ -57,5 +67,7 @@
     <Ingest.reportString>Syö ruuan TargetA.</Ingest.reportString>
     
     <LayDown.reportString>Makaa.</LayDown.reportString>
+    
+    <Lovin.reportString>Lovin'.</Lovin.reportString>
     
 </LanguageData>

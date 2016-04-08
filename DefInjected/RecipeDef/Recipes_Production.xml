@@ -17,4 +17,8 @@
     <MakeArtilleryShell.description>Valmistaa kranaatin tykeille.</MakeArtilleryShell.description>
     <MakeArtilleryShell.jobString>Tekee tykin kranaattia.</MakeArtilleryShell.jobString>
     
+    <MakeComponent.label>make component</MakeComponent.label>
+    <MakeComponent.description>Make a component.</MakeComponent.description>
+    <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+    
 </LanguageData>

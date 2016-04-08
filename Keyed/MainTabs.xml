@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <ManualPriorities>Säädä tärkeyksiä</ManualPriorities>
+  <HigherPriority>Tärkeämpi</HigherPriority>
+  <LowerPriority>Vähemmän tärkeä</LowerPriority>
+  <RelevantSkills>Tähän kuuluva taito: {0}\nTähän kuuluvien taitojen keskiarvo: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klikkaa siirtyäksesi:</ClickToJumpTo>
+  <CannotDoThisWork>{0} ei voi tehdä tätä työtä.</CannotDoThisWork>
+  <NoneBrackets>(ei mitään)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  
+  
+  <CurrentOutfit>Nykyinen vaatekerta</CurrentOutfit>
+  <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
+  <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
+  <ApparelForcedLower>pakotettu</ApparelForcedLower>
+  <ForcedApparel>Pakotettu vaate</ForcedApparel>
+  <OutfitEdit>Muokkaa...</OutfitEdit>
+  
+  
+  <Copy>Kopioi</Copy>
+  <Paste>Liitä</Paste>
+  <AllowedArea>Sallittu alue</AllowedArea>
+  
+  
+  <Master>Isäntä</Master>
+  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  
+  
+  <Hostile>Vihamielinen</Hostile>
+  <HostileTo>Ryhmän {0} vihollinen</HostileTo>
+  <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
+  
+  
+  <Playtime>Pelattu aika</Playtime>
+  <Storyteller>Tarinankertoja</Storyteller>
+  <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
+  <ColonyWealthItems>Yhdyskunnan varallisuus (esineistä)</ColonyWealthItems>
+  <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennuksista)</ColonyWealthBuildings>
+  <NumThreatBigs>Merkkittäviä uhkia</NumThreatBigs>
+  <NumEnemyRaids>Vihollisten tekemiä hyökkäyksiä</NumEnemyRaids>
+  <DamageTaken>Otettu vahinko</DamageTaken>
+  <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
+  <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
+
+  
+  <SelectGraph>Valitse kaavio</SelectGraph>
+  <Last30Days>Viimeiset 30 päivää</Last30Days>
+  <Last100Days>Viimeiset 100 päivää</Last100Days>
+  <Last300Days>Viimeiset 300 päivää</Last300Days>
+  <AllDays>Kaikki</AllDays>
+  <Day>Päivä</Day>
+  <Value>Arvo</Value>
+  <External>Ulkoinen</External>
+  
+</LanguageData>
