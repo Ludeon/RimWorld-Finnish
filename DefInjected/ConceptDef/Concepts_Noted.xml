@@ -8,7 +8,7 @@
     <Capturing.helpTexts.0>Vihollinen on liikuntakyvytön. Voit kaapata hänet!</Capturing.helpTexts.0>
     <Capturing.helpTexts.1>Jotta voit kaapata, valitse yhdyskuntalainen, paina liikuntakyvyttöntä vihollista hiiren oikealla näppäimellä ja valitse Kaappaa.\n\nTarvitsen ylimääräisen sängyn joka on merkitty vankien käyttöön.</Capturing.helpTexts.1>
     
-    <InteractingWithTraders.helpTexts.0>You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head.</InteractingWithTraders.helpTexts.0>
+    <InteractingWithTraders.helpTexts.0>Voit keskustella henkilöiden kanssa joilla on ? pään päällä.\n\nValitse yhdyskuntalainen ja paina hiiren oikeaa nappia hahmoa jolla on ? yläpuolellaan.</InteractingWithTraders.helpTexts.0>
     
     <Drafting.helpTexts.0>Ohjataksesi yhdyskuntalaista suoraan taistelussa Värvää heidät valitsemalla heidät ja painamalla VÄRVÄÄ-nappia.</Drafting.helpTexts.0>
     <Drafting.helpTexts.1>Värvätty yhdyskuntalainen tekee vain sen minkä käsket ja noudattaa vain taistelukäskyjä. Aseistetut yhdyskuntalaiset käyttävät niitä kun mahdollista.\n\nÄlä jätä yhdyskuntalaisia Värvätyiksi ikuisesti - he nääntyvät nälkään ja tulevat suruullisiksi.</Drafting.helpTexts.1>
@@ -17,7 +17,7 @@
     
     <BillsTab.helpTexts.0>Saadaksesi yhdyskuntalaisen työskentelemään pöydän ääressä valitse pöytä ja avaa Tilaukset-välilehti. Sielllä voit määrätä mitä aterioita valmistetaan, mitä käsitöitä tehdään ja mitä eläimiä teurastetaan.</BillsTab.helpTexts.0>
     
-    <TVForSickPeople.helpTexts.0>To entertain sick people in bed, set up a TV they can watch.</TVForSickPeople.helpTexts.0>
+    <TVForSickPeople.helpTexts.0>Laita sairaille ihmisille TV jota he voivat katsoa viihdyttääksesi heitä sängyssä.</TVForSickPeople.helpTexts.0>
     
     <AnimalTraining.helpTexts.0>Voit määrätä kesyn eläimen koulutettavaksi teittyihin tehtäviin sen KOULUTTAMINEN-välilehdessä.\n\nEläimiä ei voi kouluttaa jatkuvasti; ne tarvitsevat aikaa koulutussessioiden välissä.</AnimalTraining.helpTexts.0>
     
@@ -25,7 +25,7 @@
     
     <Mining.helpTexts.0>Voit määrittää louhintapaikan avaamalla ARKKITEHTI-valikon ja valitsemalla MÄÄRÄYKSET-välilehden.\n\nJoistan louhittavista kivistä tulee TERÄSTÄ, KULTAA, MUOVITERÄSTÄ ja muita hyödyllisiä materiaaleja.</Mining.helpTexts.0>
     
-    <HostilityResponse.helpTexts.0>You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu.</HostilityResponse.helpTexts.0>
+    <HostilityResponse.helpTexts.0>Voit määrittää miten yhdyskuntalaisten tulisi automaattisesti vastata uhkiin, kuten metsästäviin eläimiin.\n\nValitse PAKENE, HYÖKKÄÄ tai ÄLÄ VÄLITÄ -tilojen välillä MÄÄRÄYKSET-valikossa.</HostilityResponse.helpTexts.0>
     
     <OpeningComms.helpTexts.0>Kommunikoidaksesi valitse työkelpoinen yhdyskuntalainen ja paina konsolia hiiren oikealla näppäimellä.</OpeningComms.helpTexts.0>
     
@@ -33,6 +33,6 @@
     
     <InspectRoomStats.helpTexts.0>Voit tarkistaa yksittäisten huoneiden vaikuttavuuden, vaurauden ja kauneuden laittamalla ruudun oikeassa alalaidassa olevan HUONEIDEN TILASTOJEN TARKISTAMINEN -valinnan päälle.</InspectRoomStats.helpTexts.0>
     
-    <ClickingMessages.helpTexts.0>You can click on the notifications in the top-left of the screen to instantly center the camera on their subject.</ClickingMessages.helpTexts.0>
+    <ClickingMessages.helpTexts.0>Voit klikata ruudun vasemmassa ylälaidassa keskittääksesi kuvan välittömästi niiden kohteeseen.</ClickingMessages.helpTexts.0>
     
 </LanguageData>

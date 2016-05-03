@@ -13,7 +13,7 @@
     <Pig_Leather.label>sian nahkaa</Pig_Leather.label>
     <Pig_Leather.description>Sian vuodasta tehtyä nahkaa.</Pig_Leather.description>
     <Pig_Leather.stuffProps.stuffAdjective>pig leathery</Pig_Leather.stuffProps.stuffAdjective>
-    <Pig_Meat.label>sian lihaa</Pig_Meat.label>
+    <Pig_Meat.label>sianlihaa</Pig_Meat.label>
     <Pig_Meat.description>Raakaa sian lihaa.</Pig_Meat.description>
     <Pig_Corpse.label>sian ruumis</Pig_Corpse.label>
     <Pig_Corpse.description>Kuolleen sian ruumis.</Pig_Corpse.description>
@@ -23,7 +23,7 @@
     <Cow_Leather.label>lehmän nahkaa</Cow_Leather.label>
     <Cow_Leather.description>Lehmän vuodasta tehtyä nahkaa.</Cow_Leather.description>
     <Cow_Leather.stuffProps.stuffAdjective>cow leathery</Cow_Leather.stuffProps.stuffAdjective>
-    <Cow_Meat.label>lehmän lihaa</Cow_Meat.label>
+    <Cow_Meat.label>naudanlihaa</Cow_Meat.label>
     <Cow_Meat.description>Raakaa lehmän lihaa.</Cow_Meat.description>
     <Cow_Corpse.label>lehmän corpse</Cow_Corpse.label>
     <Cow_Corpse.description>Kuolleen lehmän ruumis.</Cow_Corpse.description>

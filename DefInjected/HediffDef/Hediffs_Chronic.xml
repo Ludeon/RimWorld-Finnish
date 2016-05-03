@@ -7,35 +7,35 @@
     
     <Cataract.label>harmaakaihi</Cataract.label>
     
-    <HearingLoss.label>hearing loss</HearingLoss.label>
+    <HearingLoss.label>kuulovaurio</HearingLoss.label>
     
     <Dementia.label>dementia</Dementia.label>
     
-    <Alzheimers.label>alzheimer's</Alzheimers.label>
-    <Alzheimers.stages.0.label>minor</Alzheimers.stages.0.label>
-    <Alzheimers.stages.1.label>minor</Alzheimers.stages.1.label>
-    <Alzheimers.stages.2.label>major</Alzheimers.stages.2.label>
-    <Alzheimers.stages.3.label>major</Alzheimers.stages.3.label>
+    <Alzheimers.label>alzheimerin tauti</Alzheimers.label>
+    <Alzheimers.stages.0.label>lievä</Alzheimers.stages.0.label>
+    <Alzheimers.stages.1.label>lievä</Alzheimers.stages.1.label>
+    <Alzheimers.stages.2.label>vakava</Alzheimers.stages.2.label>
+    <Alzheimers.stages.3.label>vakava</Alzheimers.stages.3.label>
     
-    <Asthma.label>asthma</Asthma.label>
-    <Asthma.stages.0.label>minor</Asthma.stages.0.label>
-    <Asthma.stages.1.label>major</Asthma.stages.1.label>
-    <Asthma.stages.2.label>major</Asthma.stages.2.label>
+    <Asthma.label>astma</Asthma.label>
+    <Asthma.stages.0.label>lievä</Asthma.stages.0.label>
+    <Asthma.stages.1.label>vakava</Asthma.stages.1.label>
+    <Asthma.stages.2.label>vakava</Asthma.stages.2.label>
     
-    <HeartArteryBlockage.label>artery blockage</HeartArteryBlockage.label>
-    <HeartArteryBlockage.stages.0.label>minor</HeartArteryBlockage.stages.0.label>
-    <HeartArteryBlockage.stages.1.label>minor</HeartArteryBlockage.stages.1.label>
-    <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>
-    <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>
-    <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>
-    <HeartArteryBlockage.stages.5.label>extreme</HeartArteryBlockage.stages.5.label>
+    <HeartArteryBlockage.label>valtimon tukkeuma</HeartArteryBlockage.label>
+    <HeartArteryBlockage.stages.0.label>lievä</HeartArteryBlockage.stages.0.label>
+    <HeartArteryBlockage.stages.1.label>lievä</HeartArteryBlockage.stages.1.label>
+    <HeartArteryBlockage.stages.2.label>vakava</HeartArteryBlockage.stages.2.label>
+    <HeartArteryBlockage.stages.3.label>vakava</HeartArteryBlockage.stages.3.label>
+    <HeartArteryBlockage.stages.4.label>äärimmäinen</HeartArteryBlockage.stages.4.label>
+    <HeartArteryBlockage.stages.5.label>äärimmäinen</HeartArteryBlockage.stages.5.label>
     
-    <Carcinoma.label>carcinoma</Carcinoma.label>
-    <Carcinoma.stages.0.label>minor</Carcinoma.stages.0.label>
-    <Carcinoma.stages.1.label>minor</Carcinoma.stages.1.label>
-    <Carcinoma.stages.2.label>major</Carcinoma.stages.2.label>
-    <Carcinoma.stages.3.label>major</Carcinoma.stages.3.label>
-    <Carcinoma.stages.4.label>extreme</Carcinoma.stages.4.label>
-    <Carcinoma.stages.5.label>extreme</Carcinoma.stages.5.label>
+    <Carcinoma.label>syöpä</Carcinoma.label>
+    <Carcinoma.stages.0.label>lievä</Carcinoma.stages.0.label>
+    <Carcinoma.stages.1.label>lievä</Carcinoma.stages.1.label>
+    <Carcinoma.stages.2.label>vakava</Carcinoma.stages.2.label>
+    <Carcinoma.stages.3.label>vakava</Carcinoma.stages.3.label>
+    <Carcinoma.stages.4.label>äärimmäinen</Carcinoma.stages.4.label>
+    <Carcinoma.stages.5.label>äärimmäinen</Carcinoma.stages.5.label>
     
 </LanguageData>

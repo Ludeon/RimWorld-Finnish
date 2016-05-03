@@ -15,10 +15,10 @@
     <SpacerHostile.pawnsPlural>avaruusmatkaajia</SpacerHostile.pawnsPlural>
     <SpacerHostile.fixedName>Avaruusmatkaajia</SpacerHostile.fixedName>
     
-    <Insect.label>insects</Insect.label>
-    <Insect.description>Usually aggressive and intrusive insects.</Insect.description>
-    <Insect.pawnsPlural>insects</Insect.pawnsPlural>
-    <Insect.fixedName>insects</Insect.fixedName>
+    <Insect.label>hyönteisiä</Insect.label>
+    <Insect.description>Yleensä aggressiivisia ja tunkeilevia hyönteisiä.</Insect.description>
+    <Insect.pawnsPlural>hyönteisiä</Insect.pawnsPlural>
+    <Insect.fixedName>hyönteisiä</Insect.fixedName>
     
     <Outlander.label>vieras kylä</Outlander.label>
     <Outlander.description>Pieni selviytyjäyhteisö.\n\nNämä ihmiset ovat asuneet täällä vuosikymmeniä. Ne ovat menettäneet suurimman osan teknologiasta, joka toi heidät tänne, ja he käyttävät yleensä yksinkertaisia työkaluja ja rakenteita, ja puolustautuvat edistyneillä ruutiajan aseilla.\n\nHe eivät sinänsä ole vihamielisiä tai heikkoja, mutta he suhtautuvat vakavasti käytännönläheisiin asioihin, kuten vaihtokauppaan, luottamukseen ja selviytymiseen.</Outlander.description>

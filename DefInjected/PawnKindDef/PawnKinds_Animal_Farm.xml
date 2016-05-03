@@ -2,17 +2,17 @@
 <LanguageData>
     
     <Chicken.label>kana</Chicken.label>
-    <Chicken.labelMale>rooster</Chicken.labelMale>
-    <Chicken.labelFemale>hen</Chicken.labelFemale>
+    <Chicken.labelMale>kukko</Chicken.labelMale>
+    <Chicken.labelFemale>kana</Chicken.labelFemale>
     <Chicken.lifeStages.0.label>tipu</Chicken.lifeStages.0.label>
     
     <Pig.label>sika</Pig.label>
-    <Pig.labelFemale>sow</Pig.labelFemale>
+    <Pig.labelFemale>emakko</Pig.labelFemale>
     <Pig.lifeStages.0.label>porsas</Pig.lifeStages.0.label>
     
     <Cow.label>lehmä</Cow.label>
-    <Cow.labelMale>bull</Cow.labelMale>
-    <Cow.labelFemale>cow</Cow.labelFemale>
+    <Cow.labelMale>sonni</Cow.labelMale>
+    <Cow.labelFemale>lehmä</Cow.labelFemale>
     <Cow.lifeStages.0.label>vasikka</Cow.lifeStages.0.label>
     
     <Alpaca.label>alpakka</Alpaca.label>

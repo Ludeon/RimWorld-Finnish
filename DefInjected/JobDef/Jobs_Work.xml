@@ -59,7 +59,7 @@
     
     <Repair.reportString>Korjaa kohteen TargetA.</Repair.reportString>
     
-    <FixBrokenDownBuilding.reportString>Replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
+    <FixBrokenDownBuilding.reportString>Vaihtaa rikkinäisiä komponentteja kohteessa TargetA.</FixBrokenDownBuilding.reportString>
     
     <FinishFrame.reportString>Rakentaa kohteen TargetA.</FinishFrame.reportString>
     

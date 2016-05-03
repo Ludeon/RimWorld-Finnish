@@ -31,7 +31,7 @@
     <Flicker.gerundLabel>Kytkimien käyttö</Flicker.gerundLabel>
     <Flicker.verb>Napsauta</Flicker.verb>
     
-    <Warden.labelShort>Vanginvartija</Warden.labelShort>
+    <Warden.labelShort>Vartioi</Warden.labelShort>
     <Warden.description>Vanginvartijat vierailevat vankien luona värväämässä heitä, keskustelemassa heidän kanssaan, hakkaamassa heitä tai teloittamassa heitä - mitä vain oletkin päättänyt. Vanginvartijat vievät lisäksi vangeille ruokaa.</Warden.description>
     <Warden.pawnLabel>Vanginvartija</Warden.pawnLabel>
     <Warden.gerundLabel>Vanginvartiointi</Warden.gerundLabel>
@@ -79,7 +79,7 @@
     <Mining.gerundLabel>Louhiminen</Mining.gerundLabel>
     <Mining.verb>Louhi</Mining.verb>
     
-    <PlantCutting.labelShort>Leikkaa kasveja</PlantCutting.labelShort>
+    <PlantCutting.labelShort>Leikkaa</PlantCutting.labelShort>
     <PlantCutting.description>Kasvinleikkaajat poistavat ja korjaavat sadon villeiltä kasveilta, jotka olet määrittänyt.</PlantCutting.description>
     <PlantCutting.pawnLabel>Kasvinleikkaaja</PlantCutting.pawnLabel>
     <PlantCutting.gerundLabel>Kasvienleikkuu</PlantCutting.gerundLabel>

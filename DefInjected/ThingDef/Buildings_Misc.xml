@@ -19,8 +19,8 @@
     <ToolCabinet.label>työkalukaappi</ToolCabinet.label>
     <ToolCabinet.description>Lisää työskentelynopeutta. Täytyy rakentaa lähelle työpöytää. Yksi työpöytä voi olla yhdistettynä vain yhteen työkalukaappiin.</ToolCabinet.description>
     
-    <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
-    <FirefoamPopper.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper.description>
+    <FirefoamPopper.label>palovaahtopaukku</FirefoamPopper.label>
+    <FirefoamPopper.description>Kun tuli koskee tähän tai tämä aktivoidaan manuaalisesti, tämä paukahtaa ja suihkuttaa paloa sammuttavaa vaahtoa pyöreälle alueelle ympäristöönsä.</FirefoamPopper.description>
     
     <Grave.label>hauta</Grave.label>
     <Grave.description>Aseta kuolleet hautoihin antaaksesi heille arvollisen viimeisen leposijan.</Grave.description>

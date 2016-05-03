@@ -33,9 +33,9 @@
     
     <Crack.label>murtuma</Crack.label>
     <Crack.comps.0.labelTendedWell>healed</Crack.comps.0.labelTendedWell>
-    <Crack.comps.0.labelTended>huonosti healed</Crack.comps.0.labelTended>
-    <Crack.comps.0.labelTendedWellInner>healed</Crack.comps.0.labelTendedWellInner>
-    <Crack.comps.0.labelTendedInner>huonosti healed</Crack.comps.0.labelTendedInner>
+    <Crack.comps.0.labelTended>huonosti parannettu</Crack.comps.0.labelTended>
+    <Crack.comps.0.labelTendedWellInner>parannettu</Crack.comps.0.labelTendedWellInner>
+    <Crack.comps.0.labelTendedInner>huonosti parannettu</Crack.comps.0.labelTendedInner>
     <Crack.comps.0.labelSolidTendedWell>asetettu</Crack.comps.0.labelSolidTendedWell>
     <Crack.comps.0.labelSolidTended>huonosti asetettu</Crack.comps.0.labelSolidTended>
     <Crack.injuryProps.destroyedLabel>Pirstaloitunut</Crack.injuryProps.destroyedLabel>

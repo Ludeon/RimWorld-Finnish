@@ -5,20 +5,20 @@
     <Hare.description>Tämä pieni yksin liikkuva kasvinsyöjä pystyy loikkimaan nopeasti pois vaaran tieltä.</Hare.description>
     <Hare_Leather.label>jäniksen nahkaa</Hare_Leather.label>
     <Hare_Leather.description>Jäniksen vuodasta tehtyä nahkaa.</Hare_Leather.description>
-    <Hare_Leather.stuffProps.stuffAdjective>hare leathery</Hare_Leather.stuffProps.stuffAdjective>
+    <Hare_Leather.stuffProps.stuffAdjective>jäniksennahkainen</Hare_Leather.stuffProps.stuffAdjective>
     <Hare_Meat.label>jäniksen lihaa</Hare_Meat.label>
     <Hare_Meat.description>Raakaa jäniksen lihaa.</Hare_Meat.description>
     <Hare_Corpse.label>jäniksen ruumis</Hare_Corpse.label>
     <Hare_Corpse.description>Kuolleen jäniksen ruumis.</Hare_Corpse.description>
     
-    <Snowhare.label>snowhare</Snowhare.label>
-    <Snowhare.description>This hardy, animal survives the brutal winters of the north by burrowing through snow and finding prey underneath, or hibernating the worst months away.</Snowhare.description>
-    <Snowhare_Leather.label>snowhare leather</Snowhare_Leather.label>
-    <Snowhare_Leather.description>Leather made from the skin of a snowhare.</Snowhare_Leather.description>
-    <Snowhare_Leather.stuffProps.stuffAdjective>snowhare leather</Snowhare_Leather.stuffProps.stuffAdjective>
-    <Snowhare_Meat.label>snowhare meat</Snowhare_Meat.label>
-    <Snowhare_Meat.description>Raw flesh of a snowhare.</Snowhare_Meat.description>
-    <Snowhare_Corpse.label>snowhare corpse</Snowhare_Corpse.label>
-    <Snowhare_Corpse.description>Dead body of a snowhare.</Snowhare_Corpse.description>
+    <Snowhare.label>lumijänis</Snowhare.label>
+    <Snowhare.description>Tämä sitkeä eläin selviää pohjoisen julmista talvista kaivautumalla lumen läpi pinnan alta saalista etsien tai horrostamalla pahimpien kuukausien yli.</Snowhare.description>
+    <Snowhare_Leather.label>lumijäniksen nahkaa</Snowhare_Leather.label>
+    <Snowhare_Leather.description>Lumijäniksen vuodasta tehtyä nahkaa.</Snowhare_Leather.description>
+    <Snowhare_Leather.stuffProps.stuffAdjective>lumijäniksennahkainen</Snowhare_Leather.stuffProps.stuffAdjective>
+    <Snowhare_Meat.label>lumijäniksen lihaa</Snowhare_Meat.label>
+    <Snowhare_Meat.description>Raakaa lumijäniksen lihaa.</Snowhare_Meat.description>
+    <Snowhare_Corpse.label>lumijäniksen ruumis</Snowhare_Corpse.label>
+    <Snowhare_Corpse.description>Kuolleen lumijäniksen ruumis.</Snowhare_Corpse.description>
     
 </LanguageData>

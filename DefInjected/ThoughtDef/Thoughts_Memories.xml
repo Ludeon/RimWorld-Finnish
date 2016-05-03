@@ -20,7 +20,7 @@
     <AteLavishMeal.stages.0.description>Tuo yltäkylläinen ateria oli mahtava. Se ravitsi minun ruumiini ja sieluni.</AteLavishMeal.stages.0.description>
     
     <AteWithoutTable.stages.0.label>söi maasta </AteWithoutTable.stages.0.label>
-    <AteWithoutTable.stages.0.description>Minun täyty syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.stages.0.description>
+    <AteWithoutTable.stages.0.description>Minun täytyi syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.stages.0.description>
     
     <NewColonyOptimism.stages.0.label>uuden yhdyskunnan optimismia</NewColonyOptimism.stages.0.label>
     <NewColonyOptimism.stages.0.description>Laskeuduimme juuri tänne. Tämä on ankara tilanne, mutta olen innoissani uuden yhdyskunnan perustamisesta.</NewColonyOptimism.stages.0.description>
@@ -29,7 +29,7 @@
     <NewColonyHope.stages.0.description>Alan tottua tähän, mutta tämä on silti innostava uusi tilanne. Toivottavasti kaikki sujuu...</NewColonyHope.stages.0.description>
     
     <SleptOutside.stages.0.label>nukkui ulkona</SleptOutside.stages.0.label>
-    <SleptOutside.stages.0.description>Minun täyty nukkua ulkona ilman mitään suojaa säältä.</SleptOutside.stages.0.description>
+    <SleptOutside.stages.0.description>Minun täytyi nukkua ulkona ilman mitään suojaa säältä.</SleptOutside.stages.0.description>
     
     <SleptOnGround.stages.0.label>nukkui maassa</SleptOnGround.stages.0.label>
     <SleptOnGround.stages.0.description>Minun täytyi nukkua maassa kuin eläin.</SleptOnGround.stages.0.description>
