@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <AccuracyTouch.label>Osumatarkkuus (kosketuksissa)</AccuracyTouch.label>
-    <AccuracyTouch.description>Osumatarkkuuden kerroin kosketusetäisyydellä.</AccuracyTouch.description>
-    
-    <AccuracyShort.label>Osumatarkkuus (lyhyt)</AccuracyShort.label>
-    <AccuracyShort.description>Osumatarkkuuden kerroin lyhyellä etäisyydellä.</AccuracyShort.description>
-    
-    <AccuracyMedium.label>Osumatarkkuus (keskipitkällä)</AccuracyMedium.label>
-    <AccuracyMedium.description>Osumatarkkuuden kerroin keskipitkällä etäisyydellä.</AccuracyMedium.description>
-    
-    <AccuracyLong.label>Osumatarkkuus (pitkällä)</AccuracyLong.label>
-    <AccuracyLong.description>Osumatarkkuuden kerroin pitkällä etäisyydellä.</AccuracyLong.description>
-    
-    <RangedWeapon_Cooldown.label>ampumisen jäähtymisaika</RangedWeapon_Cooldown.label>
-    <RangedWeapon_Cooldown.description>Miten kauan palautumiseen menee tällä aseella ampumisen jälkeen.</RangedWeapon_Cooldown.description>
-    
+
+  <AccuracyTouch.label>Osumatarkkuus (kosketuksissa)</AccuracyTouch.label>
+  <AccuracyTouch.description>Osumatarkkuuden kerroin kosketusetäisyydellä.</AccuracyTouch.description>
+
+  <AccuracyShort.label>Osumatarkkuus (lyhyt)</AccuracyShort.label>
+  <AccuracyShort.description>Osumatarkkuuden kerroin lyhyellä etäisyydellä.</AccuracyShort.description>
+
+  <AccuracyMedium.label>Osumatarkkuus (keskipitkällä)</AccuracyMedium.label>
+  <AccuracyMedium.description>Osumatarkkuuden kerroin keskipitkällä etäisyydellä.</AccuracyMedium.description>
+
+  <AccuracyLong.label>Osumatarkkuus (pitkällä)</AccuracyLong.label>
+  <AccuracyLong.description>Osumatarkkuuden kerroin pitkällä etäisyydellä.</AccuracyLong.description>
+
+  <RangedWeapon_Cooldown.label>ampumisen jäähtymisaika</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>Miten kauan palautumiseen menee tällä aseella ampumisen jälkeen.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
+
+
 </LanguageData>

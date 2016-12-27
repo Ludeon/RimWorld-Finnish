@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <PsychicInsanityLance.label>psyykkinen hulluussauva</PsychicInsanityLance.label>
-    <PsychicInsanityLance.description>Kertakäyttöinen artefakti joka saa kenet tahansa raivopäiseksi miltä etäisyydeltä tahansa - jopa seinien läpi.</PsychicInsanityLance.description>
-    
-    <PsychicShockLance.label>psyykkinen shokkisauva</PsychicShockLance.label>
-    <PsychicShockLance.description>Kertakäyttöinen artefakti joka ohjaa psyykkistä häirintää kohdehahmoon, joka joutuu psyykkisen shokin valtaan joksikin aikaa. Suuri aivovaurion vaara.</PsychicShockLance.description>
-    
-    <PsychicAnimalPulser.label>psyykkinen eläinsäteilijä</PsychicAnimalPulser.label>
-    <PsychicAnimalPulser.description>Kertakäyttöinen artefakti joka saa kaikki alueen eläimet jahtaamaan ihmisiä.</PsychicAnimalPulser.description>
-    
-    <PsychicSoothePulser.label>psyykkinen rauhoitussäteilijä</PsychicSoothePulser.label>
-    <PsychicSoothePulser.description>Kertakäyttöinen artefakti joka parantaa väliaikaisesti kaikkien alueen ihmisien mielialaa.</PsychicSoothePulser.description>
-    
+
+  <PsychicInsanityLance.label>psyykkinen hulluussauva</PsychicInsanityLance.label>
+  <PsychicInsanityLance.description>Kertakäyttöinen artefakti joka saa kenet tahansa raivopäiseksi miltä etäisyydeltä tahansa - jopa seinien läpi.</PsychicInsanityLance.description>
+  <PsychicInsanityLance.comps.1.useLabel>Activate</PsychicInsanityLance.comps.1.useLabel>
+
+  <PsychicShockLance.label>psyykkinen shokkisauva</PsychicShockLance.label>
+  <PsychicShockLance.description>Kertakäyttöinen artefakti joka ohjaa psyykkistä häirintää kohdehahmoon, joka joutuu psyykkisen shokin valtaan joksikin aikaa. Suuri aivovaurion vaara.</PsychicShockLance.description>
+  <PsychicShockLance.comps.1.useLabel>Activate</PsychicShockLance.comps.1.useLabel>
+
+  <PsychicAnimalPulser.label>psyykkinen eläinsäteilijä</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.description>Kertakäyttöinen artefakti joka saa kaikki alueen eläimet jahtaamaan ihmisiä.</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.comps.1.useLabel>Activate</PsychicAnimalPulser.comps.1.useLabel>
+
+  <PsychicSoothePulser.label>psyykkinen rauhoitussäteilijä</PsychicSoothePulser.label>
+  <PsychicSoothePulser.description>Kertakäyttöinen artefakti joka parantaa väliaikaisesti kaikkien alueen ihmisien mielialaa.</PsychicSoothePulser.description>
+  <PsychicSoothePulser.comps.1.useLabel>Activate</PsychicSoothePulser.comps.1.useLabel>
+
+
 </LanguageData>

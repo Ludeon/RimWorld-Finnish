@@ -1,43 +1,69 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <SunLamp.label>kirkasvalolamppu</SunLamp.label>
-    <SunLamp.description>Valaisee alueen niin kirkkaasti että viljelykasvit voivat kasvaa.</SunLamp.description>
-    
-    <OrbitalTradeBeacon.label>kiertoratavaihtokaupan majakka</OrbitalTradeBeacon.label>
-    <OrbitalTradeBeacon.description>Tarvitaan kiertoratavaihtokauppaan. Voit myydä vain tavaroita jotka ovat lähellä tällaista majakkaa. Voidaan asentaa sisätiloihin.</OrbitalTradeBeacon.description>
-    
-    <CommsConsole.label>kommunikaatiopääte</CommsConsole.label>
-    <CommsConsole.description>Kommunikoi kiertoradalla olevien kauppa-alusten ja muiden ryhmien kanssa.</CommsConsole.description>
-    
-    <MultiAnalyzer.label>monianalysaattori</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Kasvattaa tutkimisnopeutta. Täytyy rakentaa lähelle tutkimuspöytää. Yksi tutkimuspöytä voi olla yhdistettynä vain yhteen monianalysaattoriin.</MultiAnalyzer.description>
-    
-    <VitalsMonitor.label>terveydentilan näyttö</VitalsMonitor.label>
-    <VitalsMonitor.description>Parantaa potilaiden parantamisen laatua. Täytyy rakentaa lääkintävuoteen viereen. Yksi lääkintävuode voi olla yhdistettynä vain yhteen terveydentilan näyttöön.</VitalsMonitor.description>
-    
-    <ToolCabinet.label>työkalukaappi</ToolCabinet.label>
-    <ToolCabinet.description>Lisää työskentelynopeutta. Täytyy rakentaa lähelle työpöytää. Yksi työpöytä voi olla yhdistettynä vain yhteen työkalukaappiin.</ToolCabinet.description>
-    
-    <FirefoamPopper.label>palovaahtopaukku</FirefoamPopper.label>
-    <FirefoamPopper.description>Kun tuli koskee tähän tai tämä aktivoidaan manuaalisesti, tämä paukahtaa ja suihkuttaa paloa sammuttavaa vaahtoa pyöreälle alueelle ympäristöönsä.</FirefoamPopper.description>
-    
-    <Grave.label>hauta</Grave.label>
-    <Grave.description>Aseta kuolleet hautoihin antaaksesi heille arvollisen viimeisen leposijan.</Grave.description>
-    
-    <Sarcophagus.label>sarkofagi</Sarcophagus.label>
-    <Sarcophagus.description>Koristeellisesti kuvioitu hautausarkku kunnioitetuille kuolleille.</Sarcophagus.description>
-    
-    <CryptosleepCasket.label>salauniarkku</CryptosleepCasket.label>
-    <CryptosleepCasket.description>Itsetoiminen sarkofagi, joka on suunniteltu pitämään henkilö keskeytetyn elon tilassa monia vuosia.</CryptosleepCasket.description>
-    
-    <AncientCryptosleepCasket.label>muinainen salauniarkku</AncientCryptosleepCasket.label>
-    <AncientCryptosleepCasket.description>Tämä salauniarkku näyttää siltä kuin se olisi ollut täällä hyvin pitkän ajan. Mitäköhän sen sisällä mahtaa olla?</AncientCryptosleepCasket.description>
-    
-    <MarriageSpot.label>marriage spot</MarriageSpot.label>
-    <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
-    
-    <PartySpot.label>party spot</PartySpot.label>
-    <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
-    
+
+  <OrbitalTradeBeacon.label>kiertoratavaihtokaupan majakka</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>Tarvitaan kiertoratavaihtokauppaan. Voit myydä vain tavaroita jotka ovat lähellä tällaista majakkaa. Voidaan asentaa sisätiloihin.</OrbitalTradeBeacon.description>
+
+  <CommsConsole.label>kommunikaatiopääte</CommsConsole.label>
+  <CommsConsole.description>Kommunikoi kiertoradalla olevien kauppa-alusten ja muiden ryhmien kanssa.</CommsConsole.description>
+
+  <FirefoamPopper.label>palovaahtopaukku</FirefoamPopper.label>
+  <FirefoamPopper.description>Kun tuli koskee tähän tai tämä aktivoidaan manuaalisesti, tämä paukahtaa ja suihkuttaa paloa sammuttavaa vaahtoa pyöreälle alueelle ympäristöönsä.</FirefoamPopper.description>
+  <FirefoamPopper.comps.1.useLabel>Trigger firefoam popper</FirefoamPopper.comps.1.useLabel>
+
+  <MoisturePump.label>moisture pump</MoisturePump.label>
+  <MoisturePump.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</MoisturePump.description>
+
+  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner.description>
+
+
+  
+
+  <PodLauncher.label>pod launcher</PodLauncher.label>
+  <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+
+  <TransportPod.label>transport pod</TransportPod.label>
+  <TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod.description>
+
+
+  
+
+  <MultiAnalyzer.label>monianalysaattori</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Kasvattaa tutkimisnopeutta. Täytyy rakentaa lähelle tutkimuspöytää. Yksi tutkimuspöytä voi olla yhdistettynä vain yhteen monianalysaattoriin.</MultiAnalyzer.description>
+
+  <VitalsMonitor.label>terveydentilan näyttö</VitalsMonitor.label>
+  <VitalsMonitor.description>Parantaa potilaiden parantamisen laatua. Täytyy rakentaa lääkintävuoteen viereen. Yksi lääkintävuode voi olla yhdistettynä vain yhteen terveydentilan näyttöön.</VitalsMonitor.description>
+
+  <ToolCabinet.label>työkalukaappi</ToolCabinet.label>
+  <ToolCabinet.description>Lisää työskentelynopeutta. Täytyy rakentaa lähelle työpöytää. Yksi työpöytä voi olla yhdistettynä vain yhteen työkalukaappiin.</ToolCabinet.description>
+
+
+  
+
+  <Grave.label>hauta</Grave.label>
+  <Grave.description>Aseta kuolleet hautoihin antaaksesi heille arvollisen viimeisen leposijan.</Grave.description>
+
+  <Sarcophagus.label>sarkofagi</Sarcophagus.label>
+  <Sarcophagus.description>Koristeellisesti kuvioitu hautausarkku kunnioitetuille kuolleille.</Sarcophagus.description>
+
+
+  
+
+  <CryptosleepCasket.label>salauniarkku</CryptosleepCasket.label>
+  <CryptosleepCasket.description>Itsetoiminen sarkofagi, joka on suunniteltu pitämään henkilö keskeytetyn elon tilassa monia vuosia.</CryptosleepCasket.description>
+
+  <AncientCryptosleepCasket.label>muinainen salauniarkku</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.description>Tämä salauniarkku näyttää siltä kuin se olisi ollut täällä hyvin pitkän ajan. Mitäköhän sen sisällä mahtaa olla?</AncientCryptosleepCasket.description>
+
+
+  
+
+  <MarriageSpot.label>marriage spot</MarriageSpot.label>
+  <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+
+  <PartySpot.label>party spot</PartySpot.label>
+  <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
+
+
 </LanguageData>

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Joywire.label>iloimplantti</Joywire.label>
-    <Joywire.description>Tämä pieni aivoimplantti saa tuntemaan onnelliseksi ja rennoksi.</Joywire.description>
-    
-    <Painstopper.label>kivunestäjä</Painstopper.label>
-    <Painstopper.description>Tämä aivoimplantti estää kivuntunteen.</Painstopper.description>
-    
+
+  <Joywire.label>iloimplantti</Joywire.label>
+  <Joywire.description>Tämä pieni aivoimplantti saa tuntemaan onnelliseksi ja rennoksi.</Joywire.description>
+
+  <Painstopper.label>kivunestäjä</Painstopper.label>
+  <Painstopper.description>Tämä aivoimplantti estää kivuntunteen.</Painstopper.description>
+
+
 </LanguageData>

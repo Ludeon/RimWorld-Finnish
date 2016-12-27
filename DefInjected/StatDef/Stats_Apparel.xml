@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <ArmorRating_Blunt.label>Suoja - Tylppä</ArmorRating_Blunt.label>
-    <ArmorRating_Blunt.description>Todennäköisyys estää tylppää vahinkoa esimerkiksi nuijista, putoavista kivistä ja räjähdyksistä.</ArmorRating_Blunt.description>
-    
-    <ArmorRating_Sharp.label>Suoja - Läpäisy</ArmorRating_Sharp.label>
-    <ArmorRating_Sharp.description>Todennäköisyys estää läpäisevää vahinkoa esimerkiksi luodeista, veitsien pistoista ja eläinten puremista.</ArmorRating_Sharp.description>
-    
-    <ArmorRating_Heat.label>Suoja - Lämpö</ArmorRating_Heat.label>
-    <ArmorRating_Heat.description>Todennäkköisyys estää lämpötilaan liittyvää vahinkoa esimerkiksi palovammoista.</ArmorRating_Heat.description>
-    
-    <ArmorRating_Electric.label>Suoja - Sähköinen</ArmorRating_Electric.label>
-    <ArmorRating_Electric.description>Todennäköisyys estää sähkövahinkoa esimerkiksi sähkömagneettisista pulsseista (EMP).</ArmorRating_Electric.description>
-    
-    <Insulation_Cold.label>Eristys - Kylmä</Insulation_Cold.label>
-    <Insulation_Cold.description>Miten paljon tämä vaate muuttaa käyttäjänsä matalinta mukavaa lämpötilaa kun käytössä.</Insulation_Cold.description>
-    
-    <Insulation_Heat.label>Eristys - Lämpö</Insulation_Heat.label>
-    <Insulation_Heat.description>Miten paljon tämä vaate muuttaa käyttäjänsä korkeinta mukavaa lämpötilaa kun käytössä.</Insulation_Heat.description>
-    
-    <PersonalShieldEnergyMax.label>Suojakilven maksimienergia</PersonalShieldEnergyMax.label>
-    <PersonalShieldEnergyMax.description>Maksimienergia joka henkilökohtaisessa suojakilvessä voi olla kerralla. Enemmän energiaa voi imeä enemmän vahinkoa.</PersonalShieldEnergyMax.description>
-    
-    <PersonalShieldRechargeRate.label>Suojakilven latausnopeus</PersonalShieldRechargeRate.label>
-    <PersonalShieldRechargeRate.description>Nopeus jolla suojakilpi kerää energiaa kunhan se ei ole rikki.</PersonalShieldRechargeRate.description>
-    
+
+  <ArmorRating_Blunt.label>Suoja - Tylppä</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>Todennäköisyys estää tylppää vahinkoa esimerkiksi nuijista, putoavista kivistä ja räjähdyksistä.</ArmorRating_Blunt.description>
+
+  <ArmorRating_Sharp.label>Suoja - Läpäisy</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>Todennäköisyys estää läpäisevää vahinkoa esimerkiksi luodeista, veitsien pistoista ja eläinten puremista.</ArmorRating_Sharp.description>
+
+  <ArmorRating_Heat.label>Suoja - Lämpö</ArmorRating_Heat.label>
+  <ArmorRating_Heat.description>Todennäkköisyys estää lämpötilaan liittyvää vahinkoa esimerkiksi palovammoista.</ArmorRating_Heat.description>
+
+  <ArmorRating_Electric.label>Suoja - Sähköinen</ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>Todennäköisyys estää sähkövahinkoa esimerkiksi sähkömagneettisista pulsseista (EMP).</ArmorRating_Electric.description>
+
+  <Insulation_Cold.label>Eristys - Kylmä</Insulation_Cold.label>
+  <Insulation_Cold.description>Miten paljon tämä vaate muuttaa käyttäjänsä matalinta mukavaa lämpötilaa kun käytössä.</Insulation_Cold.description>
+
+  <Insulation_Heat.label>Eristys - Lämpö</Insulation_Heat.label>
+  <Insulation_Heat.description>Miten paljon tämä vaate muuttaa käyttäjänsä korkeinta mukavaa lämpötilaa kun käytössä.</Insulation_Heat.description>
+
+  <PersonalShieldEnergyMax.label>Suojakilven maksimienergia</PersonalShieldEnergyMax.label>
+  <PersonalShieldEnergyMax.description>Maksimienergia joka henkilökohtaisessa suojakilvessä voi olla kerralla. Enemmän energiaa voi imeä enemmän vahinkoa.</PersonalShieldEnergyMax.description>
+
+  <PersonalShieldRechargeRate.label>Suojakilven latausnopeus</PersonalShieldRechargeRate.label>
+  <PersonalShieldRechargeRate.description>Nopeus jolla suojakilpi kerää energiaa kunhan se ei ole rikki.</PersonalShieldRechargeRate.description>
+  <PersonalShieldRechargeRate.formatString>{0}/s</PersonalShieldRechargeRate.formatString>
+
+
 </LanguageData>

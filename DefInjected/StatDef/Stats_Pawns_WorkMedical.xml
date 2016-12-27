@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <MedicalOperationSpeed.label>operointinopeus</MedicalOperationSpeed.label>
-    <MedicalOperationSpeed.description>Nopeus, jolla henkilö tekee lääkintäoperaatioita.</MedicalOperationSpeed.description>
-    
-    <SurgerySuccessChance.label>kirurgian onnistumisen todennäköisyys</SurgerySuccessChance.label>
-    <SurgerySuccessChance.description>Todennäköisyys että hahmo onnistuu kirurgiassa. Epäonnistumiset saattavat johtaa ajan ja lääketarpeiden hukkaamiseen tai jopa potilaaseen kohdistuvaan katastrofaaliseen vahinkoon.</SurgerySuccessChance.description>
-    
-    <BaseHealingQuality.label>lääkinnän laadun alkuarvo</BaseHealingQuality.label>
-    <BaseHealingQuality.description>Alkuarvo potilaille annetulle lääkinnälle kun tämä henkilö toimii lääkärinä.</BaseHealingQuality.description>
-    
-    <HealingSpeed.label>parantamisnopeus</HealingSpeed.label>
-    <HealingSpeed.description>Nopeus jolla tämä henkilö parantaa vammoja lääkärinä.</HealingSpeed.description>
-    
+
+  <MedicalOperationSpeed.label>operointinopeus</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Nopeus, jolla henkilö tekee lääkintäoperaatioita.</MedicalOperationSpeed.description>
+
+  <SurgerySuccessChance.label>kirurgian onnistumisen todennäköisyys</SurgerySuccessChance.label>
+  <SurgerySuccessChance.description>Todennäköisyys että hahmo onnistuu kirurgiassa. Epäonnistumiset saattavat johtaa ajan ja lääketarpeiden hukkaamiseen tai jopa potilaaseen kohdistuvaan katastrofaaliseen vahinkoon.</SurgerySuccessChance.description>
+
+  <HealingQuality.label>healing quality</HealingQuality.label>
+  <HealingQuality.description>Quality of tending given to patients when acting as a doctor.</HealingQuality.description>
+
+  <HealingSpeed.label>parantamisnopeus</HealingSpeed.label>
+  <HealingSpeed.description>Nopeus jolla tämä henkilö parantaa vammoja lääkärinä.</HealingSpeed.description>
+
+
 </LanguageData>

@@ -1,64 +1,86 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <CraftingSpot.label>crafting spot</CraftingSpot.label>
-    <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
-    
-    <NutrientPasteDispenser.label>ravinnetahna-annostelija</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>Tekee orgaaniseista raaka-aineista synteettista ravinnetahnaa. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
-    
-    <Hopper.label>suppilo</Hopper.label>
-    <Hopper.description>Varaa resursseja koneiden, kuten ravinnetahnan jakajan, käyttöön.</Hopper.description>
-    
-    <TableButcher.label>teurastuspöytä</TableButcher.label>
-    <TableButcher.description>Raskas pöytä kuolleiden olioiden teurastamiseen raaoiksi lihanpalasiksi.</TableButcher.description>
-    
-    <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
-    <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
-    
-    <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
-    <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
-    
-    <ElectricSmithy.label>electric taontapöytä</ElectricSmithy.label>
-    <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
-    
-    <FueledSmithy.label>fueled taontapöytä</FueledSmithy.label>
-    <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
-    
-    <TableSculpting.label>veistäjän pöytä</TableSculpting.label>
-    <TableSculpting.description>Taiteellista veistämistä varten varusteltu työpöytä.</TableSculpting.description>
-    
-    <TableMachining.label>koneiden työstöpöytä</TableMachining.label>
-    <TableMachining.description>Pöytä ja työkalut koneiden osien kokoamiseen ja purkamiseen.</TableMachining.description>
-    
-    <ElectricStove.label>electric stove</ElectricStove.label>
-    <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
-    
-    <FueledStove.label>puuliesi</FueledStove.label>
-    <FueledStove.description>Yksinkertainen puukäyttöinen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia.</FueledStove.description>
-    
-    <TableStonecutter.label>kivenleikkajan pöytä</TableStonecutter.label>
-    <TableStonecutter.description>Työpöytä karkeiden kivien leikkaamiseen käyttökelpoisiksi harkoiksi.</TableStonecutter.description>
-    
-    <Brewery.label>panimo</Brewery.label>
-    <Brewery.description>Työasema kaikilla työkaluilla jotka tarvitaan oluen panemiseen.</Brewery.description>
-    
-    <ElectricSmelter.label>sähköinen sulatusuuni</ElectricSmelter.label>
-    <ElectricSmelter.description>Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon virtaa.</ElectricSmelter.description>
-    
-    <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
-    <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
-    
-    <SimpleResearchBench.label>yksinkertainen tutkimuspöytä</SimpleResearchBench.label>
-    <SimpleResearchBench.description>Yksinkertainen työpöytä, jossa on kirjoitusvälineitä ja tietellisiä työkaluja. Tutkijat työskentelevät tässä keksiäkseen uusia asioita.</SimpleResearchBench.description>
-    
-    <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
-    <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
-    
-    <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
-    <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
-    
-    <HydroponicsBasin.label>vesiviljelyallas</HydroponicsBasin.label>
-    <HydroponicsBasin.description>Ruokakasvien kasvattamiseen. Vesiviljelyaltaat kasvattavat muutaman kasvin nopeasti.</HydroponicsBasin.description>
-    
+
+  <CraftingSpot.label>crafting spot</CraftingSpot.label>
+  <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+
+
+  
+
+  <TableSculpting.label>veistäjän pöytä</TableSculpting.label>
+  <TableSculpting.description>Taiteellista veistämistä varten varusteltu työpöytä.</TableSculpting.description>
+
+  <TableButcher.label>teurastuspöytä</TableButcher.label>
+  <TableButcher.description>Raskas pöytä kuolleiden olioiden teurastamiseen raaoiksi lihanpalasiksi.</TableButcher.description>
+
+  <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
+  <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+
+  <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+
+  <FueledSmithy.label>fueled taontapöytä</FueledSmithy.label>
+  <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+
+  <ElectricSmithy.label>electric taontapöytä</ElectricSmithy.label>
+  <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+
+  <TableMachining.label>koneiden työstöpöytä</TableMachining.label>
+  <TableMachining.description>Pöytä ja työkalut koneiden osien kokoamiseen ja purkamiseen.</TableMachining.description>
+
+  <ElectricStove.label>electric stove</ElectricStove.label>
+  <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+
+  <FueledStove.label>puuliesi</FueledStove.label>
+  <FueledStove.description>Yksinkertainen puukäyttöinen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia.</FueledStove.description>
+
+  <TableStonecutter.label>kivenleikkajan pöytä</TableStonecutter.label>
+  <TableStonecutter.description>Työpöytä karkeiden kivien leikkaamiseen käyttökelpoisiksi harkoiksi.</TableStonecutter.description>
+
+  <Brewery.label>panimo</Brewery.label>
+  <Brewery.description>Työasema kaikilla työkaluilla jotka tarvitaan oluen panemiseen.</Brewery.description>
+
+  <DrugLab.label>drug lab</DrugLab.label>
+  <DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.description>
+
+  <ElectricSmelter.label>sähköinen sulatusuuni</ElectricSmelter.label>
+  <ElectricSmelter.description>Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon virtaa.</ElectricSmelter.description>
+
+  <Refinery.label>refinery</Refinery.label>
+  <Refinery.description>A chemical refining plant. Used to refine wood into chemfuel.</Refinery.description>
+
+  <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
+
+
+  
+
+  <SimpleResearchBench.label>yksinkertainen tutkimuspöytä</SimpleResearchBench.label>
+  <SimpleResearchBench.description>Yksinkertainen työpöytä, jossa on kirjoitusvälineitä ja tietellisiä työkaluja. Tutkijat työskentelevät tässä keksiäkseen uusia asioita.</SimpleResearchBench.description>
+
+  <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+  <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+
+  <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+  <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
+
+  <HydroponicsBasin.label>vesiviljelyallas</HydroponicsBasin.label>
+  <HydroponicsBasin.description>Ruokakasvien kasvattamiseen. Vesiviljelyaltaat kasvattavat muutaman kasvin nopeasti.</HydroponicsBasin.description>
+
+  <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+
+  <DeepDrill.label>deep drill</DeepDrill.label>
+  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
+
+
+  
+
+  <NutrientPasteDispenser.label>ravinnetahna-annostelija</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>Tekee orgaaniseista raaka-aineista synteettista ravinnetahnaa. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
+
+  <Hopper.label>suppilo</Hopper.label>
+  <Hopper.description>Varaa resursseja koneiden, kuten ravinnetahnan jakajan, käyttöön.</Hopper.description>
+
+
 </LanguageData>

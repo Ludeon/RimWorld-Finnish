@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Heatstroke.label>lämpöhalvaus</Heatstroke.label>
+  <Heatstroke.stages.0.label>initial-hidden</Heatstroke.stages.0.label>
+  <Heatstroke.stages.1.label>esiaste</Heatstroke.stages.1.label>
+  <Heatstroke.stages.2.label>vähäinen</Heatstroke.stages.2.label>
+  <Heatstroke.stages.3.label>vakava</Heatstroke.stages.3.label>
+  <Heatstroke.stages.4.label>äärimmäinen</Heatstroke.stages.4.label>
+
+  <Hypothermia.label>hypotermia</Hypothermia.label>
+  <Hypothermia.stages.0.label>shivering-hidden</Hypothermia.stages.0.label>
+  <Hypothermia.stages.1.label>värisevä</Hypothermia.stages.1.label>
+  <Hypothermia.stages.2.label>vähäinen</Hypothermia.stages.2.label>
+  <Hypothermia.stages.3.label>vakava</Hypothermia.stages.3.label>
+  <Hypothermia.stages.4.label>äärimmäinen</Hypothermia.stages.4.label>
+
+
+</LanguageData>

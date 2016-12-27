@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
-    <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>
-    <RemoveBodyPart.jobString>Poistaa ruumiinosaa.</RemoveBodyPart.jobString>
-    
-    <RemoveMechanoidBodyPart.label>poista ruumiinosa</RemoveMechanoidBodyPart.label>
-    <RemoveMechanoidBodyPart.description>Poistaa ruumiinosan.</RemoveMechanoidBodyPart.description>
-    <RemoveMechanoidBodyPart.jobString>Poistaa ruumiinosaa.</RemoveMechanoidBodyPart.jobString>
-    
-    <Euthanize.label>armomurhaa</Euthanize.label>
-    <Euthanize.description>Suorittaa eutanasian.</Euthanize.description>
-    <Euthanize.jobString>Suorittaa eutanasiaa.</Euthanize.jobString>
-    
-    <ShutDownMechanoid.label>sammuta</ShutDownMechanoid.label>
-    <ShutDownMechanoid.description>Sammuttaa mekanoidin.</ShutDownMechanoid.description>
-    <ShutDownMechanoid.jobString>Sammuttaa mekanoidia.</ShutDownMechanoid.jobString>
-    
-    <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
-    <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
-    <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
-    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
-    
+
+  
+
+  <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Poistaa ruumiinosaa.</RemoveBodyPart.jobString>
+
+  <RemoveMechanoidBodyPart.label>poista ruumiinosa</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Poistaa ruumiinosan.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Poistaa ruumiinosaa.</RemoveMechanoidBodyPart.jobString>
+
+
+  
+
+  <Euthanize.label>armomurhaa</Euthanize.label>
+  <Euthanize.description>Suorittaa eutanasian.</Euthanize.description>
+  <Euthanize.jobString>Suorittaa eutanasiaa.</Euthanize.jobString>
+
+  <ShutDownMechanoid.label>sammuta</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>Sammuttaa mekanoidin.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Sammuttaa mekanoidia.</ShutDownMechanoid.jobString>
+
+
+  
+
+  <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+
 </LanguageData>

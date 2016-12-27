@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Proj_GrenadeFrag.label>sirpalekranaatti</Proj_GrenadeFrag.label>
-    
-    <Weapon_GrenadeFrag.label>sirpalekranaatteja</Weapon_GrenadeFrag.label>
-    <Weapon_GrenadeFrag.description>Vanhanaikaisia sirpalekranaatteja.</Weapon_GrenadeFrag.description>
-    <Weapon_GrenadeFrag.verbs.0.label>heitä sirpalekranaatti</Weapon_GrenadeFrag.verbs.0.label>
-    
-    <Proj_GrenadeMolotov.label>Molotovin koktaili</Proj_GrenadeMolotov.label>
-    
-    <Weapon_GrenadeMolotov.label>Molotovin koktaileja</Weapon_GrenadeMolotov.label>
-    <Weapon_GrenadeMolotov.description>Palavalla nesteellä täytettyjä lasipulloja ja palava kangas pullonkaulassa. Huligaanien ja epätoivoisten taistelijoiden lempiase.</Weapon_GrenadeMolotov.description>
-    <Weapon_GrenadeMolotov.verbs.0.label>heitä Molotovin koktaili</Weapon_GrenadeMolotov.verbs.0.label>
-    
-    <Proj_GrenadeEMP.label>EMP-kranaatti</Proj_GrenadeEMP.label>
-    
-    <Weapon_GrenadeEMP.label>EMP-kranaatteja</Weapon_GrenadeEMP.label>
-    <Weapon_GrenadeEMP.description>Sähkömagneettipulssikranaatteja, jotka vahingoittavat sähkölaitteita.</Weapon_GrenadeEMP.description>
-    <Weapon_GrenadeEMP.verbs.0.label>heitä EMP-kranaatti</Weapon_GrenadeEMP.verbs.0.label>
-    
+
+  
+
+  <Weapon_GrenadeFrag.label>sirpalekranaatteja</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.description>Vanhanaikaisia sirpalekranaatteja.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.verbs.0.label>heitä sirpalekranaatti</Weapon_GrenadeFrag.verbs.0.label>
+
+  <Proj_GrenadeFrag.label>sirpalekranaatti</Proj_GrenadeFrag.label>
+
+
+  
+
+  <Weapon_GrenadeMolotov.label>Molotovin koktaileja</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.description>Palavalla nesteellä täytettyjä lasipulloja ja palava kangas pullonkaulassa. Huligaanien ja epätoivoisten taistelijoiden lempiase.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.verbs.0.label>heitä Molotovin koktaili</Weapon_GrenadeMolotov.verbs.0.label>
+
+  <Proj_GrenadeMolotov.label>Molotovin koktaili</Proj_GrenadeMolotov.label>
+
+
+  
+
+  <Weapon_GrenadeEMP.label>EMP-kranaatteja</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.description>Sähkömagneettipulssikranaatteja, jotka vahingoittavat sähkölaitteita.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.verbs.0.label>heitä EMP-kranaatti</Weapon_GrenadeEMP.verbs.0.label>
+
+  <Proj_GrenadeEMP.label>EMP-kranaatti</Proj_GrenadeEMP.label>
+
+
 </LanguageData>

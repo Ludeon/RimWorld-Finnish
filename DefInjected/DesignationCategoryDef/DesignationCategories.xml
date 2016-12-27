@@ -1,40 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Orders.label>määräykset</Orders.label>
-    <Orders.description>Määrittele tiettyjä toimia tietyille esineille</Orders.description>
-    
-    <Zone.label>alueet</Zone.label>
-    <Zone.description>Määrittele alueita, joissa yhdyskuntalaiset tekevät tiettyjä toimia.</Zone.description>
-    
-    <Structure.label>rakenteet</Structure.label>
-    <Structure.description>Ranteellisia esineitä kuten seiniä ja voimakaapeleita.</Structure.description>
-    
-    <Production.label>tuotanto</Production.label>
-    <Production.description>Rakennelmia, joita käytetään tavaroiden tuottamiseen.</Production.description>
-    
-    <Furniture.label>huonekalut</Furniture.label>
-    <Furniture.description>Pieniä rakenteita.</Furniture.description>
-    
-    <Power.label>energia</Power.label>
-    <Power.description>Sähkön tuotanto, siirto ja hallinta.</Power.description>
-    
-    <Security.label>turvallisuus</Security.label>
-    <Security.description>Turvallisuuteen ja taisteluun liittyvät rakennelmat.</Security.description>
-    
-    <Misc.label>sekalaiset</Misc.label>
-    <Misc.description>Sekalaisia rakennelmia.</Misc.description>
-    
-    <Floors.label>lattiat</Floors.label>
-    <Floors.description>Lattianpäällysteet.</Floors.description>
-    
-    <Joy.label>huvi</Joy.label>
-    <Joy.description>Viihdyttäviä tai miellyttäviä esineitä yhdyskuntalaisten mielialan parantamiseen.</Joy.description>
-    
-    <Ship.label>avaruusalus</Ship.label>
-    <Ship.description>Teidän pakoaluksenne komponentit.</Ship.description>
-    
-    <Temperature.label>lämpötila</Temperature.label>
-    <Temperature.description>Esineitä, joilla voidaan hallita lämpötilaa.</Temperature.description>
-    
+
+  <Orders.label>määräykset</Orders.label>
+  <Orders.description>Määrittele tiettyjä toimia tietyille esineille</Orders.description>
+
+  <Zone.label>alueet</Zone.label>
+  <Zone.description>Määrittele alueita, joissa yhdyskuntalaiset tekevät tiettyjä toimia.</Zone.description>
+
+  <Structure.label>rakenteet</Structure.label>
+  <Structure.description>Ranteellisia esineitä kuten seiniä ja voimakaapeleita.</Structure.description>
+
+  <Production.label>tuotanto</Production.label>
+  <Production.description>Rakennelmia, joita käytetään tavaroiden tuottamiseen.</Production.description>
+
+  <Furniture.label>huonekalut</Furniture.label>
+  <Furniture.description>Pieniä rakenteita.</Furniture.description>
+
+  <Power.label>energia</Power.label>
+  <Power.description>Sähkön tuotanto, siirto ja hallinta.</Power.description>
+
+  <Security.label>turvallisuus</Security.label>
+  <Security.description>Turvallisuuteen ja taisteluun liittyvät rakennelmat.</Security.description>
+
+  <Misc.label>sekalaiset</Misc.label>
+  <Misc.description>Sekalaisia rakennelmia.</Misc.description>
+
+  <Floors.label>lattiat</Floors.label>
+  <Floors.description>Lattianpäällysteet.</Floors.description>
+
+  <Joy.label>huvi</Joy.label>
+  <Joy.description>Viihdyttäviä tai miellyttäviä esineitä yhdyskuntalaisten mielialan parantamiseen.</Joy.description>
+
+  <Ship.label>avaruusalus</Ship.label>
+  <Ship.description>Teidän pakoaluksenne komponentit.</Ship.description>
+
+  <Temperature.label>lämpötila</Temperature.label>
+  <Temperature.description>Esineitä, joilla voidaan hallita lämpötilaa.</Temperature.description>
+
+
 </LanguageData>

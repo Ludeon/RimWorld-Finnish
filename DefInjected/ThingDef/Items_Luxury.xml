@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Beer.label>olut</Beer.label>
-    <Beer.description>Ensimmäinen juoma jota ihmiskunta kulutti veden jälkeen. Olut saattaa maistua hyvältä mutta sen päävaikutus on päihtyminen. Kohtuuton käyttö voi johtaa alkoholiriippuvuuteen.</Beer.description>
-    
-    <Chocolate.label>suklaa</Chocolate.label>
-    <Chocolate.description>Herkullinen valmiste murskatuista kookoksen siemenistä sokerin ja vaniljan kanssa. Erittäin miellyttävä syödä mutta ei kovin ravintopitoinen.</Chocolate.description>
-    
+
+  
+
+  <Chocolate.label>suklaa</Chocolate.label>
+  <Chocolate.description>Herkullinen valmiste murskatuista kookoksen siemenistä sokerin ja vaniljan kanssa. Erittäin miellyttävä syödä mutta ei kovin ravintopitoinen.</Chocolate.description>
+
+
 </LanguageData>

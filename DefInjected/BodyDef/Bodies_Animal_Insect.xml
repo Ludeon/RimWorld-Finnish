@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <BeetleLike.label>kovakuoriaismainen</BeetleLike.label>
-    
-    <BeetleLikeWithClaw.label>kovakuoriaismainen sarvella</BeetleLikeWithClaw.label>
-    
+
+  <BeetleLike.label>kovakuoriaismainen</BeetleLike.label>
+  <BeetleLikeWithClaw.label>kovakuoriaismainen sarvella</BeetleLikeWithClaw.label>
+
+
 </LanguageData>

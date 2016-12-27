@@ -1,34 +1,43 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <CollapsedRocks.label>romahtaneita kiviä</CollapsedRocks.label>
-    <CollapsedRocks.description>Romahtaneita kiviä pakattuna tarpeeksi tiukalle kannattelemaan kattoa.</CollapsedRocks.description>
-    
-    <MineableSteel.label>pakkautunutta terästä</MineableSteel.label>
-    <MineableSteel.description>Jonkin muinaisen raunion jäännökset. Sisältää paljon terästä.</MineableSteel.description>
-    
-    <MineableSilver.label>hopeamalmi</MineableSilver.label>
-    <MineableSilver.description>Kiviseinämä jossa on hieman hopeaa.</MineableSilver.description>
-    
-    <MineableGold.label>kultamalmi</MineableGold.label>
-    <MineableGold.description>Kiviseinämä jossa on hieman kultaa.</MineableGold.description>
-    
-    <MineableUranium.label>uraanimalmi</MineableUranium.label>
-    <MineableUranium.description>Kiviseinämä jossa on hieman uraania.</MineableUranium.description>
-    
-    <MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>
-    <MineablePlasteel.description>Muinainen muoviterästä täynnä oleva raunio.</MineablePlasteel.description>
-    
-    <MineableJade.label>jade</MineableJade.label>
-    <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
-    
-    <MineableComponents.label>compacted machinery</MineableComponents.label>
-    <MineableComponents.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponents.description>
-    
-    <SteamGeyser.label>geysir</SteamGeyser.label>
-    <SteamGeyser.description>Luonnollinen höyryn lähde.</SteamGeyser.description>
-    
-    <Hive.label>hive</Hive.label>
-    <Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
-    
+
+  
+
+  <CollapsedRocks.label>romahtaneita kiviä</CollapsedRocks.label>
+  <CollapsedRocks.description>Romahtaneita kiviä pakattuna tarpeeksi tiukalle kannattelemaan kattoa.</CollapsedRocks.description>
+
+
+  
+
+  <MineableSteel.label>pakkautunutta terästä</MineableSteel.label>
+  <MineableSteel.description>Jonkin muinaisen raunion jäännökset. Sisältää paljon terästä.</MineableSteel.description>
+
+  <MineableSilver.label>hopeamalmi</MineableSilver.label>
+  <MineableSilver.description>Kiviseinämä jossa on hieman hopeaa.</MineableSilver.description>
+
+  <MineableGold.label>kultamalmi</MineableGold.label>
+  <MineableGold.description>Kiviseinämä jossa on hieman kultaa.</MineableGold.description>
+
+  <MineableUranium.label>uraanimalmi</MineableUranium.label>
+  <MineableUranium.description>Kiviseinämä jossa on hieman uraania.</MineableUranium.description>
+
+  <MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>
+  <MineablePlasteel.description>Muinainen muoviterästä täynnä oleva raunio.</MineablePlasteel.description>
+
+  <MineableJade.label>jade</MineableJade.label>
+  <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
+
+  <MineableComponents.label>compacted machinery</MineableComponents.label>
+  <MineableComponents.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponents.description>
+
+  <SteamGeyser.label>geysir</SteamGeyser.label>
+  <SteamGeyser.description>Luonnollinen höyryn lähde.</SteamGeyser.description>
+
+  <Hive.label>hive</Hive.label>
+  <Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
+
+  <GlowPod.label>glow pod</GlowPod.label>
+  <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
+
+
 </LanguageData>

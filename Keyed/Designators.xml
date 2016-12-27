@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
+
   <DesignatorCancel>Peruuta</DesignatorCancel>
   <DesignatorCancelDesc>Peruuta merkitsemäsi rakennus, louhinta, siirtäminen, sadonkorjuu, ja kaikki muut merkinnät.</DesignatorCancelDesc>
 
@@ -43,6 +43,11 @@
   <DesignatorAreaHomeClear>Poista kotialue</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>Poista Kotialue. Yhdyskuntalaiset eivät enää siivoa, korjaa tai sammuta tulipaloja tällä alueella.</DesignatorAreaHomeClearDesc>
 
+  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
+
   <DesignatorAreaNoRoofExpand>Laajenna katotonta aluetta</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>Luo alue missä kattoja ei tehdä, yhdyskuntalaiset myös repivät olemassa olevat katot alas tällä alueella.</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Poista katoton alue</DesignatorAreaNoRoofClear>
@@ -67,7 +72,7 @@
 
   <DesignatorZoneDelete>Poista alueita</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Poista alueita, kuten varasto- tai kasvatusalueita.</DesignatorZoneDeleteDesc>
-  
+
   <DesignatorClaim>Valtaa</DesignatorClaim>
   <DesignatorClaimDesc>Valloita neutraaleja rakennelmia yhdyskunnalle, sisältäen muinaisrauniot ja hylätyt piiritys leirit. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
 
@@ -82,7 +87,7 @@
 
   <DesignatorOpen>Avaa</DesignatorOpen>
   <DesignatorOpenDesc>Avaa täytettyjä hautoja tai säiliöitä.</DesignatorOpenDesc>
-  
+
   <DesignatorSlaughter>Tapa</DesignatorSlaughter>
   <DesignatorSlaughterDesc>Tapa kesy eläin.</DesignatorSlaughterDesc>
 
@@ -106,13 +111,13 @@
   <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
   <TerrainMustBeRemovable>Täytyy osoittaa poistettava lattia.</TerrainMustBeRemovable>
-  
-  
+
+
   
   <ExpandOrCreateZone>Laajenna aluetta {0} tai\nLuo uusi {1}</ExpandOrCreateZone>
   <CreateNewZone>Luo uusi {0}</CreateNewZone>
-  
-  
+
+
   
   <TransmitsPower>Lähettää virtaa</TransmitsPower>
 

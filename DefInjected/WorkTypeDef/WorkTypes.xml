@@ -1,130 +1,125 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Firefighter.labelShort>Palomies</Firefighter.labelShort>
-    <Firefighter.description>Palomiehet sammuttavat tulia yhdyskunnassa.</Firefighter.description>
-    <Firefighter.pawnLabel>Palomies</Firefighter.pawnLabel>
-    <Firefighter.gerundLabel>Tulensammmutus</Firefighter.gerundLabel>
-    <Firefighter.verb>Sammuta liekki</Firefighter.verb>
-    
-    <PatientEmergency.labelShort>Potilas</PatientEmergency.labelShort>
-    <PatientEmergency.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</PatientEmergency.description>
-    <PatientEmergency.pawnLabel>Potilas</PatientEmergency.pawnLabel>
-    <PatientEmergency.gerundLabel>Potilas</PatientEmergency.gerundLabel>
-    <PatientEmergency.verb>Tule potilaaksi</PatientEmergency.verb>
-    
-    <Doctor.labelShort>Lääkäri</Doctor.labelShort>
-    <Doctor.description>Lääkärit tuovat ruokaa ja hoitavat liikkumattomina sängyssä makaavia. He hoitavat sekä yhdyskuntalaisia ja vankeja.</Doctor.description>
-    <Doctor.pawnLabel>Lääkäri</Doctor.pawnLabel>
-    <Doctor.gerundLabel>Lääkitseminen</Doctor.gerundLabel>
-    <Doctor.verb>Hoida</Doctor.verb>
-    
-    <PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
-    <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
-    <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
-    <PatientBedRest.gerundLabel>Resting in bed</PatientBedRest.gerundLabel>
-    <PatientBedRest.verb>Become patient</PatientBedRest.verb>
-    
-    <Flicker.labelShort>Kytke</Flicker.labelShort>
-    <Flicker.description>Kytkijät käyttävät kytkimiä. Esimerkiksi kun määräät tykkitornin virran kytkettäväksi kytkijän on käytävä kytkemässä virta käsin.</Flicker.description>
-    <Flicker.pawnLabel>Kytkijä</Flicker.pawnLabel>
-    <Flicker.gerundLabel>Kytkimien käyttö</Flicker.gerundLabel>
-    <Flicker.verb>Napsauta</Flicker.verb>
-    
-    <Warden.labelShort>Vartioi</Warden.labelShort>
-    <Warden.description>Vanginvartijat vierailevat vankien luona värväämässä heitä, keskustelemassa heidän kanssaan, hakkaamassa heitä tai teloittamassa heitä - mitä vain oletkin päättänyt. Vanginvartijat vievät lisäksi vangeille ruokaa.</Warden.description>
-    <Warden.pawnLabel>Vanginvartija</Warden.pawnLabel>
-    <Warden.gerundLabel>Vanginvartiointi</Warden.gerundLabel>
-    <Warden.verb>Käsittele</Warden.verb>
-    
-    <Handling.labelShort>Käsittele eläimiä</Handling.labelShort>
-    <Handling.description>Eläintenkäsittelijät kesyttävät, huolehtivat, keräävät resursseja ja tappavat eläimiä.</Handling.description>
-    <Handling.pawnLabel>Eläintenkäsittelijä</Handling.pawnLabel>
-    <Handling.gerundLabel>Eläintenkäsittely</Handling.gerundLabel>
-    <Handling.verb>Käsittele</Handling.verb>
-    
-    <Cooking.labelShort>Kokkaa</Cooking.labelShort>
-    <Cooking.description>Kokit valmistavat aterioita ja teurastavat eläimiä.</Cooking.description>
-    <Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
-    <Cooking.gerundLabel>Kokkaaminen</Cooking.gerundLabel>
-    <Cooking.verb>Kokkaa</Cooking.verb>
-    
-    <Hunting.labelShort>Metsästä</Hunting.labelShort>
-    <Hunting.description>Metsästäjät tappavat eläimiä, jotka on määritelty metsästettäviksi.</Hunting.description>
-    <Hunting.pawnLabel>Metsästäjä</Hunting.pawnLabel>
-    <Hunting.gerundLabel>Metsästäminen</Hunting.gerundLabel>
-    <Hunting.verb>Metsästä</Hunting.verb>
-    
-    <Construction.labelShort>Rakenna</Construction.labelShort>
-    <Construction.description>Rakentajat rakentavat rakennelmia, jotka olet määrännyt.</Construction.description>
-    <Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
-    <Construction.gerundLabel>Rakentaminen</Construction.gerundLabel>
-    <Construction.verb>Rakenna</Construction.verb>
-    
-    <Repair.labelShort>Korjaa</Repair.labelShort>
-    <Repair.description>Korjaajat korjaavat hajonneita rakennuksia ja varusteita.</Repair.description>
-    <Repair.pawnLabel>Korjaaja</Repair.pawnLabel>
-    <Repair.gerundLabel>Korjaaminen</Repair.gerundLabel>
-    <Repair.verb>Korjaa</Repair.verb>
-    
-    <Growing.labelShort>Kasvata</Growing.labelShort>
-    <Growing.description>Kasvattajat istuttavat siemeniä ja korjaavat sadon viljelmiltä.</Growing.description>
-    <Growing.pawnLabel>Kasvattaja</Growing.pawnLabel>
-    <Growing.gerundLabel>Kasvattaminen</Growing.gerundLabel>
-    <Growing.verb>Kasvata</Growing.verb>
-    
-    <Mining.labelShort>Louhi</Mining.labelShort>
-    <Mining.description>Louhijat kaivavat neliöitä, jotka olet määrännyt louhittaviksi. Jos näissä neliöissä on mineraaleja, niistä tulee käyttökelpoisia.</Mining.description>
-    <Mining.pawnLabel>Louhija</Mining.pawnLabel>
-    <Mining.gerundLabel>Louhiminen</Mining.gerundLabel>
-    <Mining.verb>Louhi</Mining.verb>
-    
-    <PlantCutting.labelShort>Leikkaa</PlantCutting.labelShort>
-    <PlantCutting.description>Kasvinleikkaajat poistavat ja korjaavat sadon villeiltä kasveilta, jotka olet määrittänyt.</PlantCutting.description>
-    <PlantCutting.pawnLabel>Kasvinleikkaaja</PlantCutting.pawnLabel>
-    <PlantCutting.gerundLabel>Kasvienleikkuu</PlantCutting.gerundLabel>
-    <PlantCutting.verb>Leikkaa</PlantCutting.verb>
-    
-    <Smithing.labelShort>Tao</Smithing.labelShort>
-    <Smithing.description>Sepät tekevät aseita ja työkaluja raaoista materiaaleista.</Smithing.description>
-    <Smithing.pawnLabel>Seppä</Smithing.pawnLabel>
-    <Smithing.gerundLabel>Takominen</Smithing.gerundLabel>
-    <Smithing.verb>Tao kohteessa</Smithing.verb>
-    
-    <Tailoring.labelShort>Räätälöi</Tailoring.labelShort>
-    <Tailoring.description>Räätälit tekevät vaatteita raaoista materiaaleista.</Tailoring.description>
-    <Tailoring.pawnLabel>Räätäli</Tailoring.pawnLabel>
-    <Tailoring.gerundLabel>Räätälöinti</Tailoring.gerundLabel>
-    <Tailoring.verb>Räätälöi kohteessa</Tailoring.verb>
-    
-    <Art.labelShort>Tee taidetta</Art.labelShort>
-    <Art.description>Taiteilijat luovat kauniita taideteoksia.</Art.description>
-    <Art.pawnLabel>Taiteilija</Art.pawnLabel>
-    <Art.gerundLabel>Taiteenteko</Art.gerundLabel>
-    <Art.verb>Tee taidetta kohteessa</Art.verb>
-    
-    <Crafting.labelShort>Tee käsitöitä</Crafting.labelShort>
-    <Crafting.description>Käsityöntekijät kokoavat esineitä raaoista materiaaleista.</Crafting.description>
-    <Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
-    <Crafting.gerundLabel>Käsityönteko</Crafting.gerundLabel>
-    <Crafting.verb>Tee käsitöitä kohteessa</Crafting.verb>
-    
-    <Hauling.labelShort>Kuljeta</Hauling.labelShort>
-    <Hauling.description>Kuljettajat kantavat esineitä sinne, missä niiden tarvitsee olla.</Hauling.description>
-    <Hauling.pawnLabel>Kuljettaja</Hauling.pawnLabel>
-    <Hauling.gerundLabel>Kuljettaminen</Hauling.gerundLabel>
-    <Hauling.verb>Kuljeta</Hauling.verb>
-    
-    <Cleaning.labelShort>Siivoa</Cleaning.labelShort>
-    <Cleaning.description>Siivooja kolaavat lunta ja siivoavat kotialueella.</Cleaning.description>
-    <Cleaning.pawnLabel>Siivoaja</Cleaning.pawnLabel>
-    <Cleaning.gerundLabel>Siivoaminen</Cleaning.gerundLabel>
-    <Cleaning.verb>Siivoa</Cleaning.verb>
-    
-    <Research.labelShort>Tutki</Research.labelShort>
-    <Research.description>Tutkijat tekevät tutkimustyötä.</Research.description>
-    <Research.pawnLabel>Tutkija</Research.pawnLabel>
-    <Research.gerundLabel>Tutkiminen</Research.gerundLabel>
-    <Research.verb>Tutki kohteessa</Research.verb>
-    
+
+  <Firefighter.labelShort>Palomies</Firefighter.labelShort>
+  <Firefighter.pawnLabel>Palomies</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>Tulensammmutus</Firefighter.gerundLabel>
+  <Firefighter.description>Palomiehet sammuttavat tulia yhdyskunnassa.</Firefighter.description>
+  <Firefighter.verb>Sammuta liekki</Firefighter.verb>
+
+  <PatientEmergency.labelShort>Potilas</PatientEmergency.labelShort>
+  <PatientEmergency.pawnLabel>Potilas</PatientEmergency.pawnLabel>
+  <PatientEmergency.gerundLabel>Potilas</PatientEmergency.gerundLabel>
+  <PatientEmergency.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</PatientEmergency.description>
+  <PatientEmergency.verb>Tule potilaaksi</PatientEmergency.verb>
+
+  <Doctor.labelShort>Lääkäri</Doctor.labelShort>
+  <Doctor.pawnLabel>Lääkäri</Doctor.pawnLabel>
+  <Doctor.gerundLabel>Lääkitseminen</Doctor.gerundLabel>
+  <Doctor.description>Lääkärit tuovat ruokaa ja hoitavat liikkumattomina sängyssä makaavia. He hoitavat sekä yhdyskuntalaisia ja vankeja.</Doctor.description>
+  <Doctor.verb>Hoida</Doctor.verb>
+
+  <PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>Resting in bed</PatientBedRest.gerundLabel>
+  <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
+  <PatientBedRest.verb>Become patient</PatientBedRest.verb>
+
+  <Flicker.labelShort>Kytke</Flicker.labelShort>
+  <Flicker.pawnLabel>Kytkijä</Flicker.pawnLabel>
+  <Flicker.gerundLabel>Kytkimien käyttö</Flicker.gerundLabel>
+  <Flicker.description>Kytkijät käyttävät kytkimiä. Esimerkiksi kun määräät tykkitornin virran kytkettäväksi kytkijän on käytävä kytkemässä virta käsin.</Flicker.description>
+  <Flicker.verb>Napsauta</Flicker.verb>
+
+  <Warden.labelShort>Vartioi</Warden.labelShort>
+  <Warden.pawnLabel>Vanginvartija</Warden.pawnLabel>
+  <Warden.gerundLabel>Vanginvartiointi</Warden.gerundLabel>
+  <Warden.description>Vanginvartijat vierailevat vankien luona värväämässä heitä, keskustelemassa heidän kanssaan, hakkaamassa heitä tai teloittamassa heitä - mitä vain oletkin päättänyt. Vanginvartijat vievät lisäksi vangeille ruokaa.</Warden.description>
+  <Warden.verb>Käsittele</Warden.verb>
+
+  <Handling.labelShort>Käsittele eläimiä</Handling.labelShort>
+  <Handling.pawnLabel>Eläintenkäsittelijä</Handling.pawnLabel>
+  <Handling.gerundLabel>Eläintenkäsittely</Handling.gerundLabel>
+  <Handling.description>Eläintenkäsittelijät kesyttävät, huolehtivat, keräävät resursseja ja tappavat eläimiä.</Handling.description>
+  <Handling.verb>Käsittele</Handling.verb>
+
+  <Cooking.labelShort>Kokkaa</Cooking.labelShort>
+  <Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
+  <Cooking.gerundLabel>Kokkaaminen</Cooking.gerundLabel>
+  <Cooking.description>Kokit valmistavat aterioita ja teurastavat eläimiä.</Cooking.description>
+  <Cooking.verb>Kokkaa</Cooking.verb>
+
+  <Hunting.labelShort>Metsästä</Hunting.labelShort>
+  <Hunting.pawnLabel>Metsästäjä</Hunting.pawnLabel>
+  <Hunting.gerundLabel>Metsästäminen</Hunting.gerundLabel>
+  <Hunting.description>Metsästäjät tappavat eläimiä, jotka on määritelty metsästettäviksi.</Hunting.description>
+  <Hunting.verb>Metsästä</Hunting.verb>
+
+  <Construction.labelShort>Rakenna</Construction.labelShort>
+  <Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
+  <Construction.gerundLabel>Rakentaminen</Construction.gerundLabel>
+  <Construction.description>Rakentajat rakentavat rakennelmia, jotka olet määrännyt.</Construction.description>
+  <Construction.verb>Rakenna</Construction.verb>
+
+  <Growing.labelShort>Kasvata</Growing.labelShort>
+  <Growing.pawnLabel>Kasvattaja</Growing.pawnLabel>
+  <Growing.gerundLabel>Kasvattaminen</Growing.gerundLabel>
+  <Growing.description>Kasvattajat istuttavat siemeniä ja korjaavat sadon viljelmiltä.</Growing.description>
+  <Growing.verb>Kasvata</Growing.verb>
+
+  <Mining.labelShort>Louhi</Mining.labelShort>
+  <Mining.pawnLabel>Louhija</Mining.pawnLabel>
+  <Mining.gerundLabel>Louhiminen</Mining.gerundLabel>
+  <Mining.description>Louhijat kaivavat neliöitä, jotka olet määrännyt louhittaviksi. Jos näissä neliöissä on mineraaleja, niistä tulee käyttökelpoisia.</Mining.description>
+  <Mining.verb>Louhi</Mining.verb>
+
+  <PlantCutting.labelShort>Leikkaa</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Kasvinleikkaaja</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>Kasvienleikkuu</PlantCutting.gerundLabel>
+  <PlantCutting.description>Kasvinleikkaajat poistavat ja korjaavat sadon villeiltä kasveilta, jotka olet määrittänyt.</PlantCutting.description>
+  <PlantCutting.verb>Leikkaa</PlantCutting.verb>
+
+  <Smithing.labelShort>Tao</Smithing.labelShort>
+  <Smithing.pawnLabel>Seppä</Smithing.pawnLabel>
+  <Smithing.gerundLabel>Takominen</Smithing.gerundLabel>
+  <Smithing.description>Sepät tekevät aseita ja työkaluja raaoista materiaaleista.</Smithing.description>
+  <Smithing.verb>Tao kohteessa</Smithing.verb>
+
+  <Tailoring.labelShort>Räätälöi</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Räätäli</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>Räätälöinti</Tailoring.gerundLabel>
+  <Tailoring.description>Räätälit tekevät vaatteita raaoista materiaaleista.</Tailoring.description>
+  <Tailoring.verb>Räätälöi kohteessa</Tailoring.verb>
+
+  <Art.labelShort>Tee taidetta</Art.labelShort>
+  <Art.pawnLabel>Taiteilija</Art.pawnLabel>
+  <Art.gerundLabel>Taiteenteko</Art.gerundLabel>
+  <Art.description>Taiteilijat luovat kauniita taideteoksia.</Art.description>
+  <Art.verb>Tee taidetta kohteessa</Art.verb>
+
+  <Crafting.labelShort>Tee käsitöitä</Crafting.labelShort>
+  <Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
+  <Crafting.gerundLabel>Käsityönteko</Crafting.gerundLabel>
+  <Crafting.description>Käsityöntekijät kokoavat esineitä raaoista materiaaleista.</Crafting.description>
+  <Crafting.verb>Tee käsitöitä kohteessa</Crafting.verb>
+
+  <Hauling.labelShort>Kuljeta</Hauling.labelShort>
+  <Hauling.pawnLabel>Kuljettaja</Hauling.pawnLabel>
+  <Hauling.gerundLabel>Kuljettaminen</Hauling.gerundLabel>
+  <Hauling.description>Kuljettajat kantavat esineitä sinne, missä niiden tarvitsee olla.</Hauling.description>
+  <Hauling.verb>Kuljeta</Hauling.verb>
+
+  <Cleaning.labelShort>Siivoa</Cleaning.labelShort>
+  <Cleaning.pawnLabel>Siivoaja</Cleaning.pawnLabel>
+  <Cleaning.gerundLabel>Siivoaminen</Cleaning.gerundLabel>
+  <Cleaning.description>Siivooja kolaavat lunta ja siivoavat kotialueella.</Cleaning.description>
+  <Cleaning.verb>Siivoa</Cleaning.verb>
+
+  <Research.labelShort>Tutki</Research.labelShort>
+  <Research.pawnLabel>Tutkija</Research.pawnLabel>
+  <Research.gerundLabel>Tutkiminen</Research.gerundLabel>
+  <Research.description>Tutkijat tekevät tutkimustyötä.</Research.description>
+  <Research.verb>Tutki kohteessa</Research.verb>
+
+
 </LanguageData>

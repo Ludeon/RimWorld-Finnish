@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Beer.label>olut</Beer.label>
+  <Beer.description>Ensimmäinen juoma jota ihmiskunta kulutti veden jälkeen. Olut saattaa maistua hyvältä mutta sen päävaikutus on päihtyminen. Kohtuuton käyttö voi johtaa alkoholiriippuvuuteen.</Beer.description>
+  <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestReportString>Drinking {0}.</Beer.ingestible.ingestReportString>
+
+  <Wort.label>wort</Wort.label>
+  <Wort.description>Beer before fermentation. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.</Wort.description>
+
+
+</LanguageData>

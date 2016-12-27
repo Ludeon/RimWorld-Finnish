@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Klikkaa hypätäksesi ongelmaan</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Klikkaa hypätäksesi ongelmaan</ClickToJumpToProblem>
 
-  
-  
-  <NeedSawmill>Tarvitset sahan</NeedSawmill>
-  <NeedSawmillDesc>Tarvitset jonkinlaisen sahan jolla voit sahata puita monikäyttöisemmiksi lankuiksi.\n\nRakenna SAHA tai SÄHKÖINEN SAHA.</NeedSawmillDesc>
+  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
 
-  <PoorMood>Huono mieliala</PoorMood>
-  <PoorMoodDesc>Nämä yhdyskuntalaiset ovat huonolla tuulella ja saattavat saada hermoromahduksen hetkenä minä hyvänsä:\n\n{0}</PoorMoodDesc>
-  <TerribleMood>Surkea mielieala</TerribleMood>
-  <TerribleMoodDesc>Nämä yhdyskuntalaiset ovat erittäin rasittuneita ja saattavat kokea mahdollisesti väkivaltaisen hermoromahduksen minä hetkenä hyvänsä:\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>Tarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</LowMoodDescEnding>
-  
   <ColonistNeedsRescue>Yhdyskuntalainen tarvitsee pelastusta</ColonistNeedsRescue>
   <ColonistsNeedRescue>Yhdyskuntalaiset tarvitsevat pelastusta</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>Nämä yhdyskuntalaiset makaavat maassa liikuntakyvyttöminä:\n\n{0}\nLähetä toinen yhdyskuntalainen pelastamaan heidät ja kantamaan heidät sänkyyn.\n\n(Valitse toinen yhdyskuntalainen, sitten paina hiiren oikealla näppäimellä uhria ja valitse Pelasta.</ColonistsNeedRescueDesc>
-
-  <BuildARoom>Rakenna huone</BuildARoom>
-  <BuildARoomDesc>Huone koostuu erillisistä seinistä ja ovesta.\n\nKäytä ARKKITEHTI-valikkoa ruudun vasemmassa alakulmassa määrittääksesi mihin haluat rakentaa asioita. Kun olet määrittänyt jotain rakennettavaksi, yhdyskuntalaisesi rakentavat sen kun he voivat.</BuildARoomDesc>
 
   <NeedDefenses>Tarvitset puolustuksia</NeedDefenses>
   <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Rosvojoukkojen hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia.\n\nRakenna muutama tykkitorni.</NeedDefensesDesc>
@@ -39,12 +33,18 @@
   <LowMedicine>Vähän lääketarpeita</LowMedicine>
   <LowMedicineDesc>Sinulla on vain {0} lääketarvetta jäljellä varastossa.\n\nOsta lisää lääketarpeita vaihtokauppiailta.</LowMedicineDesc>
   <NoMedicineDesc>Sinulla ei ole yhtään lääketarpeita jäljellä varastossa.\n\nOsta lisää lääketarpeita vaihtokauppiailta.</NoMedicineDesc>
-  
+
   <NeedColonistBeds>Tarvitset sängyn yhdyskuntalaisille</NeedColonistBeds>
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Metsästäjällä ei ole asetta</HunterLacksWeapon>
   <HunterLacksWeaponDesc>Yhdyskuntalainen on määrätty metsästäjäksi, mutta hänellä ei ole asetta. Hän ei metsästä ennen kuin hänellä on ase.\n\nSuosittelemme ampuma-aseen käyttöä loukkaantumisen välttämiseksi.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
 
   <Starvation>Nälänhätä</Starvation>
   <StarvationDesc>Nämä yhdyskuntalaiset ovat nääntymässä nälkään:\n\n{0}\nHanki heille jotain ruokaa. Tarvitset ruo'oanlähteen kuten ravinnetahna-annostelija ja joitain ruokaa millä tehdä ravinnetahnaa. Varmista myös että he eivät ole värvättyjä.</StarvationDesc>
@@ -58,22 +58,14 @@
   <NeedFoodHopper>Tarvitset suppilon</NeedFoodHopper>
   <NeedFoodHopperDesc>Sinulla on ravinnetahna-annostelija, jonka vieressä ei ole suppiloa.\n\nTahna-annostelija tarvitsee vierelleen suppilon täynnä raakaa ruokaa.\n\nRakenna annostelijan viereen suppilo.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Rakennus tarvitsee virtaa</BuildingNeedsPower>
-  <BuildingsNeedPower>Rakkenukset tarvitsevat virtaa</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>Nämä virtaa käyttävät rakennukset ovat irrallaan kaikista mahdollisista virranlähteistä:\n\n{0}\nYhdistä ne generaattoriin tai akkuun.</BuildingsNeedPowerDesc>
-  <AndMore>lisää</AndMore>
-
   <NeedMealSource>Tarvitset ruuanlähteen</NeedMealSource>
   <NeedMealSourceDesc>Sinulla ei ole mitään tapaa valmistaa kunnollisia aterioita raa'oista aineksista.\n\nRakenna ravinnetahna-annostelija tai liesi.\n\n(Se ei saa olla vangin huoneessa, muuten yhdyskuntalaiset eivät voi käyttää sitä.)</NeedMealSourceDesc>
 
-  <NeedHomeArea>Tarvitset kotialueen</NeedHomeArea>
-  <NeedHomeAreaDesc>Sinun täytyy määrittä KOTIALUE, missä yhdyskuntalaisesi siivoavat, sammuttavat paloja ja korjaavat rakennelmia.\n\nMääritä kotialue ALUEET-välilehdessä ARKKITEHTI-valikossa.</NeedHomeAreaDesc>
+  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
 
   <NeedBatteries>Tarvitset akkuja</NeedBatteries>
   <NeedBatteriesDesc>Sinulla on aurinkopaneeleja, mutta ei yhtäkään akkua. Tästä johtuen joka kerta, kun aurinko laskee, sähköt katkeavat.\n\nRakenna muutama akku selvitäksesi yön yli ilman sähkökatkoja.</NeedBatteriesDesc>
-
-  <NoTradingCapacity>Ei vaihtokapasiteettia</NoTradingCapacity>
-  <NoTradingCapacityDesc>Sinulla ei ole minkäänlaista tapaa kommunikoida mahdollisten kauppa-alusten kanssa.\n\nRakenna kommunikaatiopaneeli.</NoTradingCapacityDesc>
 
   <BrawlerHasRangedWeapon>Painijalla on ampuma-ase</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>Eräällä yhdyskuntalaisellasi on Painija-luonteenpiirre, mutta kantaa silti ampuma-asetta. Tämä tekee hänet hyvin surulliseksi.</BrawlerHasRangedWeaponDesc>
@@ -83,23 +75,16 @@
 
   <NeedResearchProject>Tarvitset tutkimusprojektin</NeedResearchProject>
   <NeedResearchProjectDesc>Sinulla on tutkimusvälineet mutta et ole valinnut tutkimuskohdetta.\n\nAvaa tutkimusvalikko ja valitse tutkimuskohde.</NeedResearchProjectDesc>
-  
-  <NeedDump>Tarvitset kaatopaikan</NeedDump>
-  <NeedDumpDesc>Olet merkinnyt esineen {0} raahattavaksi, mutta yhdyskuntalaisillasi ei ole paikkaa minne viedä sitä.\n\nMääritä kaatopaikka ja aseta se hyväksymään samantyyppisiä tavaroita kuin {0}.</NeedDumpDesc>
-
-  
 
   <ColonistsIdle>{0} yhdyskuntalaista joutilaana</ColonistsIdle>
   <ColonistsIdleDesc>Nämä yhdyskuntalaiset haahuilevat toimettomina:\n\n{0}\nSinun kannattaisi keksiä heille jotain tekemistä.</ColonistsIdleDesc>
 
-  
-  
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Hypotermia</AlertHypothermia>
   <AlertHypothermiaDesc>Nämä yhdyskuntalaiset kärsivät hypotermiasta.\n\n{0}\nVarmista, että heidän vaatetuksensa on vuodenaikaan sopiva ja että sisätilat ovat lämmitettyjä.</AlertHypothermiaDesc>
-  
+
   <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
 
@@ -115,5 +100,13 @@
 
   <HunterHasShieldAndRangedWeapon>Metsästäjällä on suojakilpi ja ampuma-ase</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>Erääs metsästäjäsi käyttää ampuma-asetta ja hänellä on päällään henkilökohtainen suojakilpi, joka estää ampumisen.\n\nHe eivät voi metsästää ellei suojaakilpeä poisteta.</HunterHasShieldAndRangedWeaponDesc>
-  
+
+  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+
 </LanguageData>

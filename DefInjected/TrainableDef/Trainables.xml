@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Obedience.label>kuuliaisuus</Obedience.label>
-    <Obedience.description>Eläimelle voidaan määrätä isäntä jota se seuraa ja puolustaa.</Obedience.description>
-    
-    <Release.label>vapautus</Release.label>
-    <Release.description>Eläin voidaan laskea vapaaksi hyökätäkseen etäisten kohteiden kimppuun pelkästään isäntänsä puolustamisen sijaan.</Release.description>
-    
-    <Rescue.label>pelasta</Rescue.label>
-    <Rescue.description>Eläin voi pelastaa haavoittuneita liittolaisia ja raahata ne turvaan.</Rescue.description>
-    
-    <Haul.label>kuljetus</Haul.label>
-    <Haul.description>Eläin voi kuljettaa esineitä.</Haul.description>
-    
+
+  <Obedience.label>kuuliaisuus</Obedience.label>
+  <Obedience.description>Eläimelle voidaan määrätä isäntä jota se seuraa ja puolustaa.</Obedience.description>
+
+  <Release.label>vapautus</Release.label>
+  <Release.description>Eläin voidaan laskea vapaaksi hyökätäkseen etäisten kohteiden kimppuun pelkästään isäntänsä puolustamisen sijaan.</Release.description>
+
+  <Rescue.label>pelasta</Rescue.label>
+  <Rescue.description>Eläin voi pelastaa haavoittuneita liittolaisia ja raahata ne turvaan.</Rescue.description>
+
+  <Haul.label>kuljetus</Haul.label>
+  <Haul.description>Eläin voi kuljettaa esineitä.</Haul.description>
+
+
 </LanguageData>

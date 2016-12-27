@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <StageThenAttack.letterLabelEnemy>Hyökkäys</StageThenAttack.letterLabelEnemy>
-    <StageThenAttack.arrivalTextEnemy>He valmistautuvat hetken ja hyökkäävät sitten.\n\nValmistele puolustuksia tai hyökkää heitä vastaan etukäteen.</StageThenAttack.arrivalTextEnemy>
-    <StageThenAttack.letterLabelFriendly>Liittolaisia</StageThenAttack.letterLabelFriendly>
-    <StageThenAttack.arrivalTextFriendly>He valmistautuvat hetken ennen avun antamista.</StageThenAttack.arrivalTextFriendly>
-    
-    <ImmediateAttack.letterLabelEnemy>Hyökkäys</ImmediateAttack.letterLabelEnemy>
-    <ImmediateAttack.arrivalTextEnemy>He hyökkäävät välittömästi.</ImmediateAttack.arrivalTextEnemy>
-    <ImmediateAttack.letterLabelFriendly>Liittolaisia</ImmediateAttack.letterLabelFriendly>
-    <ImmediateAttack.arrivalTextFriendly>He tulevat auttamaan välittömästi.</ImmediateAttack.arrivalTextFriendly>
-    
-    <ImmediateAttackSappers.letterLabelEnemy>Hyökkäys</ImmediateAttackSappers.letterLabelEnemy>
-    <ImmediateAttackSappers.arrivalTextEnemy>Näyttää siltä että he aikovat käyttää hyväksi pioneereja kaivaakseen tunneleita puolustuksiesi ohi.</ImmediateAttackSappers.arrivalTextEnemy>
-    
-    <Siege.letterLabelEnemy>Piiritys</Siege.letterLabelEnemy>
-    <Siege.arrivalTextEnemy>Näyttää siltä että he aikovat piirittää yhdyskuntaa ja pommittaa teitä tykkilulella etäältä. Voit yrittää odottaa heidän lähtöään - tai lähteä hoitelemaan heidät.</Siege.arrivalTextEnemy>
-    <Siege.letterLabelFriendly>Liittolaisia</Siege.letterLabelFriendly>
-    <Siege.arrivalTextFriendly>Näyttää siltä että he aikovat käyttää piiritystaktiikoita auttaakseen sinua.</Siege.arrivalTextFriendly>
-    
+
+  <ImmediateAttack.letterLabelEnemy>Hyökkäys</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.arrivalTextEnemy>He hyökkäävät välittömästi.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelFriendly>Liittolaisia</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.arrivalTextFriendly>He tulevat auttamaan välittömästi.</ImmediateAttack.arrivalTextFriendly>
+
+  <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
+
+  <StageThenAttack.letterLabelEnemy>Hyökkäys</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.arrivalTextEnemy>He valmistautuvat hetken ja hyökkäävät sitten.\n\nValmistele puolustuksia tai hyökkää heitä vastaan etukäteen.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelFriendly>Liittolaisia</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.arrivalTextFriendly>He valmistautuvat hetken ennen avun antamista.</StageThenAttack.arrivalTextFriendly>
+
+  <ImmediateAttackSappers.letterLabelEnemy>Hyökkäys</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>Näyttää siltä että he aikovat käyttää hyväksi pioneereja kaivaakseen tunneleita puolustuksiesi ohi.</ImmediateAttackSappers.arrivalTextEnemy>
+
+  <Siege.letterLabelEnemy>Piiritys</Siege.letterLabelEnemy>
+  <Siege.arrivalTextEnemy>Näyttää siltä että he aikovat piirittää yhdyskuntaa ja pommittaa teitä tykkilulella etäältä. Voit yrittää odottaa heidän lähtöään - tai lähteä hoitelemaan heidät.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelFriendly>Liittolaisia</Siege.letterLabelFriendly>
+  <Siege.arrivalTextFriendly>Näyttää siltä että he aikovat käyttää piiritystaktiikoita auttaakseen sinua.</Siege.arrivalTextFriendly>
+
+
 </LanguageData>

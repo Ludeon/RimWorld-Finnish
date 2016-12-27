@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <MechanoidFullyFormed.label>täysikasvuinen</MechanoidFullyFormed.label>
-    
-    <HumanlikeBaby.label>vauva</HumanlikeBaby.label>
-    
-    <HumanlikeToddler.label>taapero</HumanlikeToddler.label>
-    
-    <HumanlikeChild.label>lapsi</HumanlikeChild.label>
-    
-    <HumanlikeTeenager.label>teini-ikäinen</HumanlikeTeenager.label>
-    <HumanlikeTeenager.adjective>teini-ikäinen</HumanlikeTeenager.adjective>
-    
-    <HumanlikeAdult.label>aikuinen</HumanlikeAdult.label>
-    
-    <EusocialInsectLarva.label>toukka</EusocialInsectLarva.label>
-    
-    <EusocialInsectJuvenile.label>epäkypsä</EusocialInsectJuvenile.label>
-    
-    <EusocialInsectAdult.label>aikuinen</EusocialInsectAdult.label>
-    
-    <AnimalBaby.label>vauva</AnimalBaby.label>
-    
-    <AnimalJuvenile.label>pentu</AnimalJuvenile.label>
-    
-    <AnimalAdult.label>aikuinen</AnimalAdult.label>
-    
+
+  <MechanoidFullyFormed.label>täysikasvuinen</MechanoidFullyFormed.label>
+  <HumanlikeBaby.label>vauva</HumanlikeBaby.label>
+  <HumanlikeToddler.label>taapero</HumanlikeToddler.label>
+  <HumanlikeChild.label>lapsi</HumanlikeChild.label>
+
+  <HumanlikeTeenager.label>teini-ikäinen</HumanlikeTeenager.label>
+  <HumanlikeTeenager.adjective>teini-ikäinen</HumanlikeTeenager.adjective>
+
+  <HumanlikeAdult.label>aikuinen</HumanlikeAdult.label>
+  <EusocialInsectLarva.label>toukka</EusocialInsectLarva.label>
+  <EusocialInsectJuvenile.label>epäkypsä</EusocialInsectJuvenile.label>
+  <EusocialInsectAdult.label>aikuinen</EusocialInsectAdult.label>
+  <AnimalBaby.label>vauva</AnimalBaby.label>
+  <AnimalJuvenile.label>pentu</AnimalJuvenile.label>
+  <AnimalAdult.label>aikuinen</AnimalAdult.label>
+
+
 </LanguageData>

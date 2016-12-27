@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <QuadrupedAnimalWithPaws.label>nelijalkainen eläin</QuadrupedAnimalWithPaws.label>
-    
-    <QuadrupedAnimalWithPawsAndTail.label>nelijalkainen eläin</QuadrupedAnimalWithPawsAndTail.label>
-    
-    <QuadrupedAnimalWithHooves.label>nelijalkainen eläin</QuadrupedAnimalWithHooves.label>
-    
-    <QuadrupedAnimalWithHoovesAndHump.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndHump.label>
-    
-    <QuadrupedAnimalWithHoovesAndTusks.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndTusks.label>
-    
-    <QuadrupedAnimalWithHoovesTusksAndTrunk.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
-    
-    <QuadrupedAnimalWithHoovesAndHorn.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndHorn.label>
-    
-    <QuadrupedAnimalWithClawsTailAndJowl.label>nelijalkainen eläin</QuadrupedAnimalWithClawsTailAndJowl.label>
-    
-    <TurtleLike.label>kilpikonnamainen</TurtleLike.label>
-    
-    <Monkey.label>apina</Monkey.label>
-    
+
+  <QuadrupedAnimalWithPaws.label>nelijalkainen eläin</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>nelijalkainen eläin</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>nelijalkainen eläin</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>nelijalkainen eläin</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <TurtleLike.label>kilpikonnamainen</TurtleLike.label>
+  <Monkey.label>apina</Monkey.label>
+
+
 </LanguageData>

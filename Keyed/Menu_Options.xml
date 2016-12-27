@@ -10,10 +10,11 @@
   
   <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
   <PauseOnLoad>Pysäytä peli lataamisen jälkeen</PauseOnLoad>
+  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
   <CustomCursor>Mukautettu kursori</CustomCursor>
+  <UIScale>UI scale</UIScale>
   <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
-  <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
   <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
@@ -22,10 +23,15 @@
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen sukunimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
+  <AddName>Add name</AddName>
+  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   <AutosaveInterval>Automaattitallennus</AutosaveInterval>
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
   <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Plant wind sway</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
 
   
@@ -37,5 +43,5 @@
   <UserName>Käyttäjänimi</UserName>
   <ChooseHistoryUploadPref>Salli pelitietojen lähetys</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Käyttäjien pelaamistiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään {0} pelissä kuluvan päivän välein (ja joissain harvoissa tapauksissa, kuten pelin lopussa) RimWorldin palvelimille analysoitavaksi. Lähetetyt pelaamistiedot koostuvat vain tilastoista ja historiasta peliin liittyen - mitään henkilökohtaisia tietoja ei lähetetä, antamaasi käyttäjänimeä lukuunottamatta, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
-  
+
 </LanguageData>

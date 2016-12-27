@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <MoveSpeed.label>liikkumisnopeus</MoveSpeed.label>
-    <MoveSpeed.description>Liikkumisen nopeus neliöinä sekunnissa.</MoveSpeed.description>
-    
-    <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
-    <MentalBreakThreshold.description>Kun henkilön mielentila on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
-    
-    <PsychicSensitivity.label>psyykkinen herkkyys</PsychicSensitivity.label>
-    <PsychicSensitivity.description>Kerroin psyykkisten ilmiöiden vaikutukselle.</PsychicSensitivity.description>
-    
-    <GlobalLearningFactor.label>yleinen oppimisnopeus</GlobalLearningFactor.label>
-    <GlobalLearningFactor.description>Kaikille taidoille yhteinen oppimisnopeus.</GlobalLearningFactor.description>
-    
-    <EatingSpeed.label>syömisnopeus</EatingSpeed.label>
-    <EatingSpeed.description>Kerroin syömisen nopeuteen.</EatingSpeed.description>
-    
-    <ComfyTemperatureMin.label>Pienin mukava lämpötila</ComfyTemperatureMin.label>
-    <ComfyTemperatureMin.description>Tämän lämpötilan alapuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan alapuolella heille tulee hypotermia ja paleltuma ja lopulta he kuolevat.</ComfyTemperatureMin.description>
-    
-    <ComfyTemperatureMax.label>Suurin mukava lämpötila</ComfyTemperatureMax.label>
-    <ComfyTemperatureMax.description>Tämän lämpötilan yläpuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan yläpuolella heille tulee lämpöhalvaus ja lopulta he kuolevat.</ComfyTemperatureMax.description>
-    
-    <ImmunityGainSpeed.label>vastustuskyvyn saamisnopeus</ImmunityGainSpeed.label>
-    <ImmunityGainSpeed.description>Nopeus jolla tämä henkilö saa vastustuskyvyn sairauksille. Jos tämä on liian hidas hän kuolee sairauteen ennen kuin kehittää vastustuskyvyn sille.</ImmunityGainSpeed.description>
-    
-    <CarryingCapacity.label>kantokyky</CarryingCapacity.label>
-    <CarryingCapacity.description>Kuorman suuruus jonka tämä olio voi kantaa käsillään, suullaan tai muulla tavalla.</CarryingCapacity.description>
-    
-    <MeatAmount.label>lihan määrä</MeatAmount.label>
-    <MeatAmount.description>Tämän olion teruastamisesta saatavan lihan määrä.</MeatAmount.description>
-    
-    <LeatherAmount.label>nahan määrä</LeatherAmount.label>
-    <LeatherAmount.description>Tämän olion teruastamisesta saatavan nahan määrä.</LeatherAmount.description>
-    
-    <MinimumHandlingSkill.label>minimikäsittelytaito</MinimumHandlingSkill.label>
-    <MinimumHandlingSkill.description>Tätä oliota ei voi kesyttää, kouluttaa tai komentaa kukaan kenellä on tätä huonompi käsittelytaito.</MinimumHandlingSkill.description>
-    
+
+  <MoveSpeed.label>liikkumisnopeus</MoveSpeed.label>
+  <MoveSpeed.description>Liikkumisen nopeus neliöinä sekunnissa.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+
+  <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Kun henkilön mielentila on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
+
+  <PsychicSensitivity.label>psyykkinen herkkyys</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Kerroin psyykkisten ilmiöiden vaikutukselle.</PsychicSensitivity.description>
+
+  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+
+  <GlobalLearningFactor.label>yleinen oppimisnopeus</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Kaikille taidoille yhteinen oppimisnopeus.</GlobalLearningFactor.description>
+
+  <EatingSpeed.label>syömisnopeus</EatingSpeed.label>
+  <EatingSpeed.description>Kerroin syömisen nopeuteen.</EatingSpeed.description>
+
+  <ComfyTemperatureMin.label>Pienin mukava lämpötila</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Tämän lämpötilan alapuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan alapuolella heille tulee hypotermia ja paleltuma ja lopulta he kuolevat.</ComfyTemperatureMin.description>
+
+  <ComfyTemperatureMax.label>Suurin mukava lämpötila</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Tämän lämpötilan yläpuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan yläpuolella heille tulee lämpöhalvaus ja lopulta he kuolevat.</ComfyTemperatureMax.description>
+
+  <ImmunityGainSpeed.label>vastustuskyvyn saamisnopeus</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Nopeus jolla tämä henkilö saa vastustuskyvyn sairauksille. Jos tämä on liian hidas hän kuolee sairauteen ennen kuin kehittää vastustuskyvyn sille.</ImmunityGainSpeed.description>
+
+  <CarryingCapacity.label>kantokyky</CarryingCapacity.label>
+  <CarryingCapacity.description>Kuorman suuruus jonka tämä olio voi kantaa käsillään, suullaan tai muulla tavalla.</CarryingCapacity.description>
+
+  <MeatAmount.label>lihan määrä</MeatAmount.label>
+  <MeatAmount.description>Tämän olion teruastamisesta saatavan lihan määrä.</MeatAmount.description>
+
+  <LeatherAmount.label>nahan määrä</LeatherAmount.label>
+  <LeatherAmount.description>Tämän olion teruastamisesta saatavan nahan määrä.</LeatherAmount.description>
+
+  <MinimumHandlingSkill.label>minimikäsittelytaito</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Tätä oliota ei voi kesyttää, kouluttaa tai komentaa kukaan kenellä on tätä huonompi käsittelytaito.</MinimumHandlingSkill.description>
+
+
 </LanguageData>

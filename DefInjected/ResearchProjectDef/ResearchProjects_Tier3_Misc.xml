@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+
+  <Firefoam.label>palovaahto</Firefoam.label>
+  <Firefoam.description>Mahdollistaa palovaahtopaukkujen rakentamisen; paloturvallisuusesineiden, jotka levittävät tulta estävää vaahtoa eteneviä liekkejä vastaan.</Firefoam.description>
+
+  <MoisturePump.label>moisture pump</MoisturePump.label>
+  <MoisturePump.description>Allows the construction of moisture pumps, which turn wet ground dry.</MoisturePump.description>
+
+  <GeothermalPower.label>maalämpö</GeothermalPower.label>
+  <GeothermalPower.description>Mahdollistaa maalämpögeneraattorien rakentamisen geysireiden päälle. Maalämpögeneraattori tuottaa energiaa taukoamatta.</GeothermalPower.description>
+
+  <HospitalBed.label>lääkintävuode</HospitalBed.label>
+  <HospitalBed.description>Mahdollistaa yhdyskuntalaisiten rakentaa lääkintävuoteita, jotka parantavat onnistuneen hoidon mahdollisuuksia.</HospitalBed.description>
+
+  <TransportPod.label>transport pod</TransportPod.label>
+  <TransportPod.description>Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface.</TransportPod.description>
+
+  <MedicineProduction.label>medicine production</MedicineProduction.label>
+  <MedicineProduction.description>Produce medicine from herbal medicine, neutroamine, and cloth.</MedicineProduction.description>
+
+  <MultiAnalyzer.label>monianalysaattori</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Kasvattaa tutkimisnopeutta. Täytyy rakentaa lähelle tutkimuspöytää. Yksi tutkimuspöytä voi olla yhdistettynä vain yhteen monianalysaattoriin.</MultiAnalyzer.description>
+
+
+</LanguageData>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <WorkSpeedGlobal.label>yleinen työskentelynopeus</WorkSpeedGlobal.label>
-    <WorkSpeedGlobal.description>Kerroin tämän henkilön kaikkeen työskentelyn nopeuteen.</WorkSpeedGlobal.description>
-    
-    <MiningSpeed.label>louhimisnopeus</MiningSpeed.label>
-    <MiningSpeed.description>Kerroin tämän henkilön louhimisen nopeuteen.</MiningSpeed.description>
-    
-    <SmoothingSpeed.label>hiomisnopeus</SmoothingSpeed.label>
-    <SmoothingSpeed.description>Kerroin tämän henkilön lattioiden hiomisen nopeuteen.</SmoothingSpeed.description>
-    
-    <ResearchSpeed.label>tutkimisnopeus</ResearchSpeed.label>
-    <ResearchSpeed.description>Nopeus, jolla tämä henkilö tutkii.</ResearchSpeed.description>
-    
-    <ConstructionSpeed.label>rakennusnopeus</ConstructionSpeed.label>
-    <ConstructionSpeed.description>Nopeus, jolla tämä henkilö rakentaa ja korjaa rakennuksia.</ConstructionSpeed.description>
-    
-    <PlantWorkSpeed.label>kasvityönopeus</PlantWorkSpeed.label>
-    <PlantWorkSpeed.description>Nopeus, jolla tämä henkilö viljelee ja kerää kasveja.</PlantWorkSpeed.description>
-    
-    <HarvestFailChance.label>sadonkorjuun epäonnistumisen todennäköisyys</HarvestFailChance.label>
-    <HarvestFailChance.description>Todennäköisyys, että tämä henkilö tuhoaa vahingossa sadon sen keräämisen sijaan.</HarvestFailChance.description>
-    
-    <FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
-    <FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
-    
+
+  <WorkSpeedGlobal.label>yleinen työskentelynopeus</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>Kerroin tämän henkilön kaikkeen työskentelyn nopeuteen.</WorkSpeedGlobal.description>
+
+  <MiningSpeed.label>louhimisnopeus</MiningSpeed.label>
+  <MiningSpeed.description>Kerroin tämän henkilön louhimisen nopeuteen.</MiningSpeed.description>
+
+  <SmoothingSpeed.label>hiomisnopeus</SmoothingSpeed.label>
+  <SmoothingSpeed.description>Kerroin tämän henkilön lattioiden hiomisen nopeuteen.</SmoothingSpeed.description>
+
+  <ResearchSpeed.label>tutkimisnopeus</ResearchSpeed.label>
+  <ResearchSpeed.description>Nopeus, jolla tämä henkilö tutkii.</ResearchSpeed.description>
+
+  <ConstructionSpeed.label>rakennusnopeus</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Nopeus, jolla tämä henkilö rakentaa ja korjaa rakennuksia.</ConstructionSpeed.description>
+
+  <PlantWorkSpeed.label>kasvityönopeus</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>Nopeus, jolla tämä henkilö viljelee ja kerää kasveja.</PlantWorkSpeed.description>
+
+  <HarvestFailChance.label>sadonkorjuun epäonnistumisen todennäköisyys</HarvestFailChance.label>
+  <HarvestFailChance.description>Todennäköisyys, että tämä henkilö tuhoaa vahingossa sadon sen keräämisen sijaan.</HarvestFailChance.description>
+
+  <ConstructFailChance.label>construct fail chance</ConstructFailChance.label>
+  <ConstructFailChance.description>The chance that this person will fail in constructing something, wasting time and resources.</ConstructFailChance.description>
+
+  <FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
+  <FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
+
+
 </LanguageData>

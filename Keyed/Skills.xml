@@ -8,10 +8,9 @@
   <PassionNone>Ei kiinnostunut (oppii {0}x)</PassionNone>
   <PassionMinor>Kiinnostunut (oppii {0}x)</PassionMinor>
   <PassionMajor>Palava (oppii {0}x)</PassionMajor>
+  <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
   <EffectsAtLevel>Vaikutus tasolla {0}</EffectsAtLevel>
   <SkillMax>Maksimi</SkillMax>
-
-
 
   <Skill0>Kykenemätön</Skill0>
   <Skill1>Epäpätevä</Skill1>
@@ -35,8 +34,4 @@
   <Skill19>Legendaarinen</Skill19>
   <Skill20>Jumalainen</Skill20>
 
-
-  
-  
-  
 </LanguageData>

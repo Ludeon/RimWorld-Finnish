@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Metallic.label>metallinen</Metallic.label>
-    
-    <Woody.label>puinen</Woody.label>
-    
-    <Stony.label>kivinen</Stony.label>
-    
-    <Fabric.label>kankainen</Fabric.label>
-    
-    <Leathery.label>nahkainen</Leathery.label>
-    
+
+  <Metallic.label>metallinen</Metallic.label>
+  <Woody.label>puinen</Woody.label>
+  <Stony.label>kivinen</Stony.label>
+  <Fabric.label>kankainen</Fabric.label>
+  <Leathery.label>nahkainen</Leathery.label>
+
+
 </LanguageData>

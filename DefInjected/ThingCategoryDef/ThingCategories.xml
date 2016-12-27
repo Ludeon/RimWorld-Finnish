@@ -1,70 +1,76 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Root.label>juuri</Root.label>
-    
-    <Resources.label>resurssit</Resources.label>
-    
-    <Foods.label>ruuat</Foods.label>
-    
-    <FoodMeals.label>ateriat</FoodMeals.label>
-    
-    <FoodRaw.label>raa-at ruuat</FoodRaw.label>
-    
-    <MeatRaw.label>liha</MeatRaw.label>
-    
-    <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
-    
-    <AnimalProductRaw.label>eläintuotteet</AnimalProductRaw.label>
-    
-    <EggsUnfertilized.label>munat (ei hedel.)</EggsUnfertilized.label>
-    
-    <EggsFertilized.label>munat (hedel.)</EggsFertilized.label>
-    
-    <Manufactured.label>tuotetut</Manufactured.label>
-    
-    <Textiles.label>tekstiilit</Textiles.label>
-    
-    <Leathers.label>nahat</Leathers.label>
-    
-    <Medicine.label>lääketarpeet</Medicine.label>
-    
-    <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
-    
-    <StoneBlocks.label>kiviharkot</StoneBlocks.label>
-    
-    <Items.label>esineet</Items.label>
-    
-    <Art.label>taide</Art.label>
-    
-    <Furniture.label>huonekalut</Furniture.label>
-    
-    <Unfinished.label>keskeneräiset</Unfinished.label>
-    
-    <Weapons.label>aseet</Weapons.label>
-    
-    <WeaponsMelee.label>lähitaisteluaseet</WeaponsMelee.label>
-    
-    <WeaponsRanged.label>ampuma-aseet</WeaponsRanged.label>
-    
-    <Grenades.label>kranaatit</Grenades.label>
-    
-    <Apparel.label>vaatteet</Apparel.label>
-    
-    <Headgear.label>päähineet</Headgear.label>
-    
-    <BodyPartsAndImplants.label>ruumiinosat</BodyPartsAndImplants.label>
-    
-    <Chunks.label>kimpaleet</Chunks.label>
-    
-    <StoneChunks.label>kivenjärkäleet</StoneChunks.label>
-    
-    <Corpses.label>ruumiit</Corpses.label>
-    
-    <CorpsesHumanlike.label>ihmisruumiit</CorpsesHumanlike.label>
-    
-    <CorpsesAnimal.label>eläinten ruumiit</CorpsesAnimal.label>
-    
-    <CorpsesMechanoid.label>mekanoidien ruumiit</CorpsesMechanoid.label>
-    
+
+  <Root.label>juuri</Root.label>
+
+
+  
+
+  <Foods.label>ruuat</Foods.label>
+  <FoodMeals.label>ateriat</FoodMeals.label>
+  <FoodRaw.label>raa-at ruuat</FoodRaw.label>
+  <MeatRaw.label>liha</MeatRaw.label>
+  <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
+  <AnimalProductRaw.label>eläintuotteet</AnimalProductRaw.label>
+  <EggsUnfertilized.label>munat (ei hedel.)</EggsUnfertilized.label>
+  <EggsFertilized.label>munat (hedel.)</EggsFertilized.label>
+
+
+  
+
+  <Manufactured.label>tuotetut</Manufactured.label>
+  <Textiles.label>tekstiilit</Textiles.label>
+  <Leathers.label>nahat</Leathers.label>
+  <Medicine.label>lääketarpeet</Medicine.label>
+  <Drugs.label>drugs</Drugs.label>
+
+
+  
+
+  <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
+  <PlantMatter.label>plant matter</PlantMatter.label>
+  <StoneBlocks.label>kiviharkot</StoneBlocks.label>
+
+
+  
+
+  <Items.label>esineet</Items.label>
+  <Art.label>taide</Art.label>
+  <Furniture.label>huonekalut</Furniture.label>
+  <Unfinished.label>keskeneräiset</Unfinished.label>
+  <Artifacts.label>artifacts</Artifacts.label>
+  <BodyParts.label>body parts</BodyParts.label>
+  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
+
+
+  
+
+  <Weapons.label>aseet</Weapons.label>
+  <WeaponsMelee.label>lähitaisteluaseet</WeaponsMelee.label>
+  <WeaponsRanged.label>ampuma-aseet</WeaponsRanged.label>
+  <Grenades.label>kranaatit</Grenades.label>
+
+
+  
+
+  <Apparel.label>vaatteet</Apparel.label>
+  <Headgear.label>päähineet</Headgear.label>
+
+
+  
+
+  <Chunks.label>kimpaleet</Chunks.label>
+  <StoneChunks.label>kivenjärkäleet</StoneChunks.label>
+
+
+  
+
+  <Corpses.label>ruumiit</Corpses.label>
+  <CorpsesHumanlike.label>ihmisruumiit</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>eläinten ruumiit</CorpsesAnimal.label>
+  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
+  <CorpsesMechanoid.label>mekanoidien ruumiit</CorpsesMechanoid.label>
+
+
 </LanguageData>

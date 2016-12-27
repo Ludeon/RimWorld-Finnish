@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Villager.label>kyläläinen</Villager.label>
-    
-    <TownCouncilman.label>kylän valtuutettu</TownCouncilman.label>
-    
-    <TownTrader.label>town trader</TownTrader.label>
-    
-    <TownGuard.label>kylänvahti</TownGuard.label>
-    
+
+  <Villager.label>kyläläinen</Villager.label>
+  <TownCouncilman.label>kylän valtuutettu</TownCouncilman.label>
+  <TownTrader.label>town trader</TownTrader.label>
+  <TownGuard.label>kylänvahti</TownGuard.label>
+
+
 </LanguageData>

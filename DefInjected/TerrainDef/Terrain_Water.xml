@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <WaterDeep.label>syvää vettä</WaterDeep.label>
-    
-    <WaterShallow.label>matalaa vettä</WaterShallow.label>
-    
+
+  <WaterDeep.label>syvää vettä</WaterDeep.label>
+  <WaterShallow.label>matalaa vettä</WaterShallow.label>
+
+
 </LanguageData>

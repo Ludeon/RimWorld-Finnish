@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <None.label>ei mikään</None.label>
+  <Name.label>nimi</Name.label>
+  <MarketValue.label>markkina-arvo</MarketValue.label>
+  <Category.label>kategoria</Category.label>
+  <Quality.label>laatu</Quality.label>
+  <HitPointsPercentage.label>osumapisteiden määrä</HitPointsPercentage.label>
+
+</LanguageData>

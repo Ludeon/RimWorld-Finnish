@@ -1,82 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Torso.label>yläruumis</Torso.label>
-    
-    <LeftShoulder.label>vasen olkapää</LeftShoulder.label>
-    
-    <LeftArm.label>vasen käsivarsi</LeftArm.label>
-    
-    <LeftHand.label>vasen käsi</LeftHand.label>
-    
-    <LeftHandPinky.label>vasen pikkurilli</LeftHandPinky.label>
-    
-    <LeftHandRingFinger.label>vasen nimetön</LeftHandRingFinger.label>
-    
-    <LeftHandMiddleFinger.label>vasen keskisormi</LeftHandMiddleFinger.label>
-    
-    <LeftHandIndexFinger.label>vasen etusormi</LeftHandIndexFinger.label>
-    
-    <LeftHandThumb.label>vasen peukalo</LeftHandThumb.label>
-    
-    <RightShoulder.label>oikea olkapää</RightShoulder.label>
-    
-    <RightArm.label>oikea käsivarsi</RightArm.label>
-    
-    <RightHand.label>oikea käsi</RightHand.label>
-    
-    <RightHandPinky.label>oikea pikkurilli</RightHandPinky.label>
-    
-    <RightHandRingFinger.label>oikea nimetön</RightHandRingFinger.label>
-    
-    <RightHandMiddleFinger.label>oikea keskisormi</RightHandMiddleFinger.label>
-    
-    <RightHandIndexFinger.label>oikea etusormi</RightHandIndexFinger.label>
-    
-    <RightHandThumb.label>oikea peukalo</RightHandThumb.label>
-    
-    <LeftFootLittleToe.label>vasen pikkuvarvas</LeftFootLittleToe.label>
-    
-    <LeftFootFourthToe.label>vasen neljäs varvas</LeftFootFourthToe.label>
-    
-    <LeftFootMiddleToe.label>vasen keskivarvas</LeftFootMiddleToe.label>
-    
-    <LeftFootSecondToe.label>vasen toinen varvas</LeftFootSecondToe.label>
-    
-    <LeftFootBigToe.label>vasen isovarvas</LeftFootBigToe.label>
-    
-    <RightFootLittleToe.label>oikea pikkuvarvas</RightFootLittleToe.label>
-    
-    <RightFootFourthToe.label>oikea neljäs varvas</RightFootFourthToe.label>
-    
-    <RightFootMiddleToe.label>oikea keskivarvas</RightFootMiddleToe.label>
-    
-    <RightFootSecondToe.label>oikea toinen varvas</RightFootSecondToe.label>
-    
-    <RightFootBigToe.label>oikea isovarvas</RightFootBigToe.label>
-    
-    <LeftClavicle.label>vasen solisluu</LeftClavicle.label>
-    
-    <RightClavicle.label>oikea solisluu</RightClavicle.label>
-    
-    <Sternum.label>rintalasta</Sternum.label>
-    
-    <LeftHumerus.label>vasen olkaluu</LeftHumerus.label>
-    
-    <RightHumerus.label>oikea olkaluu</RightHumerus.label>
-    
-    <LeftRadius.label>vasen värttinäluu</LeftRadius.label>
-    
-    <RightRadius.label>oikea värttinäluu</RightRadius.label>
-    
-    <Pelvis.label>lantio</Pelvis.label>
-    
-    <LeftFemur.label>vasen reisiluu</LeftFemur.label>
-    
-    <RightFemur.label>oikea reisiluu</RightFemur.label>
-    
-    <LeftTibia.label>vasen sääriluu</LeftTibia.label>
-    
-    <RightTibia.label>oikea sääriluu</RightTibia.label>
-    
+
+  <Torso.label>yläruumis</Torso.label>
+  <LeftShoulder.label>vasen olkapää</LeftShoulder.label>
+  <LeftArm.label>vasen käsivarsi</LeftArm.label>
+  <LeftHand.label>vasen käsi</LeftHand.label>
+  <LeftHandPinky.label>vasen pikkurilli</LeftHandPinky.label>
+  <LeftHandRingFinger.label>vasen nimetön</LeftHandRingFinger.label>
+  <LeftHandMiddleFinger.label>vasen keskisormi</LeftHandMiddleFinger.label>
+  <LeftHandIndexFinger.label>vasen etusormi</LeftHandIndexFinger.label>
+  <LeftHandThumb.label>vasen peukalo</LeftHandThumb.label>
+  <RightShoulder.label>oikea olkapää</RightShoulder.label>
+  <RightArm.label>oikea käsivarsi</RightArm.label>
+  <RightHand.label>oikea käsi</RightHand.label>
+  <RightHandPinky.label>oikea pikkurilli</RightHandPinky.label>
+  <RightHandRingFinger.label>oikea nimetön</RightHandRingFinger.label>
+  <RightHandMiddleFinger.label>oikea keskisormi</RightHandMiddleFinger.label>
+  <RightHandIndexFinger.label>oikea etusormi</RightHandIndexFinger.label>
+  <RightHandThumb.label>oikea peukalo</RightHandThumb.label>
+  <LeftFootLittleToe.label>vasen pikkuvarvas</LeftFootLittleToe.label>
+  <LeftFootFourthToe.label>vasen neljäs varvas</LeftFootFourthToe.label>
+  <LeftFootMiddleToe.label>vasen keskivarvas</LeftFootMiddleToe.label>
+  <LeftFootSecondToe.label>vasen toinen varvas</LeftFootSecondToe.label>
+  <LeftFootBigToe.label>vasen isovarvas</LeftFootBigToe.label>
+  <RightFootLittleToe.label>oikea pikkuvarvas</RightFootLittleToe.label>
+  <RightFootFourthToe.label>oikea neljäs varvas</RightFootFourthToe.label>
+  <RightFootMiddleToe.label>oikea keskivarvas</RightFootMiddleToe.label>
+  <RightFootSecondToe.label>oikea toinen varvas</RightFootSecondToe.label>
+  <RightFootBigToe.label>oikea isovarvas</RightFootBigToe.label>
+
+
+  
+
+  <LeftClavicle.label>vasen solisluu</LeftClavicle.label>
+  <RightClavicle.label>oikea solisluu</RightClavicle.label>
+  <Sternum.label>rintalasta</Sternum.label>
+  <LeftHumerus.label>vasen olkaluu</LeftHumerus.label>
+  <RightHumerus.label>oikea olkaluu</RightHumerus.label>
+  <LeftRadius.label>vasen värttinäluu</LeftRadius.label>
+  <RightRadius.label>oikea värttinäluu</RightRadius.label>
+  <Pelvis.label>lantio</Pelvis.label>
+  <LeftFemur.label>vasen reisiluu</LeftFemur.label>
+  <RightFemur.label>oikea reisiluu</RightFemur.label>
+  <LeftTibia.label>vasen sääriluu</LeftTibia.label>
+  <RightTibia.label>oikea sääriluu</RightTibia.label>
+
+
 </LanguageData>

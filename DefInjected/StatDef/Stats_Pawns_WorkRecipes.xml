@@ -1,40 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
-    <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
-    
-    <TailoringSpeed.label>räätälöintinopeus</TailoringSpeed.label>
-    <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
-    
-    <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
-    <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
-    
-    <CookSpeed.label>keittonopeus</CookSpeed.label>
-    <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
-    
-    <FoodPoisonChance.label>ruoan myrkyttämisen todennäköisyys</FoodPoisonChance.label>
-    <FoodPoisonChance.description>Todennäköisyys, että tämä henkilö myrkyttää kokkaamansa aterian epähuomiossa.</FoodPoisonChance.description>
-    
-    <BrewingSpeed.label>alkoholin valmistusnopeus</BrewingSpeed.label>
-    <BrewingSpeed.description>Nopeus jolla tämä henkilö panee olutta.</BrewingSpeed.description>
-    
-    <ButcheryFleshSpeed.label>teurastusnopeus</ButcheryFleshSpeed.label>
-    <ButcheryFleshSpeed.description>Nopeus, jolla tämä henkilö teurastaa tuoreita olioita.</ButcheryFleshSpeed.description>
-    
-    <ButcheryFleshEfficiency.label>teurastuskyky</ButcheryFleshEfficiency.label>
-    <ButcheryFleshEfficiency.description>Kerroin teurastamalla tuotetun lihan määrään.</ButcheryFleshEfficiency.description>
-    
-    <ButcheryMechanoidSpeed.label>mekanoidin purkunopeus</ButcheryMechanoidSpeed.label>
-    <ButcheryMechanoidSpeed.description>Nopeus, jolla tämä henkilö purkaa mekanoidin.</ButcheryMechanoidSpeed.description>
-    
-    <ButcheryMechanoidEfficiency.label>mekanoidin purkukyky</ButcheryMechanoidEfficiency.label>
-    <ButcheryMechanoidEfficiency.description>Kerroin mekanoidin purkamisesta saatujen materiaalien määrään.</ButcheryMechanoidEfficiency.description>
-    
-    <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
-    <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
-    
-    <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
-    <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
-    
+
+  
+
+  <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
+  <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
+
+  <TailoringSpeed.label>räätälöintinopeus</TailoringSpeed.label>
+  <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
+
+  <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
+  <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
+
+  <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
+  <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
+
+  <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
+
+  <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
+
+
+  
+
+  <CookSpeed.label>keittonopeus</CookSpeed.label>
+  <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
+
+  <FoodPoisonChance.label>ruoan myrkyttämisen todennäköisyys</FoodPoisonChance.label>
+  <FoodPoisonChance.description>Todennäköisyys, että tämä henkilö myrkyttää kokkaamansa aterian epähuomiossa.</FoodPoisonChance.description>
+
+  <BrewingSpeed.label>alkoholin valmistusnopeus</BrewingSpeed.label>
+  <BrewingSpeed.description>Nopeus jolla tämä henkilö panee olutta.</BrewingSpeed.description>
+
+  <ButcheryFleshSpeed.label>teurastusnopeus</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>Nopeus, jolla tämä henkilö teurastaa tuoreita olioita.</ButcheryFleshSpeed.description>
+
+  <ButcheryMechanoidSpeed.label>mekanoidin purkunopeus</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>Nopeus, jolla tämä henkilö purkaa mekanoidin.</ButcheryMechanoidSpeed.description>
+
+  <ButcheryFleshEfficiency.label>teurastuskyky</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>Kerroin teurastamalla tuotetun lihan määrään.</ButcheryFleshEfficiency.description>
+
+  <ButcheryMechanoidEfficiency.label>mekanoidin purkukyky</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>Kerroin mekanoidin purkamisesta saatujen materiaalien määrään.</ButcheryMechanoidEfficiency.description>
+
+
 </LanguageData>

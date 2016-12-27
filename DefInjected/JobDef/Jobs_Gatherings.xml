@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <MarryAdjacentPawn.reportString>Menee naimisiin henkilön TargetA kanssa.</MarryAdjacentPawn.reportString>
-    
-    <SpectateCeremony.reportString>Osallistuu juhlallisuuksiin.</SpectateCeremony.reportString>
-    
-    <StandAndBeSociallyActive.reportString>Rentoutuu sosiaalisesti.</StandAndBeSociallyActive.reportString>
-    
+
+  <MarryAdjacentPawn.reportString>Menee naimisiin henkilön TargetA kanssa.</MarryAdjacentPawn.reportString>
+  <SpectateCeremony.reportString>Osallistuu juhlallisuuksiin.</SpectateCeremony.reportString>
+  <StandAndBeSociallyActive.reportString>Rentoutuu sosiaalisesti.</StandAndBeSociallyActive.reportString>
+
+
 </LanguageData>

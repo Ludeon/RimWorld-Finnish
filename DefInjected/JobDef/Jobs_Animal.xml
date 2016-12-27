@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Nuzzle.reportString>Kiehnää oliota TargetA.</Nuzzle.reportString>
-    
-    <Mate.reportString>Pariutuu eläimen TargetA kanssa.</Mate.reportString>
-    
-    <LayEgg.reportString>Munii.</LayEgg.reportString>
-    
-    <PredatorHunt.reportString>Metsästää kohdetta TargetA.</PredatorHunt.reportString>
-    
+
+  <Nuzzle.reportString>Kiehnää oliota TargetA.</Nuzzle.reportString>
+  <Mate.reportString>Pariutuu eläimen TargetA kanssa.</Mate.reportString>
+  <LayEgg.reportString>Munii.</LayEgg.reportString>
+  <PredatorHunt.reportString>Metsästää kohdetta TargetA.</PredatorHunt.reportString>
+  <Maintain.reportString>maintaining TargetA.</Maintain.reportString>
+
+
 </LanguageData>

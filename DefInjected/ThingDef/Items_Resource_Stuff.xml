@@ -1,60 +1,73 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Silver.label>hopeaa</Silver.label>
-    <Silver.description>Tätä metallia käytetään useimmiten kauppatavaran valuuttana. Sitä voidaan myös käyttää viehättävien koristeiden tekemiseen.</Silver.description>
-    <Silver.stuffProps.stuffAdjective>hopeinen</Silver.stuffProps.stuffAdjective>
-    
-    <Gold.label>kultaa</Gold.label>
-    <Gold.description>Kaikkein viettelevin metalli. Miljoonat ovat kuolleet yrittäessään ruokkia ihmiskunnan loputonta janoa kullalle. Tällä pehmeällä metallilla ei ole itsessään juuri käyttöä, mutta se on häkellyttävän kaunis ja hyvin harvinainen.</Gold.description>
-    <Gold.stuffProps.stuffAdjective>kultainen</Gold.stuffProps.stuffAdjective>
-    
-    <Steel.label>terästä</Steel.label>
-    <Steel.description>Raudan ja hiilen metalliseos, jota käytetään rakennelmien, työkalujen ja aseiden rakentamiseen.</Steel.description>
-    <Steel.stuffProps.stuffAdjective>metallinen</Steel.stuffProps.stuffAdjective>
-    
-    <Plasteel.label>muoviterästä</Plasteel.label>
-    <Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
-    <Plasteel.stuffProps.stuffAdjective>muoviteräksinen</Plasteel.stuffProps.stuffAdjective>
-    
-    <WoodLog.label>puuta</WoodLog.label>
-    <WoodLog.description>Puumateriaalia puista tai muista kuituisista kasveista. Hyödyllinen rakennelmien, aseiden ja jopa yksinkertaisten proteesien rakentamiseen. Puutikkua voi käyttää aseena tiukan paikan tullen.</WoodLog.description>
-    <WoodLog.stuffProps.stuffAdjective>puinen</WoodLog.stuffProps.stuffAdjective>
-    
-    <Uranium.label>uraania</Uranium.label>
-    <Uranium.description>Äärimmäisen kova ja tiheä metalli. Vaikka sen tunnetuin käyttökohde on ydinreaktoreissa, sen fysikaaliset ominaisuudet tekevät siitä sopivan joissain tarkoituksissa työkaluna, aseena tai panssarina.</Uranium.description>
-    <Uranium.stuffProps.stuffAdjective>uraanista tehty</Uranium.stuffProps.stuffAdjective>
-    
-    <Jade.label>jade</Jade.label>
-    <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. It's hardness and density also makes it a good material for blunt weapons.</Jade.description>
-    <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
-    
-    <Cloth.label>kangasta</Cloth.label>
-    <Cloth.description>Orgaanisista kuiduista kudottua kangasta.</Cloth.description>
-    <Cloth.stuffProps.stuffAdjective>kankainen</Cloth.stuffProps.stuffAdjective>
-    
-    <Synthread.label>tekokuitua</Synthread.label>
-    <Synthread.description>Avaruusajan synteettinen kangas, joka on suunniteltu tavallisten vaatteiden tekemiseen. Se on pehmeä, kevyt, vahva ja eristää hyvin.</Synthread.description>
-    <Synthread.stuffProps.stuffAdjective>tekokuituinen</Synthread.stuffProps.stuffAdjective>
-    
-    <DevilstrandCloth.label>pirunsäiekangasta</DevilstrandCloth.label>
-    <DevilstrandCloth.description>Äärimmäisen vahva kangas, joka on poimittu suoraan silkkiä tuottavista Pirunsäie-sienistä.</DevilstrandCloth.description>
-    <DevilstrandCloth.stuffProps.stuffAdjective>pirunsäiekankainen</DevilstrandCloth.stuffProps.stuffAdjective>
-    
-    <Hyperweave.label>hyperkudosta</Hyperweave.label>
-    <Hyperweave.description>Huipputeknologisia nanokuituja kankaaksi kudottuna. Se on jokseenkin painava, mutta sitä on uskomattoman vaikea rikkoa.</Hyperweave.description>
-    <Hyperweave.stuffProps.stuffAdjective>hyperkudottu</Hyperweave.stuffProps.stuffAdjective>
-    
-    <MuffaloWool.label>hirvibiisonin villaa</MuffaloWool.label>
-    <MuffaloWool.description>Pehmeä, kevyt ja hyvä eristämään lämpöä. Villavaatteet pitävät ruumiin lämpimänä jopa äärimmäisissä olosuhteissa.</MuffaloWool.description>
-    <MuffaloWool.stuffProps.stuffAdjective>hirvibiisonin villainen</MuffaloWool.stuffProps.stuffAdjective>
-    
-    <CamelHair.label>kamelinkarvaa</CamelHair.label>
-    <CamelHair.description>Kamelinkarvaiset vaatteet ovat yleisesti aavikkomatkaajien käyttämiä suojaamaan kuumalta. Se tarjoaa erinomaisen eristyksen lämmöltä sen termostaattisten ominaisuuksiensa ansiosta.</CamelHair.description>
-    <CamelHair.stuffProps.stuffAdjective>kamelinkarvainen</CamelHair.stuffProps.stuffAdjective>
-    
-    <AlpacaWool.label>alpakanvillaa</AlpacaWool.label>
-    <AlpacaWool.description>Huomattavan pehmeä villaa alpakasta.</AlpacaWool.description>
-    <AlpacaWool.stuffProps.stuffAdjective>alpakanvillainen</AlpacaWool.stuffProps.stuffAdjective>
-    
+
+  
+
+  <Silver.label>hopeaa</Silver.label>
+  <Silver.description>Tätä metallia käytetään useimmiten kauppatavaran valuuttana. Sitä voidaan myös käyttää viehättävien koristeiden tekemiseen.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>hopeinen</Silver.stuffProps.stuffAdjective>
+
+  <Gold.label>kultaa</Gold.label>
+  <Gold.description>Kaikkein viettelevin metalli. Miljoonat ovat kuolleet yrittäessään ruokkia ihmiskunnan loputonta janoa kullalle. Tällä pehmeällä metallilla ei ole itsessään juuri käyttöä, mutta se on häkellyttävän kaunis ja hyvin harvinainen.</Gold.description>
+  <Gold.stuffProps.stuffAdjective>kultainen</Gold.stuffProps.stuffAdjective>
+
+  <Steel.label>terästä</Steel.label>
+  <Steel.description>Raudan ja hiilen metalliseos, jota käytetään rakennelmien, työkalujen ja aseiden rakentamiseen.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>metallinen</Steel.stuffProps.stuffAdjective>
+
+  <Plasteel.label>muoviterästä</Plasteel.label>
+  <Plasteel.description>Kehittynyt avaruusajan rakennemateriaali. Se on äärimmäisen vahvaa ainutkertaisen molekyylisen rakenteensa ansiosta.</Plasteel.description>
+  <Plasteel.stuffProps.stuffAdjective>muoviteräksinen</Plasteel.stuffProps.stuffAdjective>
+
+  <WoodLog.label>puuta</WoodLog.label>
+  <WoodLog.description>Puumateriaalia puista tai muista kuituisista kasveista. Hyödyllinen rakennelmien, aseiden ja jopa yksinkertaisten proteesien rakentamiseen. Puutikkua voi käyttää aseena tiukan paikan tullen.</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>puinen</WoodLog.stuffProps.stuffAdjective>
+
+  <Uranium.label>uraania</Uranium.label>
+  <Uranium.description>Äärimmäisen kova ja tiheä metalli. Vaikka sen tunnetuin käyttökohde on ydinreaktoreissa, sen fysikaaliset ominaisuudet tekevät siitä sopivan joissain tarkoituksissa työkaluna, aseena tai panssarina.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>uraanista tehty</Uranium.stuffProps.stuffAdjective>
+
+  <Jade.label>jade</Jade.label>
+  <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. It's hardness and density also makes it a good material for blunt weapons.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
+
+
+  
+
+  <Cloth.label>kangasta</Cloth.label>
+  <Cloth.description>Orgaanisista kuiduista kudottua kangasta.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>kankainen</Cloth.stuffProps.stuffAdjective>
+
+  <Synthread.label>tekokuitua</Synthread.label>
+  <Synthread.description>Avaruusajan synteettinen kangas, joka on suunniteltu tavallisten vaatteiden tekemiseen. Se on pehmeä, kevyt, vahva ja eristää hyvin.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>tekokuituinen</Synthread.stuffProps.stuffAdjective>
+
+  <DevilstrandCloth.label>pirunsäiekangasta</DevilstrandCloth.label>
+  <DevilstrandCloth.description>Äärimmäisen vahva kangas, joka on poimittu suoraan silkkiä tuottavista Pirunsäie-sienistä.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>pirunsäiekankainen</DevilstrandCloth.stuffProps.stuffAdjective>
+
+  <Hyperweave.label>hyperkudosta</Hyperweave.label>
+  <Hyperweave.description>Huipputeknologisia nanokuituja kankaaksi kudottuna. Se on jokseenkin painava, mutta sitä on uskomattoman vaikea rikkoa.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>hyperkudottu</Hyperweave.stuffProps.stuffAdjective>
+
+
+  
+
+  <MegaslothWool.label>Megasloth wool</MegaslothWool.label>
+  <MegaslothWool.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.</MegaslothWool.description>
+  <MegaslothWool.stuffProps.stuffAdjective>Megasloth wool</MegaslothWool.stuffProps.stuffAdjective>
+
+  <MuffaloWool.label>hirvibiisonin villaa</MuffaloWool.label>
+  <MuffaloWool.description>Pehmeä, kevyt ja hyvä eristämään lämpöä. Villavaatteet pitävät ruumiin lämpimänä jopa äärimmäisissä olosuhteissa.</MuffaloWool.description>
+  <MuffaloWool.stuffProps.stuffAdjective>hirvibiisonin villainen</MuffaloWool.stuffProps.stuffAdjective>
+
+  <CamelHair.label>kamelinkarvaa</CamelHair.label>
+  <CamelHair.description>Kamelinkarvaiset vaatteet ovat yleisesti aavikkomatkaajien käyttämiä suojaamaan kuumalta. Se tarjoaa erinomaisen eristyksen lämmöltä sen termostaattisten ominaisuuksiensa ansiosta.</CamelHair.description>
+  <CamelHair.stuffProps.stuffAdjective>kamelinkarvainen</CamelHair.stuffProps.stuffAdjective>
+
+  <AlpacaWool.label>alpakanvillaa</AlpacaWool.label>
+  <AlpacaWool.description>Huomattavan pehmeä villaa alpakasta.</AlpacaWool.description>
+  <AlpacaWool.stuffProps.stuffAdjective>alpakanvillainen</AlpacaWool.stuffProps.stuffAdjective>
+
+
 </LanguageData>

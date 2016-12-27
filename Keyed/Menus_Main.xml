@@ -2,11 +2,12 @@
 <LanguageData>
 
   
-  <CreateWorld>Luo maailma</CreateWorld>
+  <Tutorial>Tutorial</Tutorial>
   <NewColony>Uusi yhdyskunta</NewColony>
   <BackToGame>Takaisin peliin</BackToGame>
+  <ReviewScenario>Review scenario</ReviewScenario>
   <Save>Tallenna</Save>
-  <Load>Lataa yhdyskunta</Load>
+  <LoadGame>Load game</LoadGame>
   <Options>Asetukset</Options>
   <Mods>Modit</Mods>
   <Credits>Tekijät</Credits>
@@ -22,27 +23,36 @@
   <TynansDesignBook>Tynanin design book</TynansDesignBook>
   <HelpTranslate>Auta kääntämään RimWorldia</HelpTranslate>
   <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <CreateWorld>Luo maailma</CreateWorld>
 
   
   <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
   <WorldGenerate>Luo</WorldGenerate>
   <WorldSaveAndFinish>Tallenna</WorldSaveAndFinish>
   <Reset>Resetoi</Reset>
-  <WorldSize>Koko</WorldSize>
+  <PlanetCoverage>Globe coverage</PlanetCoverage>
+  <PlanetRainfall>Overall rainfall</PlanetRainfall>
+  <PlanetTemperature>Overall temperature</PlanetTemperature>
+  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <PlanetRainfall_High>High</PlanetRainfall_High>
+  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <PlanetTemperature_High>High</PlanetTemperature_High>
   <WorldSeed>Luontiarvo</WorldSeed>
   <RandomizeSeed>Satunnainen luontiarvo</RandomizeSeed>
-
+  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
 
   
   <SelectWorld>Valitse maailma</SelectWorld>
   <WorldChooseButton>Valitse</WorldChooseButton>
   <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo maailma ensin.</NoWorldsFilesFound>
-  
+
   
   <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
-	<BuildUpToDate>Versio on uusin</BuildUpToDate>
-	<ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Ladataan versiotietoja...</LoadingVersionInfo>
+  <BuildUpToDate>Versio on uusin</BuildUpToDate>
+  <ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Ladataan versiotietoja...</LoadingVersionInfo>
 
   
   <GenerateWorld>Luo maailma</GenerateWorld>
@@ -61,18 +71,39 @@
   <UpdateOnSteamWorkshop>Päivitä Steam Workshopissa</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>Lataus palvelimelle on jo menossa.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>Julkaisu Workshoppiin epäonnistui.\n\nSyy: {0}</WorkshopSubmissionFailed>
-  <YouAgreeToSteamWorkshopLegal>Julkaisemalla tämän modin hyväksyt  Steam Workshopin käyttöehdot. Paina tästä lisätietoja.</YouAgreeToSteamWorkshopLegal>
   <WorkshopUploadSucceeded>{0} ladattiin onnistuneesti palvelimelle.</WorkshopUploadSucceeded>
-  <DownloadingMod>Ladataan {0}</DownloadingMod>
+  <Downloading>Downloading</Downloading>
+  <Source>Source</Source>
+  <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Drag to reorder</DragToReorder>
+
   
+  <ChooseScenario>Choose scenario</ChooseScenario>
+  <ScenariosCustom>Custom</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Scenario editor</ScenarioEditor>
+  <Delete>Delete</Delete>
+
+  
+  <Seed>seed</Seed>
+  <Load>Lataa yhdyskunta</Load>
+  <EditMode>edit mode</EditMode>
+  <Summary>Summary</Summary>
+  <AddPart>Add part</AddPart>
+  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <Incompatible>Incompatible</Incompatible>
+  <TooMany>Too many (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+
   
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
   <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
   <MustChooseDifficulty>Valitse vaikeustaso.</MustChooseDifficulty>
   <Difficulty>Vaikeustaso</Difficulty>
-
-
-
 
   
   <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
@@ -80,22 +111,16 @@
   <SelectSite>Valitse alue</SelectSite>
   <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
-  <WorldRenderMode>Karttatyyppi</WorldRenderMode>
-  <WorldRenderModeFull>Täysi</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Lämpötila</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Korkeus</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Hedelmällisyys</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Sademäärä</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biomi</WorldRenderModeBiomes>
   <BiomeNotImplemented> on vielä toteuttamatta pelissä</BiomeNotImplemented>
+  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
   <BaseAlreadyThere>Ryhmällä {0} on jo tukikohta tässä.</BaseAlreadyThere>
   <Biome>Biomi</Biome>
   <Terrain>Maasto</Terrain>
   <Elevation>Korkeus</Elevation>
   <Fertility>Hedelmällisyys</Fertility>
   <AvgTemp>Keskilämpötila</AvgTemp>
-  <AvgJanTemp>Keskilämp. (Tammi): {0}</AvgJanTemp>
-  <AvgJulTemp>Keskilämp. (Kesä): {0}</AvgJulTemp>
+  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
+  <AvgWinterTemp>Winter temperature</AvgWinterTemp>
   <Rainfall>Sademäärä</Rainfall>
   <HasCoast0>Pohjoisrannikko</HasCoast0>
   <HasCoast1>Itärannikko</HasCoast1>
@@ -103,6 +128,10 @@
   <HasCoast3>Länsirannikko</HasCoast3>
   <FactionBase>Tukikohta</FactionBase>
   <StoneTypesHere>Kivilajit</StoneTypesHere>
+  <TimeZone>Time zone</TimeZone>
+  <MovementTimeNow>Current movement time</MovementTimeNow>
+  <MovementTimeSummer>Summer movement time</MovementTimeSummer>
+  <MovementTimeWinter>Winter movement time</MovementTimeWinter>
 
 
   
@@ -125,21 +154,21 @@
   <Pain>Kipu</Pain>
   <Health>Health</Health>
   <Relations>Relations</Relations>
-  
-  
+
   
   <Start>Aloita</Start>
   <Advanced>Lisäasetukset</Advanced>
   <Next>Seuraava</Next>
   <Back>Edellinen</Back>
-  
   <Gameplay>Pelattavuus</Gameplay>
-
   <ConfirmQuit>Haluatko varmasti lopettaa? Menetät kaiken tallentamattoman edistyksen.</ConfirmQuit>
-  
   <EveryoneNeedsValidName>Jokainen henkilö tarvitsee sopivan nimen.</EveryoneNeedsValidName>
+  <Quit>Quit</Quit>
+  <Ignore>Ignore</Ignore>
 
+  
   <GeneratingWorld>Luodaan maailmaa...</GeneratingWorld>
   <GeneratingMap>Luodaan karttaa...</GeneratingMap>
+  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 
 </LanguageData>

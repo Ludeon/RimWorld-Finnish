@@ -19,7 +19,7 @@
   <TabArt>Taide</TabArt>
   <TabSocial>Social</TabSocial>
 
-  
+
   
   <AddBill>Lisää tilaus</AddBill>
   <RecipeRequiresSkills>Resepti {0} tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
@@ -40,6 +40,7 @@
   <PrisonerAttemptRecruit>Keskustele ja yritä värvätä</PrisonerAttemptRecruit>
   <PrisonerRelease>Päästä vapaaksi</PrisonerRelease>
   <PrisonerExecution>Teloitus</PrisonerExecution>
+  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
 
 
   
@@ -52,27 +53,29 @@
   <Healthy>Terve</Healthy>
   <InPain>Kivussa</InPain>
   <PainLevel>Kipu</PainLevel>
-  <Dead>Kuollut</Dead>
-  <Unconscious>Tajuton</Unconscious>
-  <PainShock>Shokissa</PainShock>
   <Injured>Haavoittunut</Injured>
   <NoInjuries>(ei vammoja)</NoInjuries>
   <WholeBody>Koko ruumis</WholeBody>
   <DataProcessing>Tiedonkäsittely</DataProcessing>
   <Communication>Kommunikaatio</Communication>
-  <AffectsLower>vaikuttaa</AffectsLower>
+  <Affects>Affects</Affects>
   <BleedingRate>Veren vuotonopeus</BleedingRate>
+  <TimeToDeath>death in {0}</TimeToDeath>
+  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
   <HealthOverview>Yleiskatsaus</HealthOverview>
   <MedicalOperationsShort>Operaatiot ({0})</MedicalOperationsShort>
   <MedicalOperationsMechanoidsShort>Muokkaukset ({0})</MedicalOperationsMechanoidsShort>
   <MedicalOperations>Lääkintäoperaatiot</MedicalOperations>
   <Amputate>Amputoi</Amputate>
   <Harvest>Kerää</Harvest>
+  <RemoveOrgan>Remove</RemoveOrgan>
   <MemoryLower>memory</MemoryLower>
   <SocialInteractionsLower>social interactions</SocialInteractionsLower>
   <HungerRate>Hunger rate</HungerRate>
   <Tiredness>Tiredness</Tiredness>
-  
+  <PainFactor>Pain</PainFactor>
+  <PreventsInfection>Prevents infection</PreventsInfection>
+
 
   
   <None>Ei ollenkaan</None>
@@ -97,7 +100,7 @@
   <CannotTrainTooSmall>{0} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Tarvittava koulutus: {0}</TrainingNeedsPrerequisite>
-  
+
   
   <NoRelationships>(no relationships)</NoRelationships>
   <Kidnapped>Kidnapped</Kidnapped>
@@ -107,5 +110,14 @@
   <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
   <IAmDead>I'm dead</IAmDead>
   <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+
+  
+  <AverageArmor>Average armor</AverageArmor>
+  <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+  <ArmorBlunt>Blunt</ArmorBlunt>
+  <ArmorSharp>Sharp</ArmorSharp>
+  <ArmorHeat>Heat</ArmorHeat>
+  <ArmorElectric>Electric</ArmorElectric>
 
 </LanguageData>

@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Work.label>töitä</Work.label>
-    
-    <Meditative.label>mieteskelevä</Meditative.label>
-    
-    <Lewd.label>irstas</Lewd.label>
-    
-    <Social.label>sosiaalinen</Social.label>
-    
-    <Chemical.label>kemiallinen</Chemical.label>
-    
-    <Gluttonous.label>ahnas</Gluttonous.label>
-    
-    <GamingDexterity.label>pelaaminen (näppäryys)</GamingDexterity.label>
-    
-    <GamingCerebral.label>pelaaminen (älyllinen)</GamingCerebral.label>
-    
-    <Passive.label>passiivinen</Passive.label>
-    
-    <Study.label>opiskelu</Study.label>
-    
+
+  <Work.label>töitä</Work.label>
+  <Meditative.label>mieteskelevä</Meditative.label>
+  <Lewd.label>irstas</Lewd.label>
+  <Social.label>sosiaalinen</Social.label>
+  <Chemical.label>kemiallinen</Chemical.label>
+  <Gluttonous.label>ahnas</Gluttonous.label>
+  <GamingDexterity.label>pelaaminen (näppäryys)</GamingDexterity.label>
+  <GamingCerebral.label>pelaaminen (älyllinen)</GamingCerebral.label>
+  <Passive.label>passiivinen</Passive.label>
+  <Study.label>opiskelu</Study.label>
+
+
 </LanguageData>

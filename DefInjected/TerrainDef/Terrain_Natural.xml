@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Sand.label>hiekkaa</Sand.label>
-    
-    <Soil.label>multaa</Soil.label>
-    
-    <MarshyTerrain.label>rämemultaa</MarshyTerrain.label>
-    
-    <SoilRich.label>hedelmällistä multaa</SoilRich.label>
-    
-    <Mud.label>mutaa</Mud.label>
-    
-    <Marsh.label>suota</Marsh.label>
-    
-    <Gravel.label>soraa</Gravel.label>
-    
-    <MossyTerrain.label>jäkälän peittämää maata</MossyTerrain.label>
-    
-    <Ice.label>Jäätä</Ice.label>
-    
+
+  <Sand.label>hiekkaa</Sand.label>
+  <Soil.label>multaa</Soil.label>
+  <MarshyTerrain.label>rämemultaa</MarshyTerrain.label>
+  <SoilRich.label>hedelmällistä multaa</SoilRich.label>
+  <Mud.label>mutaa</Mud.label>
+  <Marsh.label>suota</Marsh.label>
+  <Gravel.label>soraa</Gravel.label>
+  <MossyTerrain.label>jäkälän peittämää maata</MossyTerrain.label>
+  <Ice.label>Jäätä</Ice.label>
+
+
 </LanguageData>

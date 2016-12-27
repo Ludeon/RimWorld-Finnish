@@ -1,28 +1,63 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Sandbags.label>hiekkasäkkejä</Sandbags.label>
-    <Sandbags.description>Suojaa luodeilta.</Sandbags.description>
-    
-    <TurretGun.label>improvisoitu tykkitorni</TurretGun.label>
-    <TurretGun.description>Heikko improvisoitu tykki joka ampuu automaattisesti kantamassa olevia vihollisia. Räjähtää vaurioituessaan.</TurretGun.description>
-    
-    <Turret_MortarBomb.label>kranaatinheitin</Turret_MortarBomb.label>
-    <Turret_MortarBomb.description>Kranaatinheitin joka ampuu räjähtäviä kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarBomb.description>
-    
-    <Turret_MortarIncendiary.label>palopomminheitin</Turret_MortarIncendiary.label>
-    <Turret_MortarIncendiary.description>Kranaatinheitin joka ampuu palopommeja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarIncendiary.description>
-    
-    <Turret_MortarEMP.label>EMP-kranaatinheitin</Turret_MortarEMP.label>
-    <Turret_MortarEMP.description>Kranaatinheitin joka ampuu EMP-kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarEMP.description>
-    
-    <TrapDeadfall.label>piikkipalloansa</TrapDeadfall.label>
-    <TrapDeadfall.description>Herkän laukaisimen kannattelema piikikäs paino. Kun uhri häiritsee laukaisinta, paino vapautetaan ja se putoaa hänen päälleen.</TrapDeadfall.description>
-    
-    <TrapIEDBomb.label>improvisoitu räjähdeansa</TrapIEDBomb.label>
-    <TrapIEDBomb.description>Tykinammus yhdistettynä kotitekoiseen laukaisimeen. Kun joku häiritsee laukaisinta, ammus räjähtää. Improvisoidussa laukaisimessa on satunnainen viive, joka saattaa mahdollistaa ketterän uhrin karkaamisen.</TrapIEDBomb.description>
-    
-    <TrapIEDIncendiary.label>improvisoitu palopommiansa</TrapIEDIncendiary.label>
-    <TrapIEDIncendiary.description>Räjähteitä sekoitettuna palopommitahnaan kemiallisella laukaisimella. Sen kemiallinen laukaisin on yksinkertainen ja varma.</TrapIEDIncendiary.description>
-    
+
+  <Sandbags.label>hiekkasäkkejä</Sandbags.label>
+  <Sandbags.description>Suojaa luodeilta.</Sandbags.description>
+
+
+  
+
+  <TurretGun.label>improvisoitu tykkitorni</TurretGun.label>
+  <TurretGun.description>Heikko improvisoitu tykki joka ampuu automaattisesti kantamassa olevia vihollisia. Räjähtää vaurioituessaan.</TurretGun.description>
+
+  <Bullet_TurretImprovised.label>improvisoidun tykkitornin luoti</Bullet_TurretImprovised.label>
+  <Gun_TurretImprovised.label>improvisoidun tykkitornin kivääri</Gun_TurretImprovised.label>
+  <Gun_TurretImprovised.description>Tykkitorniin improvisoiden kiinnitetty kivääri.</Gun_TurretImprovised.description>
+
+
+  
+
+  <Turret_MortarBomb.label>kranaatinheitin</Turret_MortarBomb.label>
+  <Turret_MortarBomb.description>Kranaatinheitin joka ampuu räjähtäviä kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarBomb.description>
+
+  <Artillery_MortarBomb.label>kranaatinheitin</Artillery_MortarBomb.label>
+  <Artillery_MortarBomb.description>Kranaatiheittimen laukaisinosa. Heittää kranaatteja seinien yli. Hyvin epätarkka mutta kauaskantoinen.</Artillery_MortarBomb.description>
+
+  <Bullet_MortarBomb.label>kranaatinheitiimen kranaatti</Bullet_MortarBomb.label>
+
+
+  
+
+  <Turret_MortarIncendiary.label>palopomminheitin</Turret_MortarIncendiary.label>
+  <Turret_MortarIncendiary.description>Kranaatinheitin joka ampuu palopommeja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarIncendiary.description>
+
+  <Artillery_MortarIncendiary.label>palopomminheitin</Artillery_MortarIncendiary.label>
+  <Artillery_MortarIncendiary.description>Palopomminheittimen laukaisinosa. Heittää tulipaloja sytyttäviä pommeja seinien yli. Hyvin epätarkka mutta kauaskantoinen.</Artillery_MortarIncendiary.description>
+
+  <Bullet_MortarIncendiary.label>palopomminheitiimen kranaatti</Bullet_MortarIncendiary.label>
+
+
+  
+
+  <Turret_MortarEMP.label>EMP-kranaatinheitin</Turret_MortarEMP.label>
+  <Turret_MortarEMP.description>Kranaatinheitin joka ampuu EMP-kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan.</Turret_MortarEMP.description>
+
+  <Artillery_MortarEMP.label>EMP-kranaatinheitin</Artillery_MortarEMP.label>
+  <Artillery_MortarEMP.description>EMP-kranaatinheittimen laukaisinosa. Heittää EMP-kranaatteja seinien yli. Hyvin epätarkka mutta kauaskantoinen.</Artillery_MortarEMP.description>
+
+  <Bullet_MortarEMP.label>EMP-kranaatinheitiimen kranaatti</Bullet_MortarEMP.label>
+
+
+  
+
+  <TrapDeadfall.label>piikkipalloansa</TrapDeadfall.label>
+  <TrapDeadfall.description>Herkän laukaisimen kannattelema piikikäs paino. Kun uhri häiritsee laukaisinta, paino vapautetaan ja se putoaa hänen päälleen.</TrapDeadfall.description>
+
+  <TrapIEDBomb.label>improvisoitu räjähdeansa</TrapIEDBomb.label>
+  <TrapIEDBomb.description>Tykinammus yhdistettynä kotitekoiseen laukaisimeen. Kun joku häiritsee laukaisinta, ammus räjähtää. Improvisoidussa laukaisimessa on satunnainen viive, joka saattaa mahdollistaa ketterän uhrin karkaamisen.</TrapIEDBomb.description>
+
+  <TrapIEDIncendiary.label>improvisoitu palopommiansa</TrapIEDIncendiary.label>
+  <TrapIEDIncendiary.description>Räjähteitä sekoitettuna palopommitahnaan kemiallisella laukaisimella. Sen kemiallinen laukaisin on yksinkertainen ja varma.</TrapIEDIncendiary.description>
+
+
 </LanguageData>

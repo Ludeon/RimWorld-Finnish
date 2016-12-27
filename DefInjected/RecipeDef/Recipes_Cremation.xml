@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <CremateCorpse.label>polta ruumis</CremateCorpse.label>
-    <CremateCorpse.description>Polta ruumis hävittääksesi sen kokonaan.</CremateCorpse.description>
-    <CremateCorpse.jobString>Polttaa ruumista.</CremateCorpse.jobString>
-    
-    <BurnApparel.label>polta vaate</BurnApparel.label>
-    <BurnApparel.description>Polta vaate hävittääksesi sen kokonaan.</BurnApparel.description>
-    <BurnApparel.jobString>Polttaa vaatetta.</BurnApparel.jobString>
-    
+
+  <CremateCorpse.label>polta ruumis</CremateCorpse.label>
+  <CremateCorpse.description>Polta ruumis hävittääksesi sen kokonaan.</CremateCorpse.description>
+  <CremateCorpse.jobString>Polttaa ruumista.</CremateCorpse.jobString>
+
+  <BurnApparel.label>polta vaate</BurnApparel.label>
+  <BurnApparel.description>Polta vaate hävittääksesi sen kokonaan.</BurnApparel.description>
+  <BurnApparel.jobString>Polttaa vaatetta.</BurnApparel.jobString>
+
+  <BurnApparelCampfire.label>burn apparel</BurnApparelCampfire.label>
+  <BurnApparelCampfire.description>Burn apparel to completely destroy it.</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
+
+
 </LanguageData>

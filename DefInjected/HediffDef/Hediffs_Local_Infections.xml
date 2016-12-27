@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <GutWorms.label>lapamatoja</GutWorms.label>
+  <MuscleParasites.label>lihaksen loisia</MuscleParasites.label>
+
+  <FibrousMechanites.label>kuitumaisia mekaniitteja</FibrousMechanites.label>
+  <FibrousMechanites.stages.0.label>lievä kipu</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>voimakas kipu</FibrousMechanites.stages.1.label>
+
+  <SensoryMechanites.label>astien mekaniitteja</SensoryMechanites.label>
+  <SensoryMechanites.stages.0.label>lievä kipu</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>voimakas kipu</SensoryMechanites.stages.1.label>
+
+  <WoundInfection.label>tartunta</WoundInfection.label>
+  <WoundInfection.stages.0.label>vähäinen</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>merkittävä</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>äärimmäinen</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>äärimmäinen</WoundInfection.stages.3.label>
+
+  <Flu.label>influenssa</Flu.label>
+  <Flu.stages.0.label>minor-hidden</Flu.stages.0.label>
+  <Flu.stages.1.label>vähäinen</Flu.stages.1.label>
+  <Flu.stages.2.label>merkittävä</Flu.stages.2.label>
+  <Flu.stages.3.label>äärimmäinen</Flu.stages.3.label>
+
+  <Plague.label>rutto</Plague.label>
+  <Plague.stages.0.label>vähäinen</Plague.stages.0.label>
+  <Plague.stages.1.label>vähäinen</Plague.stages.1.label>
+  <Plague.stages.2.label>merkittävä</Plague.stages.2.label>
+  <Plague.stages.3.label>äärimmäinen</Plague.stages.3.label>
+  <Plague.stages.4.label>äärimmäinen</Plague.stages.4.label>
+
+  <Malaria.label>malaria</Malaria.label>
+  <Malaria.stages.0.label>vähäinen</Malaria.stages.0.label>
+  <Malaria.stages.1.label>vähäinen</Malaria.stages.1.label>
+  <Malaria.stages.2.label>merkittävä</Malaria.stages.2.label>
+  <Malaria.stages.3.label>äärimmäinen</Malaria.stages.3.label>
+
+  <SleepingSickness.label>unitauti</SleepingSickness.label>
+  <SleepingSickness.stages.0.label>minor-hidden</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>vähäinen</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>vähäinen</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>merkittävä</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>äärimmäinen</SleepingSickness.stages.4.label>
+  <SleepingSickness.stages.5.label>äärimmäinen</SleepingSickness.stages.5.label>
+
+
+</LanguageData>

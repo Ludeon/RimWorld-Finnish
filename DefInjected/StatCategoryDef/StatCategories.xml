@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Basics.label>Perustiedot</Basics.label>
-    
-    <BasicsPawn.label>Perustiedot</BasicsPawn.label>
-    
-    <BasicsNonPawn.label>Perustiedot</BasicsNonPawn.label>
-    
-    <Apparel.label>Vaatteet</Apparel.label>
-    
-    <Weapon.label>Ase</Weapon.label>
-    
-    <Building.label>Rakennus</Building.label>
-    
-    <EquippedStatOffsets.label>Poikkeamat, kun käytössä</EquippedStatOffsets.label>
-    
-    <StuffStatFactors.label>Kertoimet, kun esine on tehty tästä</StuffStatFactors.label>
-    
-    <StuffStatOffsets.label>Poikkeamat, kun esine on tehty tästä</StuffStatOffsets.label>
-    
-    <StuffOfEquipmentStatFactors.label>Kertoimet, kun varusteet on tehty tästä</StuffOfEquipmentStatFactors.label>
-    
-    <PawnCombat.label>Taistelu</PawnCombat.label>
-    
-    <PawnSocial.label>Sosiaalisuus</PawnSocial.label>
-    
-    <PawnMisc.label>Sekalaiset</PawnMisc.label>
-    
-    <PawnWork.label>Työnteko</PawnWork.label>
-    
+
+  
+
+  <Basics.label>Perustiedot</Basics.label>
+  <BasicsPawn.label>Perustiedot</BasicsPawn.label>
+  <BasicsNonPawn.label>Perustiedot</BasicsNonPawn.label>
+
+
+  
+
+  <Apparel.label>Vaatteet</Apparel.label>
+  <Weapon.label>Ase</Weapon.label>
+  <Building.label>Rakennus</Building.label>
+
+
+  
+
+  <EquippedStatOffsets.label>Poikkeamat, kun käytössä</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Kertoimet, kun esine on tehty tästä</StuffStatFactors.label>
+  <StuffStatOffsets.label>Poikkeamat, kun esine on tehty tästä</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Kertoimet, kun varusteet on tehty tästä</StuffOfEquipmentStatFactors.label>
+
+
+  
+
+  <PawnCombat.label>Taistelu</PawnCombat.label>
+  <PawnSocial.label>Sosiaalisuus</PawnSocial.label>
+  <PawnMisc.label>Sekalaiset</PawnMisc.label>
+  <PawnWork.label>Työnteko</PawnWork.label>
+
+
 </LanguageData>

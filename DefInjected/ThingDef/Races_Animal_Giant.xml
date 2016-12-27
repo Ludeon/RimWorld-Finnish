@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Elephant.label>norsu</Elephant.label>
+  <Elephant.description>Suurin muokkaamaton määeläin. Se voi käyttää syöksyhampaitaan työkaluina esineiden liikuttamiseen - tai tappavina aseina.</Elephant.description>
+  <Elephant_Leather.label>norsun nahkaa</Elephant_Leather.label>
+  <Elephant_Leather.description>Norsun vuodasta tehtyä nahkaa.</Elephant_Leather.description>
+  <Elephant_Leather.stuffProps.stuffAdjective>elephant leathery</Elephant_Leather.stuffProps.stuffAdjective>
+  <Elephant_Meat.label>norsun lihaa</Elephant_Meat.label>
+  <Elephant_Meat.description>Raakaa norsun lihaa.</Elephant_Meat.description>
+  <Elephant_Corpse.label>norsun ruumis</Elephant_Corpse.label>
+  <Elephant_Corpse.description>Kuolleen norsun ruumis.</Elephant_Corpse.description>
+
+  <Megasloth.label>Megasloth</Megasloth.label>
+  <Megasloth.description>A type of ground sloth, megatheria are giant, solitary herbivores. Long extinct after being wiped out by the natives of Earth's America continent, the ground sloth was later brought back using advanced cloning and artificial gestators.</Megasloth.description>
+  <Megasloth_Leather.label>Megasloth leather</Megasloth_Leather.label>
+  <Megasloth_Leather.description>Megasloth leather</Megasloth_Leather.description>
+  <Megasloth_Leather.stuffProps.stuffAdjective>Megasloth leather</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth_Meat.label>Megasloth meat</Megasloth_Meat.label>
+  <Megasloth_Meat.description>Megasloth meat</Megasloth_Meat.description>
+  <Megasloth_Corpse.label>Megasloth corpse</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>Megasloth corpse</Megasloth_Corpse.description>
+
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.description>Jättimäinen olio, jonka alkuperä on tuntematon. Thrumbo on luonnoltaan lempeä, mutta äärimmäisen vaarallinen suututettuna. Sen pitkä turkki on poikkeuksellisen kaunista ja arvokasta ja sen veitsenterävä sarvi on erittäin arvostettu useimmilla markkinoilla. Legendat kertovat, että vanha thrumbo on universumin viisain olio - se vain haluaa olla puhumatta.</Thrumbo.description>
+  <Thrumbo_Leather.label>thrumbon nahkaa</Thrumbo_Leather.label>
+  <Thrumbo_Leather.description>Thrumbon vuodasta tehtyä nahkaa.</Thrumbo_Leather.description>
+  <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbo leathery</Thrumbo_Leather.stuffProps.stuffAdjective>
+  <Thrumbo_Meat.label>thrumbon lihaa</Thrumbo_Meat.label>
+  <Thrumbo_Meat.description>Raakaa thrumbon lihaa.</Thrumbo_Meat.description>
+  <Thrumbo_Corpse.label>thrumbon ruumis</Thrumbo_Corpse.label>
+  <Thrumbo_Corpse.description>Kuolleen thrumbon ruumis.</Thrumbo_Corpse.description>
+
+
+</LanguageData>

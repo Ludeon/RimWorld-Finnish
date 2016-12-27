@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AteInImpressiveDiningRoom.stages.3.label>decent dining room</AteInImpressiveDiningRoom.stages.3.label>
+  <AteInImpressiveDiningRoom.stages.3.description>I ate my meal in a decent dining room.</AteInImpressiveDiningRoom.stages.3.description>
+  <AteInImpressiveDiningRoom.stages.4.label>slightly impressive dining room</AteInImpressiveDiningRoom.stages.4.label>
+  <AteInImpressiveDiningRoom.stages.4.description>I ate my meal in a slightly impressive dining room.</AteInImpressiveDiningRoom.stages.4.description>
+  <AteInImpressiveDiningRoom.stages.5.label>vaikuttava ruokahuone</AteInImpressiveDiningRoom.stages.5.label>
+  <AteInImpressiveDiningRoom.stages.5.description>Söin ateriani mukavassa ruokahuoneessa.</AteInImpressiveDiningRoom.stages.5.description>
+  <AteInImpressiveDiningRoom.stages.6.label>vaikuttava ruokahuone</AteInImpressiveDiningRoom.stages.6.label>
+  <AteInImpressiveDiningRoom.stages.6.description>Söin ateriani vaikuttavavassa ruokahuoneessa.</AteInImpressiveDiningRoom.stages.6.description>
+  <AteInImpressiveDiningRoom.stages.7.label>erittäin vaikuttava ruokahuone</AteInImpressiveDiningRoom.stages.7.label>
+  <AteInImpressiveDiningRoom.stages.7.description>Söin ateriani erittäin vaikuttavassa ruokahuoneessa.</AteInImpressiveDiningRoom.stages.7.description>
+  <AteInImpressiveDiningRoom.stages.8.label>äärimmäisen vaikuttava ruokahuone</AteInImpressiveDiningRoom.stages.8.label>
+  <AteInImpressiveDiningRoom.stages.8.description>Söin ateriani äärimmäisen vaikuttavassa ruokahuoneessa. Voisin olla täällä loppuikäni.</AteInImpressiveDiningRoom.stages.8.description>
+  <AteInImpressiveDiningRoom.stages.9.label>uskomattoman vaikuttava ruokahuone</AteInImpressiveDiningRoom.stages.9.label>
+  <AteInImpressiveDiningRoom.stages.9.description>Söin ateriani uskomattoman vaikuttavassa ruokahuoneessa. Voisin olla täällä loppuikäni.</AteInImpressiveDiningRoom.stages.9.description>
+
+  <JoyActivityInImpressiveRecRoom.stages.3.label>decent rec room</JoyActivityInImpressiveRecRoom.stages.3.label>
+  <JoyActivityInImpressiveRecRoom.stages.3.description>I had fun in a decent rec room.</JoyActivityInImpressiveRecRoom.stages.3.description>
+  <JoyActivityInImpressiveRecRoom.stages.4.label>slightly impressive rec room</JoyActivityInImpressiveRecRoom.stages.4.label>
+  <JoyActivityInImpressiveRecRoom.stages.4.description>I had fun in a nice rec room.</JoyActivityInImpressiveRecRoom.stages.4.description>
+  <JoyActivityInImpressiveRecRoom.stages.5.label>mukava olohuone</JoyActivityInImpressiveRecRoom.stages.5.label>
+  <JoyActivityInImpressiveRecRoom.stages.5.description>Minulla oli hauskaa mukavassa olohuoneessa.</JoyActivityInImpressiveRecRoom.stages.5.description>
+  <JoyActivityInImpressiveRecRoom.stages.6.label>vaikuttava olohuone</JoyActivityInImpressiveRecRoom.stages.6.label>
+  <JoyActivityInImpressiveRecRoom.stages.6.description>Minulla oli hauskaa vaikuttavassa olohuoneessa.</JoyActivityInImpressiveRecRoom.stages.6.description>
+  <JoyActivityInImpressiveRecRoom.stages.7.label>erittäin vaikuttava olohuone</JoyActivityInImpressiveRecRoom.stages.7.label>
+  <JoyActivityInImpressiveRecRoom.stages.7.description>Minulla oli hauskaa erittäin vaikuttavassa olohuoneessa.</JoyActivityInImpressiveRecRoom.stages.7.description>
+  <JoyActivityInImpressiveRecRoom.stages.8.label>äärimmäisen vaikuttava olohuone</JoyActivityInImpressiveRecRoom.stages.8.label>
+  <JoyActivityInImpressiveRecRoom.stages.8.description>Minulla oli hauskaa äärimmäisen vaikuttavassa olohuoneessa. Voisin olla täällä loppuikäni.</JoyActivityInImpressiveRecRoom.stages.8.description>
+  <JoyActivityInImpressiveRecRoom.stages.9.label>uskomattoman vaikuttava olohuone</JoyActivityInImpressiveRecRoom.stages.9.label>
+  <JoyActivityInImpressiveRecRoom.stages.9.description>Minulla oli hauskaa uskomattoman vaikuttavassa olohuoneessa. Voisin olla täällä loppuikäni.</JoyActivityInImpressiveRecRoom.stages.9.description>
+
+
+</LanguageData>

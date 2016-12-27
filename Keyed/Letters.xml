@@ -2,7 +2,7 @@
 <LanguageData>
 
   <JumpToLocation>Hyppää sijaintiin</JumpToLocation>
-  
+
   <LetterLabelFirstSummerWarning>Kesä</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Kesä on alkanut! Talvi on silti tulossa.\n\nSinun ruokaviljelmäsi eivät kasva talven kylmässä. Varmista, että sinulla on ruokaa varastossa usean kuukauden tarpeiksi kun sinulla on siihen vielä mahdollisuus.\n\nVoit rakentaa pakastehuoneen estääksesi ruuan pilaantumisen.\n\nYritä lisäksi ostaa, varastaa tai tehdä itse anorakkeja tai jäädyt astueassasi ulos.</FirstSummerWarning>
 
@@ -24,7 +24,7 @@
   <TheseThingsCrushed>Nämä tavarat murskautuivat:</TheseThingsCrushed>
   <NothingCrushed>Mitään ei murskautunut.</NothingCrushed>
   <LetterLabelRoofCollapsed>Katon romahtaminen</LetterLabelRoofCollapsed>
-  
+
   <RecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</RecruitSuccess>
   <RecruitFail>{0} epäonnistui vangin {1} värmäämisessä ({2} mahdollisuus).</RecruitFail>
 
@@ -51,41 +51,50 @@
 
   <LetterHealthComplications>Henkilölle {0} on tullut {1} lisätautina sairaudesta {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
-  
+
   <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
-  
+
   <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
   <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
+
+  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+
+  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
+  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
+
   
-  
-  <LetterLabelNoticedFamilyMembers>Family</LetterLabelNoticedFamilyMembers>
-  <LetterFamilyMembersRaidEnemy>There are family members of your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThe family members are:</LetterFamilyMembersRaidEnemy>
-  <LetterFamilyMembersRaidFriendly>There are family members of your colonists or prisoners in the arriving group of friendly {0}:</LetterFamilyMembersRaidFriendly>
-  <LetterFamilyMembersNeutralGroup>There are family members of your colonists or prisoners in the arriving group:</LetterFamilyMembersNeutralGroup>
-  <LetterFamilyMembersTraderShipSlaves>The orbital trader is selling family members of your colonists or prisoners:</LetterFamilyMembersTraderShipSlaves>
-  
-  <FamilyLetterAppendedSuffix>(family)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME is a family member of a colonist. HECAP is {0}'s {1}.</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME is a family member of one of your prisoners. HECAP is {0}'s {1}.</FamilyLetterAppendedTextPrisoner>
-  
+  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithFactionBase>The faction base is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
+
+  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME has a relationship with a colonist. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+
   
   <LetterLabelAffair>Affair</LetterLabelAffair>
   <LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
   <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
   <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
   <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} has accepted {0}'s marriage proposal.\n\nAt some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
   <LetterRejectedProposal>{1} has rejected {0}'s marriage proposal. {0} is going to be unhappy about this.</LetterRejectedProposal>
-  
+
   
   <LetterLabelRelationsChangeGood>Hyväntahtoisuutta</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Pahantahtoisuutta</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Zzzap...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Mielen murtuminen</LetterLabelMentalBreakdown>
-  
+
   
   <LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
   <LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
@@ -96,9 +105,43 @@
   
   <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
   <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
-  
+
   
   <LetterLabelNewParty>Party</LetterLabelNewParty>
   <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
+
+  
+  <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\nHECAP now has a need for {1}, visible on HIS Needs tab. HECAP will automatically consume the drug to fulfil HIS need. If HE cannot get any {1}, HE will go into withdrawal.</LetterNewlyAddicted>
+
+  
+  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+
+  
+  <LetterLabelFormedCaravan>Caravan ready</LetterLabelFormedCaravan>
+  <LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
+
+  
+  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>All members of your caravan have died.</LetterAllCaravanColonistsDied>
+
+  
+  <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
+
+  
+  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
+
+  
+  <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} hours to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+
+  
+  <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
 
 </LanguageData>

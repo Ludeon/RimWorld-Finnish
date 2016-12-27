@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MasochistPain.stages.0.label>vähän kipua</MasochistPain.stages.0.label>
+  <MasochistPain.stages.0.description>Au... Heh heh heh... Voisin tottua tähän!</MasochistPain.stages.0.description>
+  <MasochistPain.stages.1.label>kohtalaisesti kipua</MasochistPain.stages.1.label>
+  <MasochistPain.stages.1.description>Huh... Sattuu, mutta pidän siitä! Antaa tulla vaan!</MasochistPain.stages.1.description>
+  <MasochistPain.stages.2.label>akuuttinen kipu</MasochistPain.stages.2.label>
+  <MasochistPain.stages.2.description>Auts... Jotain taitaa olla rikki... Mutta onpas aistikas tunne!</MasochistPain.stages.2.description>
+  <MasochistPain.stages.3.label>shokissa äärimmäisestä kivusta</MasochistPain.stages.3.label>
+  <MasochistPain.stages.3.description>Aaah... Olenko taivaassa?</MasochistPain.stages.3.description>
+
+  <ProsthophileNoProsthetic.stages.0.label>ei bionista ruumiinosaa</ProsthophileNoProsthetic.stages.0.label>
+  <ProsthophileNoProsthetic.stages.0.description>Ihmisliha on niin rajoittavaa. Olisipa minulla jokin keinotekoinen ruumiinosa.</ProsthophileNoProsthetic.stages.0.description>
+
+  <ProsthophileHappy.stages.0.label>bioninen ruumiinosa</ProsthophileHappy.stages.0.label>
+  <ProsthophileHappy.stages.0.description>Olen modernin teknologian tulos! Voin tehdä kaiken paremmin!</ProsthophileHappy.stages.0.description>
+
+  <ProsthophobeUnhappy.stages.0.label>bioninen ruumiinosa</ProsthophobeUnhappy.stages.0.label>
+  <ProsthophobeUnhappy.stages.0.description>He tekivät minusta teknologisen iljetyksen... Jos he vain olisivat antaneet minulle vaihtoehdon...</ProsthophobeUnhappy.stages.0.description>
+
+  <BrawlerUnhappy.stages.0.label>painijalla on etätaisteluase</BrawlerUnhappy.stages.0.label>
+  <BrawlerUnhappy.stages.0.description>Vihaan etäältä taisetemista. Haluan päästä lähelle!</BrawlerUnhappy.stages.0.description>
+
+  <ClothedNudist.stages.0.label>rajoittavat vaatteet</ClothedNudist.stages.0.label>
+  <ClothedNudist.stages.0.description>Olen nudisti mutta minun täytyy pitää tätä vaatekertaa. Se ei ole sietämätöntä - mutta tunnen silti itseni rajoittuneeksi ja epämukavaksi.</ClothedNudist.stages.0.description>
+
+  <HappyNude.stages.0.label>onnellisesti alaston</HappyNude.stages.0.label>
+  <HappyNude.stages.0.description>Olen nakuna ja pidän siitä! Tunnen itseni niin vapaaksi ja rajoittamattomaksi ja yhdteydessä ympäristööni!</HappyNude.stages.0.description>
+
+  <NightOwlDuringTheDay.stages.0.label>yökyöpeli päiväsaikaan</NightOwlDuringTheDay.stages.0.label>
+  <NightOwlDuringTheDay.stages.0.description>En pidä päiväsaikaan työskentelemisestä.</NightOwlDuringTheDay.stages.0.description>
+
+  <NightOwlDuringTheNight.stages.0.label>yökyöpeli yöaikaan</NightOwlDuringTheNight.stages.0.label>
+  <NightOwlDuringTheNight.stages.0.description>Tunnen itseni paljon paremmaksi yöllä.</NightOwlDuringTheNight.stages.0.description>
+
+  <Greedy.stages.0.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.0.label>
+  <Greedy.stages.0.description>Olen ahne. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.0.description>
+  <Greedy.stages.1.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.1.label>
+  <Greedy.stages.1.description>Olen ahne. Huoneeni on säälittävä! Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.1.description>
+  <Greedy.stages.2.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.2.label>
+  <Greedy.stages.2.description>Olen ahne. Huoneeni ei ole läheskään tarpeeksi hyvä. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.2.description>
+  <Greedy.stages.3.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.3.label>
+  <Greedy.stages.3.description>Olen ahne. Huoneeni ei ole tarpeeksi hyvä. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.3.description>
+  <Greedy.stages.4.label>ei vaikuttavaa makuuhuonetta</Greedy.stages.4.label>
+  <Greedy.stages.4.description>Olen ahne. Huoneeni ei ole juuri ja juuri tarpeeksi hyvä. Haluan erittäin vaikuttavan makuuhuoneen.</Greedy.stages.4.description>
+
+  <Jealous.stages.0.label>kateellinen</Jealous.stages.0.label>
+  <Jealous.stages.0.description>Jollain muulla on hienompi makuuhuone kuin minulla!</Jealous.stages.0.description>
+
+  <Ascetic.stages.0.label>hirveä makuuhuone</Ascetic.stages.0.label>
+  <Ascetic.stages.0.description>Minun makuuhuoneeni on juuri sellainen kuin haluan. Erittäin nöyräs ja yksinkertainen.</Ascetic.stages.0.description>
+  <Ascetic.stages.1.label>luotaantyöntävä makuuhuone</Ascetic.stages.1.label>
+  <Ascetic.stages.1.description>Minun makuuhuoneeni on juuri sellainen kuin haluan. Erittäin nöyräs ja yksinkertainen.</Ascetic.stages.1.description>
+  <Ascetic.stages.2.label>tylsä makuuhuone</Ascetic.stages.2.label>
+  <Ascetic.stages.2.description>Minun makuuhuoneeni on erittäin nöyräs ja yksinkertainen. Pidän siitä.</Ascetic.stages.2.description>
+  <Ascetic.stages.5.label>vaikuttava makuuhuone</Ascetic.stages.5.label>
+  <Ascetic.stages.5.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.5.description>
+  <Ascetic.stages.6.label>vaikuttava makuuhuone</Ascetic.stages.6.label>
+  <Ascetic.stages.6.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.6.description>
+  <Ascetic.stages.7.label>vaikuttava makuuhuone</Ascetic.stages.7.label>
+  <Ascetic.stages.7.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.7.description>
+  <Ascetic.stages.8.label>vaikuttava makuuhuone</Ascetic.stages.8.label>
+  <Ascetic.stages.8.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.8.description>
+  <Ascetic.stages.9.label>vaikuttava makuuhuone</Ascetic.stages.9.label>
+  <Ascetic.stages.9.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.9.description>
+  <Ascetic.stages.10.label>vaikuttava makuuhuone</Ascetic.stages.10.label>
+  <Ascetic.stages.10.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.10.description>
+  <Ascetic.stages.11.label>vaikuttava makuuhuone</Ascetic.stages.11.label>
+  <Ascetic.stages.11.description>En pidä siitä kun minulla on vaikuttava makuuhuone.</Ascetic.stages.11.description>
+
+
+</LanguageData>

@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <ButcherCorpseFlesh.label>teurasta eläin</ButcherCorpseFlesh.label>
-    <ButcherCorpseFlesh.description>Teurastaa eläimen ja tuottaa käyttökolpoista lihaa.</ButcherCorpseFlesh.description>
-    <ButcherCorpseFlesh.jobString>Teurastaa.</ButcherCorpseFlesh.jobString>
-    
-    <ButcherCorpseMechanoid.label>pura mekanoidi</ButcherCorpseMechanoid.label>
-    <ButcherCorpseMechanoid.description>Purkaa kuolleen mekanoidin komponentteihinsa.</ButcherCorpseMechanoid.description>
-    <ButcherCorpseMechanoid.jobString>Purkaa mekanoidia.</ButcherCorpseMechanoid.jobString>
-    
-    <MakeKibble.label>make kibble</MakeKibble.label>
-    <MakeKibble.description>Make animal kibble by combining raw meat and plants.</MakeKibble.description>
-    <MakeKibble.jobString>Making kibble.</MakeKibble.jobString>
-    
+
+  <ButcherCorpseFlesh.label>teurasta eläin</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Teurastaa eläimen ja tuottaa käyttökolpoista lihaa.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Teurastaa.</ButcherCorpseFlesh.jobString>
+
+  <ButcherCorpseMechanoid.label>pura mekanoidi</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Purkaa kuolleen mekanoidin komponentteihinsa.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Purkaa mekanoidia.</ButcherCorpseMechanoid.jobString>
+
+
 </LanguageData>

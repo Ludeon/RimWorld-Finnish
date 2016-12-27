@@ -7,8 +7,8 @@
   <DateReadoutTip>Päiviä saapumisestasi: {0}\nJokaisessa kuussa on {1} päivää.\nNykyinen vuodenaika: {2}</DateReadoutTip>
 
   <FullDate>{0}kuun {1}. päivänä {2}</FullDate>
-	<DateReadout>{0} of {1}, {2}</DateReadout>
+  <DateReadout>{0} of {1}, {2}</DateReadout>
   <SeasonFullDate>{0} of {1}</SeasonFullDate>
   <WholeYear>Whole year</WholeYear>
-  
+
 </LanguageData>

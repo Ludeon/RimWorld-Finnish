@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Imprisoned.stages.0.label>vangittu</Imprisoned.stages.0.label>
+  <Imprisoned.stages.0.description>Vihaan lukkojen takana olemista.</Imprisoned.stages.0.description>
+
+  <SharedBedroom.stages.0.label>jaettu makuuhuone</SharedBedroom.stages.0.label>
+  <SharedBedroom.stages.0.description>Huoneen jakaminen muiden kanssa on ärsyttävää. Haluan edes hieman yksityisyyttä.</SharedBedroom.stages.0.description>
+
+  <SharedBed.stages.0.label>sharing bed</SharedBed.stages.0.label>
+  <SharedBed.stages.0.description>I have to share a bed with someone who I don't particularly want to.</SharedBed.stages.0.description>
+
+  <ColonistLeftUnburied.stages.0.label>yhdyskuntalainen hautaamatta</ColonistLeftUnburied.stages.0.label>
+  <ColonistLeftUnburied.stages.0.description>Yksi meistä kuoli ja me vain jätämme hänet makaamaan näkyville. Ketään ei kuuluisi jättää noin. Ihmiset ansaitsevat säädylliset hautajaiset.</ColonistLeftUnburied.stages.0.description>
+
+  <Naked.stages.0.label>alasti</Naked.stages.0.label>
+  <Naked.stages.0.description>Olen nakuna. Tämä on nolottavaa.</Naked.stages.0.description>
+
+  <Pain.stages.0.label>vähän kipua</Pain.stages.0.label>
+  <Pain.stages.0.description>Au... Tuo sattui.</Pain.stages.0.description>
+  <Pain.stages.1.label>kohtalaisesti kipua</Pain.stages.1.label>
+  <Pain.stages.1.description>Hyh... Milloin tämä loppuu?</Pain.stages.1.description>
+  <Pain.stages.2.label>akuuttinen kipu</Pain.stages.2.label>
+  <Pain.stages.2.description>Lopu jo... lopu jo... lopu jo...</Pain.stages.2.description>
+  <Pain.stages.3.label>shokissa äärimmäisestä kivusta</Pain.stages.3.label>
+  <Pain.stages.3.description>AAAAAUUU! Tapa minut nyt!</Pain.stages.3.description>
+
+
+</LanguageData>

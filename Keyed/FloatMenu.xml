@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-  
-	<CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
+  <CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
   <CannotUseReason>Ei voi käyttää ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
-	<CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
-	<CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
+  <CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
+  <CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
+  <CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
   <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
   <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
-  
+  <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+
   <FireAt>Ammu {0}</FireAt>
 
   <OutOfRange>kantaman ulkopuolella</OutOfRange>
@@ -20,33 +19,35 @@
   <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
 
   <OrderManThing>Miehitä {0}</OrderManThing>
-  
+
   <MeleeAttack>Lähitaistele kohteen {0} kanssa</MeleeAttack>
   <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
   <NoPath>ei reittiä</NoPath>
 
-	<ForbiddenLower>kielletty</ForbiddenLower>
-	<SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
+  <ForbiddenLower>kielletty</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>not in home area</NotInHomeArea>
+  <SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
   <PrisonerRoomLower>vangin huone</PrisonerRoomLower>
-	<BurningLower>palaa</BurningLower>
-	<NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
-	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
-	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
+  <BurningLower>palaa</BurningLower>
+  <NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
+  <AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
+  <MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
   <MissingSkill>taitotaso liian matala</MissingSkill>
-	<NoEmptyGraveLower>ei ole tyhjää hautaa määritelty sen varastointiin</NoEmptyGraveLower>
+  <NoEmptyGraveLower>ei ole tyhjää hautaa määritelty sen varastointiin</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>eläin on vuorovaikuttanut liian äskettäin</AnimalInteractedTooRecently>
   <NoUsableFood>ei käyttökelpoista ruokaa</NoUsableFood>
+  <NoFood>no food</NoFood>
   <AnimalsSkillTooLow>Eläimen taitotaso liian matala</AnimalsSkillTooLow>
-	<NoComponentsToRepair>need components</NoComponentsToRepair>
-	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
+  <NoComponentsToRepair>need components</NoComponentsToRepair>
+  <NoFuelToRefuel>need {0}</NoFuelToRefuel>
+  <NoWort>need wort</NoWort>
 
   <ConsumeThing>Syö/juo {0}</ConsumeThing>
-  <Teetotaler>absolutisti</Teetotaler>
-  
-  
+
   <CannotGoNoPath>Ei voi mennä tänne (ei reittiä)</CannotGoNoPath>
   <GoHere>Mene tänne</GoHere>
-  
+
   <Arrest>Pidätä {0}</Arrest>
   <TryToArrest>Yritä pidättää {0}</TryToArrest>
   <CannotArrest>Ei voi pidättää</CannotArrest>
@@ -67,40 +68,59 @@
   <Reserved>Joku muu on varannut tämän.</Reserved>
   <ReservedBy>{0} on varannut tämän.</ReservedBy>
   <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
+  <TooHeavy>Too heavy</TooHeavy>
 
   <Incapable>kykenemätön</Incapable>
   <IncapableOfCapacity>kykenemätön toimintoon {0}</IncapableOfCapacity>
 
+  <MinSkill>min skill</MinSkill>
+
   <Equip>Ota käyttöön {0}</Equip>
   <EquipWarningBrawler>(painija tulee pahalle mielelle)</EquipWarningBrawler>
   <CannotEquip>Ei voida ottaa käyttöön {0}</CannotEquip>
-  
+
   <ForceWear>Pakota pukemaan {0}</ForceWear>
   <CannotWear>Ei voi pukea {0}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
-  
+
+  <CannotPickUp>Cannot pick up {0}</CannotPickUp>
+  <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
+  <PickUp>Pick up {0}</PickUp>
+  <PickUpAll>Pick up {0} (all)</PickUpAll>
+  <PickUpSome>Pick up {0}...</PickUpSome>
+  <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+
+  <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+
+  <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
+  <CarryToExit>Carry {0} and leave the area</CarryToExit>
+
   <Strip>Riisu {0}</Strip>
   <CannotStrip>Ei voi riisua {0}</CannotStrip>
 
-  <Deposit>Talleta {0} kohteeseen {1}</Deposit>
-  <CannotDeposit>Ei voi tallettaa esinettä {0} kohteeseen {1}</CannotDeposit>
-
   <SelfDestructHere>Tuhoudu tässä</SelfDestructHere>
-  
+
   <Drop>Pudota {0}</Drop>
 
   <UseMedicalBed>Lepää kunnes täysin parantunut</UseMedicalBed>
   <NotInjured>Ei loukkaantunut</NotInjured>
   <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
-  
+
   <TradeWith>Trade with {0}</TradeWith>
   <CannotTrade>Cannot trade</CannotTrade>
+
+  <EnterMap>Enter {0}</EnterMap>
+  <VisitFactionBase>Visit {0}</VisitFactionBase>
+  <AttackFactionBase>Attack {0}</AttackFactionBase>
 
   
   <EnterCryptosleepCasket>Mene salauniarkkuun</EnterCryptosleepCasket>
   <OpenCryptosleepCasket>Avaa salauniarkku</OpenCryptosleepCasket>
-
-
 
   
   <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
@@ -110,14 +130,19 @@
 
   <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Ei voi priorisoida ({0} ei ole {1})</CannotPrioritizeIsNotA>
+  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+
+  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>Ei voi priorisoida (tutkimus on pitkäaikainen tehtävä)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
-  
-  
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+
   
   <PrioritizeGeneric>Priorisoi kohteen {1} {0}</PrioritizeGeneric>
-  
+
+  <DropAtEdge>Drop at edge</DropAtEdge>
+  <DropInCenter>Drop in center</DropInCenter>
+
 </LanguageData>

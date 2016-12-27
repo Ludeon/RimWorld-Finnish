@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Anything.label>mitä tahansa</Anything.label>
-    
-    <Work.label>työtä</Work.label>
-    
-    <Joy.label>ilonpitoa</Joy.label>
-    
-    <Sleep.label>unta</Sleep.label>
-    
+
+  <Anything.label>mitä tahansa</Anything.label>
+  <Work.label>työtä</Work.label>
+  <Joy.label>ilonpitoa</Joy.label>
+  <Sleep.label>unta</Sleep.label>
+
+
 </LanguageData>

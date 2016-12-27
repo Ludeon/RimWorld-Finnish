@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <RoofConstructed.label>rakennettu katto</RoofConstructed.label>
-    
-    <RoofRockThin.label>ohut kivikatto</RoofRockThin.label>
-    
-    <RoofRockThick.label>vuori yläpuolella</RoofRockThick.label>
-    
+
+  <RoofConstructed.label>rakennettu katto</RoofConstructed.label>
+  <RoofRockThin.label>ohut kivikatto</RoofRockThin.label>
+  <RoofRockThick.label>vuori yläpuolella</RoofRockThick.label>
+
+
 </LanguageData>

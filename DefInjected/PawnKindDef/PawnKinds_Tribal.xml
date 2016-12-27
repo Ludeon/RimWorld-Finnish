@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <TribalWarrior.label>heimosoturi</TribalWarrior.label>
-    
-    <TribalArcher.label>heimojousimies</TribalArcher.label>
-    
-    <TribalChief.label>heimopäällikkö</TribalChief.label>
-    
-    <TribalTrader.label>trader</TribalTrader.label>
-    
+
+  <TribalWarrior.label>heimosoturi</TribalWarrior.label>
+  <TribalTrader.label>trader</TribalTrader.label>
+  <TribalArcher.label>heimojousimies</TribalArcher.label>
+  <TribalChief.label>heimopäällikkö</TribalChief.label>
+
+
 </LanguageData>

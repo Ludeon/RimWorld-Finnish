@@ -5,7 +5,7 @@
   <LetterHour>t</LetterHour>
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
-  
+
   <DaysLower>päivää</DaysLower>
   <SecondsLower>sekuntia</SecondsLower>
 
@@ -19,7 +19,7 @@
   <AgeBiological>Biologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeBiological>
 
   
-	<Period1Year>1 year</Period1Year>
+  <Period1Year>1 year</Period1Year>
   <PeriodYears>{0} years</PeriodYears>
   <Period1Season>1 season</Period1Season>
   <PeriodSeasons>{0} seasons</PeriodSeasons>
@@ -32,5 +32,5 @@
   <Started>Alkoi</Started>
   <Lasted>Kesti</Lasted>
   <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
-  
+
 </LanguageData>

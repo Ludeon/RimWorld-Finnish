@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
   <StatsReport_BaseValue>Alkuarvo</StatsReport_BaseValue>
   <StatsReport_RelevantTraits>Tätä koskevat luonteenpiirteet</StatsReport_RelevantTraits>
   <StatsReport_RelevantGear>Tätä koskevat varusteet</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
   <StatsReport_LifeStage>Elämänvaihe</StatsReport_LifeStage>
   <StatsReport_Material>Materiaali</StatsReport_Material>
   <StatsReport_CharacterQuality>Hahmon laatu</StatsReport_CharacterQuality>
@@ -12,6 +12,7 @@
   <StatsReport_OtherStats>Muiden tilastojen vaikutus</StatsReport_OtherStats>
   <StatsReport_HealthFactors>Terveyden vaikutus</StatsReport_HealthFactors>
   <HealthFactorPercentImpact>Tärkeys {0}</HealthFactorPercentImpact>
+  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
   <StatsReport_PostProcessed>Jälkikäsittely</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Lopullinen arvo</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>Markkina-arvoon on laskettu mukaan rakennusmateriaalit ja työn määrä.</StatsReport_MarketValueFromStuffsAndWork>
@@ -19,7 +20,7 @@
   <StatsReport_AgeMultiplier>Iästä johtuva kerroin {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>Terveydestä johtuva kerroin {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>Mielialasta johtuva kerroin {0}</StatsReport_MoodMultiplier>
-	<StatsReport_DifficultyMultiplier>Vaikeustasosta johtuva kerroin {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>Vaikeustasosta johtuva kerroin {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>Sängyssä</StatsReport_InBed>
   <StatsReport_Facilities>Facilities</StatsReport_Facilities>
   <StatsReport_BodySize>Kerroin ruumiinkoosta</StatsReport_BodySize>
@@ -30,7 +31,9 @@
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
   <StatsReport_LifeExpectancy>Elinajanodote</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Gear and inventory mass</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
   <AverageOfAllAttacks>keskiarvo kaikista hyökkäyksistä</AverageOfAllAttacks>
-  <StatsReport_UnpoweredWorkTable>No power</StatsReport_UnpoweredWorkTable>
-  
+  <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
+
 </LanguageData>

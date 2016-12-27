@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Apparel_CowboyHat.label>paimenpoikahattu</Apparel_CowboyHat.label>
-    <Apparel_CowboyHat.description>Tyylikäs mutta karu, tämä hattu pitää auringon ja sateen poissa - ja se antaa käyttälleen vähän lisää viehätystä. Tämä on tärkein osa perinteistä lännkkärivaatetusta.</Apparel_CowboyHat.description>
-    
-    <Apparel_Tuque.label>pipo</Apparel_Tuque.label>
-    <Apparel_Tuque.description>Pehmeä paksu lakki. Soveltuu erinomaisesti lämpimänä pysymiseen talvella.</Apparel_Tuque.description>
-    
-    <Apparel_PowerArmorHelmet.label>voimahaarniskan kypärä</Apparel_PowerArmorHelmet.label>
-    <Apparel_PowerArmorHelmet.description>Osa voimahaarniskasarjaa, useimmiten raskaan jalkaväen käyttämä.</Apparel_PowerArmorHelmet.description>
-    
-    <Apparel_KevlarHelmet.label>kevlar-kypärä</Apparel_KevlarHelmet.label>
-    <Apparel_KevlarHelmet.description>Kevyt taistelukypärä</Apparel_KevlarHelmet.description>
-    
-    <Apparel_MilitaryHelmet.label>sotilaskypärä</Apparel_MilitaryHelmet.label>
-    <Apparel_MilitaryHelmet.description>Vanhan näköinen ja painava mutta tehokas. Suojaa hitaita ammuksia, sirpaleita, putoavia kappaleita ja päähän kohdistuvia viiltoja vastaan.</Apparel_MilitaryHelmet.description>
-    
-    <Apparel_PsychicFoilHelmet.label>psykofoliokypärä</Apparel_PsychicFoilHelmet.label>
-    <Apparel_PsychicFoilHelmet.description>Ohut kypärä jossa on tarkasti viritettyjä kalvoja psyykkisiä säteitä imevää foliota. Vähentää psyykkisten tapahtumien vaikuttavuutta.</Apparel_PsychicFoilHelmet.description>
-    
+
+  <Apparel_CowboyHat.label>paimenpoikahattu</Apparel_CowboyHat.label>
+  <Apparel_CowboyHat.description>Tyylikäs mutta karu, tämä hattu pitää auringon ja sateen poissa - ja se antaa käyttälleen vähän lisää viehätystä. Tämä on tärkein osa perinteistä lännkkärivaatetusta.</Apparel_CowboyHat.description>
+
+  <Apparel_Tuque.label>pipo</Apparel_Tuque.label>
+  <Apparel_Tuque.description>Pehmeä paksu lakki. Soveltuu erinomaisesti lämpimänä pysymiseen talvella.</Apparel_Tuque.description>
+
+  <Apparel_MilitaryHelmet.label>sotilaskypärä</Apparel_MilitaryHelmet.label>
+  <Apparel_MilitaryHelmet.description>Vanhan näköinen ja painava mutta tehokas. Suojaa hitaita ammuksia, sirpaleita, putoavia kappaleita ja päähän kohdistuvia viiltoja vastaan.</Apparel_MilitaryHelmet.description>
+
+  <Apparel_KevlarHelmet.label>kevlar-kypärä</Apparel_KevlarHelmet.label>
+  <Apparel_KevlarHelmet.description>Kevyt taistelukypärä</Apparel_KevlarHelmet.description>
+
+  <Apparel_PsychicFoilHelmet.label>psykofoliokypärä</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>Ohut kypärä jossa on tarkasti viritettyjä kalvoja psyykkisiä säteitä imevää foliota. Vähentää psyykkisten tapahtumien vaikuttavuutta.</Apparel_PsychicFoilHelmet.description>
+
+  <Apparel_PowerArmorHelmet.label>voimahaarniskan kypärä</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>Osa voimahaarniskasarjaa, useimmiten raskaan jalkaväen käyttämä.</Apparel_PowerArmorHelmet.description>
+
+
 </LanguageData>

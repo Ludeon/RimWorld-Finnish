@@ -1,61 +1,85 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
-    <SleepingSpot.description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava.</SleepingSpot.description>
-    
-    <Bed.label>sänky</Bed.label>
-    <Bed.description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä.</Bed.description>
-    
-    <DoubleBed.label>double bed</DoubleBed.label>
-    <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
-    
-    <RoyalBed.label>kuninkaallinen sänky</RoyalBed.label>
-    <RoyalBed.description>Ylellinen vuode jalosukuisille.</RoyalBed.description>
-    
-    <HospitalBed.label>lääkintävuode</HospitalBed.label>
-    <HospitalBed.description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.description>
-    
-    <AnimalSleepingSpot.label>eläimen nukkumapaikka</AnimalSleepingSpot.label>
-    <AnimalSleepingSpot.description>Määrää paikan maassa, jossa eläinten kannattaa nukkua.</AnimalSleepingSpot.description>
-    
-    <AnimalSleepingBox.label>eläimen nukkumalaatikko</AnimalSleepingBox.label>
-    <AnimalSleepingBox.description>Pieni laatikko jossa eläimet voivat nukkua. Tähän sopivat pienet eläimet kuten kanat, kissat tai pienet koirat.</AnimalSleepingBox.description>
-    
-    <AnimalBed.label>eläimen sänky</AnimalBed.label>
-    <AnimalBed.description>Pehmeä sänky jossa eläimet voivat nukkua.  Tähän sopivat kaikki eläimet.</AnimalBed.description>
-    
-    <Stool.label>jakkara</Stool.label>
-    <Stool.description>Tämän päällä istutaan.</Stool.description>
-    
-    <DiningChair.label>ruokapöydän tuoli</DiningChair.label>
-    <DiningChair.description>Mukava ja puoleensavetävä tuoli pöydän ääressä istumiseen.</DiningChair.description>
-    
-    <Armchair.label>nojatuoli</Armchair.label>
-    <Armchair.description>Suuri pehmeä mukava istuin. Sopii hyvin rentoutumiseen.</Armchair.description>
-    
-    <TableShort.label>pöytä (lyhyt)</TableShort.label>
-    <TableShort.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableShort.description>
-    
-    <TableLong.label>pöytä (pitkä)</TableLong.label>
-    <TableLong.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableLong.description>
-    
-    <PlantPot.label>kukkaruukku</PlantPot.label>
-    <PlantPot.description>Istuta koristekukkia tähän parantaaksesi lähellä olevien ihmisten mielialaa.</PlantPot.description>
-    
-    <StandingLamp.label>jalkalamppu</StandingLamp.label>
-    <StandingLamp.description>Seisova lamppu joka valaisee alueen.</StandingLamp.description>
-    
-    <StandingLamp_Red.label>jalkalamppu (punainen)</StandingLamp_Red.label>
-    <StandingLamp_Red.description>Seisova lamppu joka valaisee alueen punaisella valolla.</StandingLamp_Red.description>
-    
-    <StandingLamp_Green.label>jalkalamppu (vihreä)</StandingLamp_Green.label>
-    <StandingLamp_Green.description>Seisova lamppu joka valaisee alueen vihreällä valolla.</StandingLamp_Green.description>
-    
-    <StandingLamp_Blue.label>jalkalamppu (sininen)</StandingLamp_Blue.label>
-    <StandingLamp_Blue.description>Seisova lamppu joka valaisee alueen sinisellä valolla.</StandingLamp_Blue.description>
-    
-    <EquipmentRack.label>varusteteline</EquipmentRack.label>
-    <EquipmentRack.description>Tässä olevat esineet eivät hajoa edes ulkona.</EquipmentRack.description>
-    
+
+  
+
+  <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
+  <SleepingSpot.description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava.</SleepingSpot.description>
+
+  <Bed.label>sänky</Bed.label>
+  <Bed.description>Nukkumiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä.</Bed.description>
+
+  <DoubleBed.label>double bed</DoubleBed.label>
+  <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
+
+  <RoyalBed.label>kuninkaallinen sänky</RoyalBed.label>
+  <RoyalBed.description>Ylellinen vuode jalosukuisille.</RoyalBed.description>
+
+  <HospitalBed.label>lääkintävuode</HospitalBed.label>
+  <HospitalBed.description>Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta.</HospitalBed.description>
+
+
+  
+
+  <AnimalSleepingSpot.label>eläimen nukkumapaikka</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Määrää paikan maassa, jossa eläinten kannattaa nukkua.</AnimalSleepingSpot.description>
+
+  <AnimalSleepingBox.label>eläimen nukkumalaatikko</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>Pieni laatikko jossa eläimet voivat nukkua. Tähän sopivat pienet eläimet kuten kanat, kissat tai pienet koirat.</AnimalSleepingBox.description>
+
+  <AnimalBed.label>eläimen sänky</AnimalBed.label>
+  <AnimalBed.description>Pehmeä sänky jossa eläimet voivat nukkua.  Tähän sopivat kaikki eläimet.</AnimalBed.description>
+
+
+  
+
+  <Stool.label>jakkara</Stool.label>
+  <Stool.description>Tämän päällä istutaan.</Stool.description>
+
+  <DiningChair.label>ruokapöydän tuoli</DiningChair.label>
+  <DiningChair.description>Mukava ja puoleensavetävä tuoli pöydän ääressä istumiseen.</DiningChair.description>
+
+  <Armchair.label>nojatuoli</Armchair.label>
+  <Armchair.description>Suuri pehmeä mukava istuin. Sopii hyvin rentoutumiseen.</Armchair.description>
+
+
+  
+
+  <TableShort.label>pöytä (lyhyt)</TableShort.label>
+  <TableShort.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableShort.description>
+
+  <TableLong.label>pöytä (pitkä)</TableLong.label>
+  <TableLong.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</TableLong.description>
+
+  <PlantPot.label>kukkaruukku</PlantPot.label>
+  <PlantPot.description>Istuta koristekukkia tähän parantaaksesi lähellä olevien ihmisten mielialaa.</PlantPot.description>
+
+
+  
+
+  <TorchLamp.label>torch lamp</TorchLamp.label>
+  <TorchLamp.description>A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
+
+  <StandingLamp.label>jalkalamppu</StandingLamp.label>
+  <StandingLamp.description>Seisova lamppu joka valaisee alueen.</StandingLamp.description>
+
+  <StandingLamp_Red.label>jalkalamppu (punainen)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>Seisova lamppu joka valaisee alueen punaisella valolla.</StandingLamp_Red.description>
+
+  <StandingLamp_Green.label>jalkalamppu (vihreä)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>Seisova lamppu joka valaisee alueen vihreällä valolla.</StandingLamp_Green.description>
+
+  <StandingLamp_Blue.label>jalkalamppu (sininen)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>Seisova lamppu joka valaisee alueen sinisellä valolla.</StandingLamp_Blue.description>
+
+  <SunLamp.label>kirkasvalolamppu</SunLamp.label>
+  <SunLamp.description>Valaisee alueen niin kirkkaasti että viljelykasvit voivat kasvaa.</SunLamp.description>
+
+
+  
+
+  <EquipmentRack.label>varusteteline</EquipmentRack.label>
+  <EquipmentRack.description>Tässä olevat esineet eivät hajoa edes ulkona.</EquipmentRack.description>
+
+
 </LanguageData>

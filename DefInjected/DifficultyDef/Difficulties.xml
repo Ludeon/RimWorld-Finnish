@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <FreePlay.label>Vapaa peli</FreePlay.label>
-    <FreePlay.description>Pelitila joka keskittyy yhdyskunnan rakentamiseen hiekkalaatikkomaisessa empäristössä. Uhkia ilmestyy, mutta ne ovat erittäin heikkoja.</FreePlay.description>
-    
-    <Basebuilder.label>Tukikohdan rakentaja</Basebuilder.label>
-    <Basebuilder.description>Pelitila joka keskittyy tukikohdan rakentamiseen. Uhkia on vähennetty aika paljon.</Basebuilder.description>
-    
-    <Rough.label>Hankala</Rough.label>
-    <Rough.description>Tämä on kovakourainen planeetta. Uhkat voivat olla aika vaarallisia eikä yhdyskuntalaisten mielialaan tai satojen kokoon ole bonuksia.</Rough.description>
-    
-    <Challenge.label>Haaste</Challenge.label>
-    <Challenge.description>Haastava pelitila. Tämä taso vaatii suunnittelua, taktikointia ja onnea selviytymiseen. Tapa jolla RimWorldia on tarkoitus pelata.</Challenge.description>
-    
-    <Extreme.label>Äärimmäinen</Extreme.label>
-    <Extreme.description>Kova kuin timanttiteräinen tikari. Viholliset ovat vahvoja, hinnat ovat huonoja, ruokaa on vähän ja yhdyskuntalaiset ovat ärtyisiä. Niille jotka nauttivat digitaalisesta kärsimyksestä.</Extreme.description>
-    
+
+  <Peaceful.label>Peaceful</Peaceful.label>
+  <Peaceful.description>For those who want to relax and build a colony in a sandbox-like environment.\n\nMajor threatening events are disabled, but colonists can still get grumpy and animals can still go crazy from time to time.</Peaceful.description>
+
+  <VeryEasy.label>Base builder</VeryEasy.label>
+  <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
+
+  <Easy.label>Some challenge</Easy.label>
+  <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.</Easy.description>
+
+  <Medium.label>Rough</Medium.label>
+  <Medium.description>It's a rough planet.\n\nThreats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
+
+  <Hard.label>Intense</Hard.label>
+  <Hard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
+
+  <VeryHard.label>Extreme</VeryHard.label>
+  <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
+
+
 </LanguageData>

@@ -1,37 +1,46 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Heart.label>sydän</Heart.label>
-    <Heart.description>Toimittaa verta ja happea kaikkiin kehon osiin. Valmis löytämään uuden omistajan.</Heart.description>
-    
-    <Lung.label>keuhko</Lung.label>
-    <Lung.description>Olennainen osa hengitysjärjestelmää.</Lung.description>
-    
-    <Kidney.label>munuainen</Kidney.label>
-    <Kidney.description>Suodattaa ja poistaa kuona-aineita verestä.</Kidney.description>
-    
-    <Liver.label>maksa</Liver.label>
-    <Liver.description>Olennainen osa aineenvaihdunnassa.</Liver.description>
-    
-    <SimpleProstheticLeg.label>yksinkertainen tekojalka</SimpleProstheticLeg.label>
-    <SimpleProstheticLeg.description>Yksinkertainen proteesi puuttuvan jalan korvaamiseen.</SimpleProstheticLeg.description>
-    
-    <SimpleProstheticArm.label>yksinkertainen tekokäsi</SimpleProstheticArm.label>
-    <SimpleProstheticArm.description>Yksinkertainen mutta kestävä käsivarsiproteesi.</SimpleProstheticArm.description>
-    
-    <BionicEye.label>bioninen silmä</BionicEye.label>
-    <BionicEye.description>Kehittynyt laite joka ei vain korvaa luonnollisen silmän mutta antaa myös yli-inhimilliset näönlahjat.</BionicEye.description>
-    
-    <BionicArm.label>bioninen käsi</BionicArm.label>
-    <BionicArm.description>Yksi kehittyneimpiä käsivarren korvikkeita. Antaa käyttäjälleen äärimmäiset voimat.</BionicArm.description>
-    
-    <BionicLeg.label>bioninen jalka</BionicLeg.label>
-    <BionicLeg.description>Käyttää huipputeknologiaa anten käyttäjälleen äärimmäisen kävelymukavuuden ja -voiman.</BionicLeg.description>
-    
-    <PowerClaw.label>voimakynsi</PowerClaw.label>
-    <PowerClaw.description>Tehokas käden korvike, joka koostuu kolmesta kuollettavasta kynnestä.</PowerClaw.description>
-    
-    <ScytherBlade.label>viikatemiehen terä</ScytherBlade.label>
-    <ScytherBlade.description>Käden korvike pistävällä terällä. Ei kovin mukava, mutta varsin tehokas lähitaisteluaseena.</ScytherBlade.description>
-    
+
+  
+
+  <Heart.label>sydän</Heart.label>
+  <Heart.description>Toimittaa verta ja happea kaikkiin kehon osiin. Valmis löytämään uuden omistajan.</Heart.description>
+
+  <Lung.label>keuhko</Lung.label>
+  <Lung.description>Olennainen osa hengitysjärjestelmää.</Lung.description>
+
+  <Kidney.label>munuainen</Kidney.label>
+  <Kidney.description>Suodattaa ja poistaa kuona-aineita verestä.</Kidney.description>
+
+  <Liver.label>maksa</Liver.label>
+  <Liver.description>Olennainen osa aineenvaihdunnassa.</Liver.description>
+
+
+  
+
+  <SimpleProstheticLeg.label>yksinkertainen tekojalka</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Yksinkertainen proteesi puuttuvan jalan korvaamiseen.</SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>yksinkertainen tekokäsi</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Yksinkertainen mutta kestävä käsivarsiproteesi.</SimpleProstheticArm.description>
+
+
+  
+
+  <BionicEye.label>bioninen silmä</BionicEye.label>
+  <BionicEye.description>Kehittynyt laite joka ei vain korvaa luonnollisen silmän mutta antaa myös yli-inhimilliset näönlahjat.</BionicEye.description>
+
+  <BionicArm.label>bioninen käsi</BionicArm.label>
+  <BionicArm.description>Yksi kehittyneimpiä käsivarren korvikkeita. Antaa käyttäjälleen äärimmäiset voimat.</BionicArm.description>
+
+  <BionicLeg.label>bioninen jalka</BionicLeg.label>
+  <BionicLeg.description>Käyttää huipputeknologiaa anten käyttäjälleen äärimmäisen kävelymukavuuden ja -voiman.</BionicLeg.description>
+
+  <PowerClaw.label>voimakynsi</PowerClaw.label>
+  <PowerClaw.description>Tehokas käden korvike, joka koostuu kolmesta kuollettavasta kynnestä.</PowerClaw.description>
+
+  <ScytherBlade.label>viikatemiehen terä</ScytherBlade.label>
+  <ScytherBlade.description>Käden korvike pistävällä terällä. Ei kovin mukava, mutta varsin tehokas lähitaisteluaseena.</ScytherBlade.description>
+
+
 </LanguageData>

@@ -2,17 +2,12 @@
 <LanguageData>
 
   <Autosaving>Tallentaa automaattisesti</Autosaving>
-  
   <GameStartDialog>Te kolme heräätte salauniarkuistanne sireenien ja repeytyvän metallin ääniin. Pääsette juuri ja juuri pakokapseleihinne ennen kuin alus repeytyy kappaleiksi.\n\nJonkin ajan kuluttua laskeudutte tälle tuntemattomalle syrjäiselle planetalle.\n\nKun tuhoutuneen avaruusaluksenne kappaleita sataa ympärillenne, alatte suunnittelemaan selviytymistänne.</GameStartDialog>
-
   <Colony>Yhdyskunta</Colony>
-  
   <ChangeLanguageFromMainMenu>Voit vaihtaa pelin kieltä vain päävalikossa.</ChangeLanguageFromMainMenu>
-
   <AndLower>ja</AndLower>
   <DisabledLower>pois käytöstä</DisabledLower>
 
-  <CloseButton>Sulje</CloseButton>
 
   <VersionIndicator>Versio {0}</VersionIndicator>
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
@@ -20,16 +15,29 @@
   <LoggedIntoSteamAs>Kirjautunut Steamiin nimellä {0}</LoggedIntoSteamAs>
 
   
+  <Yes>Yes</Yes>
+  <No>No</No>
+  <min>min</min>
+  <max>max</max>
+  <chance>chance</chance>
+  <context>context</context>
+  <multiplier>multiplier</multiplier>
+  <damage>damage</damage>
+  <radius>radius</radius>
+  <durationDays>duration (days)</durationDays>
+  <intervalDays>interval (days)</intervalDays>
+  <repeat>repeat</repeat>
+
   
-  
-	<MeatLabel>{0} lihaa</MeatLabel>
+
+  <MeatLabel>{0} lihaa</MeatLabel>
   <MeatDesc>Raakaa lihaa oliosta {0}.</MeatDesc>
 
   <LeatherLabel>{0} nahka</LeatherLabel>
   <LeatherDesc>Nahka joka on tehty oliosta {0}.</LeatherDesc>
 
   <CorpseLabel>{0} ruumis</CorpseLabel>
-	<CorpseDesc>Kuollut {0}.</CorpseDesc>
+  <CorpseDesc>Kuollut {0}.</CorpseDesc>
   <DeadLabel>{0} (kuollut)</DeadLabel>
 
   <RoughStoneTerrainLabel>karkea {0}</RoughStoneTerrainLabel>
@@ -49,12 +57,17 @@
 
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
   <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
-  
+
   <VariousLabel>(erilaisia)</VariousLabel>
 
   
   <ColonistDied>Yhdyskuntalainen kuoli</ColonistDied>
+
   
-  
-  
+  <North>North</North>
+  <South>South</South>
+  <West>West</West>
+  <East>East</East>
+
+
 </LanguageData>

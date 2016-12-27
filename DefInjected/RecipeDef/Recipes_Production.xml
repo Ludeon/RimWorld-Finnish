@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <MakeStoneBlocks.label>tee kiviharkkoja</MakeStoneBlocks.label>
-    <MakeStoneBlocks.description>Leikkaa kivenlohkareita käyttökelpoisiksi harkoiksi.</MakeStoneBlocks.description>
-    <MakeStoneBlocks.jobString>Leikkaa kiveä.</MakeStoneBlocks.jobString>
-    
-    <ExtractMetalFromSlag.label>sulata metallia kuonasta</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta.</ExtractMetalFromSlag.description>
-    <ExtractMetalFromSlag.jobString>Sulattaa metallia kuonasta.</ExtractMetalFromSlag.jobString>
-    
-    <SmeltWeapon.label>sulata metallia aseesta</SmeltWeapon.label>
-    <SmeltWeapon.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen aseista.</SmeltWeapon.description>
-    <SmeltWeapon.jobString>Sulattaa metallia aseesta.</SmeltWeapon.jobString>
-    
-    <MakeArtilleryShell.label>tee tykin kranaatti</MakeArtilleryShell.label>
-    <MakeArtilleryShell.description>Valmistaa kranaatin tykeille.</MakeArtilleryShell.description>
-    <MakeArtilleryShell.jobString>Tekee tykin kranaattia.</MakeArtilleryShell.jobString>
-    
-    <MakeComponent.label>make component</MakeComponent.label>
-    <MakeComponent.description>Make a component.</MakeComponent.description>
-    <MakeComponent.jobString>Making component.</MakeComponent.jobString>
-    
+
+  <MakeStoneBlocksAny.label>make any stone blocks</MakeStoneBlocksAny.label>
+  <MakeStoneBlocksAny.description>Cuts rock chunks into usable stone blocks.</MakeStoneBlocksAny.description>
+  <MakeStoneBlocksAny.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksAny.jobString>
+
+  <ExtractMetalFromSlag.label>sulata metallia kuonasta</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Sulattaa metallia kuonasta.</ExtractMetalFromSlag.jobString>
+
+  <SmeltWeapon.label>sulata metallia aseesta</SmeltWeapon.label>
+  <SmeltWeapon.description>Käyttää lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen aseista.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Sulattaa metallia aseesta.</SmeltWeapon.jobString>
+
+  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
+  <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+
+  <MakeMortarShell.label>make mortar shell</MakeMortarShell.label>
+  <MakeMortarShell.description>Craft a mortar shell.</MakeMortarShell.description>
+  <MakeMortarShell.jobString>Making mortar shell.</MakeMortarShell.jobString>
+
+  <MakeChemfuelFromWood.label>make chemfuel from wood</MakeChemfuelFromWood.label>
+  <MakeChemfuelFromWood.description>Make a batch of chemfuel by gasifying wood logs.</MakeChemfuelFromWood.description>
+  <MakeChemfuelFromWood.jobString>Refining chemfuel from wood.</MakeChemfuelFromWood.jobString>
+
+  <MakeChemfuelFromOrganics.label>make chemfuel from organics</MakeChemfuelFromOrganics.label>
+  <MakeChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</MakeChemfuelFromOrganics.description>
+  <MakeChemfuelFromOrganics.jobString>Refining chemfuel from organics.</MakeChemfuelFromOrganics.jobString>
+
+  <MakeComponent.label>make component</MakeComponent.label>
+  <MakeComponent.description>Make a component.</MakeComponent.description>
+  <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+
+
 </LanguageData>

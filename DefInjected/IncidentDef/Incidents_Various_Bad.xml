@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Eclipse.label>auringonpimennys</Eclipse.label>
+  <Eclipse.letterLabel>Auringonpimennys</Eclipse.letterLabel>
+  <Eclipse.letterText>Eräs tämän planeetan kuista on mennyt auringon eteen. Auringonpimennys on alkanut.</Eclipse.letterText>
+
+  <SolarFlare.label>auringonpurkaus</SolarFlare.label>
+  <SolarFlare.letterLabel>Auringonpurkaus</SolarFlare.letterLabel>
+  <SolarFlare.letterText>Auringonpurkaus on alkanut.\n\nVoimakas säteily sammuttaa kaikki sähkölaitteet.\n\nSen pitäisi mennä ohi päivässä.</SolarFlare.letterText>
+
+  <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
+
+  <ToxicFallout.label>myrkkylaskeuma</ToxicFallout.label>
+  <ToxicFallout.letterLabel>Myrkkylaskeuma</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>Etäinen kemikaalipalo on vapauttanut myrkkypilven koko alueen ylle.\n\nKaikki henkilöt ja olennot, jotka eivät ole katon alla, sairastuvat hitaasti ilmakehästä laskeutuvasta myrkyllisestä pölystä.\n\nSe voi kestää parista päivästä yli kuukauteen asti.</ToxicFallout.letterText>
+
+  <VolcanicWinter.label>vulkaaninen talvi</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>Vulkaaninen talvi</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>Etäinen supertulivuori on purkautunut ja alkanut syöksemään miljoonia kuutiokilometrejä tuhkaa ilmakehään.\n\nIlmakehässä oleva tuhka peittää auringon. Lämpötilat laskevat ja kasvit kärsivät auringonvalon puutteesta. Se voi mennä ohi parissa viikossa tai kestää monta kuukautta.</VolcanicWinter.letterText>
+
+  <HeatWave.label>lämpöaalto</HeatWave.label>
+  <HeatWave.letterLabel>Lämpöaalto</HeatWave.letterLabel>
+  <HeatWave.letterText>Epätavallinen lämpöaalto on alkanut. Varo lämpöhalvausta.</HeatWave.letterText>
+
+  <ColdSnap.label>pakkaskausi</ColdSnap.label>
+  <ColdSnap.letterLabel>Pakkaskausi</ColdSnap.letterLabel>
+  <ColdSnap.letterText>Epätavallinen pakkaskausi on asettunut tänne. Varo hypotermiaa ja kuolevia viljelmiä.</ColdSnap.letterText>
+
+  <Flashstorm.label>ukkosmyrsky</Flashstorm.label>
+  <Flashstorm.letterLabel>Ukkosmyrsky</Flashstorm.letterLabel>
+  <Flashstorm.letterText>Äärimmäisen moni salamanisku on iskemässä pinelle alueelle. Tämä voi aiheuttaa valtavia tulia.</Flashstorm.letterText>
+
+  <ShortCircuit.label>short circuit</ShortCircuit.label>
+  <CropBlight.label>crop blight</CropBlight.label>
+  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+
+
+</LanguageData>

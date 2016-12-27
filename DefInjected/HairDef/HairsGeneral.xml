@@ -1,52 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Afro.label>afrokampaus</Afro.label>
-    
-    <Bob.label>polkkatukka</Bob.label>
-    
-    <Burgundy.label>burgunditukka</Burgundy.label>
-    
-    <Flowy.label>virtaava</Flowy.label>
-    
-    <Long.label>pitkä</Long.label>
-    
-    <Mohawk.label>irokeesi</Mohawk.label>
-    
-    <Mop.label>moppi</Mop.label>
-    
-    <Pigtails.label>letit</Pigtails.label>
-    
-    <Shaved.label>ajeltu</Shaved.label>
-    
-    <Spikes.label>piikikäs</Spikes.label>
-    
-    <Tuft.label>töyhtö</Tuft.label>
-    
-    <Wavy.label>aaltoileva</Wavy.label>
-    
-    <BraidedKnot.label>palmikko</BraidedKnot.label>
-    
-    <Topdog.label>topdog</Topdog.label>
-    
-    <Senorita.label>senorita</Senorita.label>
-    
-    <ScorpionTail.label>skorpionin häntä</ScorpionTail.label>
-    
-    <BriefPonytail.label>poninhäntä</BriefPonytail.label>
-    
-    <Troubadour.label>trubaduuri</Troubadour.label>
-    
-    <Messy.label>sotkuinen</Messy.label>
-    
-    <Princess.label>prinsessa</Princess.label>
-    
-    <Firestarter.label>kapinallinen</Firestarter.label>
-    
-    <GreasySwoop.label>rasvattu letti</GreasySwoop.label>
-    
-    <Curly.label>kihara</Curly.label>
-    
-    <Scatman.label>scatman</Scatman.label>
-    
+
+  <Afro.label>afrokampaus</Afro.label>
+  <Bob.label>polkkatukka</Bob.label>
+  <Burgundy.label>burgunditukka</Burgundy.label>
+  <Flowy.label>virtaava</Flowy.label>
+  <Long.label>pitkä</Long.label>
+  <Mohawk.label>irokeesi</Mohawk.label>
+  <Mop.label>moppi</Mop.label>
+  <Pigtails.label>letit</Pigtails.label>
+  <Shaved.label>ajeltu</Shaved.label>
+  <Spikes.label>piikikäs</Spikes.label>
+  <Tuft.label>töyhtö</Tuft.label>
+  <Wavy.label>aaltoileva</Wavy.label>
+  <BraidedKnot.label>palmikko</BraidedKnot.label>
+  <Topdog.label>topdog</Topdog.label>
+  <Senorita.label>senorita</Senorita.label>
+  <ScorpionTail.label>skorpionin häntä</ScorpionTail.label>
+  <BriefPonytail.label>poninhäntä</BriefPonytail.label>
+  <Troubadour.label>trubaduuri</Troubadour.label>
+  <Messy.label>sotkuinen</Messy.label>
+  <Princess.label>prinsessa</Princess.label>
+  <Firestarter.label>kapinallinen</Firestarter.label>
+  <GreasySwoop.label>rasvattu letti</GreasySwoop.label>
+  <Curly.label>kihara</Curly.label>
+  <Scatman.label>scatman</Scatman.label>
+
+
 </LanguageData>

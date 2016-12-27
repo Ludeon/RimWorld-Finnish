@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <DoorOpenSpeed.label>oven avautumisnopeus</DoorOpenSpeed.label>
-    <DoorOpenSpeed.description>Nopeus, jolla ovi aukeaa.</DoorOpenSpeed.description>
-    
-    <BedRestEffectiveness.label>levon tehokkuus</BedRestEffectiveness.label>
-    <BedRestEffectiveness.description>Miten nopeasti nukkuvat ihmiset saavat tässä lepoa.</BedRestEffectiveness.description>
-    
-    <TrapMeleeDamage.label>ansan vahinko</TrapMeleeDamage.label>
-    <TrapMeleeDamage.description>Miten paljon vahinkoa tämä ansa yleensä tekee. Todellinen vahinko voi vaihdella hieman.</TrapMeleeDamage.description>
-    
-    <TrapSpringChance.label>ansan laukeamistodennäköisyys</TrapSpringChance.label>
-    <TrapSpringChance.description>Todennäköisyys, että ansa laukeaa kun siitä tietämätön olio liikkuu sen yli.</TrapSpringChance.description>
-    
-    <ResearchSpeedFactor.label>tutkimisnopeuden kerroin</ResearchSpeedFactor.label>
-    <ResearchSpeedFactor.description>Nopeus, jolla tutkimusta tehdään, kerrotaan tällä arvolla.</ResearchSpeedFactor.description>
-    <ResearchSpeedFactor.parts.0.customLabel>Room cleanliness</ResearchSpeedFactor.parts.0.customLabel>
-    
-    <MedicalTreatmentQualityFactor.label>lääkinnän laatukerroin</MedicalTreatmentQualityFactor.label>
-    <MedicalTreatmentQualityFactor.description>Lääkehoidon laatu kerrotaan tällä arvolla.</MedicalTreatmentQualityFactor.description>
-    
-    <ImmunityGainSpeedFactor.label>immuniteetinsaamisnopeuden kerroin</ImmunityGainSpeedFactor.label>
-    <ImmunityGainSpeedFactor.description>Immuniteetinsaamisnopeus kerrotaan tällä arvolla.</ImmunityGainSpeedFactor.description>
-    
-    <WorkTableWorkSpeedFactor.label>työskentelynopeuden kerroin</WorkTableWorkSpeedFactor.label>
-    <WorkTableWorkSpeedFactor.description>Työskentelynopeus kerrotaan tällä arvolla.</WorkTableWorkSpeedFactor.description>
-    
-    <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
-    <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
-    
+
+  <DoorOpenSpeed.label>oven avautumisnopeus</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Nopeus, jolla ovi aukeaa.</DoorOpenSpeed.description>
+
+  <BedRestEffectiveness.label>levon tehokkuus</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Miten nopeasti nukkuvat ihmiset saavat tässä lepoa.</BedRestEffectiveness.description>
+
+  <TrapMeleeDamage.label>ansan vahinko</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Miten paljon vahinkoa tämä ansa yleensä tekee. Todellinen vahinko voi vaihdella hieman.</TrapMeleeDamage.description>
+
+  <TrapSpringChance.label>ansan laukeamistodennäköisyys</TrapSpringChance.label>
+  <TrapSpringChance.description>Todennäköisyys, että ansa laukeaa kun siitä tietämätön olio liikkuu sen yli.</TrapSpringChance.description>
+
+  <ResearchSpeedFactor.label>tutkimisnopeuden kerroin</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Nopeus, jolla tutkimusta tehdään, kerrotaan tällä arvolla.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
+
+  <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
+
+  <ImmunityGainSpeedFactor.label>immuniteetinsaamisnopeuden kerroin</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Immuniteetinsaamisnopeus kerrotaan tällä arvolla.</ImmunityGainSpeedFactor.description>
+
+  <WorkTableWorkSpeedFactor.label>työskentelynopeuden kerroin</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Työskentelynopeus kerrotaan tällä arvolla.</WorkTableWorkSpeedFactor.description>
+
+  <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
+
+
 </LanguageData>

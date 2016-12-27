@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Goto.reportString>Liikkuu.</Goto.reportString>
-    
-    <GotoSafeTemperature.reportString>Etsii turvallista lämpötilaa.</GotoSafeTemperature.reportString>
-    
-    <GotoWander.reportString>Harhailee.</GotoWander.reportString>
-    
-    <Wait.reportString>Seisoskelee.</Wait.reportString>
-    
-    <WaitDowned.reportString>Maissa.</WaitDowned.reportString>
-    
-    <WaitSafeTemperature.reportString>Odottaa turvallisessa lämpötilassa.</WaitSafeTemperature.reportString>
-    
-    <WaitWander.reportString>Harhailee.</WaitWander.reportString>
-    
-    <WaitCombat.reportString>Etsii kohteita.</WaitCombat.reportString>
-    
-    <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
-    
-    <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
-    
-    
-    <Equip.reportString>Ottaa käyttöön esineen TargetA.</Equip.reportString>
-    
-    <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>
-    
-    <Wear.reportString>Pukee päälle vaatteen TargetA.</Wear.reportString>
-    
-    <RemoveApparel.reportString>Poistaa vaatteen TargetA.</RemoveApparel.reportString>
-    
-    <Strip.reportString>Riisuu vaatteen TargetA.</Strip.reportString>
-    
-    <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
-    
-    <RearmTrap.reportString>Virittää ansan TargetA.</RearmTrap.reportString>
-    
-    <Refuel.reportString>Tankkaa kohteen TargetA.</Refuel.reportString>
-    
-    <ManTurret.reportString>Käyttää tykkiä.</ManTurret.reportString>
-    
-    <EnterCryptosleepCasket.reportString>Menee salauniarkkuun.</EnterCryptosleepCasket.reportString>
-    
-    <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
-    
-    <UseArtifact.reportString>Aktivoi artefaktia.</UseArtifact.reportString>
-    
-    <TriggerFirefoamPopper.reportString>Aktivoi palovaahtopaukkua.</TriggerFirefoamPopper.reportString>
-    
-    <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
-    
-    <Vomit.reportString>Oksentaa.</Vomit.reportString>
-    
-    <Flick.reportString>Kääntää kytkintä.</Flick.reportString>
-    
-    <TradeWithPawn.reportString>Käy kauppaa henkilön TargetA kanssa.</TradeWithPawn.reportString>
-    
-    <FleeAndCower.reportString>Pakenee.</FleeAndCower.reportString>
-    
-    <Ignite.reportString>Sytyttää kohdetta TargetA.</Ignite.reportString>
-    
-    <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>
-    
-    <ExtinguishSelf.reportString>Sammuttaa itsensä tulesta.</ExtinguishSelf.reportString>
-    
-    <Ingest.reportString>Syö ruuan TargetA.</Ingest.reportString>
-    
-    <LayDown.reportString>Makaa.</LayDown.reportString>
-    
-    <Lovin.reportString>Rakastelee.</Lovin.reportString>
-    
+
+  
+
+  <Goto.reportString>Liikkuu.</Goto.reportString>
+  <GotoSafeTemperature.reportString>Etsii turvallista lämpötilaa.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>Harhailee.</GotoWander.reportString>
+  <Wait.reportString>Seisoskelee.</Wait.reportString>
+  <WaitDowned.reportString>Maissa.</WaitDowned.reportString>
+  <WaitSafeTemperature.reportString>Odottaa turvallisessa lämpötilassa.</WaitSafeTemperature.reportString>
+  <WaitWander.reportString>Harhailee.</WaitWander.reportString>
+  <WaitCombat.reportString>Etsii kohteita.</WaitCombat.reportString>
+  <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
+  <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
+  <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <Equip.reportString>Ottaa käyttöön esineen TargetA.</Equip.reportString>
+  <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>
+  <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
+  <Wear.reportString>Pukee päälle vaatteen TargetA.</Wear.reportString>
+  <RemoveApparel.reportString>Poistaa vaatteen TargetA.</RemoveApparel.reportString>
+  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  <Strip.reportString>Riisuu vaatteen TargetA.</Strip.reportString>
+  <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
+  <RearmTrap.reportString>Virittää ansan TargetA.</RearmTrap.reportString>
+  <Refuel.reportString>Tankkaa kohteen TargetA.</Refuel.reportString>
+  <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+  <ManTurret.reportString>Käyttää tykkiä.</ManTurret.reportString>
+  <EnterCryptosleepCasket.reportString>Menee salauniarkkuun.</EnterCryptosleepCasket.reportString>
+  <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
+  <UseArtifact.reportString>Aktivoi artefaktia.</UseArtifact.reportString>
+  <TriggerFirefoamPopper.reportString>Aktivoi palovaahtopaukkua.</TriggerFirefoamPopper.reportString>
+  <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
+  <Vomit.reportString>Oksentaa.</Vomit.reportString>
+  <Flick.reportString>Kääntää kytkintä.</Flick.reportString>
+  <TradeWithPawn.reportString>Käy kauppaa henkilön TargetA kanssa.</TradeWithPawn.reportString>
+  <FleeAndCower.reportString>Pakenee.</FleeAndCower.reportString>
+  <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
+
+
+  
+
+  <Ignite.reportString>Sytyttää kohdetta TargetA.</Ignite.reportString>
+  <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>
+  <ExtinguishSelf.reportString>Sammuttaa itsensä tulesta.</ExtinguishSelf.reportString>
+
+
+  
+
+  <Ingest.reportString>Syö ruuan TargetA.</Ingest.reportString>
+  <LayDown.reportString>Makaa.</LayDown.reportString>
+
+
+  
+
+  <Lovin.reportString>Rakastelee.</Lovin.reportString>
+
+
 </LanguageData>

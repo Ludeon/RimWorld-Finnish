@@ -1,41 +1,43 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Chicken.label>kana</Chicken.label>
-    <Chicken.description>Perinteisintä maatilalintua kanaa kasvatetaan sen munien ja lihan vuoksi.</Chicken.description>
-    <Chicken_Meat.label>kanan lihaa</Chicken_Meat.label>
-    <Chicken_Meat.description>Raakaa kanan lihaa.</Chicken_Meat.description>
-    <Chicken_Corpse.label>kanan ruumis</Chicken_Corpse.label>
-    <Chicken_Corpse.description>Kuolleen kanan ruumis.</Chicken_Corpse.description>
-    
-    <Pig.label>sika</Pig.label>
-    <Pig.description>Sika oli yksi ensimmäisistä ihmisen kesyttämistä eläimistä. Sitä kasvatetaan useimmiten sen lihan ja nahan vuoksi, ja sitä on helppo ruokkia sen kaikkiruokaisen ruokavalion vuoksi.</Pig.description>
-    <Pig_Leather.label>sian nahkaa</Pig_Leather.label>
-    <Pig_Leather.description>Sian vuodasta tehtyä nahkaa.</Pig_Leather.description>
-    <Pig_Leather.stuffProps.stuffAdjective>pig leathery</Pig_Leather.stuffProps.stuffAdjective>
-    <Pig_Meat.label>sianlihaa</Pig_Meat.label>
-    <Pig_Meat.description>Raakaa sian lihaa.</Pig_Meat.description>
-    <Pig_Corpse.label>sian ruumis</Pig_Corpse.label>
-    <Pig_Corpse.description>Kuolleen sian ruumis.</Pig_Corpse.description>
-    
-    <Cow.label>lehmä</Cow.label>
-    <Cow.description>Erittäin yleinen kotieläin. Voi tuottaa suuret määrät maitoa tai voidaan teurastaa herkullisen ruuan takia.</Cow.description>
-    <Cow_Leather.label>lehmän nahkaa</Cow_Leather.label>
-    <Cow_Leather.description>Lehmän vuodasta tehtyä nahkaa.</Cow_Leather.description>
-    <Cow_Leather.stuffProps.stuffAdjective>cow leathery</Cow_Leather.stuffProps.stuffAdjective>
-    <Cow_Meat.label>naudanlihaa</Cow_Meat.label>
-    <Cow_Meat.description>Raakaa lehmän lihaa.</Cow_Meat.description>
-    <Cow_Corpse.label>lehmän corpse</Cow_Corpse.label>
-    <Cow_Corpse.description>Kuolleen lehmän ruumis.</Cow_Corpse.description>
-    
-    <Alpaca.label>alpakka</Alpaca.label>
-    <Alpaca.description>Keskikokoinen sorkkaeläin joka muistuttaa läheisesti laamaa. Alpakkaa ylistetään usein sen huomattavan pehmeää villaa.</Alpaca.description>
-    <Alpaca_Leather.label>alpakan nahkaa</Alpaca_Leather.label>
-    <Alpaca_Leather.description>Alpakan vuodasta tehtyä nahkaa.</Alpaca_Leather.description>
-    <Alpaca_Leather.stuffProps.stuffAdjective>alpaca leathery</Alpaca_Leather.stuffProps.stuffAdjective>
-    <Alpaca_Meat.label>alpakan lihaa</Alpaca_Meat.label>
-    <Alpaca_Meat.description>Raakaa alpakan lihaa.</Alpaca_Meat.description>
-    <Alpaca_Corpse.label>alpakan corpse</Alpaca_Corpse.label>
-    <Alpaca_Corpse.description>Kuolleen alpakan ruumis.</Alpaca_Corpse.description>
-    
+
+  <Chicken.label>kana</Chicken.label>
+  <Chicken.description>Perinteisintä maatilalintua kanaa kasvatetaan sen munien ja lihan vuoksi.</Chicken.description>
+  
+  <Chicken_Meat.label>kanan lihaa</Chicken_Meat.label>
+  <Chicken_Meat.description>Raakaa kanan lihaa.</Chicken_Meat.description>
+  <Chicken_Corpse.label>kanan ruumis</Chicken_Corpse.label>
+  <Chicken_Corpse.description>Kuolleen kanan ruumis.</Chicken_Corpse.description>
+
+  <Pig.label>sika</Pig.label>
+  <Pig.description>Sika oli yksi ensimmäisistä ihmisen kesyttämistä eläimistä. Sitä kasvatetaan useimmiten sen lihan ja nahan vuoksi, ja sitä on helppo ruokkia sen kaikkiruokaisen ruokavalion vuoksi.</Pig.description>
+  <Pig_Leather.label>sian nahkaa</Pig_Leather.label>
+  <Pig_Leather.description>Sian vuodasta tehtyä nahkaa.</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>pig leathery</Pig_Leather.stuffProps.stuffAdjective>
+  <Pig_Meat.label>sianlihaa</Pig_Meat.label>
+  <Pig_Meat.description>Raakaa sian lihaa.</Pig_Meat.description>
+  <Pig_Corpse.label>sian ruumis</Pig_Corpse.label>
+  <Pig_Corpse.description>Kuolleen sian ruumis.</Pig_Corpse.description>
+
+  <Cow.label>lehmä</Cow.label>
+  <Cow.description>Erittäin yleinen kotieläin. Voi tuottaa suuret määrät maitoa tai voidaan teurastaa herkullisen ruuan takia.</Cow.description>
+  <Cow_Leather.label>lehmän nahkaa</Cow_Leather.label>
+  <Cow_Leather.description>Lehmän vuodasta tehtyä nahkaa.</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>cow leathery</Cow_Leather.stuffProps.stuffAdjective>
+  <Cow_Meat.label>naudanlihaa</Cow_Meat.label>
+  <Cow_Meat.description>Raakaa lehmän lihaa.</Cow_Meat.description>
+  <Cow_Corpse.label>lehmän corpse</Cow_Corpse.label>
+  <Cow_Corpse.description>Kuolleen lehmän ruumis.</Cow_Corpse.description>
+
+  <Alpaca.label>alpakka</Alpaca.label>
+  <Alpaca.description>Keskikokoinen sorkkaeläin joka muistuttaa läheisesti laamaa. Alpakkaa ylistetään usein sen huomattavan pehmeää villaa.</Alpaca.description>
+  <Alpaca_Leather.label>alpakan nahkaa</Alpaca_Leather.label>
+  <Alpaca_Leather.description>Alpakan vuodasta tehtyä nahkaa.</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>alpaca leathery</Alpaca_Leather.stuffProps.stuffAdjective>
+  <Alpaca_Meat.label>alpakan lihaa</Alpaca_Meat.label>
+  <Alpaca_Meat.description>Raakaa alpakan lihaa.</Alpaca_Meat.description>
+  <Alpaca_Corpse.label>alpakan corpse</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>Kuolleen alpakan ruumis.</Alpaca_Corpse.description>
+
+
 </LanguageData>

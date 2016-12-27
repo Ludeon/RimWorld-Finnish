@@ -11,40 +11,42 @@
   <NoneBrackets>(ei mitään)</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
-  
+
   
   <CurrentOutfit>Nykyinen vaatekerta</CurrentOutfit>
   <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
   <ApparelForcedLower>pakotettu</ApparelForcedLower>
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
-  <OutfitEdit>Muokkaa...</OutfitEdit>
-  
+  <AssignTabEdit>Edit...</AssignTabEdit>
+  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
+  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+
   
   <Copy>Kopioi</Copy>
   <Paste>Liitä</Paste>
   <AllowedArea>Sallittu alue</AllowedArea>
-  
+
   
   <Master>Isäntä</Master>
   <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
-  
+  <FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
+  <FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
+
   
   <Hostile>Vihamielinen</Hostile>
+  <DefeatedLower>defeated</DefeatedLower>
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
   <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
+
   
+  <Friend>Friend</Friend>
+  <Rival>Rival</Rival>
+  <Acquaintance>Acquaintance</Acquaintance>
+
   
-  <Playtime>Pelattu aika</Playtime>
-  <Storyteller>Tarinankertoja</Storyteller>
-  <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
-  <ColonyWealthItems>Yhdyskunnan varallisuus (esineistä)</ColonyWealthItems>
-  <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennuksista)</ColonyWealthBuildings>
-  <NumThreatBigs>Merkkittäviä uhkia</NumThreatBigs>
-  <NumEnemyRaids>Vihollisten tekemiä hyökkäyksiä</NumEnemyRaids>
-  <DamageTaken>Otettu vahinko</DamageTaken>
-  <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
-  <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
+  <Graph>Graph</Graph>
+  <Statistics>Statistics</Statistics>
 
   
   <SelectGraph>Valitse kaavio</SelectGraph>
@@ -55,5 +57,23 @@
   <Day>Päivä</Day>
   <Value>Arvo</Value>
   <External>Ulkoinen</External>
+
   
+  <Playtime>Pelattu aika</Playtime>
+  <Storyteller>Tarinankertoja</Storyteller>
+  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+  <NumThreatBigs>Merkkittäviä uhkia</NumThreatBigs>
+  <NumEnemyRaids>Vihollisten tekemiä hyökkäyksiä</NumEnemyRaids>
+  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+  <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
+  <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
+
+  
+  <ProjectTechLevel>project tech level</ProjectTechLevel>
+  <YourTechLevel>your tech level</YourTechLevel>
+  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
+  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+
 </LanguageData>

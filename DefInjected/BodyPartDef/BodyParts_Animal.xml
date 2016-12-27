@@ -1,136 +1,78 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Body.label>ruumis</Body.label>
-    
-    <Beak.label>nokka</Beak.label>
-    
-    <InsectHead.label>pää</InsectHead.label>
-    
-    <SnakeBody.label>ruumis</SnakeBody.label>
-    
-    <SnakeHead.label>pää</SnakeHead.label>
-    
-    <SnakeMouth.label>suu</SnakeMouth.label>
-    
-    <InsectHeart.label>sydän</InsectHeart.label>
-    
-    <InsectNostril.label>sierain</InsectNostril.label>
-    
-    <InsectMouth.label>suu</InsectMouth.label>
-    
-    <Jowl.label>poski</Jowl.label>
-    
-    <Tail.label>häntä</Tail.label>
-    
-    <LeftAntenna.label>vasen antenni</LeftAntenna.label>
-    
-    <RightAntenna.label>oikea antenni</RightAntenna.label>
-    
-    <Pronotum.label>keskiruumis</Pronotum.label>
-    
-    <Shell.label>kuori</Shell.label>
-    
-    <LeftElytra.label>vasen peitinsiipi</LeftElytra.label>
-    
-    <RightElytra.label>oikea peitinsiipi</RightElytra.label>
-    
-    <LeftTusk.label>vasen syöksyhammas</LeftTusk.label>
-    
-    <RightTusk.label>oikea syöksyhammas</RightTusk.label>
-    
-    <Trunk.label>kärsä</Trunk.label>
-    
-    <Horn.label>sarvi</Horn.label>
-    
-    <HeadClaw.label>sarvi</HeadClaw.label>
-    
-    <Hump.label>kyttyrä</Hump.label>
-    
-    <TurtleShell.label>kuori</TurtleShell.label>
-    
-    <Plastron.label>vatsakilpi</Plastron.label>
-    
-    <TurtleBeak.label>nokka</TurtleBeak.label>
-    
-    <FrontLeftLeg.label>vasen etujalka</FrontLeftLeg.label>
-    
-    <FrontRightLeg.label>oikea etujalka</FrontRightLeg.label>
-    
-    <MiddleLeftLeg.label>vasen keskijalka</MiddleLeftLeg.label>
-    
-    <MiddleRightLeg.label>oikea keskijalka</MiddleRightLeg.label>
-    
-    <RearLeftLeg.label>vasen takajalka</RearLeftLeg.label>
-    
-    <RearRightLeg.label>oikea takajalka</RearRightLeg.label>
-    
-    <FrontLeftInsectLeg.label>vasen etujalka</FrontLeftInsectLeg.label>
-    
-    <FrontRightInsectLeg.label>oikea etujalka</FrontRightInsectLeg.label>
-    
-    <MiddleLeftInsectLeg.label>vasen keskijalka</MiddleLeftInsectLeg.label>
-    
-    <MiddleRightInsectLeg.label>oikea keskijalka</MiddleRightInsectLeg.label>
-    
-    <RearLeftInsectLeg.label>vasen takajalka</RearLeftInsectLeg.label>
-    
-    <RearRightInsectLeg.label>oikea takajalka</RearRightInsectLeg.label>
-    
-    <FrontLeftPaw.label>vasen etukäpälä</FrontLeftPaw.label>
-    
-    <FrontRightPaw.label>oikea etukäpälä</FrontRightPaw.label>
-    
-    <RearLeftPaw.label>vasen takakäpälä</RearLeftPaw.label>
-    
-    <RearRightPaw.label>oikea takakäpälä</RearRightPaw.label>
-    
-    <FrontLeftHoof.label>vasen etukavio</FrontLeftHoof.label>
-    
-    <FrontRightHoof.label>oikea etukavio</FrontRightHoof.label>
-    
-    <RearLeftHoof.label>vasen takakavio</RearLeftHoof.label>
-    
-    <RearRightHoof.label>oikea takakavio</RearRightHoof.label>
-    
-    <FrontLeftLegFirstClaw.label>vasemman etujalan ensimmäinen kynsi</FrontLeftLegFirstClaw.label>
-    
-    <FrontLeftLegSecondClaw.label>vasemman etujalan toinen kynsi</FrontLeftLegSecondClaw.label>
-    
-    <FrontLeftLegThirdClaw.label>vasemman etujalan kolmas kynsi</FrontLeftLegThirdClaw.label>
-    
-    <FrontLeftLegFourthClaw.label>vasemman etujalan neljäs kynsi</FrontLeftLegFourthClaw.label>
-    
-    <FrontLeftLegFifthClaw.label>vasemman etujalan viides kynsi</FrontLeftLegFifthClaw.label>
-    
-    <FrontRightLegFirstClaw.label>oikean etujalan ensimmäinen kynsi</FrontRightLegFirstClaw.label>
-    
-    <FrontRightLegSecondClaw.label>oikean etujalan toinen kynsi</FrontRightLegSecondClaw.label>
-    
-    <FrontRightLegThirdClaw.label>oikean etujalan kolmas kynsi</FrontRightLegThirdClaw.label>
-    
-    <FrontRightLegFourthClaw.label>oikean etujalan neljäs kynsi</FrontRightLegFourthClaw.label>
-    
-    <FrontRightLegFifthClaw.label>oikean etujalan viides kynsi</FrontRightLegFifthClaw.label>
-    
-    <RearLeftLegFirstClaw.label>vasemman takajalan ensimmäinen kynsi</RearLeftLegFirstClaw.label>
-    
-    <RearLeftLegSecondClaw.label>vasemman takajalan toinen kynsi</RearLeftLegSecondClaw.label>
-    
-    <RearLeftLegThirdClaw.label>vasemman takajalan kolmas kynsi</RearLeftLegThirdClaw.label>
-    
-    <RearLeftLegFourthClaw.label>vasemman takajalan neljäs kynsi</RearLeftLegFourthClaw.label>
-    
-    <RearLeftLegFifthClaw.label>vasemman takajalan viides kynsi</RearLeftLegFifthClaw.label>
-    
-    <RearRightLegFirstClaw.label>oikean takajalan ensimmäinen kynsi</RearRightLegFirstClaw.label>
-    
-    <RearRightLegSecondClaw.label>oikean takajalan toinen kynsi</RearRightLegSecondClaw.label>
-    
-    <RearRightLegThirdClaw.label>oikean takajalan kolmas kynsi</RearRightLegThirdClaw.label>
-    
-    <RearRightLegFourthClaw.label>oikean takajalan neljäs kynsi</RearRightLegFourthClaw.label>
-    
-    <RearRightLegFifthClaw.label>oikean takajalan viides kynsi</RearRightLegFifthClaw.label>
-    
+
+  
+
+  <Body.label>ruumis</Body.label>
+  <Beak.label>nokka</Beak.label>
+  <InsectHead.label>pää</InsectHead.label>
+  <SnakeBody.label>ruumis</SnakeBody.label>
+  <SnakeHead.label>pää</SnakeHead.label>
+  <SnakeMouth.label>suu</SnakeMouth.label>
+  <InsectHeart.label>sydän</InsectHeart.label>
+  <InsectNostril.label>sierain</InsectNostril.label>
+  <InsectMouth.label>suu</InsectMouth.label>
+  <Jowl.label>poski</Jowl.label>
+  <Tail.label>häntä</Tail.label>
+  <LeftAntenna.label>vasen antenni</LeftAntenna.label>
+  <RightAntenna.label>oikea antenni</RightAntenna.label>
+  <Pronotum.label>keskiruumis</Pronotum.label>
+  <Shell.label>kuori</Shell.label>
+  <LeftElytra.label>vasen peitinsiipi</LeftElytra.label>
+  <RightElytra.label>oikea peitinsiipi</RightElytra.label>
+  <LeftTusk.label>vasen syöksyhammas</LeftTusk.label>
+  <RightTusk.label>oikea syöksyhammas</RightTusk.label>
+  <Trunk.label>kärsä</Trunk.label>
+  <Horn.label>sarvi</Horn.label>
+  <HeadClaw.label>sarvi</HeadClaw.label>
+  <Hump.label>kyttyrä</Hump.label>
+  <TurtleShell.label>kuori</TurtleShell.label>
+  <Plastron.label>vatsakilpi</Plastron.label>
+  <TurtleBeak.label>nokka</TurtleBeak.label>
+
+
+  
+
+  <FrontLeftLeg.label>vasen etujalka</FrontLeftLeg.label>
+  <FrontRightLeg.label>oikea etujalka</FrontRightLeg.label>
+  <MiddleLeftLeg.label>vasen keskijalka</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>oikea keskijalka</MiddleRightLeg.label>
+  <RearLeftLeg.label>vasen takajalka</RearLeftLeg.label>
+  <RearRightLeg.label>oikea takajalka</RearRightLeg.label>
+  <FrontLeftInsectLeg.label>vasen etujalka</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>oikea etujalka</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>vasen keskijalka</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>oikea keskijalka</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>vasen takajalka</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>oikea takajalka</RearRightInsectLeg.label>
+  <FrontLeftPaw.label>vasen etukäpälä</FrontLeftPaw.label>
+  <FrontRightPaw.label>oikea etukäpälä</FrontRightPaw.label>
+  <RearLeftPaw.label>vasen takakäpälä</RearLeftPaw.label>
+  <RearRightPaw.label>oikea takakäpälä</RearRightPaw.label>
+  <FrontLeftHoof.label>vasen etukavio</FrontLeftHoof.label>
+  <FrontRightHoof.label>oikea etukavio</FrontRightHoof.label>
+  <RearLeftHoof.label>vasen takakavio</RearLeftHoof.label>
+  <RearRightHoof.label>oikea takakavio</RearRightHoof.label>
+  <FrontLeftLegFirstClaw.label>vasemman etujalan ensimmäinen kynsi</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>vasemman etujalan toinen kynsi</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>vasemman etujalan kolmas kynsi</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>vasemman etujalan neljäs kynsi</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>vasemman etujalan viides kynsi</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>oikean etujalan ensimmäinen kynsi</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>oikean etujalan toinen kynsi</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>oikean etujalan kolmas kynsi</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>oikean etujalan neljäs kynsi</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>oikean etujalan viides kynsi</FrontRightLegFifthClaw.label>
+  <RearLeftLegFirstClaw.label>vasemman takajalan ensimmäinen kynsi</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>vasemman takajalan toinen kynsi</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>vasemman takajalan kolmas kynsi</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>vasemman takajalan neljäs kynsi</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>vasemman takajalan viides kynsi</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>oikean takajalan ensimmäinen kynsi</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>oikean takajalan toinen kynsi</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>oikean takajalan kolmas kynsi</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>oikean takajalan neljäs kynsi</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>oikean takajalan viides kynsi</RearRightLegFifthClaw.label>
+
+
 </LanguageData>

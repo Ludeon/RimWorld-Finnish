@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <None.label>ei mikään</None.label>
-    
-    <Room.label>huone</Room.label>
-    
-    <Bedroom.label>makuuhuone</Bedroom.label>
-    
-    <PrisonCell.label>vankiselli</PrisonCell.label>
-    
-    <DiningRoom.label>ruokahuone</DiningRoom.label>
-    
-    <RecRoom.label>olohuone</RecRoom.label>
-    
-    <Hospital.label>sairaala</Hospital.label>
-    
-    <Laboratory.label>laboratorio</Laboratory.label>
-    
-    <Workshop.label>työpaja</Workshop.label>
-    
-    <Barracks.label>parakki</Barracks.label>
-    
-    <PrisonBarracks.label>vankiparakki</PrisonBarracks.label>
-    
-    <Kitchen.label>keittiö</Kitchen.label>
-    
-    <Tomb.label>hautakammio</Tomb.label>
-    
-    <Barn.label>lato</Barn.label>
-    
+
+  <None.label>ei mikään</None.label>
+  <Room.label>huone</Room.label>
+  <Bedroom.label>makuuhuone</Bedroom.label>
+  <PrisonCell.label>vankiselli</PrisonCell.label>
+  <DiningRoom.label>ruokahuone</DiningRoom.label>
+  <RecRoom.label>olohuone</RecRoom.label>
+  <Hospital.label>sairaala</Hospital.label>
+  <Laboratory.label>laboratorio</Laboratory.label>
+  <Workshop.label>työpaja</Workshop.label>
+  <Barracks.label>parakki</Barracks.label>
+  <PrisonBarracks.label>vankiparakki</PrisonBarracks.label>
+  <Kitchen.label>keittiö</Kitchen.label>
+  <Tomb.label>hautakammio</Tomb.label>
+  <Barn.label>lato</Barn.label>
+
+
 </LanguageData>

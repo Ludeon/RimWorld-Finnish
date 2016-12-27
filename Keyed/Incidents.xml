@@ -16,11 +16,13 @@
   <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut laskeutumiskapseleissa lähistölle.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
 
   
   <FriendlyRaidWalkIn>Ryhmä ystävällisiä {0} tukikohdasta {1} on saapunut lähistölle.</FriendlyRaidWalkIn>
   <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Pakokapselin</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>Olet huomannut pakokapselin putoavan lähistöllesi.\n\nJos joku selvisi törmäyksestä, hän olisi vakavasti haavoittunut.</RefugeePodCrash>
@@ -41,9 +43,11 @@
   <LetterLabelSingleVisitorArrives>Vierailija</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>Eräs {0} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\nHISCAP nimensä on {2}.</SingleVisitorArrives>
   <SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Vierailijoita</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Ryhmä tukikohdasta {0} on tullut vierailemaan yhdyskunnassasi.</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Kulkuri liittyy</LetterLabelWandererJoin>
@@ -51,7 +55,7 @@
 
   <LetterLabelManhunterPackArrived>Ihmisjahtaajia</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>{0}lauma on saapunut alueelle ja ne jahtaavat ihmisiä. Ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät voi kulkea ovista, joten sinun pitäisi olla turvassa jos pysyt seinien sisällä. Ne eivät hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi jos haluat säästää ne.\n\nNe lähtevät alueelta parin päivän päästä.</ManhunterPackArrived>
-  
+
   
   <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut spyykkisen pulssin mikä on ajanut kaikki läheiset eläimet hulluiksi.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>Pudonneen aluksen kappale on lähettänyt keskitetyn psyykkisen pulssin, joka on ajanut yhdyskuntalaisen {0} hulluksi.</LetterShipPartDroveColonistInsane>
@@ -63,7 +67,7 @@
   <PsychicDroneLevelExtreme>Äärimmäinen</PsychicDroneLevelExtreme>
   <LetterLabelPsychicDroneLevelIncreased>Häirintä voimistuu</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
-  
+
   
   <LetterLabelAgentRevealed>Vakooja</LetterLabelAgentRevealed>
   <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojaksi.\n\nHän yrittää nyt paeta.</LetterAgentRevealed>
@@ -78,7 +82,7 @@
   
   <LetterLabelBeaversArrived>Majavia!</LetterLabelBeaversArrived>
   <BeaversArrived>Ryhmä nälkäisiä alfamajavia on juuri saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puun.</BeaversArrived>
-  
+
   
   <RefugeeChasedInitial>{1} nimeltään {0} kutsuu sinua lähistöltä. Häntä jahtaa {2} tukikohdasta {3}!\n\nHECAP anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. Hänen biologinen ikänsä on {4}.\n\nOle varuillasi - jos hyväksyt, joudut taistelemaan HIS kannoillaan olevia {2} vastaan.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
@@ -94,17 +98,31 @@
   
   <LetterLabelFarmAnimalsWanderIn>{0}lauma liittyy</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>Hylätty tai eksynyt {0}lauma on kuljeutunut alueelle.\n\nNe näyttävät tottuneilta ihmiskontaktiin ja liittyvät yhdyskuntaan.</LetterFarmAnimalsWanderIn>
-  
+
   
   <LetterLabelThrumboPasses>Harvinaisia thrumboja</LetterLabelThrumboPasses>
   <LetterThrumboPasses>Pieni lauma thrumboja on kuljeutunut alueelle.\n\nNe ovat luonnostaan rauhantahtoisia, mutta nämä harvinaiset oliot ovat äärimmäisen vaarallisia uhmattuina. Jotkin vaihtokauppiaat haluavat maksaa paljon rahaa niiden arvokkaasta nahasta ja sarvesta.\n\nThrumbot lähtevät alueelta muutamassa päivässä.</LetterThrumboPasses>
-  
+
   
   <LetterLabelTraderCaravanArrival>Trader from {0}</LetterLabelTraderCaravanArrival>
   <LetterTraderCaravanArrival>A trade caravan from {0} is approaching.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
-  
+
   
   <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
   <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
+
   
+  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
+  <RansomDemand_Accept>Accept</RansomDemand_Accept>
+  <RansomDemand_Reject>Reject</RansomDemand_Reject>
+
+  
+  <JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nIf you travel to the ship, Charlon will take you off this rim world, to the stars.</JourneyOffer>
+
+  
+  <CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
+
 </LanguageData>

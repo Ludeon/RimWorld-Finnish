@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <FilthDirt.label>multaa</FilthDirt.label>
-    
-    <FilthAnimalFilth.label>eläimen saastaa</FilthAnimalFilth.label>
-    
-    <FilthSand.label>hiekkaa</FilthSand.label>
-    
-    <RockRubble.label>kiviröykkiö</RockRubble.label>
-    
-    <BuildingRubble.label>rakennuksen jäänteet</BuildingRubble.label>
-    
-    <SandbagRubble.label>hajonneita hiekkasäkkejä</SandbagRubble.label>
-    
-    <FilthBlood.label>verta</FilthBlood.label>
-    
-    <FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
-    
-    <FilthAmnioticFluid.label>lapsivettä</FilthAmnioticFluid.label>
-    
-    <FilthSlime.label>limaa</FilthSlime.label>
-    
-    <FilthVomit.label>oksennusta</FilthVomit.label>
-    
-    <FilthFireFoam.label>palovaahtoa</FilthFireFoam.label>
-    
+
+  <FilthDirt.label>multaa</FilthDirt.label>
+  <FilthAnimalFilth.label>eläimen saastaa</FilthAnimalFilth.label>
+  <FilthSand.label>hiekkaa</FilthSand.label>
+  <RockRubble.label>kiviröykkiö</RockRubble.label>
+  <BuildingRubble.label>rakennuksen jäänteet</BuildingRubble.label>
+  <SandbagRubble.label>hajonneita hiekkasäkkejä</SandbagRubble.label>
+
+
+  
+
+  <FilthBlood.label>verta</FilthBlood.label>
+  <FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
+  <FilthAmnioticFluid.label>lapsivettä</FilthAmnioticFluid.label>
+  <FilthSlime.label>limaa</FilthSlime.label>
+  <FilthVomit.label>oksennusta</FilthVomit.label>
+  <FilthFireFoam.label>palovaahtoa</FilthFireFoam.label>
+
+  <FilthFuel.label>fuel puddle</FilthFuel.label>
+  <FilthFuel.description>Burns on the ground.</FilthFuel.description>
+
+
 </LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
 
   <MainPageCredit>Tynan Sylvesterin yhdyskuntasimulaattori</MainPageCredit>
-  
+
   <Credits_Developers>Kehittäjät</Credits_Developers>
   <Credit_DirectionVarious>Direction, design, code, art</Credit_DirectionVarious>
   <Credit_MusicAndSound>Musiikki ja ääni</Credit_MusicAndSound>
@@ -10,6 +10,8 @@
   <Credit_GameArt>Pelin taide</Credit_GameArt>
   <Credit_MenuArt>Valikkojen taide</Credit_MenuArt>
   <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
+
+  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
 
   <Credits_TitleCommunity>Yhteisön vapaaehtoiset</Credits_TitleCommunity>
   <Credit_Tester>Testaaja</Credit_Tester>

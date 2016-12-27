@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <RecruitPrisonerChance.label>vanginvärväyksen todennäköisyys</RecruitPrisonerChance.label>
-    <RecruitPrisonerChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö värvää vangin.</RecruitPrisonerChance.description>
-    
-    <TameAnimalChance.label>eläimen kesyttämisen todennäköisyys</TameAnimalChance.label>
-    <TameAnimalChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö kesyttää eläimen.</TameAnimalChance.description>
-    
-    <TrainAnimalChance.label>eläimen kouluttamisen todennäköisyys</TrainAnimalChance.label>
-    <TrainAnimalChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö edistyy eläimen kouluttamisessa kullakin yrityskerralla. Saattaa muuttua eläimestä riippuen.</TrainAnimalChance.description>
-    
-    <SocialImpact.label>keskustelun vaikuttavuus</SocialImpact.label>
-    <SocialImpact.description>Kun tämä henkilö vuorovaikuttaa sosiaalisesti, toinen henkilö vaikuttuu tämän verran.</SocialImpact.description>
-    
-    <GiftImpact.label>diplomaattisen lahjan vaikuttavuus</GiftImpact.label>
-    <GiftImpact.description>Kun tämä henkilö antaa lahjan toiselle ryhmälle, tämä kerroin asetetaan sen vaikutukseen ryhmän suhteeseen.</GiftImpact.description>
-    
-    <TradePriceImprovement.label>vaihtokaupan hinnanparannus</TradePriceImprovement.label>
-    <TradePriceImprovement.description>Kun tämä henkilö neuvottelee hinnoista, osto- ja myyntihinnat paranevat tämän prosentin mukaan.</TradePriceImprovement.description>
-    
+
+  <RecruitPrisonerChance.label>vanginvärväyksen todennäköisyys</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö värvää vangin.</RecruitPrisonerChance.description>
+
+  <TameAnimalChance.label>eläimen kesyttämisen todennäköisyys</TameAnimalChance.label>
+  <TameAnimalChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö kesyttää eläimen.</TameAnimalChance.description>
+
+  <TrainAnimalChance.label>eläimen kouluttamisen todennäköisyys</TrainAnimalChance.label>
+  <TrainAnimalChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö edistyy eläimen kouluttamisessa kullakin yrityskerralla. Saattaa muuttua eläimestä riippuen.</TrainAnimalChance.description>
+
+  <SocialImpact.label>keskustelun vaikuttavuus</SocialImpact.label>
+  <SocialImpact.description>Kun tämä henkilö vuorovaikuttaa sosiaalisesti, toinen henkilö vaikuttuu tämän verran.</SocialImpact.description>
+
+  <GiftImpact.label>diplomaattisen lahjan vaikuttavuus</GiftImpact.label>
+  <GiftImpact.description>Kun tämä henkilö antaa lahjan toiselle ryhmälle, tämä kerroin asetetaan sen vaikutukseen ryhmän suhteeseen.</GiftImpact.description>
+
+  <TradePriceImprovement.label>vaihtokaupan hinnanparannus</TradePriceImprovement.label>
+  <TradePriceImprovement.description>Kun tämä henkilö neuvottelee hinnoista, osto- ja myyntihinnat paranevat tämän prosentin mukaan.</TradePriceImprovement.description>
+
+
 </LanguageData>

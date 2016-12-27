@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Mood.label>mieliala</Mood.label>
-    <Mood.description>Mieliala kuvaa miten tyytyväinen tai rasittunut henkilö on. Jos mielialasta tulee liian alhainen, henkilö saattaa kärsiä hermoromahduksen.</Mood.description>
-    
-    <Food.label>ruoka</Food.label>
-    <Food.description>Ruoka on ravinnon määrä jonka olio on lähiaikoina syönyt. Jos se on nollassa olio ottaa ajan myötä nääntymisvahinkoa.</Food.description>
-    
-    <Rest.label>lepo</Rest.label>
-    <Rest.description>Lepo on miten paljon unta olio on saanut lähiaikoina.</Rest.description>
-    
-    <Joy.label>huvi</Joy.label>
-    <Joy.description>Huvi kuvaa ajoittaista ilonpidon tarvetta. Huomaa että samanlaisen aktiviteetin toistaminen tekee siitä vähemmän tehokkaan huvinlähteen.</Joy.description>
-    
-    <Beauty.label>kauneus</Beauty.label>
-    <Beauty.description>Kauneus kuvastaa miten visuaalisesti miellyttävänä henkilö pitää lähimpäristöään.</Beauty.description>
-    
-    <Comfort.label>mukavuus</Comfort.label>
-    <Comfort.description>Mukavuutta saadaan istumalla tai nukkumalla mukavissa huonekaluissa.</Comfort.description>
-    
-    <Space.label>tila</Space.label>
-    <Space.description>Tila kuvastaa vapauden tunnetta ja liikkumatilaa. Sitä haittaavat pitkät ajanjaksot ahtaissa huoneissa.</Space.description>
-    
+
+  <Mood.label>mieliala</Mood.label>
+  <Mood.description>Mieliala kuvaa miten tyytyväinen tai rasittunut henkilö on. Jos mielialasta tulee liian alhainen, henkilö saattaa kärsiä hermoromahduksen.</Mood.description>
+
+  <Food.label>ruoka</Food.label>
+  <Food.description>Ruoka on ravinnon määrä jonka olio on lähiaikoina syönyt. Jos se on nollassa olio ottaa ajan myötä nääntymisvahinkoa.</Food.description>
+
+  <Rest.label>lepo</Rest.label>
+  <Rest.description>Lepo on miten paljon unta olio on saanut lähiaikoina.</Rest.description>
+
+  <Joy.label>huvi</Joy.label>
+  <Joy.description>Huvi kuvaa ajoittaista ilonpidon tarvetta. Huomaa että samanlaisen aktiviteetin toistaminen tekee siitä vähemmän tehokkaan huvinlähteen.</Joy.description>
+
+  <Beauty.label>kauneus</Beauty.label>
+  <Beauty.description>Kauneus kuvastaa miten visuaalisesti miellyttävänä henkilö pitää lähimpäristöään.</Beauty.description>
+
+  <Comfort.label>mukavuus</Comfort.label>
+  <Comfort.description>Mukavuutta saadaan istumalla tai nukkumalla mukavissa huonekaluissa.</Comfort.description>
+
+  <Space.label>tila</Space.label>
+  <Space.description>Tila kuvastaa vapauden tunnetta ja liikkumatilaa. Sitä haittaavat pitkät ajanjaksot ahtaissa huoneissa.</Space.description>
+
+
 </LanguageData>
