@@ -22,16 +22,16 @@
   <ResetModsConfigOnCrash>Resetoi modit kaatumisen jälkeen</ResetModsConfigOnCrash>
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen sukunimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
-  <AddName>Add name</AddName>
-  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+  <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen nimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
+  <AddName>Lisää nimi</AddName>
+  <TypeFirstNickOrLastName>Kirjoita etunimi, nimimerkki tai sukunimi.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   <AutosaveInterval>Automaattitallennus</AutosaveInterval>
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <ShowRealtimeClock>Näytä reaaliaikainen kello</ShowRealtimeClock>
   <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
+  <PlantWindSway>Kasvien heiluminen tuulessa</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
 
   

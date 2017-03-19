@@ -2,8 +2,6 @@ List of untranslated tags in this translation. It includes tags which have the s
 appearance as their english equivalents, such as 'dementia' and 'tundra'.
 
 DefInjected\BiomeDef\Biomes_Cold.xml
-    <SeaIce.description>Permanent ice sheets floating on water. There is no soil, no plants, no minerals to mine, and very few animals. Travel is very slow due to the deep snow and crevasses.</SeaIce.description>
-    <SeaIce.label>sea ice</SeaIce.label>
     <Tundra.label>tundra</Tundra.label>
 
 DefInjected\ChemicalDef\GoJuice.xml
@@ -136,17 +134,11 @@ DefInjected\DamageDef\Damages_Misc.xml
 
 DefInjected\DifficultyDef\Difficulties.xml
     <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.</Easy.description>
-    <Easy.label>Some challenge</Easy.label>
     <Hard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
-    <Hard.label>Intense</Hard.label>
     <Medium.description>It's a rough planet.\n\nThreats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
-    <Medium.label>Rough</Medium.label>
     <Peaceful.description>For those who want to relax and build a colony in a sandbox-like environment.\n\nMajor threatening events are disabled, but colonists can still get grumpy and animals can still go crazy from time to time.</Peaceful.description>
-    <Peaceful.label>Peaceful</Peaceful.label>
     <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
-    <VeryEasy.label>Base builder</VeryEasy.label>
     <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
-    <VeryHard.label>Extreme</VeryHard.label>
 
 DefInjected\FactionDef\Factions_Player.xml
     <PlayerColony.description>Your own community.</PlayerColony.description>
@@ -185,13 +177,6 @@ DefInjected\HediffDef\GoJuice.xml
     <GoJuiceTolerance.stages.2.label>large</GoJuiceTolerance.stages.2.label>
     <GoJuiceTolerance.stages.3.label>massive</GoJuiceTolerance.stages.3.label>
 
-DefInjected\HediffDef\Hediffs_Chronic.xml
-    <Dementia.label>dementia</Dementia.label>
-
-DefInjected\HediffDef\Hediffs_GlobalMisc.xml
-    <Pregnant.stages.0.label>early-stage-hidden</Pregnant.stages.0.label>
-    <ToxicBuildup.stages.0.label>initial-hidden</ToxicBuildup.stages.0.label>
-
 DefInjected\HediffDef\Hediffs_Global_Misc.xml
     <DrugOverdose.comps.1.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.1.discoverLetterLabel>
     <DrugOverdose.comps.1.discoverLetterText>{0} is overdosing!</DrugOverdose.comps.1.discoverLetterText>
@@ -199,26 +184,29 @@ DefInjected\HediffDef\Hediffs_Global_Misc.xml
     <DrugOverdose.stages.0.label>hidden</DrugOverdose.stages.0.label>
     <DrugOverdose.stages.1.label>minor</DrugOverdose.stages.1.label>
     <DrugOverdose.stages.2.label>major</DrugOverdose.stages.2.label>
+    <Pregnant.stages.0.label>early-stage-hidden</Pregnant.stages.0.label>
+    <ToxicBuildup.stages.0.label>initial-hidden</ToxicBuildup.stages.0.label>
 
-DefInjected\HediffDef\Hediffs_Infections.xml
+DefInjected\HediffDef\Hediffs_Global_Temperature.xml
+    <Heatstroke.stages.0.label>initial-hidden</Heatstroke.stages.0.label>
+    <Hypothermia.stages.0.label>shivering-hidden</Hypothermia.stages.0.label>
+
+DefInjected\HediffDef\Hediffs_Local_Chronic.xml
+    <Dementia.label>dementia</Dementia.label>
+
+DefInjected\HediffDef\Hediffs_Local_Infections.xml
     <Flu.stages.0.label>minor-hidden</Flu.stages.0.label>
     <Malaria.label>malaria</Malaria.label>
     <SleepingSickness.stages.0.label>minor-hidden</SleepingSickness.stages.0.label>
 
-DefInjected\HediffDef\Hediffs_Injuries.xml
-    <Crack.comps.0.labelTendedWell>healed</Crack.comps.0.labelTendedWell>
-
 DefInjected\HediffDef\Hediffs_Local_Injuries.xml
+    <Crack.comps.0.labelTendedWell>healed</Crack.comps.0.labelTendedWell>
     <Gunshot.comps.2.instantlyOldLabel>permanent gunshot injury</Gunshot.comps.2.instantlyOldLabel>
 
 DefInjected\HediffDef\Hediffs_Local_Misc.xml
     <ChemicalDamageBrain.label>chemical damage</ChemicalDamageBrain.label>
     <ChemicalDamageKidney.label>chemical damage</ChemicalDamageKidney.label>
     <Cirrhosis.label>Cirrhosis</Cirrhosis.label>
-
-DefInjected\HediffDef\Hediffs_Temperature.xml
-    <Heatstroke.stages.0.label>initial-hidden</Heatstroke.stages.0.label>
-    <Hypothermia.stages.0.label>shivering-hidden</Hypothermia.stages.0.label>
 
 DefInjected\HediffDef\Luciferium.xml
     <LuciferiumAddiction.label>luciferium need</LuciferiumAddiction.label>
@@ -527,21 +515,6 @@ DefInjected\NeedDef\WakeUp.xml
     <Chemical_WakeUp.description>Because of an wake-up addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_WakeUp.description>
     <Chemical_WakeUp.label>wake-up</Chemical_WakeUp.label>
 
-DefInjected\PawnKindDef\PawnKinds_Animal_Insect.xml
-    <Megaspider.label>megaspider</Megaspider.label>
-    <Spelopede.label>spelopede</Spelopede.label>
-
-DefInjected\PawnKindDef\PawnKinds_Animal_Pet.xml
-    <Husky.label>husky</Husky.label>
-    <Warg.label>warg</Warg.label>
-
-DefInjected\PawnKindDef\PawnKinds_Animal_Temperate.xml
-    <Thrumbo.label>thrumbo</Thrumbo.label>
-
-DefInjected\PawnKindDef\PawnKinds_Animal_Tropical.xml
-    <Chinchilla.label>chinchilla</Chinchilla.label>
-    <Cougar.label>cougar</Cougar.label>
-
 DefInjected\PawnKindDef\PawnKinds_Outlander.xml
     <TownTrader.label>town trader</TownTrader.label>
 
@@ -599,6 +572,7 @@ DefInjected\PawnKindDef\Races_Animal_Bears.xml
     <PolarBear.lifeStages.2.labelMale>polar bear</PolarBear.lifeStages.2.labelMale>
 
 DefInjected\PawnKindDef\Races_Animal_BigCats.xml
+    <Cougar.label>cougar</Cougar.label>
     <Cougar.lifeStages.0.labelFemale>cougar</Cougar.lifeStages.0.labelFemale>
     <Cougar.lifeStages.0.labelMale>cougar</Cougar.lifeStages.0.labelMale>
     <Cougar.lifeStages.1.labelFemale>cougar</Cougar.lifeStages.1.labelFemale>
@@ -690,6 +664,7 @@ DefInjected\PawnKindDef\Races_Animal_Giant.xml
     <Megasloth.lifeStages.1.labelMale>Megasloth</Megasloth.lifeStages.1.labelMale>
     <Megasloth.lifeStages.2.labelFemale>Megasloth</Megasloth.lifeStages.2.labelFemale>
     <Megasloth.lifeStages.2.labelMale>Megasloth</Megasloth.lifeStages.2.labelMale>
+    <Thrumbo.label>thrumbo</Thrumbo.label>
     <Thrumbo.lifeStages.0.labelFemale>thrumbo</Thrumbo.lifeStages.0.labelFemale>
     <Thrumbo.lifeStages.0.labelMale>thrumbo</Thrumbo.lifeStages.0.labelMale>
     <Thrumbo.lifeStages.1.labelFemale>thrumbo</Thrumbo.lifeStages.1.labelFemale>
@@ -718,12 +693,14 @@ DefInjected\PawnKindDef\Races_Animal_Insect.xml
     <Megascarab.lifeStages.1.labelMale>megascarab</Megascarab.lifeStages.1.labelMale>
     <Megascarab.lifeStages.2.labelFemale>megascarab</Megascarab.lifeStages.2.labelFemale>
     <Megascarab.lifeStages.2.labelMale>megascarab</Megascarab.lifeStages.2.labelMale>
+    <Megaspider.label>megaspider</Megaspider.label>
     <Megaspider.lifeStages.0.labelFemale>megaspider</Megaspider.lifeStages.0.labelFemale>
     <Megaspider.lifeStages.0.labelMale>megaspider</Megaspider.lifeStages.0.labelMale>
     <Megaspider.lifeStages.1.labelFemale>megaspider</Megaspider.lifeStages.1.labelFemale>
     <Megaspider.lifeStages.1.labelMale>megaspider</Megaspider.lifeStages.1.labelMale>
     <Megaspider.lifeStages.2.labelFemale>megaspider</Megaspider.lifeStages.2.labelFemale>
     <Megaspider.lifeStages.2.labelMale>megaspider</Megaspider.lifeStages.2.labelMale>
+    <Spelopede.label>spelopede</Spelopede.label>
     <Spelopede.lifeStages.0.labelFemale>spelopede</Spelopede.lifeStages.0.labelFemale>
     <Spelopede.lifeStages.0.labelMale>spelopede</Spelopede.lifeStages.0.labelMale>
     <Spelopede.lifeStages.1.labelFemale>spelopede</Spelopede.lifeStages.1.labelFemale>
@@ -738,6 +715,7 @@ DefInjected\PawnKindDef\Races_Animal_Pet.xml
     <Cat.lifeStages.1.labelMale>cat</Cat.lifeStages.1.labelMale>
     <Cat.lifeStages.2.labelFemale>cat</Cat.lifeStages.2.labelFemale>
     <Cat.lifeStages.2.labelMale>cat</Cat.lifeStages.2.labelMale>
+    <Husky.label>husky</Husky.label>
     <Husky.lifeStages.0.labelFemale>husky</Husky.lifeStages.0.labelFemale>
     <Husky.lifeStages.0.labelMale>husky</Husky.lifeStages.0.labelMale>
     <Husky.lifeStages.1.labelFemale>husky</Husky.lifeStages.1.labelFemale>
@@ -776,6 +754,7 @@ DefInjected\PawnKindDef\Races_Animal_Rodentlike.xml
     <Capybara.lifeStages.1.labelMale>capybara</Capybara.lifeStages.1.labelMale>
     <Capybara.lifeStages.2.labelFemale>capybara</Capybara.lifeStages.2.labelFemale>
     <Capybara.lifeStages.2.labelMale>capybara</Capybara.lifeStages.2.labelMale>
+    <Chinchilla.label>chinchilla</Chinchilla.label>
     <Chinchilla.lifeStages.0.labelFemale>chinchilla</Chinchilla.lifeStages.0.labelFemale>
     <Chinchilla.lifeStages.0.labelMale>chinchilla</Chinchilla.lifeStages.0.labelMale>
     <Chinchilla.lifeStages.1.labelFemale>chinchilla</Chinchilla.lifeStages.1.labelFemale>
@@ -885,6 +864,7 @@ DefInjected\PawnKindDef\Races_Animal_WildCanines.xml
     <FoxRed.lifeStages.1.labelMale>red fox</FoxRed.lifeStages.1.labelMale>
     <FoxRed.lifeStages.2.labelFemale>red fox</FoxRed.lifeStages.2.labelFemale>
     <FoxRed.lifeStages.2.labelMale>red fox</FoxRed.lifeStages.2.labelMale>
+    <Warg.label>warg</Warg.label>
     <Warg.lifeStages.0.labelFemale>warg</Warg.lifeStages.0.labelFemale>
     <Warg.lifeStages.0.labelMale>warg</Warg.lifeStages.0.labelMale>
     <Warg.lifeStages.1.labelFemale>warg</Warg.lifeStages.1.labelFemale>
@@ -905,64 +885,6 @@ DefInjected\PawnKindDef\Races_Animal_WildCanines.xml
     <WolfTimber.lifeStages.1.labelMale>timber wolf</WolfTimber.lifeStages.1.labelMale>
     <WolfTimber.lifeStages.2.labelFemale>timber wolf</WolfTimber.lifeStages.2.labelFemale>
     <WolfTimber.lifeStages.2.labelMale>timber wolf</WolfTimber.lifeStages.2.labelMale>
-
-DefInjected\PawnRelationDef\PawnRelations_FamilyByBlood.xml
-    <Child.label>son</Child.label>
-    <Child.labelFemale>daughter</Child.labelFemale>
-    <Cousin.label>cousin</Cousin.label>
-    <Cousin.labelFemale>cousin</Cousin.labelFemale>
-    <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
-    <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
-    <Grandchild.label>grandson</Grandchild.label>
-    <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
-    <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
-    <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
-    <Grandparent.label>grandfather</Grandparent.label>
-    <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
-    <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
-    <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
-    <GreatGrandchild.label>great grandson</GreatGrandchild.label>
-    <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
-    <GreatGrandparent.label>great grandfather</GreatGrandparent.label>
-    <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
-    <HalfSibling.label>brother</HalfSibling.label>
-    <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
-    <Kin.label>kin</Kin.label>
-    <Kin.labelFemale>kin</Kin.labelFemale>
-    <NephewOrNiece.label>nephew</NephewOrNiece.label>
-    <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
-    <Parent.label>father</Parent.label>
-    <Parent.labelFemale>mother</Parent.labelFemale>
-    <SecondCousin.label>second cousin</SecondCousin.label>
-    <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
-    <Sibling.label>brother</Sibling.label>
-    <Sibling.labelFemale>sister</Sibling.labelFemale>
-    <UncleOrAunt.label>uncle</UncleOrAunt.label>
-    <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
-
-DefInjected\PawnRelationDef\PawnRelations_FamilyByChoice.xml
-    <ChildInLaw.label>son-in-law</ChildInLaw.label>
-    <ChildInLaw.labelFemale>daughter-in-law</ChildInLaw.labelFemale>
-    <ExLover.label>ex-lover</ExLover.label>
-    <ExLover.labelFemale>ex-lover</ExLover.labelFemale>
-    <ExSpouse.label>ex-husband</ExSpouse.label>
-    <ExSpouse.labelFemale>ex-wife</ExSpouse.labelFemale>
-    <Fiance.label>fiance</Fiance.label>
-    <Fiance.labelFemale>fiancée</Fiance.labelFemale>
-    <Lover.label>lover</Lover.label>
-    <Lover.labelFemale>lover</Lover.labelFemale>
-    <ParentInLaw.label>father-in-law</ParentInLaw.label>
-    <ParentInLaw.labelFemale>mother-in-law</ParentInLaw.labelFemale>
-    <Spouse.label>husband</Spouse.label>
-    <Spouse.labelFemale>wife</Spouse.labelFemale>
-    <Stepchild.label>stepson</Stepchild.label>
-    <Stepchild.labelFemale>stepdaughter</Stepchild.labelFemale>
-    <Stepparent.label>stepfather</Stepparent.label>
-    <Stepparent.labelFemale>stepmother</Stepparent.labelFemale>
-
-DefInjected\PawnRelationDef\PawnRelations_Misc.xml
-    <Bond.label>bond</Bond.label>
-    <Bond.labelFemale>bond</Bond.labelFemale>
 
 DefInjected\RaidStrategyDef\RaidStrategies.xml
     <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
@@ -1042,11 +964,6 @@ DefInjected\RecipeDef\Recipes_Add.xml
     <Make_Yayo.jobString>Making yayo.</Make_Yayo.jobString>
     <Make_Yayo.label>Make yayo</Make_Yayo.label>
 
-DefInjected\RecipeDef\Recipes_Butchery.xml
-    <MakeKibble.description>Make animal kibble by combining raw meat and plants.</MakeKibble.description>
-    <MakeKibble.jobString>Making kibble.</MakeKibble.jobString>
-    <MakeKibble.label>make kibble</MakeKibble.label>
-
 DefInjected\RecipeDef\Recipes_Cremation.xml
     <BurnApparelCampfire.description>Burn apparel to completely destroy it.</BurnApparelCampfire.description>
     <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
@@ -1061,6 +978,9 @@ DefInjected\RecipeDef\Recipes_Drugs.xml
     <MakeWort.label>make wort</MakeWort.label>
 
 DefInjected\RecipeDef\Recipes_Food.xml
+    <MakeKibble.description>Make animal kibble by combining raw meat and plants.</MakeKibble.description>
+    <MakeKibble.jobString>Making kibble.</MakeKibble.jobString>
+    <MakeKibble.label>make kibble</MakeKibble.label>
     <MakePemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</MakePemmican.description>
     <MakePemmican.jobString>Making pemmican.</MakePemmican.jobString>
     <MakePemmican.label>make pemmican</MakePemmican.label>
@@ -1261,19 +1181,13 @@ DefInjected\ResearchProjectDef\ResearchProjects_Tier1_Misc.xml
     <Devilstrand.label>devilstrand</Devilstrand.label>
     <DrugProduction.description>The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs.</DrugProduction.description>
     <DrugProduction.label>drug production</DrugProduction.label>
-    <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
-    <ElectricCremation.label>electric cremation</ElectricCremation.label>
     <Electricity.description>Generate and use electricity for cooking and other simple tasks.</Electricity.description>
     <Electricity.label>electricity</Electricity.label>
-    <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
-    <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
     <PassiveCooler.description>Make passive coolers, a way to cool indoor spaces without using electricity.</PassiveCooler.description>
     <PassiveCooler.label>passive cooler</PassiveCooler.label>
     <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
     <Pemmican.label>pemmican</Pemmican.label>
     <Smithing.label>smithing</Smithing.label>
-    <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
-    <TubeTelevision.label>tube television</TubeTelevision.label>
 
 DefInjected\ResearchProjectDef\ResearchProjects_Tier2_Misc.xml
     <AirConditioning.description>Build air conditions to cool rooms in the heat, or to keep freezers.</AirConditioning.description>
@@ -1282,28 +1196,26 @@ DefInjected\ResearchProjectDef\ResearchProjects_Tier2_Misc.xml
     <Autodoors.label>autodoors</Autodoors.label>
     <Batteries.description>Build batteries for storing electricity.</Batteries.description>
     <Batteries.label>batteries</Batteries.label>
-    <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
-    <ChargedShot.label>charged shot</ChargedShot.label>
-    <ComponentAssembly.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</ComponentAssembly.description>
-    <ComponentAssembly.label>component assembly</ComponentAssembly.label>
+    <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
+    <ElectricCremation.label>electric cremation</ElectricCremation.label>
     <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice.</GoJuiceProduction.description>
     <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
     <GunTurrets.description>Allows the production of automated gun turrets.</GunTurrets.description>
     <GunTurrets.label>gun turrets</GunTurrets.label>
-    <MultibarrelWeapons.description>Allows you to build miniguns.</MultibarrelWeapons.description>
-    <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
+    <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
+    <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
     <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
     <NutrientPaste.label>nutrient paste</NutrientPaste.label>
     <PenoxycylineProduction.description>Learn to produce penoxycline, a disease prevention drug.</PenoxycylineProduction.description>
     <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
-    <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
-    <PoweredArmor.label>powered armor</PoweredArmor.label>
     <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.</PsychiteRefining.description>
     <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
     <Refining.description>Build refineries to make chemfuel from wood.</Refining.description>
     <Refining.label>refining</Refining.label>
     <SolarPanels.description>Build solar panels for electrical generation.</SolarPanels.description>
     <SolarPanels.label>solar panels</SolarPanels.label>
+    <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
+    <TubeTelevision.label>tube television</TubeTelevision.label>
     <WakeUpProduction.description>Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.</WakeUpProduction.description>
     <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
 
@@ -1316,10 +1228,18 @@ DefInjected\ResearchProjectDef\ResearchProjects_Tier3_Misc.xml
     <TransportPod.label>transport pod</TransportPod.label>
 
 DefInjected\ResearchProjectDef\ResearchProjects_Tier4_Misc.xml
+    <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
+    <ChargedShot.label>charged shot</ChargedShot.label>
+    <ComponentAssembly.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</ComponentAssembly.description>
+    <ComponentAssembly.label>component assembly</ComponentAssembly.label>
     <DeepDrilling.description>Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
     <DeepDrilling.label>deep drilling</DeepDrilling.label>
     <GroundPenetratingScanner.description>Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.</GroundPenetratingScanner.description>
     <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+    <MultibarrelWeapons.description>Allows you to build miniguns.</MultibarrelWeapons.description>
+    <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
+    <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+    <PoweredArmor.label>powered armor</PoweredArmor.label>
 
 DefInjected\RoomStatDef\RoomStats.xml
     <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
@@ -2220,6 +2140,7 @@ DefInjected\ThingDef\Items_Exotic.xml
     <Neurotrainer.comps.1.useLabel>Use neurotrainer to learn {0}</Neurotrainer.comps.1.useLabel>
 
 DefInjected\ThingDef\Items_Food.xml
+    <Kibble.label>kibble</Kibble.label>
     <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</Pemmican.description>
     <Pemmican.label>pemmican</Pemmican.label>
 
@@ -2233,7 +2154,6 @@ DefInjected\ThingDef\Items_Resource_AnimalProduct.xml
     <EggTurkeyFertilized.description>Fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked.</EggTurkeyFertilized.description>
     <EggTurkeyFertilized.label>turkey egg (fert.)</EggTurkeyFertilized.label>
     <InsectJelly.label>insect jelly</InsectJelly.label>
-    <Kibble.label>kibble</Kibble.label>
 
 DefInjected\ThingDef\Items_Resource_Manufactured.xml
     <Chemfuel.description>Volatile liquid chemical compound. Used to fuel rockets and other machines.</Chemfuel.description>
@@ -2274,11 +2194,9 @@ DefInjected\ThingDef\Penoxycyline.xml
     <Penoxycyline.ingestible.ingestReportString>Taking {0}.</Penoxycyline.ingestible.ingestReportString>
     <Penoxycyline.label>penoxycyline</Penoxycyline.label>
 
-DefInjected\ThingDef\Plants_Cultivated.xml
+DefInjected\ThingDef\Plants_Cultivated_Farm.xml
     <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>
     <PlantHealroot.label>healroot</PlantHealroot.label>
-
-DefInjected\ThingDef\Plants_Cultivated_Farm.xml
     <PlantPsychoid.description>A leafy plant. Its leaves can be refined into various forms of the psychoid drug.</PlantPsychoid.description>
     <PlantPsychoid.label>psychoid plant</PlantPsychoid.label>
     <PlantSmokeleaf.description>A leafy plant cultivated for its psychological effects. Smokeleaf leaves can be prepared into joints at the crafting spot.</PlantSmokeleaf.description>
@@ -2308,6 +2226,12 @@ DefInjected\ThingDef\Races_Animal_Arid.xml
     <Gazelle_Meat.label>gazelle meat</Gazelle_Meat.label>
 
 DefInjected\ThingDef\Races_Animal_BigCats.xml
+    <Cougar.description>One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat.</Cougar.description>
+    <Cougar.label>cougar</Cougar.label>
+    <Cougar_Corpse.label>cougar corpse</Cougar_Corpse.label>
+    <Cougar_Leather.label>cougarskin</Cougar_Leather.label>
+    <Cougar_Leather.stuffProps.stuffAdjective>cougarskin</Cougar_Leather.stuffProps.stuffAdjective>
+    <Cougar_Meat.label>cougar meat</Cougar_Meat.label>
     <Lynx.description>A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their northern territories.</Lynx.description>
     <Lynx.label>lynx</Lynx.label>
     <Lynx_Corpse.description>lynx corpse</Lynx_Corpse.description>
@@ -2371,6 +2295,7 @@ DefInjected\ThingDef\Races_Animal_Giant.xml
     <Megasloth_Leather.stuffProps.stuffAdjective>Megasloth leather</Megasloth_Leather.stuffProps.stuffAdjective>
     <Megasloth_Meat.description>Megasloth meat</Megasloth_Meat.description>
     <Megasloth_Meat.label>Megasloth meat</Megasloth_Meat.label>
+    <Thrumbo.label>thrumbo</Thrumbo.label>
 
 DefInjected\ThingDef\Races_Animal_Insect.xml
     <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long deadly ripper-blades make it deadly.</Megaspider.description>
@@ -2382,9 +2307,9 @@ DefInjected\ThingDef\Races_Animal_Insect.xml
 
 DefInjected\ThingDef\Races_Animal_Pet.xml
     <Husky.label>husky</Husky.label>
-    <Warg.label>warg</Warg.label>
 
 DefInjected\ThingDef\Races_Animal_Rodentlike.xml
+    <Chinchilla.label>chinchilla</Chinchilla.label>
     <Raccoon.description>A small, hardy animal that ranges wide across forests and shrubland. Eats almost anything.</Raccoon.description>
     <Raccoon.label>Raccoon</Raccoon.label>
     <Raccoon_Corpse.description>Raccoon corpse</Raccoon_Corpse.description>
@@ -2423,16 +2348,6 @@ DefInjected\ThingDef\Races_Animal_Temperate.xml
     <Ibex_Leather.stuffProps.stuffAdjective>goathide</Ibex_Leather.stuffProps.stuffAdjective>
     <Ibex_Meat.description>ibex meat</Ibex_Meat.description>
     <Ibex_Meat.label>ibex meat</Ibex_Meat.label>
-    <Thrumbo.label>thrumbo</Thrumbo.label>
-
-DefInjected\ThingDef\Races_Animal_Tropical.xml
-    <Chinchilla.label>chinchilla</Chinchilla.label>
-    <Cougar.description>One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat.</Cougar.description>
-    <Cougar.label>cougar</Cougar.label>
-    <Cougar_Corpse.label>cougar corpse</Cougar_Corpse.label>
-    <Cougar_Leather.label>cougarskin</Cougar_Leather.label>
-    <Cougar_Leather.stuffProps.stuffAdjective>cougarskin</Cougar_Leather.stuffProps.stuffAdjective>
-    <Cougar_Meat.label>cougar meat</Cougar_Meat.label>
 
 DefInjected\ThingDef\Races_Animal_WildCanines.xml
     <FoxArctic.description>A small predator adapted for the far north. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey.</FoxArctic.description>
@@ -2458,6 +2373,7 @@ DefInjected\ThingDef\Races_Animal_WildCanines.xml
     <FoxRed_Leather.description>red foxskin</FoxRed_Leather.description>
     <FoxRed_Leather.label>red foxskin</FoxRed_Leather.label>
     <FoxRed_Leather.stuffProps.stuffAdjective>red foxskin</FoxRed_Leather.stuffProps.stuffAdjective>
+    <Warg.label>warg</Warg.label>
     <WolfArctic.description>An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent.</WolfArctic.description>
     <WolfArctic.label>arctic wolf</WolfArctic.label>
     <WolfArctic_Corpse.description>arctic wolf corpse</WolfArctic_Corpse.description>
@@ -2505,6 +2421,9 @@ DefInjected\ThingDef\Weapons_Melee.xml
 DefInjected\ThoughtDef\Alcohol_Beer.xml
     <AlcoholWithdrawal.stages.1.description>Feeling shaky. Everything pisses me off. I keep thinking of drinking.</AlcoholWithdrawal.stages.1.description>
     <AlcoholWithdrawal.stages.1.label>alcohol withdrawal</AlcoholWithdrawal.stages.1.label>
+    <Hungover.stages.3.label>hungover-hidden</Hungover.stages.3.label>
+    <Inebriated.stages.0.description>Should not appear.</Inebriated.stages.0.description>
+    <Inebriated.stages.0.label>buzzed-hidden</Inebriated.stages.0.label>
 
 DefInjected\ThoughtDef\GoJuice.xml
     <GoJuiceHigh.stages.0.description>Feeling pumped but calm. I am the sniper bullet in flight, ready to cut through you.</GoJuiceHigh.stages.0.description>
@@ -2528,28 +2447,8 @@ DefInjected\ThoughtDef\Smokeleaf.xml
     <SmokeleafWithdrawal.stages.1.description>I really wish I could smoke.</SmokeleafWithdrawal.stages.1.description>
     <SmokeleafWithdrawal.stages.1.label>Smokeleaf withdrawal</SmokeleafWithdrawal.stages.1.label>
 
-DefInjected\ThoughtDef\Thoughts_ConditionsDrugs.xml
-    <Hungover.stages.3.label>hungover-hidden</Hungover.stages.3.label>
-    <Inebriated.stages.0.description>Should not appear.</Inebriated.stages.0.description>
-    <Inebriated.stages.0.label>buzzed-hidden</Inebriated.stages.0.label>
-
-DefInjected\ThoughtDef\Thoughts_ConditionsSpecial.xml
-    <SharedBed.stages.0.description>I have to share a bed with someone who I don't particularly want to.</SharedBed.stages.0.description>
-    <SharedBed.stages.0.label>sharing bed</SharedBed.stages.0.label>
-
-DefInjected\ThoughtDef\Thoughts_Debug.xml
-    <DebugBad.stages.0.description>Test thought for debugging.</DebugBad.stages.0.description>
-    <DebugBad.stages.0.label>debug bad thought</DebugBad.stages.0.label>
-    <DebugGood.stages.0.description>Test thought for debugging.</DebugGood.stages.0.description>
-    <DebugGood.stages.0.label>debug good thought</DebugGood.stages.0.label>
-
-DefInjected\ThoughtDef\Thoughts_Memories.xml
-    <AteCorpse.stages.0.label>ate corpse</AteCorpse.stages.0.label>
-    <KnowBuriedInSarcophagus.stages.0.label>buried in sarcophagus</KnowBuriedInSarcophagus.stages.0.label>
-    <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
-    <KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
-
 DefInjected\ThoughtDef\Thoughts_Memory_Death.xml
+    <BondedAnimalDied.stages.0.description>Such a tender, unique animal. This universe is evil!</BondedAnimalDied.stages.0.description>
     <KnowColonistDied.stages.0.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.0.description>
     <KnowColonistDied.stages.0.label>colonist died</KnowColonistDied.stages.0.label>
     <KnowColonistExecuted.stages.3.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.3.description>
@@ -2558,10 +2457,39 @@ DefInjected\ThoughtDef\Thoughts_Memory_Death.xml
     <KnowGuestExecuted.stages.3.label>someone organ-harvested</KnowGuestExecuted.stages.3.label>
     <KnowPrisonerDiedInnocent.stages.0.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</KnowPrisonerDiedInnocent.stages.0.description>
     <KnowPrisonerDiedInnocent.stages.0.label>innocent prisoner died</KnowPrisonerDiedInnocent.stages.0.label>
+    <MyAuntDied.stages.0.description>My aunt died.</MyAuntDied.stages.0.description>
+    <MyBrotherDied.stages.0.description>My brother died. My own flesh and blood...</MyBrotherDied.stages.0.description>
+    <MyCousinDied.stages.0.description>My cousin died. My own flesh and blood...</MyCousinDied.stages.0.description>
+    <MyDaughterDied.stages.0.description>My daughter is dead. My own flesh and blood...</MyDaughterDied.stages.0.description>
+    <MyFatherDied.stages.0.description>My father died. He's gone forever.</MyFatherDied.stages.0.description>
+    <MyFianceDied.stages.0.description>My fiance died. Such a man... my future is gone.</MyFianceDied.stages.0.description>
+    <MyFianceeDied.stages.0.description>My fiancée died. Such a woman... my future is gone.</MyFianceeDied.stages.0.description>
+    <MyGrandchildDied.stages.0.description>My grandchild died. My own flesh and blood...</MyGrandchildDied.stages.0.description>
+    <MyGrandparentDied.stages.0.description>My grandparent died.</MyGrandparentDied.stages.0.description>
+    <MyHalfSiblingDied.stages.0.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied.stages.0.description>
+    <MyHusbandDied.stages.0.description>My husband is dead. I am alone.</MyHusbandDied.stages.0.description>
+    <MyKinDied.stages.0.description>My kin died.</MyKinDied.stages.0.description>
+    <MyLoverDied.stages.0.description>My lover died. I am so alone.</MyLoverDied.stages.0.description>
+    <MyMotherDied.stages.0.description>My mother died. She's gone forever.</MyMotherDied.stages.0.description>
+    <MyNephewDied.stages.0.description>My nephew died. Such a wonderful child.</MyNephewDied.stages.0.description>
+    <MyNieceDied.stages.0.description>My niece died. Such a wonderful child.</MyNieceDied.stages.0.description>
+    <MySisterDied.stages.0.description>My sister died. My own flesh and blood...</MySisterDied.stages.0.description>
+    <MySonDied.stages.0.description>My son is dead. My own flesh and blood...</MySonDied.stages.0.description>
+    <MyUncleDied.stages.0.description>My uncle died.</MyUncleDied.stages.0.description>
+    <MyWifeDied.stages.0.description>My wife is dead. I am alone.</MyWifeDied.stages.0.description>
+    <PawnWithBadOpinionDied.stages.0.description>Serves them right. Things are looking up.</PawnWithBadOpinionDied.stages.0.description>
+    <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
+
+DefInjected\ThoughtDef\Thoughts_Memory_Debug.xml
+    <DebugBad.stages.0.description>Test thought for debugging.</DebugBad.stages.0.description>
+    <DebugBad.stages.0.label>debug bad thought</DebugBad.stages.0.label>
+    <DebugGood.stages.0.description>Test thought for debugging.</DebugGood.stages.0.description>
+    <DebugGood.stages.0.label>debug good thought</DebugGood.stages.0.label>
 
 DefInjected\ThoughtDef\Thoughts_Memory_Eating.xml
     <AteAwfulMeal.stages.0.description>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</AteAwfulMeal.stages.0.description>
     <AteAwfulMeal.stages.0.label>ate awful meal</AteAwfulMeal.stages.0.label>
+    <AteCorpse.stages.0.label>ate corpse</AteCorpse.stages.0.label>
     <AteInsectMeatAsIngredient.stages.0.description>I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify.</AteInsectMeatAsIngredient.stages.0.description>
     <AteInsectMeatAsIngredient.stages.0.label>ate cooked insect meat</AteInsectMeatAsIngredient.stages.0.label>
     <AteInsectMeatDirect.stages.0.description>I ate some gray, slimy insect meat. It was, possibly, the most disgusting thing I've ever tasted.</AteInsectMeatDirect.stages.0.description>
@@ -2570,6 +2498,13 @@ DefInjected\ThoughtDef\Thoughts_Memory_Eating.xml
     <AteKibble.stages.0.label>ate kibble</AteKibble.stages.0.label>
     <AteRottenFood.stages.0.description>I ate some disgusting, purtid food. It was melting in my mouth - but not in a good way.</AteRottenFood.stages.0.description>
     <AteRottenFood.stages.0.label>ate rotten food</AteRottenFood.stages.0.label>
+
+DefInjected\ThoughtDef\Thoughts_Memory_Gatherings.xml
+    <AttendedParty.stages.0.description>I had a good time at that party.</AttendedParty.stages.0.description>
+    <AttendedParty.stages.0.label>attended party</AttendedParty.stages.0.label>
+    <AttendedWedding.stages.0.description>It was great to see two people come together to build a future like that.</AttendedWedding.stages.0.description>
+    <AttendedWedding.stages.0.label>attended wedding</AttendedWedding.stages.0.label>
+    <GotMarried.stages.0.description>I got married! Life is full of possibility!</GotMarried.stages.0.description>
 
 DefInjected\ThoughtDef\Thoughts_Memory_Misc.xml
     <BondedAnimalAbandoned.stages.0.description>My bonded animal was abandoned in the middle of nowhere!</BondedAnimalAbandoned.stages.0.description>
@@ -2582,6 +2517,9 @@ DefInjected\ThoughtDef\Thoughts_Memory_Misc.xml
     <DefeatedHostileFactionLeader.stages.0.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.0.label>
     <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
     <DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>
+    <KnowBuriedInSarcophagus.stages.0.label>buried in sarcophagus</KnowBuriedInSarcophagus.stages.0.label>
+    <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
+    <KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
     <PrisonerAbandonedToDie.stages.0.description>We left a prisoner behind in such a way that there's almost no way they'll survive.</PrisonerAbandonedToDie.stages.0.description>
     <PrisonerAbandonedToDie.stages.0.label>prisoner abandoned to die</PrisonerAbandonedToDie.stages.0.label>
     <WitnessedDeathBloodlust.stages.0.description>I saw someone die! That was intense!</WitnessedDeathBloodlust.stages.0.description>
@@ -2602,17 +2540,31 @@ DefInjected\ThoughtDef\Thoughts_Memory_RoomStats.xml
     <JoyActivityInImpressiveRecRoom.stages.4.label>slightly impressive rec room</JoyActivityInImpressiveRecRoom.stages.4.label>
 
 DefInjected\ThoughtDef\Thoughts_Memory_Social.xml
+    <BotchedMySurgery.stages.0.label>botched my surgery</BotchedMySurgery.stages.0.label>
+    <BrokeUpWithMe.stages.0.label>broke up with me</BrokeUpWithMe.stages.0.label>
     <BrokeUpWithMeMood.stages.0.description>I was just dumped like a load of garbage.</BrokeUpWithMeMood.stages.0.description>
     <BrokeUpWithMeMood.stages.0.label>broken up with by {0}</BrokeUpWithMeMood.stages.0.label>
     <CheatedOnMeMood.stages.0.description>How could someone cheat on me!</CheatedOnMeMood.stages.0.description>
     <CheatedOnMeMood.stages.0.label>cheated on by {0}</CheatedOnMeMood.stages.0.label>
+    <Chitchat.stages.0.label>chitchat</Chitchat.stages.0.label>
+    <CrashedTogether.stages.0.label>crashed together</CrashedTogether.stages.0.label>
+    <DeepTalk.stages.0.label>had deep talk</DeepTalk.stages.0.label>
+    <DivorcedMe.stages.0.label>divorced me</DivorcedMe.stages.0.label>
     <DivorcedMeMood.stages.0.description>We made a commitment, and they just tore it apart.</DivorcedMeMood.stages.0.description>
     <DivorcedMeMood.stages.0.label>divorced by {0}</DivorcedMeMood.stages.0.label>
     <FailedRomanceAttemptOnMe.stages.0.label>failed to romance me</FailedRomanceAttemptOnMe.stages.0.label>
     <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>Someone I don't like tried to romance me.</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
     <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>had to rebuff {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+    <GotSomeLovin.stages.0.description>There's nothing like a tumble between the sheets to lift the mood.</GotSomeLovin.stages.0.description>
+    <GotSomeLovin.stages.0.label>got some lovin’</GotSomeLovin.stages.0.label>
+    <HadAngeringFight.stages.0.label>had an angering fight</HadAngeringFight.stages.0.label>
+    <HadCatharticFight.stages.0.label>had a cathartic fight</HadCatharticFight.stages.0.label>
+    <HarmedMe.stages.0.label>harmed me</HarmedMe.stages.0.label>
     <HoneymoonPhase.stages.0.description>It's so wonderful to be starting a new life together!</HoneymoonPhase.stages.0.description>
+    <HoneymoonPhase.stages.0.label>honeymoon phase</HoneymoonPhase.stages.0.label>
     <HoneymoonPhase.stages.0.labelSocial>honeymoon phase</HoneymoonPhase.stages.0.labelSocial>
+    <IRejectedTheirProposal.stages.0.label>I rejected their proposal</IRejectedTheirProposal.stages.0.label>
+    <Insulted.stages.0.label>insulted</Insulted.stages.0.label>
     <InsultedMood.stages.0.description>I've been directly insulted! What an awful person!</InsultedMood.stages.0.description>
     <InsultedMood.stages.0.label>insulted</InsultedMood.stages.0.label>
     <KilledMyBrother.stages.0.label>killed my brother</KilledMyBrother.stages.0.label>
@@ -2620,6 +2572,7 @@ DefInjected\ThoughtDef\Thoughts_Memory_Social.xml
     <KilledMyFather.stages.0.label>killed my father</KilledMyFather.stages.0.label>
     <KilledMyFiance.stages.0.label>killed my fiance</KilledMyFiance.stages.0.label>
     <KilledMyFriend.stages.0.label>killed my friend</KilledMyFriend.stages.0.label>
+    <KilledMyKin.stages.0.label>killed my kin</KilledMyKin.stages.0.label>
     <KilledMyLover.stages.0.label>killed my lover</KilledMyLover.stages.0.label>
     <KilledMyMother.stages.0.label>killed my mother</KilledMyMother.stages.0.label>
     <KilledMyRival.stages.0.label>killed my rival</KilledMyRival.stages.0.label>
@@ -2633,8 +2586,18 @@ DefInjected\ThoughtDef\Thoughts_Memory_Social.xml
     <RebuffedMyRomanceAttempt.stages.0.label>rebuffed me</RebuffedMyRomanceAttempt.stages.0.label>
     <RebuffedMyRomanceAttemptMood.stages.0.description>I attempted to create a romance, but I got the cold shoulder. Feels bad man.</RebuffedMyRomanceAttemptMood.stages.0.description>
     <RebuffedMyRomanceAttemptMood.stages.0.label>rebuffed by {0}</RebuffedMyRomanceAttemptMood.stages.0.label>
+    <RecruitedMe.stages.0.label>recruited me</RecruitedMe.stages.0.label>
+    <RejectedMyProposal.stages.0.label>rejected my proposal</RejectedMyProposal.stages.0.label>
     <RejectedMyProposalMood.stages.0.description>I thought we were meant to marry. But I was just shot down.</RejectedMyProposalMood.stages.0.description>
     <RejectedMyProposalMood.stages.0.label>my proposal was rejected by {0}</RejectedMyProposalMood.stages.0.label>
+    <RescuedMe.stages.0.label>rescued me</RescuedMe.stages.0.label>
+    <Slighted.stages.0.label>slighted</Slighted.stages.0.label>
+    <SoldMyBondedAnimal.stages.0.description>My special bonded animal was sold to a trader!</SoldMyBondedAnimal.stages.0.description>
+    <SoldMyBondedAnimal.stages.0.label>bonded animal sold</SoldMyBondedAnimal.stages.0.label>
+    <SoldMyBondedAnimal.stages.0.labelSocial>sold my bonded animal</SoldMyBondedAnimal.stages.0.labelSocial>
+    <SoldMyLovedOne.stages.0.description>Someone I love was sold to a trader like a piece of meat!</SoldMyLovedOne.stages.0.description>
+    <SoldMyLovedOne.stages.0.label>loved one sold</SoldMyLovedOne.stages.0.label>
+    <SoldMyLovedOne.stages.0.labelSocial>sold my loved one</SoldMyLovedOne.stages.0.labelSocial>
 
 DefInjected\ThoughtDef\Thoughts_Situation_General.xml
     <DeadMansApparel.stages.0.description>I am wearing apparel that someone died in. It creeps me out and feels dirty.</DeadMansApparel.stages.0.description>
@@ -2725,51 +2688,13 @@ DefInjected\ThoughtDef\Thoughts_Situation_RoomStats.xml
     <PrisonCell.stages.3.label>decent prison cell</PrisonCell.stages.3.label>
 
 DefInjected\ThoughtDef\Thoughts_Situation_Social.xml
-    <AnnoyingVoice.stages.0.label>annoying voice</AnnoyingVoice.stages.0.label>
-    <CreepyBreathing.stages.0.label>creepy breathing</CreepyBreathing.stages.0.label>
-    <Pretty.stages.0.label>pretty</Pretty.stages.0.label>
-    <Pretty.stages.1.label>beautiful</Pretty.stages.1.label>
-    <TeetotalerVsAddict.stages.0.label>teetotaler vs addict</TeetotalerVsAddict.stages.0.label>
-    <Ugly.stages.1.label>staggeringly ugly</Ugly.stages.1.label>
-
-DefInjected\ThoughtDef\Thoughts_Social.xml
-    <AttendedParty.stages.0.description>I had a good time at that party.</AttendedParty.stages.0.description>
-    <AttendedParty.stages.0.label>attended party</AttendedParty.stages.0.label>
-    <AttendedWedding.stages.0.description>It was great to see two people come together to build a future like that.</AttendedWedding.stages.0.description>
-    <AttendedWedding.stages.0.label>attended wedding</AttendedWedding.stages.0.label>
-    <BondedAnimalDied.stages.0.description>Such a tender, unique animal. This universe is evil!</BondedAnimalDied.stages.0.description>
-    <GotMarried.stages.0.description>I got married! Life is full of possibility!</GotMarried.stages.0.description>
-    <GotSomeLovin.stages.0.description>There's nothing like a tumble between the sheets to lift the mood.</GotSomeLovin.stages.0.description>
-    <GotSomeLovin.stages.0.label>got some lovin’</GotSomeLovin.stages.0.label>
-    <MyAuntDied.stages.0.description>My aunt died.</MyAuntDied.stages.0.description>
-    <MyBrotherDied.stages.0.description>My brother died. My own flesh and blood...</MyBrotherDied.stages.0.description>
-    <MyCousinDied.stages.0.description>My cousin died. My own flesh and blood...</MyCousinDied.stages.0.description>
-    <MyDaughterDied.stages.0.description>My daughter is dead. My own flesh and blood...</MyDaughterDied.stages.0.description>
-    <MyFatherDied.stages.0.description>My father died. He's gone forever.</MyFatherDied.stages.0.description>
-    <MyFianceDied.stages.0.description>My fiance died. Such a man... my future is gone.</MyFianceDied.stages.0.description>
-    <MyFianceeDied.stages.0.description>My fiancée died. Such a woman... my future is gone.</MyFianceeDied.stages.0.description>
-    <MyGrandchildDied.stages.0.description>My grandchild died. My own flesh and blood...</MyGrandchildDied.stages.0.description>
-    <MyGrandparentDied.stages.0.description>My grandparent died.</MyGrandparentDied.stages.0.description>
-    <MyHalfSiblingDied.stages.0.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied.stages.0.description>
-    <MyHusbandDied.stages.0.description>My husband is dead. I am alone.</MyHusbandDied.stages.0.description>
-    <MyKinDied.stages.0.description>My kin died.</MyKinDied.stages.0.description>
-    <MyLoverDied.stages.0.description>My lover died. I am so alone.</MyLoverDied.stages.0.description>
-    <MyMotherDied.stages.0.description>My mother died. She's gone forever.</MyMotherDied.stages.0.description>
-    <MyNephewDied.stages.0.description>My nephew died. Such a wonderful child.</MyNephewDied.stages.0.description>
-    <MyNieceDied.stages.0.description>My niece died. Such a wonderful child.</MyNieceDied.stages.0.description>
-    <MySisterDied.stages.0.description>My sister died. My own flesh and blood...</MySisterDied.stages.0.description>
-    <MySonDied.stages.0.description>My son is dead. My own flesh and blood...</MySonDied.stages.0.description>
-    <MyUncleDied.stages.0.description>My uncle died.</MyUncleDied.stages.0.description>
-    <MyWifeDied.stages.0.description>My wife is dead. I am alone.</MyWifeDied.stages.0.description>
-    <PawnWithBadOpinionDied.stages.0.description>Serves them right. Things are looking up.</PawnWithBadOpinionDied.stages.0.description>
-    <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
-
-DefInjected\ThoughtDef\Thoughts_SocialConditional.xml
     <Affair.stages.0.label>affair</Affair.stages.0.label>
+    <AnnoyingVoice.stages.0.label>annoying voice</AnnoyingVoice.stages.0.label>
     <AteRawHumanlikeMeat.stages.0.label>ate raw humanlike meat</AteRawHumanlikeMeat.stages.0.label>
     <BondedAnimalMaster.stages.0.description>Being together with my bonded animal makes me feel better.</BondedAnimalMaster.stages.0.description>
     <ButcheredHumanlikeCorpseOpinion.stages.0.label>butchered humanlike corpse</ButcheredHumanlikeCorpseOpinion.stages.0.label>
     <ChemicalInterestVsTeetotaler.stages.0.label>chemical interest vs teetotaler</ChemicalInterestVsTeetotaler.stages.0.label>
+    <CreepyBreathing.stages.0.label>creepy breathing</CreepyBreathing.stages.0.label>
     <Disfigured.stages.0.label>disfigured</Disfigured.stages.0.label>
     <Drunk.stages.0.label>drunk</Drunk.stages.0.label>
     <ExecutedPrisoner.stages.0.label>executed prisoner</ExecutedPrisoner.stages.0.label>
@@ -2782,37 +2707,20 @@ DefInjected\ThoughtDef\Thoughts_SocialConditional.xml
     <NotBondedAnimalMaster.stages.0.description>I should be together with my bonded animal.</NotBondedAnimalMaster.stages.0.description>
     <OpinionOfMyLover.stages.0.description>Being with my lover makes me feel this way.</OpinionOfMyLover.stages.0.description>
     <OpinionOfMyLover.stages.0.label>opinion of my {0} {1}</OpinionOfMyLover.stages.0.label>
+    <Pretty.stages.0.label>pretty</Pretty.stages.0.label>
+    <Pretty.stages.1.label>beautiful</Pretty.stages.1.label>
     <SoldPrisoner.stages.0.label>sold prisoner to slavery</SoldPrisoner.stages.0.label>
+    <TeetotalerVsAddict.stages.0.label>teetotaler vs addict</TeetotalerVsAddict.stages.0.label>
     <TeetotalerVsChemicalInterest.stages.0.label>teetotaler vs chemical interest</TeetotalerVsChemicalInterest.stages.0.label>
     <Ugly.stages.0.label>ugly</Ugly.stages.0.label>
+    <Ugly.stages.1.label>staggeringly ugly</Ugly.stages.1.label>
     <WantToSleepWithSpouseOrLover.stages.0.description>I don't like sleeping apart from my partner.</WantToSleepWithSpouseOrLover.stages.0.description>
     <WantToSleepWithSpouseOrLover.stages.0.label>want to sleep with {0}</WantToSleepWithSpouseOrLover.stages.0.label>
     <Woman.stages.0.label>woman</Woman.stages.0.label>
 
-DefInjected\ThoughtDef\Thoughts_SocialInteractions.xml
-    <BotchedMySurgery.stages.0.label>botched my surgery</BotchedMySurgery.stages.0.label>
-    <BrokeUpWithMe.stages.0.label>broke up with me</BrokeUpWithMe.stages.0.label>
-    <Chitchat.stages.0.label>chitchat</Chitchat.stages.0.label>
-    <CrashedTogether.stages.0.label>crashed together</CrashedTogether.stages.0.label>
-    <DeepTalk.stages.0.label>had deep talk</DeepTalk.stages.0.label>
-    <DivorcedMe.stages.0.label>divorced me</DivorcedMe.stages.0.label>
-    <HadAngeringFight.stages.0.label>had an angering fight</HadAngeringFight.stages.0.label>
-    <HadCatharticFight.stages.0.label>had a cathartic fight</HadCatharticFight.stages.0.label>
-    <HarmedMe.stages.0.label>harmed me</HarmedMe.stages.0.label>
-    <HoneymoonPhase.stages.0.label>honeymoon phase</HoneymoonPhase.stages.0.label>
-    <IRejectedTheirProposal.stages.0.label>I rejected their proposal</IRejectedTheirProposal.stages.0.label>
-    <Insulted.stages.0.label>insulted</Insulted.stages.0.label>
-    <KilledMyKin.stages.0.label>killed my kin</KilledMyKin.stages.0.label>
-    <RecruitedMe.stages.0.label>recruited me</RecruitedMe.stages.0.label>
-    <RejectedMyProposal.stages.0.label>rejected my proposal</RejectedMyProposal.stages.0.label>
-    <RescuedMe.stages.0.label>rescued me</RescuedMe.stages.0.label>
-    <Slighted.stages.0.label>slighted</Slighted.stages.0.label>
-    <SoldMyBondedAnimal.stages.0.description>My special bonded animal was sold to a trader!</SoldMyBondedAnimal.stages.0.description>
-    <SoldMyBondedAnimal.stages.0.label>bonded animal sold</SoldMyBondedAnimal.stages.0.label>
-    <SoldMyBondedAnimal.stages.0.labelSocial>sold my bonded animal</SoldMyBondedAnimal.stages.0.labelSocial>
-    <SoldMyLovedOne.stages.0.description>Someone I love was sold to a trader like a piece of meat!</SoldMyLovedOne.stages.0.description>
-    <SoldMyLovedOne.stages.0.label>loved one sold</SoldMyLovedOne.stages.0.label>
-    <SoldMyLovedOne.stages.0.labelSocial>sold my loved one</SoldMyLovedOne.stages.0.labelSocial>
+DefInjected\ThoughtDef\Thoughts_Situation_Special.xml
+    <SharedBed.stages.0.description>I have to share a bed with someone who I don't particularly want to.</SharedBed.stages.0.description>
+    <SharedBed.stages.0.label>sharing bed</SharedBed.stages.0.label>
 
 DefInjected\ThoughtDef\WakeUp.xml
     <WakeUpWithdrawal.stages.1.description>I feel all fuzzy and unfocused.</WakeUpWithdrawal.stages.1.description>
@@ -3047,11 +2955,6 @@ Keyed\Credits.xml
     <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
     <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
 
-Keyed\Dates.xml
-    <DateReadout>{0} of {1}, {2}</DateReadout>
-    <SeasonFullDate>{0} of {1}</SeasonFullDate>
-    <WholeYear>Whole year</WholeYear>
-
 Keyed\Designators.xml
     <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
     <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
@@ -3142,9 +3045,6 @@ Keyed\Dialogs_Various.xml
     <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
     <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
     <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
-    <Initializing>Initializing</Initializing>
-    <InitializingGame>Initializing game</InitializingGame>
-    <InitializingInterface>Initializing interface</InitializingInterface>
     <InventoryMass>Inventory mass</InventoryMass>
     <ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
     <ItemWeightTip>Weight of this item.</ItemWeightTip>
@@ -3154,10 +3054,6 @@ Keyed\Dialogs_Various.xml
     <LoadAnyway>Load anyway</LoadAnyway>
     <LoadTransporters>Load {0}</LoadTransporters>
     <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-    <LoadingAssets>Loading assets</LoadingAssets>
-    <LoadingDefs>Loading defs</LoadingDefs>
-    <LoadingMap>Loading map</LoadingMap>
-    <LoadingWorld>Loading world</LoadingWorld>
     <Locked>Locked</Locked>
     <MapStartSeason>Starting season:</MapStartSeason>
     <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
@@ -3188,7 +3084,6 @@ Keyed\Dialogs_Various.xml
     <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
     <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
     <PawnsTab>People and animals</PawnsTab>
-    <PermadeathMode>Permadeath mode</PermadeathMode>
     <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
     <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
     <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
@@ -3203,13 +3098,10 @@ Keyed\Dialogs_Various.xml
     <RequiredResearchBench>Required research bench</RequiredResearchBench>
     <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
     <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
-    <SavingLongEvent>Saving</SavingLongEvent>
     <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
     <Selling>selling</Selling>
     <SocialDrugs>Social drugs</SocialDrugs>
     <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
-    <SpawningAllThings>Spawning all things</SpawningAllThings>
-    <SpawningColonists>Spawning colonists</SpawningColonists>
     <SplitCaravan>Split caravan</SplitCaravan>
     <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
     <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
@@ -3260,10 +3152,6 @@ Keyed\Enums.xml
     <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
     <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
     <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
-    <Hilliness_Impassable>impassable</Hilliness_Impassable>
-    <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
-    <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
-    <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
     <Kelvin>Kelvin</Kelvin>
     <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
     <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
@@ -3489,22 +3377,18 @@ Keyed\Letters.xml
     <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
 Keyed\MainTabs.xml
-    <Acquaintance>Acquaintance</Acquaintance>
     <AssignTabEdit>Edit...</AssignTabEdit>
     <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
     <DefeatedLower>defeated</DefeatedLower>
     <EmergencyWorkMarker>E</EmergencyWorkMarker>
     <FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
     <FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
-    <Friend>Friend</Friend>
-    <Graph>Graph</Graph>
     <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
     <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
     <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
     <ProjectTechLevel>project tech level</ProjectTechLevel>
     <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
     <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
-    <Rival>Rival</Rival>
     <Statistics>Statistics</Statistics>
     <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
     <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
@@ -3513,63 +3397,34 @@ Keyed\MainTabs.xml
     <YourTechLevel>your tech level</YourTechLevel>
 
 Keyed\Menu_Options.xml
-    <AddName>Add name</AddName>
     <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
     <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
     <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
     <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
-    <PlantWindSway>Plant wind sway</PlantWindSway>
-    <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-    <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
     <UIScale>UI scale</UIScale>
 
 Keyed\Menus_Main.xml
     <AddPart>Add part</AddPart>
-    <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-    <AvgWinterTemp>Winter temperature</AvgWinterTemp>
-    <BuySoundtrack>Buy soundtrack</BuySoundtrack>
     <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
-    <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
     <ChooseScenario>Choose scenario</ChooseScenario>
     <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
     <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
     <Delete>Delete</Delete>
-    <Downloading>Downloading</Downloading>
     <DragToReorder>Drag to reorder</DragToReorder>
     <EditMode>edit mode</EditMode>
     <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
-    <Health>Health</Health>
     <Ignore>Ignore</Ignore>
     <Incompatible>Incompatible</Incompatible>
-    <LoadGame>Load game</LoadGame>
-    <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
     <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
     <ModTargetVersion>For version: {0}</ModTargetVersion>
-    <MovementTimeNow>Current movement time</MovementTimeNow>
-    <MovementTimeSummer>Summer movement time</MovementTimeSummer>
-    <MovementTimeWinter>Winter movement time</MovementTimeWinter>
-    <PlanetCoverage>Globe coverage</PlanetCoverage>
-    <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
-    <PlanetRainfall>Overall rainfall</PlanetRainfall>
-    <PlanetRainfall_High>High</PlanetRainfall_High>
-    <PlanetRainfall_Low>Low</PlanetRainfall_Low>
-    <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-    <PlanetTemperature>Overall temperature</PlanetTemperature>
-    <PlanetTemperature_High>High</PlanetTemperature_High>
-    <PlanetTemperature_Low>Low</PlanetTemperature_Low>
-    <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
     <Quit>Quit</Quit>
-    <Relations>Relations</Relations>
     <ReviewScenario>Review scenario</ReviewScenario>
-    <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
     <ScenarioEditor>Scenario editor</ScenarioEditor>
     <ScenariosCustom>Custom</ScenariosCustom>
     <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
     <Seed>seed</Seed>
-    <Source>Source</Source>
     <Summary>Summary</Summary>
     <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-    <TimeZone>Time zone</TimeZone>
     <TooMany>Too many (max {0}): </TooMany>
     <Tutorial>Tutorial</Tutorial>
 
@@ -3604,7 +3459,6 @@ Keyed\Messages.xml
     <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
     <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
     <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
-    <MessageMaxPlanetCoveragePerformanceWarning>Warning: It can take a very long time to generate an entire planet.</MessageMaxPlanetCoveragePerformanceWarning>
     <MessageMedicalOperationFailureRidiculous>{0} has failed in a ridiculous way while operating on {1}.</MessageMedicalOperationFailureRidiculous>
     <MessageNamedBondedAnimalMentalBreak>{0} named {1} has a mental break because of {2}'s death.</MessageNamedBondedAnimalMentalBreak>
     <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
@@ -3828,11 +3682,6 @@ Keyed\Skills.xml
 Keyed\Time.xml
     <LetterMinute>m</LetterMinute>
     <LetterSecond>s</LetterSecond>
-    <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
-    <Period1Season>1 season</Period1Season>
-    <Period1Year>1 year</Period1Year>
-    <PeriodSeasons>{0} seasons</PeriodSeasons>
-    <PeriodYears>{0} years</PeriodYears>
 
 Keyed\WITabs.xml
     <AbandonAllTip>Abandon (all)</AbandonAllTip>
@@ -3849,15 +3698,11 @@ Keyed\WITabs.xml
     <ConfirmAbandonItemDialog>Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
     <DragToRearrange>Drag to rearrange.</DragToRearrange>
     <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
-    <PlanetCoverageShort>Coverage</PlanetCoverageShort>
-    <PlanetSeed>Seed</PlanetSeed>
     <TabCaravanGear>Gear</TabCaravanGear>
     <TabCaravanHealth>Health</TabCaravanHealth>
     <TabCaravanItems>Items</TabCaravanItems>
     <TabCaravanNeeds>Needs</TabCaravanNeeds>
     <TabCaravanSocial>Social</TabCaravanSocial>
-    <TabPlanet>Planet</TabPlanet>
-    <TabTerrain>Terrain</TabTerrain>
 
 Keyed\WorkTags.xml
     <WorkTagAnimals>Animals</WorkTagAnimals>

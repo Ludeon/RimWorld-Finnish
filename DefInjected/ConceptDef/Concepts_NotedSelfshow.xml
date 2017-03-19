@@ -63,7 +63,7 @@
   <SpoilageAndFreezers.label>Spoilage and freezers</SpoilageAndFreezers.label>
   <SpoilageAndFreezers.helpText>Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil.</SpoilageAndFreezers.helpText>
 
-  <Deterioration.label>hajoaa</Deterioration.label>
+  <Deterioration.label>hajoaminen</Deterioration.label>
   <Deterioration.helpText>Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them under a roof.</Deterioration.helpText>
 
   <HostilityResponse.label>Hostility response modes</HostilityResponse.label>

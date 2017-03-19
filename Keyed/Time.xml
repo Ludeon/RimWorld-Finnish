@@ -9,20 +9,20 @@
   <DaysLower>päivää</DaysLower>
   <SecondsLower>sekuntia</SecondsLower>
 
-  <SeasonSpring>Kevät</SeasonSpring>
-  <SeasonSummer>Kesä</SeasonSummer>
-  <SeasonFall>Syksy</SeasonFall>
-  <SeasonWinter>Talvi</SeasonWinter>
+  <SeasonSpring>kevät</SeasonSpring>
+  <SeasonSummer>kesä</SeasonSummer>
+  <SeasonFall>syksy</SeasonFall>
+  <SeasonWinter>talvi</SeasonWinter>
 
-  <Born>Syntynyt: {0} {1} {2}</Born>
-  <AgeChronological>Kronologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeChronological>
-  <AgeBiological>Biologinen ikä: {0} vuotta, {1} kuukautta, {2} päivää</AgeBiological>
+  <Born>Syntynyt: {0}</Born>
+  <AgeChronological>Kronologinen ikä: {0} vuotta, {1} kautta, {2} päivää</AgeChronological>
+  <AgeBiological>Biologinen ikä: {0} vuotta, {1} kautta, {2} päivää</AgeBiological>
 
   
-  <Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Season>1 season</Period1Season>
-  <PeriodSeasons>{0} seasons</PeriodSeasons>
+  <Period1Year>1 vuosi</Period1Year>
+  <PeriodYears>{0} vuotta</PeriodYears>
+  <Period1Season>1 kausi</Period1Season>
+  <PeriodSeasons>{0} kautta</PeriodSeasons>
   <Period1Day>1 päivä</Period1Day>
   <PeriodDays>{0} päivää</PeriodDays>
   <Period1Hour>1 tunti</Period1Hour>
@@ -31,6 +31,6 @@
   
   <Started>Alkoi</Started>
   <Lasted>Kesti</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <OccurredTimeAgo>tapahtui {0} sitten</OccurredTimeAgo>
 
 </LanguageData>

@@ -4,11 +4,11 @@
   <ClockTime>Aika</ClockTime>
   <ClockDate>Päivä</ClockDate>
   <ClockYear>Vuosi</ClockYear>
-  <DateReadoutTip>Päiviä saapumisestasi: {0}\nJokaisessa kuussa on {1} päivää.\nNykyinen vuodenaika: {2}</DateReadoutTip>
+  <DateReadoutTip>Päiviä saapumisestasi: {0}\nJokaisessa kaudessa on {1} päivää.\nNykyinen kausi: {2}</DateReadoutTip>
 
-  <FullDate>{0}kuun {1}. päivänä {2}</FullDate>
-  <DateReadout>{0} of {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} of {1}</SeasonFullDate>
-  <WholeYear>Whole year</WholeYear>
+  <FullDate>{0}. päivänä kautena {1} vuonna {2}</FullDate>
+  <DateReadout>{0}. päivä kautta {1}, {2}</DateReadout>
+  <SeasonFullDate>{0}. kautta {1}</SeasonFullDate>
+  <WholeYear>Koko vuosi</WholeYear>
 
 </LanguageData>

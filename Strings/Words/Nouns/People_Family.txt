@@ -1,8 +1,12 @@
-﻿mother
-son
-father
-brother
-uncle
-nephew
-aunt
+﻿äiti
+poika
+isä
+veli
+eno
+setä
+veljenpoika
+veljentytär
+siskonpoika
+siskontytär
+täti
 

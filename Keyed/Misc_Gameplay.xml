@@ -276,7 +276,7 @@
   <OutOfIdealTemperatureRangeNotGrowing>Ei ole ideaalilämpötilassa (ei kasva)</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Valmis kerättäväksi.</ReadyToHarvest>
   <Mature>Kypsä.</Mature>
-  <OutdoorGrowingPeriod>Kasvukausi: {0}</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>Kasvukausi</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Ei koskaan</NoGrowingPeriod>
   <GrowYearRound>Ympärivuotinen</GrowYearRound>
   <GrowSeasonHereNow>Täällä on nyt kasvukausi.</GrowSeasonHereNow>

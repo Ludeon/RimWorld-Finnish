@@ -30,17 +30,17 @@
   <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
 
   
-  <InitializingInterface>Initializing interface</InitializingInterface>
+  <InitializingInterface>Alustetaan käyttöliittymää</InitializingInterface>
   <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
   <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-  <LoadingDefs>Loading defs</LoadingDefs>
-  <LoadingAssets>Loading assets</LoadingAssets>
-  <Initializing>Initializing</Initializing>
-  <LoadingWorld>Loading world</LoadingWorld>
-  <LoadingMap>Loading map</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning all things</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <LoadingDefs>Ladataan defs</LoadingDefs>
+  <LoadingAssets>Ladataan assetteja</LoadingAssets>
+  <Initializing>Alustetaan</Initializing>
+  <LoadingWorld>Ladataan maailmaa</LoadingWorld>
+  <LoadingMap>Ladataan karttaa</LoadingMap>
+  <InitializingGame>Alustetaan peliä</InitializingGame>
+  <SpawningAllThings>Asetetaan esineet paikoilleen</SpawningAllThings>
+  <SpawningColonists>Asetetaan yhdyskuntalaiset paikoilleen</SpawningColonists>
 
   
   <SaveGameButton>Tallenna</SaveGameButton>
@@ -50,8 +50,8 @@
   <DeleteThisSavegame>Poista tämä tallennus.</DeleteThisSavegame>
   <SavedAs>Tallennettu nimellä {0}.</SavedAs>
   <NeedAName>Anna nimi.</NeedAName>
-  <LoadingLongEvent>Ladataan...</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
+  <LoadingLongEvent>Ladataan</LoadingLongEvent>
+  <SavingLongEvent>Tallennetaan</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on täysin eri versio.\n\nTämän datan lataaminen ei luultavasti tule toimimaan.</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on eri koontiversiosta.\n\nTämän datan lataamisen pitäisi silti toimia.</SaveIsFromDifferentGameBuild>
@@ -118,7 +118,7 @@
   <MapSizeExtreme>Ludeoninen</MapSizeExtreme>
   <MapStartSeason>Starting season:</MapStartSeason>
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
-  <PermadeathMode>Permadeath mode</PermadeathMode>
+  <PermadeathMode>Permadeath-tila</PermadeathMode>
   <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
 
   

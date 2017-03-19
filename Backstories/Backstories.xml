@@ -1,129 +1,129 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BackstoryTranslations>
 	<ColonySettler43>
-		<title>Colony settler</title>
-		<titleShort>Settler</titleShort>
+		<title>Uudisasukas</title>
+		<titleShort>Uudisasukas</titleShort>
 		<desc>NAME was a settler on a new colony world.
 
 Such a life requires a jack-of-all trades at basic hands-on tasks.</desc>
 	</ColonySettler43>
 	<MedievalFarmOaf58>
-		<title>Medieval farm oaf</title>
-		<titleShort>Oaf</titleShort>
+		<title>Keskiaikainen maalaisköntys</title>
+		<titleShort>Köntys</titleShort>
 		<desc>Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.
 
 Medieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
-		<title>Medieval lord</title>
-		<titleShort>Noble</titleShort>
+		<title>Keskiaikainen herra</title>
+		<titleShort>Aatelinen</titleShort>
 		<desc>NAME was a lord on a preindustrial planet. HECAP went to parties, managed the underlings, and even learned some swordplay.
 
 HISCAP soft hands did not hold a work tool during that entire time. HECAP considers manual labor to be beneath HIM.</desc>
 	</MedievalLord20>
 	<UrbworldEntrepreneur55>
-		<title>Urbworld entrepreneur</title>
-		<titleShort>Entrepreneur</titleShort>
+		<title>Kaupunkiplaneetan yrittäjä</title>
+		<titleShort>Yrittäjä</titleShort>
 		<desc>In the urbworlds, most suffer. But someone has to run the corporations.
 
 NAME learned the skills of the trade - greasing palms and technical analysis. HECAP is a sociointellectual machine.</desc>
 	</UrbworldEntrepreneur55>
 	<DeepSpaceMiner11>
-		<title>Deep space miner</title>
-		<titleShort>Miner</titleShort>
+		<title>Syvän avaruuden kaivostyöläinen</title>
+		<titleShort>Mainari</titleShort>
 		<desc>NAME did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. HECAP used HIS hands-on industrial skills daily - and wasn't bad in a bar fight either.</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
-		<title>Navy scientist</title>
-		<titleShort>Scientist</titleShort>
+		<title>Laivaston tiedemies</title>
+		<titleShort>Tiedemies</titleShort>
 		<desc>Interstellar warfare is won by technology, so imperial navies are always on the peak of modern research. Even better, they have first access to Transcendent artifacts because they find them in space.
 
 NAME worked in a navy lab.</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
-		<title>Military commissar</title>
-		<titleShort>Commissar</titleShort>
+		<title>Armeijan komissaari</title>
+		<titleShort>Komissaari</titleShort>
 		<desc>NAME was an internal spymaster in an Imperial army battalion. HECAP made sure that the men were loyal, and did not fall back unless ordered. This made HIM unpopular, but HE gained great skill at detecting the slightest dishonesty.</desc>
 	</MilitaryCommissar49>
 	<SpacePirate69>
-		<title>Space pirate</title>
-		<titleShort>Pirate</titleShort>
+		<title>Avaruusrosvo</title>
+		<titleShort>Avaruusrosvo</titleShort>
 		<desc>Piracy appears everywhere that governments are weak and society spread thin. NAME was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit.</desc>
 	</SpacePirate69>
 	<PitBrawler20>
-		<title>Pit brawler</title>
-		<titleShort>Brawler</titleShort>
+		<title>Rinkitappelija</title>
+		<titleShort>Tappelija</titleShort>
 		<desc>NAME was nine years old when HE got in HIS first fight. HECAP won, but more important was the enjoyment of HIS audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal.</desc>
 	</PitBrawler20>
 	<IllegalShipwright28>
-		<title>Illegal shipwright</title>
-		<titleShort>Shipwright</titleShort>
+		<title>Laiton laivanrakentaja</title>
+		<titleShort>Laivanrakentaja</titleShort>
 		<desc>There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. NAME discovered that there is great profit to be made, however, from those who are uninterested in these laws.</desc>
 	</IllegalShipwright28>
 	<Courtesean56>
-		<title>Courtesean</title>
-		<titleShort>Courtesean</titleShort>
+		<title>Hovinainen</title>
+		<titleShort>Hovinainen</titleShort>
 		<desc>NAME was used for HIS body by hundreds of customers in brothels on several planets. HECAP gained some mental marks and a special kind of street smarts.</desc>
 	</Courtesean56>
 	<SpaceMarine10>
-		<title>Space marine</title>
-		<titleShort>Marine</titleShort>
+		<title>Avaruusjalkaväen sotilas</title>
+		<titleShort>Avaruussotilas</titleShort>
 		<desc>NAME was a warrior in an Imperial navy. HISCAP job was to punch into enemy starships, gun down the crew, and capture the ship intact. And HE was good at it.</desc>
 	</SpaceMarine10>
 	<Assassin35>
-		<title>Assassin</title>
-		<titleShort>Assassin</titleShort>
+		<title>Salamurhaaja</title>
+		<titleShort>Salamurhaaja</titleShort>
 		<desc>NAME was a professional assassin. HECAP was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset.</desc>
 	</Assassin35>
 	<MedievalSlave75>
-		<title>Medieval slave</title>
-		<titleShort>Slave</titleShort>
+		<title>Keskiaikainen orja</title>
+		<titleShort>Orja</titleShort>
 		<desc>NAME grew up pulling carts and digging holes on a medieval world. Simple manual labor is HIS oldest companion - along with the master's lash.
 
 HECAP didn't learn to read until age nine.</desc>
 	</MedievalSlave75>
 	<MedievalLordling62>
-		<title>Medieval lordling</title>
-		<titleShort>Lordling</titleShort>
+		<title>Keskiaikainen pikkuherra</title>
+		<titleShort>Pikkuherra</titleShort>
 		<desc>NAME was a minor noble in an old kingdom on a medieval world. HECAP grew up in a manor made of stone, served by bowing lowerclassmen.
 
 Such a life teaches no technical skills and instils a lifelong aversion to manual labor - but NAME learned early the ways of social manipulation.</desc>
 	</MedievalLordling62>
 	<UrbworldUrchin46>
-		<title>Urbworld urchin</title>
-		<titleShort>Urchin</titleShort>
+		<title>Kaupunkiplaneetan urchin</title>
+		<titleShort>Katupoika</titleShort>
 		<desc>The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. NAME grew up in the dark, unwanted reaches of such a place. HECAP had to fight for every scrap of food.</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
-		<title>Vatgrown soldier</title>
-		<titleShort>Vatgrown</titleShort>
+		<title>Sammiossa kasvatettu sotilas</title>
+		<titleShort>Sammiokasvatti</titleShort>
 		<desc>NAME wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during HIS accelerated growth, NAME still has a proclivity for combat of all kinds and an aversion to human contact.</desc>
 	</VatgrownSoldier83>
 	<Hermit87>
-		<title>Hermit</title>
-		<titleShort>Hermit</titleShort>
+		<title>Erakko</title>
+		<titleShort>Erakko</titleShort>
 		<desc>Worn out by the pressures of social interaction, NAME left HIS crowded midworld city to live a simple life in the wilderness. There, HE spent HIS days alone, tending HIS garden and crafting the simple tools HE needed to survive.</desc>
 	</Hermit87>
 	<MidworldChef39>
-		<title>Midworld chef</title>
-		<titleShort>Chef</titleShort>
+		<title>Keskiluokkaisen maailman kokki</title>
+		<titleShort>Kokki</titleShort>
 		<desc>NAME ran a high-class midworld restaurant. HECAP was famous among patrons for HIS creative culinary specialties, and infamous among kitchen workers for HIS casual disdain for grunt work.</desc>
 	</MidworldChef39>
 	<SicklyChild40>
-		<title>Sickly child</title>
-		<titleShort>Patient</titleShort>
+		<title>Sairasteleva lapsi</title>
+		<titleShort>Potilas</titleShort>
 		<desc>As a child, NAME suffered from a rare disease. Quarantined in a research hospital, HE had minimal human contact and got little physical exercise. In the sterile hospital environment, however, HE became very familiar with science and medicine.</desc>
 	</SicklyChild40>
 	<MedievalMinstrel69>
-		<title>Medieval minstrel</title>
-		<titleShort>Minstrel</titleShort>
+		<title>Keskiaikainen kiertelevä bardi</title>
+		<titleShort>Bardi</titleShort>
 		<desc>NAME was a traveling entertainer on a medieval world.
 
 HECAP could always be found telling stories or singing songs, and is capable of protecting HIMself from the dangers of the road. However, HECAP was always conspicuously absent whenever there was hard labour to be done.</desc>
 	</MedievalMinstrel69>
 	<Housemate5>
-		<title>Housemate</title>
-		<titleShort>Housemate</titleShort>
+		<title>Koti-ihminen</title>
+		<titleShort>Koti-ihminen</titleShort>
 		<desc>As an adult, NAME kept house and cared for children while HIS spouse worked.</desc>
 	</Housemate5>
 	<GlitterworldEmpath39>
@@ -132,58 +132,58 @@ HECAP could always be found telling stories or singing songs, and is capable of 
 		<desc>NAME had an amazing ability to relate to others and mediate conflict. HECAP was selected to train as an empath. The training intensified HIS natural abilities, but HE became unable to harm others.</desc>
 	</GlitterworldEmpath39>
 	<ShelterChild65>
-		<title>Shelter child</title>
-		<titleShort>Shelterkid</titleShort>
+		<title>Väestönsuojan lapsi</title>
+		<titleShort>Suojatti</titleShort>
 		<desc>NAME grew up in a shelter deep beneath a toxic world. HECAP received a comprehensive education, but had no opportunity to do physical labour.</desc>
 	</ShelterChild65>
 	<MedievalDoctor6>
-		<title>Medieval doctor</title>
-		<titleShort>Quack</titleShort>
+		<title>Keskiaikainen lääkäri</title>
+		<titleShort>Puoskari</titleShort>
 		<desc>NAME worked as a doctor on a medieval planet. HECAP firmly believes that most ailments can be cured with a little bloodletting.
 
 HECAP was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head.</desc>
 	</MedievalDoctor6>
 	<Inventor42>
-		<title>Inventor</title>
-		<titleShort>Inventor</titleShort>
+		<title>Keksijä</title>
+		<titleShort>Keksijä</titleShort>
 		<desc>On HIS homeworld, NAME worked as a moderately successful inventor. HECAP developed several minor technologies.</desc>
 	</Inventor42>
 	<Teacher24>
-		<title>Teacher</title>
-		<titleShort>Teacher</titleShort>
+		<title>Opettaja</title>
+		<titleShort>Opettaja</titleShort>
 		<desc>NAME was educated in the liberal arts and taught at a public school. HECAP was widely knowledgeable and well-liked by HIS students.</desc>
 	</Teacher24>
 	<IndustrialOrphan55>
-		<title>Industrial orphan</title>
-		<titleShort>Orphan</titleShort>
+		<title>Teollisuuden orpo</title>
+		<titleShort>Orpo</titleShort>
 		<desc>NAME never knew HIS parents. HISCAP earliest memories were of drudgery in the mines and workhouses of HIS industrial world.
 
 Because of this, HE never received a proper education.</desc>
 	</IndustrialOrphan55>
 	<Scout67>
-		<title>Scout</title>
-		<titleShort>Scout</titleShort>
+		<title>Partiolainen</title>
+		<titleShort>Partiolainen</titleShort>
 		<desc>Born to colonial administrators from a small imperial power, NAME was enrolled in a youth program that taught military scouting skills.
 
 HECAP learned to survive in the wilderness, to obey, and not to ask questions.</desc>
 	</Scout67>
 	<JoywireArtist62>
-		<title>Joywire artist</title>
-		<titleShort>Joywirer</titleShort>
+		<title>Iloimplanttien artisti</title>
+		<titleShort>Ilovirittäjä</titleShort>
 		<desc>NAME worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.
 
 When the local government imposed harsh restrictions on joywire manufacturing, HE began selling HIS products on the black market.</desc>
 	</JoywireArtist62>
 	<FrightenedChild6>
-		<title>Frightened child</title>
-		<titleShort>Scared</titleShort>
+		<title>Peloissaan oleva lapsi</title>
+		<titleShort>Pelkuri</titleShort>
 		<desc>NAME grew up with a laundry list of phobias and neuroses. HECAP feared, among other things, doctors and foodborne pathogens.
 
 As a result, HE learned to cook and care for HIMself, but many of HIS fears dog HIM in adulthood.</desc>
 	</FrightenedChild6>
 	<ConceptualArtist7>
-		<title>Conceptual artist</title>
-		<titleShort>Artist</titleShort>
+		<title>Käsitetaiteilija</title>
+		<titleShort>Taiteilija</titleShort>
 		<desc>NAME was well-known in art circles on HIS home world for HIS unique and creative conceptual artworks.
 
 Nobody was sure exactly what HE was trying to communicate, but HIS pieces were highly valued by collectors.</desc>
@@ -196,23 +196,23 @@ Nobody was sure exactly what HE was trying to communicate, but HIS pieces were h
 HISCAP job mostly involved elaborate and creative cosmetic surgeries. HECAP has a good understanding of human biology, but never had to remove a cancer — or a bullet.</desc>
 	</GlitterworldSurgeon7>
 	<LudditeRebel42>
-		<title>Luddite rebel</title>
-		<titleShort>Luddite</titleShort>
+		<title>Luddiittikapinallinen</title>
+		<titleShort>Luddiitti</titleShort>
 		<desc>When the majority of people on HIS world chose to give up their individuality and biological humanity to join together in an online hivemind, NAME joined a rebel faction that chose to forsake most technology.</desc>
 	</LudditeRebel42>
 	<Bartender47>
-		<title>Bartender</title>
-		<titleShort>Barkeep</titleShort>
+		<title>Baarimestari</title>
+		<titleShort>Baarimestari</titleShort>
 		<desc>NAME worked as a bartender on a seedy space station. The job entailed one part drink mixing, one part diplomacy, and one part head-bashing.</desc>
 	</Bartender47>
 	<CaveworldTender5>
-		<title>Caveworld tender</title>
-		<titleShort>Cave kid</titleShort>
+		<title>Luolaplaneetan kasvatti</title>
+		<titleShort>Luolalapsi</titleShort>
 		<desc>NAME grew up in cave complex deep beneath the surface of an inhospitable world. HECAP worked with the other children tending the tribe’s fungus crops.</desc>
 	</CaveworldTender5>
 	<CaveworldTunneler74>
-		<title>Caveworld tunneler</title>
-		<titleShort>Tunneler</titleShort>
+		<title>Luolaplaneetan tunnelinkaivaja</title>
+		<titleShort>Tunneloija</titleShort>
 		<desc>NAME worked as a digger in the massive underground cave complex.
 
 HECAP knows rock so well that HE can almost navigate caves by smell.</desc>

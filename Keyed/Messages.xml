@@ -142,7 +142,7 @@
 
   <MessageCaravanMemberHasExtremeMentalBreak>One of the caravan members has a mental break.</MessageCaravanMemberHasExtremeMentalBreak>
 
-  <MessageMaxPlanetCoveragePerformanceWarning>Warning: It can take a very long time to generate an entire planet.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>Varoitus: Koko planeetan luominen voi kestää erittäin kauan.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <MessagePlantDiedOfCold>{0} has died because of cold.</MessagePlantDiedOfCold>
   <MessagePlantDiedOfRot>{0} has died from rotting due to being left unharvested.</MessagePlantDiedOfRot>

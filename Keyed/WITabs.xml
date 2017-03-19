@@ -2,8 +2,8 @@
 <LanguageData>
 
   
-  <TabTerrain>Terrain</TabTerrain>
-  <TabPlanet>Planet</TabPlanet>
+  <TabTerrain>Maasto</TabTerrain>
+  <TabPlanet>Planeetta</TabPlanet>
   <TabCaravanSocial>Social</TabCaravanSocial>
   <TabCaravanHealth>Health</TabCaravanHealth>
   <TabCaravanNeeds>Needs</TabCaravanNeeds>
@@ -31,7 +31,7 @@
   <DragToRearrange>Drag to rearrange.</DragToRearrange>
 
   
-  <PlanetSeed>Seed</PlanetSeed>
-  <PlanetCoverageShort>Coverage</PlanetCoverageShort>
+  <PlanetSeed>Luontiarvo</PlanetSeed>
+  <PlanetCoverageShort>Peitto</PlanetCoverageShort>
 
 </LanguageData>

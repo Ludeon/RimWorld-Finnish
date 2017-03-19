@@ -2,16 +2,16 @@
 <LanguageData>
 
   <BorealForest.label>havumetsä</BorealForest.label>
-  <BorealForest.description>Pohjoisia havupuumetsiä. Ankarista talvista huolimatta havupuumetsissä on monimuotoinen kanta pieniä ja suuria eläimiä.</BorealForest.description>
+  <BorealForest.description>Havupuumetsiä. Ankarista talvista huolimatta havupuumetsissä on monimuotoinen kanta pieniä ja suuria eläimiä. Lumi tekee talvella liikkumisesta äärimäisen hidasta.</BorealForest.description>
 
   <Tundra.label>tundra</Tundra.label>
-  <Tundra.description>Näillä enimmäkseen jäätyneillä tasangoilla ei ole juurikaan puita tai kasvillisuutta. Pieniä eläimiä on suurten vaeltavien laidunlaumojen ja niiden saalistajien lomassa.</Tundra.description>
+  <Tundra.description>Näillä enimmäkseen jäätyneillä tasangoilla ei ole juurikaan puita tai kasvillisuutta. Pieniä eläimiä on suurten vaeltavien laidunlaumojen ja niiden saalistajien lomassa. Lumi tekee talvella liikkumisesta äärimäisen hidasta.</Tundra.description>
 
   <IceSheet.label>mannerjää</IceSheet.label>
-  <IceSheet.description>Maaperä on peittynyt jopa kilometrien paksuisten jääkerrosten alle. Täällä ei ole yhteyttä maahan tai kallioon, joten täällä ei ole kasveja. Ainoat täällä olevat eläimet ovat vaeltamassa muualle - tai pahasti hukassa.</IceSheet.description>
+  <IceSheet.description>Maaperä on peittynyt jopa kilometrien paksuisten jääkerrosten alle. Täällä ei ole yhteyttä maahan tai kallioon, joten täällä ei ole kasveja. Ainoat täällä olevat eläimet ovat vaeltamassa muualle - tai pahasti hukassa. Lumi hidastaa liikkumista, mutta paikoin on alavaa jäätikköä, jolla on helppo kävellä.</IceSheet.description>
 
-  <SeaIce.label>sea ice</SeaIce.label>
-  <SeaIce.description>Permanent ice sheets floating on water. There is no soil, no plants, no minerals to mine, and very few animals. Travel is very slow due to the deep snow and crevasses.</SeaIce.description>
+  <SeaIce.label>merellinen jää</SeaIce.label>
+  <SeaIce.description>Pysyviä vedessä kelluvia jäävuoria. Täällä ei ole maaperää, kasveja, mineraaleja, ja erittäin vähän eläimiä. Liikkuminen hidasta syvän lumen ja railojen takia.</SeaIce.description>
 
 
 </LanguageData>

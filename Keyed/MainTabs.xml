@@ -40,12 +40,12 @@
   <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
 
   
-  <Friend>Friend</Friend>
-  <Rival>Rival</Rival>
-  <Acquaintance>Acquaintance</Acquaintance>
+  <Friend>Ystävä</Friend>
+  <Rival>Vihollinen</Rival>
+  <Acquaintance>Tuttava</Acquaintance>
 
   
-  <Graph>Graph</Graph>
+  <Graph>Kaavio</Graph>
   <Statistics>Statistics</Statistics>
 
   

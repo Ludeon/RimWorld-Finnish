@@ -3,59 +3,59 @@
 
   
 
-  <Parent.label>father</Parent.label>
-  <Parent.labelFemale>mother</Parent.labelFemale>
+  <Parent.label>isä</Parent.label>
+  <Parent.labelFemale>äiti</Parent.labelFemale>
 
-  <Child.label>son</Child.label>
-  <Child.labelFemale>daughter</Child.labelFemale>
+  <Child.label>lapsi</Child.label>
+  <Child.labelFemale>tytär</Child.labelFemale>
 
-  <Sibling.label>brother</Sibling.label>
-  <Sibling.labelFemale>sister</Sibling.labelFemale>
+  <Sibling.label>veli</Sibling.label>
+  <Sibling.labelFemale>sisko</Sibling.labelFemale>
 
-  <HalfSibling.label>brother</HalfSibling.label>
-  <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
+  <HalfSibling.label>veli</HalfSibling.label>
+  <HalfSibling.labelFemale>sisko</HalfSibling.labelFemale>
 
-  <Grandparent.label>grandfather</Grandparent.label>
-  <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
+  <Grandparent.label>isoisä</Grandparent.label>
+  <Grandparent.labelFemale>isoäiti</Grandparent.labelFemale>
 
-  <Grandchild.label>grandson</Grandchild.label>
-  <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
+  <Grandchild.label>lapsenlapsi</Grandchild.label>
+  <Grandchild.labelFemale>lapsenlapsi</Grandchild.labelFemale>
 
-  <NephewOrNiece.label>nephew</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
+  <NephewOrNiece.label>sisaruksen poika</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>sisaruksen tytär</NephewOrNiece.labelFemale>
 
-  <UncleOrAunt.label>uncle</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
+  <UncleOrAunt.label>setä</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>täti</UncleOrAunt.labelFemale>
 
-  <Cousin.label>cousin</Cousin.label>
-  <Cousin.labelFemale>cousin</Cousin.labelFemale>
-
-
-  
-
-  <GreatGrandparent.label>great grandfather</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
-
-  <GreatGrandchild.label>great grandson</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
-
-  <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
-
-  <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
-
-  <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
-
-  <SecondCousin.label>second cousin</SecondCousin.label>
-  <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
+  <Cousin.label>serkku</Cousin.label>
+  <Cousin.labelFemale>serkku</Cousin.labelFemale>
 
 
   
 
-  <Kin.label>kin</Kin.label>
-  <Kin.labelFemale>kin</Kin.labelFemale>
+  <GreatGrandparent.label>isoisoisä</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>isoisoäiti</GreatGrandparent.labelFemale>
+
+  <GreatGrandchild.label>lapsenlapsenlapsi</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>lapsenlapsenlapsi</GreatGrandchild.labelFemale>
+
+  <GranduncleOrGrandaunt.label>isosetä</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>isotäti</GranduncleOrGrandaunt.labelFemale>
+
+  <GrandnephewOrGrandniece.label>sisaruksen lapsen poika</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>sisaruksen lapsen tytär</GrandnephewOrGrandniece.labelFemale>
+
+  <CousinOnceRemoved.label>serkku</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>serkku</CousinOnceRemoved.labelFemale>
+
+  <SecondCousin.label>pikkuserkku</SecondCousin.label>
+  <SecondCousin.labelFemale>pikkuserkku</SecondCousin.labelFemale>
+
+
+  
+
+  <Kin.label>sukulainen</Kin.label>
+  <Kin.labelFemale>sukulainen</Kin.labelFemale>
 
 
 </LanguageData>

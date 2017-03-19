@@ -7,14 +7,14 @@
   <BackToGame>Takaisin peliin</BackToGame>
   <ReviewScenario>Review scenario</ReviewScenario>
   <Save>Tallenna</Save>
-  <LoadGame>Load game</LoadGame>
+  <LoadGame>Lataa peli</LoadGame>
   <Options>Asetukset</Options>
   <Mods>Modit</Mods>
   <Credits>Tekijät</Credits>
   <QuitToMainMenu>Poistu päävalikkoon</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to Menu</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>Tallenna ja poistu päävalikkoon</SaveAndQuitToMainMenu>
   <QuitToOS>Poistu työpöydälle</QuitToOS>
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Tallenna ja poistu työpöydälle</SaveAndQuitToOS>
   <FictionPrimer>Tarinan pohja</FictionPrimer>
   <LudeonBlog>Ludeon blogi</LudeonBlog>
   <Forums>Foorumit</Forums>
@@ -22,7 +22,7 @@
   <TynansTwitter>Tynanin twitter</TynansTwitter>
   <TynansDesignBook>Tynanin design book</TynansDesignBook>
   <HelpTranslate>Auta kääntämään RimWorldia</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <BuySoundtrack>Osta soundtrack</BuySoundtrack>
   <CreateWorld>Luo maailma</CreateWorld>
 
   
@@ -30,18 +30,18 @@
   <WorldGenerate>Luo</WorldGenerate>
   <WorldSaveAndFinish>Tallenna</WorldSaveAndFinish>
   <Reset>Resetoi</Reset>
-  <PlanetCoverage>Globe coverage</PlanetCoverage>
-  <PlanetRainfall>Overall rainfall</PlanetRainfall>
-  <PlanetTemperature>Overall temperature</PlanetTemperature>
-  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
-  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-  <PlanetRainfall_High>High</PlanetRainfall_High>
-  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
-  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
-  <PlanetTemperature_High>High</PlanetTemperature_High>
+  <PlanetCoverage>Planeetan peitto</PlanetCoverage>
+  <PlanetRainfall>Vallitseva sademäärä</PlanetRainfall>
+  <PlanetTemperature>Vallitseva lämpötila</PlanetTemperature>
+  <PlanetRainfall_Low>Matala</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normaali</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Korkea</PlanetRainfall_High>
+  <PlanetTemperature_Low>Matala</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normaali</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Korkea</PlanetTemperature_High>
   <WorldSeed>Luontiarvo</WorldSeed>
   <RandomizeSeed>Satunnainen luontiarvo</RandomizeSeed>
-  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+  <PlanetCoverageTip>Planeetalla on aina sama halkaisija, mutta se on suurempi kuin tarvitaan pelaamiseen. Siksi emme käsittele planeetan koko pintaa, koska se voi kestää erittäin kauan. Tämä on osuus pinnasta jonka haluat käsiteltävän.</PlanetCoverageTip>
 
   
   <SelectWorld>Valitse maailma</SelectWorld>
@@ -52,7 +52,7 @@
   <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
   <BuildUpToDate>Versio on uusin</BuildUpToDate>
   <ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Ladataan versiotietoja...</LoadingVersionInfo>
+  <LoadingVersionInfo>Ladataan versiotietoja</LoadingVersionInfo>
 
   
   <GenerateWorld>Luo maailma</GenerateWorld>
@@ -72,8 +72,8 @@
   <UploadAlreadyInProgress>Lataus palvelimelle on jo menossa.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>Julkaisu Workshoppiin epäonnistui.\n\nSyy: {0}</WorkshopSubmissionFailed>
   <WorkshopUploadSucceeded>{0} ladattiin onnistuneesti palvelimelle.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
+  <Downloading>Ladataan</Downloading>
+  <Source>Lähde</Source>
   <ModTargetVersion>For version: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
@@ -101,7 +101,7 @@
 
   
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
-  <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten merirosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätlset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
+  <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten rosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätokset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
   <MustChooseDifficulty>Valitse vaikeustaso.</MustChooseDifficulty>
   <Difficulty>Vaikeustaso</Difficulty>
 
@@ -112,15 +112,15 @@
   <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
   <BiomeNotImplemented> on vielä toteuttamatta pelissä</BiomeNotImplemented>
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>Et voi laskeutua läpäisemättömiin vuoriin.</CannotLandImpassableMountains>
   <BaseAlreadyThere>Ryhmällä {0} on jo tukikohta tässä.</BaseAlreadyThere>
   <Biome>Biomi</Biome>
   <Terrain>Maasto</Terrain>
   <Elevation>Korkeus</Elevation>
   <Fertility>Hedelmällisyys</Fertility>
   <AvgTemp>Keskilämpötila</AvgTemp>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-  <AvgWinterTemp>Winter temperature</AvgWinterTemp>
+  <AvgSummerTemp>Kesän lämpötila</AvgSummerTemp>
+  <AvgWinterTemp>Talven lämpötila</AvgWinterTemp>
   <Rainfall>Sademäärä</Rainfall>
   <HasCoast0>Pohjoisrannikko</HasCoast0>
   <HasCoast1>Itärannikko</HasCoast1>
@@ -128,10 +128,10 @@
   <HasCoast3>Länsirannikko</HasCoast3>
   <FactionBase>Tukikohta</FactionBase>
   <StoneTypesHere>Kivilajit</StoneTypesHere>
-  <TimeZone>Time zone</TimeZone>
-  <MovementTimeNow>Current movement time</MovementTimeNow>
-  <MovementTimeSummer>Summer movement time</MovementTimeSummer>
-  <MovementTimeWinter>Winter movement time</MovementTimeWinter>
+  <TimeZone>Aikavyöhyke</TimeZone>
+  <MovementTimeNow>Nykyinen liikkumisaika</MovementTimeNow>
+  <MovementTimeSummer>Kesän liikkumisaika</MovementTimeSummer>
+  <MovementTimeWinter>Talven liikkumisaika</MovementTimeWinter>
 
 
   
@@ -152,8 +152,8 @@
   <Male>uros</Male>
   <Female>naaras</Female>
   <Pain>Kipu</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
+  <Health>Terveys</Health>
+  <Relations>Suhteet</Relations>
 
   
   <Start>Aloita</Start>
@@ -167,8 +167,8 @@
   <Ignore>Ignore</Ignore>
 
   
-  <GeneratingWorld>Luodaan maailmaa...</GeneratingWorld>
-  <GeneratingMap>Luodaan karttaa...</GeneratingMap>
+  <GeneratingWorld>Luodaan maailmaa</GeneratingWorld>
+  <GeneratingMap>Luodaan karttaa</GeneratingMap>
   <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 
 </LanguageData>

@@ -76,7 +76,7 @@
   <Hilliness_SmallHills>Pieniä mäkiä</Hilliness_SmallHills>
   <Hilliness_LargeHills>Suuria mäkiä</Hilliness_LargeHills>
   <Hilliness_Mountainous>Vuoristoinen</Hilliness_Mountainous>
-  <Hilliness_Impassable>impassable</Hilliness_Impassable>
+  <Hilliness_Impassable>läpäisemätön</Hilliness_Impassable>
 
   
   <WorkshopInteractStage_CreatingItem>Luodaan</WorkshopInteractStage_CreatingItem>
@@ -106,9 +106,9 @@
   <MedicalCareCategory_Best>Parhaan laadun lääkintää</MedicalCareCategory_Best>
 
   
-  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
-  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
-  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Ignore>Älä välitä</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Hyökkää</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Pakene</HostilityResponseMode_Flee>
 
   
   <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
