@@ -10,9 +10,9 @@
   
   <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
   <PauseOnLoad>Pysäytä peli lataamisen jälkeen</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>Pysäytä peli kiireisen viestin saavuttua</PauseOnUrgentLetter>
   <CustomCursor>Mukautettu kursori</CustomCursor>
-  <UIScale>UI scale</UIScale>
+  <UIScale>Käyttöliittymän skaalaus</UIScale>
   <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
@@ -25,12 +25,12 @@
   <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen nimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
   <AddName>Lisää nimi</AddName>
   <TypeFirstNickOrLastName>Kirjoita etunimi, nimimerkki tai sukunimi.</TypeFirstNickOrLastName>
-  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+  <MessageAlreadyPreferredName>Tämä nimi on jo haluttujen listalla.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   <AutosaveInterval>Automaattitallennus</AutosaveInterval>
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
   <ShowRealtimeClock>Näytä reaaliaikainen kello</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
+  <MaxNumberOfPlayerHomes>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Kasvien heiluminen tuulessa</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
 

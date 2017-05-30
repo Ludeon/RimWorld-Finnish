@@ -12,7 +12,7 @@
   <Never>Älä salli</Never>
 
   
-  <PriceTypeVeryCheap>hyvin halpa</PriceTypeVeryCheap>
+  <PriceTypeVeryCheap>erittäin halpa</PriceTypeVeryCheap>
   <PriceTypeCheap>halpa</PriceTypeCheap>
   <PriceTypeNormal>normaali</PriceTypeNormal>
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
@@ -134,9 +134,9 @@
   <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
 
   
-  <ShowAnimalNames>Show animal names</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>Näytä eläimien nimet</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Kesyt eläimet (joilla on nimi)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Kesyt eläimet (kaikki)</AnimalNameDisplayMode_TameAll>
 
   
   <Celsius>Celsius</Celsius>

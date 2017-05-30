@@ -3124,8 +3124,6 @@ Keyed\Dialogs_Various.xml
     <minimum>minimum</minimum>
 
 Keyed\Enums.xml
-    <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
-    <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
     <Celsius>Celsius</Celsius>
     <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
     <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
@@ -3159,7 +3157,6 @@ Keyed\Enums.xml
     <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
     <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
     <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
-    <ShowAnimalNames>Show animal names</ShowAnimalNames>
     <TechLevel_Animal>animal</TechLevel_Animal>
     <TechLevel_Industrial>industrial</TechLevel_Industrial>
     <TechLevel_Medieval>medieval</TechLevel_Medieval>
@@ -3397,11 +3394,7 @@ Keyed\MainTabs.xml
     <YourTechLevel>your tech level</YourTechLevel>
 
 Keyed\Menu_Options.xml
-    <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
     <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
-    <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
-    <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
-    <UIScale>UI scale</UIScale>
 
 Keyed\Menus_Main.xml
     <AddPart>Add part</AddPart>
@@ -3426,7 +3419,6 @@ Keyed\Menus_Main.xml
     <Summary>Summary</Summary>
     <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
     <TooMany>Too many (max {0}): </TooMany>
-    <Tutorial>Tutorial</Tutorial>
 
 Keyed\Messages.xml
     <MessageAccidentalOverdose>{0} has accidentally overdosed while consuming {1}!</MessageAccidentalOverdose>
