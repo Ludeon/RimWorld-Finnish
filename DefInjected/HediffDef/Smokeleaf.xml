@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SmokeleafHigh.label>stoned on smokeleaf</SmokeleafHigh.label>
 
 
-  
+  <!-- Smokeleaf addiction -->
 
   <SmokeleafTolerance.label>smokeleaf tolerance</SmokeleafTolerance.label>
   <SmokeleafTolerance.stages.1.label>small</SmokeleafTolerance.stages.1.label>

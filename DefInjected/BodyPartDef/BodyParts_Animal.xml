@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- torso for animals -->
 
   <Body.label>ruumis</Body.label>
   <Beak.label>nokka</Beak.label>
@@ -12,6 +12,7 @@
   <InsectHeart.label>sydän</InsectHeart.label>
   <InsectNostril.label>sierain</InsectNostril.label>
   <InsectMouth.label>suu</InsectMouth.label>
+  <AnimalJaw.label>jaw</AnimalJaw.label>
   <Jowl.label>poski</Jowl.label>
   <Tail.label>häntä</Tail.label>
   <LeftAntenna.label>vasen antenni</LeftAntenna.label>
@@ -31,7 +32,7 @@
   <TurtleBeak.label>nokka</TurtleBeak.label>
 
 
-  
+  <!-- animals legs -->
 
   <FrontLeftLeg.label>vasen etujalka</FrontLeftLeg.label>
   <FrontRightLeg.label>oikea etujalka</FrontRightLeg.label>

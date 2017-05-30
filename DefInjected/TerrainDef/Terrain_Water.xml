@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WaterDeep.label>syvää vettä</WaterDeep.label>
+  <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>
+  <WaterMovingDeep.label>deep moving water</WaterMovingDeep.label>
   <WaterShallow.label>matalaa vettä</WaterShallow.label>
+  <WaterOceanShallow.label>shallow ocean water</WaterOceanShallow.label>
+  <WaterMovingShallow.label>shallow moving water</WaterMovingShallow.label>
 
 
 </LanguageData>

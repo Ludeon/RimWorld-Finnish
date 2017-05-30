@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- glow -->
   <Dark>Pimeä</Dark>
   <Lit>Valaistu</Lit>
   <LitBrightly>Kirkkaasti valaistu</LitBrightly>
 
-  
+  <!-- history upload pref -->
   <Unspecified>Päättämätön</Unspecified>
   <Always>Salli</Always>
   <Never>Älä salli</Never>
 
-  
-  <PriceTypeVeryCheap>erittäin halpa</PriceTypeVeryCheap>
+  <!-- Price types -->
+  <PriceTypeVeryCheap>hyvin halpa</PriceTypeVeryCheap>
   <PriceTypeCheap>halpa</PriceTypeCheap>
   <PriceTypeNormal>normaali</PriceTypeNormal>
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
   <PriceTypeExorbitant>kohtuuton</PriceTypeExorbitant>
 
-  
+  <!-- Storage priority labels -->
   <StoragePriorityUnstored>Ei väliä</StoragePriorityUnstored>
   <StoragePriorityLow>Matala</StoragePriorityLow>
   <StoragePriorityNormal>Normaali</StoragePriorityNormal>
@@ -26,7 +26,7 @@
   <StoragePriorityImportant>Tärkeä</StoragePriorityImportant>
   <StoragePriorityCritical>Kriittinen</StoragePriorityCritical>
 
-  
+  <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
   <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
@@ -39,7 +39,7 @@
   <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
   <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
 
-  
+  <!-- Quality category -->
   <QualityCategory_Awful>hirveä</QualityCategory_Awful>
   <QualityCategory_Shoddy>surkea</QualityCategory_Shoddy>
   <QualityCategory_Poor>huono</QualityCategory_Poor>
@@ -59,26 +59,26 @@
   <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
 
-  
+  <!-- Hunger -->
   <HungerLevel_Starving>Nälänhätä</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>Erittäin nälkäinen</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>Nälkäinen</HungerLevel_Hungry>
   <HungerLevel_Fed>Ruokittu</HungerLevel_Fed>
 
-  
+  <!-- -Fatigue -->
   <HungerLevel_Exhausted>Uupunut</HungerLevel_Exhausted>
   <HungerLevel_VeryTired>Erittäin väsynyt</HungerLevel_VeryTired>
   <HungerLevel_Tired>Väsynyt</HungerLevel_Tired>
   <HungerLevel_Rested>Levännyt</HungerLevel_Rested>
 
-  
+  <!-- Hilliness -->
   <Hilliness_Flat>Tasainen</Hilliness_Flat>
   <Hilliness_SmallHills>Pieniä mäkiä</Hilliness_SmallHills>
   <Hilliness_LargeHills>Suuria mäkiä</Hilliness_LargeHills>
   <Hilliness_Mountainous>Vuoristoinen</Hilliness_Mountainous>
   <Hilliness_Impassable>läpäisemätön</Hilliness_Impassable>
 
-  
+  <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Luodaan</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Julkaistaan</WorkshopInteractStage_SubmittingItem>
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Kelvoton</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
@@ -88,34 +88,34 @@
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Ladataan esikatselutiedostoa palvelimelle</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Tehdään muutoksia</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
-  
+  <!-- Mod sources -->
   <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
-  
+  <!-- Trainable intelligence -->
   <TrainableIntelligence_None>Ei mikään</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>Yksinkertainen</TrainableIntelligence_Simple>
   <TrainableIntelligence_Intermediate>Keskinkertainen</TrainableIntelligence_Intermediate>
   <TrainableIntelligence_Advanced>Kehittynyt</TrainableIntelligence_Advanced>
 
-  
+  <!-- Medical care category -->
   <MedicalCareCategory_NoCare>Ei lääkintää</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>Lääkärit pitävät huolta, mutta eivät käytä lääketarpeita</MedicalCareCategory_NoMeds>
   <MedicalCareCategory_HerbalOrWorse>Yrttilääkkeitä tai huonompia</MedicalCareCategory_HerbalOrWorse>
   <MedicalCareCategory_NormalOrWorse>Normaaleja lääketarpeita tai huonompia</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>Parhaan laadun lääkintää</MedicalCareCategory_Best>
 
-  
+  <!-- Hostility response mode -->
   <HostilityResponseMode_Ignore>Älä välitä</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Hyökkää</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Pakene</HostilityResponseMode_Flee>
 
-  
+  <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
   <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
 
-  
+  <!-- TechLevel -->
   <TechLevel_Animal>animal</TechLevel_Animal>
   <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
   <TechLevel_Medieval>medieval</TechLevel_Medieval>
@@ -124,26 +124,26 @@
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
   <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
 
-  
+  <!-- Player pawns arrive method -->
   <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
   <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
 
-  
+  <!-- Pawn generation context -->
   <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
 
-  
-  <ShowAnimalNames>Näytä eläimien nimet</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Kesyt eläimet (joilla on nimi)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Kesyt eläimet (kaikki)</AnimalNameDisplayMode_TameAll>
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Show animal names</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
 
-  
+  <!-- Temperature -->
   <Celsius>Celsius</Celsius>
   <Fahrenheit>Fahrenheit</Fahrenheit>
   <Kelvin>Kelvin</Kelvin>
 
-  
+  <!-- Direction8Way -->
   <Direction8Way_North_Short>N</Direction8Way_North_Short>
   <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
   <Direction8Way_East_Short>E</Direction8Way_East_Short>

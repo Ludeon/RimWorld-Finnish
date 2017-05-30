@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Neolithic -->
+
+  <Apparel_TribalA.label>heimovaate</Apparel_TribalA.label>
+  <Apparel_TribalA.description>Kivikautisilla työkaluilla koottu vaatekappale.</Apparel_TribalA.description>
+
+  <Apparel_Parka.label>anorakki</Apparel_Parka.label>
+  <Apparel_Parka.description>Paksu anorakki lämpimänä pysymiseen mitä kylmimmissä lämpötiloissa.</Apparel_Parka.description>
+
+
+  <!-- Medieval -->
 
   <Apparel_Pants.label>housupari</Apparel_Pants.label>
   <Apparel_Pants.description>Yksinkertainen housupari.</Apparel_Pants.description>
@@ -7,26 +18,23 @@
   <Apparel_BasicShirt.label>t-paita</Apparel_BasicShirt.label>
   <Apparel_BasicShirt.description>Yksinkertainen t-paita.</Apparel_BasicShirt.description>
 
-  <Apparel_CollarShirt.description>Hienon näköinen paita kauluksella ja napeilla.</Apparel_CollarShirt.description>
   <Apparel_CollarShirt.label>kauluspaita</Apparel_CollarShirt.label>
+  <Apparel_CollarShirt.description>Hienon näköinen paita kauluksella ja napeilla.</Apparel_CollarShirt.description>
 
-  <Apparel_Duster.description>Pitkä takki pitämään auringon ja hiekan loitolla.</Apparel_Duster.description>
   <Apparel_Duster.label>pitkä takki</Apparel_Duster.label>
+  <Apparel_Duster.description>Pitkä takki pitämään auringon ja hiekan loitolla.</Apparel_Duster.description>
 
   <Apparel_Jacket.label>takki</Apparel_Jacket.label>
   <Apparel_Jacket.description>Vahva takki joka estää naarmut ja ruhjeet.</Apparel_Jacket.description>
 
-  <Apparel_Parka.label>anorakki</Apparel_Parka.label>
-  <Apparel_Parka.description>Paksu anorakki lämpimänä pysymiseen mitä kylmimmissä lämpötiloissa.</Apparel_Parka.description>
 
-  <Apparel_TribalA.label>heimovaate</Apparel_TribalA.label>
-  <Apparel_TribalA.description>Kivikautisilla työkaluilla koottu vaatekappale.</Apparel_TribalA.description>
-
-
-  
+  <!-- Industrial -->
 
   <Apparel_VestPlate.label>panssariliivi</Apparel_VestPlate.label>
   <Apparel_VestPlate.description>Liivi, johon on ommeltu panssarilevyjä eteen ja taakse. Suojaa luodeilta.</Apparel_VestPlate.description>
+
+
+  <!-- Spacer -->
 
   <Apparel_PowerArmor.label>voimahaarniska</Apparel_PowerArmor.label>
   <Apparel_PowerArmor.description>Moottoroitu haarniska, jota pitkälle kehittyneiden planeettojen hyökkäysjoukot käyttävät.</Apparel_PowerArmor.description>

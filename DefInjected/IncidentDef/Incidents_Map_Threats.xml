@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Big threats -->
+
+  <RaidEnemy.label>enemy raid</RaidEnemy.label>
+
+  <Infestation.label>infestation</Infestation.label>
+  <Infestation.letterText>Hyönteispesä on ilmaantunut!\n\nSe luo hitaasti hyönteisiä ja myös lisää pesiä. Jos et halua, että se leviää koko alueelle, kokoa joukkosi ja tuhoa se. Mutta varo - hyönteiset puolustavat pesäänsä.</Infestation.letterText>
+  <Infestation.letterLabel>Loishyökkäys</Infestation.letterLabel>
+
+  <ManhunterPack.label>manhunter pack</ManhunterPack.label>
+
+  <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nYhdyskuntalaisesi tuntevat sen mieliensä perukoilla, kehottaen hirveitä tekoja. Siinä on varmasti tekoälypersoona, jolla on psyykkisiä projektiokykyjä. Ja tämä tekoäly ei ole ystävällinen.\n\nTuhoa se niin pian kuin mahdollista.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterLabel>Psyykkinen alus</PsychicEmanatorShipPartCrash.letterLabel>
+
+  <PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>
+  <PoisonShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nSiitä vuotaa myrkyllisiä aineita, jotka tappavat kaikki kasvit laajenevalta säteeltä ympäriltään.\n\nTuhoa se niin pian kuin mahdollista.</PoisonShipPartCrash.letterText>
+  <PoisonShipPartCrash.letterLabel>Myrkkyalus</PoisonShipPartCrash.letterLabel>
+
+  <AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>
+
+
+  <!-- Small threats -->
+
+  <AnimalInsanitySingle.label>single animal insanity</AnimalInsanitySingle.label>
+
+
+</LanguageData>

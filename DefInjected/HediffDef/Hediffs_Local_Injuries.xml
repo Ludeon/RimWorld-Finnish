@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Missing body part -->
 
   <MissingBodyPart.label>puuttuva ruumiinosa</MissingBodyPart.label>
 
 
-  
+  <!-- Injuries -->
 
   <Misc.label>sekalaiset</Misc.label>
   <Misc.comps.0.labelTendedWell>sidottu</Misc.comps.0.labelTendedWell>

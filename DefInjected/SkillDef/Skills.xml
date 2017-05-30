@@ -1,65 +1,69 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Shooting.label>Shooting</Shooting.label>
   <Shooting.description>Kaikenlaisten ampuma-aseiden käyttäminen.</Shooting.description>
   <Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
-  <Shooting.pawnLabel>Ampuja</Shooting.pawnLabel>
 
   <Melee.label>Melee</Melee.label>
   <Melee.description>Kaikenlaisten lähitaisteluaseiden käyttäminen ja aseeton taistelu.</Melee.description>
   <Melee.skillLabel>Lähitaistelu</Melee.skillLabel>
-  <Melee.pawnLabel>Painija</Melee.pawnLabel>
 
   <Social.label>sosiaalinen</Social.label>
   <Social.description>Muiden neuvottelu, suostuttelu, manipulointi, johtaminen ja kannustaminen.</Social.description>
   <Social.skillLabel>Sosiaalisuus</Social.skillLabel>
-  <Social.pawnLabel>Seurapiirihenkilö</Social.pawnLabel>
 
   <Animals.label>eläimet</Animals.label>
   <Animals.description>Eläinten kesyttäminen, kouluttaminen, hoitaminen ja ohjaaminen.</Animals.description>
   <Animals.skillLabel>Eläimet</Animals.skillLabel>
-  <Animals.pawnLabel>Eläintenkäsittelijä</Animals.pawnLabel>
 
   <Medicine.label>lääketarpeet</Medicine.label>
   <Medicine.description>Haavojen ja sairauksien hoitaminen ja kirurgia.</Medicine.description>
   <Medicine.skillLabel>Lääkitseminen</Medicine.skillLabel>
-  <Medicine.pawnLabel>Lääkäri</Medicine.pawnLabel>
 
   <Cooking.label>Cooking</Cooking.label>
   <Cooking.description>Aterioiden tekeminen raaoista raaka-aineista.</Cooking.description>
   <Cooking.skillLabel>Ruuanlaitto</Cooking.skillLabel>
-  <Cooking.pawnLabel>Kokki</Cooking.pawnLabel>
 
   <Construction.label>Construction</Construction.label>
   <Construction.description>Paremmat rakentajat rakentavat rakennelmia ja huonekaluja nopeammin ja parempilaatuisina.</Construction.description>
   <Construction.skillLabel>Rakentaminen</Construction.skillLabel>
-  <Construction.pawnLabel>Rakentaja</Construction.pawnLabel>
 
   <Growing.label>Growing</Growing.label>
   <Growing.description>Kylväminen, viljelmien huolehtiminen ja sadonkorjuu.</Growing.description>
   <Growing.skillLabel>Viljeleminen</Growing.skillLabel>
-  <Growing.pawnLabel>Viljelijä</Growing.pawnLabel>
 
   <Mining.label>louhiminen</Mining.label>
   <Mining.description>Tunneleiden ja haudatuiden resurssien kaivaminen.</Mining.description>
   <Mining.skillLabel>Louhiminen</Mining.skillLabel>
-  <Mining.pawnLabel>Louhija</Mining.pawnLabel>
 
   <Artistic.label>Artistic</Artistic.label>
   <Artistic.description>Taiteenteko.</Artistic.description>
   <Artistic.skillLabel>Taiteellisuus</Artistic.skillLabel>
-  <Artistic.pawnLabel>Taiteilija</Artistic.pawnLabel>
 
   <Crafting.label>Crafting</Crafting.label>
   <Crafting.description>Yleishyödyllisten tavaroiden, kuten aseiden ja työkalujen, teko.</Crafting.description>
   <Crafting.skillLabel>Työskentely käsin</Crafting.skillLabel>
-  <Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>
 
-  <Research.label>tutkimus</Research.label>
-  <Research.description>Todisteiden tutkiminen, kokeiden tekeminen ja opiskelu.</Research.description>
-  <Research.skillLabel>Tutkiminen</Research.skillLabel>
-  <Research.pawnLabel>Tutkija</Research.pawnLabel>
+  <Intellectual.label>Intellectual</Intellectual.label>
+  <Intellectual.description>Investigating evidence, making connections, calculating and using logic.</Intellectual.description>
+  <Intellectual.skillLabel>Intellectual</Intellectual.skillLabel>
 
+
+  <!--<Shooting.pawnLabel>Ampuja</Shooting.pawnLabel>-->
+  <!--<Melee.pawnLabel>Painija</Melee.pawnLabel>-->
+  <!--<Social.pawnLabel>Seurapiirihenkilö</Social.pawnLabel>-->
+  <!--<Animals.pawnLabel>Eläintenkäsittelijä</Animals.pawnLabel>-->
+  <!--<Medicine.pawnLabel>Lääkäri</Medicine.pawnLabel>-->
+  <!--<Cooking.pawnLabel>Kokki</Cooking.pawnLabel>-->
+  <!--<Construction.pawnLabel>Rakentaja</Construction.pawnLabel>-->
+  <!--<Growing.pawnLabel>Viljelijä</Growing.pawnLabel>-->
+  <!--<Mining.pawnLabel>Louhija</Mining.pawnLabel>-->
+  <!--<Artistic.pawnLabel>Taiteilija</Artistic.pawnLabel>-->
+  <!--<Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>-->
+  <!--<Research.label>tutkimus</Research.label>-->
+  <!--<Research.description>Todisteiden tutkiminen, kokeiden tekeminen ja opiskelu.</Research.description>-->
+  <!--<Research.skillLabel>Tutkiminen</Research.skillLabel>-->
+  <!--<Research.pawnLabel>Tutkija</Research.pawnLabel>-->
 
 </LanguageData>

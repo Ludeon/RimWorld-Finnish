@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Eclipse.label>auringonpimennys</Eclipse.label>
+  <Eclipse.letterText>Eräs tämän planeetan kuista on mennyt auringon eteen. Auringonpimennys on alkanut.</Eclipse.letterText>
+  <Eclipse.letterLabel>Auringonpimennys</Eclipse.letterLabel>
+
+  <SolarFlare.label>auringonpurkaus</SolarFlare.label>
+  <SolarFlare.letterText>Auringonpurkaus on alkanut.\n\nVoimakas säteily sammuttaa kaikki sähkölaitteet.\n\nSen pitäisi mennä ohi päivässä.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Auringonpurkaus</SolarFlare.letterLabel>
+
+
+</LanguageData>

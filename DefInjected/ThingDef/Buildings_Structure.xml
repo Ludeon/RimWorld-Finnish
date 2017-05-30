@@ -1,19 +1,28 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Doors -->
 
   <Door.label>ovi</Door.label>
   <Door.description>Jakaa huoneita. Täytyy avata ja sulkea käsin, mikä hidastaa ihmisiä.</Door.description>
+  <Door_Blueprint.label>door (blueprint)</Door_Blueprint.label>
+  <Door_Frame.label>door (building)</Door_Frame.label>
+  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door_Frame.description>
 
   <Autodoor.label>auto-ovi</Autodoor.label>
   <Autodoor.description>Jakaa huoneita. Sähköistetty toiminta sallii ihmisten liikkumisen oven läpi hidastamatta.</Autodoor.description>
+  <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor_Frame.description>
 
 
-  
+  <!-- Walls -->
 
   <Wall.label>seinä</Wall.label>
   <Wall.description>Läpäisemätön seinä. Kykenee kannattelemaan kattoa.</Wall.description>
+  <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
+  <Wall_Frame.label>wall (building)</Wall_Frame.label>
+  <Wall_Frame.description>An impassable wall. Capable of holding up a roof.</Wall_Frame.description>
 
 
 </LanguageData>

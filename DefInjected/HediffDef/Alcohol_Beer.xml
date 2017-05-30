@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <AlcoholHigh.label>alcohol</AlcoholHigh.label>
@@ -15,7 +15,7 @@
   <Hangover.stages.2.label>jyskyttävä</Hangover.stages.2.label>
 
 
-  
+  <!-- Alcohol addiction -->
 
   <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
   <AlcoholTolerance.stages.1.label>small</AlcoholTolerance.stages.1.label>

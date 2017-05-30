@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
-  <Tutorial>Tutoriaali</Tutorial>
+  <!--=========== Main menu ==========-->
+  <Tutorial>Tutorial</Tutorial>
   <NewColony>Uusi yhdyskunta</NewColony>
   <BackToGame>Takaisin peliin</BackToGame>
   <ReviewScenario>Review scenario</ReviewScenario>
@@ -25,7 +25,7 @@
   <BuySoundtrack>Osta soundtrack</BuySoundtrack>
   <CreateWorld>Luo maailma</CreateWorld>
 
-  
+  <!--=========== Create/review world ================-->
   <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
   <WorldGenerate>Luo</WorldGenerate>
   <WorldSaveAndFinish>Tallenna</WorldSaveAndFinish>
@@ -42,22 +42,23 @@
   <WorldSeed>Luontiarvo</WorldSeed>
   <RandomizeSeed>Satunnainen luontiarvo</RandomizeSeed>
   <PlanetCoverageTip>Planeetalla on aina sama halkaisija, mutta se on suurempi kuin tarvitaan pelaamiseen. Siksi emme käsittele planeetan koko pintaa, koska se voi kestää erittäin kauan. Tämä on osuus pinnasta jonka haluat käsiteltävän.</PlanetCoverageTip>
+  <WorldFactionsTab>Factions</WorldFactionsTab>
 
-  
+  <!--=========== Select world ===================-->
   <SelectWorld>Valitse maailma</SelectWorld>
   <WorldChooseButton>Valitse</WorldChooseButton>
   <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo maailma ensin.</NoWorldsFilesFound>
 
-  
+  <!--=========== Version info ==========-->
   <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
   <BuildUpToDate>Versio on uusin</BuildUpToDate>
   <ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Ladataan versiotietoja</LoadingVersionInfo>
 
-  
+  <!--=========== World generator =========-->
   <GenerateWorld>Luo maailma</GenerateWorld>
 
-  
+  <!--=========== Mods config ==========-->
   <OpenSteamWorkshop>Avaa Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Hanki modeja foorumilta</GetModsFromForum>
   <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
@@ -76,17 +77,17 @@
   <Source>Lähde</Source>
   <ModTargetVersion>For version: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: {0}.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Drag to reorder</DragToReorder>
 
-  
+  <!--=========== Select scenario =============-->
   <ChooseScenario>Choose scenario</ChooseScenario>
   <ScenariosCustom>Custom</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Scenario editor</ScenarioEditor>
   <Delete>Delete</Delete>
 
-  
+  <!--============ Scenario editor ===============-->
   <Seed>seed</Seed>
   <Load>Lataa yhdyskunta</Load>
   <EditMode>edit mode</EditMode>
@@ -99,13 +100,13 @@
   <TooMany>Too many (max {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
 
-  
+  <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
   <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten rosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätokset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
   <MustChooseDifficulty>Valitse vaikeustaso.</MustChooseDifficulty>
   <Difficulty>Vaikeustaso</Difficulty>
 
-  
+  <!--=========== Landing site select =========-->
   <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
   <SelectRandomSite>Valitse satunnainen alue</SelectRandomSite>
   <SelectSite>Valitse alue</SelectSite>
@@ -114,8 +115,13 @@
   <BiomeNotImplemented> on vielä toteuttamatta pelissä</BiomeNotImplemented>
   <CannotLandImpassableMountains>Et voi laskeutua läpäisemättömiin vuoriin.</CannotLandImpassableMountains>
   <BaseAlreadyThere>Ryhmällä {0} on jo tukikohta tässä.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+  <TileOccupied>This tile is occupied.</TileOccupied>
+  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
   <Biome>Biomi</Biome>
   <Terrain>Maasto</Terrain>
+  <Road>Road</Road>
+  <River>River</River>
   <Elevation>Korkeus</Elevation>
   <Fertility>Hedelmällisyys</Fertility>
   <AvgTemp>Keskilämpötila</AvgTemp>
@@ -132,9 +138,10 @@
   <MovementTimeNow>Nykyinen liikkumisaika</MovementTimeNow>
   <MovementTimeSummer>Kesän liikkumisaika</MovementTimeSummer>
   <MovementTimeWinter>Talven liikkumisaika</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
 
 
-  
+  <!--=========== Character chooser ==========-->
   <CreateCharacters>Luo hahmot</CreateCharacters>
   <FirstNameDesc>Hahmon ensimmäinen nimi.\n\nTämä näytetään vain tietyissä valikoissa.</FirstNameDesc>
   <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla ensimmäinen tai toinen nimi, tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
@@ -155,7 +162,7 @@
   <Health>Terveys</Health>
   <Relations>Suhteet</Relations>
 
-  
+  <!--=========== Misc ==========-->
   <Start>Aloita</Start>
   <Advanced>Lisäasetukset</Advanced>
   <Next>Seuraava</Next>
@@ -166,8 +173,9 @@
   <Quit>Quit</Quit>
   <Ignore>Ignore</Ignore>
 
-  
+  <!--============ Progress bar==============-->
   <GeneratingWorld>Luodaan maailmaa</GeneratingWorld>
+  <GeneratingPlanet>Generating planet</GeneratingPlanet>
   <GeneratingMap>Luodaan karttaa</GeneratingMap>
   <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 

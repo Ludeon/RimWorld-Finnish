@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Torso.label>yläruumis</Torso.label>
@@ -7,11 +7,13 @@
   <Eyes.label>silmät</Eyes.label>
   <Teeth.label>hampaat</Teeth.label>
   <Mouth.label>suu</Mouth.label>
+  <Neck.label>neck</Neck.label>
   <Arms.label>käsivarret</Arms.label>
   <Shoulders.label>olkapäät</Shoulders.label>
   <Hands.label>kädet</Hands.label>
   <LeftHand.label>vasen käsi</LeftHand.label>
   <RightHand.label>oikea käsi</RightHand.label>
+  <Waist.label>waist</Waist.label>
   <Legs.label>jalkavarret</Legs.label>
   <Feet.label>jalkaterät</Feet.label>
   <FrontLeftPaw.label>etuvasen käpälä</FrontLeftPaw.label>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- close family -->
 
   <Parent.label>isä</Parent.label>
   <Parent.labelFemale>äiti</Parent.labelFemale>
@@ -31,7 +31,7 @@
   <Cousin.labelFemale>serkku</Cousin.labelFemale>
 
 
-  
+  <!-- distant family -->
 
   <GreatGrandparent.label>isoisoisä</GreatGrandparent.label>
   <GreatGrandparent.labelFemale>isoisoäiti</GreatGrandparent.labelFemale>
@@ -52,7 +52,7 @@
   <SecondCousin.labelFemale>pikkuserkku</SecondCousin.labelFemale>
 
 
-  
+  <!-- kin -->
 
   <Kin.label>sukulainen</Kin.label>
   <Kin.labelFemale>sukulainen</Kin.labelFemale>

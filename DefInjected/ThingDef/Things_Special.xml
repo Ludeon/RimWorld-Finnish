@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <RectTrigger.label>RectTrigger</RectTrigger.label>
@@ -7,7 +7,8 @@
   <ActiveDropPod.label>drop pod</ActiveDropPod.label>
   <Fire.label>liekki</Fire.label>
   <Spark.label>kipinä</Spark.label>
-  <TemporaryRegionBarrier.label>temporary region barrier</TemporaryRegionBarrier.label>
 
+
+  <!--<TemporaryRegionBarrier.label>temporary region barrier</TemporaryRegionBarrier.label>-->
 
 </LanguageData>

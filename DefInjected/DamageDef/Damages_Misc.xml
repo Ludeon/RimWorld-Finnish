@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Deterioration.label>hajoaa</Deterioration.label>
+  <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
+
   <Mining.label>louhiminen</Mining.label>
+  <Mining.deathMessage>{0} has been killed.</Mining.deathMessage>
+
   <Rotting.label>mätänee</Rotting.label>
+  <Rotting.deathMessage>{0} has been killed.</Rotting.deathMessage>
+
   <Extinguish.label>sammuttaa tulta</Extinguish.label>
+  <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
+
+  <Smoke.label>smoke</Smoke.label>
+  <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
 
 
-  
-
-  <Stun.label>tyrmäys</Stun.label>
-  <Stun.deathMessage>{0} on tyrmätty kuoliaaksi.</Stun.deathMessage>
-
-  <EMP.label>EMP</EMP.label>
-  <EMP.deathMessage>{0} on kuollut sähkömagneettiseen pulssiin.</EMP.deathMessage>
-
+  <!--<Stun.label>tyrmäys</Stun.label>-->
+  <!--<Stun.deathMessage>{0} on tyrmätty kuoliaaksi.</Stun.deathMessage>-->
+  <!--<EMP.label>EMP</EMP.label>-->
+  <!--<EMP.deathMessage>{0} on kuollut sähkömagneettiseen pulssiin.</EMP.deathMessage>-->
 
 </LanguageData>

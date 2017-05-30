@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Tier 2: Non-electric -->
 
   <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
   <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.</PsychiteRefining.description>
@@ -16,7 +16,7 @@
   <PenoxycylineProduction.description>Learn to produce penoxycline, a disease prevention drug.</PenoxycylineProduction.description>
 
 
-  
+  <!-- Tier 2: Basic electricity -->
 
   <Batteries.label>batteries</Batteries.label>
   <Batteries.description>Build batteries for storing electricity.</Batteries.description>
@@ -42,6 +42,9 @@
   <ElectricSmelting.label>sähkösulatus</ElectricSmelting.label>
   <ElectricSmelting.description>Rakenna sähkösulattimia, jotka käyttävät lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta ja muista esineistä.</ElectricSmelting.description>
 
+  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.description>Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.</PackagedSurvivalMeal.description>
+
   <ElectricCremation.label>electric cremation</ElectricCremation.label>
   <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
 
@@ -60,11 +63,14 @@
   <Mortars.label>kranaatinheittimet</Mortars.label>
   <Mortars.description>Opi rakentamaan kranaatinheittimiä, jotka pystyvät heittämään kranaatteja pitkiä matkoja seinien yli.</Mortars.description>
 
+  <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
+  <SmokepopBelt.description>Learn to build smokepop belts which can provide an automatic defensive smokescreen.</SmokepopBelt.description>
+
   <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
   <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
 
 
-  
+  <!-- Tier 2.5 Microelectronics -->
 
   <TubeTelevision.label>tube television</TubeTelevision.label>
   <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>

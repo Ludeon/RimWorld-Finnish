@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Bedroom.stages.0.label>hirveä makuuhuone</Bedroom.stages.0.label>
-  <Bedroom.stages.0.description>Minun makuuhuoneeni on hirveä paikka.</Bedroom.stages.0.description>
-  <Bedroom.stages.3.label>decent bedroom</Bedroom.stages.3.label>
-  <Bedroom.stages.3.description>My bedroom is very interesting. I like it.</Bedroom.stages.3.description>
-  <Bedroom.stages.4.label>kiinnostava makuuhuone</Bedroom.stages.4.label>
-  <Bedroom.stages.4.description>Minun makuuhuoneeni on erittäin kiinnostava. Pidän siitä.</Bedroom.stages.4.description>
-  <Bedroom.stages.5.label>jokseenkin vaikuttava makuuhuone</Bedroom.stages.5.label>
-  <Bedroom.stages.5.description>Minun makuuhuoneeni on mukava paikka. Pidän siitä.</Bedroom.stages.5.description>
-  <Bedroom.stages.6.label>vaikuttava makuuhuone</Bedroom.stages.6.label>
-  <Bedroom.stages.6.description>Minun makuuhuoneeni on vaikuttava. Rakastan sitä!</Bedroom.stages.6.description>
-  <Bedroom.stages.7.label>erittäin vaikuttava makuuhuone</Bedroom.stages.7.label>
-  <Bedroom.stages.7.description>Minun makuuhuoneeni on erittäin vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.7.description>
-  <Bedroom.stages.8.label>äärimmäisen vaikuttava makuuhuone</Bedroom.stages.8.label>
-  <Bedroom.stages.8.description>Minun makuuhuoneeni on äärimmäisen vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.8.description>
-  <Bedroom.stages.9.label>uskomattoman vaikuttava makuuhuone</Bedroom.stages.9.label>
-  <Bedroom.stages.9.description>Minun makuuhuoneeni on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.9.description>
 
   <PrisonCell.stages.0.label>hirveä vankiselli</PrisonCell.stages.0.label>
   <PrisonCell.stages.0.description>Minun vankisellini on hirveä paikka.</PrisonCell.stages.0.description>
@@ -34,23 +17,6 @@
   <PrisonCell.stages.8.description>Minun vankisellini on äärimmäisen vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. Rakastan sitä!</PrisonCell.stages.8.description>
   <PrisonCell.stages.9.label>uskomattoman vaikuttava vankiselli</PrisonCell.stages.9.label>
   <PrisonCell.stages.9.description>Minun vankisellini on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</PrisonCell.stages.9.description>
-
-  <Barracks.stages.0.label>hirveä parakki</Barracks.stages.0.label>
-  <Barracks.stages.0.description>Minun parakkini on hirveä paikka.</Barracks.stages.0.description>
-  <Barracks.stages.1.label>luotaantyöntävä parakki</Barracks.stages.1.label>
-  <Barracks.stages.1.description>Minun parakkini on luotaantyöntävä paikka.</Barracks.stages.1.description>
-  <Barracks.stages.4.label>slightly impressive barrack</Barracks.stages.4.label>
-  <Barracks.stages.4.description>My barrack is a nice place. I wish I had my own bedroom, though.</Barracks.stages.4.description>
-  <Barracks.stages.5.label>jokseenkin vaikuttava parakki</Barracks.stages.5.label>
-  <Barracks.stages.5.description>Minun parakkini on mukava paikka. Olisipa minulla silti oma makuuhuone.</Barracks.stages.5.description>
-  <Barracks.stages.6.label>vaikuttava parakki</Barracks.stages.6.label>
-  <Barracks.stages.6.description>Minun parakkini on vaikuttava. Pidän siitä. Olisipa minulla silti oma makuuhuone.</Barracks.stages.6.description>
-  <Barracks.stages.7.label>erittäin vaikuttava parakki</Barracks.stages.7.label>
-  <Barracks.stages.7.description>Minun parakkini on erittäin vaikuttava. Rakastan sitä!</Barracks.stages.7.description>
-  <Barracks.stages.8.label>äärimmäisen vaikuttava parakki</Barracks.stages.8.label>
-  <Barracks.stages.8.description>Minun parakkini on äärimmäisen vaikuttava. Tämä on paras paikka ikinä!</Barracks.stages.8.description>
-  <Barracks.stages.9.label>uskomattoman vaikuttava parakki</Barracks.stages.9.label>
-  <Barracks.stages.9.description>Minun parakkini on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</Barracks.stages.9.description>
 
   <PrisonBarracks.stages.0.label>hirveä parakki</PrisonBarracks.stages.0.label>
   <PrisonBarracks.stages.0.description>Minun vankiparakkini on hirveä paikka.</PrisonBarracks.stages.0.description>
@@ -86,5 +52,38 @@
   <HospitalPatientRoomStats.stages.9.label>wondrously impressive hospital</HospitalPatientRoomStats.stages.9.label>
   <HospitalPatientRoomStats.stages.9.description>My hospital is wonderful! It makes me feel better already.</HospitalPatientRoomStats.stages.9.description>
 
+
+  <!--<Bedroom.stages.0.label>hirveä makuuhuone</Bedroom.stages.0.label>-->
+  <!--<Bedroom.stages.0.description>Minun makuuhuoneeni on hirveä paikka.</Bedroom.stages.0.description>-->
+  <!--<Bedroom.stages.3.label>decent bedroom</Bedroom.stages.3.label>-->
+  <!--<Bedroom.stages.3.description>My bedroom is very interesting. I like it.</Bedroom.stages.3.description>-->
+  <!--<Bedroom.stages.4.label>kiinnostava makuuhuone</Bedroom.stages.4.label>-->
+  <!--<Bedroom.stages.4.description>Minun makuuhuoneeni on erittäin kiinnostava. Pidän siitä.</Bedroom.stages.4.description>-->
+  <!--<Bedroom.stages.5.label>jokseenkin vaikuttava makuuhuone</Bedroom.stages.5.label>-->
+  <!--<Bedroom.stages.5.description>Minun makuuhuoneeni on mukava paikka. Pidän siitä.</Bedroom.stages.5.description>-->
+  <!--<Bedroom.stages.6.label>vaikuttava makuuhuone</Bedroom.stages.6.label>-->
+  <!--<Bedroom.stages.6.description>Minun makuuhuoneeni on vaikuttava. Rakastan sitä!</Bedroom.stages.6.description>-->
+  <!--<Bedroom.stages.7.label>erittäin vaikuttava makuuhuone</Bedroom.stages.7.label>-->
+  <!--<Bedroom.stages.7.description>Minun makuuhuoneeni on erittäin vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.7.description>-->
+  <!--<Bedroom.stages.8.label>äärimmäisen vaikuttava makuuhuone</Bedroom.stages.8.label>-->
+  <!--<Bedroom.stages.8.description>Minun makuuhuoneeni on äärimmäisen vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.8.description>-->
+  <!--<Bedroom.stages.9.label>uskomattoman vaikuttava makuuhuone</Bedroom.stages.9.label>-->
+  <!--<Bedroom.stages.9.description>Minun makuuhuoneeni on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.9.description>-->
+  <!--<Barracks.stages.0.label>hirveä parakki</Barracks.stages.0.label>-->
+  <!--<Barracks.stages.0.description>Minun parakkini on hirveä paikka.</Barracks.stages.0.description>-->
+  <!--<Barracks.stages.1.label>luotaantyöntävä parakki</Barracks.stages.1.label>-->
+  <!--<Barracks.stages.1.description>Minun parakkini on luotaantyöntävä paikka.</Barracks.stages.1.description>-->
+  <!--<Barracks.stages.4.label>slightly impressive barrack</Barracks.stages.4.label>-->
+  <!--<Barracks.stages.4.description>My barrack is a nice place. I wish I had my own bedroom, though.</Barracks.stages.4.description>-->
+  <!--<Barracks.stages.5.label>jokseenkin vaikuttava parakki</Barracks.stages.5.label>-->
+  <!--<Barracks.stages.5.description>Minun parakkini on mukava paikka. Olisipa minulla silti oma makuuhuone.</Barracks.stages.5.description>-->
+  <!--<Barracks.stages.6.label>vaikuttava parakki</Barracks.stages.6.label>-->
+  <!--<Barracks.stages.6.description>Minun parakkini on vaikuttava. Pidän siitä. Olisipa minulla silti oma makuuhuone.</Barracks.stages.6.description>-->
+  <!--<Barracks.stages.7.label>erittäin vaikuttava parakki</Barracks.stages.7.label>-->
+  <!--<Barracks.stages.7.description>Minun parakkini on erittäin vaikuttava. Rakastan sitä!</Barracks.stages.7.description>-->
+  <!--<Barracks.stages.8.label>äärimmäisen vaikuttava parakki</Barracks.stages.8.label>-->
+  <!--<Barracks.stages.8.description>Minun parakkini on äärimmäisen vaikuttava. Tämä on paras paikka ikinä!</Barracks.stages.8.description>-->
+  <!--<Barracks.stages.9.label>uskomattoman vaikuttava parakki</Barracks.stages.9.label>-->
+  <!--<Barracks.stages.9.description>Minun parakkini on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</Barracks.stages.9.description>-->
 
 </LanguageData>

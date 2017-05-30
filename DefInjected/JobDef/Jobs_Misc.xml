@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- General -->
 
   <Goto.reportString>Liikkuu.</Goto.reportString>
   <GotoSafeTemperature.reportString>Etsii turvallista lämpötilaa.</GotoSafeTemperature.reportString>
   <GotoWander.reportString>Harhailee.</GotoWander.reportString>
   <Wait.reportString>Seisoskelee.</Wait.reportString>
+  <WaitMaintainPosture.reportString>standing.</WaitMaintainPosture.reportString>
   <WaitDowned.reportString>Maissa.</WaitDowned.reportString>
   <WaitSafeTemperature.reportString>Odottaa turvallisessa lämpötilassa.</WaitSafeTemperature.reportString>
   <WaitWander.reportString>Harhailee.</WaitWander.reportString>
@@ -14,6 +15,7 @@
   <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
   <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
   <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
   <Equip.reportString>Ottaa käyttöön esineen TargetA.</Equip.reportString>
   <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>
   <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
@@ -37,24 +39,25 @@
   <Vomit.reportString>Oksentaa.</Vomit.reportString>
   <Flick.reportString>Kääntää kytkintä.</Flick.reportString>
   <TradeWithPawn.reportString>Käy kauppaa henkilön TargetA kanssa.</TradeWithPawn.reportString>
+  <Flee.reportString>fleeing.</Flee.reportString>
   <FleeAndCower.reportString>Pakenee.</FleeAndCower.reportString>
   <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
 
 
-  
+  <!-- Fire -->
 
   <Ignite.reportString>Sytyttää kohdetta TargetA.</Ignite.reportString>
   <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>
   <ExtinguishSelf.reportString>Sammuttaa itsensä tulesta.</ExtinguishSelf.reportString>
 
 
-  
+  <!-- Need satisfaction -->
 
   <Ingest.reportString>Syö ruuan TargetA.</Ingest.reportString>
   <LayDown.reportString>Makaa.</LayDown.reportString>
 
 
-  
+  <!-- Love -->
 
   <Lovin.reportString>Rakastelee.</Lovin.reportString>
 

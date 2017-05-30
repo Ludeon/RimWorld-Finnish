@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Combat -->
 
   <Kills.label>kills</Kills.label>
   <Kills.description>The number of creatures I have killed.</Kills.description>
@@ -40,7 +40,7 @@
   <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
 
 
-  
+  <!-- Excitement -->
 
   <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
   <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
@@ -52,7 +52,7 @@
   <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
 
 
-  
+  <!-- Work -->
 
   <OperationsReceived.label>operations received</OperationsReceived.label>
   <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>

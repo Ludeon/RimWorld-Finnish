@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Root.label>juuri</Root.label>
 
 
-  
+  <!-- Foods -->
 
   <Foods.label>ruuat</Foods.label>
   <FoodMeals.label>ateriat</FoodMeals.label>
@@ -16,7 +16,7 @@
   <EggsFertilized.label>munat (hedel.)</EggsFertilized.label>
 
 
-  
+  <!-- Manufactured -->
 
   <Manufactured.label>tuotetut</Manufactured.label>
   <Textiles.label>tekstiilit</Textiles.label>
@@ -25,14 +25,14 @@
   <Drugs.label>drugs</Drugs.label>
 
 
-  
+  <!-- Raw resources -->
 
   <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
   <PlantMatter.label>plant matter</PlantMatter.label>
   <StoneBlocks.label>kiviharkot</StoneBlocks.label>
 
 
-  
+  <!-- Items -->
 
   <Items.label>esineet</Items.label>
   <Art.label>taide</Art.label>
@@ -44,7 +44,7 @@
   <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
 
 
-  
+  <!-- Weapons -->
 
   <Weapons.label>aseet</Weapons.label>
   <WeaponsMelee.label>lähitaisteluaseet</WeaponsMelee.label>
@@ -52,19 +52,19 @@
   <Grenades.label>kranaatit</Grenades.label>
 
 
-  
+  <!-- Apparel -->
 
   <Apparel.label>vaatteet</Apparel.label>
   <Headgear.label>päähineet</Headgear.label>
 
 
-  
+  <!-- Chunks -->
 
   <Chunks.label>kimpaleet</Chunks.label>
   <StoneChunks.label>kivenjärkäleet</StoneChunks.label>
 
 
-  
+  <!-- Corpses -->
 
   <Corpses.label>ruumiit</Corpses.label>
   <CorpsesHumanlike.label>ihmisruumiit</CorpsesHumanlike.label>

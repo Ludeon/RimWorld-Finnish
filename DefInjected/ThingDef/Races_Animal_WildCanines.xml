@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Warg -->
 
   <Warg.label>warg</Warg.label>
   <Warg.description>Lihaksikas sudentapainen olio. Tiedemiehet sanovat, että wargit ovat armeijan käyttöön väkiluvun hillitsemiseen luotujen eläinten jälkeläisiä. Taikauskoiset pitävät niitä vihaisen jumalan työkaluna.</Warg.description>
@@ -14,7 +14,7 @@
   <Warg_Corpse.description>Kuolleen wargin ruumis.</Warg_Corpse.description>
 
 
-  
+  <!-- Wolves -->
 
   <WolfTimber.label>timber wolf</WolfTimber.label>
   <WolfTimber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have a complex social life and are fiercely intelligent.</WolfTimber.description>
@@ -31,12 +31,12 @@
   <WolfArctic_Leather.label>arctic wolfskin</WolfArctic_Leather.label>
   <WolfArctic_Leather.description>arctic wolfskin</WolfArctic_Leather.description>
   <WolfArctic_Leather.stuffProps.stuffAdjective>arctic wolfskin</WolfArctic_Leather.stuffProps.stuffAdjective>
-  
+  <!-- Use Meat From: WolfTimber -->
   <WolfArctic_Corpse.label>arctic wolf corpse</WolfArctic_Corpse.label>
   <WolfArctic_Corpse.description>arctic wolf corpse</WolfArctic_Corpse.description>
 
 
-  
+  <!-- Fox fennec -->
 
   <FoxFennec.label>fennec fox</FoxFennec.label>
   <FoxFennec.description>A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears.</FoxFennec.description>
@@ -49,26 +49,26 @@
   <FoxFennec_Corpse.description>fennec fox corpse</FoxFennec_Corpse.description>
 
 
-  
+  <!-- Fox red -->
 
   <FoxRed.label>red fox</FoxRed.label>
   <FoxRed.description>A small solitary canine evolved for hunting small prey in temperate climates.</FoxRed.description>
   <FoxRed_Leather.label>red foxskin</FoxRed_Leather.label>
   <FoxRed_Leather.description>red foxskin</FoxRed_Leather.description>
   <FoxRed_Leather.stuffProps.stuffAdjective>red foxskin</FoxRed_Leather.stuffProps.stuffAdjective>
-  
+  <!-- Use Meat From: FoxFennec -->
   <FoxRed_Corpse.label>red fox corpse</FoxRed_Corpse.label>
   <FoxRed_Corpse.description>red fox corpse</FoxRed_Corpse.description>
 
 
-  
+  <!-- Fox arctic -->
 
   <FoxArctic.label>arctic fox</FoxArctic.label>
   <FoxArctic.description>A small predator adapted for the far north. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey.</FoxArctic.description>
   <FoxArctic_Leather.label>arctic foxskin</FoxArctic_Leather.label>
   <FoxArctic_Leather.description>arctic foxskin</FoxArctic_Leather.description>
   <FoxArctic_Leather.stuffProps.stuffAdjective>arctic foxskin</FoxArctic_Leather.stuffProps.stuffAdjective>
-  
+  <!-- Use Meat From: FoxFennec -->
   <FoxArctic_Corpse.label>arctic fox corpse</FoxArctic_Corpse.label>
   <FoxArctic_Corpse.description>arctic fox corpse</FoxArctic_Corpse.description>
 

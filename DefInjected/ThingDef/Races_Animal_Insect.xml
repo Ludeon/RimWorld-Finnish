@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Megascarab.label>jättipillerinpyörittäjä</Megascarab.label>
   <Megascarab.description>Suuri, geneettisesti muokattu kovakuoriainen. Ne olivat alunperin työläisiä mekanoidihyökkäyksiä torjumaan suunnitellussa ekosysteemissä, mutta nykyään niitä nähdään useimmiten ilman kuollettavampia serkkujaan. Siitä huolimatta sen koko ja kova kuori tekevät siitä vaarallisen sen hyökätessä.</Megascarab.description>
-  
-  
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
   <Megascarab_Corpse.label>jättipillerinpyörittäjän ruumis</Megascarab_Corpse.label>
   <Megascarab_Corpse.description>Kuolleen jättipillerinpyörittäjän ruumis.</Megascarab_Corpse.description>
 
   <Spelopede.label>spelopede</Spelopede.label>
   <Spelopede.description>A medium-sized bioengineered bug the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its claws.</Spelopede.description>
-  
-  
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
   <Spelopede_Corpse.label>spelopede corpse</Spelopede_Corpse.label>
   <Spelopede_Corpse.description>Dead body of a spelopede.</Spelopede_Corpse.description>
 
   <Megaspider.label>megaspider</Megaspider.label>
   <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long deadly ripper-blades make it deadly.</Megaspider.description>
-  
+  <!-- Leather Amount: 0 -->
   <Megaspider_Meat.label>megaspider meat</Megaspider_Meat.label>
   <Megaspider_Meat.description>Raw flesh of a megaspider.</Megaspider_Meat.description>
   <Megaspider_Corpse.label>megaspider corpse</Megaspider_Corpse.label>

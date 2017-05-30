@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Cassowary.label>cassowary</Cassowary.label>
@@ -16,7 +16,7 @@
   <Emu_Leather.label>emu leather</Emu_Leather.label>
   <Emu_Leather.description>emu leather</Emu_Leather.description>
   <Emu_Leather.stuffProps.stuffAdjective>emu leather</Emu_Leather.stuffProps.stuffAdjective>
-  
+  <!-- Use Meat From: Cassowary -->
   <Emu_Corpse.label>emu corpse</Emu_Corpse.label>
   <Emu_Corpse.description>emu corpse</Emu_Corpse.description>
 
@@ -25,7 +25,7 @@
   <Ostrich_Leather.label>ostrich leather</Ostrich_Leather.label>
   <Ostrich_Leather.description>ostrich leather</Ostrich_Leather.description>
   <Ostrich_Leather.stuffProps.stuffAdjective>ostrich leather</Ostrich_Leather.stuffProps.stuffAdjective>
-  
+  <!-- Use Meat From: Cassowary -->
   <Ostrich_Corpse.label>ostrich corpse</Ostrich_Corpse.label>
   <Ostrich_Corpse.description>ostrich corpse</Ostrich_Corpse.description>
 

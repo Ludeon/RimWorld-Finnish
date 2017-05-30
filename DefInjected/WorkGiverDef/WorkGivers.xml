@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Firefighter -->
 
   <FightFires.label>fight fires</FightFires.label>
   <FightFires.verb>samuttaa tulta</FightFires.verb>
   <FightFires.gerund>tulen sammuttaminen</FightFires.gerund>
 
 
-  
+  <!-- PatientEmergency -->
 
   <PatientGoToBedEmergency.label>go to bed for emergency treatment</PatientGoToBedEmergency.label>
   <PatientGoToBedEmergency.verb>receive treatment in</PatientGoToBedEmergency.verb>
   <PatientGoToBedEmergency.gerund>receiving treatment in</PatientGoToBedEmergency.gerund>
 
 
-  
+  <!-- Doctor -->
 
-  <DoctorTreatEmergency.label>give emergency treatment</DoctorTreatEmergency.label>
-  <DoctorTreatEmergency.verb>parantaa</DoctorTreatEmergency.verb>
-  <DoctorTreatEmergency.gerund>parantaminen</DoctorTreatEmergency.gerund>
+  <DoctorTendEmergency.label>give emergency treatment</DoctorTendEmergency.label>
+  <DoctorTendEmergency.verb>tend to</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.gerund>tending to</DoctorTendEmergency.gerund>
 
   <DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
   <DoctorRescue.verb>pelastaa</DoctorRescue.verb>
@@ -29,17 +29,29 @@
   <DoBillsMedicalHumanOperation.verb>operoida</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>operoiminen</DoBillsMedicalHumanOperation.gerund>
 
-  <DoctorTreat.label>give treatment</DoctorTreat.label>
-  <DoctorTreat.verb>parantaa</DoctorTreat.verb>
-  <DoctorTreat.gerund>parantaminen</DoctorTreat.gerund>
+  <DoctorTendToHumanlikes.label>tend to patients</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.verb>tend to</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.gerund>tending to</DoctorTendToHumanlikes.gerund>
 
-  <DoctorFeed.label>feed patients</DoctorFeed.label>
-  <DoctorFeed.verb>ruokkia</DoctorFeed.verb>
-  <DoctorFeed.gerund>ruokkiminen</DoctorFeed.gerund>
+  <DoctorTendToSelf.label>tend to self</DoctorTendToSelf.label>
+  <DoctorTendToSelf.verb>tend to</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.gerund>tending to</DoctorTendToSelf.gerund>
+
+  <DoctorFeedHumanlikes.label>feed patients</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.verb>feed</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.gerund>feeding</DoctorFeedHumanlikes.gerund>
 
   <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
   <DoBillsMedicalAnimalOperation.verb>operoida</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>operoiminen</DoBillsMedicalAnimalOperation.gerund>
+
+  <DoctorTendToAnimals.label>tend to animals</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.verb>tend to</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.gerund>tending to</DoctorTendToAnimals.gerund>
+
+  <DoctorFeedAnimals.label>feed animals</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>feed</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.gerund>feeding</DoctorFeedAnimals.gerund>
 
   <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
   <TakeToBedToOperate.verb>ottaa operointiin</TakeToBedToOperate.verb>
@@ -50,21 +62,21 @@
   <VisitSickPawn.gerund>visiting</VisitSickPawn.gerund>
 
 
-  
+  <!-- PatientBedRest -->
 
   <PatientGoToBed.label>recuperate in bed</PatientGoToBed.label>
   <PatientGoToBed.verb>ottaa hoitoa vastaan kohteessa</PatientGoToBed.verb>
   <PatientGoToBed.gerund>hoidon vastaanottaminen kohteessa</PatientGoToBed.gerund>
 
 
-  
+  <!-- Flicker -->
 
   <Flick.label>flick switches</Flick.label>
   <Flick.verb>kääntää kytkintä</Flick.verb>
   <Flick.gerund>kytkimen kääntäminen</Flick.gerund>
 
 
-  
+  <!-- Warden -->
 
   <DoExecution.label>execute prisoners</DoExecution.label>
   <DoExecution.verb>do execution on</DoExecution.verb>
@@ -91,7 +103,7 @@
   <ChatWithPrisoner.gerund>chatting with</ChatWithPrisoner.gerund>
 
 
-  
+  <!-- Handling -->
 
   <Slaughter.label>slaughter animals</Slaughter.label>
   <Slaughter.verb>tappaa</Slaughter.verb>
@@ -114,7 +126,7 @@
   <Train.gerund>kouluttaminen</Train.gerund>
 
 
-  
+  <!-- Cooking -->
 
   <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
   <DoBillsCook.verb>kokata</DoBillsCook.verb>
@@ -137,18 +149,14 @@
   <DoBillsBrew.gerund>oluen valmistaminen</DoBillsBrew.gerund>
 
 
-  
+  <!-- Hunting -->
 
   <HunterHunt.label>hunt</HunterHunt.label>
   <HunterHunt.verb>metsästää</HunterHunt.verb>
   <HunterHunt.gerund>metsästäminen</HunterHunt.gerund>
 
 
-  
-
-  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>muokata</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>muokkaaminen</DoBillsMedicalMechanoidOperation.gerund>
+  <!-- Construction -->
 
   <FixBrokenDownBuilding.label>fix broken-down things</FixBrokenDownBuilding.label>
   <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
@@ -195,7 +203,7 @@
   <ConstructSmoothFloors.gerund>hiominen</ConstructSmoothFloors.gerund>
 
 
-  
+  <!-- Growing -->
 
   <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
   <GrowerHarvest.verb>korjata</GrowerHarvest.verb>
@@ -206,7 +214,7 @@
   <GrowerSow.gerund>kylväminen</GrowerSow.gerund>
 
 
-  
+  <!-- Mining -->
 
   <Mine.label>mine</Mine.label>
   <Mine.verb>louhia</Mine.verb>
@@ -217,14 +225,14 @@
   <Drill.gerund>drilling</Drill.gerund>
 
 
-  
+  <!-- PlantCutting -->
 
   <PlantsCut.label>cut plants</PlantsCut.label>
   <PlantsCut.verb>leikata</PlantsCut.verb>
   <PlantsCut.gerund>leikkaaminen</PlantsCut.gerund>
 
 
-  
+  <!-- Smithing -->
 
   <DoBillsMakeWeapons.label>make weapons</DoBillsMakeWeapons.label>
   <DoBillsMakeWeapons.verb>takoa</DoBillsMakeWeapons.verb>
@@ -239,21 +247,25 @@
   <DoBillsComponentAssemblyBench.gerund>producing components at</DoBillsComponentAssemblyBench.gerund>
 
 
-  
+  <!-- Tailoring -->
 
   <DoBillsMakeApparel.label>tailor apparel</DoBillsMakeApparel.label>
   <DoBillsMakeApparel.verb>räätälöidä</DoBillsMakeApparel.verb>
   <DoBillsMakeApparel.gerund>räätälöiminen</DoBillsMakeApparel.gerund>
 
 
-  
+  <!-- Art -->
 
   <DoBillsSculpt.label>sculpt</DoBillsSculpt.label>
   <DoBillsSculpt.verb>veistää</DoBillsSculpt.verb>
   <DoBillsSculpt.gerund>veistäminen</DoBillsSculpt.gerund>
 
 
-  
+  <!-- Crafting -->
+
+  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>muokata</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>muokkaaminen</DoBillsMedicalMechanoidOperation.gerund>
 
   <DoBillsUseCraftingSpot.label>do bills at crafting spot</DoBillsUseCraftingSpot.label>
   <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
@@ -276,7 +288,7 @@
   <DoBillsSmelter.gerund>jalostaminen</DoBillsSmelter.gerund>
 
 
-  
+  <!-- Hauling -->
 
   <UnloadCarriers.label>unload carriers</UnloadCarriers.label>
   <UnloadCarriers.verb>unload</UnloadCarriers.verb>
@@ -285,6 +297,10 @@
   <LoadTransporters.label>load transporters</LoadTransporters.label>
   <LoadTransporters.verb>load</LoadTransporters.verb>
   <LoadTransporters.gerund>loading</LoadTransporters.gerund>
+
+  <HelpGatheringItemsForCaravan.label>load caravan</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.verb>load</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
 
   <Strip.label>strip corpses</Strip.label>
   <Strip.verb>riisua</Strip.verb>
@@ -331,7 +347,7 @@
   <HaulGeneral.gerund>kuljettaminen</HaulGeneral.gerund>
 
 
-  
+  <!-- Cleaning -->
 
   <CleanClearSnow.label>clear snow</CleanClearSnow.label>
   <CleanClearSnow.verb>kolata lunta</CleanClearSnow.verb>
@@ -342,11 +358,21 @@
   <CleanFilth.gerund>siivoaminen</CleanFilth.gerund>
 
 
-  
+  <!-- Research -->
 
   <Research.label>tutkimus</Research.label>
   <Research.verb>tutkia</Research.verb>
   <Research.gerund>tutkiminen</Research.gerund>
 
+
+  <!--<DoctorTreatEmergency.label>give emergency treatment</DoctorTreatEmergency.label>-->
+  <!--<DoctorTreatEmergency.verb>parantaa</DoctorTreatEmergency.verb>-->
+  <!--<DoctorTreatEmergency.gerund>parantaminen</DoctorTreatEmergency.gerund>-->
+  <!--<DoctorTreat.label>give treatment</DoctorTreat.label>-->
+  <!--<DoctorTreat.verb>parantaa</DoctorTreat.verb>-->
+  <!--<DoctorTreat.gerund>parantaminen</DoctorTreat.gerund>-->
+  <!--<DoctorFeed.label>feed patients</DoctorFeed.label>-->
+  <!--<DoctorFeed.verb>ruokkia</DoctorFeed.verb>-->
+  <!--<DoctorFeed.gerund>ruokkiminen</DoctorFeed.gerund>-->
 
 </LanguageData>

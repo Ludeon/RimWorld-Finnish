@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WorkTagNone>Ei mitään</WorkTagNone>
@@ -8,7 +8,6 @@
   <WorkTagViolent>Väkivaltainen</WorkTagViolent>
   <WorkTagCaring>Välittäminen</WorkTagCaring>
   <WorkTagSocial>Sosiaalinen</WorkTagSocial>
-  <WorkTagScary>Pelottava</WorkTagScary>
   <WorkTagAnimals>Animals</WorkTagAnimals>
   <WorkTagArtistic>Taiteellinen</WorkTagArtistic>
   <WorkTagCrafting>Käsityöt</WorkTagCrafting>
@@ -18,5 +17,7 @@
   <WorkTagHauling>Kuljettaminen</WorkTagHauling>
   <WorkTagPlantWork>Kasvityö</WorkTagPlantWork>
   <WorkTagMining>Louhimistyö</WorkTagMining>
+
+  <!--<WorkTagScary>Pelottava</WorkTagScary>-->
 
 </LanguageData>

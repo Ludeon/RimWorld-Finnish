@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
 
   <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.</GroundPenetratingScanner.description>
@@ -23,6 +23,9 @@
 
   <PoweredArmor.label>powered armor</PoweredArmor.label>
   <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+
+  <ShieldBelt.label>shield belt</ShieldBelt.label>
+  <ShieldBelt.description>Momentum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.</ShieldBelt.description>
 
   <ChargedShot.label>charged shot</ChargedShot.label>
   <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>

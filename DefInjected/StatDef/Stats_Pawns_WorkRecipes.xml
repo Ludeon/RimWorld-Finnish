@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Artistic recipes - speed not affected by skill because skill affects output quality -->
 
   <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
   <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
@@ -12,17 +12,14 @@
   <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
   <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
 
+
+  <!-- Production recipes - speed affected by skill because there is no output quality -->
+
   <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
   <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
 
   <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
   <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
-
-  <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
-  <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
-
-
-  
 
   <CookSpeed.label>keittonopeus</CookSpeed.label>
   <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
@@ -39,11 +36,20 @@
   <ButcheryMechanoidSpeed.label>mekanoidin purkunopeus</ButcheryMechanoidSpeed.label>
   <ButcheryMechanoidSpeed.description>Nopeus, jolla tämä henkilö purkaa mekanoidin.</ButcheryMechanoidSpeed.description>
 
+  <MechanoidOperationSuccessChance.label>mechanoid operation success chance</MechanoidOperationSuccessChance.label>
+  <MechanoidOperationSuccessChance.description>The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.</MechanoidOperationSuccessChance.description>
+
   <ButcheryFleshEfficiency.label>teurastuskyky</ButcheryFleshEfficiency.label>
   <ButcheryFleshEfficiency.description>Kerroin teurastamalla tuotetun lihan määrään.</ButcheryFleshEfficiency.description>
 
   <ButcheryMechanoidEfficiency.label>mekanoidin purkukyky</ButcheryMechanoidEfficiency.label>
   <ButcheryMechanoidEfficiency.description>Kerroin mekanoidin purkamisesta saatujen materiaalien määrään.</ButcheryMechanoidEfficiency.description>
+
+
+  <!-- Dumb recipes - not affected by skill because there's no skill component -->
+
+  <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
 
 
 </LanguageData>

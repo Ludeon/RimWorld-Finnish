@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WorkSpeedGlobal.label>yleinen työskentelynopeus</WorkSpeedGlobal.label>
@@ -7,26 +7,42 @@
   <MiningSpeed.label>louhimisnopeus</MiningSpeed.label>
   <MiningSpeed.description>Kerroin tämän henkilön louhimisen nopeuteen.</MiningSpeed.description>
 
+  <MiningYield.label>mining yield</MiningYield.label>
+  <MiningYield.description>The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.</MiningYield.description>
+
   <SmoothingSpeed.label>hiomisnopeus</SmoothingSpeed.label>
   <SmoothingSpeed.description>Kerroin tämän henkilön lattioiden hiomisen nopeuteen.</SmoothingSpeed.description>
 
   <ResearchSpeed.label>tutkimisnopeus</ResearchSpeed.label>
   <ResearchSpeed.description>Nopeus, jolla tämä henkilö tutkii.</ResearchSpeed.description>
 
-  <ConstructionSpeed.label>rakennusnopeus</ConstructionSpeed.label>
-  <ConstructionSpeed.description>Nopeus, jolla tämä henkilö rakentaa ja korjaa rakennuksia.</ConstructionSpeed.description>
+  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
+
+  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
+  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
 
   <PlantWorkSpeed.label>kasvityönopeus</PlantWorkSpeed.label>
   <PlantWorkSpeed.description>Nopeus, jolla tämä henkilö viljelee ja kerää kasveja.</PlantWorkSpeed.description>
 
-  <HarvestFailChance.label>sadonkorjuun epäonnistumisen todennäköisyys</HarvestFailChance.label>
-  <HarvestFailChance.description>Todennäköisyys, että tämä henkilö tuhoaa vahingossa sadon sen keräämisen sijaan.</HarvestFailChance.description>
+  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
+  <PlantHarvestYield.description>The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
 
-  <ConstructFailChance.label>construct fail chance</ConstructFailChance.label>
-  <ConstructFailChance.description>The chance that this person will fail in constructing something, wasting time and resources.</ConstructFailChance.description>
+  <ConstructionSpeed.label>rakennusnopeus</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Nopeus, jolla tämä henkilö rakentaa ja korjaa rakennuksia.</ConstructionSpeed.description>
 
-  <FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
-  <FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
+  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something. Failing means wasting time and resources.</ConstructSuccessChance.description>
 
+  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
+
+
+  <!--<HarvestFailChance.label>sadonkorjuun epäonnistumisen todennäköisyys</HarvestFailChance.label>-->
+  <!--<HarvestFailChance.description>Todennäköisyys, että tämä henkilö tuhoaa vahingossa sadon sen keräämisen sijaan.</HarvestFailChance.description>-->
+  <!--<ConstructFailChance.label>construct fail chance</ConstructFailChance.label>-->
+  <!--<ConstructFailChance.description>The chance that this person will fail in constructing something, wasting time and resources.</ConstructFailChance.description>-->
+  <!--<FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>-->
+  <!--<FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>-->
 
 </LanguageData>

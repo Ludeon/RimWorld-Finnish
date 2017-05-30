@@ -1,14 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MercenaryGunner.label>pakkasoturi</MercenaryGunner.label>
-  <MercenarySniper.label>palkkatarkka-ampuja</MercenarySniper.label>
   <GrenadierDestructive.label>pommimies</GrenadierDestructive.label>
+  <GrenadierDestructive.labelPlural>grenadiers</GrenadierDestructive.labelPlural>
+
   <GrenadierEMP.label>EMP pommittaja</GrenadierEMP.label>
+  <GrenadierEMP.labelPlural>EMP grenadiers</GrenadierEMP.labelPlural>
+
+  <MercenaryGunner.label>pakkasoturi</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>mercenary gunners</MercenaryGunner.labelPlural>
+
+  <MercenarySniper.label>palkkatarkka-ampuja</MercenarySniper.label>
+  <MercenarySniper.labelPlural>mercenary snipers</MercenarySniper.labelPlural>
+
   <MercenarySlasher.label>palkattu viiltelijä</MercenarySlasher.label>
+  <MercenarySlasher.labelPlural>mercenary slashers</MercenarySlasher.labelPlural>
+
   <MercenaryHeavy.label>raskas palkkasoturi</MercenaryHeavy.label>
+  <MercenaryHeavy.labelPlural>heavy mercenaries</MercenaryHeavy.labelPlural>
+
   <PirateBoss.label>pomo</PirateBoss.label>
+  <PirateBoss.labelPlural>bosses</PirateBoss.labelPlural>
+
   <MercenaryElite.label>eliitti palkkasoturi</MercenaryElite.label>
+  <MercenaryElite.labelPlural>elite mercenaries</MercenaryElite.labelPlural>
 
 
 </LanguageData>

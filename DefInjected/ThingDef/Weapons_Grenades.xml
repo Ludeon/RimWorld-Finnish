@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Frag grenade -->
 
   <Weapon_GrenadeFrag.label>sirpalekranaatteja</Weapon_GrenadeFrag.label>
   <Weapon_GrenadeFrag.description>Vanhanaikaisia sirpalekranaatteja.</Weapon_GrenadeFrag.description>
@@ -10,7 +10,7 @@
   <Proj_GrenadeFrag.label>sirpalekranaatti</Proj_GrenadeFrag.label>
 
 
-  
+  <!-- Molotov cocktail -->
 
   <Weapon_GrenadeMolotov.label>Molotovin koktaileja</Weapon_GrenadeMolotov.label>
   <Weapon_GrenadeMolotov.description>Palavalla nesteellä täytettyjä lasipulloja ja palava kangas pullonkaulassa. Huligaanien ja epätoivoisten taistelijoiden lempiase.</Weapon_GrenadeMolotov.description>
@@ -19,7 +19,7 @@
   <Proj_GrenadeMolotov.label>Molotovin koktaili</Proj_GrenadeMolotov.label>
 
 
-  
+  <!-- EMP grenade -->
 
   <Weapon_GrenadeEMP.label>EMP-kranaatteja</Weapon_GrenadeEMP.label>
   <Weapon_GrenadeEMP.description>Sähkömagneettipulssikranaatteja, jotka vahingoittavat sähkölaitteita.</Weapon_GrenadeEMP.description>

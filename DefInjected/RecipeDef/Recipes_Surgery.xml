@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- removing body parts -->
 
   <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
   <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>
@@ -12,7 +12,14 @@
   <RemoveMechanoidBodyPart.jobString>Poistaa ruumiinosaa.</RemoveMechanoidBodyPart.jobString>
 
 
-  
+  <!-- Anesthetize -->
+
+  <Anesthetize.label>anesthetize</Anesthetize.label>
+  <Anesthetize.description>Makes a creature unconscious by administering an anesthetic.</Anesthetize.description>
+  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+
+
+  <!-- Euthanasia -->
 
   <Euthanize.label>armomurhaa</Euthanize.label>
   <Euthanize.description>Suorittaa eutanasian.</Euthanize.description>
@@ -23,7 +30,7 @@
   <ShutDownMechanoid.jobString>Sammuttaa mekanoidia.</ShutDownMechanoid.jobString>
 
 
-  
+  <!-- removing hediffs (e.g. diseases) -->
 
   <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
   <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>

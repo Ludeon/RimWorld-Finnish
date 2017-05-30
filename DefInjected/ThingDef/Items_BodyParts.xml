@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- natural -->
 
   <Heart.label>sydän</Heart.label>
   <Heart.description>Toimittaa verta ja happea kaikkiin kehon osiin. Valmis löytämään uuden omistajan.</Heart.description>
@@ -16,7 +16,7 @@
   <Liver.description>Olennainen osa aineenvaihdunnassa.</Liver.description>
 
 
-  
+  <!-- artificial - simple prosthetics -->
 
   <SimpleProstheticLeg.label>yksinkertainen tekojalka</SimpleProstheticLeg.label>
   <SimpleProstheticLeg.description>Yksinkertainen proteesi puuttuvan jalan korvaamiseen.</SimpleProstheticLeg.description>
@@ -25,7 +25,7 @@
   <SimpleProstheticArm.description>Yksinkertainen mutta kestävä käsivarsiproteesi.</SimpleProstheticArm.description>
 
 
-  
+  <!-- artificial - bionics -->
 
   <BionicEye.label>bioninen silmä</BionicEye.label>
   <BionicEye.description>Kehittynyt laite joka ei vain korvaa luonnollisen silmän mutta antaa myös yli-inhimilliset näönlahjat.</BionicEye.description>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Hare.label>jänis</Hare.label>
@@ -16,7 +16,7 @@
   <Snowhare_Leather.label>lumijäniksen nahkaa</Snowhare_Leather.label>
   <Snowhare_Leather.description>Lumijäniksen vuodasta tehtyä nahkaa.</Snowhare_Leather.description>
   <Snowhare_Leather.stuffProps.stuffAdjective>lumijäniksennahkainen</Snowhare_Leather.stuffProps.stuffAdjective>
-  
+  <!-- Use Meat From: Hare -->
   <Snowhare_Corpse.label>lumijäniksen ruumis</Snowhare_Corpse.label>
   <Snowhare_Corpse.description>Kuolleen lumijäniksen ruumis.</Snowhare_Corpse.description>
 

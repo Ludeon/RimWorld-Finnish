@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Spacer.label>avaruusmatkaajia</Spacer.label>
   <Spacer.description>Ihmisiä avaruuden syvyyksistä.</Spacer.description>
-  <Spacer.pawnsPlural>avaruusmatkaajia</Spacer.pawnsPlural>
   <Spacer.fixedName>Avaruusmatkaajia</Spacer.fixedName>
+  <Spacer.pawnsPlural>avaruusmatkaajia</Spacer.pawnsPlural>
 
   <SpacerHostile.label>avaruusmatkaajia</SpacerHostile.label>
   <SpacerHostile.description>Ihmisiä avaruuden syvyyksistä.</SpacerHostile.description>
-  <SpacerHostile.pawnsPlural>avaruusmatkaajia</SpacerHostile.pawnsPlural>
   <SpacerHostile.fixedName>Avaruusmatkaajia</SpacerHostile.fixedName>
+  <SpacerHostile.pawnsPlural>avaruusmatkaajia</SpacerHostile.pawnsPlural>
 
   <Mechanoid.label>mekanoidipesä</Mechanoid.label>
   <Mechanoid.description>Muinaisten itsejäljentävien koneiden pesä.</Mechanoid.description>
-  <Mechanoid.pawnsPlural>mekanoideja</Mechanoid.pawnsPlural>
   <Mechanoid.fixedName>mekanoidipesä</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>mekanoideja</Mechanoid.pawnsPlural>
 
   <Insect.label>hyönteisiä</Insect.label>
   <Insect.description>Yleensä aggressiivisia ja tunkeilevia hyönteisiä.</Insect.description>
-  <Insect.pawnsPlural>hyönteisiä</Insect.pawnsPlural>
   <Insect.fixedName>hyönteisiä</Insect.fixedName>
+  <Insect.pawnsPlural>hyönteisiä</Insect.pawnsPlural>
 
 
 </LanguageData>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- affecting opinion -->
 
   <Affair.stages.0.label>affair</Affair.stages.0.label>
   <Incestuous.stages.0.label>incestuous</Incestuous.stages.0.label>
@@ -31,7 +31,7 @@
   <KilledMajorColonyEnemy.stages.0.label>killed major enemy</KilledMajorColonyEnemy.stages.0.label>
 
 
-  
+  <!-- affecting mood -->
 
   <OpinionOfMyLover.stages.0.label>opinion of my {0} {1}</OpinionOfMyLover.stages.0.label>
   <OpinionOfMyLover.stages.0.description>Being with my lover makes me feel this way.</OpinionOfMyLover.stages.0.description>

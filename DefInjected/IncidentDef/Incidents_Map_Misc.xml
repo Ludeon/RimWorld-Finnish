@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Good -->
+
+  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
+  <PsychicSoothe.label>psyykkinen rauhoitus</PsychicSoothe.label>
+  <SelfTame.label>self-tame</SelfTame.label>
+
+  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+
+  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>wanderer join</WandererJoin.label>
+  <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
+
+
+  <!-- Neutral -->
+
+  <RefugeeChased.label>chased refugee</RefugeeChased.label>
+  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+
+  <RansomDemand.label>ransom demand</RansomDemand.label>
+  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
+
+  <CaravanRequest.label>caravan request</CaravanRequest.label>
+
+
+  <!-- Bad -->
+
+  <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
+
+  <ToxicFallout.label>myrkkylaskeuma</ToxicFallout.label>
+  <ToxicFallout.letterText>Etäinen kemikaalipalo on vapauttanut myrkkypilven koko alueen ylle.\n\nKaikki henkilöt ja olennot, jotka eivät ole katon alla, sairastuvat hitaasti ilmakehästä laskeutuvasta myrkyllisestä pölystä.\n\nSe voi kestää parista päivästä yli kuukauteen asti.</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>Myrkkylaskeuma</ToxicFallout.letterLabel>
+
+  <VolcanicWinter.label>vulkaaninen talvi</VolcanicWinter.label>
+  <VolcanicWinter.letterText>Etäinen supertulivuori on purkautunut ja alkanut syöksemään miljoonia kuutiokilometrejä tuhkaa ilmakehään.\n\nIlmakehässä oleva tuhka peittää auringon. Lämpötilat laskevat ja kasvit kärsivät auringonvalon puutteesta. Se voi mennä ohi parissa viikossa tai kestää monta kuukautta.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>Vulkaaninen talvi</VolcanicWinter.letterLabel>
+
+  <HeatWave.label>lämpöaalto</HeatWave.label>
+  <HeatWave.letterText>Epätavallinen lämpöaalto on alkanut. Varo lämpöhalvausta.</HeatWave.letterText>
+  <HeatWave.letterLabel>Lämpöaalto</HeatWave.letterLabel>
+
+  <ColdSnap.label>pakkaskausi</ColdSnap.label>
+  <ColdSnap.letterText>Epätavallinen pakkaskausi on asettunut tänne. Varo hypotermiaa ja kuolevia viljelmiä.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Pakkaskausi</ColdSnap.letterLabel>
+
+  <Flashstorm.label>ukkosmyrsky</Flashstorm.label>
+  <Flashstorm.letterText>Äärimmäisen moni salamanisku on iskemässä pinelle alueelle. Tämä voi aiheuttaa valtavia tulia.</Flashstorm.letterText>
+  <Flashstorm.letterLabel>Ukkosmyrsky</Flashstorm.letterLabel>
+
+  <ShortCircuit.label>short circuit</ShortCircuit.label>
+  <CropBlight.label>crop blight</CropBlight.label>
+  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+
+
+</LanguageData>

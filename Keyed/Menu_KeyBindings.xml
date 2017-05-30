@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SaveButton>Tallenna</SaveButton>
-  
+  <!--<CancelButton>Cancel</CancelButton>-->
   <ClearBinding>Poista</ClearBinding>
   <ResetBinding>Palauta oletukseen</ResetBinding>
   <BindingButtonToolTip>Paina hiiren vasenta nappia asettaaksesi tämän näppäimen tai oikeaa nappia saadaksesi valinnat</BindingButtonToolTip>

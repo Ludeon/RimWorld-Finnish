@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Consciousness.label>tietoisuus</Consciousness.label>
   <Consciousness.labelMechanoids>Tiedonkäsittely</Consciousness.labelMechanoids>
 
-  <Sight.label>näkö</Sight.label>
-  <Hearing.label>kuulo</Hearing.label>
   <Moving.label>liikkuminen</Moving.label>
   <Manipulation.label>käsittely</Manipulation.label>
 
@@ -13,6 +11,8 @@
   <Talking.labelMechanoids>Viestintä</Talking.labelMechanoids>
 
   <Eating.label>syöminen</Eating.label>
+  <Sight.label>näkö</Sight.label>
+  <Hearing.label>kuulo</Hearing.label>
   <Breathing.label>hengittäminen</Breathing.label>
   <BloodFiltration.label>veren suodatus</BloodFiltration.label>
   <BloodPumping.label>veren pumppaus</BloodPumping.label>

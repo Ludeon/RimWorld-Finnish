@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <YayoHigh.label>high on yayo</YayoHigh.label>
 
 
-  
+  <!-- Psychite addiction -->
 
   <PsychiteTolerance.label>psychite tolerance</PsychiteTolerance.label>
   <PsychiteTolerance.stages.1.label>small</PsychiteTolerance.stages.1.label>

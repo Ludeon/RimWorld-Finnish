@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Mechanoid_Centipede.label>tuhatjalkainen</Mechanoid_Centipede.label>
   <Mechanoid_Centipede.description>Raskaita taistelumekanoideja jotka lipuvat tuhansien pienten jalkojen päällä. Niiden raskas panssari ja tulivoima tekevät niistä hyvin tehokkaita summppuuntuneita puolustuksia vastaan. Ne ovat jokseenkin alttiita liikkuville yllätyshyökkäyksille.</Mechanoid_Centipede.description>
-  
+  <!-- Flesh Type: Mechanoid -->
   <Mechanoid_Centipede_Corpse.label>tuhatjalkaisen ruumis</Mechanoid_Centipede_Corpse.label>
   <Mechanoid_Centipede_Corpse.description>Kuolleen tuhatjalkaisen ruumis.</Mechanoid_Centipede_Corpse.description>
 
 
-  
+  <!-- Scyther -->
 
   <Mechanoid_Scyther.label>viikatemies</Mechanoid_Scyther.label>
   <Mechanoid_Scyther.description>Nopeita, solakkia ja ihmisen kokoisia taistelumekanoideja. Niillä on yleensä yksi ampuma-ase ja niiden ruumita koristavat veitsimäiset ulokkeet jotka tekevät niistä kuollettavia lähitaistelussa. Ne eivät käytä suojaa. Parhaiten hoidettuja keskittyneellä musertavalla voimalla.</Mechanoid_Scyther.description>
-  
+  <!-- Flesh Type: Mechanoid -->
   <Mechanoid_Scyther_Corpse.label>viikatemiehen ruumis</Mechanoid_Scyther_Corpse.label>
   <Mechanoid_Scyther_Corpse.description>Kuolleen viikatemiehen ruumis.</Mechanoid_Scyther_Corpse.description>
 

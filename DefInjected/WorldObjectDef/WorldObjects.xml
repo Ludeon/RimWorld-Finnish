@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Caravan.label>caravan</Caravan.label>
@@ -21,6 +21,9 @@
 
   <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
   <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
+
+  <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
 
 
 </LanguageData>

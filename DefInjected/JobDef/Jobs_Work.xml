@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Item hauling -->
 
   <HaulToCell.reportString>Siirtää esineen TargetA maahan.</HaulToCell.reportString>
   <HaulToContainer.reportString>Siirtää esinettä TargetA.</HaulToContainer.reportString>
 
 
-  
+  <!-- Special hauling -->
 
   <Steal.reportString>stealing TargetA.</Steal.reportString>
   <Kidnap.reportString>Kidnappaa henkilön TargetA.</Kidnap.reportString>
   <CarryDownedPawnToExit.reportString>carrying TargetA.</CarryDownedPawnToExit.reportString>
 
 
-  
+  <!-- Pawn hauling -->
 
   <Rescue.reportString>Pelastaa henkilön TargetA.</Rescue.reportString>
   <CarryToCryptosleepCasket.reportString>Kantaa henkilöä TargetA salauniarkkuun.</CarryToCryptosleepCasket.reportString>
@@ -26,7 +26,7 @@
   <TakeToBedToOperate.reportString>Vie henkilöä TargetA sänkyyn.</TakeToBedToOperate.reportString>
 
 
-  
+  <!-- Animal handling -->
 
   <Slaughter.reportString>Tappaa kohdetta TargetA.</Slaughter.reportString>
   <Milk.reportString>Lypsää kohteen TargetA.</Milk.reportString>
@@ -35,7 +35,7 @@
   <Train.reportString>Kouluttaa kohdetta TargetA.</Train.reportString>
 
 
-  
+  <!-- Construction and repair -->
 
   <PlaceNoCostFrame.reportString>Rakentaa kohteen TargetA.</PlaceNoCostFrame.reportString>
   <FinishFrame.reportString>Rakentaa kohteen TargetA.</FinishFrame.reportString>
@@ -47,13 +47,13 @@
   <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
 
 
-  
+  <!-- Medical -->
 
   <FeedPatient.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</FeedPatient.reportString>
   <TendPatient.reportString>Hoitaa henkilön TargetA.</TendPatient.reportString>
 
 
-  
+  <!-- Misc -->
 
   <DeliverFood.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</DeliverFood.reportString>
   <DoBill.reportString>Täyttää tilauksen kohteessa TargetA.</DoBill.reportString>

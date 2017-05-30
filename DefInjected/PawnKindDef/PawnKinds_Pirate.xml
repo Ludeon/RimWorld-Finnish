@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Drifter.label>kulkuri</Drifter.label>
+  <Drifter.labelPlural>drifters</Drifter.labelPlural>
+
   <Scavenger.label>kerääjä</Scavenger.label>
+  <Scavenger.labelPlural>scavengers</Scavenger.labelPlural>
+
   <Thrasher.label>sotkija</Thrasher.label>
+  <Thrasher.labelPlural>thrashers</Thrasher.labelPlural>
+
   <Pirate.label>rosvo</Pirate.label>
+  <Pirate.labelPlural>pirates</Pirate.labelPlural>
 
 
 </LanguageData>

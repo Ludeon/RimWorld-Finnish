@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <TraumaSavant.label>savantisti</TraumaSavant.label>
-  <ChemicalDamageBrain.label>chemical damage</ChemicalDamageBrain.label>
-  <ChemicalDamageKidney.label>chemical damage</ChemicalDamageKidney.label>
+  <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
+  <ChemicalDamageSevere.label>chemical damage</ChemicalDamageSevere.label>
   <Cirrhosis.label>Cirrhosis</Cirrhosis.label>
 
+
+  <!--<ChemicalDamageBrain.label>chemical damage</ChemicalDamageBrain.label>-->
+  <!--<ChemicalDamageKidney.label>chemical damage</ChemicalDamageKidney.label>-->
 
 </LanguageData>

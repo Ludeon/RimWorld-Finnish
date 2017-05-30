@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Imprisoned.stages.0.label>vangittu</Imprisoned.stages.0.label>
   <Imprisoned.stages.0.description>Vihaan lukkojen takana olemista.</Imprisoned.stages.0.description>
-
-  <SharedBedroom.stages.0.label>jaettu makuuhuone</SharedBedroom.stages.0.label>
-  <SharedBedroom.stages.0.description>Huoneen jakaminen muiden kanssa on ärsyttävää. Haluan edes hieman yksityisyyttä.</SharedBedroom.stages.0.description>
 
   <SharedBed.stages.0.label>sharing bed</SharedBed.stages.0.label>
   <SharedBed.stages.0.description>I have to share a bed with someone who I don't particularly want to.</SharedBed.stages.0.description>
@@ -25,5 +22,8 @@
   <Pain.stages.3.label>shokissa äärimmäisestä kivusta</Pain.stages.3.label>
   <Pain.stages.3.description>AAAAAUUU! Tapa minut nyt!</Pain.stages.3.description>
 
+
+  <!--<SharedBedroom.stages.0.label>jaettu makuuhuone</SharedBedroom.stages.0.label>-->
+  <!--<SharedBedroom.stages.0.description>Huoneen jakaminen muiden kanssa on ärsyttävää. Haluan edes hieman yksityisyyttä.</SharedBedroom.stages.0.description>-->
 
 </LanguageData>

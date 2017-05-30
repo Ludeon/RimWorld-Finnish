@@ -1,87 +1,112 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Bullet_Pistol.label>pistoolin luoti</Bullet_Pistol.label>
+
   <Gun_Pistol.label>pistooli</Gun_Pistol.label>
   <Gun_Pistol.description>Muinaisen kaavan mukainen automaattinen pistooli. Heikko ja lyhytkantoinen, mutta nopea.</Gun_Pistol.description>
 
 
-  
+  <!-- T-9 incendiary launcher -->
 
   <Bullet_IncendiaryLauncher.label>polttonuoli</Bullet_IncendiaryLauncher.label>
+
   <Gun_IncendiaryLauncher.label>polttonuolilaukaisin</Gun_IncendiaryLauncher.label>
   <Gun_IncendiaryLauncher.description>Ampuu polttonuolia. Sytyttää tulia.</Gun_IncendiaryLauncher.description>
 
   <Bullet_PumpShotgun.label>haulikon laukaus</Bullet_PumpShotgun.label>
+
   <Gun_PumpShotgun.label>pumppuhaulikko</Gun_PumpShotgun.label>
   <Gun_PumpShotgun.description>Muinainen malli. Kuollettava mutta lyhytkantoinen.</Gun_PumpShotgun.description>
 
-  <Bullet_SurvivalRifle.label>selviytymiskiväärin luoti</Bullet_SurvivalRifle.label>
-  <Gun_SurvivalRifle.label>selviytymiskivääri</Gun_SurvivalRifle.label>
-  <Gun_SurvivalRifle.description>Muinainen pulttilukkokivääri. Luultavasti haettu jostain kellarista. Hyvä kantama ja teho, mutta matala ampumisnopeus.</Gun_SurvivalRifle.description>
+  <Bullet_ChainShotgun.label>shotgun blast</Bullet_ChainShotgun.label>
+
+  <Gun_ChainShotgun.label>chain shotgun</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.description>A magazine-fed fully automatic shotgun. Short range and very low accuracy, but extraordinarily dangerous.</Gun_ChainShotgun.description>
+
+  <Bullet_BoltActionRifle.label>bolt-action rifle bullet</Bullet_BoltActionRifle.label>
+
+  <Gun_BoltActionRifle.label>bolt-action rifle</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.description>Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.</Gun_BoltActionRifle.description>
 
   <Bullet_MachinePistol.label>Machine pistol bullet</Bullet_MachinePistol.label>
+
   <Gun_MachinePistol.label>Machine pistol</Gun_MachinePistol.label>
   <Gun_MachinePistol.description>A micro-submachine gun. Short range, low power, high rate of fire. Very quick to aim and fire.</Gun_MachinePistol.description>
 
   <Bullet_HeavySMG.label>raskaan konepistoolin luoti</Bullet_HeavySMG.label>
+
   <Gun_HeavySMG.label>raskas konepistooli</Gun_HeavySMG.label>
   <Gun_HeavySMG.description>Pienikokoinen mutta suurikaliiberinen ase. Sillä on erittäin lyhyt kantama, mutta se aiheuttaa paljon vahinkoa ja on helppo käsitellä.</Gun_HeavySMG.description>
 
 
-  
+  <!-- LMG -->
 
   <Bullet_LMG.label>pikakiväärin luoti</Bullet_LMG.label>
+
   <Gun_LMG.label>kevyt konekivääri</Gun_LMG.label>
   <Gun_LMG.description>Kevyt konekivääri.</Gun_LMG.description>
 
   <Bullet_AssaultRifle.label>rynnäkkökiväärin luoti</Bullet_AssaultRifle.label>
+
   <Gun_AssaultRifle.label>rynnäkkökivääri</Gun_AssaultRifle.label>
   <Gun_AssaultRifle.description>Muinaisen kaavan mukainen armeijan ase. Kolmen luodin pursketoiminto. Hyvä kantama, alhainen teho ja korkea ampumisnopeus.</Gun_AssaultRifle.description>
 
 
-  
+  <!-- Charge rifle -->
 
   <Bullet_ChargeRifle.label>varauslaukaus</Bullet_ChargeRifle.label>
+
   <Gun_ChargeRifle.label>varauskivääri</Gun_ChargeRifle.label>
   <Gun_ChargeRifle.description>Ampuu varattuja energialaukauksia.</Gun_ChargeRifle.description>
 
   <Bullet_SniperRifle.label>tarkka-ampuja-aseen luoti</Bullet_SniperRifle.label>
+
   <Gun_SniperRifle.label>tarkka-ampuja-ase</Gun_SniperRifle.label>
   <Gun_SniperRifle.description>Muinaisen kaavan mukainen armeijan tarkka-ampuja-ase. Pulttilukko. Pitkä kantama, mahtava tarkkuus ja teho.</Gun_SniperRifle.description>
 
 
-  
+  <!-- Minigun -->
 
   <Bullet_Minigun.label>minigunin luoti</Bullet_Minigun.label>
+
   <Gun_Minigun.label>minigun</Gun_Minigun.label>
   <Gun_Minigun.description>Monipiippuinen konekivääri äärimmäisen nopealla ampumnisnopeudella. Mekanoidien rakentama.</Gun_Minigun.description>
 
 
-  
+  <!-- Non-producible -->
 
   <Bullet_Rocket.label>raketti</Bullet_Rocket.label>
+
   <Gun_TripleRocket.label>kolminkertainen raketinheitin</Gun_TripleRocket.label>
   <Gun_TripleRocket.description>Kertakäyttöinen raketinheitin joka ampuu 3 rakettia lyhyessä ajassa.</Gun_TripleRocket.description>
 
   <Bullet_DoomsdayRocket.label>tuomionpäiväraketti</Bullet_DoomsdayRocket.label>
+
   <Gun_DoomsdayRocket.label>tuomiopäiväraketinheitin</Gun_DoomsdayRocket.label>
   <Gun_DoomsdayRocket.description>Kertakäyttöinen raketinheitin helppoa kostoa varten.</Gun_DoomsdayRocket.description>
 
 
-  
+  <!-- Mechanoid weapons -->
 
   <Bullet_ChargeLance.label>varattu harppuunalaukaus</Bullet_ChargeLance.label>
+
   <Gun_ChargeLance.label>varausharppuuna</Gun_ChargeLance.label>
   <Gun_ChargeLance.description>Ampuu varattuja harppuunoita raiteilta. Ampuu yhden ammuksen kerrallaan suurella lähtönopeudella. Mekanoidien rakentama.</Gun_ChargeLance.description>
 
   <Bullet_InfernoCannon.label>liekkimeritykin ammus</Bullet_InfernoCannon.label>
+
   <Gun_InfernoCannon.label>liekkimeritykki</Gun_InfernoCannon.label>
   <Gun_InfernoCannon.description>Kannettava tykki joka ampuu palopommeja. Mekanoidien rakentama.</Gun_InfernoCannon.description>
 
   <Bullet_ChargeBlasterHeavy.label>raskaan laseraseen laukaus</Bullet_ChargeBlasterHeavy.label>
+
   <Gun_ChargeBlasterHeavy.label>raskas laserase</Gun_ChargeBlasterHeavy.label>
   <Gun_ChargeBlasterHeavy.description>Ampuu varattuja energialaukauksia vihollisten tukahduttamiseksi laajalla alalla. Mekanoidien rakentama.</Gun_ChargeBlasterHeavy.description>
 
+
+  <!--<Bullet_SurvivalRifle.label>selviytymiskiväärin luoti</Bullet_SurvivalRifle.label>-->
+  <!--<Gun_SurvivalRifle.label>selviytymiskivääri</Gun_SurvivalRifle.label>-->
+  <!--<Gun_SurvivalRifle.description>Muinainen pulttilukkokivääri. Luultavasti haettu jostain kellarista. Hyvä kantama ja teho, mutta matala ampumisnopeus.</Gun_SurvivalRifle.description>-->
 
 </LanguageData>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Wild - clustering bushes (some harvestable) -->
 
   <PlantRaspberry.label>vadelmapensas</PlantRaspberry.label>
   <PlantRaspberry.description>Tuuhea pensas, joka tuottaa herkullisia punaisia marjoja.</PlantRaspberry.description>
@@ -9,8 +9,11 @@
   <PlantBush.label>pensas</PlantBush.label>
   <PlantBush.description>Lyhyt varpu.</PlantBush.description>
 
+  <PlantWildHealroot.label>wild healroot</PlantWildHealroot.label>
+  <PlantWildHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is difficult to cultivate. It is prized by tribespeople in colder climates.</PlantWildHealroot.description>
 
-  
+
+  <!-- Wild plants - carpets -->
 
   <PlantGrass.label>ruohoa</PlantGrass.label>
   <PlantGrass.description>Villiä ruohoa. Kasvaa kaikkialla missä on valoa ja hädin tuskin hedelmällistä maata.</PlantGrass.description>
@@ -25,7 +28,7 @@
   <PlantMoss.description>Villiä sammalta, jota kasvaa röykkiöissä pimeillä ja kosteilla alueilla. Erittäin sitkeää ja kylmää kestävää.</PlantMoss.description>
 
 
-  
+  <!-- Wild - Trees -->
 
   <PlantTreeOak.label>tammi</PlantTreeOak.label>
   <PlantTreeOak.description>Vahva kovapuu. Hitaasti kasvava, mutta sen puu on hyvin lujaa.</PlantTreeOak.description>

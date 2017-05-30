@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- ITab titles -->
   <TabBills>Tilaukset</TabBills>
   <TabGrowing>Kasvatus</TabGrowing>
   <TabCharacter>Henkilö</TabCharacter>
@@ -20,7 +20,7 @@
   <TabSocial>Social</TabSocial>
 
 
-  
+  <!-- Bills tab  -->
   <AddBill>Lisää tilaus</AddBill>
   <RecipeRequiresSkills>Resepti {0} tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
   <MinimumSkill>Minimi taitotaso</MinimumSkill>
@@ -29,7 +29,7 @@
   <PlantVerb>Istuta</PlantVerb>
 
 
-  
+  <!-- Guest/prisoner tab -->
   <RecruitmentDifficulty>Värväyksen vaikeus</RecruitmentDifficulty>
   <GetsFood>Saa ruokaa</GetsFood>
   <DoctorsCare>Lääkärit huolehtivat</DoctorsCare>
@@ -43,9 +43,11 @@
   <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
 
 
-  
+  <!-- Medical - general -->
   <MoveSpeed>Liikkumisnopeus</MoveSpeed>
   <Efficiency>Tehokkuus</Efficiency>
+  <PartEfficiency>Part efficiency</PartEfficiency>
+  <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
   <MissingBodyPart>Poissa</MissingBodyPart>
   <DestroyedBodyPart>Tuhoutunut</DestroyedBodyPart>
   <ShatteredBodyPart>Pirstoutunut</ShatteredBodyPart>
@@ -75,9 +77,11 @@
   <Tiredness>Tiredness</Tiredness>
   <PainFactor>Pain</PainFactor>
   <PreventsInfection>Prevents infection</PreventsInfection>
+  <SelfTend>Self-tend</SelfTend>
+  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
 
 
-  
+  <!-- Medical - Body and activities condition -->
   <None>Ei ollenkaan</None>
   <VeryPoor>Erittäin heikko</VeryPoor>
   <Poor>Heikko</Poor>
@@ -94,16 +98,17 @@
   <ExtremePain>Järjetön</ExtremePain>
 
 
-  
+  <!-- Training tab-->
   <TrainableIntelligence>Älykkyys kouluttamisessa</TrainableIntelligence>
   <CannotTrainNotSmartEnough>Tarvitsee kouluttamiseen älykkyyden {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Tarvittava koulutus: {0}</TrainingNeedsPrerequisite>
 
-  
+  <!-- Social tab -->
   <NoRelationships>(no relationships)</NoRelationships>
   <Kidnapped>Kidnapped</Kidnapped>
+  <Missing>Missing</Missing>
   <Slave>Slave</Slave>
   <FactionLeader>Faction leader</FactionLeader>
   <OpinionOf>Opinion of {0}</OpinionOf>
@@ -111,7 +116,7 @@
   <IAmDead>I'm dead</IAmDead>
   <IAmPsychopath>I'm a psychopath</IAmPsychopath>
 
-  
+  <!-- Gear tab -->
   <AverageArmor>Average armor</AverageArmor>
   <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>

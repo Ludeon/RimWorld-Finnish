@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <CookMealSimple.label>kokkaa yksinkertainen ateria</CookMealSimple.label>
@@ -16,6 +16,10 @@
   <CookMealLavish.label>kokkaa yltäkylläinen ateria</CookMealLavish.label>
   <CookMealLavish.description>Kokkaa hyvin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia. Käyttää ainesosia säästelemättä.</CookMealLavish.description>
   <CookMealLavish.jobString>Kokkaa yltäkylläistä ateriaa.</CookMealLavish.jobString>
+
+  <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
+  <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
 
 
 </LanguageData>

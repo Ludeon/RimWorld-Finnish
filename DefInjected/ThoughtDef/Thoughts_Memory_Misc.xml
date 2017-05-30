@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <AteWithoutTable.stages.0.label>söi maasta </AteWithoutTable.stages.0.label>
@@ -53,7 +53,7 @@
   <KnowBuriedInSarcophagus.stages.0.description>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</KnowBuriedInSarcophagus.stages.0.description>
 
 
-  
+  <!-- Human corpse butchering -->
 
   <ButcheredHumanlikeCorpse.stages.0.label>teurasti ihmisen</ButcheredHumanlikeCorpse.stages.0.label>
   <ButcheredHumanlikeCorpse.stages.0.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanlikeCorpse.stages.0.description>
@@ -62,7 +62,7 @@
   <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
 
 
-  
+  <!-- Combat -->
 
   <ObservedLayingCorpse.stages.0.label>havaitsi ruumiin</ObservedLayingCorpse.stages.0.label>
   <ObservedLayingCorpse.stages.0.description>Näin kuolleen ihmisen makaavan maassa.</ObservedLayingCorpse.stages.0.description>
@@ -92,7 +92,7 @@
   <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
 
 
-  
+  <!-- Abandoning pawns -->
 
   <ColonistAbandoned.stages.0.label>colonist abandoned</ColonistAbandoned.stages.0.label>
   <ColonistAbandoned.stages.0.description>We just left someone behind. I hope they'll make it, but I'm worried.</ColonistAbandoned.stages.0.description>

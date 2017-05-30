@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Euthanasia.label>eutanasia</Euthanasia.label>
   <ShutDown.label>sammuta</ShutDown.label>
 
+
+  <!--<Euthanasia.label>eutanasia</Euthanasia.label>-->
 
 </LanguageData>

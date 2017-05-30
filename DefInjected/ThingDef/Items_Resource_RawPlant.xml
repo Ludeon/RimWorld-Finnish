@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <RawPotatoes.label>perunoita</RawPotatoes.label>
@@ -17,7 +17,7 @@
   <RawBerries.description>Sekalaisia marjoja. Mukavia syödä myös raakana.</RawBerries.description>
 
 
-  
+  <!-- Plant matter (inedible by people) -->
 
   <Hay.label>heinää</Hay.label>
   <Hay.description>Ravinnerikkaita ruohoja ja versoja kerättynä ja pakkautettuna varastointia varten. Heinä on hyvää eläimen rehua, mutta syömäkelvotonta ihmisille.</Hay.description>

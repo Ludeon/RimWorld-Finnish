@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Deer.label>peura</Deer.label>
@@ -43,8 +43,8 @@
 
   <WildBoar.label>villisika</WildBoar.label>
   <WildBoar.description>Vaikka jotkin kulttuurit pitävät sitä epäpuhtaana, tätä kesytetyn sian karvaista esi-isää pidetään arvossa sen lihan maun takia.</WildBoar.description>
-  
-  
+  <!-- Use Leather From: Pig -->
+  <!-- Use Meat From: Pig -->
   <WildBoar_Corpse.label>villisian ruumis</WildBoar_Corpse.label>
   <WildBoar_Corpse.description>Kuolleen villisian ruumis.</WildBoar_Corpse.description>
 

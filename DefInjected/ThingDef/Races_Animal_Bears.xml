@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <GrizzlyBear.label>harmaakarhu</GrizzlyBear.label>
@@ -16,7 +16,7 @@
   <PolarBear_Leather.label>jääkarhun nahkaa</PolarBear_Leather.label>
   <PolarBear_Leather.description>Jääkarhun vuodasta tehtyä nahkaa.</PolarBear_Leather.description>
   <PolarBear_Leather.stuffProps.stuffAdjective>jääkarhunnahkainen</PolarBear_Leather.stuffProps.stuffAdjective>
-  
+  <!-- Use Meat From: GrizzlyBear -->
   <PolarBear_Corpse.label>jääkarhun ruumis</PolarBear_Corpse.label>
   <PolarBear_Corpse.description>Kuolleen jääkarhun ruumis.</PolarBear_Corpse.description>
 

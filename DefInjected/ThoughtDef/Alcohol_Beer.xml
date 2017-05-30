@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Inebriated.stages.0.label>buzzed-hidden</Inebriated.stages.0.label>
@@ -21,7 +21,7 @@
   <Hungover.stages.3.label>hungover-hidden</Hungover.stages.3.label>
 
 
-  
+  <!-- Alcohol addiction -->
 
   <AlcoholWithdrawal.stages.1.label>alcohol withdrawal</AlcoholWithdrawal.stages.1.label>
   <AlcoholWithdrawal.stages.1.description>Feeling shaky. Everything pisses me off. I keep thinking of drinking.</AlcoholWithdrawal.stages.1.description>

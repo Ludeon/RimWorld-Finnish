@@ -1,17 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</MedicalTendSpeed.description>
+
+  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Quality of tending given to patients when acting as a doctor.</MedicalTendQuality.description>
 
   <MedicalOperationSpeed.label>operointinopeus</MedicalOperationSpeed.label>
   <MedicalOperationSpeed.description>Nopeus, jolla henkilö tekee lääkintäoperaatioita.</MedicalOperationSpeed.description>
 
-  <SurgerySuccessChance.label>kirurgian onnistumisen todennäköisyys</SurgerySuccessChance.label>
-  <SurgerySuccessChance.description>Todennäköisyys että hahmo onnistuu kirurgiassa. Epäonnistumiset saattavat johtaa ajan ja lääketarpeiden hukkaamiseen tai jopa potilaaseen kohdistuvaan katastrofaaliseen vahinkoon.</SurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient. This base success chance is also affected by the facilities and medicine used in the operation, and the difficulty of the operation.</MedicalSurgerySuccessChance.description>
 
-  <HealingQuality.label>healing quality</HealingQuality.label>
-  <HealingQuality.description>Quality of tending given to patients when acting as a doctor.</HealingQuality.description>
 
-  <HealingSpeed.label>parantamisnopeus</HealingSpeed.label>
-  <HealingSpeed.description>Nopeus jolla tämä henkilö parantaa vammoja lääkärinä.</HealingSpeed.description>
-
+  <!--<SurgerySuccessChance.label>kirurgian onnistumisen todennäköisyys</SurgerySuccessChance.label>-->
+  <!--<SurgerySuccessChance.description>Todennäköisyys että hahmo onnistuu kirurgiassa. Epäonnistumiset saattavat johtaa ajan ja lääketarpeiden hukkaamiseen tai jopa potilaaseen kohdistuvaan katastrofaaliseen vahinkoon.</SurgerySuccessChance.description>-->
+  <!--<HealingQuality.label>healing quality</HealingQuality.label>-->
+  <!--<HealingQuality.description>Quality of tending given to patients when acting as a doctor.</HealingQuality.description>-->
+  <!--<HealingSpeed.label>parantamisnopeus</HealingSpeed.label>-->
+  <!--<HealingSpeed.description>Nopeus jolla tämä henkilö parantaa vammoja lääkärinä.</HealingSpeed.description>-->
 
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <LetterDay>vrk</LetterDay>
@@ -14,23 +14,31 @@
   <SeasonFall>syksy</SeasonFall>
   <SeasonWinter>talvi</SeasonWinter>
 
+  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumJugust>Jugust</QuadrumJugust>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <QuadrumDecembary>Decembary</QuadrumDecembary>
+
   <Born>Syntynyt: {0}</Born>
   <AgeChronological>Kronologinen ikä: {0} vuotta, {1} kautta, {2} päivää</AgeChronological>
   <AgeBiological>Biologinen ikä: {0} vuotta, {1} kautta, {2} päivää</AgeBiological>
 
-  
+  <!-- Date periods -->
   <Period1Year>1 vuosi</Period1Year>
   <PeriodYears>{0} vuotta</PeriodYears>
-  <Period1Season>1 kausi</Period1Season>
-  <PeriodSeasons>{0} kautta</PeriodSeasons>
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
+  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
   <Period1Day>1 päivä</Period1Day>
   <PeriodDays>{0} päivää</PeriodDays>
   <Period1Hour>1 tunti</Period1Hour>
   <PeriodHours>{0} tuntia</PeriodHours>
 
-  
+  <!-- Misc -->
   <Started>Alkoi</Started>
   <Lasted>Kesti</Lasted>
   <OccurredTimeAgo>tapahtui {0} sitten</OccurredTimeAgo>
+
+  <!--<Period1Season>1 kausi</Period1Season>-->
+  <!--<PeriodSeasons>{0} kautta</PeriodSeasons>-->
 
 </LanguageData>

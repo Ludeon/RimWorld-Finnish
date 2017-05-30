@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Tier 3: Hi-tech research bench -->
 
   <Firefoam.label>palovaahto</Firefoam.label>
   <Firefoam.description>Mahdollistaa palovaahtopaukkujen rakentamisen; paloturvallisuusesineiden, jotka levittävät tulta estävää vaahtoa eteneviä liekkejä vastaan.</Firefoam.description>
@@ -23,6 +23,9 @@
 
   <MultiAnalyzer.label>monianalysaattori</MultiAnalyzer.label>
   <MultiAnalyzer.description>Kasvattaa tutkimisnopeutta. Täytyy rakentaa lähelle tutkimuspöytää. Yksi tutkimuspöytä voi olla yhdistettynä vain yhteen monianalysaattoriin.</MultiAnalyzer.description>
+
+  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Allows the construction of long-range mineral scanners which automatically detect precious minerals like gold or jade in the nearby areas (but not in which the scanners were built).\n\nThe lumps are found on average once per 30 days within a radius of 30 tiles.\n\nBuilding more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
 
 
 </LanguageData>

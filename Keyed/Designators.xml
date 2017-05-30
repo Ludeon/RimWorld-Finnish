@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <DesignatorCancel>Peruuta</DesignatorCancel>
@@ -95,7 +95,7 @@
   <DesignatorTameDesc>Kesytä villi eläin.</DesignatorTameDesc>
 
 
-  
+  <!-- Failure messages -->
   <UnchosenStuff>Materiaalia ei valittu</UnchosenStuff>
   <TooCloseToMapEdge>Liian lähellä kartan reunaa.</TooCloseToMapEdge>
   <OutOfBounds>Rajojen ulkopuolella.</OutOfBounds>
@@ -110,15 +110,16 @@
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Space being smoothed.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Täytyy osoittaa poistettava lattia.</TerrainMustBeRemovable>
 
 
-  
+  <!-- Mouse attachments -->
   <ExpandOrCreateZone>Laajenna aluetta {0} tai\nLuo uusi {1}</ExpandOrCreateZone>
   <CreateNewZone>Luo uusi {0}</CreateNewZone>
 
 
-  
+  <!-- Desc helpers -->
   <TransmitsPower>Lähettää virtaa</TransmitsPower>
 
 

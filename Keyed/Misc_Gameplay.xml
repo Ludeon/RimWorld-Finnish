@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Various -->
+  <HitPointsBasic>hit points</HitPointsBasic>
   <WorkLeft>Työtä jäljellä</WorkLeft>
   <Contents>Sisältö</Contents>
   <ContainedResources>Sisällä olevat resurssit</ContainedResources>
@@ -24,7 +25,7 @@
   <FreshMissingBodyPart>tuore</FreshMissingBodyPart>
   <DevelopedImmunityLower>kehittynyt vastustuskyky</DevelopedImmunityLower>
   <NeedsTendingNow>Needs tending now</NeedsTendingNow>
-  <NextTreatmentIn>Seuraavaan hoitoon {0}</NextTreatmentIn>
+  <NextTendIn>Will need tending in {0}</NextTendIn>
   <MissingMedicalBillIngredient>{0} puuttuu</MissingMedicalBillIngredient>
   <Immunity>Vastustuskyky</Immunity>
   <Race>Rotu</Race>
@@ -69,8 +70,10 @@
   <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
   <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
   <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
   <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
   <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
   <CaravanTraveling>Traveling.</CaravanTraveling>
   <CaravanWaiting>Waiting.</CaravanWaiting>
   <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
@@ -101,20 +104,40 @@
   <TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
   <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
   <TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
-  <FactionBaseTrader>{0} of {1}</FactionBaseTrader>
+  <SettlementTrader>{0} of {1}</SettlementTrader>
+  <RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
+  <VentClosed>Closed</VentClosed>
+  <WornBy>worn by {0}</WornBy>
+  <EquippedBy>equipped by {0}</EquippedBy>
+  <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
+  <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
+  <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
+  <ItemStashContents>Contents: {0}.</ItemStashContents>
+  <SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
+  <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
+  <KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
+  <KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
+  <KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
 
-  
+  <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
   <ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
   <Fermented>Fermented</Fermented>
   <FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
   <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
 
-  
+  <!--TextMotes-->
   <Headshot>Osuma päähän</Headshot>
   <TextMote_TreatSuccess>Hoito onnistui!\n{0} todennäköisyys</TextMote_TreatSuccess>
   <TextMote_TreatFailed>Hoito epäonnistui\n{0} todennäköisyys</TextMote_TreatFailed>
-  <HarvestFailed>Sadonkorjuu\nepäonnistui</HarvestFailed>
+  <TextMote_HarvestFailed>Harvest\nfailed</TextMote_HarvestFailed>
+  <TextMote_YieldWasted>Yield\nwasted</TextMote_YieldWasted>
+  <TextMote_ProductWasted>Product\nwasted</TextMote_ProductWasted>
   <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
   <TextMote_TameFail>Kesytys epäonnistui\n{0} todennäköisyys</TextMote_TameFail>
   <TextMote_TameSuccess>Kesytetty!\n{0} todennäköisyys</TextMote_TameSuccess>
@@ -122,8 +145,10 @@
   <TextMote_TrainSuccess>Koulutettu: {0}\n{1} todennäköisyys</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
   <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
+  <TextMote_Dodge>Dodge</TextMote_Dodge>
+  <TextMote_Tended>{0} tended</TextMote_Tended>
 
-  
+  <!-- Areas -->
   <Home>Koti</Home>
   <BuildRoof>Build roof</BuildRoof>
   <NoRoof>Ei kattoa</NoRoof>
@@ -135,27 +160,27 @@
   <NewAreaAnimal>Uusi eläinten alue</NewAreaAnimal>
   <InvertArea>Käänteinen alue</InvertArea>
 
-  
+  <!-- Control -->
   <CannotOrderNonControlled>Ei voi antaa määräyksiä hallitsemattomille yksiköille.</CannotOrderNonControlled>
   <IsIncapableOfViolence>{0} ei pysty väkivaltaan.</IsIncapableOfViolence>
   <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
   <IsNotDrafted>{0} ei ole värvättynä.</IsNotDrafted>
 
-  
+  <!-- Snow -->
   <SnowNone>Ei lunta</SnowNone>
   <SnowDusting>Lunta (hieman)</SnowDusting>
   <SnowThin>Lunta (ohuesti)</SnowThin>
   <SnowMedium>Lunta (kohtalaisesti)</SnowMedium>
   <SnowThick>Lunta (paksusti)</SnowThick>
 
-  
+  <!-- Turrets -->
   <GunInstalled>Asennettu</GunInstalled>
   <MinimumRange>Lähin kantama</MinimumRange>
   <CanFireIn>Voi ampua</CanFireIn>
   <ShellLoaded>Ammus ladattu</ShellLoaded>
   <ShellNotLoaded>Lataamaton</ShellNotLoaded>
 
-  
+  <!-- Job reports -->
   <ReportHaulingTo>Kuljettamassa: {0} kohteeseen {1}.</ReportHaulingTo>
   <ReportHauling>Kuljettamassa: {0}.</ReportHauling>
   <ReportSleeping>Nukkumassa.</ReportSleeping>
@@ -172,11 +197,12 @@
   <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
 
-  
+  <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
   <LordReportAttendingParty>Attending party</LordReportAttendingParty>
+  <LordReportFormingCaravan>Forming caravan</LordReportFormingCaravan>
 
-  
+  <!-- Shooting report -->
   <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
   <ShootReportShooterAbility>Ampuja</ShootReportShooterAbility>
   <ShootReportWeapon>Ase</ShootReportWeapon>
@@ -189,13 +215,15 @@
   <NoCoverLower>ei suojaa</NoCoverLower>
   <Execution>Execution</Execution>
 
-  
+  <!-- Generated recipes -->
   <RecipeMake>Tee {0}</RecipeMake>
   <RecipeMakeJobString>Tekee esinettä {0}.</RecipeMakeJobString>
   <RecipeAdminister>administer {0}</RecipeAdminister>
   <RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
+  <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>prosthophobe will be unhappy</ProsthophobeUnhappy>
 
-  
+  <!-- Thoughts -->
   <ThoughtExpiresIn>Menee ohi: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Alkaa mennä ohi: {0}</ThoughtStartsExpiringIn>
   <ThoughtFinishesExpiringIn>On mennyt ohi kokonaan: {0}</ThoughtFinishesExpiringIn>
@@ -203,7 +231,7 @@
   <MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
   <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
 
-  
+  <!-- Pawn info readout -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <PawnMainDescFactionedWrap>ryhmän {1} {0}</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
@@ -213,22 +241,24 @@
   <Dead>Kuollut</Dead>
   <Unconscious>Tajuton</Unconscious>
   <PainShock>Shokissa</PainShock>
+  <PainShockShort>Pain shock</PainShockShort>
   <Incapacitated>Lamaantunut</Incapacitated>
   <InRestraints>Kahleissa (hidastunut)</InRestraints>
   <Carrying>Kantaa</Carrying>
+  <AffectedBy>Affected by:</AffectedBy>
 
-  
+  <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Valitse seuraava asia samassa neliössä.\n\nPikanäppäin: {0}\n\nVoit myös tehdä tämän klikkaamalla samaa ruutua hitaasti uudestaan.</SelectNextInSquareTip>
   <DefInfoTip>Tietoja tästä esineestä.</DefInfoTip>
 
-  
+  <!-- Hostility response -->
   <HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
   <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
 
-  
+  <!-- like 'Blood of John' -->
   <OfLower>joka kuuluu yksilölle</OfLower>
 
-  
+  <!-- Power readout -->
   <PowerNotConnected>Ei liitetty virtaan.</PowerNotConnected>
   <PowerConnectedRateStored>Yhdistetty sähkövirta/varastoitu teho: {0} W / {1} Wd</PowerConnectedRateStored>
   <PowerNeeded>Tarvittava virta</PowerNeeded>
@@ -236,37 +266,37 @@
   <PowerBatteryStored>Varastoitu</PowerBatteryStored>
   <PowerBatteryEfficiency>Hyötysuhde</PowerBatteryEfficiency>
 
-  
+  <!-- Temperature control -->
   <TargetTemperature>Tavoitelämpötila</TargetTemperature>
   <PowerConsumptionMode>Nykyinen virrankulutus</PowerConsumptionMode>
   <PowerConsumptionHigh>Korkea</PowerConsumptionHigh>
   <PowerConsumptionLow>Matala</PowerConsumptionLow>
 
-  
+  <!-- Temperature readout -->
   <Indoors>Sisällä</Indoors>
   <IndoorsUnroofed>Katoton</IndoorsUnroofed>
   <Outdoors>Ulkona</Outdoors>
 
-  
+  <!--Rotting-->
   <RotStateFresh>Tuore</RotStateFresh>
   <RotStateRotting>Mätänevä</RotStateRotting>
   <RotStateDessicated>Kuivunut</RotStateDessicated>
 
-  
+  <!-- Shooting tooltip -->
   <ShotBy>Henkilön {0} osumatarkkuus</ShotBy>
   <CannotHit>Kohteeseen ei voi osua.</CannotHit>
 
-  
+  <!-- Rotting -->
   <CurrentlyFrozen>Pakastettu (ei pilaannu)</CurrentlyFrozen>
   <CurrentlyRefrigerated>Jäähdytetty (Pilaantumiseen {0})</CurrentlyRefrigerated>
   <NotRefrigerated>Ei jäähdytetty (Pilaantumiseen {0})</NotRefrigerated>
   <OverADecade>yli vuosikymmen</OverADecade>
   <LessThanADay>less than a day</LessThanADay>
 
-  
+  <!-- Meal -->
   <Ingredients>Ainekset</Ingredients>
 
-  
+  <!-- Plants -->
   <PercentGrowth>{0} kasvanut</PercentGrowth>
   <GrowthRate>Kasvamisvauhti</GrowthRate>
   <FullyGrownIn>Tulee olemaan täysikasvuinen kasvettuaan {0}.</FullyGrownIn>
@@ -282,7 +312,7 @@
   <GrowSeasonHereNow>Täällä on nyt kasvukausi.</GrowSeasonHereNow>
   <CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
 
-  
+  <!-- Zones -->
   <Zone>Alue</Zone>
   <GrowingZone>Kasvatusalue</GrowingZone>
   <Stockpile>Varastoalue</Stockpile>
@@ -291,15 +321,15 @@
   <ClearAll>Poista kaikki</ClearAll>
   <AllowAll>Salli kaikki</AllowAll>
 
-  
+  <!-- ThingFilter -->
   <HitPoints>{0} osumapisteitä</HitPoints>
   <AnyQuality>mikä tahansa laatu</AnyQuality>
   <OnlyQuality>vain {0}</OnlyQuality>
 
-  
+  <!-- Mouseover indicator -->
   <Undiscovered>Tuntematon</Undiscovered>
 
-  
+  <!-- Buttons -->
   <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
   <ZoneVisibilityToggleButton>Alueiden näkyvyys.</ZoneVisibilityToggleButton>
   <ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
@@ -312,21 +342,21 @@
   <UsePlanetDayNightSystemToggleButton>Toggle day/night lighting system.</UsePlanetDayNightSystemToggleButton>
   <ExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ExpandingIconsToggleButton>
 
-  
+  <!-- Fire -->
   <Fire>Tulipalo</Fire>
   <FireOn>{0} on tulessa</FireOn>
   <Burning>Tulessa</Burning>
   <FireSizeLower>tulen koko {0}</FireSizeLower>
 
-  
-  <MapConditionsTip>Erityisolosuhteet jotka vaikuttavat alueeseen juuri nyt.</MapConditionsTip>
+  <!-- Game conditions -->
+  <GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>
   <TimeLeft>time left</TimeLeft>
   <ImpactDate>impact date</ImpactDate>
 
-  
+  <!-- Building placement -->
   <NoStuffsToBuildWith>Sinulla ei ole sopivaa materiaalia tämän rakentamiseen.</NoStuffsToBuildWith>
 
-  
+  <!-- Building placement restricters -->
   <WillGetWorkSpeedPenalty>{0} will have work speed penalty</WillGetWorkSpeedPenalty>
   <MustPlaceUnroofed>Ei voida asettaa katon alle.</MustPlaceUnroofed>
   <MustPlaceHeadOnShipBeam>Pitää asettaa siten että pääty on aluksen rakennepalkissa kiinni.</MustPlaceHeadOnShipBeam>
@@ -337,41 +367,41 @@
   <MustPlaceAdjacentStandable>Täytyy asettaa sellaiseen paikkaan jossa on tilaa seisoa joka puolella.</MustPlaceAdjacentStandable>
   <MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
 
-  
+  <!-- Wind Turbine -->
   <WindTurbine_WindPathIsBlockedBy>Toiminnan estää</WindTurbine_WindPathIsBlockedBy>
   <WindTurbine_WindPathIsBlockedByRoof>Toiminnan estää katto</WindTurbine_WindPathIsBlockedByRoof>
 
-  
+  <!-- Cryptosleep casket -->
   <CasketContains>Sisältää</CasketContains>
   <CasketWarning>Varoitus!\n\nNAME on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
 
-  
+  <!-- Ship launch report -->
   <ShipReportCannotLaunch>Ei voi laukaista.</ShipReportCannotLaunch>
   <ShipReportCanLaunch>Valmiina laukaisuun.</ShipReportCanLaunch>
   <ShipReportMissingPart>Kriittinen osa puuttuu</ShipReportMissingPart>
   <ShipReportNoFullPods>Ei täysiä salauniarkkuja</ShipReportNoFullPods>
 
-  
+  <!-- Neurotrainer -->
   <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
 
-  
+  <!-- Minification -->
   <Installed>Asennettu</Installed>
   <NotInstalled>Asentamaton</NotInstalled>
 
-  
+  <!-- Art -->
   <Title>Nimike</Title>
   <Untitled>Nimetön</Untitled>
 
-  
+  <!-- Unfinished thing -->
   <UnfinishedItem>Keskeneräinen {0}</UnfinishedItem>
   <UnfinishedItemWithStuff>Keskeneräinen {0} {1}</UnfinishedItemWithStuff>
 
-  
+  <!-- Quality -->
   <Quality>Laatu</Quality>
   <QualityDescription>Esineen laatu kuvaa sitä miten hyvin se on tehty.</QualityDescription>
   <QualityIs>Laatu: {0}</QualityIs>
 
-  
+  <!-- Mood descriptions -->
   <Mood_MentalState>mental state</Mood_MentalState>
   <Mood_AboutToBreak>murtumassa</Mood_AboutToBreak>
   <Mood_OnEdge>ärtynyt</Mood_OnEdge>
@@ -380,7 +410,7 @@
   <Mood_Content>tyytyväinen</Mood_Content>
   <Mood_Happy>onnelinen</Mood_Happy>
 
-  
+  <!-- Game over -->
   <GameOverEveryoneDead>Kaikki ovat joko kuolleet tai poissa. Tämä tarina on ohi.\n\nEhkä joku toinen voi hyödyntää näitä raunioita.</GameOverEveryoneDead>
   <GameOverShipLaunched>Olet laukaissut aluksesi! Nämä yhdyskuntalaiset pääsivät mukaan:\n\n{0}\nJa nämä yhdyskuntalaiset eivät:\n\n{1}\nAI:si yrittää nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä. Tai, se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi, odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunched>
   <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
@@ -388,23 +418,23 @@
   <GameOverKeepPlaying>Jatka pelaamista</GameOverKeepPlaying>
   <GameOverMainMenu>Päävalikko</GameOverMainMenu>
 
-  
+  <!-- Generic lifespan -->
   <LifespanExpiry>Menee vanhaksi:</LifespanExpiry>
 
-  
+  <!-- Traps -->
   <TrapArmed>Viritetty</TrapArmed>
   <TrapNotArmed>Virittämätön</TrapNotArmed>
   <TrapRearmingCost>Virittämiskustannukset: {0}</TrapRearmingCost>
 
-  
+  <!-- Facilities -->
   <InactiveFacility>pois käytöstä</InactiveFacility>
 
-  
+  <!-- Hediffs growth modes -->
   <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
   <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
   <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
 
-  
+  <!-- Marriage spot -->
   <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
   <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
   <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
@@ -415,7 +445,7 @@
   <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
   <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
 
-  
+  <!-- Colonist bar -->
   <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
   <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
   <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
@@ -423,22 +453,45 @@
   <ActivityIconIdle>Idle</ActivityIconIdle>
   <ActivityIconBurning>Burning</ActivityIconBurning>
 
-  
+  <!-- Maintainable -->
   <DueForMaintenance>Due for maintenance.</DueForMaintenance>
   <DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
 
-  
+  <!-- Deep drill -->
   <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
   <ResourceBelow>Resource below</ResourceBelow>
 
-  
+  <!-- Learning helper -->
   <LearningHelper>Learning helper</LearningHelper>
   <MarkLearned>Mark as learned</MarkLearned>
   <AlreadyLearned>Already learned</AlreadyLearned>
   <Filter>Filter</Filter>
 
-  
+  <!-- Compass -->
   <CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
 
+  <!-- Distance measure -->
+  <RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>Total route time: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Planning mode uses the default caravan speed. Your speed may vary.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Calculating for: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
+  <EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
+
+  <!-- Outfits -->
+  <OutfitAnything>Anything</OutfitAnything>
+  <OutfitWorker>Worker</OutfitWorker>
+  <OutfitSoldier>Soldier</OutfitSoldier>
+  <OutfitNudist>Nudist</OutfitNudist>
+
+  <!--<NextTreatmentIn>Seuraavaan hoitoon {0}</NextTreatmentIn>-->
+  <!--<FactionBaseTrader>{0} of {1}</FactionBaseTrader>-->
+  <!--<HarvestFailed>Sadonkorjuu\nepäonnistui</HarvestFailed>-->
+  <!--<MapConditionsTip>Erityisolosuhteet jotka vaikuttavat alueeseen juuri nyt.</MapConditionsTip>-->
 
 </LanguageData>

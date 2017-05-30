@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Shooting -->
 
   <MeleeDPS.label>lähitaistelun vahinko sekunnissa</MeleeDPS.label>
   <MeleeDPS.description>Keskimääräinen sekunnissa aiheutettu vahinko lähitaistelussa.</MeleeDPS.description>
+
+  <MeleeHitChance.label>lähitaistelun osumistodennäköisyys</MeleeHitChance.label>
+  <MeleeHitChance.description>Alkuarvo todennäköisyydelle kohteeseen osumiseen lähitaistelussa.</MeleeHitChance.description>
+
+  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
 
   <ShootingAccuracy.label>ampumisen osumatarkkuus</ShootingAccuracy.label>
   <ShootingAccuracy.description>Alkuarvo osumisen todennäköisyydelle etäisyyden yhtä neliötä kohti.</ShootingAccuracy.description>
 
   <AimingDelayFactor.label>tähtäysaika</AimingDelayFactor.label>
   <AimingDelayFactor.description>Miten kauan ampumiseen kuluu aikaa kohteeseen lukittumisen jälkeen.</AimingDelayFactor.description>
-
-  <MeleeHitChance.label>lähitaistelun osumistodennäköisyys</MeleeHitChance.label>
-  <MeleeHitChance.description>Alkuarvo todennäköisyydelle kohteeseen osumiseen lähitaistelussa.</MeleeHitChance.description>
 
 
 </LanguageData>

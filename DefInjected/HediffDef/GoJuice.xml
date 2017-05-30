@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <GoJuiceHigh.label>high on go-juice</GoJuiceHigh.label>
 
 
-  
+  <!-- Go-juice addiction -->
 
   <GoJuiceTolerance.label>go-juice tolerance</GoJuiceTolerance.label>
   <GoJuiceTolerance.stages.1.label>small</GoJuiceTolerance.stages.1.label>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stun.label>tyrmäys</Stun.label>
+  <Stun.deathMessage>{0} on tyrmätty kuoliaaksi.</Stun.deathMessage>
+
+  <EMP.label>EMP</EMP.label>
+  <EMP.deathMessage>{0} on kuollut sähkömagneettiseen pulssiin.</EMP.deathMessage>
+
+
+</LanguageData>

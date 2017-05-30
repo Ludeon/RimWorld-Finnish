@@ -1,20 +1,36 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Campfire.label>nuotio</Campfire.label>
   <Campfire.description>Tällä voi paistaa ruokaa ja lämmitellä. Palaa muutaman päivän ajan. Se täytyy asettaa muiden lämmönlähteiden tavoin sisätiloihin jotta sillä olisi suljettu alue mitä lämmittää.</Campfire.description>
+  <Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>
+  <Campfire_Frame.label>campfire (building)</Campfire_Frame.label>
+  <Campfire_Frame.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire_Frame.description>
 
   <PassiveCooler.label>passive cooler</PassiveCooler.label>
   <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler.description>
+  <PassiveCooler_Blueprint.label>passive cooler (blueprint)</PassiveCooler_Blueprint.label>
+  <PassiveCooler_Frame.label>passive cooler (building)</PassiveCooler_Frame.label>
+  <PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler_Frame.description>
 
   <Heater.label>lämmitin</Heater.label>
   <Heater.description>Sähkölaite, joka muuttaa sähköä lämmöksi. Se osaa automaattisesti kytkeä itsensä päälle ja pois saavuttaakseen tavoitelämpötilan.</Heater.description>
+  <Heater_Blueprint.label>heater (blueprint)</Heater_Blueprint.label>
+  <Heater_Blueprint_Install.label>heater (blueprint)</Heater_Blueprint_Install.label>
+  <Heater_Frame.label>heater (building)</Heater_Frame.label>
+  <Heater_Frame.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater_Frame.description>
 
   <Cooler.label>jäähdytin</Cooler.label>
   <Cooler.description>Sähkölaite, joka sopii seinään ja työntää huoneeseen kylmää ilmaa. Sen poistoportti tuottaa suuren määrän lämpöä. Tätä voidaan käyttää huoneiden viilentämiseen kesällä tai pakastehuoneen.</Cooler.description>
+  <Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>
+  <Cooler_Frame.label>cooler (building)</Cooler_Frame.label>
+  <Cooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Cooler_Frame.description>
 
   <Vent.label>ilmastointikanava</Vent.label>
   <Vent.description>Yksinkertainen kanava kahden huoneen lämpötilan tasaamiseen ilman että niiden välillä kävellään.</Vent.description>
+  <Vent_Blueprint.label>vent (blueprint)</Vent_Blueprint.label>
+  <Vent_Frame.label>vent (building)</Vent_Frame.label>
+  <Vent_Frame.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent_Frame.description>
 
 
 </LanguageData>

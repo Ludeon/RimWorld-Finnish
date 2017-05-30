@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
@@ -9,12 +9,14 @@
   <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
   <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
   <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
 
   <FireAt>Ammu {0}</FireAt>
 
   <OutOfRange>kantaman ulkopuolella</OutOfRange>
   <CannotHitTarget>kohteeseen ei voi osua</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
   <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
 
@@ -27,8 +29,6 @@
   <ForbiddenLower>kielletty</ForbiddenLower>
   <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
   <NotInHomeArea>not in home area</NotInHomeArea>
-  <SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
-  <PrisonerRoomLower>vangin huone</PrisonerRoomLower>
   <BurningLower>palaa</BurningLower>
   <NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
   <AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
@@ -42,6 +42,10 @@
   <NoComponentsToRepair>need components</NoComponentsToRepair>
   <NoFuelToRefuel>need {0}</NoFuelToRefuel>
   <NoWort>need wort</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
+  <SelfTendDisabled>self-tend disabled</SelfTendDisabled>
+  <ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
 
   <ConsumeThing>Syö/juo {0}</ConsumeThing>
 
@@ -115,22 +119,26 @@
   <CannotTrade>Cannot trade</CannotTrade>
 
   <EnterMap>Enter {0}</EnterMap>
-  <VisitFactionBase>Visit {0}</VisitFactionBase>
-  <AttackFactionBase>Attack {0}</AttackFactionBase>
+  <VisitSettlement>Visit {0}</VisitSettlement>
+  <VisitSite>Visit {0}</VisitSite>
+  <AttackSite>Attack {0}</AttackSite>
+  <AttackSettlement>Attack {0}</AttackSettlement>
 
-  
+  <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Mene salauniarkkuun</EnterCryptosleepCasket>
   <OpenCryptosleepCasket>Avaa salauniarkku</OpenCryptosleepCasket>
 
-  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
 
-  
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>Ei voi priorisoida (kykenemätön toimeen {0})</CannotMissingHealthActivities>
 
   <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
 
   <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+
+  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
 
   <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
 
@@ -139,10 +147,21 @@
   <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
-  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Priorisoi kohteen {1} {0}</PrioritizeGeneric>
 
   <DropAtEdge>Drop at edge</DropAtEdge>
   <DropInCenter>Drop in center</DropInCenter>
+
+  <VomitingLower>vomiting</VomitingLower>
+  <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+
+  <AddWaypoint>Add a new waypoint here</AddWaypoint>
+  <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+
+  <!--<SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>-->
+  <!--<PrisonerRoomLower>vangin huone</PrisonerRoomLower>-->
+  <!--<VisitFactionBase>Visit {0}</VisitFactionBase>-->
+  <!--<AttackFactionBase>Attack {0}</AttackFactionBase>-->
 
 </LanguageData>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WakeUpHigh.label>high on wake-up</WakeUpHigh.label>
 
 
-  
+  <!-- WakeUp addiction -->
 
   <WakeUpTolerance.label>wake-up tolerance</WakeUpTolerance.label>
   <WakeUpTolerance.stages.1.label>small</WakeUpTolerance.stages.1.label>

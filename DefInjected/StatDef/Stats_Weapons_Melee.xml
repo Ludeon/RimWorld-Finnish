@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MeleeWeapon_DamageAmount.label>lähitaistelun vahinko</MeleeWeapon_DamageAmount.label>
@@ -9,7 +9,7 @@
   <MeleeWeapon_Cooldown.formatString>{0} s</MeleeWeapon_Cooldown.formatString>
 
 
-  
+  <!-- Damage multipliers should be stats on stuffs only -->
 
   <SharpDamageMultiplier.label>terävän vahingon kerroin</SharpDamageMultiplier.label>
   <SharpDamageMultiplier.description>Tästä materaalista tehdyillä esineillä kerroin terävien hyökkäysten, kuten leikkaamisen tai pistämisen, vahinkoon.</SharpDamageMultiplier.description>

@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Confirm>Vahvista</Confirm>
   <GoBack>Takaisin</GoBack>
   <OK>OK</OK>
 
-  
+  <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.\n\nThis may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
 
-  
+  <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Palauduttiin epäyhteensopivista tai vioittuneista modivirheistä</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>Näyttää siltä, että jotkin käytössä olevista modeista aiheuttivat virheitä.\n\nNe olivat epäyhteensopivia toistensa kanssa, suunniteltu toiselle RimWorldin versiolle tai vioittuneita.\n\nKaikki modit on otettu pois käytöstä ja voidaan ottaa uudelleen käyttöön modivalikosta.</RecoveredFromErrorsText>
 
-  
+  <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
   <ErrorWhileLoadingAssets>An error occured while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
   <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
@@ -23,13 +25,15 @@
   <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>An error occured while loading a map. See error log for more information.</ErrorWhileLoadingMap>
 
-  
-  <ModWithAssemblyWasUnloaded>The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</ModWithAssemblyWasUnloaded>
+  <!-- Unloaded mod with an assembly -->
+  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
+  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
+  <Restarting>Restarting</Restarting>
 
-  
+  <!-- Missing Steam -->
   <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
 
-  
+  <!-- Long events -->
   <InitializingInterface>Alustetaan käyttöliittymää</InitializingInterface>
   <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
   <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
@@ -42,7 +46,7 @@
   <SpawningAllThings>Asetetaan esineet paikoilleen</SpawningAllThings>
   <SpawningColonists>Asetetaan yhdyskuntalaiset paikoilleen</SpawningColonists>
 
-  
+  <!-- Save/load -->
   <SaveGameButton>Tallenna</SaveGameButton>
   <LoadGameButton>Lataa</LoadGameButton>
   <OverwriteButton>Korvaa</OverwriteButton>
@@ -60,29 +64,29 @@
   <ProblemSavingFile>Tiedoston {0} tallentamisessa oli ongelma:\n\n{1}</ProblemSavingFile>
   <LoadAnyway>Load anyway</LoadAnyway>
 
-  
+  <!-- Player faction naming -->
   <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
   <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
   <PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
 
-  
+  <!-- Player faction base naming -->
   <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
   <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
   <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
 
-  
+  <!-- Player faction and faction base naming -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
 
-  
+  <!-- Renaming -->
   <NameIsInvalid>Ole hyvä ja syötä kelvollinen nimi.</NameIsInvalid>
   <NameIsInUse>Nimi on jo käytössä.</NameIsInUse>
   <ZoneGainsName>Aluetta kutsutaan nyt nimellä {0}.</ZoneGainsName>
 
-  
+  <!-- Pawn naming -->
   <PawnGainsName>Yhdyskuntalaisen kutsumanimi on nyt {0}.</PawnGainsName>
 
-  
+  <!-- Save game incompatible warning -->
   <VersionMismatch>Versio yhteensopimaton</VersionMismatch>
   <SaveGameIncompatibleWarningText>Kenttä tallennettiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>Maailma luotiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\nTämän maailman lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia. Suosittelemme, että luot uuden maailman.</WorldFileVersionMismatch>
@@ -90,12 +94,12 @@
   <ModsMismatchWarningTitle>Modien eroavuus</ModsMismatchWarningTitle>
   <ModsMismatchWarningText>Kartta tallennettiin eri kokoelmalla modeja käytössä kuin nykyiset käytössä olevat. Tämä saatta ehkä aiheuttaa ongelmia riippuen siitä, mitä modit tekevät.\n\nKartta tallennettiin näillä modeilla (tässä järjestyksessä):\n\n{0}\n\nKäytössä olevat modit ovat:\n\n{1}</ModsMismatchWarningText>
 
-  
+  <!-- Resolution change dialog -->
   <ConfirmResolutionChange>Vaihdoit resoluutiota. Toimiiko uusi kunnolla?\n\nAutomaattinen palautus {0}...</ConfirmResolutionChange>
   <ResolutionKeep>Pidä resoluutio</ResolutionKeep>
   <ResolutionRevert>Palauta</ResolutionRevert>
 
-  
+  <!-- Research -->
   <Research>Tutki</Research>
   <Researched>Tutkittu</Researched>
   <Unresearched>Tutkimatta</Unresearched>
@@ -107,7 +111,7 @@
   <RequiredResearchBench>Required research bench</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
 
-  
+  <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>Varoitus: Olet laskeutumassa jäiseen ympäristöön. Selviytyminen saattaa olla vaikeaa tai lähes mahdotonta. Jos et halua äärimmäistä haastetta, valitse erilainen paikka tai aloituskuukausi.</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>Varoitus: Suorituskyky saattaa kärsiä suuremmissa kentissä ellei tietokoneesi ole tehokas.\n\nJos sinulla on huonompi kone, valitse Pieni.\n\nLudeoninen koko on testaamaton eikä lähes varmasti tule toimimaan hyvin.</MapSizePerformanceWarning>
   <MapSize>Kentän koko</MapSize>
@@ -121,7 +125,7 @@
   <PermadeathMode>Permadeath-tila</PermadeathMode>
   <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
 
-  
+  <!-- Bill config -->
   <Suspended>Pysäytetty</Suspended>
   <NotSuspended>Ei pysäytetty</NotSuspended>
   <SuspendedAllCaps>PYSÄYTETTY</SuspendedAllCaps>
@@ -150,7 +154,12 @@
   <BillStoreMode_BestStockpile>Vie parhaaseen varastoon</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
 
-  
+  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
+  <Paused>Paused</Paused>
+  <Unpause>Unpause</Unpause>
+
+  <!-- Info card -->
   <Damage>Vahinko</Damage>
   <Accuracy>Tarkkuus</Accuracy>
   <BurstShotCount>Sarjatulen laukausmäärä</BurstShotCount>
@@ -184,7 +193,6 @@
   <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
   <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
-  <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
   <MoodChange>Vaikutus mielialaan</MoodChange>
   <Wildness>Villiys</Wildness>
   <WildnessExplanation>Villimpiä eläimiä on luonnostaan vaikeampi kesyttää, kouluttaa ja käsitellä.</WildnessExplanation>
@@ -196,7 +204,7 @@
   <PackAnimal>Pack animal</PackAnimal>
   <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
 
-  
+  <!-- Trade -->
   <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
   <BuyPriceDesc>Hinta, jonka maksat ostaaksesi tämän.</BuyPriceDesc>
   <SellPriceDesc>Hinta, jonka saat myydessäsi tämän.</SellPriceDesc>
@@ -212,6 +220,7 @@
   <TraderHasNoMore>Vaihtokauppiaalle ei ole enempää.</TraderHasNoMore>
   <ColonyHasNoMore>Sinulla ei ole enempää.</ColonyHasNoMore>
   <TraderWillNotTrade>Vaihtokauppias ei suostu vaihtamaan tällaisia tavaroita.</TraderWillNotTrade>
+  <Negotiator>Negotiator</Negotiator>
   <NegotiatorTalkingImpaired>Neuvottelijasi {0} ei pysty puhumaan kunnolla huonon terveyden vuoksi.\n\nTällä on vaikutusta vaihtohintoihin.\n\nHarkitse terveemmässä kunnossa olevan neuvottelijan käyttöä.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>Vaihtokauppiaalla ei ole tarpeeksi hopeaa kauppaa varten. Jatka silti?</ConfirmTraderShortFunds>
   <SortBy>Järjestä</SortBy>
@@ -227,7 +236,7 @@
   <FinalPrice>Final price</FinalPrice>
   <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
 
-  
+  <!-- Form caravan -->
   <FormCaravan>Form caravan</FormCaravan>
   <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
   <PawnsTab>People and animals</PawnsTab>
@@ -235,6 +244,7 @@
   <CaravanConfigTab>Config</CaravanConfigTab>
   <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>Could not find any valid exit location.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
   <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location.</CaravanCouldNotFindReachableExitSpot>
   <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
   <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
@@ -243,16 +253,21 @@
   <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
   <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
   <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
   <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
   <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
   <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
   <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
+  <CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.\n\nAre you sure you want to form this caravan?</CaravanFoodWillRotSoonWarningDialog>
   <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
   <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
   <ExitDirection>Exit direction</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
   <ItemWeightTip>Weight of this item.</ItemWeightTip>
   <MarketValueTip>Market value</MarketValueTip>
+  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
   <MassCapacity>Mass capacity</MassCapacity>
   <Mass>Mass</Mass>
   <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
@@ -262,8 +277,9 @@
   <ColonistsSection>Colonists</ColonistsSection>
   <PrisonersSection>Prisoners</PrisonersSection>
   <AnimalsSection>Animals</AnimalsSection>
+  <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
 
-  
+  <!-- Split caravan -->
   <SplitCaravan>Split caravan</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
   <CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
@@ -271,7 +287,7 @@
   <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
   <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
 
-  
+  <!-- Load transporters -->
   <LoadTransporters>Load {0}</LoadTransporters>
   <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
   <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
@@ -280,14 +296,14 @@
   <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
   <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
 
-  
+  <!-- Comms -->
   <SocialSkillIs>Sosiaaliset taidot: {0}</SocialSkillIs>
 
-  
+  <!--Research-->
   <ResearchFinished>Tutkimus suoritettu: {0}</ResearchFinished>
   <ResearchScreen>Tutkimusvalikko</ResearchScreen>
 
-  
+  <!--HistoryUpload-->
   <HistoryUploadMessage>Haluatko lähettää pelitietoja RimWorldin servereille auttaaksesi kehittäjiä tasapainottamaan peliä? Jos sallit, tietosi lähetetään joka {0}:s päivä (ja joissain harvinaisissa tapauksissa kuten pelin lopussa). Yksityisyysasetuksia voidaan muuttaa myöhemmän asetuksista.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Vaikka pelihistoria lähetetäänkin nimettömänä, voit liittää "käyttäjänimen".</HistoryUploadMessagePlayerName>
   <HistoryUploadYes>Salli pelitietojen lähettäminen</HistoryUploadYes>
@@ -295,7 +311,7 @@
   <HistoryUploadYesOnce>Lähetä vain tällä kertaa</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Älä lähetä tällä kertaa, kysy minulta myöhemmin</HistoryUploadNoOnce>
 
-  
+  <!-- Outfit management -->
   <Outfit>Vaatekerta</Outfit>
   <SelectOutfit>Valitse vaatekerta...</SelectOutfit>
   <NewOutfit>Uusi vaatekerta</NewOutfit>
@@ -303,7 +319,7 @@
   <OutfitInUse>{0} käyttää vaatekertaa.</OutfitInUse>
   <NoOutfitSelected>Ei vaatekertaa valittuna</NoOutfitSelected>
 
-  
+  <!-- Drug policy management -->
   <DrugPolicy>Drug policy</DrugPolicy>
   <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
   <NewDrugPolicy>New policy</NewDrugPolicy>
@@ -337,23 +353,37 @@
   <DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
 
-  
+  <!-- Medical settings -->
+  <MedGroupDefaults>Defaults</MedGroupDefaults>
+  <MedGroupColonist>Colonist</MedGroupColonist>
+  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+
+  <!-- Growing -->
   <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
 
-  
+  <!-- Abandon home -->
   <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
-  
+  <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
 
-  
+  <!-- Abandon pawn -->
   <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
   <ConfirmAbandonPawnDialog_LeftToDie>{0} will most likely die.</ConfirmAbandonPawnDialog_LeftToDie>
   <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
   <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
   <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
 
-  
+  <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+
+  <!--<ModWithAssemblyWasUnloaded>The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</ModWithAssemblyWasUnloaded>-->
+  <!--<BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>-->
 
 </LanguageData>

@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SpaceRefugee.label>avaruuspakolainen</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>space refugees</SpaceRefugee.labelPlural>
+
   <SpaceSoldier.label>avaruussotilas</SpaceSoldier.label>
+  <SpaceSoldier.labelPlural>space soldiers</SpaceSoldier.labelPlural>
 
 
 </LanguageData>

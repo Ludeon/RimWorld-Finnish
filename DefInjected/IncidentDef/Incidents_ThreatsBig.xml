@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RaidEnemy.label>enemy raid</RaidEnemy.label>
+  <!--<RaidEnemy.label>enemy raid</RaidEnemy.label>-->
 
-  <Infestation.label>infestation</Infestation.label>
-  <Infestation.letterLabel>Loishyökkäys</Infestation.letterLabel>
-  <Infestation.letterText>Hyönteispesä on ilmaantunut!\n\nSe luo hitaasti hyönteisiä ja myös lisää pesiä. Jos et halua, että se leviää koko alueelle, kokoa joukkosi ja tuhoa se. Mutta varo - hyönteiset puolustavat pesäänsä.</Infestation.letterText>
+  <!--<Infestation.label>infestation</Infestation.label>-->
+  <!--<Infestation.letterLabel>Loishyökkäys</Infestation.letterLabel>-->
+  <!--<Infestation.letterText>Hyönteispesä on ilmaantunut!\n\nSe luo hitaasti hyönteisiä ja myös lisää pesiä. Jos et halua, että se leviää koko alueelle, kokoa joukkosi ja tuhoa se. Mutta varo - hyönteiset puolustavat pesäänsä.</Infestation.letterText>-->
 
-  <ManhunterPack.label>manhunter pack</ManhunterPack.label>
+  <!--<ManhunterPack.label>manhunter pack</ManhunterPack.label>-->
 
-  <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
-  <PsychicEmanatorShipPartCrash.letterLabel>Psyykkinen alus</PsychicEmanatorShipPartCrash.letterLabel>
-  <PsychicEmanatorShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nYhdyskuntalaisesi tuntevat sen mieliensä perukoilla, kehottaen hirveitä tekoja. Siinä on varmasti tekoälypersoona, jolla on psyykkisiä projektiokykyjä. Ja tämä tekoäly ei ole ystävällinen.\n\nTuhoa se niin pian kuin mahdollista.</PsychicEmanatorShipPartCrash.letterText>
+  <!--<PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>-->
+  <!--<PsychicEmanatorShipPartCrash.letterLabel>Psyykkinen alus</PsychicEmanatorShipPartCrash.letterLabel>-->
+  <!--<PsychicEmanatorShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nYhdyskuntalaisesi tuntevat sen mieliensä perukoilla, kehottaen hirveitä tekoja. Siinä on varmasti tekoälypersoona, jolla on psyykkisiä projektiokykyjä. Ja tämä tekoäly ei ole ystävällinen.\n\nTuhoa se niin pian kuin mahdollista.</PsychicEmanatorShipPartCrash.letterText>-->
 
-  <PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>
-  <PoisonShipPartCrash.letterLabel>Myrkkyalus</PoisonShipPartCrash.letterLabel>
-  <PoisonShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nSiitä vuotaa myrkyllisiä aineita, jotka tappavat kaikki kasvit laajenevalta säteeltä ympäriltään.\n\nTuhoa se niin pian kuin mahdollista.</PoisonShipPartCrash.letterText>
+  <!--<PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>-->
+  <!--<PoisonShipPartCrash.letterLabel>Myrkkyalus</PoisonShipPartCrash.letterLabel>-->
+  <!--<PoisonShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nSiitä vuotaa myrkyllisiä aineita, jotka tappavat kaikki kasvit laajenevalta säteeltä ympäriltään.\n\nTuhoa se niin pian kuin mahdollista.</PoisonShipPartCrash.letterText>-->
 
-  <AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>
+  <!--<AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>-->
 
 
 </LanguageData>

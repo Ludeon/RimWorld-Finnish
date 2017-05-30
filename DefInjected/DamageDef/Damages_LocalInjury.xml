@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Cut.label>viilto</Cut.label>
   <Cut.deathMessage>{0} on leikattu kuoliaaksi.</Cut.deathMessage>
+
+
+  <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
+
+  <SurgicalCut.label>kirurginen viilto</SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0} on kuollut kirurgiaan.</SurgicalCut.deathMessage>
+
+
+  <!-- Execution cut: Makes it possible to distinguish execution damage from others -->
+
+  <ExecutionCut.label>execution cut</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0} has been executed.</ExecutionCut.deathMessage>
 
   <Crush.label>murskaus</Crush.label>
   <Crush.deathMessage>{0} on murskattu kuoliaaksi.</Crush.deathMessage>
@@ -35,25 +47,13 @@
   <Flame.deathMessage>{0} on palanut kuoliaaksi.</Flame.deathMessage>
 
 
-  
+  <!-- Burn is like Flame, but doesn't ignite anything -->
 
   <Burn.label>palovamma</Burn.label>
   <Burn.deathMessage>{0} has burned to death.</Burn.deathMessage>
 
   <Frostbite.label>paleltuma</Frostbite.label>
   <Frostbite.deathMessage>{0} on menehtynyt paleltumaan.</Frostbite.deathMessage>
-
-
-  
-
-  <SurgicalCut.label>kirurginen viilto</SurgicalCut.label>
-  <SurgicalCut.deathMessage>{0} on kuollut kirurgiaan.</SurgicalCut.deathMessage>
-
-
-  
-
-  <ExecutionCut.label>execution cut</ExecutionCut.label>
-  <ExecutionCut.deathMessage>{0} has been executed.</ExecutionCut.deathMessage>
 
 
 </LanguageData>

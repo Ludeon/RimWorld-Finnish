@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Misc chunks -->
 
   <ChunkSlagSteel.label>metallikuonaa</ChunkSlagSteel.label>
 
 
-  
+  <!-- Sandstone -->
 
   <Sandstone.label>hiekkakiveä</Sandstone.label>
   <Sandstone.description>Sedimenttikiveä joka koostuu yhteenpakkautuneista hiekanjyvistä.</Sandstone.description>
@@ -18,7 +18,7 @@
   <BlocksSandstone.stuffProps.stuffAdjective>hiekkakivinen</BlocksSandstone.stuffProps.stuffAdjective>
 
 
-  
+  <!-- Granite -->
 
   <Granite.label>graniittia</Granite.label>
   <Granite.description>Erittäin kova magmakivilaji.</Granite.description>
@@ -30,7 +30,7 @@
   <BlocksGranite.stuffProps.stuffAdjective>graniittinen</BlocksGranite.stuffProps.stuffAdjective>
 
 
-  
+  <!-- Limestone -->
 
   <Limestone.label>kalkkikiveä</Limestone.label>
   <Limestone.description>Muinaisien simpukoiden pakkautuneista jäännöksistä muodostunut sedimenttikivilaj.</Limestone.description>
@@ -42,7 +42,7 @@
   <BlocksLimestone.stuffProps.stuffAdjective>kalkkikivinen</BlocksLimestone.stuffProps.stuffAdjective>
 
 
-  
+  <!-- Slate -->
 
   <Slate.label>saviliusketta</Slate.label>
   <Slate.description>Tummanvärinen metamorfinen kivilaji. Sen hienojakoiset kerrokset ovat tunnusomaisia liuskemaisesta halkiosta.</Slate.description>
@@ -54,7 +54,7 @@
   <BlocksSlate.stuffProps.stuffAdjective>saviliuskeinen</BlocksSlate.stuffProps.stuffAdjective>
 
 
-  
+  <!-- Marble -->
 
   <Marble.label>marmoria</Marble.label>
   <Marble.description>Pehmeä metamorfinen kivilaji.</Marble.description>

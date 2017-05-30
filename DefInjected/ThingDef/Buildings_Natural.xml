@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Simple mineables -->
 
   <CollapsedRocks.label>romahtaneita kiviä</CollapsedRocks.label>
   <CollapsedRocks.description>Romahtaneita kiviä pakattuna tarpeeksi tiukalle kannattelemaan kattoa.</CollapsedRocks.description>
 
 
-  
+  <!-- Resource rocks -->
 
   <MineableSteel.label>pakkautunutta terästä</MineableSteel.label>
   <MineableSteel.description>Jonkin muinaisen raunion jäännökset. Sisältää paljon terästä.</MineableSteel.description>
@@ -38,6 +38,7 @@
 
   <GlowPod.label>glow pod</GlowPod.label>
   <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
+  <GlowPod_Blueprint_Install.label>glow pod (blueprint)</GlowPod_Blueprint_Install.label>
 
 
 </LanguageData>

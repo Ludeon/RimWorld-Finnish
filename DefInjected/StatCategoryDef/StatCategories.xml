@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- General -->
 
   <Basics.label>Perustiedot</Basics.label>
   <BasicsPawn.label>Perustiedot</BasicsPawn.label>
   <BasicsNonPawn.label>Perustiedot</BasicsNonPawn.label>
 
 
-  
+  <!-- Non-pawn -->
 
   <Apparel.label>Vaatteet</Apparel.label>
   <Weapon.label>Ase</Weapon.label>
   <Building.label>Rakennus</Building.label>
 
 
-  
+  <!-- Virtual categories -->
 
   <EquippedStatOffsets.label>Poikkeamat, kun käytössä</EquippedStatOffsets.label>
   <StuffStatFactors.label>Kertoimet, kun esine on tehty tästä</StuffStatFactors.label>
@@ -23,7 +23,7 @@
   <StuffOfEquipmentStatFactors.label>Kertoimet, kun varusteet on tehty tästä</StuffOfEquipmentStatFactors.label>
 
 
-  
+  <!-- Pawn -->
 
   <PawnCombat.label>Taistelu</PawnCombat.label>
   <PawnSocial.label>Sosiaalisuus</PawnSocial.label>

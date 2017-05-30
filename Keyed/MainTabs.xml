@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Work tab -->
   <ManualPriorities>Säädä tärkeyksiä</ManualPriorities>
   <HigherPriority>Tärkeämpi</HigherPriority>
   <LowerPriority>Vähemmän tärkeä</LowerPriority>
@@ -12,43 +12,39 @@
   <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
 
-  
-  <CurrentOutfit>Nykyinen vaatekerta</CurrentOutfit>
+  <!-- Assign tab -->
   <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
   <ApparelForcedLower>pakotettu</ApparelForcedLower>
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
   <AssignTabEdit>Edit...</AssignTabEdit>
-  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
   <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
 
-  
+  <!-- Restrictions tab -->
   <Copy>Kopioi</Copy>
   <Paste>Liitä</Paste>
   <AllowedArea>Sallittu alue</AllowedArea>
 
-  
+  <!-- Animals tab -->
   <Master>Isäntä</Master>
   <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
-  <FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
-  <FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
 
-  
+  <!-- Factions tab -->
   <Hostile>Vihamielinen</Hostile>
   <DefeatedLower>defeated</DefeatedLower>
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
   <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
 
-  
+  <!-- Social tab -->
   <Friend>Ystävä</Friend>
   <Rival>Vihollinen</Rival>
   <Acquaintance>Tuttava</Acquaintance>
 
-  
+  <!-- History tab - subtabs -->
   <Graph>Kaavio</Graph>
   <Statistics>Statistics</Statistics>
 
-  
+  <!-- History tab - Graphs -->
   <SelectGraph>Valitse kaavio</SelectGraph>
   <Last30Days>Viimeiset 30 päivää</Last30Days>
   <Last100Days>Viimeiset 100 päivää</Last100Days>
@@ -58,7 +54,7 @@
   <Value>Arvo</Value>
   <External>Ulkoinen</External>
 
-  
+  <!-- History tab - Statistics -->
   <Playtime>Pelattu aika</Playtime>
   <Storyteller>Tarinankertoja</Storyteller>
   <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
@@ -70,10 +66,15 @@
   <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
   <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
 
-  
+  <!-- Research tab -->
   <ProjectTechLevel>project tech level</ProjectTechLevel>
   <YourTechLevel>your tech level</YourTechLevel>
   <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
   <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+
+  <!--<CurrentOutfit>Nykyinen vaatekerta</CurrentOutfit>-->
+  <!--<CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>-->
+  <!--<FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>-->
+  <!--<FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>-->
 
 </LanguageData>

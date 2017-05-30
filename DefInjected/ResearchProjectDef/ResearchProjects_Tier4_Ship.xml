@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
 
   <ShipBasics.label>avaruusalusrakennuksen perusteet</ShipBasics.label>
   <ShipBasics.description>Mahdollistaa sinun aloittamaan edistyneempien aluksenrakentamisteknologioiden tutkimisen ja lopulta rakentaa avaruusaluksen planeetalta pakenemiseen.</ShipBasics.description>

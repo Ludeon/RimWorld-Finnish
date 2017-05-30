@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Autosaving>Tallentaa automaattisesti</Autosaving>
@@ -14,7 +14,7 @@
   <CompiledOn>Laadittu {0}</CompiledOn>
   <LoggedIntoSteamAs>Kirjautunut Steamiin nimellä {0}</LoggedIntoSteamAs>
 
-  
+  <!-- General-use words -->
   <Yes>Yes</Yes>
   <No>No</No>
   <min>min</min>
@@ -27,8 +27,9 @@
   <durationDays>duration (days)</durationDays>
   <intervalDays>interval (days)</intervalDays>
   <repeat>repeat</repeat>
+  <default>default</default>
 
-  
+  <!-- Content generation-->
 
   <MeatLabel>{0} lihaa</MeatLabel>
   <MeatDesc>Raakaa lihaa oliosta {0}.</MeatDesc>
@@ -51,8 +52,8 @@
   <FrameLabelExtra> (rakennus)</FrameLabelExtra>
 
 
-  
-  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
@@ -60,10 +61,10 @@
 
   <VariousLabel>(erilaisia)</VariousLabel>
 
-  
+  <!-- History events -->
   <ColonistDied>Yhdyskuntalainen kuoli</ColonistDied>
 
-  
+  <!-- Rotation -->
   <North>North</North>
   <South>South</South>
   <West>West</West>

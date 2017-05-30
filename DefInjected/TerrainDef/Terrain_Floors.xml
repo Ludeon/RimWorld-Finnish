@@ -1,7 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Misc -->
+
+  <Concrete.label>betoni</Concrete.label>
+  <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
+
+  <PavedTile.label>betonilaatta</PavedTile.label>
+  <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
+
+  <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Puulankuista tehty lattianpäällyste. Luo lämpimän ja kotoisan tunnelman.</WoodPlankFloor.description>
 
   <MetalTile.label>metallilaatta</MetalTile.label>
   <MetalTile.description>Metallilaattoja avaruusalustunnelman luomiseen.</MetalTile.description>
@@ -15,17 +24,8 @@
   <SterileTile.label>steriili laatta</SterileTile.label>
   <SterileTile.description>Steriilit laatat auttavat pitämään huoneen puhtaana. Erittäin hyödyllisiä sairaaloissa estämääm potilaita saamasta erilaisia tartuntoja. Mitäänsanomattoman näköiset ja erittäin hitaat rakentaa.</SterileTile.description>
 
-  <PavedTile.label>betonilaatta</PavedTile.label>
-  <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
 
-  <Concrete.label>betoni</Concrete.label>
-  <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
-
-  <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Puulankuista tehty lattianpäällyste. Luo lämpimän ja kotoisan tunnelman.</WoodPlankFloor.description>
-
-
-  
+  <!-- Carpets -->
 
   <CarpetRed.label>punainen kokolattiamatto</CarpetRed.label>
   <CarpetRed.description>Pehmeä matto viehättävässä ruunvärisessä sävyssä.</CarpetRed.description>

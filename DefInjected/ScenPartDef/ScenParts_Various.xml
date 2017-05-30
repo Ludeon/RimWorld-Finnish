@@ -1,27 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- player pawn filters -->
 
   <GameStartDialog.label>game start dialog</GameStartDialog.label>
-
-
-  
-
   <PawnFilter_Age.label>allowed age range</PawnFilter_Age.label>
 
 
-  
+  <!-- player pawn modifier -->
 
   <OnPawnDeathExplode.label>characters explode on death</OnPawnDeathExplode.label>
   <ForcedTrait.label>forced trait</ForcedTrait.label>
   <ForcedHediff.label>forced health condition</ForcedHediff.label>
   <SetNeedLevel.label>set need level</SetNeedLevel.label>
   <StartingResearch.label>start with research</StartingResearch.label>
-  <MapCondition_Planetkiller.label>planetkiller weapon incoming</MapCondition_Planetkiller.label>
+  <GameCondition_Planetkiller.label>planetkiller weapon incoming</GameCondition_Planetkiller.label>
 
 
-  
+  <!-- rules changes -->
 
   <Rule_DisallowDesignator_ZoneAdd_Growing.label>cannot sow</Rule_DisallowDesignator_ZoneAdd_Growing.label>
   <Rule_DisallowDesignator_ZoneAdd_Growing.description>Cannot sow plants on the ground.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
@@ -38,16 +34,19 @@
   <StatFactor.label>stat multiplier</StatFactor.label>
 
 
-  
+  <!-- grouped -->
 
   <DisableIncident.label>disable incident</DisableIncident.label>
   <CreateIncident.label>create incident</CreateIncident.label>
   <Rule_DisallowBuilding.label>disallow building</Rule_DisallowBuilding.label>
-  <PermanentMapCondition.label>permanent map condition</PermanentMapCondition.label>
+  <PermanentGameCondition.label>permanent game condition</PermanentGameCondition.label>
   <StartingAnimal.label>start with animal(s)</StartingAnimal.label>
   <StartingThing_Defined.label>start with</StartingThing_Defined.label>
   <ScatterThingsNearPlayerStart.label>start near</ScatterThingsNearPlayerStart.label>
   <ScatterThingsAnywhere.label>scattered randomly</ScatterThingsAnywhere.label>
 
+
+  <!--<MapCondition_Planetkiller.label>planetkiller weapon incoming</MapCondition_Planetkiller.label>-->
+  <!--<PermanentMapCondition.label>permanent map condition</PermanentMapCondition.label>-->
 
 </LanguageData>

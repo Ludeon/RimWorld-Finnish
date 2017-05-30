@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- Pure stuffs: Basics -->
 
   <Silver.label>hopeaa</Silver.label>
   <Silver.description>Tätä metallia käytetään useimmiten kauppatavaran valuuttana. Sitä voidaan myös käyttää viehättävien koristeiden tekemiseen.</Silver.description>
@@ -32,7 +32,7 @@
   <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
 
 
-  
+  <!-- Pure stuffs: Fabric, leather, etc -->
 
   <Cloth.label>kangasta</Cloth.label>
   <Cloth.description>Orgaanisista kuiduista kudottua kangasta.</Cloth.description>
@@ -51,23 +51,36 @@
   <Hyperweave.stuffProps.stuffAdjective>hyperkudottu</Hyperweave.stuffProps.stuffAdjective>
 
 
-  
+  <!-- Wool -->
 
-  <MegaslothWool.label>Megasloth wool</MegaslothWool.label>
-  <MegaslothWool.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.</MegaslothWool.description>
-  <MegaslothWool.stuffProps.stuffAdjective>Megasloth wool</MegaslothWool.stuffProps.stuffAdjective>
+  <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
+  <WoolMegasloth.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
 
-  <MuffaloWool.label>hirvibiisonin villaa</MuffaloWool.label>
-  <MuffaloWool.description>Pehmeä, kevyt ja hyvä eristämään lämpöä. Villavaatteet pitävät ruumiin lämpimänä jopa äärimmäisissä olosuhteissa.</MuffaloWool.description>
-  <MuffaloWool.stuffProps.stuffAdjective>hirvibiisonin villainen</MuffaloWool.stuffProps.stuffAdjective>
+  <WoolMuffalo.label>muffalo wool</WoolMuffalo.label>
+  <WoolMuffalo.description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>muffalo wool</WoolMuffalo.stuffProps.stuffAdjective>
 
-  <CamelHair.label>kamelinkarvaa</CamelHair.label>
-  <CamelHair.description>Kamelinkarvaiset vaatteet ovat yleisesti aavikkomatkaajien käyttämiä suojaamaan kuumalta. Se tarjoaa erinomaisen eristyksen lämmöltä sen termostaattisten ominaisuuksiensa ansiosta.</CamelHair.description>
-  <CamelHair.stuffProps.stuffAdjective>kamelinkarvainen</CamelHair.stuffProps.stuffAdjective>
+  <WoolCamel.label>camelhair</WoolCamel.label>
+  <WoolCamel.description>Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>camelhair</WoolCamel.stuffProps.stuffAdjective>
 
-  <AlpacaWool.label>alpakanvillaa</AlpacaWool.label>
-  <AlpacaWool.description>Huomattavan pehmeä villaa alpakasta.</AlpacaWool.description>
-  <AlpacaWool.stuffProps.stuffAdjective>alpakanvillainen</AlpacaWool.stuffProps.stuffAdjective>
+  <WoolAlpaca.label>alpaca wool</WoolAlpaca.label>
+  <WoolAlpaca.description>The remarkably soft wool of an alpaca. It is very warm.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>alpaca wool</WoolAlpaca.stuffProps.stuffAdjective>
 
+
+  <!--<MegaslothWool.label>Megasloth wool</MegaslothWool.label>-->
+  <!--<MegaslothWool.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.</MegaslothWool.description>-->
+  <!--<MegaslothWool.stuffProps.stuffAdjective>Megasloth wool</MegaslothWool.stuffProps.stuffAdjective>-->
+  <!--<MuffaloWool.label>hirvibiisonin villaa</MuffaloWool.label>-->
+  <!--<MuffaloWool.description>Pehmeä, kevyt ja hyvä eristämään lämpöä. Villavaatteet pitävät ruumiin lämpimänä jopa äärimmäisissä olosuhteissa.</MuffaloWool.description>-->
+  <!--<MuffaloWool.stuffProps.stuffAdjective>hirvibiisonin villainen</MuffaloWool.stuffProps.stuffAdjective>-->
+  <!--<CamelHair.label>kamelinkarvaa</CamelHair.label>-->
+  <!--<CamelHair.description>Kamelinkarvaiset vaatteet ovat yleisesti aavikkomatkaajien käyttämiä suojaamaan kuumalta. Se tarjoaa erinomaisen eristyksen lämmöltä sen termostaattisten ominaisuuksiensa ansiosta.</CamelHair.description>-->
+  <!--<CamelHair.stuffProps.stuffAdjective>kamelinkarvainen</CamelHair.stuffProps.stuffAdjective>-->
+  <!--<AlpacaWool.label>alpakanvillaa</AlpacaWool.label>-->
+  <!--<AlpacaWool.description>Huomattavan pehmeä villaa alpakasta.</AlpacaWool.description>-->
+  <!--<AlpacaWool.stuffProps.stuffAdjective>alpakanvillainen</AlpacaWool.stuffProps.stuffAdjective>-->
 
 </LanguageData>
