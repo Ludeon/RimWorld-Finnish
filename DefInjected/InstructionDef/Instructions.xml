@@ -6,7 +6,7 @@
   <ChooseLandingSite.text>Tässä valitset laskeutumisalueen.\n\nOn olemassa paljon biomeita, mutta aloitetaan toistaiseksi ystävällisellä biomilla.\n\nKlikkaa laskeutumisaluetta, jolla on lauhkea metsä -biomi ja jonka maasto on tasainen ja paina SEURAAVA.\n\nVoit käyttää MAASTO-välilehteä nähdäksesi tietoja valitusta laatasta.</ChooseLandingSite.text>
   <ChooseLandingSite.rejectInputMessage>Ole hyvä ja valitse laskeutumisalue lauhkea metsä -biomissa, jossa on tasainen maasto.</ChooseLandingSite.rejectInputMessage>
 
-  <RandomizeCharacter.text>Nyt luot hahmot\n\nKokeile satunnaistaa hahmo SATUNNAISTA-napilla.</RandomizeCharacter.text>
+  <RandomizeCharacter.text>Nyt luot hahmot!\n\nKokeile satunnaistaa hahmo SATUNNAISTA-napilla.</RandomizeCharacter.text>
   <RandomizeCharacter.rejectInputMessage>Ole hyvä ja kokeile ensin hahmon satunnaistamista.</RandomizeCharacter.rejectInputMessage>
 
   <AcceptStartingPawns.text>Loistavaa!\n\nSatunnaista lisää jos haluat - mutta älä yritä saada täydellistä hahmoa. Jokaisella on puutteensa, ja ne tekevät tarinasta mielenkiintoisemman!\n\nVoit myös nimetä hahmot uudelleen klikkaamalla heidän nimiään.\n\nPaina ALOITA kun olet valmis.</AcceptStartingPawns.text>
@@ -31,7 +31,7 @@
 
   <BuildRoomDoor.text>Nyt vain laita OVI minkä tahansa seinän päälle.\n\nOVI on aivan SEINÄN vieressä ARKKITEHTI-välilehdessä.</BuildRoomDoor.text>
   <BuildRoomDoor.rejectInputMessage>Ole hyvä ja rakenna puinen ovi yhden huoneen seinän päälle.</BuildRoomDoor.rejectInputMessage>
-  <BuildRoomDoor.onMapInstruction>Rakenna ovi yhden seinän päälle wall</BuildRoomDoor.onMapInstruction>
+  <BuildRoomDoor.onMapInstruction>Rakenna ovi yhden seinän päälle</BuildRoomDoor.onMapInstruction>
 
   <BuildBeds.text>Yhdyskuntalaisesi rakentavat nyt huoneen!\n\nNyt he tarvitsevat nukkumapaikan. Laita kolme SÄNKYÄ huoneeseen.\n\nLöydät ne HUONEKALUT-kategoriasta.</BuildBeds.text>
   <BuildBeds.rejectInputMessage>Ole hyvä ja rakenna puisia sänkyjä huoneeseen.</BuildBeds.rejectInputMessage>

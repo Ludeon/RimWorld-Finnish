@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlayerColony.label>New Arrivals</PlayerColony.label>
-  <PlayerColony.description>Your own community.</PlayerColony.description>
-  <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
+  <PlayerColony.label>Uudet tulokkaat</PlayerColony.label>
+  <PlayerColony.description>Sinun oma yhteisösi.</PlayerColony.description>
+  <PlayerColony.pawnsPlural>yhdyskuntalaiset</PlayerColony.pawnsPlural>
 
-  <PlayerTribe.label>New Tribe</PlayerTribe.label>
-  <PlayerTribe.description>Your own tribe.</PlayerTribe.description>
-  <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
+  <PlayerTribe.label>Uusi heimo</PlayerTribe.label>
+  <PlayerTribe.description>Sinun oma heimosi.</PlayerTribe.description>
+  <PlayerTribe.pawnsPlural>heimolaiset</PlayerTribe.pawnsPlural>
 
 
 </LanguageData>

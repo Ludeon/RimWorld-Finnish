@@ -151,14 +151,6 @@ DefInjected\DifficultyDef\Difficulties.xml
     <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
     <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
 
-DefInjected\FactionDef\Factions_Player.xml
-    <PlayerColony.description>Your own community.</PlayerColony.description>
-    <PlayerColony.label>New Arrivals</PlayerColony.label>
-    <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
-    <PlayerTribe.description>Your own tribe.</PlayerTribe.description>
-    <PlayerTribe.label>New Tribe</PlayerTribe.label>
-    <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
-
 DefInjected\GameConditionDef\GameConditions_Misc.xml
     <ClimateCycle.description>A multi-year climate cycle due to an elliptical orbit.</ClimateCycle.description>
     <ClimateCycle.label>climate cycle</ClimateCycle.label>

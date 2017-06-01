@@ -20,8 +20,8 @@
   <QuadrumDecembary>Joulutammi</QuadrumDecembary>
 
   <Born>Syntynyt: {0}</Born>
-  <AgeChronological>Kronologinen ikä: {0} vuotta, {1} kautta, {2} päivää</AgeChronological>
-  <AgeBiological>Biologinen ikä: {0} vuotta, {1} kautta, {2} päivää</AgeBiological>
+  <AgeChronological>Kronologinen ikä: {0} vuotta, {1} neljännestä, {2} päivää</AgeChronological>
+  <AgeBiological>Biologinen ikä: {0} vuotta, {1} neljännestä, {2} päivää</AgeBiological>
 
   <!-- Date periods -->
   <Period1Year>1 vuosi</Period1Year>
