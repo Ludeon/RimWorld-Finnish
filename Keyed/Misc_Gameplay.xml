@@ -95,7 +95,7 @@
   <Room>Room</Room>
   <BeautyHere>Beauty here</BeautyHere>
   <NoPower>No power</NoPower>
-  <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
+  <WorkSpeedPenalty>Työskentelynopeuden haitta</WorkSpeedPenalty>
   <DisabledCommand>DISABLED</DisabledCommand>
   <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
   <NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
@@ -135,7 +135,7 @@
   <Headshot>Osuma päähän</Headshot>
   <TextMote_TreatSuccess>Hoito onnistui!\n{0} todennäköisyys</TextMote_TreatSuccess>
   <TextMote_TreatFailed>Hoito epäonnistui\n{0} todennäköisyys</TextMote_TreatFailed>
-  <TextMote_HarvestFailed>Harvest\nfailed</TextMote_HarvestFailed>
+  <TextMote_HarvestFailed>Kerääminen\nepäonnistui</TextMote_HarvestFailed>
   <TextMote_YieldWasted>Yield\nwasted</TextMote_YieldWasted>
   <TextMote_ProductWasted>Product\nwasted</TextMote_ProductWasted>
   <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
@@ -144,8 +144,8 @@
   <TextMote_TrainFail>Kouluttaminen epäonnistui: {0}\n{1} todennäköisyys</TextMote_TrainFail>
   <TextMote_TrainSuccess>Koulutettu: {0}\n{1} todennäköisyys</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
-  <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
-  <TextMote_Dodge>Dodge</TextMote_Dodge>
+  <TextMote_ConstructionFail>Rakentaminen\nepäonnistui</TextMote_ConstructionFail>
+  <TextMote_Dodge>Väistöliike</TextMote_Dodge>
   <TextMote_Tended>{0} tended</TextMote_Tended>
 
   <!-- Areas -->
@@ -357,7 +357,7 @@
   <NoStuffsToBuildWith>Sinulla ei ole sopivaa materiaalia tämän rakentamiseen.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
-  <WillGetWorkSpeedPenalty>{0} will have work speed penalty</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>Rakennuksella {0} tulee olemaan työskentynopeuden haitta</WillGetWorkSpeedPenalty>
   <MustPlaceUnroofed>Ei voida asettaa katon alle.</MustPlaceUnroofed>
   <MustPlaceHeadOnShipBeam>Pitää asettaa siten että pääty on aluksen rakennepalkissa kiinni.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Pitää asettaa jonkin viereen joka vaatii täyttösuppilon.</MustPlaceNextToHopperAccepter>

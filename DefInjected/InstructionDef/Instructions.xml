@@ -1,119 +1,119 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateWorldParams.text>Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE!</CreateWorldParams.text>
+  <CreateWorldParams.text>Tervetuloa Rimworldiin! Tämä tutoriaali opettaa sinulle pelin pelaamisen.\n\nEnsimmäinen askel on luoda maailma jossa pelata.\n\nTämä sivu määrittää, miten maailmasi tulisi luoda.\n\nOletusarvot ovat hyvät - ole hyvä ja paina LUO!</CreateWorldParams.text>
 
-  <ChooseLandingSite.text>Here, you choose your landing site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a landing site with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
-  <ChooseLandingSite.rejectInputMessage>Please choose a temperate forest landing site with flat terrain.</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.text>Tässä valitset laskeutumisalueen.\n\nOn olemassa paljon biomeita, mutta aloitetaan toistaiseksi ystävällisellä biomilla.\n\nKlikkaa laskeutumisaluetta, jolla on lauhkea metsä -biomi ja jonka maasto on tasainen ja paina SEURAAVA.\n\nVoit käyttää MAASTO-välilehteä nähdäksesi tietoja valitusta laatasta.</ChooseLandingSite.text>
+  <ChooseLandingSite.rejectInputMessage>Ole hyvä ja valitse laskeutumisalue lauhkea metsä -biomissa, jossa on tasainen maasto.</ChooseLandingSite.rejectInputMessage>
 
-  <RandomizeCharacter.text>Now you'll generate characters!\n\nTry randomizing a character with the RANDOMIZE button.</RandomizeCharacter.text>
-  <RandomizeCharacter.rejectInputMessage>Please try randomizing a character first.</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.text>Nyt luot hahmot\n\nKokeile satunnaistaa hahmo SATUNNAISTA-napilla.</RandomizeCharacter.text>
+  <RandomizeCharacter.rejectInputMessage>Ole hyvä ja kokeile ensin hahmon satunnaistamista.</RandomizeCharacter.rejectInputMessage>
 
-  <AcceptStartingPawns.text>Great!\n\nRandomize more if you want - but don't try to get the perfect character. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready.</AcceptStartingPawns.text>
-  <MapCameraDolly.text>Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys, or click and drag with the middle mouse button.\n\nTry it now!</MapCameraDolly.text>
-  <MapCameraZoom.text>Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoomIn} and {Key:MapZoomOut} keys.\n\nTry it now!</MapCameraZoom.text>
-  <Pause.text>You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right.</Pause.text>
-  <TimeControls.text>You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, and {Key:TimeSpeedSuperfast} keys, or with the time controls in the bottom right.</TimeControls.text>
+  <AcceptStartingPawns.text>Loistavaa!\n\nSatunnaista lisää jos haluat - mutta älä yritä saada täydellistä hahmoa. Jokaisella on puutteensa, ja ne tekevät tarinasta mielenkiintoisemman!\n\nVoit myös nimetä hahmot uudelleen klikkaamalla heidän nimiään.\n\nPaina ALOITA kun olet valmis.</AcceptStartingPawns.text>
+  <MapCameraDolly.text>Täällä sinä nyt olet planeetan pinnalla!\n\nKokeile nyt kameran liikuttamista.\n\nKäytä {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}-näppäimiä tai klikkaa ja vedä hiiren keskipainikkeella.\n\nKokeile sitä nyt!</MapCameraDolly.text>
+  <MapCameraZoom.text>Loistavaa!\n\nVoit myös lähentää ja loitontaa kameraa hiiren rullalla tai näppäimillä {Key:MapZoomIn} ja {Key:MapZoomOut}.\n\nKokeile sitä nyt!</MapCameraZoom.text>
+  <Pause.text>Voit pysäyttää ajan.\n\nTämä tarkoittaa sitä, että sinun ei tarvitse koskaan kiirehtiä. Voit aina pysäyttää pelin ja miettiä rauhassa toimenpiteitäsi.\n\nKokeile pelin pysäyttämistä {Key:TogglePause}-näppäimellä tai käyttämällä ajan ohjaimia oikeassa alakulmassa.</Pause.text>
+  <TimeControls.text>Voit myös nopeuttaa aikaa.\n\nKokeile ajan ohjaamista näppäimillä {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} ja {Key:TimeSpeedSuperfast} tai ajan ohjaimilla oikeassa alakulmassa.</TimeControls.text>
 
-  <MakeStockpile.text>Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map.</MakeStockpile.text>
-  <MakeStockpile.rejectInputMessage>Please make a stockpile on the indicated area.</MakeStockpile.rejectInputMessage>
-  <MakeStockpile.onMapInstruction>Place stockpile here\n(drag corner-to-corner)</MakeStockpile.onMapInstruction>
+  <MakeStockpile.text>Loistavaa!\n\nTee nyt varastoalue, jotta yhdyskuntalaiset tietävät, missä säilyttää esineitä.\n\n1. Klikkaa ARKKITEHTI-välilehteä vasemmassa alakulmassa.\n2. Klikkaa ALUEET-kategoriaa.\n3. Valitse VARASTOALUE-työkalu.\n4. Klikkaa ja vedä neliö kuten kartalla näytetään.</MakeStockpile.text>
+  <MakeStockpile.rejectInputMessage>Ole hyvä ja tee varastoalue näytetylle alueelle.</MakeStockpile.rejectInputMessage>
+  <MakeStockpile.onMapInstruction>Tee tähän varastoalue\n(veddä kulmasta kulmaan)</MakeStockpile.onMapInstruction>
 
-  <EndStockpileDesignating.text>Right-click to get out of stockpile designating mode.</EndStockpileDesignating.text>
+  <EndStockpileDesignating.text>Klikkaa hiiren oikealla näppäimellä päästäksesi pois varastoalueenmääritystilasta.</EndStockpileDesignating.text>
 
-  <UnforbidStartingResources.text>Now, to allow your colonists to bring your items to the stockpile, you must unforbid the items.\n\n1. Clicking your starting items to select them.\n2. Click the TOGGLE FORBIDDEN command to unforbid them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)</UnforbidStartingResources.text>
-  <UnforbidStartingResources.rejectInputMessage>Please unforbid your starting items.</UnforbidStartingResources.rejectInputMessage>
-  <UnforbidStartingResources.onMapInstruction>Unforbid this</UnforbidStartingResources.onMapInstruction>
+  <UnforbidStartingResources.text>Jotta yhdyskuntalaiset voivat nyt tuoda ensineitä varastoalueelle sinun täytyy sallia esineet.\n\n1. Klikkaa aloitusesineitä valitaksesi niitä.\n2. Paina KIELLÄ TAI SALLI -komentoa salliaksesi ne.\n\n(Edistynyt vihje: Tuplaklikkaa esinettä valitaksesi kaikki näytössä olevat samantyyppiset esineet.)</UnforbidStartingResources.text>
+  <UnforbidStartingResources.rejectInputMessage>Ole hyvä ja salli aloitusesineesi.</UnforbidStartingResources.rejectInputMessage>
+  <UnforbidStartingResources.onMapInstruction>Salli tämä</UnforbidStartingResources.onMapInstruction>
 
-  <BuildRoomWalls.text>Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map.</BuildRoomWalls.text>
-  <BuildRoomWalls.rejectInputMessage>Please build wooden walls along the edges of the highlighted rectangle.</BuildRoomWalls.rejectInputMessage>
-  <BuildRoomWalls.onMapInstruction>Build walls</BuildRoomWalls.onMapInstruction>
+  <BuildRoomWalls.text>Mahtavaa! Seuraavaksi rakennamme huoneen.\n\n1. Klikkaa ARKKITEHTI.\n2. Klikkaa RAKENTEET.\n3. Valitse SEINÄ.\n4. Valitse PUU materiaaliksi.\n5. Vedä neljä seinää luodaksesi kartalla esitetyn muodon.</BuildRoomWalls.text>
+  <BuildRoomWalls.rejectInputMessage>Ole hyvä ja rakenna puiset seinät korostetun suorakaiteen sivuja pitkin.</BuildRoomWalls.rejectInputMessage>
+  <BuildRoomWalls.onMapInstruction>Rakenna seiniä</BuildRoomWalls.onMapInstruction>
 
-  <BuildRoomDoor.text>Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu.</BuildRoomDoor.text>
-  <BuildRoomDoor.rejectInputMessage>Please build a wooden door over one of your room walls.</BuildRoomDoor.rejectInputMessage>
-  <BuildRoomDoor.onMapInstruction>Build a door over one wall</BuildRoomDoor.onMapInstruction>
+  <BuildRoomDoor.text>Nyt vain laita OVI minkä tahansa seinän päälle.\n\nOVI on aivan SEINÄN vieressä ARKKITEHTI-välilehdessä.</BuildRoomDoor.text>
+  <BuildRoomDoor.rejectInputMessage>Ole hyvä ja rakenna puinen ovi yhden huoneen seinän päälle.</BuildRoomDoor.rejectInputMessage>
+  <BuildRoomDoor.onMapInstruction>Rakenna ovi yhden seinän päälle wall</BuildRoomDoor.onMapInstruction>
 
-  <BuildBeds.text>Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.</BuildBeds.text>
-  <BuildBeds.rejectInputMessage>Please build wooden beds inside the room.</BuildBeds.rejectInputMessage>
-  <BuildBeds.onMapInstruction>Build three beds inside the room</BuildBeds.onMapInstruction>
+  <BuildBeds.text>Yhdyskuntalaisesi rakentavat nyt huoneen!\n\nNyt he tarvitsevat nukkumapaikan. Laita kolme SÄNKYÄ huoneeseen.\n\nLöydät ne HUONEKALUT-kategoriasta.</BuildBeds.text>
+  <BuildBeds.rejectInputMessage>Ole hyvä ja rakenna puisia sänkyjä huoneeseen.</BuildBeds.rejectInputMessage>
+  <BuildBeds.onMapInstruction>Rakenna kolme sänkyä huoneeseen</BuildBeds.onMapInstruction>
 
-  <BuildTorchLamp.text>You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room.</BuildTorchLamp.text>
-  <BuildTorchLamp.rejectInputMessage>Please build a torch lamp inside the room.</BuildTorchLamp.rejectInputMessage>
-  <BuildTorchLamp.onMapInstruction>Build a torch lamp inside the room</BuildTorchLamp.onMapInstruction>
+  <BuildTorchLamp.text>Haluat sisälle myös hieman valoa tai yhdyskuntalaisesi tulevat pahalle tuulelle pimeässä.\n\nRakenna huoneeseen SOIHTU.</BuildTorchLamp.text>
+  <BuildTorchLamp.rejectInputMessage>Ole hyvä ja rakenna huoneeseen soihtu.</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.onMapInstruction>Rakenna huoneeseen soihtu</BuildTorchLamp.onMapInstruction>
 
-  <BuildAnimalSleepingSpot.text>So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping.</BuildAnimalSleepingSpot.text>
-  <BuildAnimalSleepingSpot.rejectInputMessage>Please place an animal sleeping spot inside the room.</BuildAnimalSleepingSpot.rejectInputMessage>
-  <BuildAnimalSleepingSpot.onMapInstruction>Build an animal sleeping spot\ninside the room</BuildAnimalSleepingSpot.onMapInstruction>
+  <BuildAnimalSleepingSpot.text>Jotta lemmikkisi nukkuisi sisällä kanssassi, laita huoneeseen ELÄIMEN NUKKUMAPAIKKA.\n\nNukkumapaikat eivät ole oikeaita rakennuksia - ne vain ovat paikkoja jotka on asetettu nukkumiseen.</BuildAnimalSleepingSpot.text>
+  <BuildAnimalSleepingSpot.rejectInputMessage>Ole hyvä ja laita huoneeseen eläimen nukkumapaikka.</BuildAnimalSleepingSpot.rejectInputMessage>
+  <BuildAnimalSleepingSpot.onMapInstruction>Laita huoneeseen eläimen nukkumapaikka</BuildAnimalSleepingSpot.onMapInstruction>
 
-  <BuildHorseshoesPin.text>Your colonists need sources of joy or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room.</BuildHorseshoesPin.text>
-  <BuildHorseshoesPin.rejectInputMessage>Please place a horseshoes pin somewhere near the room.</BuildHorseshoesPin.rejectInputMessage>
-  <BuildHorseshoesPin.onMapInstruction>Build a horseshoes pin\noutside the room</BuildHorseshoesPin.onMapInstruction>
+  <BuildHorseshoesPin.text>Yhdyskuntalaisesi tarvitsevat ilonlähteitä tai heistä tulee ennen pitkää surullisia.\n\nRakenna HEVOSENKENKÄPELIN PAALU ulos lähelle huonetta.</BuildHorseshoesPin.text>
+  <BuildHorseshoesPin.rejectInputMessage>Ole hyvä ja rakenna hevosenkenkäpelin paalu johonkin lähelle huonetta.</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.onMapInstruction>Rakenna hevosenkenkäpelin paalu\nhuoneen ulkopuolelle</BuildHorseshoesPin.onMapInstruction>
 
-  <MakeGrowingZone.text>The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops.</MakeGrowingZone.text>
-  <MakeGrowingZone.rejectInputMessage>Please make a growing zone on the indicated area.</MakeGrowingZone.rejectInputMessage>
-  <MakeGrowingZone.onMapInstruction>Place growing zone here\n(drag corner-to-corner)</MakeGrowingZone.onMapInstruction>
+  <MakeGrowingZone.text>Taloa rakennetaan!\n\nYhdyskuntalaisesi tarvitsevat jotain syötävää, joten laita KASVATUSALUE kuten kartalla näytetään.\n\nTässä yhdyskuntalaisesi kylvävät viljelmiä.</MakeGrowingZone.text>
+  <MakeGrowingZone.rejectInputMessage>Ole hyvä ja tee kasvatusalue osoitetulle alueelle.</MakeGrowingZone.rejectInputMessage>
+  <MakeGrowingZone.onMapInstruction>Laita kasvatusalue tänne\n(vedä kulmasta kulmaan)</MakeGrowingZone.onMapInstruction>
 
-  <SetToGrowRice.text>You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the "Select plant" command at the bottom and change it to Rice.</SetToGrowRice.text>
-  <SetToGrowRice.rejectInputMessage>Please set your growing zone to grow rice.</SetToGrowRice.rejectInputMessage>
-  <SetToGrowRice.onMapInstruction>Set this growing zone to grow rice</SetToGrowRice.onMapInstruction>
+  <SetToGrowRice.text>Voit päättää, mitä kasvia yhdyskuntalaistesi tulee kylvää kasvatusalueelle.\n\n1. Klikkaa oikealla hiirellä poistuaksesi arkkitehtitilasta.\n2. Klikkaa kasvatusaluetta valitaksesi sen.\n3. Klikkaa "Valitse kasvi"-komentoa alareunassa ja vaihda se riisiin.</SetToGrowRice.text>
+  <SetToGrowRice.rejectInputMessage>Ole hyvä ja aseta kasvatusalueesi viljelemään riisiä.</SetToGrowRice.rejectInputMessage>
+  <SetToGrowRice.onMapInstruction>Aseta tämä kasvatusalue viljelemään riisiä</SetToGrowRice.onMapInstruction>
 
-  <EquipWeapons.text>Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist.</EquipWeapons.text>
-  <EquipWeapons.rejectInputMessage>Please have your colonists equip weapons.</EquipWeapons.rejectInputMessage>
-  <EquipWeapons.onMapInstruction>Equip this</EquipWeapons.onMapInstruction>
+  <EquipWeapons.text>Määrää yhdyskuntalaisiasi ottamaan aloitusaseet käyttöön. Ottaaksesi aseen käyttöön:\n\n1. Klikkaa yhdyskuntalaista valitaksesi heidät.\n2. Klikkaa hiiren oikealla näppäimellä asetta jonka haluat otettavan käyttöön.\n3. Klikkaa "ota ase käyttöön" pikavalikosta.\n\nTee tämä jokaiselle yhdyskuntalaiselle.</EquipWeapons.text>
+  <EquipWeapons.rejectInputMessage>Ole hyvä ja määrää yhdyskuntalaisiasi ottamaan aloitusaseet käyttöön.</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.onMapInstruction>Ota tämä käyttöön</EquipWeapons.onMapInstruction>
 
-  <BuildFueledStove.text>Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room.</BuildFueledStove.text>
-  <BuildFueledStove.rejectInputMessage>Please build the fueled stove inside the room you built earlier.</BuildFueledStove.rejectInputMessage>
-  <BuildFueledStove.onMapInstruction>Build a fueled stove inside the room</BuildFueledStove.onMapInstruction>
+  <BuildFueledStove.text>Erinomaista!\n\nNyt sinun täytyy tehdä liesi ruuan valmistamiseen.\n\nRakenna PUULIESI huoneeseen.</BuildFueledStove.text>
+  <BuildFueledStove.rejectInputMessage>Ole hyvä ja rakenna puuliesi huoneeseen jonka teit aikaisemmin.</BuildFueledStove.rejectInputMessage>
+  <BuildFueledStove.onMapInstruction>Rakenna puuliesi huoneeseen</BuildFueledStove.onMapInstruction>
 
-  <AddBillSimpleMeal.text>Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it.</AddBillSimpleMeal.text>
-  <AddBillSimpleMeal.rejectInputMessage>Please add a bill to cook simple meals at your cook stove.</AddBillSimpleMeal.rejectInputMessage>
-  <AddBillSimpleMeal.onMapInstruction>Select this</AddBillSimpleMeal.onMapInstruction>
+  <AddBillSimpleMeal.text>Yhdyskuntalaisille täytyy määrätä mitä keittää.\n\nKeittomääräykset lisätään itse liedessä. Kun tilaus on luotu, yhdyskuntalainen tekee työn automaattisesti.\n\n1. Odota, että lieden rakentaminen tulee valmiiksi.\n2. Klikkaa liettä valitaksesi sen.\n3. Avaa TILAUKSET-välilehti.\n4. Klikkaa LISÄÄ TILAUS.\n5. Valitse KOKKAA YKSINKERTAINEN ATERIA pikavalikosta.\n6. Klikkaa +-näppäintä lisätäksesi määrän 10:een.\n\nMuista, että voit nopeuttaa aikaa jo rakentamisessa kestää liian kauan.\n\nVoit myös valita yhdyskuntalaisen ja klikata hiiren oikealla näppäimellä liettä priorioidaksesi sen rakentamisen.</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.rejectInputMessage>Ole hyvä ja lisää tilaus yksinkertaisen aterian kokkaamiseen liedessä.</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.onMapInstruction>Valitse tämä</AddBillSimpleMeal.onMapInstruction>
 
-  <MineSteel.text>Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining.</MineSteel.text>
-  <MineSteel.rejectInputMessage>Please use the 'mine' designator on the compacted steel.</MineSteel.rejectInputMessage>
-  <MineSteel.onMapInstruction>Designate all this\nfor mining</MineSteel.onMapInstruction>
+  <MineSteel.text>Nyt yhdyskuntalaisesi valmistavat ruokaa! Herkullista!\n\nSeuraavaksi haluat louhia mineraaleja. Olen luonut hieman louhittavaa terästä lähelle tukikohtaasi.\n\nValitse LOUHI ja vedä teräksen yli määrätäksesi sen louhittavaksi.</MineSteel.text>
+  <MineSteel.rejectInputMessage>Ole hyvä ja käytä "louhi" pakkautuneen teräksen päällä.</MineSteel.rejectInputMessage>
+  <MineSteel.onMapInstruction>Määrää tämä kaikki\nlouhittavaksi</MineSteel.onMapInstruction>
 
-  <ChopTrees.text>You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.)</ChopTrees.text>
-  <ChopTrees.rejectInputMessage>Please drag the 'chop wood' designator over some trees.</ChopTrees.rejectInputMessage>
+  <ChopTrees.text>Haluat kerätä hieman puuta. Määrää joitain puita kaadettavaksi.\n\nValitse KAADA PUITA ja määrää 10 puuta kaadettavaksi.\n\n(Edistynyt vihje: Voit vetää laatikon puiden yli määrätäksesi monen kerralla.)</ChopTrees.text>
+  <ChopTrees.rejectInputMessage>Ole hyvä ja vedä "kaada puita" muutaman puun yli.</ChopTrees.rejectInputMessage>
 
-  <OpenMainTabWork.text>You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen.</OpenMainTabWork.text>
-  <OpenMainTabWork.rejectInputMessage>Please open the 'Work' tab.</OpenMainTabWork.rejectInputMessage>
+  <OpenMainTabWork.text>Voit määrittää kuka yhdyskuntalainen tekee mitä työtä.\n\nAvaa TYÖNTEKO-välilehti alareunasta.</OpenMainTabWork.text>
+  <OpenMainTabWork.rejectInputMessage>Ole hyvä a avaa "Työnteko"-välilehti.</OpenMainTabWork.rejectInputMessage>
 
-  <ChangeWorkSettings.text>You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is a key skill for success in RimWorld. So set the work settings carefully, and review them often!</ChangeWorkSettings.text>
-  <ChangeWorkSettings.rejectInputMessage>Please open the 'Work' tab and change some settings.</ChangeWorkSettings.rejectInputMessage>
+  <ChangeWorkSettings.text>Voit määrittää kuka tekee minkälaista työtä käyttämällä valintaruutuja. Yhdyskuntalaiset tekevät työtehtäviä järjestyksessä vasemmalta oikealle.\n\nKokeile astetusten muuttamista nyt.\n\nPidä varasi - Yhdyskuntalaiset noudattavat aina työtehtävien tärkeysjärjestystä, vaikka tämä saisi heidät tekemään tyhmiä asioita! Järkevän työskentelyjärjestyksen asettaminen on RimWorldissa menestymisessä keskeinen taito. Aseta siis työnteon asetukset varovaisesti, ja tarkista ne usein!</ChangeWorkSettings.text>
+  <ChangeWorkSettings.rejectInputMessage>Ole hyvä ja avaa "Työnteko"-välilehti ja muuta joitan asetuksia.</ChangeWorkSettings.rejectInputMessage>
 
-  <BuildSimpleResearchBench.text>To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room.</BuildSimpleResearchBench.text>
-  <BuildSimpleResearchBench.rejectInputMessage>Please place a wooden simple research bench inside the room you built earlier.</BuildSimpleResearchBench.rejectInputMessage>
-  <BuildSimpleResearchBench.onMapInstruction>Build a wooden simple research bench\ninside the room</BuildSimpleResearchBench.onMapInstruction>
+  <BuildSimpleResearchBench.text>Edetäksesi sinun täytyy tutkia uutta teknologiaa.\n\nRakenna puinen YKSINKERTAINEN TUTKIMUSPÖYTÄ huoneeseesi.</BuildSimpleResearchBench.text>
+  <BuildSimpleResearchBench.rejectInputMessage>Ole hyvä ja aseta puinen yksinkertainen tutkimuspöytä huoneeseesi, jonka rakensit aikaisemmin.</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.onMapInstruction>Rakenna puinen yksinkertainen\ntutkimuspöytä huoneeseen</BuildSimpleResearchBench.onMapInstruction>
 
-  <OpenMainTabResearch.text>Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab.</OpenMainTabResearch.text>
-  <OpenMainTabResearch.rejectInputMessage>Please open the 'Research' tab.</OpenMainTabResearch.rejectInputMessage>
+  <OpenMainTabResearch.text>Erinomaista! Seuraavaksi haluat valita, mitä haluat tutkittavan.\n\nAvaa TUTKIMUS-välilehti.</OpenMainTabResearch.text>
+  <OpenMainTabResearch.rejectInputMessage>Ole hyvä ja avaa "Tutkimus"-välilehti.</OpenMainTabResearch.rejectInputMessage>
 
-  <SelectResearchProject.text>Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct.</SelectResearchProject.text>
-  <SelectResearchProject.rejectInputMessage>Please choose a research project.</SelectResearchProject.rejectInputMessage>
+  <SelectResearchProject.text>Nyt vain valitse mitä haluat tutkittavan ensimmäiseksi.\n\nSinä saatat haluta odottaa, että tutkimuspöydän rakentaminen valmistuu, tai että puita kaadetaan rakennusmateriaaleiksi.\n\nJos tässä kestää liian kauan, käytä TYÖNTEKO-välilehteä määrätäksesi lisää yhdyskuntalaisia Rakentamiseen.</SelectResearchProject.text>
+  <SelectResearchProject.rejectInputMessage>Ole hyvä ja valitse tutkimusprojekti.</SelectResearchProject.rejectInputMessage>
 
-  <ExpandAreaHome.text>Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map.</ExpandAreaHome.text>
-  <ExpandAreaHome.rejectInputMessage>Please expand the home area a bit, just for practice.</ExpandAreaHome.rejectInputMessage>
+  <ExpandAreaHome.text>Seuraavaksi opit miten KOTIALUETTA laajennetaan.\n\nYhdyskuntalaiset siivoavat lattioita ja sammuttavat tulia vain kotialueella ja jättävät sen ulkopuolella olevat tulet ja lian huomiotta.\n\nKotialue lisätään automaattisesti, kun rakennat - mutta voit myös laajentaa sitä manuaalisesti.\n\nValitse LAAJENNA KOTIALUETTA -työkalu ja vedä uusia alue kartalle.</ExpandAreaHome.text>
+  <ExpandAreaHome.rejectInputMessage>Ole hyvä ja laajenna kotialuetta hieman harjoituksen vuoksi.</ExpandAreaHome.rejectInputMessage>
 
-  <ExpandAreaBuildRoof.text>The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house.</ExpandAreaBuildRoof.text>
-  <ExpandAreaBuildRoof.rejectInputMessage>Please expand the build roof area a bit, just for practice.</ExpandAreaBuildRoof.rejectInputMessage>
+  <ExpandAreaBuildRoof.text>KATONRAKENNUSALUE määrittää, mihin yhdyskuntalaiset yrittävät rakentaa katon.\n\nSe luodaan automaattisesti kun suljet uuden huoneen.\n\nValitse LAAJENNA KATONRAKENNUSALUETTA -työkalu ja vedä kuistin katon muotoinen alue talon eteen.</ExpandAreaBuildRoof.text>
+  <ExpandAreaBuildRoof.rejectInputMessage>Ole hyvä ja laajenna katonrakennusaluetta hieman harjoituksen vuoksi.</ExpandAreaBuildRoof.rejectInputMessage>
 
-  <BuildSandbags.text>Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area.</BuildSandbags.text>
-  <BuildSandbags.rejectInputMessage>Please build sandbags in the highlighted area.</BuildSandbags.rejectInputMessage>
-  <BuildSandbags.onMapInstruction>Build sandbags here</BuildSandbags.onMapInstruction>
+  <BuildSandbags.text>Loistavaa! Sinulla on nyt toiminnassa yksinkertainen yhdyskunta! Ennen pitkää viholliset tulevat hyökkäämään yhdyskuntaasi. On aika valmistautua sen varalle.\n\nValitse HIEKKASÄKIT-työkalu ja vedä hiekkasäkkejä näytetylle alueelle.</BuildSandbags.text>
+  <BuildSandbags.rejectInputMessage>Ole hyvä ja rakenna hiekkasäkkejä korostetulle alueelle.</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.onMapInstruction>Rakenna hiekkasäkkejä tänne</BuildSandbags.onMapInstruction>
 
-  <FinishSandbags.text>Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses!</FinishSandbags.text>
-  <FinishSandbags.rejectInputMessage>Please wait for your colonists to finish building the sandbags.</FinishSandbags.rejectInputMessage>
+  <FinishSandbags.text>Odotetaan, että kaikki rakentamisesi tulee valmiiksi.\n\nHarkitse TYÖNTEKO-välilehden käyttämistä useamman yhdyskuntalaisen asettamiseksi rakentamaan.\n\nLisäksi voit nopeuttaa aikaa lyhentääksesi odottamista.\n\nKun kaikki on valmista, lähetän hyökkääjän testaamaan puolustuksiasi!</FinishSandbags.text>
+  <FinishSandbags.rejectInputMessage>Ole hyvä ja odota, että yhdyskuntalaisesi saavat hiekkasäkit valmiiksi.</FinishSandbags.rejectInputMessage>
 
-  <DownRaider.text>I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically.</DownRaider.text>
-  <DownRaider.rejectInputMessage>Please focus on winning the fight!</DownRaider.rejectInputMessage>
-  <DownRaider.onMapInstruction>Send colonists here\ntouching sandbags for cover</DownRaider.onMapInstruction>
+  <DownRaider.text>Olen nyt lähettänyt rosvon hyökkäämään yhdyskuntasi kimppuun!\n\n1. Keskeytä peli painamalla {Key:TogglePause}!\n2. Lue punainen viesti oikeassa alakulmassa.\n3. VÄRVÄÄ yhdyskuntalaisesi valitsemalla heidät ja painamalla VÄRVÄÄ-komentoa.\n4. Klikkaa hiiren oikealla näppäimellä ohjataksesi heidät asemiin hiekkasäkkien keskelle kiinni hiekkasäkkeihin.\n5. Laita peli takaisin päälle.\n\nYhdyskuntalaisten täytyy koskea suojaa hyötyäkseen siitä. Kun olette suojassa odota hyökkääjän lähestymistä. Yhdyskuntalaisesi ampuvat automaattisesti.</DownRaider.text>
+  <DownRaider.rejectInputMessage>Ole hyvä ja keskity taistelun voittamiseen!</DownRaider.rejectInputMessage>
+  <DownRaider.onMapInstruction>Lähetä yhdyskuntalaiset tänne\nkiinni hiekkasäkkeihin suojaan</DownRaider.onMapInstruction>
 
-  <UndraftAll.text>Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules.</UndraftAll.text>
-  <UndraftAll.rejectInputMessage>Please un-draft your colonists.</UndraftAll.rejectInputMessage>
+  <UndraftAll.text>Onnistuit! VAPAUTA nyt kaikki yhdyskuntalaisesi käyttämällä samaa komentoa kuin aikaisemmin.\n\nTämä sallii heidän palata omiin aikatauluihinsa.</UndraftAll.text>
+  <UndraftAll.rejectInputMessage>Ole hyvä ja vapauta yhdyskuntalaisesi.</UndraftAll.rejectInputMessage>
 
-  <ChooseStoryteller.text>This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click CHOOSE STORYTELLER.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun.</ChooseStoryteller.text>
-  <ChooseStoryteller.rejectInputMessage>Please choose a storyteller in the Options menu to end the tutorial.</ChooseStoryteller.rejectInputMessage>
+  <ChooseStoryteller.text>Tämä on tutoriaalin päätös!\n\nOn vielä paljon opittavaa, kuten vangit, metsästäminen, vaihtokauppa, eläinten kesytys ja paljon enemmän. Mutta sinulla on perusteet hallussa.\n\nSatunnaiset tapahtumat olivat poistetu käytöstä tämän tutoriaalin aikana. Aloittaaksesi oikean pelin:\n\n1. Avaa VALIKKO-välilehti oikeassa alakulmassa.\n2. Valitse  ASETUKSET.\n3. Klikkaa VALITSE TARINANKERTOJA.\n4. Valitse tarinankertoja ja vaikeustaso jotka viehättävät sinua.\n\nOnnea ja pidä hauskaa.</ChooseStoryteller.text>
+  <ChooseStoryteller.rejectInputMessage>Ole hyvä ja valitse tarinankertoja Asetukset-valikosta lopettaaksesi tutoriaalin.</ChooseStoryteller.rejectInputMessage>
 
 
 </LanguageData>

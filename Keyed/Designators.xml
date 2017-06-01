@@ -66,9 +66,9 @@
 
   <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Luo varastoalue mihin yhdyskuntalaiset varastoivat resusseja.\nTätä voidaan käyttää myös olemassaolevien varastoalueiden laajentamiseen.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Luo varastoalue johon yhdyskuntalaiset varastoivat resusseja.\nTätä voidaan käyttää myös olemassaolevien varastoalueiden laajentamiseen.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Luo kaatopaikka mihin yhdyskuntalaiset varastoivat romua/jätettä.\nTätä voidaan käyttää myös olemassaolevien kaatopaikkojen laajentamiseen.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Luo kaatopaikka johon yhdyskuntalaiset varastoivat romua/jätettä.\nTätä voidaan käyttää myös olemassaolevien kaatopaikkojen laajentamiseen.</DesignatorZoneCreateStorageDumpingDesc>
 
   <DesignatorZoneDelete>Poista alueita</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Poista alueita, kuten varasto- tai kasvatusalueita.</DesignatorZoneDeleteDesc>

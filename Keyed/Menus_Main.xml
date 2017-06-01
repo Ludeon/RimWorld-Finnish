@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Tutorial</Tutorial>
+  <Tutorial>Tutoriaali</Tutorial>
   <NewColony>Uusi yhdyskunta</NewColony>
   <BackToGame>Takaisin peliin</BackToGame>
   <ReviewScenario>Review scenario</ReviewScenario>
@@ -29,7 +29,7 @@
   <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
   <WorldGenerate>Luo</WorldGenerate>
   <WorldSaveAndFinish>Tallenna</WorldSaveAndFinish>
-  <Reset>Resetoi</Reset>
+  <Reset>Nollaa</Reset>
   <PlanetCoverage>Planeetan peitto</PlanetCoverage>
   <PlanetRainfall>Vallitseva sademäärä</PlanetRainfall>
   <PlanetTemperature>Vallitseva lämpötila</PlanetTemperature>
@@ -42,7 +42,7 @@
   <WorldSeed>Luontiarvo</WorldSeed>
   <RandomizeSeed>Satunnainen luontiarvo</RandomizeSeed>
   <PlanetCoverageTip>Planeetalla on aina sama halkaisija, mutta se on suurempi kuin tarvitaan pelaamiseen. Siksi emme käsittele planeetan koko pintaa, koska se voi kestää erittäin kauan. Tämä on osuus pinnasta jonka haluat käsiteltävän.</PlanetCoverageTip>
-  <WorldFactionsTab>Factions</WorldFactionsTab>
+  <WorldFactionsTab>Ryhmät</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Valitse maailma</SelectWorld>
@@ -138,13 +138,13 @@
   <MovementTimeNow>Nykyinen liikkumisaika</MovementTimeNow>
   <MovementTimeSummer>Kesän liikkumisaika</MovementTimeSummer>
   <MovementTimeWinter>Talven liikkumisaika</MovementTimeWinter>
-  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Eläimet voivat nyt laiduntaa</AnimalsCanGrazeNow>
 
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Luo hahmot</CreateCharacters>
   <FirstNameDesc>Hahmon ensimmäinen nimi.\n\nTämä näytetään vain tietyissä valikoissa.</FirstNameDesc>
-  <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla ensimmäinen tai toinen nimi, tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla etu- tai sukunimi tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
   <LastNameDesc>Hahmon sukunimi.\n\nTämä näytetään vain tietyissä valikoissa.</LastNameDesc>
   <Randomize>Satunnaista</Randomize>
   <AgeIndicator>ikä {0}</AgeIndicator>

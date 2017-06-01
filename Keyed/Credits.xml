@@ -4,19 +4,19 @@
   <MainPageCredit>Tynan Sylvesterin yhdyskuntasimulaattori</MainPageCredit>
 
   <Credits_Developers>Kehittäjät</Credits_Developers>
-  <Credit_DirectionVarious>Direction, design, code, art</Credit_DirectionVarious>
+  <Credit_DirectionVarious>Ohjaus, suunnittelu, ohjelmointi, taide</Credit_DirectionVarious>
   <Credit_MusicAndSound>Musiikki ja ääni</Credit_MusicAndSound>
-  <Credit_Code>Code</Credit_Code>
+  <Credit_Code>Ohjelmointi</Credit_Code>
   <Credit_GameArt>Pelin taide</Credit_GameArt>
   <Credit_MenuArt>Valikkojen taide</Credit_MenuArt>
-  <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
+  <Credit_AdditionalCode>Täydentävä koodi</Credit_AdditionalCode>
 
-  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
+  <Credit_SpecialThanks>Erityiskiitokset</Credit_SpecialThanks>
 
   <Credits_TitleCommunity>Yhteisön vapaaehtoiset</Credits_TitleCommunity>
   <Credit_Tester>Testaaja</Credit_Tester>
-  <Credit_ModDonation>Modinlahjoittaja</Credit_ModDonation>
-  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
+  <Credit_ModDonation>Modin lahjoittaja</Credit_ModDonation>
+  <Credit_WritingDonation>Kirjoitusten lahjoittaja</Credit_WritingDonation>
   <Credit_Moderator>Moderaattori</Credit_Moderator>
   <Credit_WikiMaster>Wikimestari</Credit_WikiMaster>
 

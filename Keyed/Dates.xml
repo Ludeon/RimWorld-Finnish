@@ -4,11 +4,11 @@
   <ClockTime>Aika</ClockTime>
   <ClockDate>Päivä</ClockDate>
   <ClockYear>Vuosi</ClockYear>
-  <DateReadoutTip>Päiviä saapumisestasi: {0}\nJokaisessa kaudessa on {1} päivää.\nNykyinen kausi: {2}</DateReadoutTip>
+  <DateReadoutTip>Päiviä saapumisestasi: {0}\nNykyinen neljännes: {4}\nPaikallinen vuodenaika: {2}\n\nVuosi on jaettu neljään neljännekseen, joiden pituus on {3} päivää. Neljännekset ovat samat kaikkialla, vaikka vuodenajat eroavat.\n\nPaikalliset vuodenajat joka neljänneksessä:\n{5}</DateReadoutTip>
 
-  <FullDate>{0}. päivänä kautena {1} vuonna {2}</FullDate>
-  <DateReadout>{0}. päivä kautta {1}, {2}</DateReadout>
-  <SeasonFullDate>{0}. kautta {1}</SeasonFullDate>
+  <FullDate>{0}. päivänä neljänneksessä {1} vuonna {2}</FullDate>
+  <DateReadout>{0}. päivä neljänneksessä {1}, {2}</DateReadout>
+  <SeasonFullDate>{0}. päivä neljänneksessä {1}</SeasonFullDate>
   <WholeYear>Koko vuosi</WholeYear>
 
 </LanguageData>

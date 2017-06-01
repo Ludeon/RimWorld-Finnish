@@ -14,10 +14,10 @@
   <SeasonFall>syksy</SeasonFall>
   <SeasonWinter>talvi</SeasonWinter>
 
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
-  <QuadrumJugust>Jugust</QuadrumJugust>
-  <QuadrumSeptober>Septober</QuadrumSeptober>
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
+  <QuadrumAprimay>Huhtitouko</QuadrumAprimay>
+  <QuadrumJugust>Heinäelo</QuadrumJugust>
+  <QuadrumSeptober>Syysmarras</QuadrumSeptober>
+  <QuadrumDecembary>Joulutammi</QuadrumDecembary>
 
   <Born>Syntynyt: {0}</Born>
   <AgeChronological>Kronologinen ikä: {0} vuotta, {1} kautta, {2} päivää</AgeChronological>
@@ -26,8 +26,8 @@
   <!-- Date periods -->
   <Period1Year>1 vuosi</Period1Year>
   <PeriodYears>{0} vuotta</PeriodYears>
-  <Period1Quadrum>1 quadrum</Period1Quadrum>
-  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
+  <Period1Quadrum>1 neljännes</Period1Quadrum>
+  <PeriodQuadrums>{0} neljännestä</PeriodQuadrums>
   <Period1Day>1 päivä</Period1Day>
   <PeriodDays>{0} päivää</PeriodDays>
   <Period1Hour>1 tunti</Period1Hour>

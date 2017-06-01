@@ -134,9 +134,9 @@
   <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
 
   <!-- Animal name display mode -->
-  <ShowAnimalNames>Show animal names</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>Näytä eläinten nimet</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Kesyt (vain nimetyt)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Kesyt (kaikki)</AnimalNameDisplayMode_TameAll>
 
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>

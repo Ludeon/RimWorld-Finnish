@@ -207,7 +207,7 @@
 
   <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony or a site where you have people.</MessageSelectOwnBaseToFormCaravan>
 
-  <MessageScreenResTooSmallForUIScale>At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution.</MessageScreenResTooSmallForUIScale>
+  <MessageScreenResTooSmallForUIScale>Pelin käyttöliittymä ei mahdu näytölle tällä resoluutiolla ja käyttöliittymän skaalauksella. Ole hyvä ja pienennä käyttöliittymän skaalausta tai kasvata resoluutiota.</MessageScreenResTooSmallForUIScale>
 
   <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
 

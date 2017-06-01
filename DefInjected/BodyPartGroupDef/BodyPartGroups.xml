@@ -7,13 +7,13 @@
   <Eyes.label>silmät</Eyes.label>
   <Teeth.label>hampaat</Teeth.label>
   <Mouth.label>suu</Mouth.label>
-  <Neck.label>neck</Neck.label>
+  <Neck.label>niska</Neck.label>
   <Arms.label>käsivarret</Arms.label>
   <Shoulders.label>olkapäät</Shoulders.label>
   <Hands.label>kädet</Hands.label>
   <LeftHand.label>vasen käsi</LeftHand.label>
   <RightHand.label>oikea käsi</RightHand.label>
-  <Waist.label>waist</Waist.label>
+  <Waist.label>vyötärö</Waist.label>
   <Legs.label>jalkavarret</Legs.label>
   <Feet.label>jalkaterät</Feet.label>
   <FrontLeftPaw.label>etuvasen käpälä</FrontLeftPaw.label>

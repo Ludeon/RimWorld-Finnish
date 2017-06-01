@@ -10,31 +10,31 @@
   <!-- Gameplay -->
   <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
   <PauseOnLoad>Pysäytä peli lataamisen jälkeen</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>Pysäytä peli kiireelliseen viestiin</PauseOnUrgentLetter>
   <CustomCursor>Mukautettu kursori</CustomCursor>
-  <HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
-  <UIScale>UI scale</UIScale>
+  <HatsShownOnlyOnMap>Hatut näytetään vain pelikartalla</HatsShownOnlyOnMap>
+  <UIScale>Käyttöliittymän skaalaus</UIScale>
   <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Sinulle opetetaan nyt kaikki asiat alusta alkaen.</AdaptiveTutorIsReset>
   <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
   <DevelopmentMode>Kehitystila</DevelopmentMode>
-  <ResetModsConfigOnCrash>Resetoi modit kaatumisen jälkeen</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Nollaa modit kaatumisen jälkeen</ResetModsConfigOnCrash>
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen nimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
   <AddName>Lisää nimi</AddName>
   <TypeFirstNickOrLastName>Kirjoita etunimi, nimimerkki tai sukunimi.</TypeFirstNickOrLastName>
-  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+  <MessageAlreadyPreferredName>Tämä nimi on jo haluttujen listalla.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
   <AutosaveInterval>Automaattitallennus</AutosaveInterval>
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
   <ShowRealtimeClock>Näytä reaaliaikainen kello</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
+  <MaxNumberOfPlayerHomes>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Kasvien heiluminen tuulessa</PlantWindSway>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
-  <ModSettings>Mod Settings</ModSettings>
+  <MaxPermadeathAutosaveIntervalInfo>Automaattitallennuksen suurin sallittu aikaväli permadeath-tilassa on {0} päivä.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Modien asetukset</ModSettings>
 
   <!-- Resolution -->
   <Resolution>Resoluutio</Resolution>
@@ -47,7 +47,7 @@
   <AboutHistoryUpload>Käyttäjien pelaamistiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään {0} pelissä kuluvan päivän välein (ja joissain harvoissa tapauksissa, kuten pelin lopussa) RimWorldin palvelimille analysoitavaksi. Lähetetyt pelaamistiedot koostuvat vain tilastoista ja historiasta peliin liittyen - mitään henkilökohtaisia tietoja ei lähetetä, antamaasi käyttäjänimeä lukuunottamatta, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
 
   <!-- Mods -->
-  <SelectMod>Select mod...</SelectMod>
-  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+  <SelectMod>Valitse modi...</SelectMod>
+  <NoConfigurableMods>Yhtään muokattavissa olevaa modia ei ole ladattu.</NoConfigurableMods>
 
 </LanguageData>

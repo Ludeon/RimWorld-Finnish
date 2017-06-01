@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Forbid -->
-  <CommandForbid>Forbid</CommandForbid>
+  <CommandForbid>Kiellä tai salli</CommandForbid>
   <CommandForbiddenDesc>Kielletty - yhdyskuntalaiset eivät käytä tätä.</CommandForbiddenDesc>
   <CommandNotForbiddenDesc>Sallittu - yhdyskuntalaiset voivat käyttää tätä.</CommandNotForbiddenDesc>
 
@@ -27,7 +27,7 @@
   <CommandToggleDraftDesc>Asepalvelus päällä/pois.\n\nKutsutut henkilöt ottavat vastaan komentoja ja taistelevat. He eivät tee työtä, syö tai lepää.</CommandToggleDraftDesc>
   <IsIncapped>{0} on lamaantunut.</IsIncapped>
 
-  <CommandFireAtWillLabel>Fire at will</CommandFireAtWillLabel>
+  <CommandFireAtWillLabel>Tuli vapaa</CommandFireAtWillLabel>
   <CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
 
   <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
@@ -139,12 +139,12 @@
   <CommandHoldFireDesc>End any ongoing attacks.</CommandHoldFireDesc>
 
   <!-- Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>Select plant to grow</CommandSelectPlantToGrowMulti>
-  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>Determine which plant should be sown here.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowMulti>Valitse kylvettävä kasvi</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Kasvi: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Määritä, mitä kasvia täällä pitäisi kylvää.</CommandSelectPlantToGrowDesc>
 
   <!-- Build copy -->
-  <CommandBuildCopy>Build copy</CommandBuildCopy>
+  <CommandBuildCopy>Rakenna kopio</CommandBuildCopy>
   <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->

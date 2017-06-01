@@ -14,13 +14,13 @@
   <!-- Map play -->
 
   <TakeScreenshot.label>ota ruudunkaappaus</TakeScreenshot.label>
-  <ToggleScreenshotMode.label>ruudunkaappaustila pois tai päälle</ToggleScreenshotMode.label>
+  <ToggleScreenshotMode.label>ruudunkaappaustila päälle tai pois</ToggleScreenshotMode.label>
   <SelectNextInCell.label>valitse seuraava ruudussa</SelectNextInCell.label>
   <TogglePause.label>aseta peli tauolle / jatka peliä</TogglePause.label>
   <TimeSpeedNormal.label>pelinopeus: normaali</TimeSpeedNormal.label>
   <TimeSpeedFast.label>pelinopeus: nopea</TimeSpeedFast.label>
   <TimeSpeedSuperfast.label>pelinopeus: erittäin nopea</TimeSpeedSuperfast.label>
-  <TimeSpeedUltrafast.label>pelinopeus: äärimmäisen nopea (debug)</TimeSpeedUltrafast.label>
+  <TimeSpeedUltrafast.label>pelinopeus: äärimmäisen nopea (kehitystila)</TimeSpeedUltrafast.label>
   <PreviousColonist.label>edellinen yhdyskuntalainen</PreviousColonist.label>
   <NextColonist.label>seuraava yhdyskuntalainen</NextColonist.label>
 
@@ -43,11 +43,11 @@
 
   <!-- Selection special -->
 
-  <CommandTogglePower.label>kytke virta pois / päälle</CommandTogglePower.label>
-  <CommandItemForbid.label>kiellä / salli esineen käyttö</CommandItemForbid.label>
+  <CommandTogglePower.label>kytke virta päällte tai pois</CommandTogglePower.label>
+  <CommandItemForbid.label>kiellä tai salli esineen käyttö</CommandItemForbid.label>
   <CommandColonistDraft.label>värvää</CommandColonistDraft.label>
-  <ModifierIncrement10x.label>increment 10x</ModifierIncrement10x.label>
-  <ModifierIncrement100x.label>increment 100x</ModifierIncrement100x.label>
+  <ModifierIncrement10x.label>inkrementoi 10x</ModifierIncrement10x.label>
+  <ModifierIncrement100x.label>inkrementoi 100x</ModifierIncrement100x.label>
 
 
   <!-- Architect: Common -->
@@ -60,13 +60,14 @@
 
   <!-- Debug -->
 
-  <TickOnce.label>tick once</TickOnce.label>
-  <ToggleGodMode.label>toggle god mode</ToggleGodMode.label>
-  <ToggleDebugLog.label>toggle debug log</ToggleDebugLog.label>
-  <ToggleDebugActionsMenu.label>toggle debug actions menu</ToggleDebugActionsMenu.label>
-  <ToggleDebugLogMenu.label>toggle debug log menu</ToggleDebugLogMenu.label>
-  <ToggleDebugInspector.label>toggle debug inspector</ToggleDebugInspector.label>
-  <ToggleDebugSettingsMenu.label>toggle debug settings menu</ToggleDebugSettingsMenu.label>
+  <TickOnce.label>Suorita yksi askel eteenpäin</TickOnce.label>
+  <ToggleGodMode.label>Jumala-tila päälle tai pois
+</ToggleGodMode.label>
+  <ToggleDebugLog.label>kehitystilan loki päälle tai pois</ToggleDebugLog.label>
+  <ToggleDebugActionsMenu.label>kehitystilan toiminnot päälle tai pois</ToggleDebugActionsMenu.label>
+  <ToggleDebugLogMenu.label>kehitystilan lokin valikko päälle tai pois</ToggleDebugLogMenu.label>
+  <ToggleDebugInspector.label>kehitystilan tarkastaja päälle tai pois</ToggleDebugInspector.label>
+  <ToggleDebugSettingsMenu.label>kehitystilan asetusten valikko päälle tai pois</ToggleDebugSettingsMenu.label>
 
 
 </LanguageData>

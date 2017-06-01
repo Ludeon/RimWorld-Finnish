@@ -15,8 +15,8 @@
   <LoggedIntoSteamAs>Kirjautunut Steamiin nimellä {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
-  <Yes>Yes</Yes>
-  <No>No</No>
+  <Yes>Kellä</Yes>
+  <No>Ei</No>
   <min>min</min>
   <max>max</max>
   <chance>chance</chance>
