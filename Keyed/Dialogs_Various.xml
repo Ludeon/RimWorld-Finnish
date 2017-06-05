@@ -237,7 +237,7 @@
   <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
 
   <!-- Form caravan -->
-  <FormCaravan>Form caravan</FormCaravan>
+  <FormCaravan>Muodosta karavaani</FormCaravan>
   <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
   <PawnsTab>People and animals</PawnsTab>
   <ItemsTab>Items</ItemsTab>
@@ -273,14 +273,14 @@
   <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
   <InventoryMass>Inventory mass</InventoryMass>
   <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
-  <ReformCaravan>Reform caravan</ReformCaravan>
+  <ReformCaravan>Muodosta karavaani uudelleen</ReformCaravan>
   <ColonistsSection>Colonists</ColonistsSection>
   <PrisonersSection>Prisoners</PrisonersSection>
   <AnimalsSection>Animals</AnimalsSection>
   <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
 
   <!-- Split caravan -->
-  <SplitCaravan>Split caravan</SplitCaravan>
+  <SplitCaravan>Jaa karavaani</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
   <CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
   <CaravanSplitDestLabel>New</CaravanSplitDestLabel>
@@ -320,29 +320,29 @@
   <NoOutfitSelected>Ei vaatekertaa valittuna</NoOutfitSelected>
 
   <!-- Drug policy management -->
-  <DrugPolicy>Drug policy</DrugPolicy>
-  <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
-  <NewDrugPolicy>New policy</NewDrugPolicy>
-  <DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
-  <DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
-  <SocialDrugs>Social drugs</SocialDrugs>
-  <NoDrugs>No drugs</NoDrugs>
-  <OneDrinkPerDay>One drink per day</OneDrinkPerDay>
-  <Unrestricted>Unrestricted</Unrestricted>
-  <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
-  <AddDrug>Add drug...</AddDrug>
-  <DrugColumnLabel>Drug</DrugColumnLabel>
-  <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
-  <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>Only if joy below</JoyThresholdColumnLabel>
-  <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
-  <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
-  <EveryDay>Every day</EveryDay>
-  <TimesPerDay>{0} times per day</TimesPerDay>
-  <EveryDays>Every {0} days</EveryDays>
-  <NoDrugUseRequirement>Any</NoDrugUseRequirement>
-  <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
+  <DrugPolicy>Huumekäytännöt</DrugPolicy>
+  <SelectDrugPolicy>Valitse käytäntö...</SelectDrugPolicy>
+  <NewDrugPolicy>Uusi käytäntö</NewDrugPolicy>
+  <DeleteDrugPolicy>Poista käytäntö...</DeleteDrugPolicy>
+  <DrugPolicyInUse>Huumekäytäntöä käyttää henkilö(t) {0}.</DrugPolicyInUse>
+  <SocialDrugs>Sosiaalinen käyttö</SocialDrugs>
+  <NoDrugs>Ei huumausaineita</NoDrugs>
+  <OneDrinkPerDay>Yksi juoma päivässä</OneDrinkPerDay>
+  <Unrestricted>Rajoittamaton</Unrestricted>
+  <NoDrugPolicySelected>Ei huumekäytäntöä valittuna</NoDrugPolicySelected>
+  <AddDrug>Lisää huumausaine...</AddDrug>
+  <DrugColumnLabel>Huumausaine</DrugColumnLabel>
+  <DrugUsageColumnLabel>Käyttö</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>Käytön frekvenssi</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Vain jos mieliala on alle</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Vain jos huvi on alle</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>Ota varusteisiin</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(ei huumausaineta)</NoDrugsBrackets>
+  <EveryDay>Joka päivä</EveryDay>
+  <TimesPerDay>{0} kertaa päivässä</TimesPerDay>
+  <EveryDays>Joka {0}. päivä</EveryDays>
+  <NoDrugUseRequirement>Mikä tahansa</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Poista tämä huumausaine.</DeleteDrugTooltip>
   <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
   <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
   <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
@@ -354,13 +354,13 @@
   <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
 
   <!-- Medical settings -->
-  <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
-  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+  <MedGroupDefaults>Oletukset</MedGroupDefaults>
+  <MedGroupColonist>Yhdyskuntalainen</MedGroupColonist>
+  <MedGroupImprisonedColonist>Vangittu yhdyskuntalainen</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Yhdyskunnan eläin</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Vapaa eläin</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Puolueeton ryhmä</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Vihamielinen ryhmä</MedGroupHostileFaction>
 
   <!-- Growing -->
   <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>

@@ -2,22 +2,22 @@
 <LanguageData>
 
   <Peaceful.label>Rauhantahtoinen</Peaceful.label>
-  <Peaceful.description>For those who want to relax and build a colony in a sandbox-like environment.\n\nMajor threatening events are disabled, but colonists can still get grumpy and animals can still go crazy from time to time.</Peaceful.description>
+  <Peaceful.description>Tarkoitettu heille jotka haluavat rentoutua ja rakentaa yhdyskunnan hiekkalaatikkomaisessa ympäristössä.\n\nErittäin vaaralliset tapahtumat ovat pois käytöstä, mutta yhdyskuntalaiset voivat silti tulla pahalle tuulelle ja eläimet voivat tulla toisinaan hulluiksi.</Peaceful.description>
 
-  <VeryEasy.label>Tukikohdan rakentaja</VeryEasy.label>
-  <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
+  <VeryEasy.label>Tukikohdanrakentaja</VeryEasy.label>
+  <VeryEasy.description>Tarkoitettu heille jotka haluavat rakentaa yhdyskunnan vaara.\n\nSuuria uhkia ilmaantuu, mutta niitä on rajoitettu. Jotkin äärimmäisen vaaralliset tapahtumat ovat pois käytöstä.</VeryEasy.description>
 
   <Easy.label>Jotain haastetta</Easy.label>
-  <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.</Easy.description>
+  <Easy.description>Tarkoitettu ensikertalaisille tai satunnaisesti pelaaville jotka haluavat silti haastetta.\n\nUhat ovat vaarallisia, mutta eivät julmia.</Easy.description>
 
   <Medium.label>Rankka</Medium.label>
-  <Medium.description>It's a rough planet.\n\nThreats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
+  <Medium.description>Planeetta on ankara\n\nUhat voivat olla varsin vaarallisia. Ei suositella ennen kuin sinulla on jonkin verran kokemusta pelistä.</Medium.description>
 
   <Hard.label>Intensiivinen</Hard.label>
-  <Hard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
+  <Hard.description>Merkittävä haaste.\n\nMenestyminen tällä tasolla vaatii vankan ja monipuolisen ymmärryksen selviytymisstrategioista ja hieman onnea.</Hard.description>
 
   <VeryHard.label>Äärimmäinen</VeryHard.label>
-  <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
+  <VeryHard.description>Kova kuin timanttiteräinen tikari.\n\Viholliset ovat lukuisempia, hinnat ovat huonoja, ruoka on vähäistä ja yhdyskuntalaiset ovat pahantuulisia. Tarkoitettu heille jotka nauttivat digitaalisesta kärsimyksestä.</VeryHard.description>
 
 
 </LanguageData>

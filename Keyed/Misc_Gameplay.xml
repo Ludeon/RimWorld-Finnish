@@ -16,7 +16,7 @@
   <Unowned>Omistamaton</Unowned>
   <DeadTime>Kuollut {0}</DeadTime>
   <WalkSpeed>kävelyvauhti {0}</WalkSpeed>
-  <FertShort>fert.</FertShort>
+  <FertShort>hedel.</FertShort>
   <DyingLower>kuolemassa</DyingLower>
   <FilthOnFeet>Lika jaloissa:</FilthOnFeet>
   <NotEnoughStoredLower>ei tarpeeksi varastossa</NotEnoughStoredLower>
@@ -446,12 +446,12 @@
   <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
-  <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
-  <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
-  <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
-  <ActivityIconAttacking>Fighting</ActivityIconAttacking>
-  <ActivityIconIdle>Idle</ActivityIconIdle>
-  <ActivityIconBurning>Burning</ActivityIconBurning>
+  <ActivityIconMedicalRest>Lepää lääkintävuoteessa</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Nukkuu</ActivityIconSleeping>
+  <ActivityIconFleeing>Pakenee</ActivityIconFleeing>
+  <ActivityIconAttacking>Taistelee</ActivityIconAttacking>
+  <ActivityIconIdle>Toimeton</ActivityIconIdle>
+  <ActivityIconBurning>Palaa</ActivityIconBurning>
 
   <!-- Maintainable -->
   <DueForMaintenance>Due for maintenance.</DueForMaintenance>

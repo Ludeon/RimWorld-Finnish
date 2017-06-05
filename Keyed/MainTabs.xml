@@ -17,8 +17,8 @@
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
   <ApparelForcedLower>pakotettu</ApparelForcedLower>
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
-  <AssignTabEdit>Edit...</AssignTabEdit>
-  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+  <AssignTabEdit>Muokkaa...</AssignTabEdit>
+  <ManageDrugPolicies>Hallitse huumekäytäntöjä</ManageDrugPolicies>
 
   <!-- Restrictions tab -->
   <Copy>Kopioi</Copy>
@@ -27,11 +27,11 @@
 
   <!-- Animals tab -->
   <Master>Isäntä</Master>
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  <PregnantIconDesc>Raskaana ({0} / {1})</PregnantIconDesc>
 
   <!-- Factions tab -->
   <Hostile>Vihamielinen</Hostile>
-  <DefeatedLower>defeated</DefeatedLower>
+  <DefeatedLower>kukistettu</DefeatedLower>
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
   <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
 

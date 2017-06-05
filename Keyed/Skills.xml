@@ -2,22 +2,22 @@
 <LanguageData>
 
   <Level>Taso</Level>
-  <ProgressToNextLevel>Seuraavaan tasoon</ProgressToNextLevel>
+  <ProgressToNextLevel>Edistys seuraavalle tasolle</ProgressToNextLevel>
   <Experience>Kokemus</Experience>
   <Passion>Intohimo</Passion>
-  <PassionNone>Ei kiinnostunut (oppii {0}x)</PassionNone>
-  <PassionMinor>Kiinnostunut (oppii {0}x)</PassionMinor>
-  <PassionMajor>Palava (oppii {0}x)</PassionMajor>
-  <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
+  <PassionNone>Ei kiinnostunut (oppii x{0})</PassionNone>
+  <PassionMinor>Kiinnostunut (oppii x{0}, tuottaa hupia)</PassionMinor>
+  <PassionMajor>Palava (oppii x{0}, tuottaa hupia 2x)</PassionMajor>
+  <LearnedMaxToday>Oppinut tänään maksimin ({0}/{1}, lisäoppimisen kerroin {2})</LearnedMaxToday>
   <EffectsAtLevel>Vaikutus tasolla {0}</EffectsAtLevel>
-  <SkillMax>Maksimi</SkillMax>
+  <SkillMax>MAKS</SkillMax>
 
-  <Skill0>Kykenemätön</Skill0>
-  <Skill1>Epäpätevä</Skill1>
-  <Skill2>Perustietoinen</Skill2>
-  <Skill3>Totuttautunut</Skill3>
-  <Skill4>Aloittelija</Skill4>
-  <Skill5>Perehtynyt aloittelija</Skill5>
+  <Skill0>Tuskin kuullutkaan siitä</Skill0>
+  <Skill1>Täysi aloittelija</Skill1>
+  <Skill2>Aloittelija</Skill2>
+  <Skill3>Perusteisiin perehtynyt</Skill3>
+  <Skill4>Amatööri</Skill4>
+  <Skill5>Vahva amatööri</Skill5>
   <Skill6>Harjoittaja</Skill6>
   <Skill7>Taivata harjoittaja</Skill7>
   <Skill8>Ammattilainen</Skill8>

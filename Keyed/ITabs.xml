@@ -5,7 +5,7 @@
   <TabBills>Tilaukset</TabBills>
   <TabGrowing>Kasvatus</TabGrowing>
   <TabCharacter>Henkilö</TabCharacter>
-  <TabTraining>Kouluttaminen</TabTraining>
+  <TabTraining>Koulutus</TabTraining>
   <TabPrisoner>Vanki</TabPrisoner>
   <TabGuest>Vieras</TabGuest>
   <TabGear>Varusteet</TabGear>
@@ -15,9 +15,9 @@
   <TabRace>Rotu</TabRace>
   <TabBasics>Perustiedot</TabBasics>
   <TabStats>Tilastot</TabStats>
-  <TabRecords>Records</TabRecords>
+  <TabRecords>Tilastot</TabRecords>
   <TabArt>Taide</TabArt>
-  <TabSocial>Social</TabSocial>
+  <TabSocial>Seuraelämä</TabSocial>
 
 
   <!-- Bills tab  -->
@@ -46,7 +46,7 @@
   <!-- Medical - general -->
   <MoveSpeed>Liikkumisnopeus</MoveSpeed>
   <Efficiency>Tehokkuus</Efficiency>
-  <PartEfficiency>Part efficiency</PartEfficiency>
+  <PartEfficiency>Osan tehokkuus</PartEfficiency>
   <BodyPartEfficiency>Ruumiinosan tehokkuus</BodyPartEfficiency>
   <MissingBodyPart>Poissa</MissingBodyPart>
   <DestroyedBodyPart>Tuhoutunut</DestroyedBodyPart>
@@ -60,37 +60,37 @@
   <WholeBody>Koko ruumis</WholeBody>
   <DataProcessing>Tiedonkäsittely</DataProcessing>
   <Communication>Kommunikaatio</Communication>
-  <Affects>Affects</Affects>
+  <Affects>Vaikuttaa</Affects>
   <BleedingRate>Veren vuotonopeus</BleedingRate>
-  <TimeToDeath>death in {0}</TimeToDeath>
-  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+  <TimeToDeath>kuolemaan {0}</TimeToDeath>
+  <WontBleedOutSoon>ei välitöntä vaaraa</WontBleedOutSoon>
   <HealthOverview>Yleiskatsaus</HealthOverview>
   <MedicalOperationsShort>Operaatiot ({0})</MedicalOperationsShort>
   <MedicalOperationsMechanoidsShort>Muokkaukset ({0})</MedicalOperationsMechanoidsShort>
   <MedicalOperations>Lääkintäoperaatiot</MedicalOperations>
   <Amputate>Amputoi</Amputate>
   <Harvest>Kerää</Harvest>
-  <RemoveOrgan>Remove</RemoveOrgan>
+  <RemoveOrgan>Poista</RemoveOrgan>
   <MemoryLower>memory</MemoryLower>
   <SocialInteractionsLower>social interactions</SocialInteractionsLower>
   <HungerRate>Hunger rate</HungerRate>
   <Tiredness>Tiredness</Tiredness>
-  <PainFactor>Pain</PainFactor>
+  <PainFactor>Kipu</PainFactor>
   <PreventsInfection>Prevents infection</PreventsInfection>
   <SelfTend>Self-tend</SelfTend>
   <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
 
 
   <!-- Medical - Body and activities condition -->
-  <None>Ei ollenkaan</None>
-  <VeryPoor>Erittäin heikko</VeryPoor>
+  <None>Olematon</None>
+  <VeryPoor>Eritt. heikko</VeryPoor>
   <Poor>Heikko</Poor>
   <Weakened>Heikentynyt</Weakened>
   <GoodCondition>OK</GoodCondition>
   <Enhanced>Paranneltu</Enhanced>
-  <SeriouslyImpaired>Vakavasti huonontunut</SeriouslyImpaired>
-  <Impaired>Huonontunut</Impaired>
-  <SlightlyImpaired>Vähäisesti huonontunut</SlightlyImpaired>
+  <SeriouslyImpaired>Vak. est.</SeriouslyImpaired>
+  <Impaired>Estynyt</Impaired>
+  <SlightlyImpaired>Väh. est.</SlightlyImpaired>
   <NoPain>Olematon</NoPain>
   <LittlePain>Pieni</LittlePain>
   <MediumPain>Keskiverto</MediumPain>

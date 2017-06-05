@@ -22,40 +22,13 @@ DefInjected\ChemicalDef\Smokeleaf.xml
 DefInjected\ChemicalDef\WakeUp.xml
     <WakeUp.label>wake-up</WakeUp.label>
 
-DefInjected\ConceptDef\Concepts_Entry.xml
-    <WorldCameraMovement.helpText>Zoom with the MOUSE WHEEL or {Key:MapZoomIn} and {Key:MapZoomOut} keys.\n\nPan with the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys, or by MIDDLE-CLICKING and DRAGGING.</WorldCameraMovement.helpText>
-    <WorldCameraMovement.label>World view camera movement</WorldCameraMovement.label>
-
 DefInjected\ConceptDef\Concepts_NotedOpportunistic.xml
-    <AnimalsDontAttackDoors.helpText>Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you.</AnimalsDontAttackDoors.helpText>
-    <AnimalsDontAttackDoors.label>Animals don't attack doors</AnimalsDontAttackDoors.label>
-    <BillsTab.helpText>To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher.</BillsTab.helpText>
-    <BillsTab.label>Bills tab</BillsTab.label>
-    <BuildOrbitalTradeBeacon.helpText>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it.</BuildOrbitalTradeBeacon.helpText>
-    <Capturing.helpText>When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</Capturing.helpText>
-    <Capturing.label>Capturing</Capturing.label>
     <DoorOpenSpeed.helpText>Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.</DoorOpenSpeed.helpText>
     <DoorOpenSpeed.label>Door opening speeds</DoorOpenSpeed.label>
-    <Drafting.helpText>To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</Drafting.helpText>
-    <Drafting.label>Drafting for combat</Drafting.label>
-    <DrugAddiction.helpText>You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear.</DrugAddiction.helpText>
-    <DrugAddiction.label>Drug addiction</DrugAddiction.label>
     <DrugBurning.helpText>Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire.</DrugBurning.helpText>
     <DrugBurning.label>Drug burning</DrugBurning.label>
-    <DrugPolicies.helpText>You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires!</DrugPolicies.helpText>
-    <DrugPolicies.label>Drug policies</DrugPolicies.label>
-    <InteractingWithTraders.helpText>You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head.</InteractingWithTraders.helpText>
-    <InteractingWithTraders.label>Interacting with traders</InteractingWithTraders.label>
-    <OpeningComms.helpText>To communicate, select a colonist and right-click on the comms console.</OpeningComms.helpText>
-    <OpeningComms.label>Using the comms console</OpeningComms.label>
     <PrisonerTab.helpText>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner.</PrisonerTab.helpText>
-    <ReformCaravan.helpText>After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view.</ReformCaravan.helpText>
-    <ReformCaravan.label>Reforming caravans</ReformCaravan.label>
-    <Rescuing.helpText>To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them.</Rescuing.helpText>
-    <Rescuing.label>Rescuing</Rescuing.label>
     <SetGrowingZonePlant.helpText>You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</SetGrowingZonePlant.helpText>
-    <ShieldBelts.helpText>Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</ShieldBelts.helpText>
-    <ShieldBelts.label>Shield belts</ShieldBelts.label>
     <TVForSickPeople.helpText>Sick people can watch TV while laying in bed.</TVForSickPeople.helpText>
     <TVForSickPeople.label>TV for sick people</TVForSickPeople.label>
 
@@ -142,14 +115,6 @@ DefInjected\DamageDef\Damages_Misc.xml
 
 DefInjected\DamageDef\Damages_Stun.xml
     <EMP.label>EMP</EMP.label>
-
-DefInjected\DifficultyDef\Difficulties.xml
-    <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.</Easy.description>
-    <Hard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
-    <Medium.description>It's a rough planet.\n\nThreats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
-    <Peaceful.description>For those who want to relax and build a colony in a sandbox-like environment.\n\nMajor threatening events are disabled, but colonists can still get grumpy and animals can still go crazy from time to time.</Peaceful.description>
-    <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
-    <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
 
 DefInjected\GameConditionDef\GameConditions_Misc.xml
     <ClimateCycle.description>A multi-year climate cycle due to an elliptical orbit.</ClimateCycle.description>
@@ -4277,7 +4242,6 @@ Keyed\Dialog_Trees.xml
     <WaitTime>wait {0}</WaitTime>
 
 Keyed\Dialogs_Various.xml
-    <AddDrug>Add drug...</AddDrug>
     <Addictiveness>Addictiveness</Addictiveness>
     <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
     <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
@@ -4318,15 +4282,9 @@ Keyed\Dialogs_Various.xml
     <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
     <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
     <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
-    <DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
-    <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
     <DifficultyLevel>difficulty level</DifficultyLevel>
-    <DrugColumnLabel>Drug</DrugColumnLabel>
     <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
-    <DrugPolicy>Drug policy</DrugPolicy>
-    <DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
     <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
-    <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
     <DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
     <DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
     <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
@@ -4336,25 +4294,20 @@ Keyed\Dialogs_Various.xml
     <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
     <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
     <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
-    <EveryDay>Every day</EveryDay>
-    <EveryDays>Every {0} days</EveryDays>
     <ExitDirection>Exit direction</ExitDirection>
     <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
     <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
     <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
     <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
     <FinalPrice>Final price</FinalPrice>
-    <FormCaravan>Form caravan</FormCaravan>
     <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
     <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
-    <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
     <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
     <InventoryMass>Inventory mass</InventoryMass>
     <ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
     <ItemWeightTip>Weight of this item.</ItemWeightTip>
     <ItemsTab>Items</ItemsTab>
     <JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
-    <JoyThresholdColumnLabel>Only if joy below</JoyThresholdColumnLabel>
     <LoadAnyway>Load anyway</LoadAnyway>
     <LoadTransporters>Load {0}</LoadTransporters>
     <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
@@ -4365,30 +4318,16 @@ Keyed\Dialogs_Various.xml
     <Mass>Mass</Mass>
     <MassCapacity>Mass capacity</MassCapacity>
     <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-    <MedGroupColonist>Colonist</MedGroupColonist>
-    <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-    <MedGroupDefaults>Defaults</MedGroupDefaults>
-    <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
-    <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-    <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-    <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
     <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
     <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
     <MiscRecordsCategory>Misc</MiscRecordsCategory>
     <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
     <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
-    <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
     <Negotiator>Negotiator</Negotiator>
-    <NewDrugPolicy>New policy</NewDrugPolicy>
     <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
-    <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
-    <NoDrugUseRequirement>Any</NoDrugUseRequirement>
-    <NoDrugs>No drugs</NoDrugs>
-    <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
     <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
     <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
     <OK>OK</OK>
-    <OneDrinkPerDay>One drink per day</OneDrinkPerDay>
     <PackAnimal>Pack animal</PackAnimal>
     <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
     <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
@@ -4400,23 +4339,17 @@ Keyed\Dialogs_Various.xml
     <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
     <PostCurve>global post-process curve</PostCurve>
     <PrisonersSection>Prisoners</PrisonersSection>
-    <ReformCaravan>Reform caravan</ReformCaravan>
     <RequiredResearchBench>Required research bench</RequiredResearchBench>
     <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
     <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
     <Restarting>Restarting</Restarting>
-    <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
     <Selling>selling</Selling>
-    <SocialDrugs>Social drugs</SocialDrugs>
     <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
-    <SplitCaravan>Split caravan</SplitCaravan>
     <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
     <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
     <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
     <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
-    <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
     <TimeRecordsCategory>Time</TimeRecordsCategory>
-    <TimesPerDay>{0} times per day</TimesPerDay>
     <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
     <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
     <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
@@ -4428,7 +4361,6 @@ Keyed\Dialogs_Various.xml
     <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
     <Unpause>Unpause</Unpause>
     <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
-    <Unrestricted>Unrestricted</Unrestricted>
     <YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
     <minimum>minimum</minimum>
 
@@ -4541,7 +4473,6 @@ Keyed\GameplayCommands.xml
     <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
     <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
     <CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
-    <CommandFormCaravan>Form caravan</CommandFormCaravan>
     <CommandFormCaravanDesc>Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
     <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
     <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
@@ -4558,9 +4489,7 @@ Keyed\GameplayCommands.xml
     <CommandLoadTransporterDesc>Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterDesc>
     <CommandLoadTransporterFailNoFuel>The pod launcher has no fuel.</CommandLoadTransporterFailNoFuel>
     <CommandLoadTransporterFailNotConnectedToFuelingPort>The transport pod is not connected to a fueling port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
-    <CommandMergeCaravans>Merge</CommandMergeCaravans>
     <CommandMergeCaravansDesc>Merge selected caravans.</CommandMergeCaravansDesc>
-    <CommandReformCaravan>Reform caravan</CommandReformCaravan>
     <CommandReformCaravanDesc>Reform a group of colonists. The colonists will leave their current area and await further orders.</CommandReformCaravanDesc>
     <CommandReformCaravanFailHostilePawns>There are still some enemies in this area.</CommandReformCaravanFailHostilePawns>
     <CommandReinstall>Reinstall at...</CommandReinstall>
@@ -4575,7 +4504,6 @@ Keyed\GameplayCommands.xml
     <CommandSelectPreviousTransporterDesc>Select previous transport pod in this launch group.</CommandSelectPreviousTransporterDesc>
     <CommandSetTargetFuelLevel>Set target fuel level</CommandSetTargetFuelLevel>
     <CommandSetTargetFuelLevelDesc>Set the target fuel level. Colonists will attempt to fill this up to the target fuel level.</CommandSetTargetFuelLevelDesc>
-    <CommandSettle>Settle</CommandSettle>
     <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
     <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
     <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
@@ -4583,7 +4511,6 @@ Keyed\GameplayCommands.xml
     <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
     <CommandShowMap>Zoom in</CommandShowMap>
     <CommandShowMapDesc>Zoom in on this area.</CommandShowMapDesc>
-    <CommandSplitCaravan>Split</CommandSplitCaravan>
     <CommandSplitCaravanDesc>Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other.</CommandSplitCaravanDesc>
     <CommandSquadAttack>Attack</CommandSquadAttack>
     <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
@@ -4595,7 +4522,6 @@ Keyed\GameplayCommands.xml
     <CommandTradeFailNoNegotiator>There isn't any conscious, not broken negotiator.</CommandTradeFailNoNegotiator>
 
 Keyed\ITabs.xml
-    <Affects>Affects</Affects>
     <ArmorBlunt>Blunt</ArmorBlunt>
     <ArmorElectric>Electric</ArmorElectric>
     <ArmorHeat>Heat</ArmorHeat>
@@ -4614,20 +4540,13 @@ Keyed\ITabs.xml
     <Missing>Missing</Missing>
     <NoRelationships>(no relationships)</NoRelationships>
     <OpinionOf>Opinion of {0}</OpinionOf>
-    <PainFactor>Pain</PainFactor>
-    <PartEfficiency>Part efficiency</PartEfficiency>
     <PreventsInfection>Prevents infection</PreventsInfection>
-    <RemoveOrgan>Remove</RemoveOrgan>
     <SelfTend>Self-tend</SelfTend>
     <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
     <Slave>Slave</Slave>
     <SocialInteractionsLower>social interactions</SocialInteractionsLower>
     <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
-    <TabRecords>Records</TabRecords>
-    <TabSocial>Social</TabSocial>
-    <TimeToDeath>death in {0}</TimeToDeath>
     <Tiredness>Tiredness</Tiredness>
-    <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
 
 Keyed\Incidents.xml
     <CaravanDemand>Your caravan has been ambushed by a group of {1} {3} from {0}. They will attack unless you give them:\n\n{2}</CaravanDemand>
@@ -4724,12 +4643,8 @@ Keyed\Letters.xml
     <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
 Keyed\MainTabs.xml
-    <AssignTabEdit>Edit...</AssignTabEdit>
-    <DefeatedLower>defeated</DefeatedLower>
     <EmergencyWorkMarker>E</EmergencyWorkMarker>
     <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
-    <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
-    <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
     <ProjectTechLevel>project tech level</ProjectTechLevel>
     <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
     <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
@@ -4876,12 +4791,6 @@ Keyed\Misc.xml
     <repeat>repeat</repeat>
 
 Keyed\Misc_Gameplay.xml
-    <ActivityIconAttacking>Fighting</ActivityIconAttacking>
-    <ActivityIconBurning>Burning</ActivityIconBurning>
-    <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
-    <ActivityIconIdle>Idle</ActivityIconIdle>
-    <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
-    <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
     <AffectedBy>Affected by:</AffectedBy>
     <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
     <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
@@ -4931,7 +4840,6 @@ Keyed\Misc_Gameplay.xml
     <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
     <FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
     <Fermented>Fermented</Fermented>
-    <FertShort>fert.</FertShort>
     <Filter>Filter</Filter>
     <Freezing>Freezing</Freezing>
     <Fuel>Fuel</Fuel>
@@ -5067,9 +4975,6 @@ Keyed\ScenParts.xml
     <ScenPart_StartingPawnAgeRange>Your people will be between {0} and {1} years old.</ScenPart_StartingPawnAgeRange>
     <ScenPart_StartingResearchFinished>Start with research: {0}</ScenPart_StartingResearchFinished>
     <ScenPart_StatFactor>The stat "{0}" will be universally multiplied by {1}.</ScenPart_StatFactor>
-
-Keyed\Skills.xml
-    <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
 
 Keyed\Time.xml
     <LetterMinute>m</LetterMinute>

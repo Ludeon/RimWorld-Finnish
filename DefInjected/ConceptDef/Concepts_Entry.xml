@@ -3,8 +3,8 @@
 
   <!-- Concepts taught in the entry screens -->
 
-  <WorldCameraMovement.label>World view camera movement</WorldCameraMovement.label>
-  <WorldCameraMovement.helpText>Zoom with the MOUSE WHEEL or {Key:MapZoomIn} and {Key:MapZoomOut} keys.\n\nPan with the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys, or by MIDDLE-CLICKING and DRAGGING.</WorldCameraMovement.helpText>
+  <WorldCameraMovement.label>Maailmanäkymän kameran liikkuttaminen</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>Lähennä tai loitonna kuvaa HIIREN RULLALLA tai {Key:MapZoomIn} ja {Key:MapZoomOut} -näppäimillä.\n\nSiirrä kuvaa {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}-näppäimillä tai KLIKKAAMALLA ja VETÄMÄLLÄ HIIREN KEKSINÄPPÄIMELLÄ.</WorldCameraMovement.helpText>
 
 
 </LanguageData>

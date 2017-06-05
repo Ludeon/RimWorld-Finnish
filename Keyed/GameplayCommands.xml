@@ -148,24 +148,24 @@
   <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
-  <CommandFormCaravan>Form caravan</CommandFormCaravan>
+  <CommandFormCaravan>Muodosta karavaani</CommandFormCaravan>
   <CommandFormCaravanDesc>Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
 
   <!-- Reform caravan -->
-  <CommandReformCaravan>Reform caravan</CommandReformCaravan>
+  <CommandReformCaravan>Muodosta karavaani uudelleen</CommandReformCaravan>
   <CommandReformCaravanDesc>Reform a group of colonists. The colonists will leave their current area and await further orders.</CommandReformCaravanDesc>
   <CommandReformCaravanFailHostilePawns>There are still some enemies in this area.</CommandReformCaravanFailHostilePawns>
 
   <!-- Split caravan -->
-  <CommandSplitCaravan>Split</CommandSplitCaravan>
+  <CommandSplitCaravan>Jaa</CommandSplitCaravan>
   <CommandSplitCaravanDesc>Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other.</CommandSplitCaravanDesc>
 
   <!-- Merge caravan -->
-  <CommandMergeCaravans>Merge</CommandMergeCaravans>
+  <CommandMergeCaravans>Yhdistä</CommandMergeCaravans>
   <CommandMergeCaravansDesc>Merge selected caravans.</CommandMergeCaravansDesc>
 
   <!-- Settle -->
-  <CommandSettle>Settle</CommandSettle>
+  <CommandSettle>Tee uusi yhdyskunta</CommandSettle>
   <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
   <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>

@@ -3,41 +3,41 @@
 
   <!-- Concepts taught through the learning readout, when opportunities arise -->
 
-  <ReformCaravan.label>Reforming caravans</ReformCaravan.label>
-  <ReformCaravan.helpText>After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view.</ReformCaravan.helpText>
+  <ReformCaravan.label>Karavaanien muodostaminen uudelleen</ReformCaravan.label>
+  <ReformCaravan.helpText>Yhteenoton jälkeen voit helposti muodostaa karavaanin uudelleen käyttämällä MUODOSTA KARAVAANI UUDELLEEN -komentoa maailmanäkymässä.</ReformCaravan.helpText>
 
-  <Rescuing.label>Rescuing</Rescuing.label>
-  <Rescuing.helpText>To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them.</Rescuing.helpText>
+  <Rescuing.label>Pelastaminen</Rescuing.label>
+  <Rescuing.helpText>Pelastaaksesi haavoittuneen henkilön valitse terve yhdyskuntalainen ja klikkaa hiiren oikealla näppäimellä haavoittunutta.\n\nJos pelastat ryhmääsi kuulumattoman henkilön, he eivät välttämättä liity yhdyskuntaasi. He saattavat yksinkertaisesti kävellä pois hoidon jälkeen. Jos haluat varmistaa, että he liittyvät ryhmääsi kaappaa ja yritä värvätä heidät.</Rescuing.helpText>
 
-  <Capturing.label>Capturing</Capturing.label>
-  <Capturing.helpText>When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</Capturing.helpText>
+  <Capturing.label>Kaappaaminen</Capturing.label>
+  <Capturing.helpText>Kun vihollinen on maissa mutta ei kuollut voit KAAPATA heidät.\n\nKaapataksesi valitse yhdyskuntalainen, klikkaa hiiren oikealla näppäimellä maissa olevaa vihollista ja valitse Kaappaa.\n\nTarvitset ylimääräisen sängyn, joka on merkitty vangeille.</Capturing.helpText>
 
-  <ShieldBelts.label>Shield belts</ShieldBelts.label>
-  <ShieldBelts.helpText>Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</ShieldBelts.helpText>
+  <ShieldBelts.label>Suojavyöt</ShieldBelts.label>
+  <ShieldBelts.helpText>Suojavyöt estävät ampuma-aseiden ammuksien menemisen sisälle tai ulos. Ne eivät vaikuta lähitaisteluun.\n\nTaistellaksesi suojavöitä vastaan joko keksitä kohteeseen paljon tulitusta tai taistele lähitaistelussa.</ShieldBelts.helpText>
 
-  <InteractingWithTraders.label>Interacting with traders</InteractingWithTraders.label>
-  <InteractingWithTraders.helpText>You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head.</InteractingWithTraders.helpText>
+  <InteractingWithTraders.label>Kauppiaiden kanssa vuorovaikuttaminen</InteractingWithTraders.label>
+  <InteractingWithTraders.helpText>Voit puhua henkilöille, joiden pään päällä on ?-merkki.\n\nValitse yhdyskuntalainen ja klikkaa hiiren oikealla näppäimellä henkilöä, jolla on ?-merkki kiinni päässään.</InteractingWithTraders.helpText>
 
-  <Drafting.label>Drafting for combat</Drafting.label>
-  <Drafting.helpText>To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</Drafting.helpText>
+  <Drafting.label>Taisteluun värvääminen</Drafting.label>
+  <Drafting.helpText>Ohjataksesi yhdyskuntalaisiasi suoraan taistelussa Värvää heidät valitsemalla ja valitsemalla VÄRVÄÄ-komennon.\n\nVärvätty yhdyskuntalainen tekee vain sen mitä sinä käsket ja voi vain taistella. He joilla on aseet käyttävät niitä kun mahdollista.\n\nÄlä jätä yhdyskuntalaisia Värvätyiksi ikuisesti - he nääntyvät ja tulevat pahalle tuulelle.</Drafting.helpText>
 
   <BuildOrbitalTradeBeacon.label>Rakenna kiertoratavaihtokaupan majakka</BuildOrbitalTradeBeacon.label>
-  <BuildOrbitalTradeBeacon.helpText>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it.</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.helpText>Lähettääksesi esineitä tai hopeaa kiertoradan vaihtokauppiaille sinun täytyy rakentaa KIERTORATAVAIHTOKAUPAN MAJAKKA ja laittaa sen lähelle varastoalue, jossa on esineitä.</BuildOrbitalTradeBeacon.helpText>
 
-  <AnimalsDontAttackDoors.label>Animals don't attack doors</AnimalsDontAttackDoors.label>
-  <AnimalsDontAttackDoors.helpText>Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.label>Eläimet eivät hyökkää ovien kimppuun</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.helpText>Ihmisiä jahtaavat eläimet eivät yleensä hyökkää ovien tai epäaktivoitujen tykkitornien kimppuun.\n\nVoit paeta heiltä hakeutumalla sisätiloihin tai seinän taakse. Ne tulevat silti odottamaan sinua.</AnimalsDontAttackDoors.helpText>
 
-  <BillsTab.label>Bills tab</BillsTab.label>
-  <BillsTab.helpText>To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher.</BillsTab.helpText>
+  <BillsTab.label>Tilaukset-välilehti</BillsTab.label>
+  <BillsTab.helpText>Saadaksesi yhdyskuntalaiset työskentelemään pöydän ääressä, valitse pöytä ja avaa Tilaukset-välilehti. Siellä voit määrätä, mitä aterioita kokata, mitä esineitä valmistaa ja mitä olioita teurastaa.</BillsTab.helpText>
 
-  <OpeningComms.label>Using the comms console</OpeningComms.label>
-  <OpeningComms.helpText>To communicate, select a colonist and right-click on the comms console.</OpeningComms.helpText>
+  <OpeningComms.label>Kommunikaatiopäätteen käyttö</OpeningComms.label>
+  <OpeningComms.helpText>Voit kommunikoida valitsemalla yhdyskuntalaisen ja klikkaamalla kommunikaatiokonsolia hiiren oikealla näppäimellä.</OpeningComms.helpText>
 
-  <DrugAddiction.label>Drug addiction</DrugAddiction.label>
-  <DrugAddiction.helpText>You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear.</DrugAddiction.helpText>
+  <DrugAddiction.label>Huumeriippuvuus</DrugAddiction.label>
+  <DrugAddiction.helpText>Voit tarkistaa yhdyskuntalaistesi himon käyttää tiettyä huumausainetta heidän Tarpeet-välilehdestään.\n\nNiin kauan kuin heidän tarpeensa taso on nolla, heidän riippuvuutensa muuttuu "vieroitus"-tilaan, jolla voi olla useita negatiivisia sivuvaikutuksia.\n\nKuitenkin, kun he ovat olleet tarpeeksi kauan vieroitustilassa, heidän riippuvuutensa päättyy ja huumausaineen tarve katoaa.</DrugAddiction.helpText>
 
-  <DrugPolicies.label>Drug policies</DrugPolicies.label>
-  <DrugPolicies.helpText>You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires!</DrugPolicies.helpText>
+  <DrugPolicies.label>Huumekäytännöt</DrugPolicies.label>
+  <DrugPolicies.helpText>Voit määrätä yhdyskuntalaisia ottamaan tiettyjä huumausaineita tiettyllä aikataululla. Voit esimerkiksi määrätä heidät ottamaan malarian vastalääkettä säännöllisesti tai juomaan yhden oluen päivässä pysyäkseen onnellisena.\n\nAvaa MÄÄRÄYKSET-välilehti ja paina "Hallitse huumekäytäntöjä"-painiketta. Luo uusi huumekäytäntö. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires!</DrugPolicies.helpText>
 
   <TVForSickPeople.label>TV for sick people</TVForSickPeople.label>
   <TVForSickPeople.helpText>Sick people can watch TV while laying in bed.</TVForSickPeople.helpText>
