@@ -3,7 +3,7 @@
 	<ColonySettler43>
 		<title>Uudisasukas</title>
 		<titleShort>Uudisasukas</titleShort>
-		<desc>NAME oli asuttamassa uutta siirtomaailmaa.
+		<desc>[PAWN_nameDef] oli asuttamassa uutta siirtomaailmaa.
 
 Sellainen elämä vaati jokapaikanhöylän yksinkertaisiin käytännön tehtäviin.</desc>
 	</ColonySettler43>
@@ -17,7 +17,7 @@ Keskiaikaisen tason maanviljelijät eivät ole koulutettuja sanan tavanomaisessa
 	<MedievalLord20>
 		<title>Keskiaikainen herra</title>
 		<titleShort>Aatelinen</titleShort>
-		<desc>NAME oli herra esiteollisella planeetalla. Häb kävi juhlissa, hallitsi alaisiaan ja oppi jopa hieman miekkailua.
+		<desc>[PAWN_nameDef] oli herra esiteollisella planeetalla. Häb kävi juhlissa, hallitsi alaisiaan ja oppi jopa hieman miekkailua.
 
 Hänen pehmeät kätensä eivät koskeneet työkaluihin koko aikana. Hänen mielestään ruumiillinen työ on hänen alapuolellaan.</desc>
 	</MedievalLord20>
@@ -26,194 +26,194 @@ Hänen pehmeät kätensä eivät koskeneet työkaluihin koko aikana. Hänen miel
 		<titleShort>Yrittäjä</titleShort>
 		<desc>Urbaaneilla maailmoilla useimmat kärsivät. Mutta jonkun täytyy johtaa suuryhtiöitä.
 
-NAME oppi kaupankäymisen taidon - lahjomisen ja teknisen analyysin. Hän on sosiointellektuaalinen kone.</desc>
+[PAWN_nameDef] oppi kaupankäymisen taidon - lahjomisen ja teknisen analyysin. Hän on sosiointellektuaalinen kone.</desc>
 	</UrbworldEntrepreneur55>
 	<DeepSpaceMiner11>
 		<title>Syvän avaruuden kaivostyöläinen</title>
 		<titleShort>Mainari</titleShort>
-		<desc>NAME teki hikistä ja likaistä työtä, joka oli metallin eristämisen asteroideista syvän avaruuden kaivoslautalla. Hän käytti käytännön teollisuustyön taitojaan päivittäin - eikä ollut hassumpi myöskään baaritappeluissa.</desc>
+		<desc>[PAWN_nameDef] teki hikistä ja likaistä työtä, joka oli metallin eristämisen asteroideista syvän avaruuden kaivoslautalla. Hän käytti käytännön teollisuustyön taitojaan päivittäin - eikä ollut hassumpi myöskään baaritappeluissa.</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
 		<title>Laivaston tiedemies</title>
 		<titleShort>Tiedemies</titleShort>
 		<desc>Tähtienvälinen sodankäynti voitetaan teknologialla, joten imperialistiset laivastot ovat aina modernin tutkimuksen kärjessä. Mikä parempaa, he pääsevät ensimmäisinä käsiksi Transendenttisiin artefakteihin, koska he löytävät niitä avaruudesta.
 
-NAME työskenteli laivaston laboratoriossa.</desc>
+[PAWN_nameDef] työskenteli laivaston laboratoriossa.</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
 		<title>Armeijan komissaari</title>
 		<titleShort>Komissaari</titleShort>
-		<desc>NAME oli vakoilumestari imperialistisessa armeijapataljoonassa. HECAP varmisti, että miehistö oli uskollista eikä perääntynyt ilman määräystä. Tämä teki hänestä epäsuositun, mutta hän hankki erinomaisen taidon tunnistaa pieninkin epärehellisyys.</desc>
+		<desc>[PAWN_nameDef] oli vakoilumestari imperialistisessa armeijapataljoonassa. [PAWN_pronoun] varmisti, että miehistö oli uskollista eikä perääntynyt ilman määräystä. Tämä teki hänestä epäsuositun, mutta hän hankki erinomaisen taidon tunnistaa pieninkin epärehellisyys.</desc>
 	</MilitaryCommissar49>
 	<SpacePirate69>
 		<title>Avaruusrosvo</title>
 		<titleShort>Avaruusrosvo</titleShort>
-		<desc>Avaruusrosvousta ilmenee kaikkialla missä hallitukset ovat heikkoja ja yhteiskunta leviää ohueksi. NAME oli osana tätä ikiaikaista osaa ihmisluontoa, kiristämässä ja kukistamassa rauhantahtoisia vaihtokauppa-aluksia tuottoa tehden.</desc>
+		<desc>Avaruusrosvousta ilmenee kaikkialla missä hallitukset ovat heikkoja ja yhteiskunta leviää ohueksi. [PAWN_nameDef] oli osana tätä ikiaikaista osaa ihmisluontoa, kiristämässä ja kukistamassa rauhantahtoisia vaihtokauppa-aluksia tuottoa tehden.</desc>
 	</SpacePirate69>
 	<PitBrawler20>
 		<title>Rinkitappelija</title>
 		<titleShort>Tappelija</titleShort>
-		<desc>NAME oli yhdeksänvuotias kun hän joutui ensimmäiseen tappeluunsa. Hän voitti, mutta sitä tärkeämpää oli hänen yleisönsä nauttiminen. Rinkitappelusta tuli tuottoisa ura niille jotka selviytyivät siitä. Ja se oli jopa enimmäkseen laillista.</desc>
+		<desc>[PAWN_nameDef] oli yhdeksänvuotias kun hän joutui ensimmäiseen tappeluunsa. Hän voitti, mutta sitä tärkeämpää oli hänen yleisönsä nauttiminen. Rinkitappelusta tuli tuottoisa ura niille jotka selviytyivät siitä. Ja se oli jopa enimmäkseen laillista.</desc>
 	</PitBrawler20>
 	<IllegalShipwright28>
 		<title>Laiton aluksenrakentaja</title>
 		<titleShort>Aluksenrakentaja</titleShort>
-		<desc>On olemassa laki jonka mukaan et saa laittaa terawattiluokan gammasäteilymoottoreita rahtiproomuun. Varsinkin jos piilotat ne jonkin sellaisen alle joka näyttää viestintälautasantennilta parempien väijytysominaisuuksien takia. NAME havaitsi, että voi tehdä suuria voittoja sellaisista ihmisistä, jotka eivät välitä näistä laeista.</desc>
+		<desc>On olemassa laki jonka mukaan et saa laittaa terawattiluokan gammasäteilymoottoreita rahtiproomuun. Varsinkin jos piilotat ne jonkin sellaisen alle joka näyttää viestintälautasantennilta parempien väijytysominaisuuksien takia. [PAWN_nameDef] havaitsi, että voi tehdä suuria voittoja sellaisista ihmisistä, jotka eivät välitä näistä laeista.</desc>
 	</IllegalShipwright28>
 	<Courtesean56>
 		<title>Kurtisaani</title>
 		<titleShort>Kurtisaani</titleShort>
-		<desc>Sadat asiakkaat käyttivät henkilöä NAME hyväksi hänen kehonsa takia ilotaloissa useilla planeetoilla. Hänelle jäi käteen joitan mielen arpia ja erityislaatuisia nokkeluutta katuelämässä.</desc>
+		<desc>Sadat asiakkaat käyttivät henkilöä [PAWN_nameDef] hyväksi hänen kehonsa takia ilotaloissa useilla planeetoilla. Hänelle jäi käteen joitan mielen arpia ja erityislaatuisia nokkeluutta katuelämässä.</desc>
 	</Courtesean56>
 	<SpaceMarine10>
 		<title>Avaruusjalkaväen sotilas</title>
 		<titleShort>Avaruussotilas</titleShort>
-		<desc>NAME oli soturi imperialistisessa avaruusjalkaväessä. Hänen työkuvaansa kuului vihollisten aluksiin tunkeutuminen, miehistön ampuminen ja aluksen kaappaaminen ehjänä. Ja hän oli hyvä siinä.</desc>
+		<desc>[PAWN_nameDef] oli soturi imperialistisessa avaruusjalkaväessä. Hänen työkuvaansa kuului vihollisten aluksiin tunkeutuminen, miehistön ampuminen ja aluksen kaappaaminen ehjänä. Ja hän oli hyvä siinä.</desc>
 	</SpaceMarine10>
 	<Assassin35>
 		<title>Salamurhaaja</title>
 		<titleShort>Salamurhaaja</titleShort>
-		<desc>NAME oli ammatillinen salamurhaaja. Hän oli kylmä, laskelmoiva ja teki hyvää voittoa. Hänen alallaan empatian täydellinen puute oli eduksi.</desc>
+		<desc>[PAWN_nameDef] oli ammatillinen salamurhaaja. Hän oli kylmä, laskelmoiva ja teki hyvää voittoa. Hänen alallaan empatian täydellinen puute oli eduksi.</desc>
 	</Assassin35>
 	<MedievalSlave75>
 		<title>Keskiaikainen orja</title>
 		<titleShort>Orja</titleShort>
-		<desc>NAME kasvoi kärryjä vetäen ja kuoppia kaivaen keskiaikaisella maailmalla. Yksinkertainen ruumiillinen työ on hänen vanhin kumppaninsa - kuten myös hänen isäntänsä ruoska.
+		<desc>[PAWN_nameDef] kasvoi kärryjä vetäen ja kuoppia kaivaen keskiaikaisella maailmalla. Yksinkertainen ruumiillinen työ on hänen vanhin kumppaninsa - kuten myös hänen isäntänsä ruoska.
 
 Hän ei osannut lukemaan ennen yhdeksän vuoden ikää.</desc>
 	</MedievalSlave75>
 	<MedievalLordling62>
 		<title>Keskiaikainen pikkuherra</title>
 		<titleShort>Pikkuherra</titleShort>
-		<desc>NAME oli vähäpätöinen aatelinen vanhassa kuningaskunnassa keskiaikaisessa maailmassa. Hän kasvoi kivisessä kartanossa ja häntä palvelivat nöyristelevät alamaiset.
+		<desc>[PAWN_nameDef] oli vähäpätöinen aatelinen vanhassa kuningaskunnassa keskiaikaisessa maailmassa. Hän kasvoi kivisessä kartanossa ja häntä palvelivat nöyristelevät alamaiset.
 
-Sellainen elämä ei opeta ollenkaan teknisiä taitoja ja istuttaa elämänpituisen vastenmielisyyden ruumiillista työtä kohtaan - mutta NAME oppi aikaisin sosiaalisen manipulaation tavat.</desc>
+Sellainen elämä ei opeta ollenkaan teknisiä taitoja ja istuttaa elämänpituisen vastenmielisyyden ruumiillista työtä kohtaan - mutta [PAWN_nameDef] oppi aikaisin sosiaalisen manipulaation tavat.</desc>
 	</MedievalLordling62>
 	<UrbworldUrchin46>
 		<title>Urbaanin maailman viikari</title>
 		<titleShort>Viikari</titleShort>
-		<desc>Urbaanit maailmat - muinaisia ja syviä teollisuuskaupunkeja halkeamaisillaan täynnä ihmisiä ja myrkkyjä. NAME kasvoi sellaisen ympäristön pimeillä ja luotaantyöntävillä perukoilla. Hänen täytyi taistella jokaisesta ruoanmurusesta.</desc>
+		<desc>Urbaanit maailmat - muinaisia ja syviä teollisuuskaupunkeja halkeamaisillaan täynnä ihmisiä ja myrkkyjä. [PAWN_nameDef] kasvoi sellaisen ympäristön pimeillä ja luotaantyöntävillä perukoilla. Hänen täytyi taistella jokaisesta ruoanmurusesta.</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
 		<title>Sammiossa kasvatettu sotilas</title>
 		<titleShort>Sammiokasvatti</titleShort>
-		<desc>Yksilöä NAME ei tehty henkilönä vaan tuhon välineenä. Hänet on kasvatettu bioaselaitoksessa ja opetettu taistelemaan nopean kasvunsa aikana, ja hänellä on yhä taipumus kaikenlaiseen taisteluun ja ihno ihmiskontakteja kohtaan.</desc>
+		<desc>Yksilöä [PAWN_nameDef] ei tehty henkilönä vaan tuhon välineenä. Hänet on kasvatettu bioaselaitoksessa ja opetettu taistelemaan nopean kasvunsa aikana, ja hänellä on yhä taipumus kaikenlaiseen taisteluun ja ihno ihmiskontakteja kohtaan.</desc>
 	</VatgrownSoldier83>
 	<Hermit87>
 		<title>Erakko</title>
 		<titleShort>Erakko</titleShort>
-		<desc>Sosiaalisen kanssakäymisen paineiden kuluttama NAME jätti keskimaailman tungoksen taakseen elääkseen yksinkertaista elämää erämaassa. Siellä hän vietti päivänsä yksin puutarhaansa hoitaen ja selviytymiseen tarvitsemansa työkalut itse valmistaen.</desc>
+		<desc>Sosiaalisen kanssakäymisen paineiden kuluttama [PAWN_nameDef] jätti keskimaailman tungoksen taakseen elääkseen yksinkertaista elämää erämaassa. Siellä hän vietti päivänsä yksin puutarhaansa hoitaen ja selviytymiseen tarvitsemansa työkalut itse valmistaen.</desc>
 	</Hermit87>
 	<MidworldChef39>
 		<title>Keskimaailman kokki</title>
 		<titleShort>Kokki</titleShort>
-		<desc>NAME johti korkealuokkaista keskimaailman ravintolaa. Hän oli kuuluisa asiakkaidensa keksuudessa hänen luovista kulinaarisista erikoisuuksistaan ja pahamainenen keittiöhenkilökunnan keskuudessa hänen rennosta halveksunnastaan käskyläistensä työtä kohtaan.</desc>
+		<desc>[PAWN_nameDef] johti korkealuokkaista keskimaailman ravintolaa. Hän oli kuuluisa asiakkaidensa keksuudessa hänen luovista kulinaarisista erikoisuuksistaan ja pahamainenen keittiöhenkilökunnan keskuudessa hänen rennosta halveksunnastaan käskyläistensä työtä kohtaan.</desc>
 	</MidworldChef39>
 	<SicklyChild40>
 		<title>Sairasteleva lapsi</title>
 		<titleShort>Potilas</titleShort>
-		<desc>Lapsena NAME kärsi harvinaisesta sairaudesta. Hänen ollessa eristettynä tutkimussairaalassa hänellä oli vain vähän ihmiskontakteja ja hän sai vähän fyysistä harjoitusta. Steriilissä sairaalaympäristössä tiede ja lääkitseminen tulivat hänelle kuitenkin erittäin tutuiksi.</desc>
+		<desc>Lapsena [PAWN_nameDef] kärsi harvinaisesta sairaudesta. Hänen ollessa eristettynä tutkimussairaalassa hänellä oli vain vähän ihmiskontakteja ja hän sai vähän fyysistä harjoitusta. Steriilissä sairaalaympäristössä tiede ja lääkitseminen tulivat hänelle kuitenkin erittäin tutuiksi.</desc>
 	</SicklyChild40>
 	<MedievalMinstrel69>
 		<title>Keskiaikainen kiertelevä bardi</title>
 		<titleShort>Bardi</titleShort>
-		<desc>NAME oli kiertelevä viihdyttäjä keksiaikaisella maailmalla.
+		<desc>[PAWN_nameDef] oli kiertelevä viihdyttäjä keksiaikaisella maailmalla.
 
 Hänet saattoi aina löytää tarinoita kertomasta tai lauluja laulamasta, ja hän pystyy suojelemaan itseään teiden vaaroja vastaan. Hän loisti kuitenkin aina poissaolollaan kun raskasta työtä oli tehtävänä.</desc>
 	</MedievalMinstrel69>
 	<Housemate5>
 		<title>Koti-ihminen</title>
 		<titleShort>Koti-ihminen</titleShort>
-		<desc>Aikuisena NAME hoiti taloutta ja lapsia kun hänen puolisonsa kävi töissä.</desc>
+		<desc>Aikuisena [PAWN_nameDef] hoiti taloutta ja lapsia kun hänen puolisonsa kävi töissä.</desc>
 	</Housemate5>
 	<GlitterworldEmpath39>
 		<title>Loistemaailman empaatti</title>
 		<titleShort>Empaatti</titleShort>
-		<desc>NAME pystyi ymmärtämään muiden tuntemuksia hämmästyttävän hyvin ja sovittelemaan konflikteja. Hänet valittiin koulutettavaksi empaatiksi. Koulutus tehosti hänen luonnollisia kykyjään, mutta hänestä tuli kykenemätön satuttamaan muita.</desc>
+		<desc>[PAWN_nameDef] pystyi ymmärtämään muiden tuntemuksia hämmästyttävän hyvin ja sovittelemaan konflikteja. Hänet valittiin koulutettavaksi empaatiksi. Koulutus tehosti hänen luonnollisia kykyjään, mutta hänestä tuli kykenemätön satuttamaan muita.</desc>
 	</GlitterworldEmpath39>
 	<ShelterChild65>
 		<title>Väestönsuojan lapsi</title>
 		<titleShort>Suojatti</titleShort>
-		<desc>NAME kasvoi väestönsuojassa syvällä maan alla myrkyllisellä maailmalla. Hän sai kattavan koulutuksen, mutta hänellä ei ollut mahdollisuutta tehdä fyysistä työtä.</desc>
+		<desc>[PAWN_nameDef] kasvoi väestönsuojassa syvällä maan alla myrkyllisellä maailmalla. Hän sai kattavan koulutuksen, mutta hänellä ei ollut mahdollisuutta tehdä fyysistä työtä.</desc>
 	</ShelterChild65>
 	<MedievalDoctor6>
 		<title>Keskiaikainen lääkäri</title>
 		<titleShort>Puoskari</titleShort>
-		<desc>NAME työskenteli lääkärinä keskiaikaisella planeetalla. Hän uskoo vahvasti, että useimmat vaivoista voidaan parantaa käyttämällä hieman suoneniskentää.
+		<desc>[PAWN_nameDef] työskenteli lääkärinä keskiaikaisella planeetalla. Hän uskoo vahvasti, että useimmat vaivoista voidaan parantaa käyttämällä hieman suoneniskentää.
 
 Hän oli myös mestari nukutuslääkäri ja kehitti erikoistekniikan, johon kuului voimakas isku päähän.</desc>
 	</MedievalDoctor6>
 	<Inventor42>
 		<title>Keksijä</title>
 		<titleShort>Keksijä</titleShort>
-		<desc>Kotimaailmassaan NAME toimi kohtalaisen menestyksekkäästi keksijänä. Hän kehitti useita pieniä teknologioita.</desc>
+		<desc>Kotimaailmassaan [PAWN_nameDef] toimi kohtalaisen menestyksekkäästi keksijänä. Hän kehitti useita pieniä teknologioita.</desc>
 	</Inventor42>
 	<Teacher24>
 		<title>Opettaja</title>
 		<titleShort>Opettaja</titleShort>
-		<desc>NAME koulutettiin taiteen alalla ja opetti julkisessa koulussa. Hän oli laajalti asiantunteva ja oppilaidensa suosiossa.</desc>
+		<desc>[PAWN_nameDef] koulutettiin taiteen alalla ja opetti julkisessa koulussa. Hän oli laajalti asiantunteva ja oppilaidensa suosiossa.</desc>
 	</Teacher24>
 	<IndustrialOrphan55>
 		<title>Teollisuusorpo</title>
 		<titleShort>Orpo</titleShort>
-		<desc>NAME koskaan tuntenut vanhempiaan. Hänen aikaisimpiin muistoihinsa kuuluu raadanta teollisen maailmansa kaivoksissa ja työkodeissa.
+		<desc>[PAWN_nameDef] koskaan tuntenut vanhempiaan. Hänen aikaisimpiin muistoihinsa kuuluu raadanta teollisen maailmansa kaivoksissa ja työkodeissa.
 
 Tämän vuoksi hän ei koskaan saanut kunnollista koulutusta.</desc>
 	</IndustrialOrphan55>
 	<Scout67>
 		<title>Partiolainen</title>
 		<titleShort>Partiolainen</titleShort>
-		<desc>NAME oli syntynyt pienen imperialistisen vallan siirtomaahallitsijoille ja hänet oli värvätty nuoriso-ohjelmaan, joka opetti sotilaallisia tiedustelutaitoja.
+		<desc>[PAWN_nameDef] oli syntynyt pienen imperialistisen vallan siirtomaahallitsijoille ja hänet oli värvätty nuoriso-ohjelmaan, joka opetti sotilaallisia tiedustelutaitoja.
 
 Hän oppi selviytymään erämaassa, tottelemaan käskyjä ja jättämään kysymykset kysymättä.</desc>
 	</Scout67>
 	<JoywireArtist62>
 		<title>Iloimplanttien artisti</title>
 		<titleShort>Ilovirittäjä</titleShort>
-		<desc>NAME työskenteli urbaanimaailman laboratoriossa, joka kehitti käyttäjänsä iloa maksimoivaa huippuluokan iloimplanttiohjelmistoa.
+		<desc>[PAWN_nameDef] työskenteli urbaanimaailman laboratoriossa, joka kehitti käyttäjänsä iloa maksimoivaa huippuluokan iloimplanttiohjelmistoa.
 
 Kun paikallishallinto asetti ankaria rajoituksia iloilmpanteiden tuotannolle hän alkoi myydä tuotteitaan mustilla markkinoilla.</desc>
 	</JoywireArtist62>
 	<FrightenedChild6>
 		<title>Peloissaan oleva lapsi</title>
 		<titleShort>Pelkuri</titleShort>
-		<desc>Kun NAME oli pieni, hänelle kehittyi pitkä lista fobioita ja neurooseja. Hän pelkäsi muun muassa lääkäreitä ja elintarvikeperäisiä taudinaiheuttajia.
+		<desc>Kun [PAWN_nameDef] oli pieni, hänelle kehittyi pitkä lista fobioita ja neurooseja. Hän pelkäsi muun muassa lääkäreitä ja elintarvikeperäisiä taudinaiheuttajia.
 
 Tämän seurauksena hän oppi kokkaamaan ja huolehtimaan itsestään, mutta monet hänen peloistaan vainoavat häntä aikuisiässäkin.</desc>
 	</FrightenedChild6>
 	<ConceptualArtist7>
 		<title>Käsitetaiteilija</title>
 		<titleShort>Taiteilija</titleShort>
-		<desc>NAME oli tunnettu kotimaailmansa taidepiireissä hänen ainutlaatuisista ja luovista käsitteellisistä taideteoksistaan.
+		<desc>[PAWN_nameDef] oli tunnettu kotimaailmansa taidepiireissä hänen ainutlaatuisista ja luovista käsitteellisistä taideteoksistaan.
 
 Kukaan ei ollut varma mitä hän yritti kommunikoida, mutta hänen teoksensa olivat erittäin arvokkaita keräilijöiden mielestä.</desc>
 	</ConceptualArtist7>
 	<GlitterworldSurgeon7>
 		<title>Loistemaailman kirurgi</title>
 		<titleShort>Kirurgi</titleShort>
-		<desc>NAME toimi kirurgina maailmassa joka oli enimmäkseen vapaa taudeista ja inhimillisestä kärsimyksestä.
+		<desc>[PAWN_nameDef] toimi kirurgina maailmassa joka oli enimmäkseen vapaa taudeista ja inhimillisestä kärsimyksestä.
 
 Hänen työkuvaansa kuuluivat lähinnä yksityiskohtaiset ja luovat kosmeettiset leikkaukset. Hänellä on hyvä käsitys ihmisen biologiasta, mutta hänen ei ole koskaan tarvinnut poistaa syöpää - tai luotia.</desc>
 	</GlitterworldSurgeon7>
 	<LudditeRebel42>
 		<title>Luddiittikapinallinen</title>
 		<titleShort>Luddiitti</titleShort>
-		<desc>Kun suurin osa hänen maailmansa ihmisistä päätti luopua yksilöllisyydestään ja biologisesta inhimillisyydestään liittyäkseen yhteen verkossa, NAME liittyi kapinallisryhmään, joka päätti hylätä suurimman osan teknologiasta.</desc>
+		<desc>Kun suurin osa hänen maailmansa ihmisistä päätti luopua yksilöllisyydestään ja biologisesta inhimillisyydestään liittyäkseen yhteen verkossa, [PAWN_nameDef] liittyi kapinallisryhmään, joka päätti hylätä suurimman osan teknologiasta.</desc>
 	</LudditeRebel42>
 	<Bartender47>
 		<title>Baarimestari</title>
 		<titleShort>Baarimestari</titleShort>
-		<desc>NAME toimi baarimestarina rähjäisellä avaruusasemalla. Työkuvaan kuului osaksi juomien sekoitus, osaksi diplomatia ja osaksi turpaan lyöminen.</desc>
+		<desc>[PAWN_nameDef] toimi baarimestarina rähjäisellä avaruusasemalla. Työkuvaan kuului osaksi juomien sekoitus, osaksi diplomatia ja osaksi turpaan lyöminen.</desc>
 	</Bartender47>
 	<CaveworldTender5>
 		<title>Luolamaailman kasvatti</title>
 		<titleShort>Luolalapsi</titleShort>
-		<desc>NAME kasvoi monimutkaisessa luolajärjestelmässä syvällä asumiskelvottoman maailman pinnan alla. Hän työskenteli muiden lasten kanssa heimon sieniviljelmiä hoitaen.</desc>
+		<desc>[PAWN_nameDef] kasvoi monimutkaisessa luolajärjestelmässä syvällä asumiskelvottoman maailman pinnan alla. Hän työskenteli muiden lasten kanssa heimon sieniviljelmiä hoitaen.</desc>
 	</CaveworldTender5>
 	<CaveworldTunneler74>
 		<title>Luolamaailman tunnelinkaivaja</title>
 		<titleShort>Tunneloija</titleShort>
-		<desc>NAME toimi kaivajana massiivisessa maanalaisessa luolakompleksissa.
+		<desc>[PAWN_nameDef] toimi kaivajana massiivisessa maanalaisessa luolakompleksissa.
 
 Hän tuntee kiven niin hyvin, että hän osaa melkein suunnistaa luolissa hajun perusteella.</desc>
 	</CaveworldTunneler74>

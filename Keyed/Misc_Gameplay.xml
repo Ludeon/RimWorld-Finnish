@@ -373,7 +373,7 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Sisältää</CasketContains>
-  <CasketWarning>Varoitus!\n\nNAME on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
+  <CasketWarning>Varoitus!\n\n[PAWN_nameDef] on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Ei voi laukaista.</ShipReportCannotLaunch>

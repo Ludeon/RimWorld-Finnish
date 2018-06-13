@@ -52,9 +52,9 @@
   <WanderSad.baseInspectLine>Mental state: Sad wandering</WanderSad.baseInspectLine>
 
   <WanderOwnRoom.label>sitting alone</WanderOwnRoom.label>
-  <WanderOwnRoom.beginLetter>{0} is hiding in HIS room.</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.beginLetter>{0} is hiding in [PAWN_possessive] room.</WanderOwnRoom.beginLetter>
   <WanderOwnRoom.beginLetterLabel>hide in room</WanderOwnRoom.beginLetterLabel>
-  <WanderOwnRoom.recoveryMessage>{0} is no longer hiding in HIS room.</WanderOwnRoom.recoveryMessage>
+  <WanderOwnRoom.recoveryMessage>{0} is no longer hiding in [PAWN_possessive] room.</WanderOwnRoom.recoveryMessage>
   <WanderOwnRoom.baseInspectLine>Mental state: Hiding in room</WanderOwnRoom.baseInspectLine>
 
 

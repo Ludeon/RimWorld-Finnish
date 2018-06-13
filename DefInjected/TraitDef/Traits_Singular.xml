@@ -2,73 +2,73 @@
 <LanguageData>
 
   <Nudist.degreeDatas.0.label>nudisti</Nudist.degreeDatas.0.label>
-  <Nudist.degreeDatas.0.description>NAME nauttii alastomuuden tuomasta vapauden tunteesta. HECAP voi pitää yllään vaatteita, mutta on onnellisempi ilman niitä.</Nudist.degreeDatas.0.description>
+  <Nudist.degreeDatas.0.description>[PAWN_nameDef] nauttii alastomuuden tuomasta vapauden tunteesta. [PAWN_pronoun] voi pitää yllään vaatteita, mutta on onnellisempi ilman niitä.</Nudist.degreeDatas.0.description>
 
   <Bloodlust.degreeDatas.0.label>verenhimoinen</Bloodlust.degreeDatas.0.label>
-  <Bloodlust.degreeDatas.0.description>NAME innostuu ihmisten satuttamisesta ja ei välitä veren tai kuoleman näkemisestä.</Bloodlust.degreeDatas.0.description>
+  <Bloodlust.degreeDatas.0.description>[PAWN_nameDef] innostuu ihmisten satuttamisesta ja ei välitä veren tai kuoleman näkemisestä.</Bloodlust.degreeDatas.0.description>
 
   <Kind.degreeDatas.0.label>kind</Kind.degreeDatas.0.label>
-  <Kind.degreeDatas.0.description>NAME is a nice person. HECAP has a tendency to brighten everyone else's day and never insults others.</Kind.degreeDatas.0.description>
+  <Kind.degreeDatas.0.description>[PAWN_nameDef] is a nice person. [PAWN_pronoun] has a tendency to brighten everyone else's day and never insults others.</Kind.degreeDatas.0.description>
 
   <Psychopath.degreeDatas.0.label>psykopaatti</Psychopath.degreeDatas.0.label>
-  <Psychopath.degreeDatas.0.description>NAME has no empathy. Muiden kärsiminen ei vaivaa HIM yhtään. HECAP ei välitä jos muita teurastetaan, jätetään hautaamatta, vangitaan tai myydään orjiksi - ellei HIM ole kyseessä. HECAP ei myöskään saa mielialan kohennusta muiden kanssa keskustelusta.</Psychopath.degreeDatas.0.description>
+  <Psychopath.degreeDatas.0.description>[PAWN_nameDef] has no empathy. Muiden kärsiminen ei vaivaa [PAWN_objective] yhtään. [PAWN_pronoun] ei välitä jos muita teurastetaan, jätetään hautaamatta, vangitaan tai myydään orjiksi - ellei [PAWN_objective] ole kyseessä. [PAWN_pronoun] ei myöskään saa mielialan kohennusta muiden kanssa keskustelusta.</Psychopath.degreeDatas.0.description>
 
   <Cannibal.degreeDatas.0.label>kannibaali</Cannibal.degreeDatas.0.label>
-  <Cannibal.degreeDatas.0.description>NAME kasvoi ajatellen että ihmislihan syöminen on väärin ja kamalaa, mutta kerran kauan sitten HE kokeili sitä... ja HE piti siitä.</Cannibal.degreeDatas.0.description>
+  <Cannibal.degreeDatas.0.description>[PAWN_nameDef] kasvoi ajatellen että ihmislihan syöminen on väärin ja kamalaa, mutta kerran kauan sitten [PAWN_pronoun] kokeili sitä... ja [PAWN_pronoun] piti siitä.</Cannibal.degreeDatas.0.description>
 
   <Abrasive.degreeDatas.0.label>töykeä</Abrasive.degreeDatas.0.label>
-  <Abrasive.degreeDatas.0.description>NAME sanoo aina juuri sen mitä HE ajattelee, varsinkin jos se vaivaa HIM. Sillä on tapana ärsyttää ihmisiä.</Abrasive.degreeDatas.0.description>
+  <Abrasive.degreeDatas.0.description>[PAWN_nameDef] sanoo aina juuri sen mitä [PAWN_pronoun] ajattelee, varsinkin jos se vaivaa [PAWN_objective]. Sillä on tapana ärsyttää ihmisiä.</Abrasive.degreeDatas.0.description>
 
   <TooSmart.degreeDatas.0.label>yltiöviisas</TooSmart.degreeDatas.0.label>
-  <TooSmart.degreeDatas.0.description>NAME liian varma omaan älykkyyteensä. HECAP oppii kaiken muita nopeammin, mutta HE voi olla omintakeinen.</TooSmart.degreeDatas.0.description>
+  <TooSmart.degreeDatas.0.description>[PAWN_nameDef] liian varma omaan älykkyyteensä. [PAWN_pronoun] oppii kaiken muita nopeammin, mutta [PAWN_pronoun] voi olla omintakeinen.</TooSmart.degreeDatas.0.description>
 
   <Brawler.degreeDatas.0.label>painija</Brawler.degreeDatas.0.label>
-  <Brawler.degreeDatas.0.description>NAME pitää lähitaistelusta. HISCAP osumatarkkuutensa on paljon suurempi käsitaistelussa, mutta HE tulee pahalle mielelle jos HE joutuu kantamaan ampuma-asetta.</Brawler.degreeDatas.0.description>
+  <Brawler.degreeDatas.0.description>[PAWN_nameDef] pitää lähitaistelusta. [PAWN_possessive] osumatarkkuutensa on paljon suurempi käsitaistelussa, mutta [PAWN_pronoun] tulee pahalle mielelle jos [PAWN_pronoun] joutuu kantamaan ampuma-asetta.</Brawler.degreeDatas.0.description>
 
   <Masochist.degreeDatas.0.label>masokisti</Masochist.degreeDatas.0.label>
-  <Masochist.degreeDatas.0.description>NAME pitää itsensä satuttamisen tuomasta jännityksestä. HECAP ei tiedä miksi, HIS ajatuksenkulkunsa vain on erilainen.</Masochist.degreeDatas.0.description>
+  <Masochist.degreeDatas.0.description>[PAWN_nameDef] pitää itsensä satuttamisen tuomasta jännityksestä. [PAWN_pronoun] ei tiedä miksi, [PAWN_possessive] ajatuksenkulkunsa vain on erilainen.</Masochist.degreeDatas.0.description>
 
   <Prosthophile.degreeDatas.0.label>proteesimyönteinen</Prosthophile.degreeDatas.0.label>
-  <Prosthophile.degreeDatas.0.description>NAME tuntee itsensä rajoittuneeksi HIS heikossa ihmisruumiissaan. HECAP unelmoi usein kehonsa parantelemisesta bioelektrisillä osilla.</Prosthophile.degreeDatas.0.description>
+  <Prosthophile.degreeDatas.0.description>[PAWN_nameDef] tuntee itsensä rajoittuneeksi [PAWN_possessive] heikossa ihmisruumiissaan. [PAWN_pronoun] unelmoi usein kehonsa parantelemisesta bioelektrisillä osilla.</Prosthophile.degreeDatas.0.description>
 
   <Prosthophobe.degreeDatas.0.label>proteesikielteinen</Prosthophobe.degreeDatas.0.label>
-  <Prosthophobe.degreeDatas.0.description>NAME uskoo, että ihmisruumis on tarkoituksella rajoitteinen. HIS mielestä bioelektriset ruumiinosat ovat epäeettisiä.</Prosthophobe.degreeDatas.0.description>
+  <Prosthophobe.degreeDatas.0.description>[PAWN_nameDef] uskoo, että ihmisruumis on tarkoituksella rajoitteinen. [PAWN_possessive] mielestä bioelektriset ruumiinosat ovat epäeettisiä.</Prosthophobe.degreeDatas.0.description>
 
   <GreenThumb.degreeDatas.0.label>viherpeukalo</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>NAME pitää puutarhanhoidosta. HISCAP mielialansa kohenee jokaisen istutetun kasvin myötä.</GreenThumb.degreeDatas.0.description>
+  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] pitää puutarhanhoidosta. [PAWN_possessive] mielialansa kohenee jokaisen istutetun kasvin myötä.</GreenThumb.degreeDatas.0.description>
 
   <NightOwl.degreeDatas.0.label>yökyöpeli</NightOwl.degreeDatas.0.label>
-  <NightOwl.degreeDatas.0.description>NAME tykkää työskennellä öisin. HECAP saa paremman mielialan ollessaa yöllä hereillä ja huonomman päiväsaikaan.</NightOwl.degreeDatas.0.description>
+  <NightOwl.degreeDatas.0.description>[PAWN_nameDef] tykkää työskennellä öisin. [PAWN_pronoun] saa paremman mielialan ollessaa yöllä hereillä ja huonomman päiväsaikaan.</NightOwl.degreeDatas.0.description>
 
   <Greedy.degreeDatas.0.label>ahne</Greedy.degreeDatas.0.label>
-  <Greedy.degreeDatas.0.description>NAME tarvitsee todella vaikuttavan makuuhuoneen. HECAP saa huonomman mielialan jos HE ei saa mitä haluaa.</Greedy.degreeDatas.0.description>
+  <Greedy.degreeDatas.0.description>[PAWN_nameDef] tarvitsee todella vaikuttavan makuuhuoneen. [PAWN_pronoun] saa huonomman mielialan jos [PAWN_pronoun] ei saa mitä haluaa.</Greedy.degreeDatas.0.description>
 
   <Jealous.degreeDatas.0.label>kateellinen</Jealous.degreeDatas.0.label>
-  <Jealous.degreeDatas.0.description>Henkilön NAME mielestä on alentavaa omistaa huonompi makuuhuone kuin jollain muulla. HECAP saa huonomman mielialan jos jollain muulla yhdyskuntalaisella on vaikuttavampi makuuhuone.</Jealous.degreeDatas.0.description>
+  <Jealous.degreeDatas.0.description>Henkilön [PAWN_nameDef] mielestä on alentavaa omistaa huonompi makuuhuone kuin jollain muulla. [PAWN_pronoun] saa huonomman mielialan jos jollain muulla yhdyskuntalaisella on vaikuttavampi makuuhuone.</Jealous.degreeDatas.0.description>
 
   <Ascetic.degreeDatas.0.label>askeettinen</Ascetic.degreeDatas.0.label>
-  <Ascetic.degreeDatas.0.description>NAME pitää enemmän koruttomasti elämisestä. HECAP saa huonomman mielialan jos hänellä on liian vaikuttava makuuhuone.</Ascetic.degreeDatas.0.description>
+  <Ascetic.degreeDatas.0.description>[PAWN_nameDef] pitää enemmän koruttomasti elämisestä. [PAWN_pronoun] saa huonomman mielialan jos hänellä on liian vaikuttava makuuhuone.</Ascetic.degreeDatas.0.description>
 
   <Gay.degreeDatas.0.label>gay</Gay.degreeDatas.0.label>
-  <Gay.degreeDatas.0.description>NAME is romantically attracted to people of HIS own gender.</Gay.degreeDatas.0.description>
+  <Gay.degreeDatas.0.description>[PAWN_nameDef] is romantically attracted to people of [PAWN_possessive] own gender.</Gay.degreeDatas.0.description>
 
   <DislikesMen.degreeDatas.0.label>dislikes men</DislikesMen.degreeDatas.0.label>
-  <DislikesMen.degreeDatas.0.description>NAME really dislikes and distrusts men.</DislikesMen.degreeDatas.0.description>
+  <DislikesMen.degreeDatas.0.description>[PAWN_nameDef] really dislikes and distrusts men.</DislikesMen.degreeDatas.0.description>
 
   <DislikesWomen.degreeDatas.0.label>dislikes women</DislikesWomen.degreeDatas.0.label>
-  <DislikesWomen.degreeDatas.0.description>NAME really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
+  <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef] really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
 
   <AnnoyingVoice.degreeDatas.0.label>annoying voice</AnnoyingVoice.degreeDatas.0.label>
-  <AnnoyingVoice.degreeDatas.0.description>NAME's voice has a particularly grating, nasal quality to it, and HE tends to talk in barked, garbled phrases. This predisposes others to dislike HIM.</AnnoyingVoice.degreeDatas.0.description>
+  <AnnoyingVoice.degreeDatas.0.description>[PAWN_nameDef]'s voice has a particularly grating, nasal quality to it, and [PAWN_pronoun] tends to talk in barked, garbled phrases. This predisposes others to dislike [PAWN_objective].</AnnoyingVoice.degreeDatas.0.description>
 
   <CreepyBreathing.degreeDatas.0.label>creepy breathing</CreepyBreathing.degreeDatas.0.label>
-  <CreepyBreathing.degreeDatas.0.description>NAME breathes heavily all the time, and sweats constantly. People find it creepy.</CreepyBreathing.degreeDatas.0.description>
+  <CreepyBreathing.degreeDatas.0.description>[PAWN_nameDef] breathes heavily all the time, and sweats constantly. People find it creepy.</CreepyBreathing.degreeDatas.0.description>
 
   <Pyromaniac.degreeDatas.0.label>pyromaniac</Pyromaniac.degreeDatas.0.label>
-  <Pyromaniac.degreeDatas.0.description>NAME loves fire. HECAP will occasionaly start fires and will never extinguish them.</Pyromaniac.degreeDatas.0.description>
+  <Pyromaniac.degreeDatas.0.description>[PAWN_nameDef] loves fire. [PAWN_pronoun] will occasionaly start fires and will never extinguish them.</Pyromaniac.degreeDatas.0.description>
 
   <Wimp.degreeDatas.0.label>wimp</Wimp.degreeDatas.0.label>
-  <Wimp.degreeDatas.0.description>NAME is weak and cowardly. Even a little pain will immobilize HIM.</Wimp.degreeDatas.0.description>
+  <Wimp.degreeDatas.0.description>[PAWN_nameDef] is weak and cowardly. Even a little pain will immobilize [PAWN_objective].</Wimp.degreeDatas.0.description>
 
 
 </LanguageData>

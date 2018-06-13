@@ -2,73 +2,73 @@
 <LanguageData>
 
   <SpeedOffset.degreeDatas.0.label>vätys</SpeedOffset.degreeDatas.0.label>
-  <SpeedOffset.degreeDatas.0.description>NAME on aina jäämässä jälkeen meni HE minne tahansa.</SpeedOffset.degreeDatas.0.description>
+  <SpeedOffset.degreeDatas.0.description>[PAWN_nameDef] on aina jäämässä jälkeen meni [PAWN_pronoun] minne tahansa.</SpeedOffset.degreeDatas.0.description>
   <SpeedOffset.degreeDatas.1.label>pikakävelijä</SpeedOffset.degreeDatas.1.label>
-  <SpeedOffset.degreeDatas.1.description>NAME tykkää olla siellä mihin HE on menossa. HECAP kävelee nopeammin kuin useimmat ihmiset.</SpeedOffset.degreeDatas.1.description>
+  <SpeedOffset.degreeDatas.1.description>[PAWN_nameDef] tykkää olla siellä mihin [PAWN_pronoun] on menossa. [PAWN_pronoun] kävelee nopeammin kuin useimmat ihmiset.</SpeedOffset.degreeDatas.1.description>
   <SpeedOffset.degreeDatas.2.label>hölkkääjä</SpeedOffset.degreeDatas.2.label>
-  <SpeedOffset.degreeDatas.2.description>NAME liikkuu aina kiireellä - niin suurella että muut jäävät usein jälkeen.</SpeedOffset.degreeDatas.2.description>
+  <SpeedOffset.degreeDatas.2.description>[PAWN_nameDef] liikkuu aina kiireellä - niin suurella että muut jäävät usein jälkeen.</SpeedOffset.degreeDatas.2.description>
 
   <DrugDesire.degreeDatas.0.label>huumausaineiden lumoama</DrugDesire.degreeDatas.0.label>
-  <DrugDesire.degreeDatas.0.description>Henkilöllä NAME on voimakas kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</DrugDesire.degreeDatas.0.description>
+  <DrugDesire.degreeDatas.0.description>Henkilöllä [PAWN_nameDef] on voimakas kiinnostus huumausaineisiin. [PAWN_pronoun] kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</DrugDesire.degreeDatas.0.description>
   <DrugDesire.degreeDatas.1.label>kiinnostus huumausaineisiin</DrugDesire.degreeDatas.1.label>
-  <DrugDesire.degreeDatas.1.description>Henkilöllä NAME on epätavallinen kiinnostus huumausaineisiin. HECAP kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</DrugDesire.degreeDatas.1.description>
+  <DrugDesire.degreeDatas.1.description>Henkilöllä [PAWN_nameDef] on epätavallinen kiinnostus huumausaineisiin. [PAWN_pronoun] kuluttaa niitä paljon enemmän ja ryhtyy todennäköisemmin sarjakäyttäjäksi.</DrugDesire.degreeDatas.1.description>
   <DrugDesire.degreeDatas.2.label>absolutisti</DrugDesire.degreeDatas.2.label>
-  <DrugDesire.degreeDatas.2.description>NAME kammoksuu huumausaineita ja välttää alkoholia ja huumeita.</DrugDesire.degreeDatas.2.description>
+  <DrugDesire.degreeDatas.2.description>[PAWN_nameDef] kammoksuu huumausaineita ja välttää alkoholia ja huumeita.</DrugDesire.degreeDatas.2.description>
 
   <NaturalMood.degreeDatas.0.label>toiveikas</NaturalMood.degreeDatas.0.label>
-  <NaturalMood.degreeDatas.0.description>NAME on luonnostaan aina myönteinen tilanteestaan riippumatta siitä millainen se on.</NaturalMood.degreeDatas.0.description>
+  <NaturalMood.degreeDatas.0.description>[PAWN_nameDef] on luonnostaan aina myönteinen tilanteestaan riippumatta siitä millainen se on.</NaturalMood.degreeDatas.0.description>
   <NaturalMood.degreeDatas.1.label>optimisti</NaturalMood.degreeDatas.1.label>
-  <NaturalMood.degreeDatas.1.description>NAME on luonnostaan optimistinen elämästä. HIM on vaikea lannistaa.</NaturalMood.degreeDatas.1.description>
+  <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] on luonnostaan optimistinen elämästä. [PAWN_objective] on vaikea lannistaa.</NaturalMood.degreeDatas.1.description>
   <NaturalMood.degreeDatas.2.label>pessimisti</NaturalMood.degreeDatas.2.label>
-  <NaturalMood.degreeDatas.2.description>NAME taipuu tarkastelemaan elämän nurjaa puolta.</NaturalMood.degreeDatas.2.description>
+  <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] taipuu tarkastelemaan elämän nurjaa puolta.</NaturalMood.degreeDatas.2.description>
   <NaturalMood.degreeDatas.3.label>masentava</NaturalMood.degreeDatas.3.label>
-  <NaturalMood.degreeDatas.3.description>NAME on pysyvästi alakuloinen. HECAP kokee hyvän mielialan ylläpitämisen vaikeaksi jopa silloin kun kaikki on hyvin.</NaturalMood.degreeDatas.3.description>
+  <NaturalMood.degreeDatas.3.description>[PAWN_nameDef] on pysyvästi alakuloinen. [PAWN_pronoun] kokee hyvän mielialan ylläpitämisen vaikeaksi jopa silloin kun kaikki on hyvin.</NaturalMood.degreeDatas.3.description>
 
   <Nerves.degreeDatas.0.label>lujatahtoinen</Nerves.degreeDatas.0.label>
-  <Nerves.degreeDatas.0.description>NAME on tahdoltaan raudanluja. HECAP käy läpi harmaan kiven, kun muut luovuttivat jo kauan sitten.</Nerves.degreeDatas.0.description>
+  <Nerves.degreeDatas.0.description>[PAWN_nameDef] on tahdoltaan raudanluja. [PAWN_pronoun] käy läpi harmaan kiven, kun muut luovuttivat jo kauan sitten.</Nerves.degreeDatas.0.description>
   <Nerves.degreeDatas.1.label>sinnikäs</Nerves.degreeDatas.1.label>
-  <Nerves.degreeDatas.1.description>NAME on psyykkisesti luja eikä alistu paineessa joka murtaisi useimmat ihmiset.</Nerves.degreeDatas.1.description>
+  <Nerves.degreeDatas.1.description>[PAWN_nameDef] on psyykkisesti luja eikä alistu paineessa joka murtaisi useimmat ihmiset.</Nerves.degreeDatas.1.description>
   <Nerves.degreeDatas.2.label>hermostunut</Nerves.degreeDatas.2.label>
-  <Nerves.degreeDatas.2.description>NAME tapaa murtumaan paineen alaisena.</Nerves.degreeDatas.2.description>
+  <Nerves.degreeDatas.2.description>[PAWN_nameDef] tapaa murtumaan paineen alaisena.</Nerves.degreeDatas.2.description>
   <Nerves.degreeDatas.3.label>epävakaa</Nerves.degreeDatas.3.label>
-  <Nerves.degreeDatas.3.description>NAME on aina hermo kireällä. HECAP on ensimmäinen, joka murtuu hankalassa tilanteessa.</Nerves.degreeDatas.3.description>
+  <Nerves.degreeDatas.3.description>[PAWN_nameDef] on aina hermo kireällä. [PAWN_pronoun] on ensimmäinen, joka murtuu hankalassa tilanteessa.</Nerves.degreeDatas.3.description>
 
   <Neurotic.degreeDatas.0.label>neuroottinen</Neurotic.degreeDatas.0.label>
-  <Neurotic.degreeDatas.0.description>NAME pitää siitä kun asiat ovat hoidossa. HECAP työskentelee muita kovemmin saavuttaakseen tämän tilan, mutta HIS hermonsa saattavat pettää.</Neurotic.degreeDatas.0.description>
+  <Neurotic.degreeDatas.0.description>[PAWN_nameDef] pitää siitä kun asiat ovat hoidossa. [PAWN_pronoun] työskentelee muita kovemmin saavuttaakseen tämän tilan, mutta [PAWN_possessive] hermonsa saattavat pettää.</Neurotic.degreeDatas.0.description>
   <Neurotic.degreeDatas.1.label>erittäin neuroottinen</Neurotic.degreeDatas.1.label>
-  <Neurotic.degreeDatas.1.description>NAME on jatkuvasti hermostunut kaikesta mikä on tehtävä. HECAP työskentelee äärimmäisen kovasti saavuttaakseen tämän tilan, mutta HIS hermonsa pettävät helposti.</Neurotic.degreeDatas.1.description>
+  <Neurotic.degreeDatas.1.description>[PAWN_nameDef] on jatkuvasti hermostunut kaikesta mikä on tehtävä. [PAWN_pronoun] työskentelee äärimmäisen kovasti saavuttaakseen tämän tilan, mutta [PAWN_possessive] hermonsa pettävät helposti.</Neurotic.degreeDatas.1.description>
 
   <Industriousness.degreeDatas.0.label>yritteliäs</Industriousness.degreeDatas.0.label>
-  <Industriousness.degreeDatas.0.description>NAME pysyy helposti keskittyneenä tehtävääsä ja saa hommat hoidettua paljon muita nopeammin.</Industriousness.degreeDatas.0.description>
+  <Industriousness.degreeDatas.0.description>[PAWN_nameDef] pysyy helposti keskittyneenä tehtävääsä ja saa hommat hoidettua paljon muita nopeammin.</Industriousness.degreeDatas.0.description>
   <Industriousness.degreeDatas.1.label>ahkera</Industriousness.degreeDatas.1.label>
-  <Industriousness.degreeDatas.1.description>NAME on luonnostaan kova työntekijä ja saa tehtävät tehtyä muita nopeammin.</Industriousness.degreeDatas.1.description>
+  <Industriousness.degreeDatas.1.description>[PAWN_nameDef] on luonnostaan kova työntekijä ja saa tehtävät tehtyä muita nopeammin.</Industriousness.degreeDatas.1.description>
   <Industriousness.degreeDatas.2.label>laiska</Industriousness.degreeDatas.2.label>
-  <Industriousness.degreeDatas.2.description>NAME on hieman laiska.</Industriousness.degreeDatas.2.description>
+  <Industriousness.degreeDatas.2.description>[PAWN_nameDef] on hieman laiska.</Industriousness.degreeDatas.2.description>
   <Industriousness.degreeDatas.3.label>veltto</Industriousness.degreeDatas.3.label>
-  <Industriousness.degreeDatas.3.description>NAME rakastaa joutenoloa ja vihaa kaikkea tuottavaa. HECAP liikkuu verkkaisesti ja pysyy harvoin keskittyneenä tehtävään.</Industriousness.degreeDatas.3.description>
+  <Industriousness.degreeDatas.3.description>[PAWN_nameDef] rakastaa joutenoloa ja vihaa kaikkea tuottavaa. [PAWN_pronoun] liikkuu verkkaisesti ja pysyy harvoin keskittyneenä tehtävään.</Industriousness.degreeDatas.3.description>
 
   <PsychicSensitivity.degreeDatas.0.label>psyykkisesti yliherkkä</PsychicSensitivity.degreeDatas.0.label>
-  <PsychicSensitivity.degreeDatas.0.description>NAME on mieleltään kuin psyykkinen äänirauta. HECAP on äärimmäisen herkkä psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.0.description>
+  <PsychicSensitivity.degreeDatas.0.description>[PAWN_nameDef] on mieleltään kuin psyykkinen äänirauta. [PAWN_pronoun] on äärimmäisen herkkä psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.0.description>
   <PsychicSensitivity.degreeDatas.1.label>psyykkisesti herkkä</PsychicSensitivity.degreeDatas.1.label>
-  <PsychicSensitivity.degreeDatas.1.description>NAME on mieleltään epätavallisen herkkä psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.1.description>
+  <PsychicSensitivity.degreeDatas.1.description>[PAWN_nameDef] on mieleltään epätavallisen herkkä psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.1.description>
   <PsychicSensitivity.degreeDatas.2.label>psyykkisesti eloton</PsychicSensitivity.degreeDatas.2.label>
-  <PsychicSensitivity.degreeDatas.2.description>NAME on mieleltään epävireessä muiden kanssa. HECAP ei ole yhtä altistunut psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.2.description>
+  <PsychicSensitivity.degreeDatas.2.description>[PAWN_nameDef] on mieleltään epävireessä muiden kanssa. [PAWN_pronoun] ei ole yhtä altistunut psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.2.description>
   <PsychicSensitivity.degreeDatas.3.label>psyykkisesti kuuro</PsychicSensitivity.degreeDatas.3.label>
-  <PsychicSensitivity.degreeDatas.3.description>NAME toimii psyykkisesti eri taajuudella kuin muut. HECAP ei altistu ollenkaan psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.3.description>
+  <PsychicSensitivity.degreeDatas.3.description>[PAWN_nameDef] toimii psyykkisesti eri taajuudella kuin muut. [PAWN_pronoun] ei altistu ollenkaan psyykkisille ilmiöille.</PsychicSensitivity.degreeDatas.3.description>
 
   <ShootingAccuracy.degreeDatas.0.label>careful shooter</ShootingAccuracy.degreeDatas.0.label>
-  <ShootingAccuracy.degreeDatas.0.description>NAME is a pretty good shot, but HE needs more time to focus on HIS target.</ShootingAccuracy.degreeDatas.0.description>
+  <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] is a pretty good shot, but [PAWN_pronoun] needs more time to focus on [PAWN_possessive] target.</ShootingAccuracy.degreeDatas.0.description>
   <ShootingAccuracy.degreeDatas.1.label>trigger-happy</ShootingAccuracy.degreeDatas.1.label>
-  <ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! NAME is a terrible shot, but HE doesn't care, because guns are awesome!</ShootingAccuracy.degreeDatas.1.description>
+  <ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! [PAWN_nameDef] is a terrible shot, but [PAWN_pronoun] doesn't care, because guns are awesome!</ShootingAccuracy.degreeDatas.1.description>
 
   <Beauty.degreeDatas.0.label>beautiful</Beauty.degreeDatas.0.label>
-  <Beauty.degreeDatas.0.description>NAME is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to HIM before HE even opens HIS mouth.</Beauty.degreeDatas.0.description>
+  <Beauty.degreeDatas.0.description>[PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth.</Beauty.degreeDatas.0.description>
   <Beauty.degreeDatas.1.label>pretty</Beauty.degreeDatas.1.label>
-  <Beauty.degreeDatas.1.description>NAME has a pretty face, which predisposes people to like HIM.</Beauty.degreeDatas.1.description>
+  <Beauty.degreeDatas.1.description>[PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective].</Beauty.degreeDatas.1.description>
   <Beauty.degreeDatas.2.label>ugly</Beauty.degreeDatas.2.label>
-  <Beauty.degreeDatas.2.description>NAME is somewhat ugly. This subtly repels others during social interactions.</Beauty.degreeDatas.2.description>
+  <Beauty.degreeDatas.2.description>[PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions.</Beauty.degreeDatas.2.description>
   <Beauty.degreeDatas.3.label>staggeringly ugly</Beauty.degreeDatas.3.label>
-  <Beauty.degreeDatas.3.description>NAME is staggeringly ugly. HISCAP face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at HIM while conversing.</Beauty.degreeDatas.3.description>
+  <Beauty.degreeDatas.3.description>[PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.</Beauty.degreeDatas.3.description>
 
 
 </LanguageData>
