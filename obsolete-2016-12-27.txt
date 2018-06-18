@@ -145,8 +145,12 @@ DefInjected\HediffDef\Hediffs_Injuries.xml
 
 DefInjected\InteractionDef\Interactions_Prisoner.xml
     <PrisonerFriendlyChat.label>keskustelu vangin kanssa</PrisonerFriendlyChat.label>
-    <PrisonerFriendlyChat.logRulesInitiator.rulesStrings.0>logentry->Yritti vakuuttaa vankia [other_nameShortIndef] yhdyskunnan hyvyydestä.</PrisonerFriendlyChat.logRulesInitiator.rulesStrings.0>
-    <PrisonerFriendlyChat.logRulesRecipient.rulesStrings.0>logentry->Kuunteli henkilön [other_nameShortIndef] kertovan siitä miten mukava yhdyskunta on.</PrisonerFriendlyChat.logRulesRecipient.rulesStrings.0>
+	<PrisonerFriendlyChat.logRulesInitiator.rulesStrings>
+		<li>logentry->Yritti vakuuttaa vankia [other_nameShortIndef] yhdyskunnan hyvyydestä.</li>
+	</PrisonerFriendlyChat.logRulesInitiator.rulesStrings>
+	<PrisonerFriendlyChat.logRulesRecipient.rulesStrings>
+		<li>logentry->Kuunteli henkilön [other_nameShortIndef] kertovan siitä miten mukava yhdyskunta on.</li>
+	</PrisonerFriendlyChat.logRulesRecipient.rulesStrings>
 
 DefInjected\KeyBindingDef\KeyBindings.xml
     <DebugTickOnce.label>etene yksi askel (debug)</DebugTickOnce.label>
@@ -232,49 +236,53 @@ DefInjected\RoomStatDef\RoomStats.xml
     <Impressiveness.scoreStages.11.label>maailmanihme</Impressiveness.scoreStages.11.label>
 
 DefInjected\RulePackDef\RulePacks_Global.xml
-    <GlobalUtility.rulePack.rulesStrings.14>game->nopilla</GlobalUtility.rulePack.rulesStrings.14>
-    <GlobalUtility.rulePack.rulesStrings.15>game->noppapeliä</GlobalUtility.rulePack.rulesStrings.15>
-    <GlobalUtility.rulePack.rulesStrings.16>game->rulettia</GlobalUtility.rulePack.rulesStrings.16>
-    <GlobalUtility.rulePack.rulesStrings.17>game->venttiä</GlobalUtility.rulePack.rulesStrings.17>
-    <GlobalUtility.rulePack.rulesStrings.18>vegetable->tomato</GlobalUtility.rulePack.rulesStrings.18>
-    <GlobalUtility.rulePack.rulesStrings.19>vegetable->carrot</GlobalUtility.rulePack.rulesStrings.19>
-    <GlobalUtility.rulePack.rulesStrings.20>vegetable->onion</GlobalUtility.rulePack.rulesStrings.20>
-    <GlobalUtility.rulePack.rulesStrings.21>vegetable->turnip</GlobalUtility.rulePack.rulesStrings.21>
-    <GlobalUtility.rulePack.rulesStrings.22>vegetable->bok choy</GlobalUtility.rulePack.rulesStrings.22>
-    <GlobalUtility.rulePack.rulesStrings.23>vegetable->stalk of celery</GlobalUtility.rulePack.rulesStrings.23>
-    <GlobalUtility.rulePack.rulesStrings.24>vegetable->gourd</GlobalUtility.rulePack.rulesStrings.24>
-    <GlobalUtility.rulePack.rulesStrings.25>vegetable->pumpkin</GlobalUtility.rulePack.rulesStrings.25>
-    <GlobalUtility.rulePack.rulesStrings.26>vegetable->broccoli</GlobalUtility.rulePack.rulesStrings.26>
-    <GlobalUtility.rulePack.rulesStrings.27>vegetable->cauliflower</GlobalUtility.rulePack.rulesStrings.27>
-    <GlobalUtility.rulePack.rulesStrings.28>vegetable->bell pepper</GlobalUtility.rulePack.rulesStrings.28>
-    <GlobalUtility.rulePack.rulesStrings.29>vegetable->potato</GlobalUtility.rulePack.rulesStrings.29>
-    <GlobalUtility.rulePack.rulesStrings.30>vegetable->mushroom</GlobalUtility.rulePack.rulesStrings.30>
-    <GlobalUtility.rulePack.rulesStrings.31>trans->of</GlobalUtility.rulePack.rulesStrings.31>
-    <GlobalUtility.rulePack.rulesStrings.32>trans->for</GlobalUtility.rulePack.rulesStrings.32>
-    <GlobalUtility.rulePack.rulesStrings.33>trans->by</GlobalUtility.rulePack.rulesStrings.33>
-    <GlobalUtility.rulePack.rulesStrings.34>trans->with</GlobalUtility.rulePack.rulesStrings.34>
+		<li>game->nopilla</li>
+		<li>game->noppapeliä</li>
+		<li>game->rulettia</li>
+		<li>game->venttiä</li>
+		<li>vegetable->tomato</li>
+		<li>vegetable->carrot</li>
+		<li>vegetable->onion</li>
+		<li>vegetable->turnip</li>
+		<li>vegetable->bok choy</li>
+		<li>vegetable->stalk of celery</li>
+		<li>vegetable->gourd</li>
+		<li>vegetable->pumpkin</li>
+		<li>vegetable->broccoli</li>
+		<li>vegetable->cauliflower</li>
+		<li>vegetable->bell pepper</li>
+		<li>vegetable->potato</li>
+		<li>vegetable->mushroom</li>
+		<li>trans->of</li>
+		<li>trans->for</li>
+		<li>trans->by</li>
+		<li>trans->with</li>
 
 DefInjected\RulePackDef\RulePacks_NameMakers_Animals.xml
-    <NamerAnimalGeneric.rulePack.rulesStrings.0>name->[animalnameunisex]</NamerAnimalGeneric.rulePack.rulesStrings.0>
-    <NamerAnimalGeneric.rulePack.rulesStrings.1>name->[animalnameunisex]</NamerAnimalGeneric.rulePack.rulesStrings.1>
-    <NamerAnimalGeneric.rulePack.rulesStrings.10>exoticname->[concept]</NamerAnimalGeneric.rulePack.rulesStrings.10>
-    <NamerAnimalGeneric.rulePack.rulesStrings.11>exoticname->[color]</NamerAnimalGeneric.rulePack.rulesStrings.11>
-    <NamerAnimalGeneric.rulePack.rulesStrings.2>name->[animalnameunisex]</NamerAnimalGeneric.rulePack.rulesStrings.2>
-    <NamerAnimalGeneric.rulePack.rulesStrings.3>name->[animalnamemale]</NamerAnimalGeneric.rulePack.rulesStrings.3>
-    <NamerAnimalGeneric.rulePack.rulesStrings.4>name->[animalnamefemale]</NamerAnimalGeneric.rulePack.rulesStrings.4>
-    <NamerAnimalGeneric.rulePack.rulesStrings.5>name->[personname]</NamerAnimalGeneric.rulePack.rulesStrings.5>
-    <NamerAnimalGeneric.rulePack.rulesStrings.6>name->[exoticname]</NamerAnimalGeneric.rulePack.rulesStrings.6>
-    <NamerAnimalGeneric.rulePack.rulesStrings.7>exoticname->[badassadjective]</NamerAnimalGeneric.rulePack.rulesStrings.7>
-    <NamerAnimalGeneric.rulePack.rulesStrings.8>exoticname->[concept]</NamerAnimalGeneric.rulePack.rulesStrings.8>
-    <NamerAnimalGeneric.rulePack.rulesStrings.9>exoticname->[badassadjective]</NamerAnimalGeneric.rulePack.rulesStrings.9>
+	<NamerAnimalGeneric.rulePack.rulesStrings>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[color]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnamemale]</li>
+		<li>name->[animalnamefemale]</li>
+		<li>name->[personname]</li>
+		<li>name->[exoticname]</li>
+		<li>exoticname->[badassadjective]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[badassadjective]</li>
+	</NamerAnimalGeneric.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_NameMakers_Factions.xml
-    <NamerColony.rulePack.rulesStrings.0>name->[colonyname]</NamerColony.rulePack.rulesStrings.0>
-    <NamerFactionPirate.rulePack.rulesStrings.18>name->[badassanimal]lauma[terrainfeature]</NamerFactionPirate.rulePack.rulesStrings.18>
+	<NamerColony.rulePack.rulesStrings>
+		<li>name->[colonyname]</li>
+		<li>name->[badassanimal]lauma[terrainfeature]</li>
 
 DefInjected\RulePackDef\RulePacks_NameMakers_People.xml
-    <NamerPersonTribal.rulePack.rulesStrings.7>name->[animal] [tribalword]</NamerPersonTribal.rulePack.rulesStrings.7>
-    <NamerPersonTribal.rulePack.rulesStrings.8>name->[color] [animal]</NamerPersonTribal.rulePack.rulesStrings.8>
+		<li>name->[animal] [tribalword]</li>
+		<li>name->[color] [animal]</li>
+	</NamerColony.rulePack.rulesStrings>
 
 DefInjected\SpecialThingFilterDef\SpecialThingFilters.xml
     <AllowNonSmeltableWeapons.description>Salli aseet joita ei voi sulattaa.</AllowNonSmeltableWeapons.description>

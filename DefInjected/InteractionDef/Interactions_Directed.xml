@@ -2,12 +2,20 @@
 <LanguageData>
 
   <BuildRapport.label>try to get to know</BuildRapport.label>
-  <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Tried to build rapport with [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-  <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Listened to [other_nameShortIndef] build rapport with me.</BuildRapport.logRulesRecipient.rulesStrings.0>
+	<BuildRapport.logRulesInitiator.rulesStrings>
+		<li>logentry->Tried to build rapport with [other_nameShortIndef].</li>
+	</BuildRapport.logRulesInitiator.rulesStrings>
+	<BuildRapport.logRulesRecipient.rulesStrings>
+		<li>logentry->Listened to [other_nameShortIndef] build rapport with me.</li>
+	</BuildRapport.logRulesRecipient.rulesStrings>
 
   <RecruitAttempt.label>värväysyritys</RecruitAttempt.label>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Yritti värvätä vangin [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-  <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Kuunteli henkilön [other_nameShortIndef] värväyspuhetta.</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+	<RecruitAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Yritti värvätä vangin [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesInitiator.rulesStrings>
+	<RecruitAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Kuunteli henkilön [other_nameShortIndef] värväyspuhetta.</li>
+	</RecruitAttempt.logRulesRecipient.rulesStrings>
 
 
 </LanguageData>

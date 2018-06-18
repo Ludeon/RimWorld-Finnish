@@ -1,20 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GlobalUtility.rulePack.rulesStrings.0>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.0>
-  <GlobalUtility.rulePack.rulesStrings.1>quantity_adjphrase->joukkio</GlobalUtility.rulePack.rulesStrings.1>
-  <GlobalUtility.rulePack.rulesStrings.2>quantity_adjphrase->joukko</GlobalUtility.rulePack.rulesStrings.2>
-  <GlobalUtility.rulePack.rulesStrings.3>quantity_adjphrase->pari</GlobalUtility.rulePack.rulesStrings.3>
-  <GlobalUtility.rulePack.rulesStrings.4>quantity_adjphrase->pari</GlobalUtility.rulePack.rulesStrings.4>
-  <GlobalUtility.rulePack.rulesStrings.5>quantity_adjphrase->pari</GlobalUtility.rulePack.rulesStrings.5>
-  <GlobalUtility.rulePack.rulesStrings.6>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.6>
-  <GlobalUtility.rulePack.rulesStrings.7>quantity_adjphrase->ryhmä</GlobalUtility.rulePack.rulesStrings.7>
-  <GlobalUtility.rulePack.rulesStrings.8>quantity_adjphrase->joukkio lukemattomista yksilöistä</GlobalUtility.rulePack.rulesStrings.8>
-  <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->ryhmä lukemattomista yksilöistä</GlobalUtility.rulePack.rulesStrings.9>
-  <GlobalUtility.rulePack.rulesStrings.10>game->pokeria</GlobalUtility.rulePack.rulesStrings.10>
-  <GlobalUtility.rulePack.rulesStrings.11>game->shakkia</GlobalUtility.rulePack.rulesStrings.11>
-  <GlobalUtility.rulePack.rulesStrings.12>game->korttia</GlobalUtility.rulePack.rulesStrings.12>
-  <GlobalUtility.rulePack.rulesStrings.13>game->backgammonia</GlobalUtility.rulePack.rulesStrings.13>
+	<GlobalUtility.rulePack.rulesStrings>
+		<li>quantity_adjphrase->ryhmä</li>
+		<li>quantity_adjphrase->joukkio</li>
+		<li>quantity_adjphrase->joukko</li>
+		<li>quantity_adjphrase->pari</li>
+		<li>quantity_adjphrase->pari</li>
+		<li>quantity_adjphrase->pari</li>
+		<li>quantity_adjphrase->ryhmä</li>
+		<li>quantity_adjphrase->ryhmä</li>
+		<li>quantity_adjphrase->joukkio lukemattomista yksilöistä</li>
+		<li>quantity_adjphrase->ryhmä lukemattomista yksilöistä</li>
+		<li>game->pokeria</li>
+		<li>game->shakkia</li>
+		<li>game->korttia</li>
+		<li>game->backgammonia</li>
+	</GlobalUtility.rulePack.rulesStrings>
 
 
 </LanguageData>

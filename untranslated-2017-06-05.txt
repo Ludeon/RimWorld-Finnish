@@ -326,18 +326,30 @@ DefInjected\IncidentDef\Incidents_World_Special.xml
 
 DefInjected\InteractionDef\Interactions_Animal.xml
     <Nuzzle.label>nuzzle</Nuzzle.label>
-    <Nuzzle.logRulesInitiator.rulesStrings.0>logentry->Nuzzled [other_nameShortIndef].</Nuzzle.logRulesInitiator.rulesStrings.0>
-    <Nuzzle.logRulesRecipient.rulesStrings.0>logentry->Was nuzzled by [other_nameShortIndef].</Nuzzle.logRulesRecipient.rulesStrings.0>
+	<Nuzzle.logRulesInitiator.rulesStrings>
+		<li>logentry->Nuzzled [other_nameShortIndef].</li>
+	</Nuzzle.logRulesInitiator.rulesStrings>
+	<Nuzzle.logRulesRecipient.rulesStrings>
+		<li>logentry->Was nuzzled by [other_nameShortIndef].</li>
+	</Nuzzle.logRulesRecipient.rulesStrings>
 
 DefInjected\InteractionDef\Interactions_Directed.xml
     <BuildRapport.label>try to get to know</BuildRapport.label>
-    <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Tried to build rapport with [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-    <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Listened to [other_nameShortIndef] build rapport with me.</BuildRapport.logRulesRecipient.rulesStrings.0>
+	<BuildRapport.logRulesInitiator.rulesStrings>
+		<li>logentry->Tried to build rapport with [other_nameShortIndef].</li>
+	</BuildRapport.logRulesInitiator.rulesStrings>
+	<BuildRapport.logRulesRecipient.rulesStrings>
+		<li>logentry->Listened to [other_nameShortIndef] build rapport with me.</li>
+	</BuildRapport.logRulesRecipient.rulesStrings>
 
 DefInjected\InteractionDef\Interactions_Social.xml
     <KindWords.label>kind words</KindWords.label>
-    <KindWords.logRulesInitiator.rulesStrings.0>logentry->Said kind words to [other_nameShortIndef].</KindWords.logRulesInitiator.rulesStrings.0>
-    <KindWords.logRulesRecipient.rulesStrings.0>logentry->Had kind words bestowed by [other_nameShortIndef].</KindWords.logRulesRecipient.rulesStrings.0>
+	<KindWords.logRulesInitiator.rulesStrings>
+		<li>logentry->Said kind words to [other_nameShortIndef].</li>
+	</KindWords.logRulesInitiator.rulesStrings>
+	<KindWords.logRulesRecipient.rulesStrings>
+		<li>logentry->Had kind words bestowed by [other_nameShortIndef].</li>
+	</KindWords.logRulesRecipient.rulesStrings>
 
 DefInjected\ItemCollectionGeneratorDef\ItemCollectionGenerators_General.xml
     <AIPersonaCores.label>AI persona cores</AIPersonaCores.label>
@@ -1888,353 +1900,417 @@ DefInjected\RoomStatDef\RoomStats.xml
     <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
 
 DefInjected\RulePackDef\RulePacks_Art_DescriptionRoot.xml
-    <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root->[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
-    <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group->[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
-    <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
-    <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->This [depiction] refers to [tale_noun] on [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
-    <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->This [depiction] tells the story of [tale_noun] on [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
-    <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root->[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
-    <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group->[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group->[artextra_clause]. [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group->[style_clause]. [artextra_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause->the scene seems to take place on the outskirts of a [community]</ArtDescriptionUtility_Global.rulePack.rulesStrings.10>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive->is shown</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive->fades in</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive->floats</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position->off to one side</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position->near the edge of the image</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position->in the background</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position->in the distance</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position->in the lower part of the image</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.108>side_position->in the upper part of the image</ArtDescriptionUtility_Global.rulePack.rulesStrings.108>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.109>side_position->beneath the main subject</ArtDescriptionUtility_Global.rulePack.rulesStrings.109>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause->the smiling head of a [outlander] watches over all</ArtDescriptionUtility_Global.rulePack.rulesStrings.11>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.110>side_position->behind the focal point</ArtDescriptionUtility_Global.rulePack.rulesStrings.110>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.111>side_position->at the left part of the image</ArtDescriptionUtility_Global.rulePack.rulesStrings.111>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.112>side_position->to the right of the main scene</ArtDescriptionUtility_Global.rulePack.rulesStrings.112>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause->the scene takes place inside a [community] built near a [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause->the lower part of the image is dominated by a [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause->the whole image is depicted by the careful arrangement of hundreds of tiny [animal]s</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.15>artextra_clause->a [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.15>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.16>artextra_clause->a [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.16>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.17>artextra_clause->a dead [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.17>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.18>artextra_clause->a personified depiction of [concept] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.18>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.19>artextra_clause->a [animal] [side_position] seems to symbolize [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.19>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group->[artextra_clause], and [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.20>artextra_clause->[quantity_adjphrase] [outlander]s [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.20>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause->if you squint your eyes, the [composition] composition of the image reveals the outline of a [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.22>style_clause->the image seems to express [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.22>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.23>style_clause->the work is infused with the idea of [concept] and is done in a [artstyle_adj] style</ArtDescriptionUtility_Global.rulePack.rulesStrings.23>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.24>style_clause->the work suggests the concept of [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.24>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.25>style_clause->the work is executed in a [artstyle_adj] style</ArtDescriptionUtility_Global.rulePack.rulesStrings.25>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.26>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</ArtDescriptionUtility_Global.rulePack.rulesStrings.26>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause->the work has a [artstyle_adj] feeling and a [composition] structure</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause->the overall composition is [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause->the style is [artstyle_adj] with [artstyle_adj] elements</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.3>style_group->[artextra_clause], while [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.3>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause->the image is totally devoid of both [concept] and [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause->the image somehow expresses both [concept] and [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause->the [composition] structure of the image almost conflicts with its [artstyle_adj] style</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause->the work is shaded in hues of [color] and [color]</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause->almost every shape in the image seems to be [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts->depicts</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.36>depicts->shows</ArtDescriptionUtility_Global.rulePack.rulesStrings.36>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts->portrays</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts->resembles</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts->illustrates</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause->the image is bordered by [quantity_adjphrase] [animal]s</ArtDescriptionUtility_Global.rulePack.rulesStrings.4>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.40>depicts->represents</ArtDescriptionUtility_Global.rulePack.rulesStrings.40>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.41>depicts->is shaped like</ArtDescriptionUtility_Global.rulePack.rulesStrings.41>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.42>depiction->depiction</ArtDescriptionUtility_Global.rulePack.rulesStrings.42>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.43>depiction->image</ArtDescriptionUtility_Global.rulePack.rulesStrings.43>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.44>depiction->portrayal</ArtDescriptionUtility_Global.rulePack.rulesStrings.44>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.45>depiction->representation</ArtDescriptionUtility_Global.rulePack.rulesStrings.45>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.46>depiction->illustration</ArtDescriptionUtility_Global.rulePack.rulesStrings.46>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.47>depiction->artwork</ArtDescriptionUtility_Global.rulePack.rulesStrings.47>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.48>composition->triangular</ArtDescriptionUtility_Global.rulePack.rulesStrings.48>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.49>composition->rectangular</ArtDescriptionUtility_Global.rulePack.rulesStrings.49>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause->there is a [community] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.5>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.50>composition->square</ArtDescriptionUtility_Global.rulePack.rulesStrings.50>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.51>composition->unbalanced</ArtDescriptionUtility_Global.rulePack.rulesStrings.51>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.52>composition->well-balanced</ArtDescriptionUtility_Global.rulePack.rulesStrings.52>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.53>composition->very dynamic</ArtDescriptionUtility_Global.rulePack.rulesStrings.53>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.54>composition->very static</ArtDescriptionUtility_Global.rulePack.rulesStrings.54>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.55>artstyle_adj->unoriginal</ArtDescriptionUtility_Global.rulePack.rulesStrings.55>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.56>artstyle_adj->simple</ArtDescriptionUtility_Global.rulePack.rulesStrings.56>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.57>artstyle_adj->complex and realistic</ArtDescriptionUtility_Global.rulePack.rulesStrings.57>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.58>artstyle_adj->surrealistic</ArtDescriptionUtility_Global.rulePack.rulesStrings.58>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.59>artstyle_adj->classical</ArtDescriptionUtility_Global.rulePack.rulesStrings.59>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause->there is a [terrainfeature] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.6>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.60>artstyle_adj->modern</ArtDescriptionUtility_Global.rulePack.rulesStrings.60>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.61>artstyle_adj->symbolic</ArtDescriptionUtility_Global.rulePack.rulesStrings.61>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.62>artstyle_adj->amateurish yet attractive</ArtDescriptionUtility_Global.rulePack.rulesStrings.62>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.63>artstyle_adj->detail-oriented</ArtDescriptionUtility_Global.rulePack.rulesStrings.63>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.64>artstyle_adj->blocky</ArtDescriptionUtility_Global.rulePack.rulesStrings.64>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.65>artstyle_adj->cubist</ArtDescriptionUtility_Global.rulePack.rulesStrings.65>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.66>artstyle_adj->impressionistic</ArtDescriptionUtility_Global.rulePack.rulesStrings.66>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.67>artstyle_adj->expressionistic</ArtDescriptionUtility_Global.rulePack.rulesStrings.67>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.68>artstyle_adj->photographic</ArtDescriptionUtility_Global.rulePack.rulesStrings.68>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.69>artstyle_adj->baroque</ArtDescriptionUtility_Global.rulePack.rulesStrings.69>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause->there is a [animal] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.7>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.70>artstyle_adj->dadaist</ArtDescriptionUtility_Global.rulePack.rulesStrings.70>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.71>artstyle_adj->glitch-art</ArtDescriptionUtility_Global.rulePack.rulesStrings.71>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.72>artstyle_adj->pixelated</ArtDescriptionUtility_Global.rulePack.rulesStrings.72>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.73>artstyle_adj->fauvist</ArtDescriptionUtility_Global.rulePack.rulesStrings.73>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.74>artstyle_adj->folksy</ArtDescriptionUtility_Global.rulePack.rulesStrings.74>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.75>artstyle_adj->figurative</ArtDescriptionUtility_Global.rulePack.rulesStrings.75>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.76>artstyle_adj->sinuous</ArtDescriptionUtility_Global.rulePack.rulesStrings.76>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.77>artstyle_adj->geometric</ArtDescriptionUtility_Global.rulePack.rulesStrings.77>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.78>artstyle_adj->abstract</ArtDescriptionUtility_Global.rulePack.rulesStrings.78>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.79>artstyle_adj->hyper-realistic</ArtDescriptionUtility_Global.rulePack.rulesStrings.79>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause->the subjects are in front of a [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.80>artstyle_adj->pop art</ArtDescriptionUtility_Global.rulePack.rulesStrings.80>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.81>artstyle_adj->minimalistic</ArtDescriptionUtility_Global.rulePack.rulesStrings.81>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.82>artstyle_adj->neoclassical</ArtDescriptionUtility_Global.rulePack.rulesStrings.82>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.83>artstyle_adj->cel-shaded</ArtDescriptionUtility_Global.rulePack.rulesStrings.83>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.84>artstyle_adj->post-impressionistic</ArtDescriptionUtility_Global.rulePack.rulesStrings.84>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.85>artstyle_adj->purist</ArtDescriptionUtility_Global.rulePack.rulesStrings.85>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.86>artstyle_adj->rococo</ArtDescriptionUtility_Global.rulePack.rulesStrings.86>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.87>artstyle_adj->romanesque</ArtDescriptionUtility_Global.rulePack.rulesStrings.87>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.88>artstyle_adj->romantic</ArtDescriptionUtility_Global.rulePack.rulesStrings.88>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.89>artstyle_adj->graffiti-like</ArtDescriptionUtility_Global.rulePack.rulesStrings.89>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause->the scene takes place in the middle of a [community]</ArtDescriptionUtility_Global.rulePack.rulesStrings.9>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.90>artstyle_adj->erotic</ArtDescriptionUtility_Global.rulePack.rulesStrings.90>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.91>artstyle_adj->sensual</ArtDescriptionUtility_Global.rulePack.rulesStrings.91>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.92>artstyle_adj->heartfelt</ArtDescriptionUtility_Global.rulePack.rulesStrings.92>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.93>idle_verb_progressive->sits</ArtDescriptionUtility_Global.rulePack.rulesStrings.93>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.94>idle_verb_progressive->stands</ArtDescriptionUtility_Global.rulePack.rulesStrings.94>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.95>idle_verb_progressive->waits</ArtDescriptionUtility_Global.rulePack.rulesStrings.95>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.96>idle_verb_progressive->smiles</ArtDescriptionUtility_Global.rulePack.rulesStrings.96>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.97>idle_verb_progressive->lies</ArtDescriptionUtility_Global.rulePack.rulesStrings.97>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.98>idle_verb_progressive->poses</ArtDescriptionUtility_Global.rulePack.rulesStrings.98>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.99>idle_verb_progressive->appears</ArtDescriptionUtility_Global.rulePack.rulesStrings.99>
+	<ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+		<li>art_description_root->[physical_description_root] [context_sentence]</li>
+		<li>circumstance_group->[circumstance_phrase]</li>
+		<li>desc_sentence_group->[desc_sentence] [style_group]</li>
+		<li>context_sentence->This [depiction] refers to [tale_noun] on [date].</li>
+		<li>context_sentence->This [depiction] tells the story of [tale_noun] on [date].</li>
+	</ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+	<ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+		<li>art_description_root->[physical_description_root]</li>
+		<li>desc_sentence_group->[style_group]</li>
+	</ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+	<ArtDescriptionUtility_Global.rulePack.rulesStrings>
+		<li>style_group->[artextra_clause]. [style_clause].</li>
+		<li>style_group->[style_clause]. [artextra_clause].</li>
+		<li>artextra_clause->the scene seems to take place on the outskirts of a [community]</li>
+		<li>idle_verb_progressive->is shown</li>
+		<li>idle_verb_progressive->fades in</li>
+		<li>idle_verb_progressive->floats</li>
+		<li>side_position->off to one side</li>
+		<li>side_position->near the edge of the image</li>
+		<li>side_position->in the background</li>
+		<li>side_position->in the distance</li>
+		<li>side_position->in the lower part of the image</li>
+		<li>side_position->in the upper part of the image</li>
+		<li>side_position->beneath the main subject</li>
+		<li>artextra_clause->the smiling head of a [outlander] watches over all</li>
+		<li>side_position->behind the focal point</li>
+		<li>side_position->at the left part of the image</li>
+		<li>side_position->to the right of the main scene</li>
+		<li>artextra_clause->the scene takes place inside a [community] built near a [terrainfeature]</li>
+		<li>artextra_clause->the lower part of the image is dominated by a [terrainfeature]</li>
+		<li>artextra_clause->the whole image is depicted by the careful arrangement of hundreds of tiny [animal]s</li>
+		<li>artextra_clause->a [outlander] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->a [animal] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->a dead [animal] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->a personified depiction of [concept] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->a [animal] [side_position] seems to symbolize [concept]</li>
+		<li>style_group->[artextra_clause], and [style_clause].</li>
+		<li>artextra_clause->[quantity_adjphrase] [outlander]s [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->if you squint your eyes, the [composition] composition of the image reveals the outline of a [animal]</li>
+		<li>style_clause->the image seems to express [concept]</li>
+		<li>style_clause->the work is infused with the idea of [concept] and is done in a [artstyle_adj] style</li>
+		<li>style_clause->the work suggests the concept of [concept]</li>
+		<li>style_clause->the work is executed in a [artstyle_adj] style</li>
+		<li>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</li>
+		<li>style_clause->the work has a [artstyle_adj] feeling and a [composition] structure</li>
+		<li>style_clause->the overall composition is [composition]</li>
+		<li>style_clause->the style is [artstyle_adj] with [artstyle_adj] elements</li>
+		<li>style_group->[artextra_clause], while [style_clause].</li>
+		<li>style_clause->the image is totally devoid of both [concept] and [concept]</li>
+		<li>style_clause->the image somehow expresses both [concept] and [concept]</li>
+		<li>style_clause->the [composition] structure of the image almost conflicts with its [artstyle_adj] style</li>
+		<li>style_clause->the work is shaded in hues of [color] and [color]</li>
+		<li>style_clause->almost every shape in the image seems to be [composition]</li>
+		<li>depicts->depicts</li>
+		<li>depicts->shows</li>
+		<li>depicts->portrays</li>
+		<li>depicts->resembles</li>
+		<li>depicts->illustrates</li>
+		<li>artextra_clause->the image is bordered by [quantity_adjphrase] [animal]s</li>
+		<li>depicts->represents</li>
+		<li>depicts->is shaped like</li>
+		<li>depiction->depiction</li>
+		<li>depiction->image</li>
+		<li>depiction->portrayal</li>
+		<li>depiction->representation</li>
+		<li>depiction->illustration</li>
+		<li>depiction->artwork</li>
+		<li>composition->triangular</li>
+		<li>composition->rectangular</li>
+		<li>artextra_clause->there is a [community] [side_position]</li>
+		<li>composition->square</li>
+		<li>composition->unbalanced</li>
+		<li>composition->well-balanced</li>
+		<li>composition->very dynamic</li>
+		<li>composition->very static</li>
+		<li>artstyle_adj->unoriginal</li>
+		<li>artstyle_adj->simple</li>
+		<li>artstyle_adj->complex and realistic</li>
+		<li>artstyle_adj->surrealistic</li>
+		<li>artstyle_adj->classical</li>
+		<li>artextra_clause->there is a [terrainfeature] [side_position]</li>
+		<li>artstyle_adj->modern</li>
+		<li>artstyle_adj->symbolic</li>
+		<li>artstyle_adj->amateurish yet attractive</li>
+		<li>artstyle_adj->detail-oriented</li>
+		<li>artstyle_adj->blocky</li>
+		<li>artstyle_adj->cubist</li>
+		<li>artstyle_adj->impressionistic</li>
+		<li>artstyle_adj->expressionistic</li>
+		<li>artstyle_adj->photographic</li>
+		<li>artstyle_adj->baroque</li>
+		<li>artextra_clause->there is a [animal] [side_position]</li>
+		<li>artstyle_adj->dadaist</li>
+		<li>artstyle_adj->glitch-art</li>
+		<li>artstyle_adj->pixelated</li>
+		<li>artstyle_adj->fauvist</li>
+		<li>artstyle_adj->folksy</li>
+		<li>artstyle_adj->figurative</li>
+		<li>artstyle_adj->sinuous</li>
+		<li>artstyle_adj->geometric</li>
+		<li>artstyle_adj->abstract</li>
+		<li>artstyle_adj->hyper-realistic</li>
+		<li>artextra_clause->the subjects are in front of a [terrainfeature]</li>
+		<li>artstyle_adj->pop art</li>
+		<li>artstyle_adj->minimalistic</li>
+		<li>artstyle_adj->neoclassical</li>
+		<li>artstyle_adj->cel-shaded</li>
+		<li>artstyle_adj->post-impressionistic</li>
+		<li>artstyle_adj->purist</li>
+		<li>artstyle_adj->rococo</li>
+		<li>artstyle_adj->romanesque</li>
+		<li>artstyle_adj->romantic</li>
+		<li>artstyle_adj->graffiti-like</li>
+		<li>artextra_clause->the scene takes place in the middle of a [community]</li>
+		<li>artstyle_adj->erotic</li>
+		<li>artstyle_adj->sensual</li>
+		<li>artstyle_adj->heartfelt</li>
+		<li>idle_verb_progressive->sits</li>
+		<li>idle_verb_progressive->stands</li>
+		<li>idle_verb_progressive->waits</li>
+		<li>idle_verb_progressive->smiles</li>
+		<li>idle_verb_progressive->lies</li>
+		<li>idle_verb_progressive->poses</li>
+		<li>idle_verb_progressive->appears</li>
 
 DefInjected\RulePackDef\RulePacks_Art_ImagesTaleless.xml
-    <TalelessImages.rulePack.rulesStrings.20>subject_desc->suspended in the air</TalelessImages.rulePack.rulesStrings.20>
-    <TalelessImages.rulePack.rulesStrings.21>subject_desc->standing on the ground</TalelessImages.rulePack.rulesStrings.21>
-    <TalelessImages.rulePack.rulesStrings.22>subject_desc->moving to the left</TalelessImages.rulePack.rulesStrings.22>
-    <TalelessImages.rulePack.rulesStrings.23>subject_desc->moving to the right</TalelessImages.rulePack.rulesStrings.23>
-    <TalelessImages.rulePack.rulesStrings.24>subject_desc->sitting on a table</TalelessImages.rulePack.rulesStrings.24>
-    <TalelessImages.rulePack.rulesStrings.25>subject_desc->seen through a looking glass</TalelessImages.rulePack.rulesStrings.25>
-    <TalelessImages.rulePack.rulesStrings.26>subject_desc->rendered in silhouette</TalelessImages.rulePack.rulesStrings.26>
-    <TalelessImages.rulePack.rulesStrings.27>subject_desc->riding on a [animal] wearing a [apparel]</TalelessImages.rulePack.rulesStrings.27>
-    <TalelessImages.rulePack.rulesStrings.28>subject_desc->looking [adjective]</TalelessImages.rulePack.rulesStrings.28>
+		<li>subject_desc->suspended in the air</li>
+		<li>subject_desc->standing on the ground</li>
+		<li>subject_desc->moving to the left</li>
+		<li>subject_desc->moving to the right</li>
+		<li>subject_desc->sitting on a table</li>
+		<li>subject_desc->seen through a looking glass</li>
+		<li>subject_desc->rendered in silhouette</li>
+		<li>subject_desc->riding on a [animal] wearing a [apparel]</li>
+		<li>subject_desc->looking [adjective]</li>
+	</ArtDescriptionUtility_Global.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_Art_NameRoots.xml
-    <ArtName_Furniture.rulePack.rulesStrings.0>art_name->[anyPawn_nameShort]'s [positiveconcept]</ArtName_Furniture.rulePack.rulesStrings.0>
-    <ArtName_Furniture.rulePack.rulesStrings.1>art_name->[positiveconcept]</ArtName_Furniture.rulePack.rulesStrings.1>
-    <ArtName_Furniture.rulePack.rulesStrings.2>art_name->The [animal]</ArtName_Furniture.rulePack.rulesStrings.2>
-    <ArtName_Furniture.rulePack.rulesStrings.3>art_name->[badasscolor] [animal]</ArtName_Furniture.rulePack.rulesStrings.3>
-    <ArtName_Furniture.rulePack.rulesStrings.4>art_name->[anyPawn_nameShort]'s [color]</ArtName_Furniture.rulePack.rulesStrings.4>
-    <ArtName_SarcophagusPlate.rulePack.rulesStrings.0>art_name->[angstyadjective] [anyPawn_nameShort]</ArtName_SarcophagusPlate.rulePack.rulesStrings.0>
-    <ArtName_SarcophagusPlate.rulePack.rulesStrings.1>art_name->[anyPawn_nameShort]</ArtName_SarcophagusPlate.rulePack.rulesStrings.1>
-    <ArtName_SarcophagusPlate.rulePack.rulesStrings.2>art_name->[color] [anyPawn_nameShort]</ArtName_SarcophagusPlate.rulePack.rulesStrings.2>
-    <ArtName_SarcophagusPlate.rulePack.rulesStrings.3>art_name->[angstyadjective] [angstyconcept]</ArtName_SarcophagusPlate.rulePack.rulesStrings.3>
-    <ArtName_SarcophagusPlate.rulePack.rulesStrings.4>art_name->[angstyadjective] [badassconcept]</ArtName_SarcophagusPlate.rulePack.rulesStrings.4>
-    <ArtName_Sculpture.rulePack.rulesStrings.0>art_name->[anyPawn_nameShort]'s [artname]</ArtName_Sculpture.rulePack.rulesStrings.0>
-    <ArtName_Sculpture.rulePack.rulesStrings.1>art_name->[anyPawn_nameShort] [trans] [color]</ArtName_Sculpture.rulePack.rulesStrings.1>
-    <ArtName_Sculpture.rulePack.rulesStrings.10>art_name->[color] [terrainfeature]</ArtName_Sculpture.rulePack.rulesStrings.10>
-    <ArtName_Sculpture.rulePack.rulesStrings.11>art_name->A [art_adjective] [concept]</ArtName_Sculpture.rulePack.rulesStrings.11>
-    <ArtName_Sculpture.rulePack.rulesStrings.12>art_name->[concept] No. [digit]</ArtName_Sculpture.rulePack.rulesStrings.12>
-    <ArtName_Sculpture.rulePack.rulesStrings.13>art_name->[artname] No. [digit]</ArtName_Sculpture.rulePack.rulesStrings.13>
-    <ArtName_Sculpture.rulePack.rulesStrings.14>art_name->[artname] No. [digit][digit]</ArtName_Sculpture.rulePack.rulesStrings.14>
-    <ArtName_Sculpture.rulePack.rulesStrings.15>art_name->[digit] [trans] [anyPawn_nameShort]</ArtName_Sculpture.rulePack.rulesStrings.15>
-    <ArtName_Sculpture.rulePack.rulesStrings.2>art_name->[artname] [trans] [anyPawn_nameShort]</ArtName_Sculpture.rulePack.rulesStrings.2>
-    <ArtName_Sculpture.rulePack.rulesStrings.3>art_name->[artname] [trans] [concept]</ArtName_Sculpture.rulePack.rulesStrings.3>
-    <ArtName_Sculpture.rulePack.rulesStrings.4>art_name->[artname] [romannumeral]</ArtName_Sculpture.rulePack.rulesStrings.4>
-    <ArtName_Sculpture.rulePack.rulesStrings.5>art_name->[concept] [trans] [anyPawn_nameShort]</ArtName_Sculpture.rulePack.rulesStrings.5>
-    <ArtName_Sculpture.rulePack.rulesStrings.6>art_name->[concept] [trans] [anyPawn_nameShort]</ArtName_Sculpture.rulePack.rulesStrings.6>
-    <ArtName_Sculpture.rulePack.rulesStrings.7>art_name->[concept]</ArtName_Sculpture.rulePack.rulesStrings.7>
-    <ArtName_Sculpture.rulePack.rulesStrings.8>art_name->[color] [concept]</ArtName_Sculpture.rulePack.rulesStrings.8>
-    <ArtName_Sculpture.rulePack.rulesStrings.9>art_name->[color] [artname]</ArtName_Sculpture.rulePack.rulesStrings.9>
-    <ArtName_Weapon.rulePack.rulesStrings.0>art_name->[badassconcept]</ArtName_Weapon.rulePack.rulesStrings.0>
-    <ArtName_Weapon.rulePack.rulesStrings.1>art_name->The [badassanimal]</ArtName_Weapon.rulePack.rulesStrings.1>
-    <ArtName_Weapon.rulePack.rulesStrings.2>art_name->[badassadjective] [badassanimal]</ArtName_Weapon.rulePack.rulesStrings.2>
-    <ArtName_Weapon.rulePack.rulesStrings.3>art_name->[badasscolor] [badassanimal]</ArtName_Weapon.rulePack.rulesStrings.3>
-    <ArtName_Weapon.rulePack.rulesStrings.4>art_name->[badassconcept] [badasscolor]</ArtName_Weapon.rulePack.rulesStrings.4>
-    <ArtName_Weapon.rulePack.rulesStrings.5>art_name->[anyPawn_nameShort]'s [badassconcept]</ArtName_Weapon.rulePack.rulesStrings.5>
-    <ArtName_Weapon.rulePack.rulesStrings.6>art_name->[badassconcept] of [anyPawn_nameShort]</ArtName_Weapon.rulePack.rulesStrings.6>
-    <ArtName_Weapon.rulePack.rulesStrings.7>art_name->[badasscolor] [anyPawn_nameShort]</ArtName_Weapon.rulePack.rulesStrings.7>
-    <ArtName_Weapon.rulePack.rulesStrings.8>art_name->[anyPawn_nameShort]'s [badassanimal]</ArtName_Weapon.rulePack.rulesStrings.8>
-    <ArtName_Weapon.rulePack.rulesStrings.9>art_name->[anyPawn_nameShort]'s [badassperson]</ArtName_Weapon.rulePack.rulesStrings.9>
+	<ArtName_Furniture.rulePack.rulesStrings>
+		<li>art_name->[anyPawn_nameShort]'s [positiveconcept]</li>
+		<li>art_name->[positiveconcept]</li>
+		<li>art_name->The [animal]</li>
+		<li>art_name->[badasscolor] [animal]</li>
+		<li>art_name->[anyPawn_nameShort]'s [color]</li>
+	</ArtName_Furniture.rulePack.rulesStrings>
+	<ArtName_SarcophagusPlate.rulePack.rulesStrings>
+		<li>art_name->[angstyadjective] [anyPawn_nameShort]</li>
+		<li>art_name->[anyPawn_nameShort]</li>
+		<li>art_name->[color] [anyPawn_nameShort]</li>
+		<li>art_name->[angstyadjective] [angstyconcept]</li>
+		<li>art_name->[angstyadjective] [badassconcept]</li>
+	</ArtName_SarcophagusPlate.rulePack.rulesStrings>
+	<ArtName_Sculpture.rulePack.rulesStrings>
+		<li>art_name->[anyPawn_nameShort]'s [artname]</li>
+		<li>art_name->[anyPawn_nameShort] [trans] [color]</li>
+		<li>art_name->[color] [terrainfeature]</li>
+		<li>art_name->A [art_adjective] [concept]</li>
+		<li>art_name->[concept] No. [digit]</li>
+		<li>art_name->[artname] No. [digit]</li>
+		<li>art_name->[artname] No. [digit][digit]</li>
+		<li>art_name->[digit] [trans] [anyPawn_nameShort]</li>
+		<li>art_name->[artname] [trans] [anyPawn_nameShort]</li>
+		<li>art_name->[artname] [trans] [concept]</li>
+		<li>art_name->[artname] [romannumeral]</li>
+		<li>art_name->[concept] [trans] [anyPawn_nameShort]</li>
+		<li>art_name->[concept] [trans] [anyPawn_nameShort]</li>
+		<li>art_name->[concept]</li>
+		<li>art_name->[color] [concept]</li>
+		<li>art_name->[color] [artname]</li>
+	</ArtName_Sculpture.rulePack.rulesStrings>
+	<ArtName_Weapon.rulePack.rulesStrings>
+		<li>art_name->[badassconcept]</li>
+		<li>art_name->The [badassanimal]</li>
+		<li>art_name->[badassadjective] [badassanimal]</li>
+		<li>art_name->[badasscolor] [badassanimal]</li>
+		<li>art_name->[badassconcept] [badasscolor]</li>
+		<li>art_name->[anyPawn_nameShort]'s [badassconcept]</li>
+		<li>art_name->[badassconcept] of [anyPawn_nameShort]</li>
+		<li>art_name->[badasscolor] [anyPawn_nameShort]</li>
+		<li>art_name->[anyPawn_nameShort]'s [badassanimal]</li>
+		<li>art_name->[anyPawn_nameShort]'s [badassperson]</li>
+	</ArtName_Weapon.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_Art_PhysicalDescriptionRoots.xml
-    <ArtDescription_Furniture.rulePack.rulesStrings.0>physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.0>
-    <ArtDescription_Furniture.rulePack.rulesStrings.1>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.1>
-    <ArtDescription_Furniture.rulePack.rulesStrings.2>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.2>
-    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>
-    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>
-    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.0>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.0>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.1>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.1>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.2>physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.2>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.3>sculpture->sculpture</ArtDescription_Sculpture.rulePack.rulesStrings.3>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.4>sculpture->work</ArtDescription_Sculpture.rulePack.rulesStrings.4>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.5>sculpture->piece</ArtDescription_Sculpture.rulePack.rulesStrings.5>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.6>sculpture->carving</ArtDescription_Sculpture.rulePack.rulesStrings.6>
-    <ArtDescription_WeaponGun.rulePack.rulesStrings.0>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.0>
-    <ArtDescription_WeaponGun.rulePack.rulesStrings.1>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.1>
-    <ArtDescription_WeaponGun.rulePack.rulesStrings.2>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.2>
-    <ArtDescription_WeaponMelee.rulePack.rulesStrings.0>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.0>
-    <ArtDescription_WeaponMelee.rulePack.rulesStrings.1>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.1>
-    <ArtDescription_WeaponMelee.rulePack.rulesStrings.2>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.2>
+	<ArtDescription_Furniture.rulePack.rulesStrings>
+		<li>physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_Furniture.rulePack.rulesStrings>
+	<ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+		<li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+	<ArtDescription_Sculpture.rulePack.rulesStrings>
+		<li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>sculpture->sculpture</li>
+		<li>sculpture->work</li>
+		<li>sculpture->piece</li>
+		<li>sculpture->carving</li>
+	</ArtDescription_Sculpture.rulePack.rulesStrings>
+	<ArtDescription_WeaponGun.rulePack.rulesStrings>
+		<li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_WeaponGun.rulePack.rulesStrings>
+	<ArtDescription_WeaponMelee.rulePack.rulesStrings>
+		<li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_WeaponMelee.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_InteractionsExtra.xml
-    <Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] agreed and the two are now engaged.</Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>
-    <Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] rejected the proposal.</Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>
-    <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>sent->It was too much for the relationship to continue, and the two have now broken up.</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>
-    <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community.</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
-    <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] rejected the offer.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
-    <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] agreed and is now [initiator_nameShortDef]'s lover.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] rejected the advance.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>
-    <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->This drove [recipient_nameShortDef] into a rage and [recipient_pronoun] began a fight!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
+	<Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] agreed and the two are now engaged.</li>
+	</Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+	<Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] rejected the proposal.</li>
+	</Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+	<Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+		<li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+	</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+	<Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community.</li>
+	</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+	<Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] rejected the offer.</li>
+	</Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+	<Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] agreed and is now [initiator_nameShortDef]'s lover.</li>
+	</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+	<Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] rejected the advance.</li>
+	</Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+	<Sentence_SocialFightStarted.rulePack.rulesStrings>
+		<li>sent->This drove [recipient_nameShortDef] into a rage and [recipient_pronoun] began a fight!</li>
+	</Sentence_SocialFightStarted.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_NameMaker_World.xml
-    <NamerWorld.rulePack.rulesStrings.0>name->[celestialname]</NamerWorld.rulePack.rulesStrings.0>
-    <NamerWorld.rulePack.rulesStrings.1>name->[celestialprefix] [celestialname]</NamerWorld.rulePack.rulesStrings.1>
-    <NamerWorld.rulePack.rulesStrings.2>name->[celestialname] [romannumeral]</NamerWorld.rulePack.rulesStrings.2>
-    <NamerWorld.rulePack.rulesStrings.3>name->[celestialname] [celestialname]</NamerWorld.rulePack.rulesStrings.3>
-    <NamerWorld.rulePack.rulesStrings.4>name->[celestialname] [celestialsuffix]</NamerWorld.rulePack.rulesStrings.4>
+	<NamerWorld.rulePack.rulesStrings>
+		<li>name->[celestialname]</li>
+		<li>name->[celestialprefix] [celestialname]</li>
+		<li>name->[celestialname] [romannumeral]</li>
+		<li>name->[celestialname] [celestialname]</li>
+		<li>name->[celestialname] [celestialsuffix]</li>
+	</NamerWorld.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_NameMakers_Animals.xml
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.0>name->[animalnameunisex]</NamerAnimalGenericFemale.rulePack.rulesStrings.0>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.1>name->[animalnameunisex]</NamerAnimalGenericFemale.rulePack.rulesStrings.1>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.10>exoticname->[badassadjective]</NamerAnimalGenericFemale.rulePack.rulesStrings.10>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.11>exoticname->[badassadjective]</NamerAnimalGenericFemale.rulePack.rulesStrings.11>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.12>exoticname->[concept]</NamerAnimalGenericFemale.rulePack.rulesStrings.12>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.13>exoticname->[concept]</NamerAnimalGenericFemale.rulePack.rulesStrings.13>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.14>exoticname->[color]</NamerAnimalGenericFemale.rulePack.rulesStrings.14>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.2>name->[animalnameunisex]</NamerAnimalGenericFemale.rulePack.rulesStrings.2>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.3>name->[animalnamefemale]</NamerAnimalGenericFemale.rulePack.rulesStrings.3>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.4>name->[animalnamefemale]</NamerAnimalGenericFemale.rulePack.rulesStrings.4>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.5>name->[animalnamefemale]</NamerAnimalGenericFemale.rulePack.rulesStrings.5>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.6>name->[personnamefemale]</NamerAnimalGenericFemale.rulePack.rulesStrings.6>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.7>name->[personnamefemale]</NamerAnimalGenericFemale.rulePack.rulesStrings.7>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.8>name->[personnamefemale]</NamerAnimalGenericFemale.rulePack.rulesStrings.8>
-    <NamerAnimalGenericFemale.rulePack.rulesStrings.9>name->[exoticname]</NamerAnimalGenericFemale.rulePack.rulesStrings.9>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.0>name->[animalnameunisex]</NamerAnimalGenericMale.rulePack.rulesStrings.0>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.1>name->[animalnameunisex]</NamerAnimalGenericMale.rulePack.rulesStrings.1>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.10>exoticname->[badassadjective]</NamerAnimalGenericMale.rulePack.rulesStrings.10>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.11>exoticname->[badassadjective]</NamerAnimalGenericMale.rulePack.rulesStrings.11>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.12>exoticname->[concept]</NamerAnimalGenericMale.rulePack.rulesStrings.12>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.13>exoticname->[concept]</NamerAnimalGenericMale.rulePack.rulesStrings.13>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.14>exoticname->[color]</NamerAnimalGenericMale.rulePack.rulesStrings.14>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.2>name->[animalnameunisex]</NamerAnimalGenericMale.rulePack.rulesStrings.2>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.3>name->[animalnamemale]</NamerAnimalGenericMale.rulePack.rulesStrings.3>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.4>name->[animalnamemale]</NamerAnimalGenericMale.rulePack.rulesStrings.4>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.5>name->[animalnamemale]</NamerAnimalGenericMale.rulePack.rulesStrings.5>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.6>name->[personnamemale]</NamerAnimalGenericMale.rulePack.rulesStrings.6>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.7>name->[personnamemale]</NamerAnimalGenericMale.rulePack.rulesStrings.7>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.8>name->[personnamemale]</NamerAnimalGenericMale.rulePack.rulesStrings.8>
-    <NamerAnimalGenericMale.rulePack.rulesStrings.9>name->[exoticname]</NamerAnimalGenericMale.rulePack.rulesStrings.9>
+	<NamerAnimalGenericFemale.rulePack.rulesStrings>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>exoticname->[badassadjective]</li>
+		<li>exoticname->[badassadjective]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[color]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnamefemale]</li>
+		<li>name->[animalnamefemale]</li>
+		<li>name->[animalnamefemale]</li>
+		<li>name->[personnamefemale]</li>
+		<li>name->[personnamefemale]</li>
+		<li>name->[personnamefemale]</li>
+		<li>name->[exoticname]</li>
+	</NamerAnimalGenericFemale.rulePack.rulesStrings>
+	<NamerAnimalGenericMale.rulePack.rulesStrings>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>exoticname->[badassadjective]</li>
+		<li>exoticname->[badassadjective]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[color]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnamemale]</li>
+		<li>name->[animalnamemale]</li>
+		<li>name->[animalnamemale]</li>
+		<li>name->[personnamemale]</li>
+		<li>name->[personnamemale]</li>
+		<li>name->[personnamemale]</li>
+		<li>name->[exoticname]</li>
+	</NamerAnimalGenericMale.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_NameMakers_Factions.xml
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.0>name->[positiveconcept]'s [terrainfeature]</NamerFactionBaseOutlander.rulePack.rulesStrings.0>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.1>name->[outlander]'s [terrainfeature]</NamerFactionBaseOutlander.rulePack.rulesStrings.1>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.10>wordname->[syl][syl]</NamerFactionBaseOutlander.rulePack.rulesStrings.10>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.11>wordname->[syl][townend]</NamerFactionBaseOutlander.rulePack.rulesStrings.11>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.12>wordname->[syl][syl][townend]</NamerFactionBaseOutlander.rulePack.rulesStrings.12>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.13>wordname->[terrainfeature][townend]</NamerFactionBaseOutlander.rulePack.rulesStrings.13>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.14>townend->ville</NamerFactionBaseOutlander.rulePack.rulesStrings.14>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.15>townend->town</NamerFactionBaseOutlander.rulePack.rulesStrings.15>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.16>townend->hurst</NamerFactionBaseOutlander.rulePack.rulesStrings.16>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.17>townend->bourne</NamerFactionBaseOutlander.rulePack.rulesStrings.17>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.18>townend->brad</NamerFactionBaseOutlander.rulePack.rulesStrings.18>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.19>townend->dale</NamerFactionBaseOutlander.rulePack.rulesStrings.19>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.2>name->[outlander]'s [community]</NamerFactionBaseOutlander.rulePack.rulesStrings.2>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.20>townend->hope</NamerFactionBaseOutlander.rulePack.rulesStrings.20>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.21>townend->ing</NamerFactionBaseOutlander.rulePack.rulesStrings.21>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.22>townend->ness</NamerFactionBaseOutlander.rulePack.rulesStrings.22>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.23>townend->mere</NamerFactionBaseOutlander.rulePack.rulesStrings.23>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.24>townend->shaw</NamerFactionBaseOutlander.rulePack.rulesStrings.24>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.25>townend->wick</NamerFactionBaseOutlander.rulePack.rulesStrings.25>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.3>name->[nearname]</NamerFactionBaseOutlander.rulePack.rulesStrings.3>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.4>name->[wordname]</NamerFactionBaseOutlander.rulePack.rulesStrings.4>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.5>name->[wordname]</NamerFactionBaseOutlander.rulePack.rulesStrings.5>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.6>nearname->[subname]-at-the-[terrainfeature]</NamerFactionBaseOutlander.rulePack.rulesStrings.6>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.7>nearname->[subname]-by-the-[terrainfeature]</NamerFactionBaseOutlander.rulePack.rulesStrings.7>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.8>subname->[wordname]</NamerFactionBaseOutlander.rulePack.rulesStrings.8>
-    <NamerFactionBaseOutlander.rulePack.rulesStrings.9>subname->[community]</NamerFactionBaseOutlander.rulePack.rulesStrings.9>
-    <NamerFactionBasePirate.rulePack.rulesStrings.0>name->[badassanimal] [geography]</NamerFactionBasePirate.rulePack.rulesStrings.0>
-    <NamerFactionBasePirate.rulePack.rulesStrings.1>name->[badassconcept] [geography]</NamerFactionBasePirate.rulePack.rulesStrings.1>
-    <NamerFactionBasePirate.rulePack.rulesStrings.2>name->[badassanimal]'s [geography]</NamerFactionBasePirate.rulePack.rulesStrings.2>
-    <NamerFactionBasePirate.rulePack.rulesStrings.3>name->[badassperson]'s [geography]</NamerFactionBasePirate.rulePack.rulesStrings.3>
-    <NamerFactionBasePirate.rulePack.rulesStrings.4>geography->[terrainfeature]</NamerFactionBasePirate.rulePack.rulesStrings.4>
-    <NamerFactionBasePirate.rulePack.rulesStrings.5>geography->[community]</NamerFactionBasePirate.rulePack.rulesStrings.5>
-    <NamerFactionBasePlayerColony.rulePack.rulesStrings.0>name->Colony</NamerFactionBasePlayerColony.rulePack.rulesStrings.0>
-    <NamerFactionBasePlayerTribe.rulePack.rulesStrings.0>name->Village</NamerFactionBasePlayerTribe.rulePack.rulesStrings.0>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.0>name->[tribalword]</NamerFactionBaseTribal.rulePack.rulesStrings.0>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.1>name->[tribalword]</NamerFactionBaseTribal.rulePack.rulesStrings.1>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.2>name->[color] [tribalword]</NamerFactionBaseTribal.rulePack.rulesStrings.2>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.3>name->[color] [terrainfeature]</NamerFactionBaseTribal.rulePack.rulesStrings.3>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.4>name->[tribalword] [terrainfeature]</NamerFactionBaseTribal.rulePack.rulesStrings.4>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.5>tribalword->[tribalwordfile]</NamerFactionBaseTribal.rulePack.rulesStrings.5>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.6>tribalword->[syl][syl]</NamerFactionBaseTribal.rulePack.rulesStrings.6>
-    <NamerFactionBaseTribal.rulePack.rulesStrings.7>tribalword->[syl][syl][syl]</NamerFactionBaseTribal.rulePack.rulesStrings.7>
-    <NamerFactionOutlander.rulePack.rulesStrings.10>subname->[direction] [wordname]</NamerFactionOutlander.rulePack.rulesStrings.10>
-    <NamerFactionOutlander.rulePack.rulesStrings.11>wordname->[syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.11>
-    <NamerFactionOutlander.rulePack.rulesStrings.14>wordname->[syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.14>
-    <NamerFactionOutlander.rulePack.rulesStrings.15>wordname->[syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.15>
-    <NamerFactionOutlander.rulePack.rulesStrings.16>wordname->[syl][syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.16>
-    <NamerFactionOutlander.rulePack.rulesStrings.4>name->[subname] [politicaladjective] [politicalunion]</NamerFactionOutlander.rulePack.rulesStrings.4>
-    <NamerFactionOutlander.rulePack.rulesStrings.5>name->[politicalunion] of [subname]</NamerFactionOutlander.rulePack.rulesStrings.5>
-    <NamerFactionOutlander.rulePack.rulesStrings.6>name->[politicaladjective] [politicalunion] of [subname]</NamerFactionOutlander.rulePack.rulesStrings.6>
-    <NamerFactionOutlander.rulePack.rulesStrings.7>subname->[wordname]</NamerFactionOutlander.rulePack.rulesStrings.7>
-    <NamerFactionOutlander.rulePack.rulesStrings.8>subname->[wordname]</NamerFactionOutlander.rulePack.rulesStrings.8>
-    <NamerFactionOutlander.rulePack.rulesStrings.9>subname->[wordname]</NamerFactionOutlander.rulePack.rulesStrings.9>
-    <NamerFactionPirate.rulePack.rulesStrings.17>name->[badassconcept][groupname]</NamerFactionPirate.rulePack.rulesStrings.17>
-    <NamerFactionPlayerRandomized.rulePack.rulesStrings.0>name->[colonyname]</NamerFactionPlayerRandomized.rulePack.rulesStrings.0>
-    <NamerFactionTribal.rulePack.rulesStrings.10>tribalword->[syl][syl][syl]</NamerFactionTribal.rulePack.rulesStrings.10>
-    <NamerFactionTribal.rulePack.rulesStrings.11>tribalword->[syl][syl][syl]</NamerFactionTribal.rulePack.rulesStrings.11>
-    <NamerFactionTribal.rulePack.rulesStrings.12>tribalword->[syl][syl][syl][syl]</NamerFactionTribal.rulePack.rulesStrings.12>
-    <NamerFactionTribal.rulePack.rulesStrings.7>tribalword->[syl][syl]</NamerFactionTribal.rulePack.rulesStrings.7>
-    <NamerFactionTribal.rulePack.rulesStrings.9>tribalword->[syl][syl]</NamerFactionTribal.rulePack.rulesStrings.9>
+	<NamerFactionBaseOutlander.rulePack.rulesStrings>
+		<li>name->[positiveconcept]'s [terrainfeature]</li>
+		<li>name->[outlander]'s [terrainfeature]</li>
+		<li>wordname->[syl][syl]</li>
+		<li>wordname->[syl][townend]</li>
+		<li>wordname->[syl][syl][townend]</li>
+		<li>wordname->[terrainfeature][townend]</li>
+		<li>townend->ville</li>
+		<li>townend->town</li>
+		<li>townend->hurst</li>
+		<li>townend->bourne</li>
+		<li>townend->brad</li>
+		<li>townend->dale</li>
+		<li>name->[outlander]'s [community]</li>
+		<li>townend->hope</li>
+		<li>townend->ing</li>
+		<li>townend->ness</li>
+		<li>townend->mere</li>
+		<li>townend->shaw</li>
+		<li>townend->wick</li>
+		<li>name->[nearname]</li>
+		<li>name->[wordname]</li>
+		<li>name->[wordname]</li>
+		<li>nearname->[subname]-at-the-[terrainfeature]</li>
+		<li>nearname->[subname]-by-the-[terrainfeature]</li>
+		<li>subname->[wordname]</li>
+		<li>subname->[community]</li>
+	</NamerFactionBaseOutlander.rulePack.rulesStrings>
+	<NamerFactionBasePirate.rulePack.rulesStrings>
+		<li>name->[badassanimal] [geography]</li>
+		<li>name->[badassconcept] [geography]</li>
+		<li>name->[badassanimal]'s [geography]</li>
+		<li>name->[badassperson]'s [geography]</li>
+		<li>geography->[terrainfeature]</li>
+		<li>geography->[community]</li>
+	</NamerFactionBasePirate.rulePack.rulesStrings>
+	<NamerFactionBasePlayerColony.rulePack.rulesStrings>
+		<li>name->Colony</li>
+	</NamerFactionBasePlayerColony.rulePack.rulesStrings>
+	<NamerFactionBasePlayerTribe.rulePack.rulesStrings>
+		<li>name->Village</li>
+	</NamerFactionBasePlayerTribe.rulePack.rulesStrings>
+	<NamerFactionBaseTribal.rulePack.rulesStrings>
+		<li>name->[tribalword]</li>
+		<li>name->[tribalword]</li>
+		<li>name->[color] [tribalword]</li>
+		<li>name->[color] [terrainfeature]</li>
+		<li>name->[tribalword] [terrainfeature]</li>
+		<li>tribalword->[tribalwordfile]</li>
+		<li>tribalword->[syl][syl]</li>
+		<li>tribalword->[syl][syl][syl]</li>
+		<li>subname->[direction] [wordname]</li>
+		<li>wordname->[syl][endsyl]</li>
+		<li>wordname->[syl][syl][endsyl]</li>
+		<li>wordname->[syl][syl][endsyl]</li>
+		<li>wordname->[syl][syl][syl][endsyl]</li>
+		<li>name->[subname] [politicaladjective] [politicalunion]</li>
+		<li>name->[politicalunion] of [subname]</li>
+		<li>name->[politicaladjective] [politicalunion] of [subname]</li>
+		<li>subname->[wordname]</li>
+		<li>subname->[wordname]</li>
+		<li>subname->[wordname]</li>
+		<li>name->[badassconcept][groupname]</li>
+	</NamerFactionBaseTribal.rulePack.rulesStrings>
+	<NamerFactionPlayerRandomized.rulePack.rulesStrings>
+		<li>name->[colonyname]</li>
+		<li>tribalword->[syl][syl][syl]</li>
+		<li>tribalword->[syl][syl][syl]</li>
+		<li>tribalword->[syl][syl][syl][syl]</li>
+		<li>tribalword->[syl][syl]</li>
+		<li>tribalword->[syl][syl]</li>
+	</NamerFactionPlayerRandomized.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_NameMakers_Scenarios.xml
-    <NamerScenario.rulePack.rulesStrings.0>name->[story] [trans] the [weapon]</NamerScenario.rulePack.rulesStrings.0>
-    <NamerScenario.rulePack.rulesStrings.1>name->[story] [trans] the [animal]</NamerScenario.rulePack.rulesStrings.1>
-    <NamerScenario.rulePack.rulesStrings.10>name->[color] [story]</NamerScenario.rulePack.rulesStrings.10>
-    <NamerScenario.rulePack.rulesStrings.11>name->[story] [romannumeral]</NamerScenario.rulePack.rulesStrings.11>
-    <NamerScenario.rulePack.rulesStrings.2>name->[story] [trans] the [terrainfeature]</NamerScenario.rulePack.rulesStrings.2>
-    <NamerScenario.rulePack.rulesStrings.3>name->[story] [trans] [outlander]s</NamerScenario.rulePack.rulesStrings.3>
-    <NamerScenario.rulePack.rulesStrings.4>name->[story] [trans] [concept]</NamerScenario.rulePack.rulesStrings.4>
-    <NamerScenario.rulePack.rulesStrings.5>name->[concept] [story]</NamerScenario.rulePack.rulesStrings.5>
-    <NamerScenario.rulePack.rulesStrings.6>name->[story] [trans] a [community]</NamerScenario.rulePack.rulesStrings.6>
-    <NamerScenario.rulePack.rulesStrings.7>name->a [adjective] [story]</NamerScenario.rulePack.rulesStrings.7>
-    <NamerScenario.rulePack.rulesStrings.8>name->[story] [trans] the [game]</NamerScenario.rulePack.rulesStrings.8>
-    <NamerScenario.rulePack.rulesStrings.9>name->[story] in [color] and [color]</NamerScenario.rulePack.rulesStrings.9>
+	<NamerScenario.rulePack.rulesStrings>
+		<li>name->[story] [trans] the [weapon]</li>
+		<li>name->[story] [trans] the [animal]</li>
+		<li>name->[color] [story]</li>
+		<li>name->[story] [romannumeral]</li>
+		<li>name->[story] [trans] the [terrainfeature]</li>
+		<li>name->[story] [trans] [outlander]s</li>
+		<li>name->[story] [trans] [concept]</li>
+		<li>name->[concept] [story]</li>
+		<li>name->[story] [trans] a [community]</li>
+		<li>name->a [adjective] [story]</li>
+		<li>name->[story] [trans] the [game]</li>
+		<li>name->[story] in [color] and [color]</li>
+	</NamerScenario.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_NameMakers_Traders.xml
-    <NamerTraderGeneral.rulePack.rulesStrings.0>name->[businessname] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.0>
-    <NamerTraderGeneral.rulePack.rulesStrings.1>name->[businessname] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.1>
-    <NamerTraderGeneral.rulePack.rulesStrings.2>name->[businessname] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.2>
-    <NamerTraderGeneral.rulePack.rulesStrings.3>name->[businessname] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.3>
-    <NamerTraderGeneral.rulePack.rulesStrings.4>name->[color] [animal] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.4>
-    <NamerTraderGeneral.rulePack.rulesStrings.5>name->[letter][letter] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.5>
+	<NamerTraderGeneral.rulePack.rulesStrings>
+		<li>name->[businessname] [businesstype]</li>
+		<li>name->[businessname] [businesstype]</li>
+		<li>name->[businessname] [businesstype]</li>
+		<li>name->[businessname] [businesstype]</li>
+		<li>name->[color] [animal] [businesstype]</li>
+		<li>name->[letter][letter] [businesstype]</li>
+	</NamerTraderGeneral.rulePack.rulesStrings>
 
 DefInjected\RulePackDef\RulePacks_Seeds.xml
-    <SeedGenerator.rulePack.rulesStrings.0>seed->[personnamemale]</SeedGenerator.rulePack.rulesStrings.0>
-    <SeedGenerator.rulePack.rulesStrings.1>seed->[personnamemale]</SeedGenerator.rulePack.rulesStrings.1>
-    <SeedGenerator.rulePack.rulesStrings.10>seed->[adjective]</SeedGenerator.rulePack.rulesStrings.10>
-    <SeedGenerator.rulePack.rulesStrings.11>seed->[concept]</SeedGenerator.rulePack.rulesStrings.11>
-    <SeedGenerator.rulePack.rulesStrings.12>seed->[tribalword]</SeedGenerator.rulePack.rulesStrings.12>
-    <SeedGenerator.rulePack.rulesStrings.13>seed->[rareseed]</SeedGenerator.rulePack.rulesStrings.13>
-    <SeedGenerator.rulePack.rulesStrings.14>seed->[rareseed]</SeedGenerator.rulePack.rulesStrings.14>
-    <SeedGenerator.rulePack.rulesStrings.15>rareseed->[weapon]</SeedGenerator.rulePack.rulesStrings.15>
-    <SeedGenerator.rulePack.rulesStrings.16>rareseed->[color]</SeedGenerator.rulePack.rulesStrings.16>
-    <SeedGenerator.rulePack.rulesStrings.17>rareseed->[vegetable]</SeedGenerator.rulePack.rulesStrings.17>
-    <SeedGenerator.rulePack.rulesStrings.18>rareseed->[game]</SeedGenerator.rulePack.rulesStrings.18>
-    <SeedGenerator.rulePack.rulesStrings.19>rareseed->[businessname]</SeedGenerator.rulePack.rulesStrings.19>
-    <SeedGenerator.rulePack.rulesStrings.2>seed->[personnamemale]</SeedGenerator.rulePack.rulesStrings.2>
-    <SeedGenerator.rulePack.rulesStrings.20>rareseed->[businesstype]</SeedGenerator.rulePack.rulesStrings.20>
-    <SeedGenerator.rulePack.rulesStrings.21>rareseed->[community]</SeedGenerator.rulePack.rulesStrings.21>
-    <SeedGenerator.rulePack.rulesStrings.3>seed->[personnamefemale]</SeedGenerator.rulePack.rulesStrings.3>
-    <SeedGenerator.rulePack.rulesStrings.4>seed->[personnamefemale]</SeedGenerator.rulePack.rulesStrings.4>
-    <SeedGenerator.rulePack.rulesStrings.5>seed->[personnamefemale]</SeedGenerator.rulePack.rulesStrings.5>
-    <SeedGenerator.rulePack.rulesStrings.6>seed->[animal]</SeedGenerator.rulePack.rulesStrings.6>
-    <SeedGenerator.rulePack.rulesStrings.7>seed->[terrainfeature]</SeedGenerator.rulePack.rulesStrings.7>
-    <SeedGenerator.rulePack.rulesStrings.8>seed->[outlander]</SeedGenerator.rulePack.rulesStrings.8>
-    <SeedGenerator.rulePack.rulesStrings.9>seed->[apparel]</SeedGenerator.rulePack.rulesStrings.9>
+	<SeedGenerator.rulePack.rulesStrings>
+		<li>seed->[personnamemale]</li>
+		<li>seed->[personnamemale]</li>
+		<li>seed->[adjective]</li>
+		<li>seed->[concept]</li>
+		<li>seed->[tribalword]</li>
+		<li>seed->[rareseed]</li>
+		<li>seed->[rareseed]</li>
+		<li>rareseed->[weapon]</li>
+		<li>rareseed->[color]</li>
+		<li>rareseed->[vegetable]</li>
+		<li>rareseed->[game]</li>
+		<li>rareseed->[businessname]</li>
+		<li>seed->[personnamemale]</li>
+		<li>rareseed->[businesstype]</li>
+		<li>rareseed->[community]</li>
+		<li>seed->[personnamefemale]</li>
+		<li>seed->[personnamefemale]</li>
+		<li>seed->[personnamefemale]</li>
+		<li>seed->[animal]</li>
+		<li>seed->[terrainfeature]</li>
+		<li>seed->[outlander]</li>
+		<li>seed->[apparel]</li>
+	</SeedGenerator.rulePack.rulesStrings>
 
 DefInjected\ScenPartDef\ScenParts_Fixed.xml
     <ConfigPage_ConfigureStartingPawns.label>starting people</ConfigPage_ConfigureStartingPawns.label>
@@ -2395,332 +2471,362 @@ DefInjected\StorytellerDef\Storytellers.xml
 
 DefInjected\TaleDef\Tales_DoublePawn.xml
     <Captured.label>person captured</Captured.label>
-    <Captured.rulePack.rulesStrings.20>desc_sentence->[capturer_nameShortDef] is kicking [prisoner_nameShortDef] for no obvious reason.</Captured.rulePack.rulesStrings.20>
+		<li>desc_sentence->[capturer_nameShortDef] is kicking [prisoner_nameShortDef] for no obvious reason.</li>
     <DidSurgery.label>surgery performed</DidSurgery.label>
-    <DidSurgery.rulePack.rulesStrings.10>desc_sentence->[surgeon_nameShortDef] has blood smeared on [surgeon_possessive] face.</DidSurgery.rulePack.rulesStrings.10>
-    <DidSurgery.rulePack.rulesStrings.11>desc_sentence->[patient_nameShortDef] is shaking and writhing.</DidSurgery.rulePack.rulesStrings.11>
-    <DidSurgery.rulePack.rulesStrings.7>circumstance_phrase->with improvised but effective tools</DidSurgery.rulePack.rulesStrings.7>
-    <DidSurgery.rulePack.rulesStrings.8>desc_sentence->[surgeon_nameShortDef] is sweating profusely.</DidSurgery.rulePack.rulesStrings.8>
-    <DidSurgery.rulePack.rulesStrings.9>desc_sentence->[surgeon_nameShortDef] looks incredibly focused on the task.</DidSurgery.rulePack.rulesStrings.9>
+		<li>desc_sentence->[surgeon_nameShortDef] has blood smeared on [surgeon_possessive] face.</li>
+		<li>desc_sentence->[patient_nameShortDef] is shaking and writhing.</li>
+		<li>circumstance_phrase->with improvised but effective tools</li>
+		<li>desc_sentence->[surgeon_nameShortDef] is sweating profusely.</li>
+		<li>desc_sentence->[surgeon_nameShortDef] looks incredibly focused on the task.</li>
     <ExecutedPrisoner.label>prisoner executed</ExecutedPrisoner.label>
-    <ExecutedPrisoner.rulePack.rulesStrings.0>tale_noun->the execution of [prisoner_nameShortDef]</ExecutedPrisoner.rulePack.rulesStrings.0>
-    <ExecutedPrisoner.rulePack.rulesStrings.1>image->[warden_nameFull] executing [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.1>
-    <ExecutedPrisoner.rulePack.rulesStrings.10>circumstance_phrase->with obviously excessive force</ExecutedPrisoner.rulePack.rulesStrings.10>
-    <ExecutedPrisoner.rulePack.rulesStrings.11>circumstance_phrase->with obvious pleasure</ExecutedPrisoner.rulePack.rulesStrings.11>
-    <ExecutedPrisoner.rulePack.rulesStrings.12>circumstance_phrase->while smiling with dominance</ExecutedPrisoner.rulePack.rulesStrings.12>
-    <ExecutedPrisoner.rulePack.rulesStrings.13>circumstance_phrase->with tears in [warden_possessive] eyes</ExecutedPrisoner.rulePack.rulesStrings.13>
-    <ExecutedPrisoner.rulePack.rulesStrings.14>circumstance_phrase->with a look of utter indifference</ExecutedPrisoner.rulePack.rulesStrings.14>
-    <ExecutedPrisoner.rulePack.rulesStrings.15>circumstance_phrase->while inflicting unnecessary pain</ExecutedPrisoner.rulePack.rulesStrings.15>
-    <ExecutedPrisoner.rulePack.rulesStrings.16>circumstance_phrase->while thinking of something else</ExecutedPrisoner.rulePack.rulesStrings.16>
-    <ExecutedPrisoner.rulePack.rulesStrings.17>circumstance_phrase->for the greater good</ExecutedPrisoner.rulePack.rulesStrings.17>
-    <ExecutedPrisoner.rulePack.rulesStrings.18>desc_sentence->[warden_nameShortDef] is sweating profusely.</ExecutedPrisoner.rulePack.rulesStrings.18>
-    <ExecutedPrisoner.rulePack.rulesStrings.19>desc_sentence->[warden_nameShortDef] is drooling a little bit.</ExecutedPrisoner.rulePack.rulesStrings.19>
-    <ExecutedPrisoner.rulePack.rulesStrings.2>image->[warden_nameFull] putting [prisoner_nameFull] to death [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.2>
-    <ExecutedPrisoner.rulePack.rulesStrings.20>desc_sentence->[warden_nameShortDef] has blood smeared on [warden_possessive] face.</ExecutedPrisoner.rulePack.rulesStrings.20>
-    <ExecutedPrisoner.rulePack.rulesStrings.21>desc_sentence->[prisoner_nameShortDef] is shaking and writhing.</ExecutedPrisoner.rulePack.rulesStrings.21>
-    <ExecutedPrisoner.rulePack.rulesStrings.22>desc_sentence->[prisoner_nameShortDef] seems to have given up entirely.</ExecutedPrisoner.rulePack.rulesStrings.22>
-    <ExecutedPrisoner.rulePack.rulesStrings.23>desc_sentence->[prisoner_nameShortDef] has closed [prisoner_possessive] eyes, seeming to pray to a higher power.</ExecutedPrisoner.rulePack.rulesStrings.23>
-    <ExecutedPrisoner.rulePack.rulesStrings.24>desc_sentence->[prisoner_nameShortDef] looks defiant.</ExecutedPrisoner.rulePack.rulesStrings.24>
-    <ExecutedPrisoner.rulePack.rulesStrings.3>image->[warden_nameFull] preparing to execute [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.3>
-    <ExecutedPrisoner.rulePack.rulesStrings.4>image->[warden_nameFull] entering a prison cell, going to execute [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.4>
-    <ExecutedPrisoner.rulePack.rulesStrings.5>circumstance_phrase->as [prisoner_pronoun] writhes on the ground</ExecutedPrisoner.rulePack.rulesStrings.5>
-    <ExecutedPrisoner.rulePack.rulesStrings.6>circumstance_phrase->as [prisoner_pronoun] twists in pain</ExecutedPrisoner.rulePack.rulesStrings.6>
-    <ExecutedPrisoner.rulePack.rulesStrings.7>circumstance_phrase->as [prisoner_pronoun] cries out in terror</ExecutedPrisoner.rulePack.rulesStrings.7>
-    <ExecutedPrisoner.rulePack.rulesStrings.8>circumstance_phrase->with professional efficiency</ExecutedPrisoner.rulePack.rulesStrings.8>
-    <ExecutedPrisoner.rulePack.rulesStrings.9>circumstance_phrase->roughly and amateurishly</ExecutedPrisoner.rulePack.rulesStrings.9>
+	<ExecutedPrisoner.rulePack.rulesStrings>
+		<li>tale_noun->the execution of [prisoner_nameShortDef]</li>
+		<li>image->[warden_nameFull] executing [prisoner_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->with obviously excessive force</li>
+		<li>circumstance_phrase->with obvious pleasure</li>
+		<li>circumstance_phrase->while smiling with dominance</li>
+		<li>circumstance_phrase->with tears in [warden_possessive] eyes</li>
+		<li>circumstance_phrase->with a look of utter indifference</li>
+		<li>circumstance_phrase->while inflicting unnecessary pain</li>
+		<li>circumstance_phrase->while thinking of something else</li>
+		<li>circumstance_phrase->for the greater good</li>
+		<li>desc_sentence->[warden_nameShortDef] is sweating profusely.</li>
+		<li>desc_sentence->[warden_nameShortDef] is drooling a little bit.</li>
+		<li>image->[warden_nameFull] putting [prisoner_nameFull] to death [circumstance_group]</li>
+		<li>desc_sentence->[warden_nameShortDef] has blood smeared on [warden_possessive] face.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] is shaking and writhing.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] seems to have given up entirely.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] has closed [prisoner_possessive] eyes, seeming to pray to a higher power.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] looks defiant.</li>
+		<li>image->[warden_nameFull] preparing to execute [prisoner_nameFull] [circumstance_group]</li>
+		<li>image->[warden_nameFull] entering a prison cell, going to execute [prisoner_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->as [prisoner_pronoun] writhes on the ground</li>
+		<li>circumstance_phrase->as [prisoner_pronoun] twists in pain</li>
+		<li>circumstance_phrase->as [prisoner_pronoun] cries out in terror</li>
+		<li>circumstance_phrase->with professional efficiency</li>
+		<li>circumstance_phrase->roughly and amateurishly</li>
+	</ExecutedPrisoner.rulePack.rulesStrings>
     <Hunted.label>animal hunted</Hunted.label>
-    <Hunted.rulePack.rulesStrings.6>circumstance_phrase->as [prey_nameShortDef] eats</Hunted.rulePack.rulesStrings.6>
-    <Hunted.rulePack.rulesStrings.7>desc_sentence->[prey_nameShortDef] seems totally oblivious.</Hunted.rulePack.rulesStrings.7>
-    <Hunted.rulePack.rulesStrings.8>desc_sentence->[hunter_nameShortDef] is gripping [hunter_possessive] weapon tightly.</Hunted.rulePack.rulesStrings.8>
-    <Hunted.rulePack.rulesStrings.9>desc_sentence->[prey_nameShortDef] is looking around as though [prey_pronoun] senses that something is wrong.</Hunted.rulePack.rulesStrings.9>
+		<li>circumstance_phrase->as [prey_nameShortDef] eats</li>
+		<li>desc_sentence->[prey_nameShortDef] seems totally oblivious.</li>
+		<li>desc_sentence->[hunter_nameShortDef] is gripping [hunter_possessive] weapon tightly.</li>
+		<li>desc_sentence->[prey_nameShortDef] is looking around as though [prey_pronoun] senses that something is wrong.</li>
     <KidnappedColonist.label>colonist kidnapped</KidnappedColonist.label>
-    <KidnappedColonist.rulePack.rulesStrings.0>tale_noun->the kidnapping of [victim_nameShortDef]</KidnappedColonist.rulePack.rulesStrings.0>
-    <KidnappedColonist.rulePack.rulesStrings.1>image->[kidnapper_nameFull] carrying [victim_nameFull] away to [kidnapper_factionName] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.1>
-    <KidnappedColonist.rulePack.rulesStrings.10>circumstance_phrase->while covered in blood and filth</KidnappedColonist.rulePack.rulesStrings.10>
-    <KidnappedColonist.rulePack.rulesStrings.13>desc_sentence->[victim_nameShortDef] looks defiant.</KidnappedColonist.rulePack.rulesStrings.13>
-    <KidnappedColonist.rulePack.rulesStrings.14>desc_sentence->[victim_nameShortDef] is screaming with rage and terror.</KidnappedColonist.rulePack.rulesStrings.14>
-    <KidnappedColonist.rulePack.rulesStrings.15>desc_sentence->[victim_nameShortDef] looks broken and exhausted.</KidnappedColonist.rulePack.rulesStrings.15>
-    <KidnappedColonist.rulePack.rulesStrings.16>desc_sentence->[victim_nameShortDef] appears to be badly wounded.</KidnappedColonist.rulePack.rulesStrings.16>
-    <KidnappedColonist.rulePack.rulesStrings.2>image->[kidnapper_nameFull] of [kidnapper_factionName] kidnapping [victim_nameFull] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.2>
-    <KidnappedColonist.rulePack.rulesStrings.3>image->[kidnapper_nameFull] kidnapping [victim_nameFull] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.3>
-    <KidnappedColonist.rulePack.rulesStrings.4>circumstance_phrase->as [victim_pronoun] twists in pain</KidnappedColonist.rulePack.rulesStrings.4>
-    <KidnappedColonist.rulePack.rulesStrings.5>circumstance_phrase->with professional efficiency</KidnappedColonist.rulePack.rulesStrings.5>
-    <KidnappedColonist.rulePack.rulesStrings.6>circumstance_phrase->roughly and amateurishly</KidnappedColonist.rulePack.rulesStrings.6>
-    <KidnappedColonist.rulePack.rulesStrings.7>circumstance_phrase->with obviously excessive force</KidnappedColonist.rulePack.rulesStrings.7>
-    <KidnappedColonist.rulePack.rulesStrings.8>circumstance_phrase->with obvious pleasure</KidnappedColonist.rulePack.rulesStrings.8>
-    <KidnappedColonist.rulePack.rulesStrings.9>circumstance_phrase->while smiling with dominance</KidnappedColonist.rulePack.rulesStrings.9>
+	<KidnappedColonist.rulePack.rulesStrings>
+		<li>tale_noun->the kidnapping of [victim_nameShortDef]</li>
+		<li>image->[kidnapper_nameFull] carrying [victim_nameFull] away to [kidnapper_factionName] [circumstance_group]</li>
+		<li>circumstance_phrase->while covered in blood and filth</li>
+		<li>desc_sentence->[victim_nameShortDef] looks defiant.</li>
+		<li>desc_sentence->[victim_nameShortDef] is screaming with rage and terror.</li>
+		<li>desc_sentence->[victim_nameShortDef] looks broken and exhausted.</li>
+		<li>desc_sentence->[victim_nameShortDef] appears to be badly wounded.</li>
+		<li>image->[kidnapper_nameFull] of [kidnapper_factionName] kidnapping [victim_nameFull] [circumstance_group]</li>
+		<li>image->[kidnapper_nameFull] kidnapping [victim_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->as [victim_pronoun] twists in pain</li>
+		<li>circumstance_phrase->with professional efficiency</li>
+		<li>circumstance_phrase->roughly and amateurishly</li>
+		<li>circumstance_phrase->with obviously excessive force</li>
+		<li>circumstance_phrase->with obvious pleasure</li>
+		<li>circumstance_phrase->while smiling with dominance</li>
+	</KidnappedColonist.rulePack.rulesStrings>
     <KilledBy.label>death</KilledBy.label>
-    <KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledBy.rulePack.rulesStrings.22>
-    <KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledBy.rulePack.rulesStrings.23>
-    <KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledBy.rulePack.rulesStrings.24>
+		<li>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</li>
+		<li>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</li>
+		<li>desc_sentence->[killer_nameShortDef] looks triumphant.</li>
     <KilledColonist.label>colonist killed</KilledColonist.label>
     <KilledColonyAnimal.label>colony animal killed</KilledColonyAnimal.label>
     <Recruited.label>person recruited</Recruited.label>
-    <Recruited.rulePack.rulesStrings.10>desc_sentence->[joiner_nameShortDef] is smiling and making eye contact.</Recruited.rulePack.rulesStrings.10>
-    <Recruited.rulePack.rulesStrings.11>desc_sentence->[joiner_nameShortDef] looks relieved.</Recruited.rulePack.rulesStrings.11>
-    <Recruited.rulePack.rulesStrings.12>desc_sentence->[joiner_nameShortDef] looks hopeful.</Recruited.rulePack.rulesStrings.12>
-    <Recruited.rulePack.rulesStrings.7>circumstance_phrase->in front of the whole colony</Recruited.rulePack.rulesStrings.7>
-    <Recruited.rulePack.rulesStrings.8>circumstance_phrase->in a prison cell</Recruited.rulePack.rulesStrings.8>
-    <Recruited.rulePack.rulesStrings.9>desc_sentence->[joiner_nameShortDef] is nodding in understanding.</Recruited.rulePack.rulesStrings.9>
+		<li>desc_sentence->[joiner_nameShortDef] is smiling and making eye contact.</li>
+		<li>desc_sentence->[joiner_nameShortDef] looks relieved.</li>
+		<li>desc_sentence->[joiner_nameShortDef] looks hopeful.</li>
+		<li>circumstance_phrase->in front of the whole colony</li>
+		<li>circumstance_phrase->in a prison cell</li>
+		<li>desc_sentence->[joiner_nameShortDef] is nodding in understanding.</li>
     <SoldPrisoner.label>prisoner sold</SoldPrisoner.label>
-    <SoldPrisoner.rulePack.rulesStrings.0>tale_noun->the selling of [prisoner_nameShortDef] to a trader</SoldPrisoner.rulePack.rulesStrings.0>
-    <SoldPrisoner.rulePack.rulesStrings.1>image->[trader_nameFull] buying [prisoner_nameFull] from [seller_nameFull] [circumstance_group]</SoldPrisoner.rulePack.rulesStrings.1>
-    <SoldPrisoner.rulePack.rulesStrings.10>desc_sentence->[prisoner_nameShortDef] stares defiantly at [prisoner_possessive] new master.</SoldPrisoner.rulePack.rulesStrings.10>
-    <SoldPrisoner.rulePack.rulesStrings.11>desc_sentence->[trader_nameShortDef] drags [prisoner_nameShortDef] away by [prisoner_possessive] chains.</SoldPrisoner.rulePack.rulesStrings.11>
-    <SoldPrisoner.rulePack.rulesStrings.12>desc_sentence->[prisoner_nameShortDef] stares at [seller_nameShortDef], plotting [prisoner_possessive] revenge.</SoldPrisoner.rulePack.rulesStrings.12>
-    <SoldPrisoner.rulePack.rulesStrings.13>desc_sentence->[prisoner_nameShortDef] is crying.</SoldPrisoner.rulePack.rulesStrings.13>
-    <SoldPrisoner.rulePack.rulesStrings.14>desc_sentence->[prisoner_nameShortDef] is spitting in [seller_nameShortDef]'s face.</SoldPrisoner.rulePack.rulesStrings.14>
-    <SoldPrisoner.rulePack.rulesStrings.15>desc_sentence->[Prisoner_nameShortDef] is melting into the ground.</SoldPrisoner.rulePack.rulesStrings.15>
-    <SoldPrisoner.rulePack.rulesStrings.16>desc_sentence->[Seller_nameShortDef] is thrusting the chains of [prisoner_nameShortDef] into [trader_nameShortDef]'s hands.</SoldPrisoner.rulePack.rulesStrings.16>
-    <SoldPrisoner.rulePack.rulesStrings.17>desc_sentence->An air of hopelessness pervades the situation.</SoldPrisoner.rulePack.rulesStrings.17>
-    <SoldPrisoner.rulePack.rulesStrings.3>circumstance_phrase->as the other colonists look on in disapproval</SoldPrisoner.rulePack.rulesStrings.3>
-    <SoldPrisoner.rulePack.rulesStrings.4>circumstance_phrase->while [seller_nameShortDef] counts [trader_possessive] money</SoldPrisoner.rulePack.rulesStrings.4>
-    <SoldPrisoner.rulePack.rulesStrings.5>circumstance_phrase->while [prisoner_nameShortDef] moans plaintively</SoldPrisoner.rulePack.rulesStrings.5>
-    <SoldPrisoner.rulePack.rulesStrings.6>circumstance_phrase->to [prisoner_nameShortDef]'s chagrin</SoldPrisoner.rulePack.rulesStrings.6>
-    <SoldPrisoner.rulePack.rulesStrings.7>desc_sentence->[trader_nameShortDef] is smiling devilishly.</SoldPrisoner.rulePack.rulesStrings.7>
-    <SoldPrisoner.rulePack.rulesStrings.8>desc_sentence->[seller_nameShortDef] is laughing maniacally.</SoldPrisoner.rulePack.rulesStrings.8>
-    <SoldPrisoner.rulePack.rulesStrings.9>desc_sentence->[seller_nameShortDef] reluctantly hands [prisoner_nameShortDef] over to the trader.</SoldPrisoner.rulePack.rulesStrings.9>
+	<SoldPrisoner.rulePack.rulesStrings>
+		<li>tale_noun->the selling of [prisoner_nameShortDef] to a trader</li>
+		<li>image->[trader_nameFull] buying [prisoner_nameFull] from [seller_nameFull] [circumstance_group]</li>
+		<li>desc_sentence->[prisoner_nameShortDef] stares defiantly at [prisoner_possessive] new master.</li>
+		<li>desc_sentence->[trader_nameShortDef] drags [prisoner_nameShortDef] away by [prisoner_possessive] chains.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] stares at [seller_nameShortDef], plotting [prisoner_possessive] revenge.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] is crying.</li>
+		<li>desc_sentence->[prisoner_nameShortDef] is spitting in [seller_nameShortDef]'s face.</li>
+		<li>desc_sentence->[Prisoner_nameShortDef] is melting into the ground.</li>
+		<li>desc_sentence->[Seller_nameShortDef] is thrusting the chains of [prisoner_nameShortDef] into [trader_nameShortDef]'s hands.</li>
+		<li>desc_sentence->An air of hopelessness pervades the situation.</li>
+		<li>circumstance_phrase->as the other colonists look on in disapproval</li>
+		<li>circumstance_phrase->while [seller_nameShortDef] counts [trader_possessive] money</li>
+		<li>circumstance_phrase->while [prisoner_nameShortDef] moans plaintively</li>
+		<li>circumstance_phrase->to [prisoner_nameShortDef]'s chagrin</li>
+		<li>desc_sentence->[trader_nameShortDef] is smiling devilishly.</li>
+		<li>desc_sentence->[seller_nameShortDef] is laughing maniacally.</li>
+		<li>desc_sentence->[seller_nameShortDef] reluctantly hands [prisoner_nameShortDef] over to the trader.</li>
+	</SoldPrisoner.rulePack.rulesStrings>
     <TamedAnimal.label>animal tamed</TamedAnimal.label>
-    <TamedAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef]'s taming of [animal_nameShortDef]</TamedAnimal.rulePack.rulesStrings.0>
-    <TamedAnimal.rulePack.rulesStrings.1>image->[human_nameFull] taming [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.1>
-    <TamedAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] appears to be in some sort of hypnotic state.</TamedAnimal.rulePack.rulesStrings.10>
-    <TamedAnimal.rulePack.rulesStrings.11>desc_sentence->[animal_nameShortDef] looks scared but interested.</TamedAnimal.rulePack.rulesStrings.11>
-    <TamedAnimal.rulePack.rulesStrings.12>desc_sentence->[animal_nameShortDef] appears fascinated.</TamedAnimal.rulePack.rulesStrings.12>
-    <TamedAnimal.rulePack.rulesStrings.13>desc_sentence->[human_nameShortDef] is projecting a powerful sense of love towards [animal_nameShortDef].</TamedAnimal.rulePack.rulesStrings.13>
-    <TamedAnimal.rulePack.rulesStrings.2>image->[human_nameFull] offering a morsel of food to [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.2>
-    <TamedAnimal.rulePack.rulesStrings.3>image->[human_nameFull] whispering to a skittish [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.3>
-    <TamedAnimal.rulePack.rulesStrings.4>image->[human_nameFull] calming a wild [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.4>
-    <TamedAnimal.rulePack.rulesStrings.5>circumstance_phrase->with great care and caution</TamedAnimal.rulePack.rulesStrings.5>
-    <TamedAnimal.rulePack.rulesStrings.6>circumstance_phrase->with a smile</TamedAnimal.rulePack.rulesStrings.6>
-    <TamedAnimal.rulePack.rulesStrings.7>circumstance_phrase->while exhausted but happy</TamedAnimal.rulePack.rulesStrings.7>
-    <TamedAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] is snarling aggressively.</TamedAnimal.rulePack.rulesStrings.8>
-    <TamedAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] looks sleepy and drunk with love.</TamedAnimal.rulePack.rulesStrings.9>
+	<TamedAnimal.rulePack.rulesStrings>
+		<li>tale_noun->[human_nameShortDef]'s taming of [animal_nameShortDef]</li>
+		<li>image->[human_nameFull] taming [animal_nameFull] [circumstance_group]</li>
+		<li>desc_sentence->[animal_nameShortDef] appears to be in some sort of hypnotic state.</li>
+		<li>desc_sentence->[animal_nameShortDef] looks scared but interested.</li>
+		<li>desc_sentence->[animal_nameShortDef] appears fascinated.</li>
+		<li>desc_sentence->[human_nameShortDef] is projecting a powerful sense of love towards [animal_nameShortDef].</li>
+		<li>image->[human_nameFull] offering a morsel of food to [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] whispering to a skittish [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] calming a wild [animal_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->with great care and caution</li>
+		<li>circumstance_phrase->with a smile</li>
+		<li>circumstance_phrase->while exhausted but happy</li>
+		<li>desc_sentence->[animal_nameShortDef] is snarling aggressively.</li>
+		<li>desc_sentence->[animal_nameShortDef] looks sleepy and drunk with love.</li>
+	</TamedAnimal.rulePack.rulesStrings>
     <TradedWith.label>traded with someone</TradedWith.label>
-    <TradedWith.rulePack.rulesStrings.0>tale_noun->a trade between [seller_nameFull] and [buyer_nameFull]</TradedWith.rulePack.rulesStrings.0>
-    <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull] buying goods from [seller_nameFull] [circumstance_group]</TradedWith.rulePack.rulesStrings.1>
-    <TradedWith.rulePack.rulesStrings.10>desc_sentence->[buyer_nameShortDef] pays for the item.</TradedWith.rulePack.rulesStrings.10>
-    <TradedWith.rulePack.rulesStrings.11>desc_sentence->[seller_nameShortDef] is counting [seller_possessive] money.</TradedWith.rulePack.rulesStrings.11>
-    <TradedWith.rulePack.rulesStrings.12>desc_sentence->[buyer_nameShortDef] is taking [buyer_possessive] goods.</TradedWith.rulePack.rulesStrings.12>
-    <TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull] selling goods to [buyer_nameFull] [circumstance_group]</TradedWith.rulePack.rulesStrings.2>
-    <TradedWith.rulePack.rulesStrings.3>circumstance_phrase->with greedy intent</TradedWith.rulePack.rulesStrings.3>
-    <TradedWith.rulePack.rulesStrings.4>circumstance_phrase->while [seller_nameShortDef] smirks at [buyer_shortNameDef]</TradedWith.rulePack.rulesStrings.4>
-    <TradedWith.rulePack.rulesStrings.5>desc_sentence->[buyer_nameShortDef] is examining [seller_nameShortDef]'s wares.</TradedWith.rulePack.rulesStrings.5>
-    <TradedWith.rulePack.rulesStrings.6>desc_sentence->[seller_nameShortDef] considers an item.</TradedWith.rulePack.rulesStrings.6>
-    <TradedWith.rulePack.rulesStrings.7>desc_sentence->[seller_nameShortDef] starts haggling.</TradedWith.rulePack.rulesStrings.7>
-    <TradedWith.rulePack.rulesStrings.8>desc_sentence->[buyer_nameShortDef] argues with [seller_nameShortDef].</TradedWith.rulePack.rulesStrings.8>
-    <TradedWith.rulePack.rulesStrings.9>desc_sentence->[seller_nameShortDef] and [buyer_nameShortDef] agree on a price.</TradedWith.rulePack.rulesStrings.9>
+	<TradedWith.rulePack.rulesStrings>
+		<li>tale_noun->a trade between [seller_nameFull] and [buyer_nameFull]</li>
+		<li>image->[buyer_nameFull] buying goods from [seller_nameFull] [circumstance_group]</li>
+		<li>desc_sentence->[buyer_nameShortDef] pays for the item.</li>
+		<li>desc_sentence->[seller_nameShortDef] is counting [seller_possessive] money.</li>
+		<li>desc_sentence->[buyer_nameShortDef] is taking [buyer_possessive] goods.</li>
+		<li>image->[seller_nameFull] selling goods to [buyer_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->with greedy intent</li>
+		<li>circumstance_phrase->while [seller_nameShortDef] smirks at [buyer_shortNameDef]</li>
+		<li>desc_sentence->[buyer_nameShortDef] is examining [seller_nameShortDef]'s wares.</li>
+		<li>desc_sentence->[seller_nameShortDef] considers an item.</li>
+		<li>desc_sentence->[seller_nameShortDef] starts haggling.</li>
+		<li>desc_sentence->[buyer_nameShortDef] argues with [seller_nameShortDef].</li>
+		<li>desc_sentence->[seller_nameShortDef] and [buyer_nameShortDef] agree on a price.</li>
+	</TradedWith.rulePack.rulesStrings>
     <TrainedAnimal.label>animal trained</TrainedAnimal.label>
-    <TrainedAnimal.rulePack.rulesStrings.0>tale_noun->the training of [animal_nameShortDef]</TrainedAnimal.rulePack.rulesStrings.0>
-    <TrainedAnimal.rulePack.rulesStrings.1>image->[human_nameFull] [train_syn] [animal_nameFull] in [trainable_label] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.1>
-    <TrainedAnimal.rulePack.rulesStrings.10>circumstance_phrase->as wild [animal]s look on in disgust</TrainedAnimal.rulePack.rulesStrings.10>
-    <TrainedAnimal.rulePack.rulesStrings.11>circumstance_phrase->as [animal_nameShortDef] thinks of the simpler days when [animal_pronoun] was a feral beast</TrainedAnimal.rulePack.rulesStrings.11>
-    <TrainedAnimal.rulePack.rulesStrings.12>circumstance_phrase->as [human_nameShortDef] thinks of what's for lunch</TrainedAnimal.rulePack.rulesStrings.12>
-    <TrainedAnimal.rulePack.rulesStrings.13>circumstance_phrase->as the other colonists do actual work</TrainedAnimal.rulePack.rulesStrings.13>
-    <TrainedAnimal.rulePack.rulesStrings.14>desc_sentence->[human_nameShortDef] is showing pleasure.</TrainedAnimal.rulePack.rulesStrings.14>
-    <TrainedAnimal.rulePack.rulesStrings.15>desc_sentence->[human_nameShortDef] is smiling.</TrainedAnimal.rulePack.rulesStrings.15>
-    <TrainedAnimal.rulePack.rulesStrings.16>desc_sentence->[human_nameShortDef] looks bored.</TrainedAnimal.rulePack.rulesStrings.16>
-    <TrainedAnimal.rulePack.rulesStrings.17>desc_sentence->[human_nameShortDef] is threateningly brandishing [human_possessive] fist.</TrainedAnimal.rulePack.rulesStrings.17>
-    <TrainedAnimal.rulePack.rulesStrings.18>desc_sentence->[human_nameShortDef] is wrinkling [human_possessive] brow in concentration.</TrainedAnimal.rulePack.rulesStrings.18>
-    <TrainedAnimal.rulePack.rulesStrings.19>desc_sentence->[animal_nameShortDef] looks puzzled.</TrainedAnimal.rulePack.rulesStrings.19>
-    <TrainedAnimal.rulePack.rulesStrings.2>image->[human_nameFull] teaching [trainable_label] to [animal_nameFull] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.2>
-    <TrainedAnimal.rulePack.rulesStrings.20>desc_sentence->[animal_nameShortDef] has a weapon in [animal_possessive] mouth.</TrainedAnimal.rulePack.rulesStrings.20>
-    <TrainedAnimal.rulePack.rulesStrings.21>desc_sentence->[animal_nameShortDef] is emitting effortful grunts.</TrainedAnimal.rulePack.rulesStrings.21>
-    <TrainedAnimal.rulePack.rulesStrings.22>desc_sentence->[human_nameShortDef] is shaking [human_possessive] head is frustration.</TrainedAnimal.rulePack.rulesStrings.22>
-    <TrainedAnimal.rulePack.rulesStrings.23>desc_sentence->[animal_nameShortDef] is trembling in fear.</TrainedAnimal.rulePack.rulesStrings.23>
-    <TrainedAnimal.rulePack.rulesStrings.24>desc_sentence->[animal_nameShortDef] appears to be morphing into a [vegetable].</TrainedAnimal.rulePack.rulesStrings.24>
-    <TrainedAnimal.rulePack.rulesStrings.25>desc_sentence->[animal_nameShortDef] is represented as a pile of power tools.</TrainedAnimal.rulePack.rulesStrings.25>
-    <TrainedAnimal.rulePack.rulesStrings.26>desc_sentence->[animal_nameShortDef] is half [color] and half [color].</TrainedAnimal.rulePack.rulesStrings.26>
-    <TrainedAnimal.rulePack.rulesStrings.27>desc_sentence->[animal_nameShortDef] is covered in scales.</TrainedAnimal.rulePack.rulesStrings.27>
-    <TrainedAnimal.rulePack.rulesStrings.28>desc_sentence->[human_nameShortDef] is depicted with [quantity] arms.</TrainedAnimal.rulePack.rulesStrings.28>
-    <TrainedAnimal.rulePack.rulesStrings.29>desc_sentence->[human_nameShortDef] is morphing into [animal_ShortDefinite].</TrainedAnimal.rulePack.rulesStrings.29>
-    <TrainedAnimal.rulePack.rulesStrings.3>image->[human_nameFull] practicing [trainable_label] with [animal_nameFull] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.3>
-    <TrainedAnimal.rulePack.rulesStrings.4>train_syn->training</TrainedAnimal.rulePack.rulesStrings.4>
-    <TrainedAnimal.rulePack.rulesStrings.5>train_syn->drilling</TrainedAnimal.rulePack.rulesStrings.5>
-    <TrainedAnimal.rulePack.rulesStrings.6>train_syn->coaching</TrainedAnimal.rulePack.rulesStrings.6>
-    <TrainedAnimal.rulePack.rulesStrings.7>train_syn->indoctrinating</TrainedAnimal.rulePack.rulesStrings.7>
-    <TrainedAnimal.rulePack.rulesStrings.8>train_syn->educating</TrainedAnimal.rulePack.rulesStrings.8>
-    <TrainedAnimal.rulePack.rulesStrings.9>circumstance_phrase->as others look on</TrainedAnimal.rulePack.rulesStrings.9>
+	<TrainedAnimal.rulePack.rulesStrings>
+		<li>tale_noun->the training of [animal_nameShortDef]</li>
+		<li>image->[human_nameFull] [train_syn] [animal_nameFull] in [trainable_label] [circumstance_group]</li>
+		<li>circumstance_phrase->as wild [animal]s look on in disgust</li>
+		<li>circumstance_phrase->as [animal_nameShortDef] thinks of the simpler days when [animal_pronoun] was a feral beast</li>
+		<li>circumstance_phrase->as [human_nameShortDef] thinks of what's for lunch</li>
+		<li>circumstance_phrase->as the other colonists do actual work</li>
+		<li>desc_sentence->[human_nameShortDef] is showing pleasure.</li>
+		<li>desc_sentence->[human_nameShortDef] is smiling.</li>
+		<li>desc_sentence->[human_nameShortDef] looks bored.</li>
+		<li>desc_sentence->[human_nameShortDef] is threateningly brandishing [human_possessive] fist.</li>
+		<li>desc_sentence->[human_nameShortDef] is wrinkling [human_possessive] brow in concentration.</li>
+		<li>desc_sentence->[animal_nameShortDef] looks puzzled.</li>
+		<li>image->[human_nameFull] teaching [trainable_label] to [animal_nameFull] [circumstance_group]</li>
+		<li>desc_sentence->[animal_nameShortDef] has a weapon in [animal_possessive] mouth.</li>
+		<li>desc_sentence->[animal_nameShortDef] is emitting effortful grunts.</li>
+		<li>desc_sentence->[human_nameShortDef] is shaking [human_possessive] head is frustration.</li>
+		<li>desc_sentence->[animal_nameShortDef] is trembling in fear.</li>
+		<li>desc_sentence->[animal_nameShortDef] appears to be morphing into a [vegetable].</li>
+		<li>desc_sentence->[animal_nameShortDef] is represented as a pile of power tools.</li>
+		<li>desc_sentence->[animal_nameShortDef] is half [color] and half [color].</li>
+		<li>desc_sentence->[animal_nameShortDef] is covered in scales.</li>
+		<li>desc_sentence->[human_nameShortDef] is depicted with [quantity] arms.</li>
+		<li>desc_sentence->[human_nameShortDef] is morphing into [animal_ShortDefinite].</li>
+		<li>image->[human_nameFull] practicing [trainable_label] with [animal_nameFull] [circumstance_group]</li>
+		<li>train_syn->training</li>
+		<li>train_syn->drilling</li>
+		<li>train_syn->coaching</li>
+		<li>train_syn->indoctrinating</li>
+		<li>train_syn->educating</li>
+		<li>circumstance_phrase->as others look on</li>
+	</TrainedAnimal.rulePack.rulesStrings>
 
 DefInjected\TaleDef\Tales_DoublePawn_Relationships.xml
     <BecameLover.label>became lover</BecameLover.label>
-    <BecameLover.rulePack.rulesStrings.0>tale_noun->[firstPawn_nameShortDef] and [secondPawn_nameShortDef] becoming lovers</BecameLover.rulePack.rulesStrings.0>
-    <BecameLover.rulePack.rulesStrings.1>image->[firstPawn_nameFull] whispering sweet nothings into [secondPawn_nameFull]'s ear [circumstance_group]</BecameLover.rulePack.rulesStrings.1>
-    <BecameLover.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] is locking eyes with [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.10>
-    <BecameLover.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] is blowing air at [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.11>
-    <BecameLover.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] is stylistically bonded with [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.12>
-    <BecameLover.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] is a near-mirror image of [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.13>
-    <BecameLover.rulePack.rulesStrings.14>desc_sentence->[firstPawn_nameShortDef] is touching [secondPawn_nameShortDef] aggressively.</BecameLover.rulePack.rulesStrings.14>
-    <BecameLover.rulePack.rulesStrings.2>image->[firstPawn_nameFull] leading [secondPawn_nameFull] by the hand into bed [circumstance_group]</BecameLover.rulePack.rulesStrings.2>
-    <BecameLover.rulePack.rulesStrings.3>image->[firstPawn_nameFull] gambolling in bed with [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.3>
-    <BecameLover.rulePack.rulesStrings.4>image->[firstPawn_nameFull] deeply kissing [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.4>
-    <BecameLover.rulePack.rulesStrings.5>circumstance_phrase->in an unrealistically large bed</BecameLover.rulePack.rulesStrings.5>
-    <BecameLover.rulePack.rulesStrings.6>circumstance_phrase->between the sheets</BecameLover.rulePack.rulesStrings.6>
-    <BecameLover.rulePack.rulesStrings.7>circumstance_phrase->with few clothes in sight</BecameLover.rulePack.rulesStrings.7>
-    <BecameLover.rulePack.rulesStrings.8>circumstance_phrase->while both are drenched in sweat</BecameLover.rulePack.rulesStrings.8>
-    <BecameLover.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] is snuggling up against [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.9>
+	<BecameLover.rulePack.rulesStrings>
+		<li>tale_noun->[firstPawn_nameShortDef] and [secondPawn_nameShortDef] becoming lovers</li>
+		<li>image->[firstPawn_nameFull] whispering sweet nothings into [secondPawn_nameFull]'s ear [circumstance_group]</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is locking eyes with [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is blowing air at [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is stylistically bonded with [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is a near-mirror image of [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is touching [secondPawn_nameShortDef] aggressively.</li>
+		<li>image->[firstPawn_nameFull] leading [secondPawn_nameFull] by the hand into bed [circumstance_group]</li>
+		<li>image->[firstPawn_nameFull] gambolling in bed with [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image->[firstPawn_nameFull] deeply kissing [secondPawn_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->in an unrealistically large bed</li>
+		<li>circumstance_phrase->between the sheets</li>
+		<li>circumstance_phrase->with few clothes in sight</li>
+		<li>circumstance_phrase->while both are drenched in sweat</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is snuggling up against [secondPawn_nameShortDef].</li>
+	</BecameLover.rulePack.rulesStrings>
     <BondedWithAnimal.label>bond developed</BondedWithAnimal.label>
-    <BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef]'s bonding with [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
-    <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] bonding with [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
-    <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] is responding positively.</BondedWithAnimal.rulePack.rulesStrings.10>
-    <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] forming a deep bond with [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
-    <BondedWithAnimal.rulePack.rulesStrings.3>image->[human_nameFull] realizing [human_possessive] truly loves [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.3>
-    <BondedWithAnimal.rulePack.rulesStrings.4>circumstance_phrase->while other animals look on</BondedWithAnimal.rulePack.rulesStrings.4>
-    <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->while looking into [animal_nameShortDef]'s eyes</BondedWithAnimal.rulePack.rulesStrings.5>
-    <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase->with a sense of satisfaction</BondedWithAnimal.rulePack.rulesStrings.6>
-    <BondedWithAnimal.rulePack.rulesStrings.7>desc_sentence->[animal_nameShortDef] is snuggling up against [human_nameShortDef].</BondedWithAnimal.rulePack.rulesStrings.7>
-    <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] looks sleepy and drunk with love.</BondedWithAnimal.rulePack.rulesStrings.8>
-    <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] stands tall and looks noble.</BondedWithAnimal.rulePack.rulesStrings.9>
+	<BondedWithAnimal.rulePack.rulesStrings>
+		<li>tale_noun->[human_nameShortDef]'s bonding with [animal_nameShortDef]</li>
+		<li>image->[human_nameFull] bonding with [animal_nameFull] [circumstance_group]</li>
+		<li>desc_sentence->[animal_nameShortDef] is responding positively.</li>
+		<li>image->[human_nameFull] forming a deep bond with [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] realizing [human_possessive] truly loves [animal_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->while other animals look on</li>
+		<li>circumstance_phrase->while looking into [animal_nameShortDef]'s eyes</li>
+		<li>circumstance_phrase->with a sense of satisfaction</li>
+		<li>desc_sentence->[animal_nameShortDef] is snuggling up against [human_nameShortDef].</li>
+		<li>desc_sentence->[animal_nameShortDef] looks sleepy and drunk with love.</li>
+		<li>desc_sentence->[animal_nameShortDef] stands tall and looks noble.</li>
+	</BondedWithAnimal.rulePack.rulesStrings>
     <Breakup.label>breakup</Breakup.label>
-    <Breakup.rulePack.rulesStrings.0>tale_noun->the breakup of [firstPawn_nameShortDef] and [secondPawn_nameShortDef]</Breakup.rulePack.rulesStrings.0>
-    <Breakup.rulePack.rulesStrings.1>image->[firstPawn_nameFull] sitting [secondPawn_nameFull] down for an unpleasant talk [circumstance_group]</Breakup.rulePack.rulesStrings.1>
-    <Breakup.rulePack.rulesStrings.10>desc_sentence->[secondPawn_nameShortDef] is stony-faced with shock.</Breakup.rulePack.rulesStrings.10>
-    <Breakup.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] is stylistically separated from [secondPawn_nameShortDef].</Breakup.rulePack.rulesStrings.11>
-    <Breakup.rulePack.rulesStrings.12>desc_sentence->[secondPawn_nameShortDef] has collapsed on the floor in a quivering heap.</Breakup.rulePack.rulesStrings.12>
-    <Breakup.rulePack.rulesStrings.13>desc_sentence->[secondPawn_nameShortDef] is gesticulating angrily at [firstPawn_nameShortDef].</Breakup.rulePack.rulesStrings.13>
-    <Breakup.rulePack.rulesStrings.2>image->[firstPawn_nameFull] standing at a distance from [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.2>
-    <Breakup.rulePack.rulesStrings.3>image->[firstPawn_nameFull] pushing [secondPawn_nameFull] out of bed [circumstance_group]</Breakup.rulePack.rulesStrings.3>
-    <Breakup.rulePack.rulesStrings.4>image->[firstPawn_nameFull] rejecting a hug from [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.4>
-    <Breakup.rulePack.rulesStrings.5>circumstance_phrase->in a moment of great sadness</Breakup.rulePack.rulesStrings.5>
-    <Breakup.rulePack.rulesStrings.6>circumstance_phrase->as others look away awkwardly</Breakup.rulePack.rulesStrings.6>
-    <Breakup.rulePack.rulesStrings.7>circumstance_phrase->as others look on</Breakup.rulePack.rulesStrings.7>
-    <Breakup.rulePack.rulesStrings.8>desc_sentence->[secondPawn_nameShortDef] is sobbing uncontrollably.</Breakup.rulePack.rulesStrings.8>
-    <Breakup.rulePack.rulesStrings.9>desc_sentence->[secondPawn_nameShortDef] is sneering and crying at the same time.</Breakup.rulePack.rulesStrings.9>
+	<Breakup.rulePack.rulesStrings>
+		<li>tale_noun->the breakup of [firstPawn_nameShortDef] and [secondPawn_nameShortDef]</li>
+		<li>image->[firstPawn_nameFull] sitting [secondPawn_nameFull] down for an unpleasant talk [circumstance_group]</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] is stony-faced with shock.</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is stylistically separated from [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] has collapsed on the floor in a quivering heap.</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] is gesticulating angrily at [firstPawn_nameShortDef].</li>
+		<li>image->[firstPawn_nameFull] standing at a distance from [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image->[firstPawn_nameFull] pushing [secondPawn_nameFull] out of bed [circumstance_group]</li>
+		<li>image->[firstPawn_nameFull] rejecting a hug from [secondPawn_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->in a moment of great sadness</li>
+		<li>circumstance_phrase->as others look away awkwardly</li>
+		<li>circumstance_phrase->as others look on</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] is sobbing uncontrollably.</li>
+		<li>desc_sentence->[secondPawn_nameShortDef] is sneering and crying at the same time.</li>
+	</Breakup.rulePack.rulesStrings>
     <Marriage.label>marriage</Marriage.label>
-    <Marriage.rulePack.rulesStrings.0>tale_noun->the marriage of [firstPawn_nameShortDef] and [secondPawn_nameShortDef]</Marriage.rulePack.rulesStrings.0>
-    <Marriage.rulePack.rulesStrings.1>image->[firstPawn_nameFull] marrying [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.1>
-    <Marriage.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] is blowing air at [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.10>
-    <Marriage.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] is stylistically bonded with [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.11>
-    <Marriage.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] is a near-mirror image of [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.12>
-    <Marriage.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] is touching [secondPawn_nameShortDef] aggressively.</Marriage.rulePack.rulesStrings.13>
-    <Marriage.rulePack.rulesStrings.2>image->[firstPawn_nameFull] saying [firstPawn_possessive] marriage vows to [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.2>
-    <Marriage.rulePack.rulesStrings.3>image->[firstPawn_nameFull] walking down the aisle with [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.3>
-    <Marriage.rulePack.rulesStrings.4>image->[firstPawn_nameFull] holding hands [secondPawn_nameFull] during a marriage ceremony [circumstance_group]</Marriage.rulePack.rulesStrings.4>
-    <Marriage.rulePack.rulesStrings.5>circumstance_phrase->in a dignified ceremony</Marriage.rulePack.rulesStrings.5>
-    <Marriage.rulePack.rulesStrings.6>circumstance_phrase->while both laugh gaily</Marriage.rulePack.rulesStrings.6>
-    <Marriage.rulePack.rulesStrings.7>circumstance_phrase->while others look on solemnly</Marriage.rulePack.rulesStrings.7>
-    <Marriage.rulePack.rulesStrings.8>desc_sentence->[firstPawn_nameShortDef] is snuggling up against [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.8>
-    <Marriage.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] is locking eyes with [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.9>
+	<Marriage.rulePack.rulesStrings>
+		<li>tale_noun->the marriage of [firstPawn_nameShortDef] and [secondPawn_nameShortDef]</li>
+		<li>image->[firstPawn_nameFull] marrying [secondPawn_nameFull] [circumstance_group]</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is blowing air at [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is stylistically bonded with [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is a near-mirror image of [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is touching [secondPawn_nameShortDef] aggressively.</li>
+		<li>image->[firstPawn_nameFull] saying [firstPawn_possessive] marriage vows to [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image->[firstPawn_nameFull] walking down the aisle with [secondPawn_nameFull] [circumstance_group]</li>
+		<li>image->[firstPawn_nameFull] holding hands [secondPawn_nameFull] during a marriage ceremony [circumstance_group]</li>
+		<li>circumstance_phrase->in a dignified ceremony</li>
+		<li>circumstance_phrase->while both laugh gaily</li>
+		<li>circumstance_phrase->while others look on solemnly</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is snuggling up against [secondPawn_nameShortDef].</li>
+		<li>desc_sentence->[firstPawn_nameShortDef] is locking eyes with [secondPawn_nameShortDef].</li>
+	</Marriage.rulePack.rulesStrings>
 
 DefInjected\TaleDef\Tales_NoPawn.xml
     <RaidArrived.label>raid arrived</RaidArrived.label>
 
 DefInjected\TaleDef\Tales_SinglePawn.xml
     <AteRawHumanlikeMeat.label>raw humanlike meat eaten</AteRawHumanlikeMeat.label>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s eating of human meat</AteRawHumanlikeMeat.rulePack.rulesStrings.0>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.1>image->[pawn_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.1>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund->cannibalizing</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.11>circumstance_phrase->with a sense of purpose</AteRawHumanlikeMeat.rulePack.rulesStrings.11>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.12>circumstance_phrase->with no hint of shame</AteRawHumanlikeMeat.rulePack.rulesStrings.12>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.13>circumstance_phrase->with a look of shame</AteRawHumanlikeMeat.rulePack.rulesStrings.13>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.14>circumstance_phrase->while others look on</AteRawHumanlikeMeat.rulePack.rulesStrings.14>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.15>circumstance_phrase->with gusto</AteRawHumanlikeMeat.rulePack.rulesStrings.15>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.16>circumstance_phrase->frantically, like [pawn_possessive] life depended on it</AteRawHumanlikeMeat.rulePack.rulesStrings.16>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.17>desc_sentence->[pawn_nameShortDef]'s face is covered with blood and fluid.</AteRawHumanlikeMeat.rulePack.rulesStrings.17>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.18>desc_sentence->[pawn_nameShortDef] is licking [pawn_possessive] fingers.</AteRawHumanlikeMeat.rulePack.rulesStrings.18>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] has blood and gore bits all down [pawn_possessive] front.</AteRawHumanlikeMeat.rulePack.rulesStrings.19>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.2>image->[pawn_nameFull] [eat_gerund] meat from a humanlike arm [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.2>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] is in the middle of a large pool of blood.</AteRawHumanlikeMeat.rulePack.rulesStrings.20>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] is eyeing someone else nearby with dark interest.</AteRawHumanlikeMeat.rulePack.rulesStrings.21>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.22>desc_sentence->The meat is glistening and appears very succulent.</AteRawHumanlikeMeat.rulePack.rulesStrings.22>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.23>desc_sentence->The meat is spilling all over [pawn_nameShortDef]'s body.</AteRawHumanlikeMeat.rulePack.rulesStrings.23>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.3>image->[pawn_nameFull] [eat_gerund] flesh of a humanoid [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.3>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.4>eat_gerund->eating</AteRawHumanlikeMeat.rulePack.rulesStrings.4>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.5>eat_gerund->ingesting</AteRawHumanlikeMeat.rulePack.rulesStrings.5>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.6>eat_gerund->chewing</AteRawHumanlikeMeat.rulePack.rulesStrings.6>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.7>eat_gerund->chowing down on</AteRawHumanlikeMeat.rulePack.rulesStrings.7>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.8>eat_gerund->consuming</AteRawHumanlikeMeat.rulePack.rulesStrings.8>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.9>eat_gerund->swallowing</AteRawHumanlikeMeat.rulePack.rulesStrings.9>
+	<AteRawHumanlikeMeat.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef]'s eating of human meat</li>
+		<li>image->[pawn_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</li>
+		<li>eat_gerund->cannibalizing</li>
+		<li>circumstance_phrase->with a sense of purpose</li>
+		<li>circumstance_phrase->with no hint of shame</li>
+		<li>circumstance_phrase->with a look of shame</li>
+		<li>circumstance_phrase->while others look on</li>
+		<li>circumstance_phrase->with gusto</li>
+		<li>circumstance_phrase->frantically, like [pawn_possessive] life depended on it</li>
+		<li>desc_sentence->[pawn_nameShortDef]'s face is covered with blood and fluid.</li>
+		<li>desc_sentence->[pawn_nameShortDef] is licking [pawn_possessive] fingers.</li>
+		<li>desc_sentence->[pawn_nameShortDef] has blood and gore bits all down [pawn_possessive] front.</li>
+		<li>image->[pawn_nameFull] [eat_gerund] meat from a humanlike arm [circumstance_group]</li>
+		<li>desc_sentence->[pawn_nameShortDef] is in the middle of a large pool of blood.</li>
+		<li>desc_sentence->[pawn_nameShortDef] is eyeing someone else nearby with dark interest.</li>
+		<li>desc_sentence->The meat is glistening and appears very succulent.</li>
+		<li>desc_sentence->The meat is spilling all over [pawn_nameShortDef]'s body.</li>
+		<li>image->[pawn_nameFull] [eat_gerund] flesh of a humanoid [circumstance_group]</li>
+		<li>eat_gerund->eating</li>
+		<li>eat_gerund->ingesting</li>
+		<li>eat_gerund->chewing</li>
+		<li>eat_gerund->chowing down on</li>
+		<li>eat_gerund->consuming</li>
+		<li>eat_gerund->swallowing</li>
+	</AteRawHumanlikeMeat.rulePack.rulesStrings>
     <ButcheredHumanlikeCorpse.label>humanlike corpse butchered</ButcheredHumanlikeCorpse.label>
     <CraftedArt.label>art crafted</CraftedArt.label>
     <Drunk.label>drunk</Drunk.label>
-    <Drunk.rulePack.rulesStrings.28>desc_sentence->[pawn_possessive] hair is totally mussed up.</Drunk.rulePack.rulesStrings.28>
+		<li>desc_sentence->[pawn_possessive] hair is totally mussed up.</li>
     <FinishedResearchProject.label>research project finished</FinishedResearchProject.label>
-    <FinishedResearchProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] finishing research on [project_label]</FinishedResearchProject.rulePack.rulesStrings.0>
-    <FinishedResearchProject.rulePack.rulesStrings.1>image->[pawn_nameFull] working on [project_label] research project [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.1>
-    <FinishedResearchProject.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] is completely surrounded by an array of tools and apparatuses.</FinishedResearchProject.rulePack.rulesStrings.10>
-    <FinishedResearchProject.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] is staring at [pawn_possessive] discovery with a sense of wonder.</FinishedResearchProject.rulePack.rulesStrings.11>
-    <FinishedResearchProject.rulePack.rulesStrings.2>image->[pawn_nameFull] studying the secrets of [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.2>
-    <FinishedResearchProject.rulePack.rulesStrings.3>image->[pawn_nameFull] researching [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.3>
-    <FinishedResearchProject.rulePack.rulesStrings.4>circumstance_phrase->with great intensity</FinishedResearchProject.rulePack.rulesStrings.4>
-    <FinishedResearchProject.rulePack.rulesStrings.5>circumstance_phrase->alone at [pawn_possessive] bench</FinishedResearchProject.rulePack.rulesStrings.5>
-    <FinishedResearchProject.rulePack.rulesStrings.6>circumstance_phrase->while holding papers in [pawn_possessive] hand</FinishedResearchProject.rulePack.rulesStrings.6>
-    <FinishedResearchProject.rulePack.rulesStrings.7>circumstance_phrase->with a look of gleeful fascination</FinishedResearchProject.rulePack.rulesStrings.7>
-    <FinishedResearchProject.rulePack.rulesStrings.8>desc_sentence->[pawn_nameShortDef] is sweating.</FinishedResearchProject.rulePack.rulesStrings.8>
-    <FinishedResearchProject.rulePack.rulesStrings.9>desc_sentence->The work appears to be exceptionally complex.</FinishedResearchProject.rulePack.rulesStrings.9>
+	<FinishedResearchProject.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] finishing research on [project_label]</li>
+		<li>image->[pawn_nameFull] working on [project_label] research project [circumstance_group]</li>
+		<li>desc_sentence->[pawn_nameShortDef] is completely surrounded by an array of tools and apparatuses.</li>
+		<li>desc_sentence->[pawn_nameShortDef] is staring at [pawn_possessive] discovery with a sense of wonder.</li>
+		<li>image->[pawn_nameFull] studying the secrets of [project_label] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] researching [project_label] [circumstance_group]</li>
+		<li>circumstance_phrase->with great intensity</li>
+		<li>circumstance_phrase->alone at [pawn_possessive] bench</li>
+		<li>circumstance_phrase->while holding papers in [pawn_possessive] hand</li>
+		<li>circumstance_phrase->with a look of gleeful fascination</li>
+		<li>desc_sentence->[pawn_nameShortDef] is sweating.</li>
+		<li>desc_sentence->The work appears to be exceptionally complex.</li>
+	</FinishedResearchProject.rulePack.rulesStrings>
     <LandedInPod.label>landed in pod</LandedInPod.label>
-    <LandedInPod.rulePack.rulesStrings.20>desc_sentence->A [outlander] watches silently from afar.</LandedInPod.rulePack.rulesStrings.20>
+		<li>desc_sentence->A [outlander] watches silently from afar.</li>
     <MentalStateBerserk.label>berserk rage</MentalStateBerserk.label>
-    <MentalStateBerserk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] going berserk</MentalStateBerserk.rulePack.rulesStrings.0>
-    <MentalStateBerserk.rulePack.rulesStrings.1>image->[pawn_nameFull] flying into a berserk rage [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.1>
-    <MentalStateBerserk.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] is shaking with ungovernable rage.</MentalStateBerserk.rulePack.rulesStrings.10>
-    <MentalStateBerserk.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] teeth are bared in a deadly snarl.</MentalStateBerserk.rulePack.rulesStrings.11>
-    <MentalStateBerserk.rulePack.rulesStrings.12>desc_sentence->[pawn_possessive] eyes are dead pools of madness.</MentalStateBerserk.rulePack.rulesStrings.12>
-    <MentalStateBerserk.rulePack.rulesStrings.13>desc_sentence->Spittle is flying from [pawn_possessive] mouth as [pawn_possessive] screams with insane rage.</MentalStateBerserk.rulePack.rulesStrings.13>
-    <MentalStateBerserk.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] has lost part of [pawn_possessive] clothing.</MentalStateBerserk.rulePack.rulesStrings.14>
-    <MentalStateBerserk.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] is grimacing in misery.</MentalStateBerserk.rulePack.rulesStrings.15>
-    <MentalStateBerserk.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] seems smiling maniacally.</MentalStateBerserk.rulePack.rulesStrings.16>
-    <MentalStateBerserk.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] is depicted with the snarling face of a [animal].</MentalStateBerserk.rulePack.rulesStrings.17>
-    <MentalStateBerserk.rulePack.rulesStrings.18>desc_sentence->[animal]s symbolically surround [pawn_possessive] head.</MentalStateBerserk.rulePack.rulesStrings.18>
-    <MentalStateBerserk.rulePack.rulesStrings.19>desc_sentence->[pawn_pronoun] has a murderous glint in [pawn_possessive] eye.</MentalStateBerserk.rulePack.rulesStrings.19>
-    <MentalStateBerserk.rulePack.rulesStrings.2>image->[pawn_nameFull] becoming madly, violently insane [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.2>
-    <MentalStateBerserk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] entire body seems to be trembling with hatred.</MentalStateBerserk.rulePack.rulesStrings.20>
-    <MentalStateBerserk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] face is set in a look of twisted serenity.</MentalStateBerserk.rulePack.rulesStrings.21>
-    <MentalStateBerserk.rulePack.rulesStrings.22>desc_sentence->A single tear rolls down [pawn_possessive] face.</MentalStateBerserk.rulePack.rulesStrings.22>
-    <MentalStateBerserk.rulePack.rulesStrings.3>image->[pawn_nameFull] stumbling forward with a psychotic look on [pawn_possessive] face [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.3>
-    <MentalStateBerserk.rulePack.rulesStrings.4>circumstance_phrase->while attempting to disrobe</MentalStateBerserk.rulePack.rulesStrings.4>
-    <MentalStateBerserk.rulePack.rulesStrings.5>circumstance_phrase->seemingly without reason</MentalStateBerserk.rulePack.rulesStrings.5>
-    <MentalStateBerserk.rulePack.rulesStrings.6>circumstance_phrase->as others cower in fear</MentalStateBerserk.rulePack.rulesStrings.6>
-    <MentalStateBerserk.rulePack.rulesStrings.7>circumstance_phrase->as a friend flees</MentalStateBerserk.rulePack.rulesStrings.7>
-    <MentalStateBerserk.rulePack.rulesStrings.8>circumstance_phrase->because of the stress</MentalStateBerserk.rulePack.rulesStrings.8>
-    <MentalStateBerserk.rulePack.rulesStrings.9>circumstance_phrase->as a last step</MentalStateBerserk.rulePack.rulesStrings.9>
+	<MentalStateBerserk.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] going berserk</li>
+		<li>image->[pawn_nameFull] flying into a berserk rage [circumstance_group]</li>
+		<li>desc_sentence->[pawn_pronoun] is shaking with ungovernable rage.</li>
+		<li>desc_sentence->[pawn_possessive] teeth are bared in a deadly snarl.</li>
+		<li>desc_sentence->[pawn_possessive] eyes are dead pools of madness.</li>
+		<li>desc_sentence->Spittle is flying from [pawn_possessive] mouth as [pawn_possessive] screams with insane rage.</li>
+		<li>desc_sentence->[pawn_pronoun] has lost part of [pawn_possessive] clothing.</li>
+		<li>desc_sentence->[pawn_pronoun] is grimacing in misery.</li>
+		<li>desc_sentence->[pawn_pronoun] seems smiling maniacally.</li>
+		<li>desc_sentence->[pawn_pronoun] is depicted with the snarling face of a [animal].</li>
+		<li>desc_sentence->[animal]s symbolically surround [pawn_possessive] head.</li>
+		<li>desc_sentence->[pawn_pronoun] has a murderous glint in [pawn_possessive] eye.</li>
+		<li>image->[pawn_nameFull] becoming madly, violently insane [circumstance_group]</li>
+		<li>desc_sentence->[pawn_possessive] entire body seems to be trembling with hatred.</li>
+		<li>desc_sentence->[pawn_possessive] face is set in a look of twisted serenity.</li>
+		<li>desc_sentence->A single tear rolls down [pawn_possessive] face.</li>
+		<li>image->[pawn_nameFull] stumbling forward with a psychotic look on [pawn_possessive] face [circumstance_group]</li>
+		<li>circumstance_phrase->while attempting to disrobe</li>
+		<li>circumstance_phrase->seemingly without reason</li>
+		<li>circumstance_phrase->as others cower in fear</li>
+		<li>circumstance_phrase->as a friend flees</li>
+		<li>circumstance_phrase->because of the stress</li>
+		<li>circumstance_phrase->as a last step</li>
+	</MentalStateBerserk.rulePack.rulesStrings>
     <MentalStateGaveUp.label>gave up</MentalStateGaveUp.label>
-    <MentalStateGaveUp.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] giving up in despair</MentalStateGaveUp.rulePack.rulesStrings.0>
-    <MentalStateGaveUp.rulePack.rulesStrings.1>image->[pawn_nameFull] finally giving up under stress [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.1>
-    <MentalStateGaveUp.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] has tears streaming down [pawn_possessive] face.</MentalStateGaveUp.rulePack.rulesStrings.10>
-    <MentalStateGaveUp.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is laughing in the depths of [pawn_possessive] depression.</MentalStateGaveUp.rulePack.rulesStrings.11>
-    <MentalStateGaveUp.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] is looking upward, as if to ask for help from above.</MentalStateGaveUp.rulePack.rulesStrings.12>
-    <MentalStateGaveUp.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is tearing at [pawn_possessive] own clothes.</MentalStateGaveUp.rulePack.rulesStrings.13>
-    <MentalStateGaveUp.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</MentalStateGaveUp.rulePack.rulesStrings.14>
-    <MentalStateGaveUp.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</MentalStateGaveUp.rulePack.rulesStrings.15>
-    <MentalStateGaveUp.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</MentalStateGaveUp.rulePack.rulesStrings.16>
-    <MentalStateGaveUp.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] seems to have lost a shoe.</MentalStateGaveUp.rulePack.rulesStrings.17>
-    <MentalStateGaveUp.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] hair is totally mussed up.</MentalStateGaveUp.rulePack.rulesStrings.18>
-    <MentalStateGaveUp.rulePack.rulesStrings.2>image->[pawn_nameFull] sobbing uncontrollably [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.2>
-    <MentalStateGaveUp.rulePack.rulesStrings.3>image->[pawn_nameFull] stumbling around with a completely broken expression on [pawn_possessive] face [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.3>
-    <MentalStateGaveUp.rulePack.rulesStrings.4>circumstance_phrase->while attempting to disrobe</MentalStateGaveUp.rulePack.rulesStrings.4>
-    <MentalStateGaveUp.rulePack.rulesStrings.5>circumstance_phrase->seemingly without reason</MentalStateGaveUp.rulePack.rulesStrings.5>
-    <MentalStateGaveUp.rulePack.rulesStrings.6>circumstance_phrase->as others offer sympathy</MentalStateGaveUp.rulePack.rulesStrings.6>
-    <MentalStateGaveUp.rulePack.rulesStrings.7>circumstance_phrase->as a friend cries</MentalStateGaveUp.rulePack.rulesStrings.7>
-    <MentalStateGaveUp.rulePack.rulesStrings.8>circumstance_phrase->because of the stress</MentalStateGaveUp.rulePack.rulesStrings.8>
-    <MentalStateGaveUp.rulePack.rulesStrings.9>circumstance_phrase->as a last step</MentalStateGaveUp.rulePack.rulesStrings.9>
+	<MentalStateGaveUp.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] giving up in despair</li>
+		<li>image->[pawn_nameFull] finally giving up under stress [circumstance_group]</li>
+		<li>desc_sentence->[pawn_pronoun] has tears streaming down [pawn_possessive] face.</li>
+		<li>desc_sentence->[pawn_pronoun] is laughing in the depths of [pawn_possessive] depression.</li>
+		<li>desc_sentence->[pawn_nameShortDef] is looking upward, as if to ask for help from above.</li>
+		<li>desc_sentence->[pawn_pronoun] is tearing at [pawn_possessive] own clothes.</li>
+		<li>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</li>
+		<li>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</li>
+		<li>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</li>
+		<li>desc_sentence->[pawn_pronoun] seems to have lost a shoe.</li>
+		<li>desc_sentence->[pawn_possessive] hair is totally mussed up.</li>
+		<li>image->[pawn_nameFull] sobbing uncontrollably [circumstance_group]</li>
+		<li>image->[pawn_nameFull] stumbling around with a completely broken expression on [pawn_possessive] face [circumstance_group]</li>
+		<li>circumstance_phrase->while attempting to disrobe</li>
+		<li>circumstance_phrase->seemingly without reason</li>
+		<li>circumstance_phrase->as others offer sympathy</li>
+		<li>circumstance_phrase->as a friend cries</li>
+		<li>circumstance_phrase->because of the stress</li>
+		<li>circumstance_phrase->as a last step</li>
+	</MentalStateGaveUp.rulePack.rulesStrings>
     <StruckMineable.label>struck mineable</StruckMineable.label>
-    <StruckMineable.rulePack.rulesStrings.13>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</StruckMineable.rulePack.rulesStrings.13>
+		<li>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</li>
     <Vomited.label>vomited</Vomited.label>
-    <Vomited.rulePack.rulesStrings.16>desc_sentence->A [animal] is eating from the trail of vomit in the background.</Vomited.rulePack.rulesStrings.16>
+		<li>desc_sentence->A [animal] is eating from the trail of vomit in the background.</li>
     <WalkedNaked.label>walked naked</WalkedNaked.label>
-    <WalkedNaked.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] walking around naked</WalkedNaked.rulePack.rulesStrings.0>
-    <WalkedNaked.rulePack.rulesStrings.1>image->[pawn_nameFull] [nude_action] while in a state of nature [circumstance_group]</WalkedNaked.rulePack.rulesStrings.1>
-    <WalkedNaked.rulePack.rulesStrings.10>nude_action->sashaying</WalkedNaked.rulePack.rulesStrings.10>
-    <WalkedNaked.rulePack.rulesStrings.11>nude_action->tiptoeing</WalkedNaked.rulePack.rulesStrings.11>
-    <WalkedNaked.rulePack.rulesStrings.12>nude_action->promenading</WalkedNaked.rulePack.rulesStrings.12>
-    <WalkedNaked.rulePack.rulesStrings.13>nude_action->surveying the area</WalkedNaked.rulePack.rulesStrings.13>
-    <WalkedNaked.rulePack.rulesStrings.14>circumstance_phrase->with a sense of purpose</WalkedNaked.rulePack.rulesStrings.14>
-    <WalkedNaked.rulePack.rulesStrings.15>circumstance_phrase->with no hint of shame</WalkedNaked.rulePack.rulesStrings.15>
-    <WalkedNaked.rulePack.rulesStrings.16>circumstance_phrase->while others look on</WalkedNaked.rulePack.rulesStrings.16>
-    <WalkedNaked.rulePack.rulesStrings.17>circumstance_phrase->for no apparent reason</WalkedNaked.rulePack.rulesStrings.17>
-    <WalkedNaked.rulePack.rulesStrings.18>circumstance_phrase->while confused animals look on</WalkedNaked.rulePack.rulesStrings.18>
-    <WalkedNaked.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] is visibly aroused.</WalkedNaked.rulePack.rulesStrings.19>
-    <WalkedNaked.rulePack.rulesStrings.2>image->[pawn_nameFull] [nude_action] in the nude [circumstance_group]</WalkedNaked.rulePack.rulesStrings.2>
-    <WalkedNaked.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] is covered in unexplained moisture.</WalkedNaked.rulePack.rulesStrings.20>
-    <WalkedNaked.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] is breathing heavily for no obvious reason.</WalkedNaked.rulePack.rulesStrings.21>
-    <WalkedNaked.rulePack.rulesStrings.22>desc_sentence->[pawn_nameShortDef] is fondling a shrub.</WalkedNaked.rulePack.rulesStrings.22>
-    <WalkedNaked.rulePack.rulesStrings.3>image->[pawn_nameFull] [nude_action], naked, [circumstance_group]</WalkedNaked.rulePack.rulesStrings.3>
-    <WalkedNaked.rulePack.rulesStrings.4>image->[pawn_nameFull] [nude_action] without any clothes on [circumstance_group]</WalkedNaked.rulePack.rulesStrings.4>
-    <WalkedNaked.rulePack.rulesStrings.5>nude_action->prancing</WalkedNaked.rulePack.rulesStrings.5>
-    <WalkedNaked.rulePack.rulesStrings.6>nude_action->frolicking</WalkedNaked.rulePack.rulesStrings.6>
-    <WalkedNaked.rulePack.rulesStrings.7>nude_action->gambolling</WalkedNaked.rulePack.rulesStrings.7>
-    <WalkedNaked.rulePack.rulesStrings.8>nude_action->walking</WalkedNaked.rulePack.rulesStrings.8>
-    <WalkedNaked.rulePack.rulesStrings.9>nude_action->strutting [pawn_possessive] stuff</WalkedNaked.rulePack.rulesStrings.9>
+	<WalkedNaked.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] walking around naked</li>
+		<li>image->[pawn_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
+		<li>nude_action->sashaying</li>
+		<li>nude_action->tiptoeing</li>
+		<li>nude_action->promenading</li>
+		<li>nude_action->surveying the area</li>
+		<li>circumstance_phrase->with a sense of purpose</li>
+		<li>circumstance_phrase->with no hint of shame</li>
+		<li>circumstance_phrase->while others look on</li>
+		<li>circumstance_phrase->for no apparent reason</li>
+		<li>circumstance_phrase->while confused animals look on</li>
+		<li>desc_sentence->[pawn_nameShortDef] is visibly aroused.</li>
+		<li>image->[pawn_nameFull] [nude_action] in the nude [circumstance_group]</li>
+		<li>desc_sentence->[pawn_nameShortDef] is covered in unexplained moisture.</li>
+		<li>desc_sentence->[pawn_nameShortDef] is breathing heavily for no obvious reason.</li>
+		<li>desc_sentence->[pawn_nameShortDef] is fondling a shrub.</li>
+		<li>image->[pawn_nameFull] [nude_action], naked, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [nude_action] without any clothes on [circumstance_group]</li>
+		<li>nude_action->prancing</li>
+		<li>nude_action->frolicking</li>
+		<li>nude_action->gambolling</li>
+		<li>nude_action->walking</li>
+		<li>nude_action->strutting [pawn_possessive] stuff</li>
+	</WalkedNaked.rulePack.rulesStrings>
     <WasOnFire.label>on fire</WasOnFire.label>
 
 DefInjected\TerrainDef\Terrain_Add.xml
