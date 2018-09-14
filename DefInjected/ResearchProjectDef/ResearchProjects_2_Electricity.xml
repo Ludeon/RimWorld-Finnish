@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>air conditioning</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Build air conditions to cool rooms in the heat, or to keep freezers.</AirConditioning.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>autodoors</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Build autodoors which open to permit movement without slowing anyone down.</Autodoors.description>
+  
+  <!-- EN: battery -->
+  <Batteries.label>batteries</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>Build batteries for storing electricity.</Batteries.description>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>refining</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Build refineries to make chemfuel from wood.</BiofuelRefining.description>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>TODO</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>TODO</BlowbackOperation.description>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>electricity</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Generate and use electricity for cooking and other simple tasks.</Electricity.description>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>palovaahto</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Mahdollistaa palovaahtopaukkujen rakentamisen; paloturvallisuusesineiden, jotka levittävät tulta estävää vaahtoa eteneviä liekkejä vastaan.</Firefoam.description>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>TODO</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>TODO</FlakArmor.description>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>TODO</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>TODO</GasOperation.description>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>maalämpö</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>Mahdollistaa maalämpögeneraattorien rakentamisen geysireiden päälle. Maalämpögeneraattori tuottaa energiaa taukoamatta.</GeothermalPower.description>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>TODO</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>TODO</Gunsmithing.description>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>gun turrets</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Allows the production of automated gun turrets.</GunTurrets.description>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>vesiviljely</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Mahdollistaa vesiviljelyaltaiden rakentamisen ruokakasvien nopeaan kasvattamiseen sisätiloissa.</Hydroponics.description>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>improvisoidut räjähteet</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Mahdollistaa yhdyskuntalaisten rakentaa omatekoisia pommiansoja tykin kranaateista.</IEDs.description>
+  
+  <!-- EN: machining -->
+  <Machining.label>työstäminen</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description>Rakenna työstöpöytiä kuolleiden mekanoidien purkamiseen käyttökelpoiseksi metalliksi.</Machining.description>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>kranaatinheittimet</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Opi rakentamaan kranaatinheittimiä, jotka pystyvät heittämään kranaatteja pitkiä matkoja seinien yli.</Mortars.description>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>nutrient paste</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.</PackagedSurvivalMeal.description>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>TODO</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>TODO</Prosthetics.description>
+  
+  <!-- EN: smokepop belts -->
+  <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
+  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description>Learn to build smokepop belts which can provide an automatic defensive smokescreen.</SmokepopBelt.description>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>solar panels</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Build solar panels for electrical generation.</SolarPanels.description>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>TODO</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>TODO</SterileMaterials.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  
+</LanguageData>

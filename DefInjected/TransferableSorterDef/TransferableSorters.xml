@@ -1,12 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <None.label>ei mikään</None.label>
-  <Name.label>nimi</Name.label>
-  <MarketValue.label>markkina-arvo</MarketValue.label>
+  
+  <!-- EN: category -->
   <Category.label>kategoria</Category.label>
-  <Quality.label>laatu</Quality.label>
+  
+  <!-- EN: hit points percentage -->
   <HitPointsPercentage.label>osumapisteiden määrä</HitPointsPercentage.label>
-
-
+  
+  <!-- EN: market value -->
+  <MarketValue.label>markkina-arvo</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>TODO</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>nimi</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>ei mikään</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>laatu</Quality.label>
+  
 </LanguageData>

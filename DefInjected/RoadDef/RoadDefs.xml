@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <DirtPath.label>dirt path</DirtPath.label>
-  <DirtRoad.label>dirt road</DirtRoad.label>
-  <StoneRoad.label>stone road</StoneRoad.label>
-  <AncientAsphaltRoad.label>ancient asphalt road</AncientAsphaltRoad.label>
+  
+  <!-- EN: ancient asphalt highway -->
   <AncientAsphaltHighway.label>ancient asphalt highway</AncientAsphaltHighway.label>
-
-
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>ancient asphalt road</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>dirt path</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>dirt road</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>stone road</StoneRoad.label>
+  
 </LanguageData>

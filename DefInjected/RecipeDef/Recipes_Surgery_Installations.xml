@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install archotech arm -->
+  <InstallArchotechArm.label>TODO</InstallArchotechArm.label>
+  <!-- EN: Install an archotech arm. -->
+  <InstallArchotechArm.description>TODO</InstallArchotechArm.description>
+  <!-- EN: Installing archotech arm. -->
+  <InstallArchotechArm.jobString>TODO</InstallArchotechArm.jobString>
+  
+  <!-- EN: install archotech eye -->
+  <InstallArchotechEye.label>TODO</InstallArchotechEye.label>
+  <!-- EN: Install an archotech eye. -->
+  <InstallArchotechEye.description>TODO</InstallArchotechEye.description>
+  <!-- EN: Installing archotech eye. -->
+  <InstallArchotechEye.jobString>TODO</InstallArchotechEye.jobString>
+  
+  <!-- EN: install archotech leg -->
+  <InstallArchotechLeg.label>TODO</InstallArchotechLeg.label>
+  <!-- EN: Install an archotech leg. -->
+  <InstallArchotechLeg.description>TODO</InstallArchotechLeg.description>
+  <!-- EN: Installing archotech leg. -->
+  <InstallArchotechLeg.jobString>TODO</InstallArchotechLeg.jobString>
+  
+  <!-- EN: install bionic arm -->
+  <InstallBionicArm.label>asenna bioninen käsi</InstallBionicArm.label>
+  <!-- EN: Install a bionic arm. -->
+  <InstallBionicArm.description>Asentaa bionisen käden.</InstallBionicArm.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicArm.jobString>Asentaa bionista kättä.</InstallBionicArm.jobString>
+  
+  <!-- EN: install bionic ear -->
+  <InstallBionicEar.label>TODO</InstallBionicEar.label>
+  <!-- EN: Install a bionic ear. -->
+  <InstallBionicEar.description>TODO</InstallBionicEar.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
+  
+  <!-- EN: install bionic eye -->
+  <InstallBionicEye.label>asenna bioninen silmä</InstallBionicEye.label>
+  <!-- EN: Install a bionic eye. -->
+  <InstallBionicEye.description>Asentaa bionisen silmän.</InstallBionicEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicEye.jobString>Asentaa bionista silmää.</InstallBionicEye.jobString>
+  
+  <!-- EN: install bionic heart -->
+  <InstallBionicHeart.label>TODO</InstallBionicHeart.label>
+  <!-- EN: Install a bionic heart. -->
+  <InstallBionicHeart.description>TODO</InstallBionicHeart.description>
+  <!-- EN: Installing bionic heart. -->
+  <InstallBionicHeart.jobString>TODO</InstallBionicHeart.jobString>
+  
+  <!-- EN: install bionic leg -->
+  <InstallBionicLeg.label>asenna bioninen jalka</InstallBionicLeg.label>
+  <!-- EN: Install a bionic leg. -->
+  <InstallBionicLeg.description>Asentaa bionisen jalan.</InstallBionicLeg.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicLeg.jobString>Asentaa bionista jalkaa.</InstallBionicLeg.jobString>
+  
+  <!-- EN: install bionic spine -->
+  <InstallBionicSpine.label>TODO</InstallBionicSpine.label>
+  <!-- EN: Install a bionic spine. -->
+  <InstallBionicSpine.description>TODO</InstallBionicSpine.description>
+  <!-- EN: Installing bionic spine. -->
+  <InstallBionicSpine.jobString>TODO</InstallBionicSpine.jobString>
+  
+  <!-- EN: install bionic stomach -->
+  <InstallBionicStomach.label>TODO</InstallBionicStomach.label>
+  <!-- EN: Install a bionic stomach. -->
+  <InstallBionicStomach.description>TODO</InstallBionicStomach.description>
+  <!-- EN: Installing bionic stomach. -->
+  <InstallBionicStomach.jobString>TODO</InstallBionicStomach.jobString>
+  
+  <!-- EN: install cochlear implant -->
+  <InstallCochlearImplant.label>TODO</InstallCochlearImplant.label>
+  <!-- EN: Install a cochlear implant. -->
+  <InstallCochlearImplant.description>TODO</InstallCochlearImplant.description>
+  <!-- EN: Installing cochlear implant. -->
+  <InstallCochlearImplant.jobString>TODO</InstallCochlearImplant.jobString>
+  
+  <!-- EN: install denture -->
+  <InstallDenture.label>asenna hammasproteesi</InstallDenture.label>
+  <!-- EN: Install a denture. -->
+  <InstallDenture.description>Asentaa hammasproteesin.</InstallDenture.description>
+  <!-- EN: Installing denture. -->
+  <InstallDenture.jobString>Asentaa hammasproteesia.</InstallDenture.jobString>
+  
+  <!-- EN: install joywire -->
+  <InstallJoywire.label>asenna iloimplantti</InstallJoywire.label>
+  <!-- EN: Install a joywire. -->
+  <InstallJoywire.description>Asentaa iloimplantin.</InstallJoywire.description>
+  <!-- EN: Installing joywire. -->
+  <InstallJoywire.jobString>Asentaa iloimplanttia.</InstallJoywire.jobString>
+  
+  <!-- EN: install heart -->
+  <InstallNaturalHeart.label>asenna sydän</InstallNaturalHeart.label>
+  <!-- EN: Install a biological heart. -->
+  <InstallNaturalHeart.description>Asentaa sydämen.</InstallNaturalHeart.description>
+  <!-- EN: Installing heart. -->
+  <InstallNaturalHeart.jobString>Asentaa sydäntä.</InstallNaturalHeart.jobString>
+  
+  <!-- EN: install kidney -->
+  <InstallNaturalKidney.label>asenna munuainen</InstallNaturalKidney.label>
+  <!-- EN: Install a biological kidney. -->
+  <InstallNaturalKidney.description>Asentaa munuaisen.</InstallNaturalKidney.description>
+  <!-- EN: Installing kidney. -->
+  <InstallNaturalKidney.jobString>Asentaa munuaista.</InstallNaturalKidney.jobString>
+  
+  <!-- EN: install liver -->
+  <InstallNaturalLiver.label>asenna maksa</InstallNaturalLiver.label>
+  <!-- EN: Install a biological liver. -->
+  <InstallNaturalLiver.description>Asentaa maksan.</InstallNaturalLiver.description>
+  <!-- EN: Installing liver. -->
+  <InstallNaturalLiver.jobString>Asentaa maksaa.</InstallNaturalLiver.jobString>
+  
+  <!-- EN: install lung -->
+  <InstallNaturalLung.label>asenna keuhko</InstallNaturalLung.label>
+  <!-- EN: Install a lung. -->
+  <InstallNaturalLung.description>Asentaa keuhkon.</InstallNaturalLung.description>
+  <!-- EN: Installing lung. -->
+  <InstallNaturalLung.jobString>Asentaa keuhkoa.</InstallNaturalLung.jobString>
+  
+  <!-- EN: install painstopper -->
+  <InstallPainstopper.label>asenna kivunestäjä</InstallPainstopper.label>
+  <!-- EN: Install a painstopper. -->
+  <InstallPainstopper.description>Asentaa kivunestäjän.</InstallPainstopper.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallPainstopper.jobString>Asentaa kivunestäjää.</InstallPainstopper.jobString>
+  
+  <!-- EN: install peg leg -->
+  <InstallPegLeg.label>asenna puujalka</InstallPegLeg.label>
+  <!-- EN: Install a peg leg. -->
+  <InstallPegLeg.description>Asentaa puujalan.</InstallPegLeg.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegLeg.jobString>Asentaa puujalkaa.</InstallPegLeg.jobString>
+  
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>asenna voimakynsi</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>Asentaa voimakynnen.</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>Asentaa voimakynttä.</InstallPowerClaw.jobString>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>asenna yksinkertainen tek käsi</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>Asentaa yksinkertaisen tekokäden.</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>Asentaa yksinkertaista tekokättä.</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic heart -->
+  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <!-- EN: Install a prosthetic heart. -->
+  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <!-- EN: Installing prosthetic heart. -->
+  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>asenna yksinkertainen tekojalka</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>Asentaa yksinkertaisen tekojalan.</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>Asentaa yksinkertaista tekojalkaa.</InstallSimpleProstheticLeg.jobString>
+  
+  <!-- EN: install wooden foot -->
+  <InstallWoodenFoot.label>TODO</InstallWoodenFoot.label>
+  <!-- EN: Install a wooden foot. -->
+  <InstallWoodenFoot.description>TODO</InstallWoodenFoot.description>
+  <!-- EN: Installing wooden foot. -->
+  <InstallWoodenFoot.jobString>TODO</InstallWoodenFoot.jobString>
+  
+</LanguageData>

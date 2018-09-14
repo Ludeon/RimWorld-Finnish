@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arid shrubland -->
+  <AridShrubland.label>kuiva pensasaro</AridShrubland.label>
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Kuiva alue, mutta ei tarpeeksi kuiva ollakseen aavikko. Avoimien tasankojen lomassa on siellä täällä pieniä metsikköjä. Kasvit ovat sitkeitä ja eläimiä on kohtuullisen paljon.</AridShrubland.description>
+  
+  <!-- EN: desert -->
+  <Desert.label>aavikko</Desert.label>
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Erittäin kuiva ja kuuma alue, jossa on vain vähän elämää. Aavikot voivat olla kuumia tai varsin kylmiä.</Desert.description>
+  
+  <!-- EN: extreme desert -->
+  <ExtremeDesert.label>äärimmäinen aavikko</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Äärimmäisen kuuma ja kuiva alue, jolla ei ole yhtään elävää oliota. Suunnaton kuumuus ja rajoittunut kasvillisuuden määrä tekevät täällä selviytymisestä vaikeaa jopa hyvinsopeutuneille eläimille.</ExtremeDesert.description>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>purema</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} on purtu kuoliaaksi.</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>ruhje</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} on hakattu kuoliaaksi.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>murskaus</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} on murskattu kuoliaaksi.</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>viilto</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} on leikattu kuoliaaksi.</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>TODO</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>TODO</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>raapaisu</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} on revitty kuoliaaksi.</Scratch.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>pisto</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} on pistetty kuoliaaksi.</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>myrkkypurema</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} has been poisoned to death.</ToxicBite.deathMessage>
+  
+</LanguageData>

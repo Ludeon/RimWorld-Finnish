@@ -1,25 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Spacer.label>avaruusmatkaajia</Spacer.label>
-  <Spacer.description>Ihmisiä avaruuden syvyyksistä.</Spacer.description>
-  <Spacer.fixedName>Avaruusmatkaajia</Spacer.fixedName>
-  <Spacer.pawnsPlural>avaruusmatkaajia</Spacer.pawnsPlural>
-
-  <SpacerHostile.label>avaruusmatkaajia</SpacerHostile.label>
-  <SpacerHostile.description>Ihmisiä avaruuden syvyyksistä.</SpacerHostile.description>
-  <SpacerHostile.fixedName>Avaruusmatkaajia</SpacerHostile.fixedName>
-  <SpacerHostile.pawnsPlural>avaruusmatkaajia</SpacerHostile.pawnsPlural>
-
-  <Mechanoid.label>mekanoidipesä</Mechanoid.label>
-  <Mechanoid.description>Muinaisten itsejäljentävien koneiden pesä.</Mechanoid.description>
-  <Mechanoid.fixedName>mekanoidipesä</Mechanoid.fixedName>
-  <Mechanoid.pawnsPlural>mekanoideja</Mechanoid.pawnsPlural>
-
+  
+  <!-- EN: ancients -->
+  <Ancients.label>avaruusmatkaajia</Ancients.label>
+  <Ancients.description>Ihmisiä avaruuden syvyyksistä.</Ancients.description>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Avaruusmatkaajia</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>avaruusmatkaajia</Ancients.pawnsPlural>
+  
+  <!-- EN: ancients -->
+  <AncientsHostile.label>avaruusmatkaajia</AncientsHostile.label>
+  <AncientsHostile.description>Ihmisiä avaruuden syvyyksistä.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Avaruusmatkaajia</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>avaruusmatkaajia</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
   <Insect.label>hyönteisiä</Insect.label>
   <Insect.description>Yleensä aggressiivisia ja tunkeilevia hyönteisiä.</Insect.description>
+  <!-- EN: insects -->
   <Insect.fixedName>hyönteisiä</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <!-- EN: insects -->
   <Insect.pawnsPlural>hyönteisiä</Insect.pawnsPlural>
-
-
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>mekanoidipesä</Mechanoid.label>
+  <Mechanoid.description>Muinaisten itsejäljentävien koneiden pesä.</Mechanoid.description>
+  <!-- EN: a mechanoid hive -->
+  <Mechanoid.fixedName>mekanoidipesä</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>mekanoideja</Mechanoid.pawnsPlural>
+  
 </LanguageData>

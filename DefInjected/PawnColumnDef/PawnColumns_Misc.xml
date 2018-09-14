@@ -1,11 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Master.label>master</Master.label>
+  
+  <!-- EN: allowed area -->
   <AllowedArea.label>allowed area</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
   <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
-  <Outfit.label>current outfit</Outfit.label>
+  
+  <!-- EN: drug policy -->
   <DrugPolicy.label>drug policy</DrugPolicy.label>
-
-
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>master</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>current outfit</Outfit.label>
+  
 </LanguageData>

@@ -1,15 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Sand.label>hiekkaa</Sand.label>
-  <Soil.label>multaa</Soil.label>
-  <MarshyTerrain.label>rämemultaa</MarshyTerrain.label>
-  <SoilRich.label>hedelmällistä multaa</SoilRich.label>
-  <Mud.label>mutaa</Mud.label>
-  <Marsh.label>suota</Marsh.label>
+  
+  <!-- EN: stony soil -->
   <Gravel.label>soraa</Gravel.label>
-  <MossyTerrain.label>jäkälän peittämää maata</MossyTerrain.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>TODO</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
   <Ice.label>Jäätä</Ice.label>
-
-
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>rämemultaa</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>TODO</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>jäkälän peittämää maata</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>mutaa</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>TODO</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>hiekkaa</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>TODO</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>TODO</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>TODO</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>multaa</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>TODO</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>hedelmällistä multaa</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>TODO</SoilRich.tools.dirt.label>
+  
 </LanguageData>

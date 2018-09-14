@@ -1,44 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Simple mineables -->
-
+  
+  <!-- EN: collapsed rocks -->
   <CollapsedRocks.label>romahtaneita kiviä</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
   <CollapsedRocks.description>Romahtaneita kiviä pakattuna tarpeeksi tiukalle kannattelemaan kattoa.</CollapsedRocks.description>
-
-
-  <!-- Resource rocks -->
-
-  <MineableSteel.label>pakkautunutta terästä</MineableSteel.label>
-  <MineableSteel.description>Jonkin muinaisen raunion jäännökset. Sisältää paljon terästä.</MineableSteel.description>
-
-  <MineableSilver.label>hopeamalmi</MineableSilver.label>
-  <MineableSilver.description>Kiviseinämä jossa on hieman hopeaa.</MineableSilver.description>
-
-  <MineableGold.label>kultamalmi</MineableGold.label>
-  <MineableGold.description>Kiviseinämä jossa on hieman kultaa.</MineableGold.description>
-
-  <MineableUranium.label>uraanimalmi</MineableUranium.label>
-  <MineableUranium.description>Kiviseinämä jossa on hieman uraania.</MineableUranium.description>
-
-  <MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>
-  <MineablePlasteel.description>Muinainen muoviterästä täynnä oleva raunio.</MineablePlasteel.description>
-
-  <MineableJade.label>jade</MineableJade.label>
-  <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
-
-  <MineableComponents.label>compacted machinery</MineableComponents.label>
-  <MineableComponents.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponents.description>
-
-  <SteamGeyser.label>geysir</SteamGeyser.label>
-  <SteamGeyser.description>Luonnollinen höyryn lähde.</SteamGeyser.description>
-
-  <Hive.label>hive</Hive.label>
-  <Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
-
+  
+  <!-- EN: glow pod -->
   <GlowPod.label>glow pod</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
   <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
-  <GlowPod_Blueprint_Install.label>glow pod (blueprint)</GlowPod_Blueprint_Install.label>
-
-
+  
+  <!-- EN: hive -->
+  <Hive.label>hive</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>compacted machinery</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>kultamalmi</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>Kiviseinämä jossa on hieman kultaa.</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>jade</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>Muinainen muoviterästä täynnä oleva raunio.</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>hopeamalmi</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>Kiviseinämä jossa on hieman hopeaa.</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>pakkautunutta terästä</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>Jonkin muinaisen raunion jäännökset. Sisältää paljon terästä.</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>uraanimalmi</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>Kiviseinämä jossa on hieman uraania.</MineableUranium.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>geysir</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>Luonnollinen höyryn lähde.</SteamGeyser.description>
+  
 </LanguageData>

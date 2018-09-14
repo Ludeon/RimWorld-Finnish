@@ -1,16 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Work.label>töitä</Work.label>
-  <Meditative.label>mieteskelevä</Meditative.label>
-  <Lewd.label>irstas</Lewd.label>
-  <Social.label>sosiaalinen</Social.label>
+  
+  <!-- EN: chemical consumption -->
   <Chemical.label>kemiallinen</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>pelaaminen (älyllinen)</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>pelaaminen (näppäryys)</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
   <Gluttonous.label>ahnas</Gluttonous.label>
-  <GamingDexterity.label>pelaaminen (näppäryys)</GamingDexterity.label>
-  <GamingCerebral.label>pelaaminen (älyllinen)</GamingCerebral.label>
+  
+  <!-- UNUSED -->
+  <Lewd.label>irstas</Lewd.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>mieteskelevä</Meditative.label>
+  
+  <!-- UNUSED -->
   <Passive.label>passiivinen</Passive.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>sosiaalinen</Social.label>
+  
+  <!-- UNUSED -->
   <Study.label>opiskelu</Study.label>
-
-
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>TODO</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>TODO</Television.label>
+  
+  <!-- UNUSED -->
+  <Work.label>töitä</Work.label>
+  
 </LanguageData>

@@ -1,60 +1,118 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Impressiveness.label>vaikuttavuus</Impressiveness.label>
-  <Impressiveness.scoreStages.0.label>hirveä</Impressiveness.scoreStages.0.label>
-  <Impressiveness.scoreStages.1.label>luotaantyöntävä</Impressiveness.scoreStages.1.label>
-  <Impressiveness.scoreStages.2.label>tylsä</Impressiveness.scoreStages.2.label>
-  <Impressiveness.scoreStages.3.label>keskinkertainen</Impressiveness.scoreStages.3.label>
-  <Impressiveness.scoreStages.4.label>kiinnostava</Impressiveness.scoreStages.4.label>
-  <Impressiveness.scoreStages.5.label>jokseenkin vaikuttava</Impressiveness.scoreStages.5.label>
-  <Impressiveness.scoreStages.6.label>vaikuttava</Impressiveness.scoreStages.6.label>
-  <Impressiveness.scoreStages.7.label>erittäin vaikuttava</Impressiveness.scoreStages.7.label>
-  <Impressiveness.scoreStages.8.label>äärimmäisen vaikuttava</Impressiveness.scoreStages.8.label>
-  <Impressiveness.scoreStages.9.label>uskomattoman vaikuttava</Impressiveness.scoreStages.9.label>
-
-  <Wealth.label>vauraus</Wealth.label>
-  <Wealth.scoreStages.0.label>köyhtynyt</Wealth.scoreStages.0.label>
-  <Wealth.scoreStages.1.label>jokseenkin köyhä</Wealth.scoreStages.1.label>
-  <Wealth.scoreStages.2.label>keskinkertainen</Wealth.scoreStages.2.label>
-  <Wealth.scoreStages.3.label>jokseenkin rikas</Wealth.scoreStages.3.label>
-  <Wealth.scoreStages.4.label>rikas</Wealth.scoreStages.4.label>
-  <Wealth.scoreStages.5.label>luksusmainen</Wealth.scoreStages.5.label>
-  <Wealth.scoreStages.6.label>erittäin luksusmainen</Wealth.scoreStages.6.label>
-  <Wealth.scoreStages.7.label>äärimmäisen luksusmainen</Wealth.scoreStages.7.label>
-  <Wealth.scoreStages.8.label>uskomattoman luksusmainen</Wealth.scoreStages.8.label>
-
-  <Space.label>tilavuus</Space.label>
-  <Space.scoreStages.0.label>ahdas</Space.scoreStages.0.label>
-  <Space.scoreStages.1.label>melko tiukka</Space.scoreStages.1.label>
-  <Space.scoreStages.2.label>keskikokoinen</Space.scoreStages.2.label>
-  <Space.scoreStages.3.label>melko avara</Space.scoreStages.3.label>
-  <Space.scoreStages.4.label>avara</Space.scoreStages.4.label>
-  <Space.scoreStages.5.label>erittäin avara</Space.scoreStages.5.label>
-  <Space.scoreStages.6.label>äärimmäisen avara</Space.scoreStages.6.label>
-
+  
+  <!-- EN: beauty -->
   <Beauty.label>kauneus</Beauty.label>
-  <Beauty.scoreStages.0.label>kamala</Beauty.scoreStages.0.label>
-  <Beauty.scoreStages.1.label>ruma</Beauty.scoreStages.1.label>
-  <Beauty.scoreStages.2.label>neutraali</Beauty.scoreStages.2.label>
-  <Beauty.scoreStages.3.label>melko hieno</Beauty.scoreStages.3.label>
-  <Beauty.scoreStages.4.label>kaunis</Beauty.scoreStages.4.label>
-  <Beauty.scoreStages.5.label>erittäin kaunis</Beauty.scoreStages.5.label>
-  <Beauty.scoreStages.6.label>äärimmäisen kaunis</Beauty.scoreStages.6.label>
-  <Beauty.scoreStages.7.label>uskomattoman kaunis</Beauty.scoreStages.7.label>
-
+  <!-- EN: hideous -->
+  <Beauty.scoreStages.hideous.label>kamala</Beauty.scoreStages.hideous.label>
+  <!-- EN: ugly -->
+  <Beauty.scoreStages.ugly.label>ruma</Beauty.scoreStages.ugly.label>
+  <!-- EN: neutral -->
+  <Beauty.scoreStages.neutral.label>neutraali</Beauty.scoreStages.neutral.label>
+  <!-- EN: pretty -->
+  <Beauty.scoreStages.pretty.label>melko hieno</Beauty.scoreStages.pretty.label>
+  <!-- EN: beautiful -->
+  <Beauty.scoreStages.beautiful.label>kaunis</Beauty.scoreStages.beautiful.label>
+  <!-- EN: very beautiful -->
+  <Beauty.scoreStages.very_beautiful.label>erittäin kaunis</Beauty.scoreStages.very_beautiful.label>
+  <!-- EN: extremely beautiful -->
+  <Beauty.scoreStages.extremely_beautiful.label>äärimmäisen kaunis</Beauty.scoreStages.extremely_beautiful.label>
+  <!-- EN: unbelievably beautiful -->
+  <Beauty.scoreStages.unbelievably_beautiful.label>uskomattoman kaunis</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  <!-- EN: cleanliness -->
   <Cleanliness.label>puhtaus</Cleanliness.label>
-  <Cleanliness.scoreStages.0.label>erittäin likainen</Cleanliness.scoreStages.0.label>
-  <Cleanliness.scoreStages.1.label>likainen</Cleanliness.scoreStages.1.label>
-  <Cleanliness.scoreStages.2.label>hieman likainen</Cleanliness.scoreStages.2.label>
-  <Cleanliness.scoreStages.3.label>puhdas</Cleanliness.scoreStages.3.label>
-  <Cleanliness.scoreStages.4.label>steriili</Cleanliness.scoreStages.4.label>
-
-  <InfectionChanceFactor.label>tartunnansaamiskerroin factor</InfectionChanceFactor.label>
-  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
-  <ResearchSpeedFactor.label>tutkimisnopeuskerroin</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>huvinsaantikerroin haudalla vierailusta</GraveVisitingJoyGainFactor.label>
+  <!-- EN: very dirty -->
+  <Cleanliness.scoreStages.very_dirty.label>erittäin likainen</Cleanliness.scoreStages.very_dirty.label>
+  <!-- EN: dirty -->
+  <Cleanliness.scoreStages.dirty.label>likainen</Cleanliness.scoreStages.dirty.label>
+  <!-- EN: slightly dirty -->
+  <Cleanliness.scoreStages.slightly_dirty.label>hieman likainen</Cleanliness.scoreStages.slightly_dirty.label>
+  <!-- EN: clean -->
+  <Cleanliness.scoreStages.clean.label>puhdas</Cleanliness.scoreStages.clean.label>
+  <!-- EN: sterile -->
+  <Cleanliness.scoreStages.sterile.label>steriili</Cleanliness.scoreStages.sterile.label>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
+  
+  <!-- UNUSED -->
   <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
-
-
+  
+  <!-- EN: grave visiting recreation factor -->
+  <GraveVisitingJoyGainFactor.label>huvinsaantikerroin haudalla vierailusta</GraveVisitingJoyGainFactor.label>
+  
+  <!-- EN: impressiveness -->
+  <Impressiveness.label>vaikuttavuus</Impressiveness.label>
+  <!-- EN: awful -->
+  <Impressiveness.scoreStages.awful.label>hirveä</Impressiveness.scoreStages.awful.label>
+  <!-- EN: dull -->
+  <Impressiveness.scoreStages.dull.label>luotaantyöntävä</Impressiveness.scoreStages.dull.label>
+  <!-- EN: mediocre -->
+  <Impressiveness.scoreStages.mediocre.label>tylsä</Impressiveness.scoreStages.mediocre.label>
+  <!-- EN: decent -->
+  <Impressiveness.scoreStages.decent.label>keskinkertainen</Impressiveness.scoreStages.decent.label>
+  <!-- EN: slightly impressive -->
+  <Impressiveness.scoreStages.slightly_impressive.label>kiinnostava</Impressiveness.scoreStages.slightly_impressive.label>
+  <!-- EN: somewhat impressive -->
+  <Impressiveness.scoreStages.somewhat_impressive.label>jokseenkin vaikuttava</Impressiveness.scoreStages.somewhat_impressive.label>
+  <!-- EN: very impressive -->
+  <Impressiveness.scoreStages.very_impressive.label>vaikuttava</Impressiveness.scoreStages.very_impressive.label>
+  <!-- EN: extremely impressive -->
+  <Impressiveness.scoreStages.extremely_impressive.label>erittäin vaikuttava</Impressiveness.scoreStages.extremely_impressive.label>
+  <!-- EN: unbelievably impressive -->
+  <Impressiveness.scoreStages.unbelievably_impressive.label>äärimmäisen vaikuttava</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <!-- EN: wondrously impressive -->
+  <Impressiveness.scoreStages.wondrously_impressive.label>uskomattoman vaikuttava</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  <!-- EN: infection chance factor -->
+  <InfectionChanceFactor.label>tartunnansaamiskerroin factor</InfectionChanceFactor.label>
+  
+  <!-- EN: research speed factor -->
+  <ResearchSpeedFactor.label>tutkimisnopeuskerroin</ResearchSpeedFactor.label>
+  
+  <!-- EN: space -->
+  <Space.label>tilavuus</Space.label>
+  <!-- EN: cramped -->
+  <Space.scoreStages.cramped.label>ahdas</Space.scoreStages.cramped.label>
+  <!-- EN: rather tight -->
+  <Space.scoreStages.rather_tight.label>melko tiukka</Space.scoreStages.rather_tight.label>
+  <!-- EN: average-sized -->
+  <Space.scoreStages.averagesized.label>keskikokoinen</Space.scoreStages.averagesized.label>
+  <!-- EN: somewhat spacious -->
+  <Space.scoreStages.somewhat_spacious.label>melko avara</Space.scoreStages.somewhat_spacious.label>
+  <!-- EN: quite spacious -->
+  <Space.scoreStages.quite_spacious.label>avara</Space.scoreStages.quite_spacious.label>
+  <!-- EN: very spacious -->
+  <Space.scoreStages.very_spacious.label>erittäin avara</Space.scoreStages.very_spacious.label>
+  <!-- EN: extremely spacious -->
+  <Space.scoreStages.extremely_spacious.label>äärimmäisen avara</Space.scoreStages.extremely_spacious.label>
+  
+  <!-- EN: surgery success chance cleanliness factor -->
+  <SurgerySuccessChanceCleanlinessFactor.label>TODO</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <!-- UNUSED -->
+  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>vauraus</Wealth.label>
+  <!-- EN: impoverished -->
+  <Wealth.scoreStages.impoverished.label>köyhtynyt</Wealth.scoreStages.impoverished.label>
+  <!-- EN: somewhat poor -->
+  <Wealth.scoreStages.somewhat_poor.label>jokseenkin köyhä</Wealth.scoreStages.somewhat_poor.label>
+  <!-- EN: mediocre -->
+  <Wealth.scoreStages.mediocre.label>keskinkertainen</Wealth.scoreStages.mediocre.label>
+  <!-- EN: somewhat rich -->
+  <Wealth.scoreStages.somewhat_rich.label>jokseenkin rikas</Wealth.scoreStages.somewhat_rich.label>
+  <!-- EN: rich -->
+  <Wealth.scoreStages.rich.label>rikas</Wealth.scoreStages.rich.label>
+  <!-- EN: luxurious -->
+  <Wealth.scoreStages.luxurious.label>luksusmainen</Wealth.scoreStages.luxurious.label>
+  <!-- EN: very luxurious -->
+  <Wealth.scoreStages.very_luxurious.label>erittäin luksusmainen</Wealth.scoreStages.very_luxurious.label>
+  <!-- EN: extremely luxurious -->
+  <Wealth.scoreStages.extremely_luxurious.label>äärimmäisen luksusmainen</Wealth.scoreStages.extremely_luxurious.label>
+  <!-- EN: unbelievably luxurious -->
+  <Wealth.scoreStages.unbelievably_luxurious.label>uskomattoman luksusmainen</Wealth.scoreStages.unbelievably_luxurious.label>
+  
 </LanguageData>

@@ -1,20 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <None.label>ei mikään</None.label>
-  <Room.label>huone</Room.label>
-  <Bedroom.label>makuuhuone</Bedroom.label>
-  <PrisonCell.label>vankiselli</PrisonCell.label>
-  <DiningRoom.label>ruokahuone</DiningRoom.label>
-  <RecRoom.label>olohuone</RecRoom.label>
-  <Hospital.label>sairaala</Hospital.label>
-  <Laboratory.label>laboratorio</Laboratory.label>
-  <Workshop.label>työpaja</Workshop.label>
-  <Barracks.label>parakki</Barracks.label>
-  <PrisonBarracks.label>vankiparakki</PrisonBarracks.label>
-  <Kitchen.label>keittiö</Kitchen.label>
-  <Tomb.label>hautakammio</Tomb.label>
+  
+  <!-- EN: barn -->
   <Barn.label>lato</Barn.label>
-
-
+  
+  <!-- EN: barracks -->
+  <Barracks.label>parakki</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>makuuhuone</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>ruokahuone</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>sairaala</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>keittiö</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>laboratorio</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>ei mikään</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>vankiparakki</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>vankiselli</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>olohuone</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>huone</Room.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>hautakammio</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>työpaja</Workshop.label>
+  
 </LanguageData>

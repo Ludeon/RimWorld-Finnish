@@ -1,21 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>salli yhd.kuntalaisten ruumiit</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
   <AllowCorpsesColonist.description>Salli edesmenneiden yhdyskuntalaisten ruumiit.</AllowCorpsesColonist.description>
-
+  
+  <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>salli vieraat ruumiit</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
   <AllowCorpsesStranger.description>Salli edesmenneiden vieralijoiden ja vihollisten ruumiit.</AllowCorpsesStranger.description>
-
-  <AllowRotten.label>salli mädäntynyt</AllowRotten.label>
-  <AllowRotten.description>Salli eloperäiset esineet, jotka ovat alkaneet mädäntyä.</AllowRotten.description>
-
-  <AllowPlantFood.label>salli raaka kasvisruoka</AllowPlantFood.label>
-  <AllowPlantFood.description>Salli ruuat jotka ovat keräämättömien kasvien laatutasoa, kuten heinä.</AllowPlantFood.description>
-
-  <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
-  <AllowNonSmeltableWeapons.label>salli sulattamiskelvottomat</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>TODO</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>TODO</AllowFresh.description>
+  
+  <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>allow non-deadman's apparel</AllowNonDeadmansApparel.label>
-
-
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>salli sulattamiskelvottomat</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>salli raaka kasvisruoka</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Salli ruuat jotka ovat keräämättömien kasvien laatutasoa, kuten heinä.</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>salli mädäntynyt</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>Salli eloperäiset esineet, jotka ovat alkaneet mädäntyä.</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
+  
 </LanguageData>

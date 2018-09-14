@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Toggle eläimet tab -->
+  <MainTab_Animals.label>eläimet-välilehti päälle tai pois</MainTab_Animals.label>
+  
+  <!-- EN: Toggle arkkitehti tab -->
+  <MainTab_Architect.label>arkkitehti-välilehti päälle tai pois</MainTab_Architect.label>
+  
+  <!-- EN: Toggle määräykset tab -->
+  <MainTab_Assign.label>määräykset-välilehti päälle tai pois</MainTab_Assign.label>
+  
+  <!-- EN: Toggle ryhmät tab -->
+  <MainTab_Factions.label>ryhmät-välilehti päälle tai pois</MainTab_Factions.label>
+  
+  <!-- EN: Toggle historia tab -->
+  <MainTab_History.label>historia-välilehti päälle tai pois</MainTab_History.label>
+  
+  <!-- EN: Toggle rajoitukset tab -->
+  <MainTab_Restrict.label>rajoitukset-välilehti päälle tai pois</MainTab_Restrict.label>
+  
+  <!-- EN: Toggle työnteko tab -->
+  <MainTab_Work.label>työnteko-välilehti päälle tai pois</MainTab_Work.label>
+  
+  <!-- EN: Toggle maailma tab -->
+  <MainTab_World.label>maailma-välilehti päälle tai pois</MainTab_World.label>
+  
+</LanguageData>

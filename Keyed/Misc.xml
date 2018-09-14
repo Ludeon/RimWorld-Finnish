@@ -1,74 +1,140 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Autosaving -->
   <Autosaving>Tallentaa automaattisesti</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>Te kolme heräätte salauniarkuistanne sireenien ja repeytyvän metallin ääniin. Pääsette juuri ja juuri pakokapseleihinne ennen kuin alus repeytyy kappaleiksi.\n\nJonkin ajan kuluttua laskeudutte tälle tuntemattomalle syrjäiselle planetalle.\n\nKun tuhoutuneen avaruusaluksenne kappaleita sataa ympärillenne, alatte suunnittelemaan selviytymistänne.</GameStartDialog>
+  <!-- EN: Colony -->
   <Colony>Yhdyskunta</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
   <ChangeLanguageFromMainMenu>Voit vaihtaa pelin kieltä vain päävalikossa.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
   <AndLower>ja</AndLower>
+  <!-- EN: disabled -->
   <DisabledLower>pois käytöstä</DisabledLower>
 
-
+  <!-- EN: Version {0} -->
   <VersionIndicator>Versio {0}</VersionIndicator>
+  <!-- EN: development build -->
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
   <CompiledOn>Laadittu {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Kirjautunut Steamiin nimellä {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
+  <!-- EN: Yes -->
   <Yes>Kyllä</Yes>
+  <!-- EN: No -->
   <No>Ei</No>
+  <!-- EN: min -->
   <min>min</min>
+  <!-- EN: max -->
   <max>max</max>
+  <!-- EN: chance -->
   <chance>chance</chance>
+  <!-- EN: context -->
   <context>context</context>
+  <!-- EN: multiplier -->
   <multiplier>multiplier</multiplier>
+  <!-- EN: damage -->
   <damage>damage</damage>
+  <!-- EN: radius -->
   <radius>radius</radius>
+  <!-- EN: duration (days) -->
   <durationDays>duration (days)</durationDays>
+  <!-- EN: interval (days) -->
   <intervalDays>interval (days)</intervalDays>
+  <!-- EN: repeat -->
   <repeat>repeat</repeat>
+  <!-- EN: default -->
   <default>default</default>
+  <!-- EN: distance -->
+  <distance>TODO</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TODO</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>TODO</NoUppercase>
+  <!-- EN: kg -->
+  <kg>TODO</kg>
+  <!-- EN: Day -->
+  <Day>Päivä</Day>
+  <!-- EN: day -->
+  <day>TODO</day>
+  <!-- EN: Default -->
+  <Default>TODO</Default>
+  <!-- EN: Average -->
+  <Average>TODO</Average>
 
   <!-- Content generation-->
-
+  
+  <!-- EN: {0} meat -->
   <MeatLabel>{0} lihaa</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Raakaa lihaa oliosta {0}.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>TODO</MeatHumanDesc>
 
-  <LeatherLabel>{0} nahka</LeatherLabel>
-  <LeatherDesc>Nahka joka on tehty oliosta {0}.</LeatherDesc>
-
+  <!-- EN: {0} corpse -->
   <CorpseLabel>{0} ruumis</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Kuollut {0}.</CorpseDesc>
+  <!-- EN: {0} (dead) -->
   <DeadLabel>{0} (kuollut)</DeadLabel>
 
+  <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>karkea {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Karkea luonnollinen {0}maa.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>karkeaksi louhittu {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Karkeasti leikattu luonnollinen {0} lattia.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>sileä {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Hiottu luonnollinen {0}lattia.</SmoothStoneTerrainDesc>
 
+  <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra> (piirrustus)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
   <FrameLabelExtra> (rakennus)</FrameLabelExtra>
 
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>TODO</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
+  <!-- EN: {0}'s {1} -->
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
+  <!-- EN: {0} and {1}'s {2} -->
   <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
-
+  
+  <!-- EN: (various) -->
   <VariousLabel>(erilaisia)</VariousLabel>
 
   <!-- History events -->
+  <!-- EN: Colonist died -->
   <ColonistDied>Yhdyskuntalainen kuoli</ColonistDied>
-
+  
   <!-- Rotation -->
+  <!-- EN: North -->
   <North>North</North>
+  <!-- EN: South -->
   <South>South</South>
+  <!-- EN: West -->
   <West>West</West>
+  <!-- EN: East -->
   <East>East</East>
-
+  
+  <!-- UNUSED -->
+  <LeatherLabel>{0} nahka</LeatherLabel>
+  <LeatherDesc>Nahka joka on tehty oliosta {0}.</LeatherDesc>
 
 </LanguageData>

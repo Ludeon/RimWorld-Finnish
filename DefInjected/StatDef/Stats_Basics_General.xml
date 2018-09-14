@@ -1,41 +1,75 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MaxHitPoints.label>maksimiosumapisteet</MaxHitPoints.label>
-  <MaxHitPoints.description>Esineen korkein mahdollinen määrä osumapisteitä. Tämä kuvaa miten paljon vahinkoa esine voi ottaa ennen kuin se tuhoutuu.</MaxHitPoints.description>
-
-  <Mass.label>mass</Mass.label>
-  <Mass.description>The physical mass of an object.</Mass.description>
-  <Mass.formatString>{0} kg</Mass.formatString>
-
-  <MarketValue.label>markkina-arvo</MarketValue.label>
-  <MarketValue.description>Esineen markkina-arvo. Lopullinen vaihtokauppahinta määräytyy suhteiden tilanteen ja neuvottelutaitojen mukaan.</MarketValue.description>
-  <MarketValue.formatString>${0}</MarketValue.formatString>
-
-  <SellPriceFactor.label>myyntihinnan kerroin</SellPriceFactor.label>
-  <SellPriceFactor.description>Kerroin hintaan jolla voit myydä esineitä.</SellPriceFactor.description>
-
-  <Flammability.label>syttymisherkkyys</Flammability.label>
-  <Flammability.description>Miten helposti esine syttyy tuleen ja miten vahvasti se palaa.</Flammability.description>
-
-  <WorkToMake.label>tekemiseen tarvittavan työn määrä</WorkToMake.label>
-  <WorkToMake.description>Työn määrä, joka tämän tekemiseen menee, kun kaikki materiaalit ja työkalut ovat valmiina.</WorkToMake.description>
-
-  <WorkToBuild.label>work to build</WorkToBuild.label>
-  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials and tools are gathered.</WorkToBuild.description>
-
-  <DeteriorationRate.label>huononemisnopeus</DeteriorationRate.label>
-  <DeteriorationRate.description>Nopeus jolla tämä esine menee huonommaksi ulos jätettynä, varsinkin sateessa.</DeteriorationRate.description>
-  <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
-
+  
+  <!-- EN: beauty -->
   <Beauty.label>kauneus</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>Miten miellyttävää esineen ympärillä olo ja katselu on.</Beauty.description>
-
+  
+  <!-- EN: cleanliness -->
   <Cleanliness.label>puhtaus</Cleanliness.label>
+  <!-- EN: How much an object contributes to an area's cleanliness score. -->
   <Cleanliness.description>Miten puhdas esine on.</Cleanliness.description>
-
+  
+  <!-- EN: comfort -->
   <Comfort.label>mukavuus</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
   <Comfort.description>Miten mukava esineen päällä on istua tai maata.</Comfort.description>
-
-
+  
+  <!-- EN: deterioration rate -->
+  <DeteriorationRate.label>huononemisnopeus</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>Nopeus jolla tämä esine menee huonommaksi ulos jätettynä, varsinkin sateessa.</DeteriorationRate.description>
+  <!-- EN: {0} / day -->
+  <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
+  
+  <!-- EN: flammability -->
+  <Flammability.label>syttymisherkkyys</Flammability.label>
+  <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>Miten helposti esine syttyy tuleen ja miten vahvasti se palaa.</Flammability.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>TODO</FoodPoisonChanceFixedHuman.label>
+  <!-- EN: The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>TODO</FoodPoisonChanceFixedHuman.description>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>markkina-arvo</MarketValue.label>
+  <!-- EN: The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>Esineen markkina-arvo. Lopullinen vaihtokauppahinta määräytyy suhteiden tilanteen ja neuvottelutaitojen mukaan.</MarketValue.description>
+  <!-- EN: ${0} -->
+  <MarketValue.formatString>${0}</MarketValue.formatString>
+  
+  <!-- EN: mass -->
+  <Mass.label>mass</Mass.label>
+  <!-- EN: The physical mass of an object. -->
+  <Mass.description>The physical mass of an object.</Mass.description>
+  <!-- EN: {0} kg -->
+  <Mass.formatString>{0} kg</Mass.formatString>
+  
+  <!-- EN: max hit points -->
+  <MaxHitPoints.label>maksimiosumapisteet</MaxHitPoints.label>
+  <!-- EN: The maximum hit points of an object. This represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>Esineen korkein mahdollinen määrä osumapisteitä. Tämä kuvaa miten paljon vahinkoa esine voi ottaa ennen kuin se tuhoutuu.</MaxHitPoints.description>
+  
+  <!-- EN: nutrition -->
+  <Nutrition.label>TODO</Nutrition.label>
+  <!-- EN: How nutritious this food is. -->
+  <Nutrition.description>TODO</Nutrition.description>
+  
+  <!-- EN: sell price multiplier -->
+  <SellPriceFactor.label>myyntihinnan kerroin</SellPriceFactor.label>
+  <!-- EN: A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>Kerroin hintaan jolla voit myydä esineitä.</SellPriceFactor.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyTurret.label>TODO</ShootingAccuracyTurret.label>
+  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>TODO</ShootingAccuracyTurret.description>
+  
+  <!-- EN: work to make -->
+  <WorkToMake.label>tekemiseen tarvittavan työn määrä</WorkToMake.label>
+  <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>Työn määrä, joka tämän tekemiseen menee, kun kaikki materiaalit ja työkalut ovat valmiina.</WorkToMake.description>
+  
 </LanguageData>

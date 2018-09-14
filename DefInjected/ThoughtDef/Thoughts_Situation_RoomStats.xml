@@ -1,89 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PrisonCell.stages.0.label>hirveä vankiselli</PrisonCell.stages.0.label>
-  <PrisonCell.stages.0.description>Minun vankisellini on hirveä paikka.</PrisonCell.stages.0.description>
-  <PrisonCell.stages.3.label>decent prison cell</PrisonCell.stages.3.label>
-  <PrisonCell.stages.3.description>My prison cell is pretty decent.</PrisonCell.stages.3.description>
-  <PrisonCell.stages.4.label>kiinnostava vankiselli</PrisonCell.stages.4.label>
-  <PrisonCell.stages.4.description>Minun vankisellini on erittäin kiinnostava.</PrisonCell.stages.4.description>
-  <PrisonCell.stages.5.label>jokseenkin vaikuttava vankiselli</PrisonCell.stages.5.label>
-  <PrisonCell.stages.5.description>Minun vankisellini näyttää mukavalta paikalta.</PrisonCell.stages.5.description>
-  <PrisonCell.stages.6.label>vaikuttava vankiselli</PrisonCell.stages.6.label>
-  <PrisonCell.stages.6.description>Minun vankisellini on vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa.</PrisonCell.stages.6.description>
-  <PrisonCell.stages.7.label>erittäin vaikuttava vankiselli</PrisonCell.stages.7.label>
-  <PrisonCell.stages.7.description>Minun vankisellini on erittäin vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. Rakastan sitä!</PrisonCell.stages.7.description>
-  <PrisonCell.stages.8.label>äärimmäisen vaikuttava vankiselli</PrisonCell.stages.8.label>
-  <PrisonCell.stages.8.description>Minun vankisellini on äärimmäisen vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. Rakastan sitä!</PrisonCell.stages.8.description>
-  <PrisonCell.stages.9.label>uskomattoman vaikuttava vankiselli</PrisonCell.stages.9.label>
-  <PrisonCell.stages.9.description>Minun vankisellini on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</PrisonCell.stages.9.description>
-
-  <PrisonBarracks.stages.0.label>hirveä parakki</PrisonBarracks.stages.0.label>
-  <PrisonBarracks.stages.0.description>Minun vankiparakkini on hirveä paikka.</PrisonBarracks.stages.0.description>
-  <PrisonBarracks.stages.1.label>luotaantyöntävä parakki</PrisonBarracks.stages.1.label>
-  <PrisonBarracks.stages.1.description>Minun vankiparakkini on luotaantyöntävä paikka.</PrisonBarracks.stages.1.description>
-  <PrisonBarracks.stages.4.label>slightly impressive barrack</PrisonBarracks.stages.4.label>
-  <PrisonBarracks.stages.4.description>My prison barrack is slightly impressive.</PrisonBarracks.stages.4.description>
-  <PrisonBarracks.stages.5.label>jokseenkin vaikuttava parakki</PrisonBarracks.stages.5.label>
-  <PrisonBarracks.stages.5.description>Minun vankiparakkini näyttää mukavalta paikalta.</PrisonBarracks.stages.5.description>
-  <PrisonBarracks.stages.6.label>vaikuttava parakki</PrisonBarracks.stages.6.label>
-  <PrisonBarracks.stages.6.description>Minun vankiparakkini on vaikuttava. Pidän siitä.</PrisonBarracks.stages.6.description>
-  <PrisonBarracks.stages.7.label>erittäin vaikuttava parakki</PrisonBarracks.stages.7.label>
-  <PrisonBarracks.stages.7.description>Minun vankiparakkini on erittäin vaikuttava. Pidän siitä.</PrisonBarracks.stages.7.description>
-  <PrisonBarracks.stages.8.label>äärimmäisen vaikuttava parakki</PrisonBarracks.stages.8.label>
-  <PrisonBarracks.stages.8.description>Minun vankiparakkini on äärimmäisen vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. </PrisonBarracks.stages.8.description>
-  <PrisonBarracks.stages.9.label>uskomattoman vaikuttava parakki</PrisonBarracks.stages.9.label>
-  <PrisonBarracks.stages.9.description>Minun vankiparakkini on uskomattoman vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. </PrisonBarracks.stages.9.description>
-
-  <HospitalPatientRoomStats.stages.0.label>awful hospital</HospitalPatientRoomStats.stages.0.label>
-  <HospitalPatientRoomStats.stages.0.description>This hospital is awful.</HospitalPatientRoomStats.stages.0.description>
-  <HospitalPatientRoomStats.stages.1.label>dull hospital</HospitalPatientRoomStats.stages.1.label>
-  <HospitalPatientRoomStats.stages.1.description>I'm stuck in a dull hospital.</HospitalPatientRoomStats.stages.1.description>
-  <HospitalPatientRoomStats.stages.4.label>kaunis sairaala</HospitalPatientRoomStats.stages.4.label>
-  <HospitalPatientRoomStats.stages.4.description>Tämä sairaala on mukava paikka. It makes me feel better.</HospitalPatientRoomStats.stages.4.description>
-  <HospitalPatientRoomStats.stages.5.label>very kaunis sairaala</HospitalPatientRoomStats.stages.5.label>
-  <HospitalPatientRoomStats.stages.5.description>Tämä sairaala on erittäin kaunis. Täällä oleskelu saa minut tuntemaan oloni jo paremmaksi.</HospitalPatientRoomStats.stages.5.description>
-  <HospitalPatientRoomStats.stages.6.label>extremely kaunis sairaala</HospitalPatientRoomStats.stages.6.label>
-  <HospitalPatientRoomStats.stages.6.description>Tämä sairaala on äärimmäisen kaunis. Täällä oleskelu saa minut tuntemaan oloni jo paremmaksi.</HospitalPatientRoomStats.stages.6.description>
-  <HospitalPatientRoomStats.stages.7.label>unbelievably kaunis sairaala</HospitalPatientRoomStats.stages.7.label>
-  <HospitalPatientRoomStats.stages.7.description>Tämä sairaala on uskomattoman kaunis. Täällä oleskelu saa minut tuntemaan oloni jo paremmaksi.</HospitalPatientRoomStats.stages.7.description>
-  <HospitalPatientRoomStats.stages.8.label>unbelievably impressive hospital</HospitalPatientRoomStats.stages.8.label>
-  <HospitalPatientRoomStats.stages.8.description>My hospital is unbelievably impressive. It makes me feel better already.</HospitalPatientRoomStats.stages.8.description>
-  <HospitalPatientRoomStats.stages.9.label>wondrously impressive hospital</HospitalPatientRoomStats.stages.9.label>
-  <HospitalPatientRoomStats.stages.9.description>My hospital is wonderful! It makes me feel better already.</HospitalPatientRoomStats.stages.9.description>
-
-
-  <!--<Bedroom.stages.0.label>hirveä makuuhuone</Bedroom.stages.0.label>-->
-  <!--<Bedroom.stages.0.description>Minun makuuhuoneeni on hirveä paikka.</Bedroom.stages.0.description>-->
-  <!--<Bedroom.stages.3.label>decent bedroom</Bedroom.stages.3.label>-->
-  <!--<Bedroom.stages.3.description>My bedroom is very interesting. I like it.</Bedroom.stages.3.description>-->
-  <!--<Bedroom.stages.4.label>kiinnostava makuuhuone</Bedroom.stages.4.label>-->
-  <!--<Bedroom.stages.4.description>Minun makuuhuoneeni on erittäin kiinnostava. Pidän siitä.</Bedroom.stages.4.description>-->
-  <!--<Bedroom.stages.5.label>jokseenkin vaikuttava makuuhuone</Bedroom.stages.5.label>-->
-  <!--<Bedroom.stages.5.description>Minun makuuhuoneeni on mukava paikka. Pidän siitä.</Bedroom.stages.5.description>-->
-  <!--<Bedroom.stages.6.label>vaikuttava makuuhuone</Bedroom.stages.6.label>-->
-  <!--<Bedroom.stages.6.description>Minun makuuhuoneeni on vaikuttava. Rakastan sitä!</Bedroom.stages.6.description>-->
-  <!--<Bedroom.stages.7.label>erittäin vaikuttava makuuhuone</Bedroom.stages.7.label>-->
-  <!--<Bedroom.stages.7.description>Minun makuuhuoneeni on erittäin vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.7.description>-->
-  <!--<Bedroom.stages.8.label>äärimmäisen vaikuttava makuuhuone</Bedroom.stages.8.label>-->
-  <!--<Bedroom.stages.8.description>Minun makuuhuoneeni on äärimmäisen vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.8.description>-->
-  <!--<Bedroom.stages.9.label>uskomattoman vaikuttava makuuhuone</Bedroom.stages.9.label>-->
-  <!--<Bedroom.stages.9.description>Minun makuuhuoneeni on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</Bedroom.stages.9.description>-->
-  <!--<Barracks.stages.0.label>hirveä parakki</Barracks.stages.0.label>-->
-  <!--<Barracks.stages.0.description>Minun parakkini on hirveä paikka.</Barracks.stages.0.description>-->
-  <!--<Barracks.stages.1.label>luotaantyöntävä parakki</Barracks.stages.1.label>-->
-  <!--<Barracks.stages.1.description>Minun parakkini on luotaantyöntävä paikka.</Barracks.stages.1.description>-->
-  <!--<Barracks.stages.4.label>slightly impressive barrack</Barracks.stages.4.label>-->
-  <!--<Barracks.stages.4.description>My barrack is a nice place. I wish I had my own bedroom, though.</Barracks.stages.4.description>-->
-  <!--<Barracks.stages.5.label>jokseenkin vaikuttava parakki</Barracks.stages.5.label>-->
-  <!--<Barracks.stages.5.description>Minun parakkini on mukava paikka. Olisipa minulla silti oma makuuhuone.</Barracks.stages.5.description>-->
-  <!--<Barracks.stages.6.label>vaikuttava parakki</Barracks.stages.6.label>-->
-  <!--<Barracks.stages.6.description>Minun parakkini on vaikuttava. Pidän siitä. Olisipa minulla silti oma makuuhuone.</Barracks.stages.6.description>-->
-  <!--<Barracks.stages.7.label>erittäin vaikuttava parakki</Barracks.stages.7.label>-->
-  <!--<Barracks.stages.7.description>Minun parakkini on erittäin vaikuttava. Rakastan sitä!</Barracks.stages.7.description>-->
-  <!--<Barracks.stages.8.label>äärimmäisen vaikuttava parakki</Barracks.stages.8.label>-->
-  <!--<Barracks.stages.8.description>Minun parakkini on äärimmäisen vaikuttava. Tämä on paras paikka ikinä!</Barracks.stages.8.description>-->
-  <!--<Barracks.stages.9.label>uskomattoman vaikuttava parakki</Barracks.stages.9.label>-->
-  <!--<Barracks.stages.9.description>Minun parakkini on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</Barracks.stages.9.description>-->
-
+  
+  <!-- EN: awful hospital -->
+  <HospitalPatientRoomStats.stages.awful_hospital.label>awful hospital</HospitalPatientRoomStats.stages.awful_hospital.label>
+  <!-- EN: This hospital is awful. -->
+  <HospitalPatientRoomStats.stages.awful_hospital.description>This hospital is awful.</HospitalPatientRoomStats.stages.awful_hospital.description>
+  <!-- EN: dull hospital -->
+  <HospitalPatientRoomStats.stages.dull_hospital.label>dull hospital</HospitalPatientRoomStats.stages.dull_hospital.label>
+  <!-- EN: I'm stuck in a dull hospital. -->
+  <HospitalPatientRoomStats.stages.dull_hospital.description>I'm stuck in a dull hospital.</HospitalPatientRoomStats.stages.dull_hospital.description>
+  <!-- EN: slightly impressive hospital -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>kaunis sairaala</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  <!-- EN: My hospital is slightly impressive. It makes me feel a bit better. -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>Tämä sairaala on mukava paikka. It makes me feel better.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <!-- EN: somewhat impressive hospital -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>very kaunis sairaala</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  <!-- EN: My hospital is impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>Tämä sairaala on erittäin kaunis. Täällä oleskelu saa minut tuntemaan oloni jo paremmaksi.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <!-- EN: very impressive hospital -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>extremely kaunis sairaala</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  <!-- EN: My hospital is very impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>Tämä sairaala on äärimmäisen kaunis. Täällä oleskelu saa minut tuntemaan oloni jo paremmaksi.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <!-- EN: extremely impressive hospital -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>unbelievably kaunis sairaala</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  <!-- EN: My hospital is extremely impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>Tämä sairaala on uskomattoman kaunis. Täällä oleskelu saa minut tuntemaan oloni jo paremmaksi.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <!-- EN: unbelievably impressive hospital -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>unbelievably impressive hospital</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+  <!-- EN: My hospital is unbelievably impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>My hospital is unbelievably impressive. It makes me feel better already.</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  <!-- EN: wondrously impressive hospital -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>wondrously impressive hospital</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+  <!-- EN: My hospital is wonderful! It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>My hospital is wonderful! It makes me feel better already.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  
+  <!-- EN: awful barrack -->
+  <PrisonBarracks.stages.awful_barrack.label>hirveä parakki</PrisonBarracks.stages.awful_barrack.label>
+  <!-- EN: My prison barrack is an awful place. -->
+  <PrisonBarracks.stages.awful_barrack.description>Minun vankiparakkini on hirveä paikka.</PrisonBarracks.stages.awful_barrack.description>
+  <!-- EN: dull barrack -->
+  <PrisonBarracks.stages.dull_barrack.label>luotaantyöntävä parakki</PrisonBarracks.stages.dull_barrack.label>
+  <!-- EN: I'm living in a dull barrack. -->
+  <PrisonBarracks.stages.dull_barrack.description>Minun vankiparakkini on luotaantyöntävä paikka.</PrisonBarracks.stages.dull_barrack.description>
+  <!-- EN: slightly impressive barrack -->
+  <PrisonBarracks.stages.slightly_impressive_barrack.label>slightly impressive barrack</PrisonBarracks.stages.slightly_impressive_barrack.label>
+  <!-- EN: My prison barrack is slightly impressive. -->
+  <PrisonBarracks.stages.slightly_impressive_barrack.description>My prison barrack is slightly impressive.</PrisonBarracks.stages.slightly_impressive_barrack.description>
+  <!-- EN: somewhat impressive barrack -->
+  <PrisonBarracks.stages.somewhat_impressive_barrack.label>jokseenkin vaikuttava parakki</PrisonBarracks.stages.somewhat_impressive_barrack.label>
+  <!-- EN: My prison barrack is impressive. I like it. -->
+  <PrisonBarracks.stages.somewhat_impressive_barrack.description>Minun vankiparakkini näyttää mukavalta paikalta.</PrisonBarracks.stages.somewhat_impressive_barrack.description>
+  <!-- EN: very impressive barrack -->
+  <PrisonBarracks.stages.very_impressive_barrack.label>vaikuttava parakki</PrisonBarracks.stages.very_impressive_barrack.label>
+  <!-- EN: My prison barrack is very impressive. I like it. -->
+  <PrisonBarracks.stages.very_impressive_barrack.description>Minun vankiparakkini on vaikuttava. Pidän siitä.</PrisonBarracks.stages.very_impressive_barrack.description>
+  <!-- EN: extremely impressive barrack -->
+  <PrisonBarracks.stages.extremely_impressive_barrack.label>erittäin vaikuttava parakki</PrisonBarracks.stages.extremely_impressive_barrack.label>
+  <!-- EN: My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.extremely_impressive_barrack.description>Minun vankiparakkini on erittäin vaikuttava. Pidän siitä.</PrisonBarracks.stages.extremely_impressive_barrack.description>
+  <!-- EN: unbelievably impressive barrack -->
+  <PrisonBarracks.stages.unbelievably_impressive_barrack.label>äärimmäisen vaikuttava parakki</PrisonBarracks.stages.unbelievably_impressive_barrack.label>
+  <!-- EN: My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.unbelievably_impressive_barrack.description>Minun vankiparakkini on äärimmäisen vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. </PrisonBarracks.stages.unbelievably_impressive_barrack.description>
+  <!-- EN: wondrously impressive barrack -->
+  <PrisonBarracks.stages.wondrously_impressive_barrack.label>uskomattoman vaikuttava parakki</PrisonBarracks.stages.wondrously_impressive_barrack.label>
+  <!-- EN: My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.wondrously_impressive_barrack.description>Minun vankiparakkini on uskomattoman vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. </PrisonBarracks.stages.wondrously_impressive_barrack.description>
+  
+  <!-- EN: awful prison cell -->
+  <PrisonCell.stages.awful_prison_cell.label>hirveä vankiselli</PrisonCell.stages.awful_prison_cell.label>
+  <!-- EN: My prison cell is an awful place. -->
+  <PrisonCell.stages.awful_prison_cell.description>Minun vankisellini on hirveä paikka.</PrisonCell.stages.awful_prison_cell.description>
+  <!-- EN: decent prison cell -->
+  <PrisonCell.stages.decent_prison_cell.label>decent prison cell</PrisonCell.stages.decent_prison_cell.label>
+  <!-- EN: My prison cell is pretty decent. -->
+  <PrisonCell.stages.decent_prison_cell.description>My prison cell is pretty decent.</PrisonCell.stages.decent_prison_cell.description>
+  <!-- EN: slightly impressive prison cell -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>kiinnostava vankiselli</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  <!-- EN: My prison cell seems to be a nice place. -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>Minun vankisellini on erittäin kiinnostava.</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  <!-- EN: impressive prison cell -->
+  <PrisonCell.stages.impressive_prison_cell.label>jokseenkin vaikuttava vankiselli</PrisonCell.stages.impressive_prison_cell.label>
+  <!-- EN: My prison cell is impressive. I can't believe they are keeping me in a room like this. -->
+  <PrisonCell.stages.impressive_prison_cell.description>Minun vankisellini näyttää mukavalta paikalta.</PrisonCell.stages.impressive_prison_cell.description>
+  <!-- EN: very impressive prison cell -->
+  <PrisonCell.stages.very_impressive_prison_cell.label>vaikuttava vankiselli</PrisonCell.stages.very_impressive_prison_cell.label>
+  <!-- EN: My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.very_impressive_prison_cell.description>Minun vankisellini on vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa.</PrisonCell.stages.very_impressive_prison_cell.description>
+  <!-- EN: extremely impressive prison cell -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>erittäin vaikuttava vankiselli</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  <!-- EN: My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>Minun vankisellini on erittäin vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. Rakastan sitä!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <!-- EN: unbelievably impressive prison cell -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>äärimmäisen vaikuttava vankiselli</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  <!-- EN: My prison cell is unbelievably impressive. This is the best place ever! -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>Minun vankisellini on äärimmäisen vaikuttava. En voi uskoa että he pitävät minua tällaisessa huoneessa. Rakastan sitä!</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  <!-- EN: wondrously impressive prison cell -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>uskomattoman vaikuttava vankiselli</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  <!-- EN: My prison cell is the best place one can ever imagine. I can stay here forever. -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>Minun vankisellini on uskomattoman vaikuttava. Tämä on paras paikka ikinä!</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+  
 </LanguageData>

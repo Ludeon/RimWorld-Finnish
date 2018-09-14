@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lattiat tab -->
+  <Architect_Floors.label>floors tab</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Lattiat" section of the Architect menu -->
+  <Architect_Floors.description>Key bindings for the "Floors" section of the Architect menu</Architect_Floors.description>
+  
+  <!-- EN: huonekalut tab -->
+  <Architect_Furniture.label>furniture tab</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Huonekalut" section of the Architect menu -->
+  <Architect_Furniture.description>Key bindings for the "Furniture" section of the Architect menu</Architect_Furniture.description>
+  
+  <!-- EN: huvi tab -->
+  <Architect_Joy.label>joy tab</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Huvi" section of the Architect menu -->
+  <Architect_Joy.description>Key bindings for the "Joy" section of the Architect menu</Architect_Joy.description>
+  
+  <!-- EN: sekalaiset tab -->
+  <Architect_Misc.label>misc tab</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Sekalaiset" section of the Architect menu -->
+  <Architect_Misc.description>Key bindings for the "Misc" section of the Architect menu</Architect_Misc.description>
+  
+  <!-- EN: määräykset tab -->
+  <Architect_Orders.label>orders tab</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Määräykset" section of the Architect menu -->
+  <Architect_Orders.description>Key bindings for the "Orders" section of the Architect menu</Architect_Orders.description>
+  
+  <!-- EN: energia tab -->
+  <Architect_Power.label>power tab</Architect_Power.label>
+  <!-- EN: Key bindings for the "Energia" section of the Architect menu -->
+  <Architect_Power.description>Key bindings for the "Power" section of the Architect menu</Architect_Power.description>
+  
+  <!-- EN: tuotanto tab -->
+  <Architect_Production.label>production tab</Architect_Production.label>
+  <!-- EN: Key bindings for the "Tuotanto" section of the Architect menu -->
+  <Architect_Production.description>Key bindings for the "Production" section of the Architect menu</Architect_Production.description>
+  
+  <!-- EN: turvallisuus tab -->
+  <Architect_Security.label>security tab</Architect_Security.label>
+  <!-- EN: Key bindings for the "Turvallisuus" section of the Architect menu -->
+  <Architect_Security.description>Key bindings for the "Security" section of the Architect menu</Architect_Security.description>
+  
+  <!-- EN: avaruusalus tab -->
+  <Architect_Ship.label>ship tab</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Avaruusalus" section of the Architect menu -->
+  <Architect_Ship.description>Key bindings for the "Ship" section of the Architect menu</Architect_Ship.description>
+  
+  <!-- EN: rakenteet tab -->
+  <Architect_Structure.label>structure tab</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Rakenteet" section of the Architect menu -->
+  <Architect_Structure.description>Key bindings for the "Structure" section of the Architect menu</Architect_Structure.description>
+  
+  <!-- EN: lämpötila tab -->
+  <Architect_Temperature.label>temperature tab</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Lämpötila" section of the Architect menu -->
+  <Architect_Temperature.description>Key bindings for the "Temperature" section of the Architect menu</Architect_Temperature.description>
+  
+  <!-- EN: alueet tab -->
+  <Architect_Zone.label>zone/Area tab</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Alueet" section of the Architect menu -->
+  <Architect_Zone.description>Key bindings for the "Zone/Area" section of the Architect menu</Architect_Zone.description>
+  
+</LanguageData>

@@ -1,29 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>abandoned faction base</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>An abandoned base of one of the factions.</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: caravan -->
   <Caravan.label>caravan</Caravan.label>
+  <!-- EN: A group of traveling people. -->
   <Caravan.description>A group of traveling people.</Caravan.description>
-
-  <FactionBase.label>faction base</FactionBase.label>
-  <FactionBase.description>A base of one of the factions.</FactionBase.description>
-
-  <AbandonedFactionBase.label>abandoned faction base</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>An abandoned base of one of the factions.</AbandonedFactionBase.description>
-
-  <DestroyedFactionBase.label>destroyed faction base</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>A destroyed faction base.</DestroyedFactionBase.description>
-
-  <JourneyDestination.label>journey destination</JourneyDestination.label>
-  <JourneyDestination.description>The location of a hidden ship which can help you escape the planet.</JourneyDestination.description>
-
-  <AttackedCaravan.label>attacked caravan</AttackedCaravan.label>
-  <AttackedCaravan.description>A caravan under attack.</AttackedCaravan.description>
-
-  <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
-  <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
-
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>destroyed faction base</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>A destroyed faction base.</DestroyedSettlement.description>
+  
+  <!-- EN: landed ship -->
+  <EscapeShip.label>journey destination</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
+  
+  <!-- EN: peace talks -->
+  <PeaceTalks.label>TODO</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
+  <PeaceTalks.description>TODO</PeaceTalks.description>
+  
+  <!-- EN: waypoint -->
   <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
   <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
-
-
+  
+  <!-- EN: settlement -->
+  <Settlement.label>faction base</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>A base of one of the factions.</Settlement.description>
+  
+  <!-- EN: transport pods -->
+  <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
+  
 </LanguageData>

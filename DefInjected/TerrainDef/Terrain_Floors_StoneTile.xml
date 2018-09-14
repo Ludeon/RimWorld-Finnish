@@ -1,35 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TileSandstone.label>hiekkakivilaatta</TileSandstone.label>
-  <TileSandstone.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileSandstone.description>
-
-  <TileGranite.label>graniittilaatta</TileGranite.label>
-  <TileGranite.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileGranite.description>
-
-  <TileLimestone.label>kalkkikivilaatta</TileLimestone.label>
-  <TileLimestone.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileLimestone.description>
-
-  <TileSlate.label>liuskekivilaatta</TileSlate.label>
-  <TileSlate.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileSlate.description>
-
-  <TileMarble.label>marmorilaatta</TileMarble.label>
-  <TileMarble.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileMarble.description>
-
-  <FlagstoneSandstone.label>sandstone flagstone</FlagstoneSandstone.label>
-  <FlagstoneSandstone.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSandstone.description>
-
+  
+  <!-- EN: granite flagstone -->
   <FlagstoneGranite.label>granite flagstone</FlagstoneGranite.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneGranite.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneGranite.description>
-
+  
+  <!-- EN: limestone flagstone -->
   <FlagstoneLimestone.label>limestone flagstone</FlagstoneLimestone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneLimestone.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneLimestone.description>
-
-  <FlagstoneSlate.label>slate flagstone</FlagstoneSlate.label>
-  <FlagstoneSlate.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSlate.description>
-
+  
+  <!-- EN: marble flagstone -->
   <FlagstoneMarble.label>marble flagstone</FlagstoneMarble.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneMarble.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneMarble.description>
-
-
+  
+  <!-- EN: sandstone flagstone -->
+  <FlagstoneSandstone.label>sandstone flagstone</FlagstoneSandstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstone.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <FlagstoneSlate.label>slate flagstone</FlagstoneSlate.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlate.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSlate.description>
+  
+  <!-- EN: granite tile -->
+  <TileGranite.label>graniittilaatta</TileGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGranite.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <TileLimestone.label>kalkkikivilaatta</TileLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestone.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <TileMarble.label>marmorilaatta</TileMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarble.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <TileSandstone.label>hiekkakivilaatta</TileSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstone.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileSandstone.description>
+  
+  <!-- EN: slate tile -->
+  <TileSlate.label>liuskekivilaatta</TileSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlate.description>Jykeviä kivilaattoja linnatunnelman luomiseen. Pretty to look at, but they take a long time to lay.</TileSlate.description>
+  
 </LanguageData>

@@ -1,25 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>kokkaa hieno ateria</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>Kokkaa jokseenkin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>Kokkaa hienoa ateriaa.</CookMealFine.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>kokkaa yltäkylläinen ateria</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavish.description>Kokkaa hyvin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia. Käyttää ainesosia säästelemättä.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>Kokkaa yltäkylläistä ateriaa.</CookMealLavish.jobString>
+  
+  <!-- EN: cook simple meal -->
   <CookMealSimple.label>kokkaa yksinkertainen ateria</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
   <CookMealSimple.description>Kokkaa mutkattoman aterian yhdestä aineksesta.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>Kokkaa yksinkertaista ateriaa.</CookMealSimple.jobString>
-
+  
+  <!-- UNUSED -->
   <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
   <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>
   <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
-
-  <CookMealFine.label>kokkaa hieno ateria</CookMealFine.label>
-  <CookMealFine.description>Kokkaa jokseenkin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia.</CookMealFine.description>
-  <CookMealFine.jobString>Kokkaa hienoa ateriaa.</CookMealFine.jobString>
-
-  <CookMealLavish.label>kokkaa yltäkylläinen ateria</CookMealLavish.label>
-  <CookMealLavish.description>Kokkaa hyvin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia. Käyttää ainesosia säästelemättä.</CookMealLavish.description>
-  <CookMealLavish.jobString>Kokkaa yltäkylläistä ateriaa.</CookMealLavish.jobString>
-
+  
+  <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
-
-
+  
 </LanguageData>

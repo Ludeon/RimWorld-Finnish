@@ -1,30 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: a -->
   <IndefiniteArticle></IndefiniteArticle>
+  <!-- EN: the -->
   <DefiniteArticle></DefiniteArticle>
+  <!-- EN: a {0} -->
   <IndefiniteForm>{0}</IndefiniteForm>
+  <!-- EN: the {0} -->
   <DefiniteForm>{0}</DefiniteForm>
 
+  <!-- EN: its -->
   <Proits>sen</Proits>
+  <!-- EN: his -->
   <Prohis>hänen</Prohis>
+  <!-- EN: her -->
   <Proher>hänen</Proher>
+  <!-- EN: Its -->
   <ProitsCap>Sen</ProitsCap>
+  <!-- EN: His -->
   <ProhisCap>Hänen</ProhisCap>
+  <!-- EN: Her -->
   <ProherCap>Hänen</ProherCap>
 
+  <!-- EN: it -->
   <ProitObj>sitä</ProitObj>
+  <!-- EN: him -->
   <ProhimObj>häntä</ProhimObj>
+  <!-- EN: her -->
   <ProherObj>häntä</ProherObj>
+  <!-- EN: It -->
   <ProitObjCap>Sitä</ProitObjCap>
+  <!-- EN: Him -->
   <ProhimObjCap>Häntä</ProhimObjCap>
+  <!-- EN: Her -->
   <ProherObjCap>Häntä</ProherObjCap>
 
+  <!-- EN: he -->
   <Prohe>hän</Prohe>
+  <!-- EN: she -->
   <Proshe>hän</Proshe>
+  <!-- EN: it -->
   <Proit>se</Proit>
+  <!-- EN: He -->
   <ProheCap>Hän</ProheCap>
+  <!-- EN: She -->
   <ProsheCap>Hän</ProsheCap>
+  <!-- EN: It -->
   <ProitCap>Se</ProitCap>
 
 </LanguageData>

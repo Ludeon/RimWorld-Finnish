@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GotMarried.stages.0.label>got married</GotMarried.stages.0.label>
-  <GotMarried.stages.0.description>I got married! Life is full of possibility!</GotMarried.stages.0.description>
-
-  <AttendedWedding.stages.0.label>attended wedding</AttendedWedding.stages.0.label>
-  <AttendedWedding.stages.0.description>It was great to see two people come together to build a future like that.</AttendedWedding.stages.0.description>
-
-  <AttendedParty.stages.0.label>attended party</AttendedParty.stages.0.label>
-  <AttendedParty.stages.0.description>I had a good time at that party.</AttendedParty.stages.0.description>
-
-
+  
+  <!-- EN: attended party -->
+  <AttendedParty.stages.attended_party.label>attended party</AttendedParty.stages.attended_party.label>
+  <!-- EN: I had a good time at that party. -->
+  <AttendedParty.stages.attended_party.description>I had a good time at that party.</AttendedParty.stages.attended_party.description>
+  
+  <!-- EN: attended wedding -->
+  <AttendedWedding.stages.attended_wedding.label>attended wedding</AttendedWedding.stages.attended_wedding.label>
+  <!-- EN: It was great to see two people come together to build a future like that. -->
+  <AttendedWedding.stages.attended_wedding.description>It was great to see two people come together to build a future like that.</AttendedWedding.stages.attended_wedding.description>
+  
+  <!-- EN: got married to {0} -->
+  <GotMarried.stages.got_married_to.label>got married</GotMarried.stages.got_married_to.label>
+  <!-- EN: I got married! It's so wonderful to be starting a new life together! -->
+  <GotMarried.stages.got_married_to.description>I got married! Life is full of possibility!</GotMarried.stages.got_married_to.description>
+  
 </LanguageData>

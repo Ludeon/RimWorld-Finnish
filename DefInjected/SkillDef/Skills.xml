@@ -1,69 +1,88 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Shooting.label>Shooting</Shooting.label>
-  <Shooting.description>Kaikenlaisten ampuma-aseiden käyttäminen.</Shooting.description>
-  <Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
-
-  <Melee.label>Melee</Melee.label>
-  <Melee.description>Kaikenlaisten lähitaisteluaseiden käyttäminen ja aseeton taistelu.</Melee.description>
-  <Melee.skillLabel>Lähitaistelu</Melee.skillLabel>
-
-  <Social.label>sosiaalinen</Social.label>
-  <Social.description>Muiden neuvottelu, suostuttelu, manipulointi, johtaminen ja kannustaminen.</Social.description>
-  <Social.skillLabel>Sosiaalisuus</Social.skillLabel>
-
+  
+  <!-- EN: animals -->
   <Animals.label>eläimet</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>Eläinten kesyttäminen, kouluttaminen, hoitaminen ja ohjaaminen.</Animals.description>
+  <!-- EN: animals -->
   <Animals.skillLabel>Eläimet</Animals.skillLabel>
-
-  <Medicine.label>lääketarpeet</Medicine.label>
-  <Medicine.description>Haavojen ja sairauksien hoitaminen ja kirurgia.</Medicine.description>
-  <Medicine.skillLabel>Lääkitseminen</Medicine.skillLabel>
-
-  <Cooking.label>Cooking</Cooking.label>
-  <Cooking.description>Aterioiden tekeminen raaoista raaka-aineista.</Cooking.description>
-  <Cooking.skillLabel>Ruuanlaitto</Cooking.skillLabel>
-
-  <Construction.label>Construction</Construction.label>
-  <Construction.description>Paremmat rakentajat rakentavat rakennelmia ja huonekaluja nopeammin ja parempilaatuisina.</Construction.description>
-  <Construction.skillLabel>Rakentaminen</Construction.skillLabel>
-
-  <Growing.label>Growing</Growing.label>
-  <Growing.description>Kylväminen, viljelmien huolehtiminen ja sadonkorjuu.</Growing.description>
-  <Growing.skillLabel>Viljeleminen</Growing.skillLabel>
-
-  <Mining.label>louhiminen</Mining.label>
-  <Mining.description>Tunneleiden ja haudatuiden resurssien kaivaminen.</Mining.description>
-  <Mining.skillLabel>Louhiminen</Mining.skillLabel>
-
+  
+  <!-- EN: artistic -->
   <Artistic.label>Artistic</Artistic.label>
+  <!-- EN: Crafting art. -->
   <Artistic.description>Taiteenteko.</Artistic.description>
+  <!-- EN: artistic -->
   <Artistic.skillLabel>Taiteellisuus</Artistic.skillLabel>
-
+  
+  <!-- EN: construction -->
+  <Construction.label>Construction</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Paremmat rakentajat rakentavat rakennelmia ja huonekaluja nopeammin ja parempilaatuisina.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>Rakentaminen</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>Cooking</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Aterioiden tekeminen raaoista raaka-aineista.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>Ruuanlaitto</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
   <Crafting.label>Crafting</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>Yleishyödyllisten tavaroiden, kuten aseiden ja työkalujen, teko.</Crafting.description>
+  <!-- EN: crafting -->
   <Crafting.skillLabel>Työskentely käsin</Crafting.skillLabel>
-
+  
+  <!-- EN: intellectual -->
   <Intellectual.label>Intellectual</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>Investigating evidence, making connections, calculating and using logic.</Intellectual.description>
+  <!-- EN: intellectual -->
   <Intellectual.skillLabel>Intellectual</Intellectual.skillLabel>
-
-
-  <!--<Shooting.pawnLabel>Ampuja</Shooting.pawnLabel>-->
-  <!--<Melee.pawnLabel>Painija</Melee.pawnLabel>-->
-  <!--<Social.pawnLabel>Seurapiirihenkilö</Social.pawnLabel>-->
-  <!--<Animals.pawnLabel>Eläintenkäsittelijä</Animals.pawnLabel>-->
-  <!--<Medicine.pawnLabel>Lääkäri</Medicine.pawnLabel>-->
-  <!--<Cooking.pawnLabel>Kokki</Cooking.pawnLabel>-->
-  <!--<Construction.pawnLabel>Rakentaja</Construction.pawnLabel>-->
-  <!--<Growing.pawnLabel>Viljelijä</Growing.pawnLabel>-->
-  <!--<Mining.pawnLabel>Louhija</Mining.pawnLabel>-->
-  <!--<Artistic.pawnLabel>Taiteilija</Artistic.pawnLabel>-->
-  <!--<Crafting.pawnLabel>Käsityöntekijä</Crafting.pawnLabel>-->
-  <!--<Research.label>tutkimus</Research.label>-->
-  <!--<Research.description>Todisteiden tutkiminen, kokeiden tekeminen ja opiskelu.</Research.description>-->
-  <!--<Research.skillLabel>Tutkiminen</Research.skillLabel>-->
-  <!--<Research.pawnLabel>Tutkija</Research.pawnLabel>-->
-
+  
+  <!-- EN: medical -->
+  <Medicine.label>lääketarpeet</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Haavojen ja sairauksien hoitaminen ja kirurgia.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>Lääkitseminen</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>Melee</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Kaikenlaisten lähitaisteluaseiden käyttäminen ja aseeton taistelu.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>Lähitaistelu</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>louhiminen</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Tunneleiden ja haudatuiden resurssien kaivaminen.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>Louhiminen</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>Growing</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Kylväminen, viljelmien huolehtiminen ja sadonkorjuu.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>Viljeleminen</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>Shooting</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Kaikenlaisten ampuma-aseiden käyttäminen.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>sosiaalinen</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Muiden neuvottelu, suostuttelu, manipulointi, johtaminen ja kannustaminen.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>Sosiaalisuus</Social.skillLabel>
+  
 </LanguageData>

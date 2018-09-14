@@ -1,182 +1,395 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>Tutoriaali</Tutorial>
+  <!-- EN: New colony -->
   <NewColony>Uusi yhdyskunta</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>Takaisin peliin</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>Review scenario</ReviewScenario>
+  <!-- EN: Save -->
   <Save>Tallenna</Save>
+  <!-- EN: Load game -->
   <LoadGame>Lataa peli</LoadGame>
+  <!-- EN: Options -->
   <Options>Asetukset</Options>
+  <!-- EN: Mods -->
   <Mods>Modit</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>TODO</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>Tekijät</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Poistu päävalikkoon</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Tallenna ja poistu päävalikkoon</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
   <QuitToOS>Poistu työpöydälle</QuitToOS>
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Tallenna ja poistu työpöydälle</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>Tarinan pohja</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>Ludeon blogi</LudeonBlog>
+  <!-- EN: Forums -->
   <Forums>Foorumit</Forums>
+  <!-- EN: Official wiki -->
   <OfficialWiki>Virallinen wiki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>Tynanin twitter</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>Tynanin design book</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Auta kääntämään RimWorldia</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Osta soundtrack</BuySoundtrack>
+  <!-- EN: Create world -->
   <CreateWorld>Luo maailma</CreateWorld>
 
-  <!--=========== Create/review world ================-->
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>TODO</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>TODO</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>TODO</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>TODO</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>Tarkastele maailmaa</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>Luo</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Tallenna</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>Nollaa</Reset>
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>Planeetan peitto</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>Vallitseva sademäärä</PlanetRainfall>
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>Vallitseva lämpötila</PlanetTemperature>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>Matala</PlanetRainfall_Low>
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>Normaali</PlanetRainfall_Normal>
+  <!-- EN: High -->
   <PlanetRainfall_High>Korkea</PlanetRainfall_High>
+  <!-- EN: Low -->
   <PlanetTemperature_Low>Matala</PlanetTemperature_Low>
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>Normaali</PlanetTemperature_Normal>
+  <!-- EN: High -->
   <PlanetTemperature_High>Korkea</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Luontiarvo</WorldSeed>
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>Satunnainen luontiarvo</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>Planeetalla on aina sama halkaisija, mutta se on suurempi kuin tarvitaan pelaamiseen. Siksi emme käsittele planeetan koko pintaa, koska se voi kestää erittäin kauan. Tämä on osuus pinnasta jonka haluat käsiteltävän.</PlanetCoverageTip>
+  <!-- EN: Factions -->
   <WorldFactionsTab>Ryhmät</WorldFactionsTab>
 
-  <!--=========== Select world ===================-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>Valitse maailma</SelectWorld>
+  <!-- EN: Select -->
   <WorldChooseButton>Valitse</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo maailma ensin.</NoWorldsFilesFound>
-
-  <!--=========== Version info ==========-->
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
   <BuildUpToDate>Versio on uusin</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Virhe haettaessa version tietoa: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Ladataan versiotietoja</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>Luo maailma</GenerateWorld>
 
-  <!--=========== Mods config ==========-->
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Avaa Steam Workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>Hanki modeja foorumilta</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Avaa modien tiedostokansio</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>TODO</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Oletko varma että haluat poistaa ytimen modin? Peli ei toimi ellei sinulla ole toista modia mikä korvaa kaikki ytimen keskinäiset toiminnot.\n\nMuista, muut modit voivat kumota def:ejä ytimen modissa käyttämällä samaa defName:a.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Oletko varma että haluat poistaa kaiken modin {0} sisällön?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>Poista tilaus</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>Oletko varma että haluat poistaa tilauksen modista {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>Tekijä</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>Workshop-sivu</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>Lataa Steam Workshoppiin</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Päivitä Steam Workshopissa</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Lataus palvelimelle on jo menossa.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Julkaisu Workshoppiin epäonnistui.\n\nSyy: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>{0} ladattiin onnistuneesti palvelimelle.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>Ladataan</Downloading>
+  <!-- EN: Source -->
   <Source>Lähde</Source>
+  <!-- EN: For version: {0} -->
   <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
   <DragToReorder>Drag to reorder</DragToReorder>
-
-  <!--=========== Select scenario =============-->
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>Choose scenario</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>Custom</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
   <ScenarioEditor>Scenario editor</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>Delete</Delete>
-
-  <!--============ Scenario editor ===============-->
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>seed</Seed>
+  <!-- EN: Load -->
   <Load>Lataa yhdyskunta</Load>
+  <!-- EN: edit mode -->
   <EditMode>edit mode</EditMode>
+  <!-- EN: Summary -->
   <Summary>Summary</Summary>
+  <!-- EN: Add part -->
   <AddPart>Add part</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>Incompatible</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>Too many (max {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
-
-  <!--=========== Select storyteller ==========-->
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Valitse tarinankertoja</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten rosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätokset tulevat vaikuttamaan yhdyskuntasi tarinaan.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Valitse vaikeustaso.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>Vaikeustaso</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>TODO</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>TODO</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
 
-  <!--=========== Landing site select =========-->
+  <!-- Landing site select -->
+  <!-- EN: Select landing site -->
   <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
+  <!-- EN: Select random site -->
   <SelectRandomSite>Valitse satunnainen alue</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>Valitse alue</SelectSite>
+  <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
   <BiomeNotImplemented> on vielä toteuttamatta pelissä</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Et voi laskeutua läpäisemättömiin vuoriin.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>Ryhmällä {0} on jo tukikohta tässä.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
   <TileOccupied>This tile is occupied.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
   <Biome>Biomi</Biome>
+  <!-- EN: Terrain -->
   <Terrain>Maasto</Terrain>
+  <!-- EN: Road -->
   <Road>Road</Road>
+  <!-- EN: River -->
   <River>River</River>
+  <!-- EN: Elevation -->
   <Elevation>Korkeus</Elevation>
+  <!-- EN: Fertility -->
   <Fertility>Hedelmällisyys</Fertility>
+  <!-- EN: Average temperature -->
   <AvgTemp>Keskilämpötila</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>Sademäärä</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>TODO</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>Pohjoisrannikko</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>Itärannikko</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>Etelärannikko</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>Länsirannikko</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>TODO</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>Tukikohta</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>Kivilajit</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>Aikavyöhyke</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>TODO</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>Eläimet voivat nyt laiduntaa</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>TODO</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>TODO</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>TODO</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>TODO</ConfirmRequiredWorkTypeDisabledForEveryone>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>Luo hahmot</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>Hahmon ensimmäinen nimi.\n\nTämä näytetään vain tietyissä valikoissa.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla etu- tai sukunimi tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>Hahmon sukunimi.\n\nTämä näytetään vain tietyissä valikoissa.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>Satunnaista</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>ikä {0}</AgeIndicator>
+  <!-- EN: Backstory -->
+  <Backstory>Tausta</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>Kykenemätön toimiin</IncapableOf>
+  <!-- EN: Traits -->
+  <Traits>Luonteenpiirteet</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>Pysyvä vaikutus mielialaan</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>Taidot</Skills>
+  <!-- EN: none -->
+  <NoneLower>ei mitään</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>Aikuisuus</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>Lapsuus</Childhood>
+  <!-- EN: Current -->
+  <Current>TODO</Current>
+  <!-- EN: male -->
+  <Male>uros</Male>
+  <!-- EN: female -->
+  <Female>naaras</Female>
+  <!-- EN: male -->
+  <MaleAnimal>TODO</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>TODO</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>Kipu</Pain>
+  <!-- EN: Health -->
+  <Health>Terveys</Health>
+  <!-- EN: Relations -->
+  <Relations>Suhteet</Relations>
+  <!-- EN: Team skills -->
+  <TeamSkills>TODO</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>TODO</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>TODO</StartingPawnsLeftBehind>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>Aloita</Start>
+  <!-- EN: Advanced -->
+  <Advanced>Lisäasetukset</Advanced>
+  <!-- EN: Next -->
+  <Next>Seuraava</Next>
+  <!-- EN: Back -->
+  <Back>Edellinen</Back>
+  <!-- EN: Gameplay -->
+  <Gameplay>Pelattavuus</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>Haluatko varmasti lopettaa? Menetät kaiken tallentamattoman edistyksen.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Jokainen henkilö tarvitsee sopivan nimen.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>Quit</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>Ignore</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>Luodaan maailmaa</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>Generating planet</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>Luodaan karttaa</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+
+  <!-- UNUSED -->
   <AvgSummerTemp>Kesän lämpötila</AvgSummerTemp>
   <AvgWinterTemp>Talven lämpötila</AvgWinterTemp>
-  <Rainfall>Sademäärä</Rainfall>
-  <HasCoast0>Pohjoisrannikko</HasCoast0>
-  <HasCoast1>Itärannikko</HasCoast1>
-  <HasCoast2>Etelärannikko</HasCoast2>
-  <HasCoast3>Länsirannikko</HasCoast3>
-  <FactionBase>Tukikohta</FactionBase>
-  <StoneTypesHere>Kivilajit</StoneTypesHere>
-  <TimeZone>Aikavyöhyke</TimeZone>
   <MovementTimeNow>Nykyinen liikkumisaika</MovementTimeNow>
   <MovementTimeSummer>Kesän liikkumisaika</MovementTimeSummer>
   <MovementTimeWinter>Talven liikkumisaika</MovementTimeWinter>
-  <AnimalsCanGrazeNow>Eläimet voivat nyt laiduntaa</AnimalsCanGrazeNow>
-
-
-  <!--=========== Character chooser ==========-->
-  <CreateCharacters>Luo hahmot</CreateCharacters>
-  <FirstNameDesc>Hahmon ensimmäinen nimi.\n\nTämä näytetään vain tietyissä valikoissa.</FirstNameDesc>
-  <ShortIdentifierDesc>Hahmon kutsumanimi.\n\nTämä näytetään aina. Se voi olla etu- tai sukunimi tai täysin erillinen kutsumanimi.</ShortIdentifierDesc>
-  <LastNameDesc>Hahmon sukunimi.\n\nTämä näytetään vain tietyissä valikoissa.</LastNameDesc>
-  <Randomize>Satunnaista</Randomize>
-  <AgeIndicator>ikä {0}</AgeIndicator>
-  <Backstory>Tausta</Backstory>
-  <IncapableOf>Kykenemätön toimiin</IncapableOf>
-  <Traits>Luonteenpiirteet</Traits>
-  <PermanentMoodEffect>Pysyvä vaikutus mielialaan</PermanentMoodEffect>
-  <Skills>Taidot</Skills>
-  <NoneLower>ei mitään</NoneLower>
-  <Adulthood>Aikuisuus</Adulthood>
-  <Childhood>Lapsuus</Childhood>
-  <Male>uros</Male>
-  <Female>naaras</Female>
-  <Pain>Kipu</Pain>
-  <Health>Terveys</Health>
-  <Relations>Suhteet</Relations>
-
-  <!--=========== Misc ==========-->
-  <Start>Aloita</Start>
-  <Advanced>Lisäasetukset</Advanced>
-  <Next>Seuraava</Next>
-  <Back>Edellinen</Back>
-  <Gameplay>Pelattavuus</Gameplay>
-  <ConfirmQuit>Haluatko varmasti lopettaa? Menetät kaiken tallentamattoman edistyksen.</ConfirmQuit>
-  <EveryoneNeedsValidName>Jokainen henkilö tarvitsee sopivan nimen.</EveryoneNeedsValidName>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
-
-  <!--============ Progress bar==============-->
-  <GeneratingWorld>Luodaan maailmaa</GeneratingWorld>
-  <GeneratingPlanet>Generating planet</GeneratingPlanet>
-  <GeneratingMap>Luodaan karttaa</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 
 </LanguageData>

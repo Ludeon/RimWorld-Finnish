@@ -1,14 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Time -->
   <ClockTime>Aika</ClockTime>
+  <!-- EN: Date -->
   <ClockDate>Päivä</ClockDate>
+  <!-- EN: Year -->
   <ClockYear>Vuosi</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
   <DateReadoutTip>Päiviä saapumisestasi: {0}\nNykyinen neljännes: {4}\nPaikallinen vuodenaika: {2}\n\nVuosi on jaettu neljään neljännekseen, joiden pituus on {3} päivää. Neljännekset ovat samat kaikkialla, vaikka vuodenajat eroavat.\n\nPaikalliset vuodenajat joka neljänneksessä:\n{5}</DateReadoutTip>
 
+  <!-- EN: {0} of {1}, {2} -->
   <FullDate>{0}. {1}kuuta vuonna {2}</FullDate>
+  <!-- EN: {0} of {1}, {2} -->
   <DateReadout>{0}. {1}kuuta, {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
   <SeasonFullDate>{0}. {1}kuuta</SeasonFullDate>
+  <!-- EN: Whole year -->
   <WholeYear>Koko vuosi</WholeYear>
-
+  
 </LanguageData>

@@ -1,35 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Cobra.label>kobra</Cobra.label>
-  <Cobra.description>Suuri käärme. Kobrat ovat hyvin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olioista.</Cobra.description>
-  <Cobra_Leather.label>kobran nahkaa</Cobra_Leather.label>
-  <Cobra_Leather.description>Kobran vuodasta tehtyä nahkaa.</Cobra_Leather.description>
-  <Cobra_Leather.stuffProps.stuffAdjective>cobra leathery</Cobra_Leather.stuffProps.stuffAdjective>
-  <Cobra_Meat.label>kobran lihaa</Cobra_Meat.label>
-  <Cobra_Meat.description>Raakaa kobran lihaa.</Cobra_Meat.description>
-  <Cobra_Corpse.label>kobran ruumis</Cobra_Corpse.label>
-  <Cobra_Corpse.description>Kuolleen kobran ruumis.</Cobra_Corpse.description>
-
-  <Monkey.label>apina</Monkey.label>
-  <Monkey.description>Tämä apina voi käyttää kippuraista häntäänsä tarttuakseen puunoksiin jättäen kätensä vapaiksi tekemään muita toimia.</Monkey.description>
-  <Monkey_Leather.label>apinan nahkaa</Monkey_Leather.label>
-  <Monkey_Leather.description>Apinan vuodasta tehtyä nahkaa.</Monkey_Leather.description>
-  <Monkey_Leather.stuffProps.stuffAdjective>monkey leathery</Monkey_Leather.stuffProps.stuffAdjective>
-  <Monkey_Meat.label>apinan lihaa</Monkey_Meat.label>
-  <Monkey_Meat.description>Raakaa apinan lihaa.</Monkey_Meat.description>
-  <Monkey_Corpse.label>apinan ruumis</Monkey_Corpse.label>
-  <Monkey_Corpse.description>Kuolleen apinan ruumis.</Monkey_Corpse.description>
-
+  
+  <!-- EN: boomalope -->
   <Boomalope.label>paukkulooppi</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
   <Boomalope.description>Suunniteltu kemikaalien valmistamiseen ja kasvattaa suuren pussillisen epävakaita kemikaaleja selässään. Vaikka sen on heikko ja hauras kokoisekseen, muut eläimet ovat oppineet välttelemään sitä sen kuollessa syntyvän valtavan räjähdyksen takia.</Boomalope.description>
-  <Boomalope_Leather.label>paukkuloopin nahkaa</Boomalope_Leather.label>
-  <Boomalope_Leather.description>Paukkuloopin vuodasta tehtyä nahkaa.</Boomalope_Leather.description>
-  <Boomalope_Leather.stuffProps.stuffAdjective>boomalope leathery</Boomalope_Leather.stuffProps.stuffAdjective>
-  <Boomalope_Meat.label>paukkuloopin lihaa</Boomalope_Meat.label>
-  <Boomalope_Meat.description>Raakaa paukkuloopin lihaa.</Boomalope_Meat.description>
-  <Boomalope_Corpse.label>paukkuloopin ruumis</Boomalope_Corpse.label>
-  <Boomalope_Corpse.description>Kuolleen paukkuloopin ruumis.</Boomalope_Corpse.description>
-
-
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>TODO</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>TODO</Boomalope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>TODO</Boomalope.tools.right_hoof.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Suuri käärme. Kobrat ovat hyvin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olioista.</Cobra.description>
+  <!-- EN: cobraflesh -->
+  <Cobra.race.meatLabel>TODO</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>TODO</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>TODO</Cobra.tools.head.label>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>apina</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>Tämä apina voi käyttää kippuraista häntäänsä tarttuakseen puunoksiin jättäen kätensä vapaiksi tekemään muita toimia.</Monkey.description>
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>TODO</Monkey.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>TODO</Monkey.tools.right_fist.label>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>TODO</Monkey.tools.head.label>
+  
 </LanguageData>

@@ -1,44 +1,77 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: d -->
   <LetterDay>vrk</LetterDay>
+  <!-- EN: h -->
   <LetterHour>t</LetterHour>
+  <!-- EN: m -->
   <LetterMinute>m</LetterMinute>
+  <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
-
+  
+  <!-- EN: days -->
   <DaysLower>päivää</DaysLower>
+  <!-- EN: seconds -->
   <SecondsLower>sekuntia</SecondsLower>
 
+  <!-- EN: spring -->
   <SeasonSpring>kevät</SeasonSpring>
+  <!-- EN: summer -->
   <SeasonSummer>kesä</SeasonSummer>
+  <!-- EN: fall -->
   <SeasonFall>syksy</SeasonFall>
+  <!-- EN: winter -->
   <SeasonWinter>talvi</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
 
+  <!-- EN: Aprimay -->
   <QuadrumAprimay>Huhtitouko</QuadrumAprimay>
+  <!-- EN: Jugust -->
   <QuadrumJugust>Heinäelo</QuadrumJugust>
+  <!-- EN: Septober -->
   <QuadrumSeptober>Syysmarras</QuadrumSeptober>
+  <!-- EN: Decembary -->
   <QuadrumDecembary>Joulutammi</QuadrumDecembary>
-
+  
+  <!-- EN: Born: {0} -->
   <Born>Syntynyt: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>Kronologinen ikä: {0} vuotta, {1} neljännestä, {2} päivää</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>Biologinen ikä: {0} vuotta, {1} neljännestä, {2} päivää</AgeBiological>
 
   <!-- Date periods -->
+  <!-- EN: 1 year -->
   <Period1Year>1 vuosi</Period1Year>
+  <!-- EN: {0} years -->
   <PeriodYears>{0} vuotta</PeriodYears>
+  <!-- EN: 1 quadrum -->
   <Period1Quadrum>1 neljännes</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
   <PeriodQuadrums>{0} neljännestä</PeriodQuadrums>
+  <!-- EN: 1 day -->
   <Period1Day>1 päivä</Period1Day>
+  <!-- EN: {0} days -->
   <PeriodDays>{0} päivää</PeriodDays>
+  <!-- EN: 1 hour -->
   <Period1Hour>1 tunti</Period1Hour>
+  <!-- EN: {0} hours -->
   <PeriodHours>{0} tuntia</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>TODO</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>TODO</PeriodSeconds>
 
   <!-- Misc -->
+  <!-- EN: Started -->
   <Started>Alkoi</Started>
+  <!-- EN: Lasted -->
   <Lasted>Kesti</Lasted>
+  <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>tapahtui {0} sitten</OccurredTimeAgo>
-
-  <!--<Period1Season>1 kausi</Period1Season>-->
-  <!--<PeriodSeasons>{0} kautta</PeriodSeasons>-->
-
+  
 </LanguageData>

@@ -1,110 +1,201 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AteWithoutTable.stages.0.label>söi maasta </AteWithoutTable.stages.0.label>
-  <AteWithoutTable.stages.0.description>Minun täytyi syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.stages.0.description>
-
-  <SleepDisturbed.stages.0.label>unta häirittiin</SleepDisturbed.stages.0.label>
-  <SleepDisturbed.stages.0.description>Minun untani häirittiin kun joku liikkui lähistöllä. Yksityinen huone ratkaisisi asian.</SleepDisturbed.stages.0.description>
-
-  <NewColonyOptimism.stages.0.label>uuden yhdyskunnan optimismia</NewColonyOptimism.stages.0.label>
-  <NewColonyOptimism.stages.0.description>Laskeuduimme juuri tänne. Tämä on ankara tilanne, mutta olen innoissani uuden yhdyskunnan perustamisesta.</NewColonyOptimism.stages.0.description>
-
-  <NewColonyHope.stages.0.label>uuden yhdyskunnan toivoa</NewColonyHope.stages.0.label>
-  <NewColonyHope.stages.0.description>Alan tottua tähän, mutta tämä on silti innostava uusi tilanne. Toivottavasti kaikki sujuu...</NewColonyHope.stages.0.description>
-
-  <SleptOutside.stages.0.label>nukkui ulkona</SleptOutside.stages.0.label>
-  <SleptOutside.stages.0.description>Minun täytyi nukkua ulkona ilman mitään suojaa säältä.</SleptOutside.stages.0.description>
-
-  <SleptOnGround.stages.0.label>nukkui maassa</SleptOnGround.stages.0.label>
-  <SleptOnGround.stages.0.description>Minun täytyi nukkua maassa kuin eläin.</SleptOnGround.stages.0.description>
-
-  <SleptInCold.stages.0.label>nukkui kylmässä</SleptInCold.stages.0.label>
-  <SleptInCold.stages.0.description>Minun täytyi nukkua kylmässä. Tarvitsemme kipeästi lämmittimiä.</SleptInCold.stages.0.description>
-
-  <SleptInHeat.stages.0.label>nukkui kuumassa</SleptInHeat.stages.0.label>
-  <SleptInHeat.stages.0.description>Minun täytyi nukkua sietämättömässä kuumuudessa. Emmekö saisi ilmastoinita?</SleptInHeat.stages.0.description>
-
-  <KnowPrisonerSold.stages.0.label>vanki myytiin</KnowPrisonerSold.stages.0.label>
-  <KnowPrisonerSold.stages.0.description>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</KnowPrisonerSold.stages.0.description>
-
-  <KnowGuestOrganHarvested.stages.0.label>jonkun elin kerättiin</KnowGuestOrganHarvested.stages.0.label>
-  <KnowGuestOrganHarvested.stages.0.description>Yhdyskunta otti vangilta tai vieraalta ruumiinosia. Se on kamalaa kun ihminen hajotetaan osia varten kun heillä ei ole vaihtoehtoa.</KnowGuestOrganHarvested.stages.0.description>
-
-  <KnowColonistOrganHarvested.stages.0.label>yhdyskuntalaisen elin kerättiin</KnowColonistOrganHarvested.stages.0.label>
-  <KnowColonistOrganHarvested.stages.0.description>Joku otti yhdyskuntalaiselta ruumiinosia. Se on kamalaa kun ihminen hajotetaan osia varten kun heillä ei ole vaihtoehtoa.</KnowColonistOrganHarvested.stages.0.description>
-
-  <MyOrganHarvested.stages.0.label>minulta kerättiin elin</MyOrganHarvested.stages.0.label>
-  <MyOrganHarvested.stages.0.description>Yhdyskunta keräsi minulta ruumiinosia! He hajottavat minut kuin vanhan moottorin!</MyOrganHarvested.stages.0.description>
-
-  <WasImprisoned.stages.0.label>oli vangittu</WasImprisoned.stages.0.label>
-  <WasImprisoned.stages.0.description>Yhdyskunta piti minua hetken vankina kuin eläintä häkissä.</WasImprisoned.stages.0.description>
-
-  <GreenThumbHappy.stages.0.label>kylvi kasvin</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>Maailma tarvitsee enemmän kasveja!</GreenThumbHappy.stages.0.description>
-
-  <Catharsis.stages.0.label>Katarsis</Catharsis.stages.0.label>
-  <Catharsis.stages.0.description>Mitä juuri tapahtui... Se ei ollut minunlaistani. Tiedän pystyväni parempaan.</Catharsis.stages.0.description>
-
-  <Nuzzled.stages.0.label>kiehnätty</Nuzzled.stages.0.label>
-  <Nuzzled.stages.0.description>Söpö eläin kiehnäsi minua.</Nuzzled.stages.0.description>
-
-  <KnowBuriedInSarcophagus.stages.0.label>buried in sarcophagus</KnowBuriedInSarcophagus.stages.0.label>
-  <KnowBuriedInSarcophagus.stages.0.description>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</KnowBuriedInSarcophagus.stages.0.description>
-
-
-  <!-- Human corpse butchering -->
-
-  <ButcheredHumanlikeCorpse.stages.0.label>teurasti ihmisen</ButcheredHumanlikeCorpse.stages.0.label>
-  <ButcheredHumanlikeCorpse.stages.0.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanlikeCorpse.stages.0.description>
-
-  <KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
-  <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
-
-
-  <!-- Combat -->
-
-  <ObservedLayingCorpse.stages.0.label>havaitsi ruumiin</ObservedLayingCorpse.stages.0.label>
-  <ObservedLayingCorpse.stages.0.description>Näin kuolleen ihmisen makaavan maassa.</ObservedLayingCorpse.stages.0.description>
-
-  <ObservedLayingRottingCorpse.stages.0.label>havaitsi mädäntyvän ruumiin</ObservedLayingRottingCorpse.stages.0.label>
-  <ObservedLayingRottingCorpse.stages.0.description>Näin mädäntyvän ruumiin makaavan maassa. Se oli vastenmielistä.</ObservedLayingRottingCorpse.stages.0.description>
-
-  <WitnessedDeathAlly.stages.0.label>koki liittolaisen kuoleman</WitnessedDeathAlly.stages.0.label>
-  <WitnessedDeathAlly.stages.0.description>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathAlly.stages.0.description>
-
-  <WitnessedDeathNonAlly.stages.0.label>witnessed outsider's death</WitnessedDeathNonAlly.stages.0.label>
-  <WitnessedDeathNonAlly.stages.0.description>I saw someone die. They were alive one moment, and dead the next.</WitnessedDeathNonAlly.stages.0.description>
-
-  <WitnessedDeathFamily.stages.0.label>witnessed family member's death</WitnessedDeathFamily.stages.0.label>
-  <WitnessedDeathFamily.stages.0.description>I saw a member of my family die. My own flesh and blood...</WitnessedDeathFamily.stages.0.description>
-
-  <WitnessedDeathBloodlust.stages.0.label>witnessed death with bloodlust</WitnessedDeathBloodlust.stages.0.label>
-  <WitnessedDeathBloodlust.stages.0.description>I saw someone die! That was intense!</WitnessedDeathBloodlust.stages.0.description>
-
-  <KilledHumanlikeBloodlust.stages.0.label>tappoi jonkun</KilledHumanlikeBloodlust.stages.0.label>
-  <KilledHumanlikeBloodlust.stages.0.description>Tapoin jonkun! Olipa kiihottavaa!</KilledHumanlikeBloodlust.stages.0.description>
-
-  <DefeatedHostileFactionLeader.stages.0.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.0.label>
-  <DefeatedHostileFactionLeader.stages.0.description>They were leading efforts to destroy us, and I took them down!</DefeatedHostileFactionLeader.stages.0.description>
-
-  <DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
-
-
-  <!-- Abandoning pawns -->
-
-  <ColonistAbandoned.stages.0.label>colonist abandoned</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>We just left someone behind. I hope they'll make it, but I'm worried.</ColonistAbandoned.stages.0.description>
-
-  <ColonistAbandonedToDie.stages.0.label>colonist abandoned to die</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>We left someone behind in such a way that there's almost no way they'll survive.</ColonistAbandonedToDie.stages.0.description>
-
-  <PrisonerAbandonedToDie.stages.0.label>prisoner abandoned to die</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>We left a prisoner behind in such a way that there's almost no way they'll survive.</PrisonerAbandonedToDie.stages.0.description>
-
+  
+  <!-- EN: ate without table -->
+  <AteWithoutTable.stages.ate_without_table.label>söi maasta </AteWithoutTable.stages.ate_without_table.label>
+  <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
+  <AteWithoutTable.stages.ate_without_table.description>Minun täytyi syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.stages.ate_without_table.description>
+  
+  <!-- UNUSED -->
   <BondedAnimalAbandoned.stages.0.label>bonded animal {0} abandoned</BondedAnimalAbandoned.stages.0.label>
   <BondedAnimalAbandoned.stages.0.description>My bonded animal was abandoned in the middle of nowhere!</BondedAnimalAbandoned.stages.0.description>
-
-
+  
+  <!-- EN: bonded animal {0} banished -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <!-- EN: My bonded animal was banished! -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>TODO</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>teurasti ihmisen</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: catharsis -->
+  <Catharsis.stages.catharsis.label>Katarsis</Catharsis.stages.catharsis.label>
+  <!-- EN: It felt good to finally unbottle my feelings. -->
+  <Catharsis.stages.catharsis.description>Mitä juuri tapahtui... Se ei ollut minunlaistani. Tiedän pystyväni parempaan.</Catharsis.stages.catharsis.description>
+  
+  <!-- UNUSED -->
+  <ColonistAbandoned.stages.0.label>colonist abandoned</ColonistAbandoned.stages.0.label>
+  <ColonistAbandoned.stages.0.description>We just left someone behind. I hope they'll make it, but I'm worried.</ColonistAbandoned.stages.0.description>
+  
+  <!-- UNUSED -->
+  <ColonistAbandonedToDie.stages.0.label>colonist abandoned to die</ColonistAbandonedToDie.stages.0.label>
+  <ColonistAbandonedToDie.stages.0.description>We left someone behind in such a way that there's almost no way they'll survive.</ColonistAbandonedToDie.stages.0.description>
+  
+  <!-- EN: colonist banished -->
+  <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
+  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <ColonistBanished.stages.colonist_banished.description>TODO</ColonistBanished.stages.colonist_banished.description>
+  
+  <!-- EN: colonist banished to death -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: defeated hostile leader {0} -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <!-- EN: They were leading efforts to destroy us, and I took them down! -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>They were leading efforts to destroy us, and I took them down!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  
+  <!-- UNUSED -->
+  <DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>
+  <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
+  
+  <!-- EN: failed to rescue {0} -->
+  <FailedToRescueRelative.stages.failed_to_rescue.label>TODO</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
+  <FailedToRescueRelative.stages.failed_to_rescue.description>TODO</FailedToRescueRelative.stages.failed_to_rescue.description>
+  
+  <!-- UNUSED -->
+  <GreenThumbHappy.stages.0.label>kylvi kasvin</GreenThumbHappy.stages.0.label>
+  <GreenThumbHappy.stages.0.description>Maailma tarvitsee enemmän kasveja!</GreenThumbHappy.stages.0.description>
+  
+  <!-- EN: killed someone -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>tappoi jonkun</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <!-- EN: I killed someone! What a rush! -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>Tapoin jonkun! Olipa kiihottavaa!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  
+  <!-- EN: buried in sarcophagus -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>buried in sarcophagus</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  
+  <!-- EN: we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <!-- EN: We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: colonist's organ harvested -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>yhdyskuntalaisen elin kerättiin</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Joku otti yhdyskuntalaiselta ruumiinosia. Se on kamalaa kun ihminen hajotetaan osia varten kun heillä ei ole vaihtoehtoa.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  
+  <!-- EN: someone's organ harvested -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>jonkun elin kerättiin</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Yhdyskunta otti vangilta tai vieraalta ruumiinosia. Se on kamalaa kun ihminen hajotetaan osia varten kun heillä ei ole vaihtoehtoa.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  
+  <!-- EN: a prisoner was sold -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>vanki myytiin</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  
+  <!-- EN: my organ harvested -->
+  <MyOrganHarvested.stages.my_organ_harvested.label>minulta kerättiin elin</MyOrganHarvested.stages.my_organ_harvested.label>
+  <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
+  <MyOrganHarvested.stages.my_organ_harvested.description>Yhdyskunta keräsi minulta ruumiinosia! He hajottavat minut kuin vanhan moottorin!</MyOrganHarvested.stages.my_organ_harvested.description>
+  
+  <!-- EN: initial hope -->
+  <NewColonyHope.stages.initial_hope.label>uuden yhdyskunnan toivoa</NewColonyHope.stages.initial_hope.label>
+  <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
+  <NewColonyHope.stages.initial_hope.description>Alan tottua tähän, mutta tämä on silti innostava uusi tilanne. Toivottavasti kaikki sujuu...</NewColonyHope.stages.initial_hope.description>
+  
+  <!-- EN: initial optimism -->
+  <NewColonyOptimism.stages.initial_optimism.label>uuden yhdyskunnan optimismia</NewColonyOptimism.stages.initial_optimism.label>
+  <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
+  <NewColonyOptimism.stages.initial_optimism.description>Laskeuduimme juuri tänne. Tämä on ankara tilanne, mutta olen innoissani uuden yhdyskunnan perustamisesta.</NewColonyOptimism.stages.initial_optimism.description>
+  
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled.label>kiehnätty</Nuzzled.stages.nuzzled.label>
+  <!-- EN: A cute animal nuzzled me. -->
+  <Nuzzled.stages.nuzzled.description>Söpö eläin kiehnäsi minua.</Nuzzled.stages.nuzzled.description>
+  
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.stages.observed_corpse.label>havaitsi ruumiin</ObservedLayingCorpse.stages.observed_corpse.label>
+  <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
+  <ObservedLayingCorpse.stages.observed_corpse.description>Näin kuolleen ihmisen makaavan maassa.</ObservedLayingCorpse.stages.observed_corpse.description>
+  
+  <!-- EN: observed rotting corpse -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>havaitsi mädäntyvän ruumiin</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Näin mädäntyvän ruumiin makaavan maassa. Se oli vastenmielistä.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  <!-- UNUSED -->
+  <PrisonerAbandonedToDie.stages.0.label>prisoner abandoned to die</PrisonerAbandonedToDie.stages.0.label>
+  <PrisonerAbandonedToDie.stages.0.description>We left a prisoner behind in such a way that there's almost no way they'll survive.</PrisonerAbandonedToDie.stages.0.description>
+  
+  <!-- EN: prisoner banished to death -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: rescued -->
+  <Rescued.stages.rescued.label>TODO</Rescued.stages.rescued.label>
+  <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
+  <Rescued.stages.rescued.description>TODO</Rescued.stages.rescued.description>
+  
+  <!-- EN: rescued {0} -->
+  <RescuedRelative.stages.rescued.label>TODO</RescuedRelative.stages.rescued.label>
+  <!-- EN: We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
+  <RescuedRelative.stages.rescued.description>TODO</RescuedRelative.stages.rescued.description>
+  
+  <!-- EN: disturbed sleep -->
+  <SleepDisturbed.stages.disturbed_sleep.label>unta häirittiin</SleepDisturbed.stages.disturbed_sleep.label>
+  <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
+  <SleepDisturbed.stages.disturbed_sleep.description>Minun untani häirittiin kun joku liikkui lähistöllä. Yksityinen huone ratkaisisi asian.</SleepDisturbed.stages.disturbed_sleep.description>
+  
+  <!-- EN: slept in the cold -->
+  <SleptInCold.stages.slept_in_the_cold.label>nukkui kylmässä</SleptInCold.stages.slept_in_the_cold.label>
+  <!-- EN: I had to sleep in the cold. We really need some heaters. -->
+  <SleptInCold.stages.slept_in_the_cold.description>Minun täytyi nukkua kylmässä. Tarvitsemme kipeästi lämmittimiä.</SleptInCold.stages.slept_in_the_cold.description>
+  
+  <!-- EN: slept in the heat -->
+  <SleptInHeat.stages.slept_in_the_heat.label>nukkui kuumassa</SleptInHeat.stages.slept_in_the_heat.label>
+  <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
+  <SleptInHeat.stages.slept_in_the_heat.description>Minun täytyi nukkua sietämättömässä kuumuudessa. Emmekö saisi ilmastoinita?</SleptInHeat.stages.slept_in_the_heat.description>
+  
+  <!-- EN: slept on ground -->
+  <SleptOnGround.stages.slept_on_ground.label>nukkui maassa</SleptOnGround.stages.slept_on_ground.label>
+  <!-- EN: I had to sleep on the ground like an animal. -->
+  <SleptOnGround.stages.slept_on_ground.description>Minun täytyi nukkua maassa kuin eläin.</SleptOnGround.stages.slept_on_ground.description>
+  
+  <!-- EN: slept outside -->
+  <SleptOutside.stages.slept_outside.label>nukkui ulkona</SleptOutside.stages.slept_outside.label>
+  <!-- EN: I had to sleep outdoors without any protection from the elements. -->
+  <SleptOutside.stages.slept_outside.description>Minun täytyi nukkua ulkona ilman mitään suojaa säältä.</SleptOutside.stages.slept_outside.description>
+  
+  <!-- EN: soaking wet -->
+  <SoakingWet.stages.soaking_wet.label>TODO</SoakingWet.stages.soaking_wet.label>
+  <!-- EN: I'm soaking wet. -->
+  <SoakingWet.stages.soaking_wet.description>TODO</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: was imprisoned -->
+  <WasImprisoned.stages.was_imprisoned.label>oli vangittu</WasImprisoned.stages.was_imprisoned.label>
+  <!-- EN: The colony had me in jail for a while, like a caged animal. -->
+  <WasImprisoned.stages.was_imprisoned.description>Yhdyskunta piti minua hetken vankina kuin eläintä häkissä.</WasImprisoned.stages.was_imprisoned.description>
+  
+  <!-- EN: witnessed ally's death -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>koki liittolaisen kuoleman</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  
+  <!-- EN: witnessed death with bloodlust -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>witnessed death with bloodlust</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <!-- EN: I saw someone die! That was intense! -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>I saw someone die! That was intense!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  
+  <!-- EN: witnessed family member's death -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>witnessed family member's death</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <!-- EN: I saw a member of my family die. My own flesh and blood... -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>I saw a member of my family die. My own flesh and blood...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  
+  <!-- EN: witnessed outsider's death -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>witnessed outsider's death</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>I saw someone die. They were alive one moment, and dead the next.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  
 </LanguageData>

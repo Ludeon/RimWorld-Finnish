@@ -1,45 +1,91 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MoveSpeed.label>liikkumisnopeus</MoveSpeed.label>
-  <MoveSpeed.description>Liikkumisen nopeus neliöinä sekunnissa.</MoveSpeed.description>
-  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
-
-  <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
-  <MentalBreakThreshold.description>Kun henkilön mielentila on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
-
-  <PsychicSensitivity.label>psyykkinen herkkyys</PsychicSensitivity.label>
-  <PsychicSensitivity.description>Kerroin psyykkisten ilmiöiden vaikutukselle.</PsychicSensitivity.description>
-
-  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
-
-  <GlobalLearningFactor.label>yleinen oppimisnopeus</GlobalLearningFactor.label>
-  <GlobalLearningFactor.description>Kaikille taidoille yhteinen oppimisnopeus.</GlobalLearningFactor.description>
-
-  <EatingSpeed.label>syömisnopeus</EatingSpeed.label>
-  <EatingSpeed.description>Kerroin syömisen nopeuteen.</EatingSpeed.description>
-
-  <ComfyTemperatureMin.label>Pienin mukava lämpötila</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>Tämän lämpötilan alapuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan alapuolella heille tulee hypotermia ja paleltuma ja lopulta he kuolevat.</ComfyTemperatureMin.description>
-
-  <ComfyTemperatureMax.label>Suurin mukava lämpötila</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>Tämän lämpötilan yläpuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan yläpuolella heille tulee lämpöhalvaus ja lopulta he kuolevat.</ComfyTemperatureMax.description>
-
-  <ImmunityGainSpeed.label>vastustuskyvyn saamisnopeus</ImmunityGainSpeed.label>
-  <ImmunityGainSpeed.description>Nopeus jolla tämä henkilö saa vastustuskyvyn sairauksille. Jos tämä on liian hidas hän kuolee sairauteen ennen kuin kehittää vastustuskyvyn sille.</ImmunityGainSpeed.description>
-
+  
+  <!-- EN: carrying capacity -->
   <CarryingCapacity.label>kantokyky</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>Kuorman suuruus jonka tämä olio voi kantaa käsillään, suullaan tai muulla tavalla.</CarryingCapacity.description>
-
-  <MeatAmount.label>lihan määrä</MeatAmount.label>
-  <MeatAmount.description>Tämän olion teruastamisesta saatavan lihan määrä.</MeatAmount.description>
-
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Suurin mukava lämpötila</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Tämän lämpötilan yläpuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan yläpuolella heille tulee lämpöhalvaus ja lopulta he kuolevat.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Pienin mukava lämpötila</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Tämän lämpötilan alapuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan alapuolella heille tulee hypotermia ja paleltuma ja lopulta he kuolevat.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>syömisnopeus</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Kerroin syömisen nopeuteen.</EatingSpeed.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>yleinen oppimisnopeus</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Kaikille taidoille yhteinen oppimisnopeus.</GlobalLearningFactor.description>
+  
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>vastustuskyvyn saamisnopeus</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Nopeus jolla tämä henkilö saa vastustuskyvyn sairauksille. Jos tämä on liian hidas hän kuolee sairauteen ennen kuin kehittää vastustuskyvyn sille.</ImmunityGainSpeed.description>
+  
+  <!-- EN: leather amount -->
   <LeatherAmount.label>nahan määrä</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. -->
   <LeatherAmount.description>Tämän olion teruastamisesta saatavan nahan määrä.</LeatherAmount.description>
-
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>lihan määrä</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. -->
+  <MeatAmount.description>Tämän olion teruastamisesta saatavan lihan määrä.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Kun henkilön mielentila on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>minimikäsittelytaito</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>Tätä oliota ei voi kesyttää, kouluttaa tai komentaa kukaan kenellä on tätä huonompi käsittelytaito.</MinimumHandlingSkill.description>
-
-
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>liikkumisnopeus</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Liikkumisen nopeus neliöinä sekunnissa.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>TODO</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>TODO</PainShockThreshold.description>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>psyykkinen herkkyys</PsychicSensitivity.label>
+  <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
+  <PsychicSensitivity.description>Kerroin psyykkisten ilmiöiden vaikutukselle.</PsychicSensitivity.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
+  
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+  
 </LanguageData>

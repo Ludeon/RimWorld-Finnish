@@ -1,24 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: hare -->
   <Hare.label>jänis</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
   <Hare.description>Tämä pieni yksin liikkuva kasvinsyöjä pystyy loikkimaan nopeasti pois vaaran tieltä.</Hare.description>
-  <Hare_Leather.label>jäniksen nahkaa</Hare_Leather.label>
-  <Hare_Leather.description>Jäniksen vuodasta tehtyä nahkaa.</Hare_Leather.description>
-  <Hare_Leather.stuffProps.stuffAdjective>jäniksennahkainen</Hare_Leather.stuffProps.stuffAdjective>
-  <Hare_Meat.label>jäniksen lihaa</Hare_Meat.label>
-  <Hare_Meat.description>Raakaa jäniksen lihaa.</Hare_Meat.description>
-  <Hare_Corpse.label>jäniksen ruumis</Hare_Corpse.label>
-  <Hare_Corpse.description>Kuolleen jäniksen ruumis.</Hare_Corpse.description>
-
+  <!-- EN: head -->
+  <Hare.tools.head.label>TODO</Hare.tools.head.label>
+  
+  <!-- EN: snowhare -->
   <Snowhare.label>lumijänis</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
   <Snowhare.description>Tämä sitkeä eläin selviää pohjoisen julmista talvista kaivautumalla lumen läpi pinnan alta saalista etsien tai horrostamalla pahimpien kuukausien yli.</Snowhare.description>
-  <Snowhare_Leather.label>lumijäniksen nahkaa</Snowhare_Leather.label>
-  <Snowhare_Leather.description>Lumijäniksen vuodasta tehtyä nahkaa.</Snowhare_Leather.description>
-  <Snowhare_Leather.stuffProps.stuffAdjective>lumijäniksennahkainen</Snowhare_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: Hare -->
-  <Snowhare_Corpse.label>lumijäniksen ruumis</Snowhare_Corpse.label>
-  <Snowhare_Corpse.description>Kuolleen lumijäniksen ruumis.</Snowhare_Corpse.description>
-
-
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
+  
 </LanguageData>

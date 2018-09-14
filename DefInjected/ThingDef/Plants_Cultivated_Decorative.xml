@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PlantRose.label>ruusu</PlantRose.label>
-  <PlantRose.description>Kaunis viljelty kasvi.</PlantRose.description>
-
-  <PlantDaylily.label>päivänlilja</PlantDaylily.label>
-  <PlantDaylily.description>Kaunis viljelty kasvi.</PlantDaylily.description>
-
-
+  
+  <!-- EN: daylily -->
+  <Plant_Daylily.label>päivänlilja</Plant_Daylily.label>
+  <!-- EN: A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often. -->
+  <Plant_Daylily.description>Kaunis viljelty kasvi.</Plant_Daylily.description>
+  
+  <!-- EN: rose -->
+  <Plant_Rose.label>ruusu</Plant_Rose.label>
+  <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. -->
+  <Plant_Rose.description>Kaunis viljelty kasvi.</Plant_Rose.description>
+  
 </LanguageData>

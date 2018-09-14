@@ -1,31 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>Tynan Sylvesterin yhdyskuntasimulaattori</MainPageCredit>
 
+  <!-- EN: Developers -->
   <Credits_Developers>Kehittäjät</Credits_Developers>
+  <!-- EN: Direction, design, code, art -->
   <Credit_DirectionVarious>Ohjaus, suunnittelu, ohjelmointi, taide</Credit_DirectionVarious>
+  <!-- EN: Audio -->
   <Credit_MusicAndSound>Musiikki ja ääni</Credit_MusicAndSound>
+  <!-- EN: Code -->
   <Credit_Code>Ohjelmointi</Credit_Code>
+  <!-- EN: Art -->
   <Credit_GameArt>Pelin taide</Credit_GameArt>
+  <!-- EN: Menu art -->
   <Credit_MenuArt>Valikkojen taide</Credit_MenuArt>
+  <!-- EN: Additional code -->
   <Credit_AdditionalCode>Täydentävä koodi</Credit_AdditionalCode>
+  
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>TODO</Credits_AdditionalDevelopment>
 
+  <!-- EN: Special thanks -->
   <Credit_SpecialThanks>Erityiskiitokset</Credit_SpecialThanks>
 
+  <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Yhteisön vapaaehtoiset</Credits_TitleCommunity>
+  <!-- EN: Tester -->
   <Credit_Tester>Testaaja</Credit_Tester>
+  <!-- EN: Mod donor -->
   <Credit_ModDonation>Modin lahjoittaja</Credit_ModDonation>
+  <!-- EN: Writing donor -->
   <Credit_WritingDonation>Kirjoitusten lahjoittaja</Credit_WritingDonation>
+  <!-- EN: Moderator -->
   <Credit_Moderator>Moderaattori</Credit_Moderator>
+  <!-- EN: Wiki master -->
   <Credit_WikiMaster>Wikimestari</Credit_WikiMaster>
 
+  <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0}</Credits_TitleLanguage>
+  <!-- EN: Writer -->
   <Credit_Writer>Kirjoittaja</Credit_Writer>
+  <!-- EN: Translator -->
   <Credit_Translator>Kääntäjä</Credit_Translator>
+  <!-- EN: Open source libraries -->
   <Credit_OpenSourceLibraries>Avoimen lähdekoodin kirjastot</Credit_OpenSourceLibraries>
+  <!-- EN: Noise generation -->
   <Credit_NoiseGeneration>Kohinan tuottaminen</Credit_NoiseGeneration>
 
+  <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>Kiitos pelaamisesta!</ThanksForPlaying>
 
 </LanguageData>

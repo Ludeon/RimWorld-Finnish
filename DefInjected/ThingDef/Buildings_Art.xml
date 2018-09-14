@@ -1,25 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Sculptures -->
-
-  <SculptureSmall.label>pieni veistos</SculptureSmall.label>
-  <SculptureSmall.description>Koirankokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureSmall.description>
-  <SculptureSmall_Blueprint_Install.label>small sculpture (blueprint)</SculptureSmall_Blueprint_Install.label>
-
-  <SculptureLarge.label>suuri veistos</SculptureLarge.label>
-  <SculptureLarge.description>Ihmisen kokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureLarge.description>
-  <SculptureLarge_Blueprint_Install.label>large sculpture (blueprint)</SculptureLarge_Blueprint_Install.label>
-
+  
+  <!-- EN: grand sculpture -->
   <SculptureGrand.label>valtava veistos</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
   <SculptureGrand.description>Autonkokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureGrand.description>
-  <SculptureGrand_Blueprint_Install.label>grand sculpture (blueprint)</SculptureGrand_Blueprint_Install.label>
-
-
-  <!-- Snowman -->
-
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>suuri veistos</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>Ihmisen kokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>pieni veistos</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>Koirankokoinen pala materiaalia, joka on veistetty taiteelliseen muotoon.</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
   <Snowman.label>lumiukko</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
   <Snowman.description>Muutama suuri lumipallo päällekkäin ja muotoiltuna muistuttamaan ihmistä.</Snowman.description>
-
-
+  
 </LanguageData>

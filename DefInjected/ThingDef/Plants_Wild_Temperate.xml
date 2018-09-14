@@ -1,46 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Wild - clustering bushes (some harvestable) -->
-
-  <PlantRaspberry.label>vadelmapensas</PlantRaspberry.label>
-  <PlantRaspberry.description>Tuuhea pensas, joka tuottaa herkullisia punaisia marjoja.</PlantRaspberry.description>
-
-  <PlantBush.label>pensas</PlantBush.label>
-  <PlantBush.description>Lyhyt varpu.</PlantBush.description>
-
-  <PlantWildHealroot.label>wild healroot</PlantWildHealroot.label>
-  <PlantWildHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is difficult to cultivate. It is prized by tribespeople in colder climates.</PlantWildHealroot.description>
-
-
-  <!-- Wild plants - carpets -->
-
-  <PlantGrass.label>ruohoa</PlantGrass.label>
-  <PlantGrass.description>Villiä ruohoa. Kasvaa kaikkialla missä on valoa ja hädin tuskin hedelmällistä maata.</PlantGrass.description>
-
-  <PlantDandelion.label>voikukkia</PlantDandelion.label>
-  <PlantDandelion.description>Yleinen pieni kukka. Vaikka sitä pidetään usein rikkakasvina sen lisääntymiskyvyn takia sitä on miellyttävä katsoa.</PlantDandelion.description>
-
-  <PlantAstragalus.label>kurjenherne</PlantAstragalus.label>
-  <PlantAstragalus.description>Pieni monivuotinen villikukka, jota kasvaa vuoristoissa.</PlantAstragalus.description>
-
-  <PlantMoss.label>sammalta</PlantMoss.label>
-  <PlantMoss.description>Villiä sammalta, jota kasvaa röykkiöissä pimeillä ja kosteilla alueilla. Erittäin sitkeää ja kylmää kestävää.</PlantMoss.description>
-
-
-  <!-- Wild - Trees -->
-
-  <PlantTreeOak.label>tammi</PlantTreeOak.label>
-  <PlantTreeOak.description>Vahva kovapuu. Hitaasti kasvava, mutta sen puu on hyvin lujaa.</PlantTreeOak.description>
-
-  <PlantTreePoplar.label>poppeli</PlantTreePoplar.label>
-  <PlantTreePoplar.description>Pehmeä puulaji. Kasvaa nopeasti, mutta sen puu ei ole kovin kovaa.</PlantTreePoplar.description>
-
-  <PlantTreePine.label>mänty</PlantTreePine.label>
-  <PlantTreePine.description>Suuri havupuu.</PlantTreePine.description>
-
-  <PlantTreeBirch.label>koivu</PlantTreeBirch.label>
-  <PlantTreeBirch.description>Pohjoinen puu, joka tunnetaan sen ohuesta ja paperimaisesta kaarnasta.</PlantTreeBirch.description>
-
-
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>kurjenherne</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>Pieni monivuotinen villikukka, jota kasvaa vuoristoissa.</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>vadelmapensas</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>Tuuhea pensas, joka tuottaa herkullisia punaisia marjoja.</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>voikukkia</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>Yleinen pieni kukka. Vaikka sitä pidetään usein rikkakasvina sen lisääntymiskyvyn takia sitä on miellyttävä katsoa.</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>sammalta</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>Villiä sammalta, jota kasvaa röykkiöissä pimeillä ja kosteilla alueilla. Erittäin sitkeää ja kylmää kestävää.</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>koivu</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>Pohjoinen puu, joka tunnetaan sen ohuesta ja paperimaisesta kaarnasta.</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>tammi</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>Vahva kovapuu. Hitaasti kasvava, mutta sen puu on hyvin lujaa.</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>mänty</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Suuri havupuu.</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>poppeli</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Pehmeä puulaji. Kasvaa nopeasti, mutta sen puu ei ole kovin kovaa.</Plant_TreePoplar.description>
+  
 </LanguageData>

@@ -1,37 +1,68 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Level -->
   <Level>Taso</Level>
+  <!-- EN: Progress to next level -->
   <ProgressToNextLevel>Edistys seuraavalle tasolle</ProgressToNextLevel>
+  <!-- EN: Experience -->
   <Experience>Kokemus</Experience>
+  <!-- EN: Passion -->
   <Passion>Intohimo</Passion>
+  <!-- EN: None\n   -Learns {0} -->
   <PassionNone>Ei kiinnostunut (oppii x{0})</PassionNone>
+  <!-- EN: Interested\n   -Learns {0} -->
   <PassionMinor>Kiinnostunut (oppii x{0}, tuottaa hupia)</PassionMinor>
+  <!-- EN: Burning\n   -Learns {0} -->
   <PassionMajor>Palava (oppii x{0}, tuottaa hupia 2x)</PassionMajor>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Oppinut tänään maksimin ({0}/{1}, lisäoppimisen kerroin {2})</LearnedMaxToday>
+  <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Vaikutus tasolla {0}</EffectsAtLevel>
+  <!-- EN: MAX -->
   <SkillMax>MAKS</SkillMax>
 
+  <!-- EN: Barely heard of it -->
   <Skill0>Tuskin kuullutkaan siitä</Skill0>
+  <!-- EN: Utter beginner -->
   <Skill1>Täysi aloittelija</Skill1>
+  <!-- EN: Beginner -->
   <Skill2>Aloittelija</Skill2>
+  <!-- EN: Basic familiarity -->
   <Skill3>Perusteisiin perehtynyt</Skill3>
+  <!-- EN: Some familiarity -->
   <Skill4>Amatööri</Skill4>
+  <!-- EN: Significant familiarity -->
   <Skill5>Vahva amatööri</Skill5>
+  <!-- EN: Capable amateur -->
   <Skill6>Harjoittaja</Skill6>
+  <!-- EN: Weak professional -->
   <Skill7>Taivata harjoittaja</Skill7>
+  <!-- EN: Employable professional -->
   <Skill8>Ammattilainen</Skill8>
+  <!-- EN: Solid professional -->
   <Skill9>Taitava ammattilainen</Skill9>
+  <!-- EN: Skilled professional -->
   <Skill10>Asiantuntija</Skill10>
+  <!-- EN: Very skilled professional -->
   <Skill11>Taitava asiantuntija</Skill11>
+  <!-- EN: Expert -->
   <Skill12>Erittäin taitava asiantuntija</Skill12>
+  <!-- EN: Strong expert -->
   <Skill13>Mestari</Skill13>
+  <!-- EN: Master -->
   <Skill14>Suurmestari</Skill14>
+  <!-- EN: Strong master -->
   <Skill15>Planeetanlaajuinen mestari</Skill15>
+  <!-- EN: Region-known master -->
   <Skill16>Järjestelmänlaajuinen mestari</Skill16>
+  <!-- EN: Region-leading master -->
   <Skill17>Kunnianarvoisa mestari</Skill17>
+  <!-- EN: Planet-known master -->
   <Skill18>Visionääri</Skill18>
+  <!-- EN: Planet-leading master -->
   <Skill19>Legendaarinen</Skill19>
+  <!-- EN: Legendary master -->
   <Skill20>Jumalainen</Skill20>
-
+  
 </LanguageData>

@@ -1,29 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: clear -->
   <Clear.label>selkeää</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
   <Clear.description>Kirkas päivä. Ei huomautettavaa.</Clear.description>
-
-  <Fog.label>sumuista</Fog.label>
-  <Fog.description>Sumu pienentää osumatarkkuutta aseilla.</Fog.description>
-
-  <Rain.label>sadetta</Rain.label>
-  <Rain.description>Sade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</Rain.description>
-
+  
+  <!-- EN: dry thunderstorm -->
   <DryThunderstorm.label>kuiva ukkosmysky</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
   <DryThunderstorm.description>Kuivat ukkosmyrskyt ovat vaarallisia koska salamat voivat sytyttää tulia eikä sadetta ole niitä sammuttamassa.</DryThunderstorm.description>
-
-  <RainyThunderstorm.label>sateinen ukkosmysky</RainyThunderstorm.label>
-  <RainyThunderstorm.description>Salamat sytyttävät tulia, mutta sade sammuttaa ne. Lisäksi sade pienentää osumatarkkuutta aseilla ja hidastaa ihmisiä.</RainyThunderstorm.description>
-
+  
+  <!-- EN: fog -->
+  <Fog.label>sumuista</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Sumu pienentää osumatarkkuutta aseilla.</Fog.description>
+  
+  <!-- EN: foggy rain -->
   <FoggyRain.label>sumuinen sade</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
   <FoggyRain.description>Pienentää osumatarkkuutta ja hidastaa liikkumisnopeutta.</FoggyRain.description>
-
-  <SnowHard.label>kova lumisade</SnowHard.label>
-  <SnowHard.description>Lumisade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</SnowHard.description>
-
+  
+  <!-- EN: rain -->
+  <Rain.label>sadetta</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Sade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>sateinen ukkosmysky</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Salamat sytyttävät tulia, mutta sade sammuttaa ne. Lisäksi sade pienentää osumatarkkuutta aseilla ja hidastaa ihmisiä.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
   <SnowGentle.label>kevyt lumisade</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
   <SnowGentle.description>Lumisade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</SnowGentle.description>
-
-
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>kova lumisade</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Lumisade pienentää osumatarkkuutta aseilla, sammuttaa tulia ja hidastaa ihmisiä.</SnowHard.description>
+  
 </LanguageData>

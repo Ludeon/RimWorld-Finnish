@@ -1,46 +1,64 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Misc -->
-
-  <Concrete.label>betoni</Concrete.label>
-  <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
-
-  <PavedTile.label>betonilaatta</PavedTile.label>
-  <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
-
-  <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Puulankuista tehty lattianpäällyste. Luo lämpimän ja kotoisan tunnelman.</WoodPlankFloor.description>
-
-  <MetalTile.label>metallilaatta</MetalTile.label>
-  <MetalTile.description>Metallilaattoja avaruusalustunnelman luomiseen.</MetalTile.description>
-
-  <SilverTile.label>hopealaatta</SilverTile.label>
-  <SilverTile.description>Kallis ja hidas rakentaa mutta erittäin kaunis. Sopii täydellisesti kaikenlaisiin luksushuoneisiin.</SilverTile.description>
-
-  <GoldTile.label>kultalaatta</GoldTile.label>
-  <GoldTile.description>Kaikkein kaunein ja vaikuttavin lattia. Erittäin kallis ja tarvitsee paljon työtä sen rakentamiseen.</GoldTile.description>
-
-  <SterileTile.label>steriili laatta</SterileTile.label>
-  <SterileTile.description>Steriilit laatat auttavat pitämään huoneen puhtaana. Erittäin hyödyllisiä sairaaloissa estämääm potilaita saamasta erilaisia tartuntoja. Mitäänsanomattoman näköiset ja erittäin hitaat rakentaa.</SterileTile.description>
-
-
-  <!-- Carpets -->
-
-  <CarpetRed.label>punainen kokolattiamatto</CarpetRed.label>
-  <CarpetRed.description>Pehmeä matto viehättävässä ruunvärisessä sävyssä.</CarpetRed.description>
-
-  <CarpetGreen.label>vihreä kokolattiamatto</CarpetGreen.label>
-  <CarpetGreen.description>Luonnonläheinen vihreä matto.</CarpetGreen.description>
-
+  
+  <!-- EN: blue carpet -->
   <CarpetBlue.label>sininen kokolattiamatto</CarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
   <CarpetBlue.description>Pehmeä varpaita hyväilevä matto viileässä sinisessä sävyssä.</CarpetBlue.description>
-
+  
+  <!-- EN: cream carpet -->
   <CarpetCream.label>kermanvärinen kokolattiamatto</CarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
   <CarpetCream.description>Kutsuva kermanvärinen kokolattiamatto.</CarpetCream.description>
-
+  
+  <!-- EN: dark carpet -->
   <CarpetDark.label>tumma kokolattiamatto</CarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
   <CarpetDark.description>Ammattimaisen näköinen tummanharmaa kokolattiamatto.</CarpetDark.description>
-
-
+  
+  <!-- EN: green carpet -->
+  <CarpetGreen.label>vihreä kokolattiamatto</CarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>Luonnonläheinen vihreä matto.</CarpetGreen.description>
+  
+  <!-- EN: red carpet -->
+  <CarpetRed.label>punainen kokolattiamatto</CarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>Pehmeä matto viehättävässä ruunvärisessä sävyssä.</CarpetRed.description>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>betoni</Concrete.label>
+  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>kultalaatta</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>Kaikkein kaunein ja vaikuttavin lattia. Erittäin kallis ja tarvitsee paljon työtä sen rakentamiseen.</GoldTile.description>
+  
+  <!-- EN: metal tile -->
+  <MetalTile.label>metallilaatta</MetalTile.label>
+  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>Metallilaattoja avaruusalustunnelman luomiseen.</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>betonilaatta</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>hopealaatta</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>Kallis ja hidas rakentaa mutta erittäin kaunis. Sopii täydellisesti kaikenlaisiin luksushuoneisiin.</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>steriili laatta</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>Steriilit laatat auttavat pitämään huoneen puhtaana. Erittäin hyödyllisiä sairaaloissa estämääm potilaita saamasta erilaisia tartuntoja. Mitäänsanomattoman näköiset ja erittäin hitaat rakentaa.</SterileTile.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Puulankuista tehty lattianpäällyste. Luo lämpimän ja kotoisan tunnelman.</WoodPlankFloor.description>
+  
 </LanguageData>

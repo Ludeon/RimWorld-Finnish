@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administer healer mech serum -->
+  <AdministerMechSerumHealer.label>TODO</AdministerMechSerumHealer.label>
+  <!-- EN: Administer a healer mech serum. -->
+  <AdministerMechSerumHealer.description>TODO</AdministerMechSerumHealer.description>
+  <!-- EN: Administering healer mech serum. -->
+  <AdministerMechSerumHealer.jobString>TODO</AdministerMechSerumHealer.jobString>
+  
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>anesthetize</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>Makes a creature unconscious by administering an anesthetic.</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+  
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>armomurhaa</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>Suorittaa eutanasian.</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>Suorittaa eutanasiaa.</Euthanize.jobString>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>Poistaa ruumiinosaa.</RemoveBodyPart.jobString>
+  
+</LanguageData>

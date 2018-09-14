@@ -1,34 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- General -->
-
-  <Basics.label>Perustiedot</Basics.label>
-  <BasicsPawn.label>Perustiedot</BasicsPawn.label>
-  <BasicsNonPawn.label>Perustiedot</BasicsNonPawn.label>
-
-
-  <!-- Non-pawn -->
-
+  
+  <!-- EN: Apparel -->
   <Apparel.label>Vaatteet</Apparel.label>
-  <Weapon.label>Ase</Weapon.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Perustiedot</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Perustiedot</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Perustiedot</BasicsPawn.label>
+  
+  <!-- EN: Building -->
   <Building.label>Rakennus</Building.label>
-
-
-  <!-- Virtual categories -->
-
+  
+  <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Poikkeamat, kun käytössä</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Kertoimet, kun esine on tehty tästä</StuffStatFactors.label>
-  <StuffStatOffsets.label>Poikkeamat, kun esine on tehty tästä</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Kertoimet, kun varusteet on tehty tästä</StuffOfEquipmentStatFactors.label>
-
-
-  <!-- Pawn -->
-
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>Taistelu</PawnCombat.label>
-  <PawnSocial.label>Sosiaalisuus</PawnSocial.label>
+  
+  <!-- EN: Misc -->
   <PawnMisc.label>Sekalaiset</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Sosiaalisuus</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>Työnteko</PawnWork.label>
-
-
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Kertoimet, kun varusteet on tehty tästä</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Kertoimet, kun esine on tehty tästä</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Poikkeamat, kun esine on tehty tästä</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>TODO</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Ase</Weapon.label>
+  
 </LanguageData>

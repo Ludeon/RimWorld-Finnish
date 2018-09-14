@@ -1,145 +1,253 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanitySingle>Hullu eläin</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {0} has gone mad. It will attack everyone it sees. -->
   <AnimalInsanitySingle>Paikallinen {0} on tullut hulluksi. Se hyökkää jokaisen näkemänsä kimppuun.</AnimalInsanitySingle>
+  <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>Hulluja eläimiä!</LetterLabelAnimalInsanityMultiple>
+  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
   <AnimalInsanityMultiple>Jonkinlainen psyykkinen aalto on pyyhkinyt alueen yli. Yhdyskuntalaisesi ovat kunnossa, mutta...\n\nNäyttää siltä että moni alueen {0} on tullut hulluksi siitä.</AnimalInsanityMultiple>
 
+  <!-- EN: Blight -->
   <LetterLabelCropBlight>Vitsaus</LetterLabelCropBlight>
-  <CropBlight>Mysteerinen vitsaus on tuhonnut satosi.</CropBlight>
+  <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
+  <LetterCropBlight>TODO</LetterCropBlight>
 
+  <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Ihmeparantuminen</LetterLabelMiracleHeal>
+  <!-- EN: {0} has experienced a miraculous recovery! -->
   <MiracleHeal>{0} on kokenut ihmeparantumisen!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut laskeutumiskapseleissa lähistölle.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
+  <!-- EN: One of the {0} - {1}, is the leader of the faction. -->
   <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
+  <!-- EN: One of the {0} - {1}, is the leader of the faction. -->
+  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
+
+  <!-- EN: Transport pod crash -->
+  <LetterLabelRefugeePodCrash>Pakokapselin</LetterLabelRefugeePodCrash>
+  <!-- EN: A [PAWN_title] named [PAWN_nameDef] is crashing in a transport pod nearby. If [PAWN_pronoun] survives the impact, [PAWN_pronoun] will be badly wounded. -->
+  <RefugeePodCrash>Olet huomannut pakokapselin putoavan lähistöllesi.\n\nJos joku selvisi törmäyksestä, hän olisi vakavasti haavoittunut.</RefugeePodCrash>
+  <!-- EN: [PAWN_nameDef] is not affiliated with any faction. You can rescue [PAWN_objective] and hope [PAWN_pronoun] joins freely, or capture [PAWN_objective] for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>TODO</RefugeePodCrash_Factionless>
+  <!-- EN: [PAWN_nameDef] is from your enemy [PAWN_factionName]. You can capture [PAWN_objective] for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>TODO</RefugeePodCrash_Hostile>
+  <!-- EN: [PAWN_nameDef] is from [PAWN_factionName]. If you rescue [PAWN_objective], [PAWN_pronoun] may join freely. Otherwise, [PAWN_pronoun] will return home and spread goodwill between your factions.\n\nYou can also capture [PAWN_objective] for recruitment or slavery purposes, but this will anger [PAWN_possessive] faction. -->
+  <RefugeePodCrash_NonHostile>TODO</RefugeePodCrash_NonHostile>
+
+  <!-- EN: Cargo pods -->
+  <LetterLabelCargoPodCrash>Varastosäiliöitä</LetterLabelCargoPodCrash>
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
+  <CargoPodCrash>Olet huomannut rykelmän pieniä rahtikapseleita putoavan lähistölle.\n\nEhkä löydät niistä jotain hyödyllistä.</CargoPodCrash>
+
+  <!-- EN: an electrical conduit -->
+  <AnElectricalConduit>sähkönjohtimessa</AnElectricalConduit>
+  <!-- EN: A fault in {0} has caused a short circuit. -->
+  <ShortCircuit>Valmistusvirhe {0} on aiheuttanut oikosulun.\n\nKaikki {1} Wd virrasta liitetyissä akuissa on purkautunut sähköisessä räjähdyksessä.</ShortCircuit>
+  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
+  <ShortCircuitStartedFire>TODO</ShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <ShortCircuitDischargedEnergy>TODO</ShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an explosion of considerable size. -->
+  <ShortCircuitWasLarge>Tämä suuri virtamäärä on aiheuttanut kunnioitettavan kokoisen räjähdyksen.</ShortCircuitWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
+  <ShortCircuitWasHuge>Tuo on todella valtava räjähdys. Wau.</ShortCircuitWasHuge>
+
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
+  <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.</TraderArrival>
+
+  <!-- EN: A {0} from {1} is passing by. [PAWN_pronoun] is named {2}. -->
+  <SingleTravelerPassing>Eräs {0} tukikohdasta {1} on kulkemassa ohi. [PAWN_possessive] nimensä on {2}.</SingleTravelerPassing>
+  <!-- EN: A group of travelers from {0} are passing by. -->
+  <GroupTravelersPassing>Ryhmä matkaajia tukikohdasta {0} ovat kulkemassa ohi.</GroupTravelersPassing>
+
+  <!-- EN: Visitor -->
+  <LetterLabelSingleVisitorArrives>Vierailija</LetterLabelSingleVisitorArrives>
+  <!-- EN: A {0} from {1} is visiting the colony.\n\n[PAWN_pronoun] is named {2}.{3}{4} -->
+  <SingleVisitorArrives>Eräs {0} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\n[PAWN_possessive] nimensä on {2}.</SingleVisitorArrives>
+  <!-- EN: \n\n[PAWN_pronoun] seems to have a few items to trade. -->
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+  <!-- EN: \n\n[PAWN_pronoun] is the leader of the faction. -->
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: Visitors -->
+  <LetterLabelGroupVisitorsArrive>Vierailijoita</LetterLabelGroupVisitorsArrive>
+  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
+  <GroupVisitorsArrive>Ryhmä tukikohdasta {0} on tullut vierailemaan yhdyskunnassasi.</GroupVisitorsArrive>
+  <!-- EN: \n\nThey seem to have a few items to trade. -->
+  <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
+  <!-- EN: \n\nOne of the visitors - {0}, is the leader of the faction. -->
+  <GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
+  <!-- EN: Visitors from {0} are leaving. -->
+  <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
+
+  <!-- EN: Manhunter pack -->
+  <LetterLabelManhunterPackArrived>Ihmisjahtaajia</LetterLabelManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>{0}lauma on saapunut alueelle ja ne jahtaavat ihmisiä. Ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät voi kulkea ovista, joten sinun pitäisi olla turvassa jos pysyt seinien sisällä. Ne eivät hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi jos haluat säästää ne.\n\nNe lähtevät alueelta parin päivän päästä.</ManhunterPackArrived>
+  
+  <!-- Crashed ship part-->
+  <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut spyykkisen pulssin mikä on ajanut kaikki läheiset eläimet hulluiksi.</MessageAnimalInsanityPulse>
+  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
+  <LetterShipPartDroveColonistInsane>Pudonneen aluksen kappale on lähettänyt keskitetyn psyykkisen pulssin, joka on ajanut yhdyskuntalaisen {0} hulluksi.</LetterShipPartDroveColonistInsane>
+  <!-- EN: Awoke {0} days ago -->
+  <AwokeDaysAgo>Heräsi {0} päivää sitten</AwokeDaysAgo>
+  <!-- EN: Psychic drone level: {0} -->
+  <PsychicDroneLevel>Psyykkisen häirinnän taso: {0}</PsychicDroneLevel>
+  <!-- EN: Drone intensifies -->
+  <LetterLabelPsychicDroneLevelIncreased>Häirintä voimistuu</LetterLabelPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <!-- EN: Agent -->
+  <LetterLabelAgentRevealed>Vakooja</LetterLabelAgentRevealed>
+  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
+  <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojaksi.\n\nHän yrittää nyt paeta.</LetterAgentRevealed>
+
+  <!-- Distant psychic drone -->
+  <!-- EN: Psychic drone -->
+  <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
+  <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
+  <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.</LetterIncidentPsychicDrone>
+
+  <!-- EN: Psychic soothe -->
+  <LetterLabelPsychicSoothe>Psyykkinen rauhoitus</LetterLabelPsychicSoothe>
+  <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
+  <LetterIncidentPsychicSoothe>Jokainen sukupuolta {0} edustava yhdyskuntalainen hymyilee onnessaan!\n\nJokin etäinen onnellisuuskone hyrrää. Se lähettää voimakasta psyykkistä säteilyä koko alueen ylle taajuudella joka tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon parempi.</LetterIncidentPsychicSoothe>
+
+  <!-- Beavers -->
+  <!-- EN: Beavers! -->
+  <LetterLabelBeaversArrived>Majavia!</LetterLabelBeaversArrived>
+  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
+  <BeaversArrived>Ryhmä nälkäisiä alfamajavia on juuri saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puun.</BeaversArrived>
+  
+  <!-- Refugee chased -->
+  <!-- EN: Refugee chased at {0} -->
+  <RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
+  <!-- EN: A [PAWN_title] named [PAWN_nameDef] calls you from nearby. [PAWN_pronoun] is being chased by {2} from {3}!\n\n[PAWN_pronoun] begs for safety and offers to join your colony. [PAWN_pronoun] tells you [PAWN_pronoun] is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on [PAWN_possessive] tail. Their group is composed of:\n\n{5} -->
+  <RefugeeChasedInitial>{1} nimeltään {0} kutsuu sinua lähistöltä. Häntä jahtaa {2} tukikohdasta {3}!\n\n[PAWN_pronoun] anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. Hänen biologinen ikänsä on {4}.\n\nOle varuillasi - jos hyväksyt, joudut taistelemaan [PAWN_possessive] kannoillaan olevia {2} vastaan.</RefugeeChasedInitial>
+  <!-- EN: Offer safety -->
+  <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
+  <!-- EN: Ignore the message -->
+  <RefugeeChasedInitial_Reject>Jätä viesti huomiotta</RefugeeChasedInitial_Reject>
+  <!-- EN: {0} screams in panic through the tinny speaker before you cut off the transmission. -->
+  <RefugeeChasedRejected>{0} huutaa kauhuissaan särisevästä kaiuttimesta ennen kuin katkaiset lähetyksen.</RefugeeChasedRejected>
+
+  <!-- Self-tame -->
+  <!-- EN: {0} self-tamed -->
+  <LetterLabelAnimalSelfTame>{0} kesyyntyi itsestään</LetterLabelAnimalSelfTame>
+  <!-- EN: {0} has become tame. -->
+  <LetterAnimalSelfTame>Eläimestä {0} on tullut kesy.</LetterAnimalSelfTame>
+  <!-- EN: {0} has become tame. It is now designated {1}. -->
+  <LetterAnimalSelfTameAndNameNumerical>Eläimestä {0} on tullut kesy. Sen nimitys on nyt {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {1}. -->
+  <LetterAnimalSelfTameAndName>Eläimestä {0} on tullut kesy. Yhdyskuntalaiset antoivat sille nimeksi {1}.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <!-- EN: {0} join -->
+  <LetterLabelFarmAnimalsWanderIn>{0}lauma liittyy</LetterLabelFarmAnimalsWanderIn>
+  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
+  <LetterFarmAnimalsWanderIn>Hylätty tai eksynyt {0}lauma on kuljeutunut alueelle.\n\nNe näyttävät tottuneilta ihmiskontaktiin ja liittyvät yhdyskuntaan.</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <!-- EN: Rare thrumbos -->
+  <LetterLabelThrumboPasses>Harvinaisia thrumboja</LetterLabelThrumboPasses>
+  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
+  <LetterThrumboPasses>Pieni lauma thrumboja on kuljeutunut alueelle.\n\nNe ovat luonnostaan rauhantahtoisia, mutta nämä harvinaiset oliot ovat äärimmäisen vaarallisia uhmattuina. Jotkin vaihtokauppiaat haluavat maksaa paljon rahaa niiden arvokkaasta nahasta ja sarvesta.\n\nThrumbot lähtevät alueelta muutamassa päivässä.</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <!-- EN: {1} from {0} -->
+  <LetterLabelTraderCaravanArrival>Trader from {0}</LetterLabelTraderCaravanArrival>
+  <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
+  <LetterTraderCaravanArrival>A trade caravan from {0} is approaching.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
+  
+  <!-- Ransom demand -->
+  <!-- EN: Ransom demand at {0} -->
+  <RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release [PAWN_objective] back to you in exchange for {2} silver. -->
+  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release [PAWN_objective] back to you in exchange for {2} silver.</RansomDemand>
+  <!-- EN: Accept -->
+  <RansomDemand_Accept>Accept</RansomDemand_Accept>
+  <!-- EN: Reject -->
+  <RansomDemand_Reject>Reject</RansomDemand_Reject>
+  
+  <!-- Journey-related -->
+  <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
+  <JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nIf you travel to the ship, Charlon will take you off this rim world, to the stars.</JourneyOffer>
+  <!-- EN: Ship found -->
+  <EscapeShipFoundLabel>TODO</EscapeShipFoundLabel>
+  <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>TODO</EscapeShipFound>
+  <!-- EN: Ship destroyed -->
+  <EscapeShipLostLabel>TODO</EscapeShipLostLabel>
+  <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
+  <EscapeShipLost>TODO</EscapeShipLost>
+
+  <!-- Caravan meeting -->
+  <!-- EN: Caravan meeting by {0} -->
+  <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
+  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
+  <CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
+  <!-- EN: Trade -->
+  <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
+  <!-- EN: Attack -->
+  <CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
+  <!-- EN: Move on -->
+  <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
+  <!-- EN: no caravan members capable of trading -->
+  <CaravanMeeting_TradeIncapable>TODO</CaravanMeeting_TradeIncapable>
+  
+  <!-- Caravan request -->
+  <!-- EN: Caravan request -->
+  <LetterLabelCaravanRequest>Caravan request</LetterLabelCaravanRequest>
+  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
+  <LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1}\n\nIn return, they offer:\n\n  {2}\n\nThis request expires after: {3}\n\nIf you want to make the trade, send a caravan with the requested supplies. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
+  <CaravanRequestInfo>Requesting: {0}, Reward: {1} ({2} left)</CaravanRequestInfo>
+  <!-- EN: normal quality or better -->
+  <NormalQualityOrBetter>TODO</NormalQualityOrBetter>
+
+  <!-- Caravan demand -->
+  <!-- EN: Caravan demand by {0} -->
+  <CaravanDemandTitle>Caravan demand by {0}</CaravanDemandTitle>
+  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
+  <CaravanDemand>Your caravan has been ambushed by a group of {1} {3} from {0}. They will attack unless you give them:\n\n{2}</CaravanDemand>
+  <!-- EN: Give and pass -->
+  <CaravanDemand_Give>Give and pass</CaravanDemand_Give>
+  <!-- EN: Refuse and fight -->
+  <CaravanDemand_Fight>Refuse and fight</CaravanDemand_Fight>
+
+  <!-- Site no longer hostile -->
+  <!-- EN: Quest no longer available -->
+  <LetterLabelSiteNoLongerHostile>TODO</LetterLabelSiteNoLongerHostile>
+  <!-- EN: Quests no longer available -->
+  <LetterLabelSiteNoLongerHostileMulti>TODO</LetterLabelSiteNoLongerHostileMulti>
+  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
+  <LetterSiteNoLongerHostile>TODO</LetterSiteNoLongerHostile>
+  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
+  <LetterSiteNoLongerHostileMulti>TODO</LetterSiteNoLongerHostileMulti>
+
+  <!-- UNUSED -->
+  <CropBlight>Mysteerinen vitsaus on tuhonnut satosi.</CropBlight>
+  <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut laskeutumiskapseleissa lähistölle.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
   <FriendlyRaidWalkIn>Ryhmä ystävällisiä {0} tukikohdasta {1} on saapunut lähistölle.</FriendlyRaidWalkIn>
   <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
-  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
-
-  <LetterLabelRefugeePodCrash>Pakokapselin</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>Olet huomannut pakokapselin putoavan lähistöllesi.\n\nJos joku selvisi törmäyksestä, hän olisi vakavasti haavoittunut.</RefugeePodCrash>
-
-  <LetterLabelCargoPodCrash>Varastosäiliöitä</LetterLabelCargoPodCrash>
-  <CargoPodCrash>Olet huomannut rykelmän pieniä rahtikapseleita putoavan lähistölle.\n\nEhkä löydät niistä jotain hyödyllistä.</CargoPodCrash>
-
-  <AnElectricalConduit>sähkönjohtimessa</AnElectricalConduit>
-  <ShortCircuit>Valmistusvirhe {0} on aiheuttanut oikosulun.\n\nKaikki {1} Wd virrasta liitetyissä akuissa on purkautunut sähköisessä räjähdyksessä.</ShortCircuit>
-  <ShortCircuitWasLarge>Tämä suuri virtamäärä on aiheuttanut kunnioitettavan kokoisen räjähdyksen.</ShortCircuitWasLarge>
-  <ShortCircuitWasHuge>Tuo on todella valtava räjähdys. Wau.</ShortCircuitWasHuge>
-
-  <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.</TraderArrival>
-
-  <SingleTravelerPassing>Eräs {0} tukikohdasta {1} on kulkemassa ohi. [PAWN_possessive] nimensä on {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>Ryhmä matkaajia tukikohdasta {0} ovat kulkemassa ohi.</GroupTravelersPassing>
-
-  <LetterLabelSingleVisitorArrives>Vierailija</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>Eräs {0} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\n[PAWN_possessive] nimensä on {2}.</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
-  <LetterLabelGroupVisitorsArrive>Vierailijoita</LetterLabelGroupVisitorsArrive>
-  <GroupVisitorsArrive>Ryhmä tukikohdasta {0} on tullut vierailemaan yhdyskunnassasi.</GroupVisitorsArrive>
-  <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
-  <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
-
   <LetterLabelWandererJoin>Kulkuri liittyy</LetterLabelWandererJoin>
   <WandererJoin>Eräs {0} nimeltään [PAWN_nameDef] on saapunut ja liittyy yhdyskuntaasi. [PAWN_pronoun] on {1}.</WandererJoin>
-
-  <LetterLabelManhunterPackArrived>Ihmisjahtaajia</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>{0}lauma on saapunut alueelle ja ne jahtaavat ihmisiä. Ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät voi kulkea ovista, joten sinun pitäisi olla turvassa jos pysyt seinien sisällä. Ne eivät hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi jos haluat säästää ne.\n\nNe lähtevät alueelta parin päivän päästä.</ManhunterPackArrived>
-
-  <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut spyykkisen pulssin mikä on ajanut kaikki läheiset eläimet hulluiksi.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Pudonneen aluksen kappale on lähettänyt keskitetyn psyykkisen pulssin, joka on ajanut yhdyskuntalaisen {0} hulluksi.</LetterShipPartDroveColonistInsane>
-  <AwokeDaysAgo>Heräsi {0} päivää sitten</AwokeDaysAgo>
-  <PsychicDroneLevel>Psyykkisen häirinnän taso: {0}</PsychicDroneLevel>
   <PsychicDroneLevelLow>Matala</PsychicDroneLevelLow>
   <PsychicDroneLevelMedium>Keskitaso</PsychicDroneLevelMedium>
   <PsychicDroneLevelHigh>Korkea</PsychicDroneLevelHigh>
   <PsychicDroneLevelExtreme>Äärimmäinen</PsychicDroneLevelExtreme>
-  <LetterLabelPsychicDroneLevelIncreased>Häirintä voimistuu</LetterLabelPsychicDroneLevelIncreased>
-  <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
-
-  <!-- Agent revealed -->
-  <LetterLabelAgentRevealed>Vakooja</LetterLabelAgentRevealed>
-  <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojaksi.\n\nHän yrittää nyt paeta.</LetterAgentRevealed>
-
-  <!-- Distant psychic drone -->
-  <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.</LetterIncidentPsychicDrone>
-
-  <LetterLabelPsychicSoothe>Psyykkinen rauhoitus</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Jokainen sukupuolta {0} edustava yhdyskuntalainen hymyilee onnessaan!\n\nJokin etäinen onnellisuuskone hyrrää. Se lähettää voimakasta psyykkistä säteilyä koko alueen ylle taajuudella joka tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon parempi.</LetterIncidentPsychicSoothe>
-
-  <!-- Beavers -->
-  <LetterLabelBeaversArrived>Majavia!</LetterLabelBeaversArrived>
-  <BeaversArrived>Ryhmä nälkäisiä alfamajavia on juuri saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puun.</BeaversArrived>
-
-  <!-- Refugee chased -->
-  <RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{1} nimeltään {0} kutsuu sinua lähistöltä. Häntä jahtaa {2} tukikohdasta {3}!\n\n[PAWN_pronoun] anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. Hänen biologinen ikänsä on {4}.\n\nOle varuillasi - jos hyväksyt, joudut taistelemaan [PAWN_possessive] kannoillaan olevia {2} vastaan.</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Jätä viesti huomiotta</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{0} huutaa kauhuissaan särisevästä kaiuttimesta ennen kuin katkaiset lähetyksen.</RefugeeChasedRejected>
-
-  <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} kesyyntyi itsestään</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>Eläimestä {0} on tullut kesy.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>Eläimestä {0} on tullut kesy. Sen nimitys on nyt {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>Eläimestä {0} on tullut kesy. Yhdyskuntalaiset antoivat sille nimeksi {1}.</LetterAnimalSelfTameAndName>
-
-  <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0}lauma liittyy</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>Hylätty tai eksynyt {0}lauma on kuljeutunut alueelle.\n\nNe näyttävät tottuneilta ihmiskontaktiin ja liittyvät yhdyskuntaan.</LetterFarmAnimalsWanderIn>
-
-  <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Harvinaisia thrumboja</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>Pieni lauma thrumboja on kuljeutunut alueelle.\n\nNe ovat luonnostaan rauhantahtoisia, mutta nämä harvinaiset oliot ovat äärimmäisen vaarallisia uhmattuina. Jotkin vaihtokauppiaat haluavat maksaa paljon rahaa niiden arvokkaasta nahasta ja sarvesta.\n\nThrumbot lähtevät alueelta muutamassa päivässä.</LetterThrumboPasses>
-
-  <!-- Trader caravan -->
-  <LetterLabelTraderCaravanArrival>Trader from {0}</LetterLabelTraderCaravanArrival>
-  <LetterTraderCaravanArrival>A trade caravan from {0} is approaching.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
-
-  <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
   <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
-
-  <!-- Ransom demand -->
-  <RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
-  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release [PAWN_objective] back to you in exchange for {2} silver.</RansomDemand>
-  <RansomDemand_Accept>Accept</RansomDemand_Accept>
-  <RansomDemand_Reject>Reject</RansomDemand_Reject>
-
-  <!-- Journey -->
-  <JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nIf you travel to the ship, Charlon will take you off this rim world, to the stars.</JourneyOffer>
-
-  <!-- Caravan meeting -->
-  <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
-  <CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
-  <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
-  <CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
-  <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
-
-  <!-- Caravan request -->
-  <LetterLabelCaravanRequest>Caravan request</LetterLabelCaravanRequest>
-  <LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1}\n\nIn return, they offer:\n\n  {2}\n\nThis request expires after: {3}\n\nIf you want to make the trade, send a caravan with the requested supplies. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
-  <CaravanRequestInfo>Requesting: {0}, Reward: {1} ({2} left)</CaravanRequestInfo>
-
-  <!-- Caravan demand -->
-  <CaravanDemandTitle>Caravan demand by {0}</CaravanDemandTitle>
-  <CaravanDemand>Your caravan has been ambushed by a group of {1} {3} from {0}. They will attack unless you give them:\n\n{2}</CaravanDemand>
-  <CaravanDemand_Give>Give and pass</CaravanDemand_Give>
-  <CaravanDemand_Fight>Refuse and fight</CaravanDemand_Fight>
-
-  <!-- Temporary item stash -->
   <ItemStashQuestTitle>Item stash opportunity</ItemStashQuestTitle>
   <ItemStashQuest_Accept>Accept</ItemStashQuest_Accept>
   <ItemStashQuest_Reject>Reject</ItemStashQuest_Reject>

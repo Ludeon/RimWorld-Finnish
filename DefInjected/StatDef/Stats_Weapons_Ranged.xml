@@ -1,21 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AccuracyTouch.label>Osumatarkkuus (kosketuksissa)</AccuracyTouch.label>
-  <AccuracyTouch.description>Osumatarkkuuden kerroin kosketusetäisyydellä.</AccuracyTouch.description>
-
-  <AccuracyShort.label>Osumatarkkuus (lyhyt)</AccuracyShort.label>
-  <AccuracyShort.description>Osumatarkkuuden kerroin lyhyellä etäisyydellä.</AccuracyShort.description>
-
-  <AccuracyMedium.label>Osumatarkkuus (keskipitkällä)</AccuracyMedium.label>
-  <AccuracyMedium.description>Osumatarkkuuden kerroin keskipitkällä etäisyydellä.</AccuracyMedium.description>
-
+  
+  <!-- EN: Accuracy (long) -->
   <AccuracyLong.label>Osumatarkkuus (pitkällä)</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyLong.description>Osumatarkkuuden kerroin pitkällä etäisyydellä.</AccuracyLong.description>
-
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>Osumatarkkuus (keskipitkällä)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>Osumatarkkuuden kerroin keskipitkällä etäisyydellä.</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>Osumatarkkuus (lyhyt)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>Osumatarkkuuden kerroin lyhyellä etäisyydellä.</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>Osumatarkkuus (kosketuksissa)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>Osumatarkkuuden kerroin kosketusetäisyydellä.</AccuracyTouch.description>
+  
+  <!-- EN: ranged cooldown -->
   <RangedWeapon_Cooldown.label>ampumisen jäähtymisaika</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
   <RangedWeapon_Cooldown.description>Miten kauan palautumiseen menee tällä aseella ampumisen jälkeen.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
   <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
-
-
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>TODO</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>TODO</RangedWeapon_DamageMultiplier.description>
+  
 </LanguageData>

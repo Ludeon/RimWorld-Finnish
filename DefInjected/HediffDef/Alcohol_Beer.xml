@@ -1,29 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-  <AlcoholHigh.stages.0.label>buzzed-hidden</AlcoholHigh.stages.0.label>
-  <AlcoholHigh.stages.1.label>warm</AlcoholHigh.stages.1.label>
-  <AlcoholHigh.stages.2.label>tipsy</AlcoholHigh.stages.2.label>
-  <AlcoholHigh.stages.3.label>drunk</AlcoholHigh.stages.3.label>
-  <AlcoholHigh.stages.4.label>hammered</AlcoholHigh.stages.4.label>
-  <AlcoholHigh.stages.5.label>blackout</AlcoholHigh.stages.5.label>
-
-  <Hangover.label>krapula</Hangover.label>
-  <Hangover.stages.0.label>lievä</Hangover.stages.0.label>
-  <Hangover.stages.1.label>vahva</Hangover.stages.1.label>
-  <Hangover.stages.2.label>jyskyttävä</Hangover.stages.2.label>
-
-
-  <!-- Alcohol addiction -->
-
-  <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
-  <AlcoholTolerance.stages.1.label>small</AlcoholTolerance.stages.1.label>
-  <AlcoholTolerance.stages.2.label>large</AlcoholTolerance.stages.2.label>
-  <AlcoholTolerance.stages.3.label>massive</AlcoholTolerance.stages.3.label>
-
+  
+  <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>alcohol addiction</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.1.label>withdrawal</AlcoholAddiction.stages.1.label>
-
-
+  <!-- EN: withdrawal -->
+  <AlcoholAddiction.stages.withdrawal.label>withdrawal</AlcoholAddiction.stages.withdrawal.label>
+  
+  <!-- EN: alcohol -->
+  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
+  <!-- EN: drunkenness -->
+  <AlcoholHigh.labelNoun>TODO</AlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <AlcoholHigh.stages.warm.label>buzzed-hidden</AlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <AlcoholHigh.stages.tipsy.label>warm</AlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <AlcoholHigh.stages.drunk.label>tipsy</AlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <AlcoholHigh.stages.hammered.label>drunk</AlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <AlcoholHigh.stages.blackout.label>hammered</AlcoholHigh.stages.blackout.label>
+  
+  <!-- UNUSED -->
+  <AlcoholHigh.stages.5.label>blackout</AlcoholHigh.stages.5.label>
+  
+  <!-- EN: alcohol tolerance -->
+  <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small-0.label>TODO</AlcoholTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small-1.label>small</AlcoholTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <AlcoholTolerance.stages.large.label>large</AlcoholTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AlcoholTolerance.stages.massive.label>massive</AlcoholTolerance.stages.massive.label>
+  
+  <!-- EN: hangover -->
+  <Hangover.label>krapula</Hangover.label>
+  <!-- EN: a hangover -->
+  <Hangover.labelNoun>TODO</Hangover.labelNoun>
+  <!-- EN: slight -->
+  <Hangover.stages.slight.label>lievä</Hangover.stages.slight.label>
+  <!-- EN: strong -->
+  <Hangover.stages.strong.label>vahva</Hangover.stages.strong.label>
+  <!-- EN: pounding -->
+  <Hangover.stages.pounding.label>jyskyttävä</Hangover.stages.pounding.label>
+  
 </LanguageData>

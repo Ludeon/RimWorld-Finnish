@@ -1,23 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: none -->
   <WorkTagNone>Ei mitään</WorkTagNone>
+  <!-- EN: intellectual -->
   <WorkTagIntellectual>Älyllinen</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
   <WorkTagManualDumb>Raskas työ</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
   <WorkTagManualSkilled>Ammattitaitoinen työ</WorkTagManualSkilled>
+  <!-- EN: violent -->
   <WorkTagViolent>Väkivaltainen</WorkTagViolent>
+  <!-- EN: caring -->
   <WorkTagCaring>Välittäminen</WorkTagCaring>
+  <!-- EN: social -->
   <WorkTagSocial>Sosiaalinen</WorkTagSocial>
+  <!-- EN: animals -->
   <WorkTagAnimals>Animals</WorkTagAnimals>
+  <!-- EN: artistic -->
   <WorkTagArtistic>Taiteellinen</WorkTagArtistic>
+  <!-- EN: crafting -->
   <WorkTagCrafting>Käsityöt</WorkTagCrafting>
+  <!-- EN: cooking -->
   <WorkTagCooking>Ruuanlaitto</WorkTagCooking>
+  <!-- EN: firefighting -->
   <WorkTagFirefighting>Palontorjunta</WorkTagFirefighting>
+  <!-- EN: cleaning -->
   <WorkTagCleaning>Siivous</WorkTagCleaning>
+  <!-- EN: hauling -->
   <WorkTagHauling>Kuljettaminen</WorkTagHauling>
+  <!-- EN: plant work -->
   <WorkTagPlantWork>Kasvityö</WorkTagPlantWork>
+  <!-- EN: mining -->
   <WorkTagMining>Louhimistyö</WorkTagMining>
-
-  <!--<WorkTagScary>Pelottava</WorkTagScary>-->
 
 </LanguageData>

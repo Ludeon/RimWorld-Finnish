@@ -1,27 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Threats -->
-
+  
+  <!-- EN: ambush -->
   <Ambush.label>ambush</Ambush.label>
-  <Ambush.letterText>Your caravan has been ambushed by {0} from {1}!</Ambush.letterText>
+  <!-- EN: Caravan ambushed -->
   <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
-
-  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
-  <ManhunterAmbush.letterText>Your caravan has been ambushed by manhunting {0}!</ManhunterAmbush.letterText>
-  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
-
-
-  <!-- Good -->
-
-  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
-
-
-  <!-- Bad -->
-
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>Your caravan has been ambushed by {0} from {1}!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
   <CaravanDemand.label>payment demand</CaravanDemand.label>
-  <CaravanDemand.letterText>Your caravan has been ambushed by {0} from {1}!</CaravanDemand.letterText>
   <CaravanDemand.letterLabel>Caravan ambushed</CaravanDemand.letterLabel>
-
-
+  <CaravanDemand.letterText>Your caravan has been ambushed by {0} from {1}!</CaravanDemand.letterText>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by manhunting {1}! -->
+  <ManhunterAmbush.letterText>Your caravan has been ambushed by manhunting {0}!</ManhunterAmbush.letterText>
+  
 </LanguageData>

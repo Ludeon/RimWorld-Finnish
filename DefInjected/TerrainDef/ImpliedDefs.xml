@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: karkea graniittia -->
+  <Granite_Rough.label>karkeaa graniittia</Granite_Rough.label>
+  <!-- EN: Karkea luonnollinen graniittiamaa. -->
+  <Granite_Rough.description>Rough, natural granite ground.</Granite_Rough.description>
+  
+  <!-- EN: karkeaksi louhittu graniittia -->
+  <Granite_RoughHewn.label>karkeaksi louhittua graniittia</Granite_RoughHewn.label>
+  <!-- EN: Karkeasti leikattu luonnollinen graniittia lattia. -->
+  <Granite_RoughHewn.description>Roughly cut natural granite floor.</Granite_RoughHewn.description>
+  
+  <!-- EN: sileä graniittia -->
+  <Granite_Smooth.label>sileää graniittia</Granite_Smooth.label>
+  <!-- EN: Hiottu luonnollinen graniittialattia. -->
+  <Granite_Smooth.description>Smoothed natural granite floor.</Granite_Smooth.description>
+  
+  <!-- EN: karkea kalkkikiveä -->
+  <Limestone_Rough.label>karkeaa kalkkikiveä</Limestone_Rough.label>
+  <!-- EN: Karkea luonnollinen kalkkikiveämaa. -->
+  <Limestone_Rough.description>Rough, natural limestone ground.</Limestone_Rough.description>
+  
+  <!-- EN: karkeaksi louhittu kalkkikiveä -->
+  <Limestone_RoughHewn.label>karkeaksi louhittua kalkkikiveä</Limestone_RoughHewn.label>
+  <!-- EN: Karkeasti leikattu luonnollinen kalkkikiveä lattia. -->
+  <Limestone_RoughHewn.description>Roughly cut natural limestone floor.</Limestone_RoughHewn.description>
+  
+  <!-- EN: sileä kalkkikiveä -->
+  <Limestone_Smooth.label>sileää kalkkikiveä</Limestone_Smooth.label>
+  <!-- EN: Hiottu luonnollinen kalkkikiveälattia. -->
+  <Limestone_Smooth.description>Smoothed natural limestone floor.</Limestone_Smooth.description>
+  
+  <!-- EN: karkea marmoria -->
+  <Marble_Rough.label>karkeaa marmoria</Marble_Rough.label>
+  <!-- EN: Karkea luonnollinen marmoriamaa. -->
+  <Marble_Rough.description>Rough, natural marble ground.</Marble_Rough.description>
+  
+  <!-- EN: karkeaksi louhittu marmoria -->
+  <Marble_RoughHewn.label>karkeaksi louhittua marmoria</Marble_RoughHewn.label>
+  <!-- EN: Karkeasti leikattu luonnollinen marmoria lattia. -->
+  <Marble_RoughHewn.description>Roughly cut natural marble floor.</Marble_RoughHewn.description>
+  
+  <!-- EN: sileä marmoria -->
+  <Marble_Smooth.label>sileää marmoria</Marble_Smooth.label>
+  <!-- EN: Hiottu luonnollinen marmorialattia. -->
+  <Marble_Smooth.description>Smoothed natural marble floor.</Marble_Smooth.description>
+  
+  <!-- EN: karkea hiekkakiveä -->
+  <Sandstone_Rough.label>karkeaa hiekkakiveä</Sandstone_Rough.label>
+  <!-- EN: Karkea luonnollinen hiekkakiveämaa. -->
+  <Sandstone_Rough.description>Rough, natural sandstone ground.</Sandstone_Rough.description>
+  
+  <!-- EN: karkeaksi louhittu hiekkakiveä -->
+  <Sandstone_RoughHewn.label>karkeaksi louhittua hiekkakiveä</Sandstone_RoughHewn.label>
+  <!-- EN: Karkeasti leikattu luonnollinen hiekkakiveä lattia. -->
+  <Sandstone_RoughHewn.description>Roughly cut natural sandstone floor.</Sandstone_RoughHewn.description>
+  
+  <!-- EN: sileä hiekkakiveä -->
+  <Sandstone_Smooth.label>sileää hiekkakiveä</Sandstone_Smooth.label>
+  <!-- EN: Hiottu luonnollinen hiekkakiveälattia. -->
+  <Sandstone_Smooth.description>Smoothed natural sandstone floor.</Sandstone_Smooth.description>
+  
+  <!-- EN: karkea saviliusketta -->
+  <Slate_Rough.label>karkeaa liuskekiveä</Slate_Rough.label>
+  <!-- EN: Karkea luonnollinen saviliuskettamaa. -->
+  <Slate_Rough.description>Rough, natural slate ground.</Slate_Rough.description>
+  
+  <!-- EN: karkeaksi louhittu saviliusketta -->
+  <Slate_RoughHewn.label>karkeaksi louhittua liuskekiveä</Slate_RoughHewn.label>
+  <!-- EN: Karkeasti leikattu luonnollinen saviliusketta lattia. -->
+  <Slate_RoughHewn.description>Roughly cut natural slate floor.</Slate_RoughHewn.description>
+  
+  <!-- EN: sileä saviliusketta -->
+  <Slate_Smooth.label>sileää liuskekiveä</Slate_Smooth.label>
+  <!-- EN: Hiottu luonnollinen saviliuskettalattia. -->
+  <Slate_Smooth.description>Smoothed natural slate floor.</Slate_Smooth.description>
+  
+</LanguageData>

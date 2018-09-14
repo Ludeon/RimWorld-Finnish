@@ -1,0 +1,1431 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: eläimen sänky (piirrustus) -->
+  <Blueprint_AnimalBed.label>eläimen sänky (piirrustus)</Blueprint_AnimalBed.label>
+  
+  <!-- EN: eläimen nukkumalaatikko (piirrustus) -->
+  <Blueprint_AnimalSleepingBox.label>eläimen sleeping box (piirrustus)</Blueprint_AnimalSleepingBox.label>
+  
+  <!-- EN: eläimen nukkumapaikka (piirrustus) -->
+  <Blueprint_AnimalSleepingSpot.label>eläimen nukkumapaikka (piirrustus)</Blueprint_AnimalSleepingSpot.label>
+  
+  <!-- EN: nojatuoli (piirrustus) -->
+  <Blueprint_Armchair.label>armchair (piirrustus)</Blueprint_Armchair.label>
+  
+  <!-- EN: auto-ovi (piirrustus) -->
+  <Blueprint_Autodoor.label>autodoor (blueprint)</Blueprint_Autodoor.label>
+  
+  <!-- EN: akku (piirrustus) -->
+  <Blueprint_Battery.label>battery (blueprint)</Blueprint_Battery.label>
+  
+  <!-- EN: sänky (piirrustus) -->
+  <Blueprint_Bed.label>sänky (piirrustus)</Blueprint_Bed.label>
+  
+  <!-- EN: biljardipöytä (piirrustus) -->
+  <Blueprint_BilliardsTable.label>billiards table (blueprint)</Blueprint_BilliardsTable.label>
+  
+  <!-- EN: panimo (piirrustus) -->
+  <Blueprint_Brewery.label>brewery (blueprint)</Blueprint_Brewery.label>
+  
+  <!-- EN: nuotio (piirrustus) -->
+  <Blueprint_Campfire.label>campfire (blueprint)</Blueprint_Campfire.label>
+  
+  <!-- EN: caravan packing spot (piirrustus) -->
+  <Blueprint_CaravanPackingSpot.label>caravan packing spot (blueprint)</Blueprint_CaravanPackingSpot.label>
+  
+  <!-- EN: sininen kokolattiamatto (piirrustus) -->
+  <Blueprint_CarpetBlue.label>blue carpet (blueprint)</Blueprint_CarpetBlue.label>
+  
+  <!-- EN: kermanvärinen kokolattiamatto (piirrustus) -->
+  <Blueprint_CarpetCream.label>cream carpet (blueprint)</Blueprint_CarpetCream.label>
+  
+  <!-- EN: tumma kokolattiamatto (piirrustus) -->
+  <Blueprint_CarpetDark.label>dark carpet (blueprint)</Blueprint_CarpetDark.label>
+  
+  <!-- EN: vihreä kokolattiamatto (piirrustus) -->
+  <Blueprint_CarpetGreen.label>green carpet (blueprint)</Blueprint_CarpetGreen.label>
+  
+  <!-- EN: punainen kokolattiamatto (piirrustus) -->
+  <Blueprint_CarpetRed.label>red carpet (blueprint)</Blueprint_CarpetRed.label>
+  
+  <!-- EN: shakkipöytä (piirrustus) -->
+  <Blueprint_ChessTable.label>chess table (blueprint)</Blueprint_ChessTable.label>
+  
+  <!-- EN: kommunikaatiopääte (piirrustus) -->
+  <Blueprint_CommsConsole.label>comms console (blueprint)</Blueprint_CommsConsole.label>
+  
+  <!-- EN: betoni (piirrustus) -->
+  <Blueprint_Concrete.label>concrete (blueprint)</Blueprint_Concrete.label>
+  
+  <!-- EN: jäähdytin (piirrustus) -->
+  <Blueprint_Cooler.label>cooler (blueprint)</Blueprint_Cooler.label>
+  
+  <!-- EN: crafting spot (piirrustus) -->
+  <Blueprint_CraftingSpot.label>crafting spot (blueprint)</Blueprint_CraftingSpot.label>
+  
+  <!-- EN: salauniarkku (piirrustus) -->
+  <Blueprint_CryptosleepCasket.label>cryptosleep casket (blueprint)</Blueprint_CryptosleepCasket.label>
+  
+  <!-- EN: deep drill (piirrustus) -->
+  <Blueprint_DeepDrill.label>deep drill (blueprint)</Blueprint_DeepDrill.label>
+  
+  <!-- EN: ruokapöydän tuoli (piirrustus) -->
+  <Blueprint_DiningChair.label>dining chair (piirrustus)</Blueprint_DiningChair.label>
+  
+  <!-- EN: ovi (piirrustus) -->
+  <Blueprint_Door.label>door (blueprint)</Blueprint_Door.label>
+  
+  <!-- EN: double bed (piirrustus) -->
+  <Blueprint_DoubleBed.label>double sänky (piirrustus)</Blueprint_DoubleBed.label>
+  
+  <!-- EN: drug lab (piirrustus) -->
+  <Blueprint_DrugLab.label>drug lab (blueprint)</Blueprint_DrugLab.label>
+  
+  <!-- EN: electric crematorium (piirrustus) -->
+  <Blueprint_ElectricCrematorium.label>electric crematorium (blueprint)</Blueprint_ElectricCrematorium.label>
+  
+  <!-- EN: sähköinen sulatusuuni (piirrustus) -->
+  <Blueprint_ElectricSmelter.label>electric smelter (blueprint)</Blueprint_ElectricSmelter.label>
+  
+  <!-- EN: electric taontapöytä (piirrustus) -->
+  <Blueprint_ElectricSmithy.label>electric smithy (blueprint)</Blueprint_ElectricSmithy.label>
+  
+  <!-- EN: electric stove (piirrustus) -->
+  <Blueprint_ElectricStove.label>electric stove (blueprint)</Blueprint_ElectricStove.label>
+  
+  <!-- EN: electric tailoring bench (piirrustus) -->
+  <Blueprint_ElectricTailoringBench.label>electric tailor bench (blueprint)</Blueprint_ElectricTailoringBench.label>
+  
+  <!-- EN: fermenting barrel (piirrustus) -->
+  <Blueprint_FermentingBarrel.label>fermenting barrel (blueprint)</Blueprint_FermentingBarrel.label>
+  
+  <!-- EN: palovaahtopaukku (piirrustus) -->
+  <Blueprint_FirefoamPopper.label>firefoam popper (blueprint)</Blueprint_FirefoamPopper.label>
+  
+  <!-- EN: granite flagstone (piirrustus) -->
+  <Blueprint_FlagstoneGranite.label>granite flagstone (blueprint)</Blueprint_FlagstoneGranite.label>
+  
+  <!-- EN: limestone flagstone (piirrustus) -->
+  <Blueprint_FlagstoneLimestone.label>limestone flagstone (blueprint)</Blueprint_FlagstoneLimestone.label>
+  
+  <!-- EN: marble flagstone (piirrustus) -->
+  <Blueprint_FlagstoneMarble.label>marble flagstone (blueprint)</Blueprint_FlagstoneMarble.label>
+  
+  <!-- EN: sandstone flagstone (piirrustus) -->
+  <Blueprint_FlagstoneSandstone.label>sandstone flagstone (blueprint)</Blueprint_FlagstoneSandstone.label>
+  
+  <!-- EN: slate flagstone (piirrustus) -->
+  <Blueprint_FlagstoneSlate.label>slate flagstone (blueprint)</Blueprint_FlagstoneSlate.label>
+  
+  <!-- EN: fueled taontapöytä (piirrustus) -->
+  <Blueprint_FueledSmithy.label>fueled smithy (blueprint)</Blueprint_FueledSmithy.label>
+  
+  <!-- EN: puuliesi (piirrustus) -->
+  <Blueprint_FueledStove.label>fueled stove (blueprint)</Blueprint_FueledStove.label>
+  
+  <!-- EN: maalämpögeneraattori (piirrustus) -->
+  <Blueprint_GeothermalGenerator.label>geothermal generator (blueprint)</Blueprint_GeothermalGenerator.label>
+  
+  <!-- EN: kultalaatta (piirrustus) -->
+  <Blueprint_GoldTile.label>gold tile (blueprint)</Blueprint_GoldTile.label>
+  
+  <!-- EN: hauta (piirrustus) -->
+  <Blueprint_Grave.label>grave (blueprint)</Blueprint_Grave.label>
+  
+  <!-- EN: ground-penetrating scanner (piirrustus) -->
+  <Blueprint_GroundPenetratingScanner.label>ground-penetrating scanner (blueprint)</Blueprint_GroundPenetratingScanner.label>
+  
+  <!-- EN: hand-tailoring bench (piirrustus) -->
+  <Blueprint_HandTailoringBench.label>hand tailor bench (blueprint)</Blueprint_HandTailoringBench.label>
+  
+  <!-- EN: lämmitin (piirrustus) -->
+  <Blueprint_Heater.label>heater (blueprint)</Blueprint_Heater.label>
+  
+  <!-- EN: hi-tech research bench (piirrustus) -->
+  <Blueprint_HiTechResearchBench.label>hi-tech research bench (blueprint)</Blueprint_HiTechResearchBench.label>
+  
+  <!-- EN: suppilo (piirrustus) -->
+  <Blueprint_Hopper.label>hopper (blueprint)</Blueprint_Hopper.label>
+  
+  <!-- EN: hevosenkenkäpelin paalu (piirrustus) -->
+  <Blueprint_HorseshoesPin.label>horseshoes pin (blueprint)</Blueprint_HorseshoesPin.label>
+  
+  <!-- EN: lääkintävuode (piirrustus) -->
+  <Blueprint_HospitalBed.label>lääkintävuode (piirrustus)</Blueprint_HospitalBed.label>
+  
+  <!-- EN: vesiviljelyallas (piirrustus) -->
+  <Blueprint_HydroponicsBasin.label>hydroponics basin (blueprint)</Blueprint_HydroponicsBasin.label>
+  
+  <!-- EN: eläimen sänky (piirrustus) -->
+  <Blueprint_Install_AnimalBed.label>eläimen sänky (piirrustus)</Blueprint_Install_AnimalBed.label>
+  
+  <!-- EN: eläimen nukkumalaatikko (piirrustus) -->
+  <Blueprint_Install_AnimalSleepingBox.label>eläimen sleeping box (piirrustus)</Blueprint_Install_AnimalSleepingBox.label>
+  
+  <!-- EN: nojatuoli (piirrustus) -->
+  <Blueprint_Install_Armchair.label>armchair (piirrustus)</Blueprint_Install_Armchair.label>
+  
+  <!-- EN: akku (piirrustus) -->
+  <Blueprint_Install_Battery.label>battery (blueprint)</Blueprint_Install_Battery.label>
+  
+  <!-- EN: sänky (piirrustus) -->
+  <Blueprint_Install_Bed.label>sänky (piirrustus)</Blueprint_Install_Bed.label>
+  
+  <!-- EN: biljardipöytä (piirrustus) -->
+  <Blueprint_Install_BilliardsTable.label>billiards table (blueprint)</Blueprint_Install_BilliardsTable.label>
+  
+  <!-- EN: shakkipöytä (piirrustus) -->
+  <Blueprint_Install_ChessTable.label>chess table (blueprint)</Blueprint_Install_ChessTable.label>
+  
+  <!-- EN: ruokapöydän tuoli (piirrustus) -->
+  <Blueprint_Install_DiningChair.label>dining chair (piirrustus)</Blueprint_Install_DiningChair.label>
+  
+  <!-- EN: double bed (piirrustus) -->
+  <Blueprint_Install_DoubleBed.label>double sänky (piirrustus)</Blueprint_Install_DoubleBed.label>
+  
+  <!-- EN: fermenting barrel (piirrustus) -->
+  <Blueprint_Install_FermentingBarrel.label>fermenting barrel (blueprint)</Blueprint_Install_FermentingBarrel.label>
+  
+  <!-- EN: palovaahtopaukku (piirrustus) -->
+  <Blueprint_Install_FirefoamPopper.label>firefoam popper (blueprint)</Blueprint_Install_FirefoamPopper.label>
+  
+  <!-- EN: flatscreen television (piirrustus) -->
+  <Blueprint_Install_FlatscreenTelevision.label>flatscreen television (blueprint)</Blueprint_Install_FlatscreenTelevision.label>
+  
+  <!-- EN: glow pod (piirrustus) -->
+  <Blueprint_Install_GlowPod.label>glow pod (blueprint)</Blueprint_Install_GlowPod.label>
+  
+  <!-- EN: lämmitin (piirrustus) -->
+  <Blueprint_Install_Heater.label>heater (blueprint)</Blueprint_Install_Heater.label>
+  
+  <!-- EN: hevosenkenkäpelin paalu (piirrustus) -->
+  <Blueprint_Install_HorseshoesPin.label>horseshoes pin (blueprint)</Blueprint_Install_HorseshoesPin.label>
+  
+  <!-- EN: lääkintävuode (piirrustus) -->
+  <Blueprint_Install_HospitalBed.label>lääkintävuode (piirrustus)</Blueprint_Install_HospitalBed.label>
+  
+  <!-- EN: megascreen television (piirrustus) -->
+  <Blueprint_Install_MegascreenTelevision.label>megascreen television (blueprint)</Blueprint_Install_MegascreenTelevision.label>
+  
+  <!-- EN: monianalysaattori (piirrustus) -->
+  <Blueprint_Install_MultiAnalyzer.label>multi-analyzer (blueprint)</Blueprint_Install_MultiAnalyzer.label>
+  
+  <!-- EN: kiertoratavaihtokaupan majakka (piirrustus) -->
+  <Blueprint_Install_OrbitalTradeBeacon.label>orbital trade beacon (blueprint)</Blueprint_Install_OrbitalTradeBeacon.label>
+  
+  <!-- EN: kukkaruukku (piirrustus) -->
+  <Blueprint_Install_PlantPot.label>plant pot (piirrustus)</Blueprint_Install_PlantPot.label>
+  
+  <!-- EN: kuninkaallinen sänky (piirrustus) -->
+  <Blueprint_Install_RoyalBed.label>royal sänky (piirrustus)</Blueprint_Install_RoyalBed.label>
+  
+  <!-- EN: valtava veistos (piirrustus) -->
+  <Blueprint_Install_SculptureGrand.label>grand sculpture (blueprint)</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: suuri veistos (piirrustus) -->
+  <Blueprint_Install_SculptureLarge.label>large sculpture (blueprint)</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: pieni veistos (piirrustus) -->
+  <Blueprint_Install_SculptureSmall.label>small sculpture (blueprint)</Blueprint_Install_SculptureSmall.label>
+  
+  <!-- EN: shelf (piirrustus) -->
+  <Blueprint_Install_Shelf.label>shelf (piirrustus)</Blueprint_Install_Shelf.label>
+  
+  <!-- EN: jalkalamppu (piirrustus) -->
+  <Blueprint_Install_StandingLamp.label>standing lamp (piirrustus)</Blueprint_Install_StandingLamp.label>
+  
+  <!-- EN: jalkalamppu (sininen) (piirrustus) -->
+  <Blueprint_Install_StandingLamp_Blue.label>standing lamp (blue) (piirrustus)</Blueprint_Install_StandingLamp_Blue.label>
+  
+  <!-- EN: jalkalamppu (vihreä) (piirrustus) -->
+  <Blueprint_Install_StandingLamp_Green.label>standing lamp (green) (piirrustus)</Blueprint_Install_StandingLamp_Green.label>
+  
+  <!-- EN: jalkalamppu (punainen) (piirrustus) -->
+  <Blueprint_Install_StandingLamp_Red.label>standing lamp (red) (piirrustus)</Blueprint_Install_StandingLamp_Red.label>
+  
+  <!-- EN: jakkara (piirrustus) -->
+  <Blueprint_Install_Stool.label>stool (piirrustus)</Blueprint_Install_Stool.label>
+  
+  <!-- EN: kirkasvalolamppu (piirrustus) -->
+  <Blueprint_Install_SunLamp.label>sun lamp (piirrustus)</Blueprint_Install_SunLamp.label>
+  
+  <!-- EN: teleskooppi (piirrustus) -->
+  <Blueprint_Install_Telescope.label>telescope (blueprint)</Blueprint_Install_Telescope.label>
+  
+  <!-- EN: työkalukaappi (piirrustus) -->
+  <Blueprint_Install_ToolCabinet.label>tool cabinet (blueprint)</Blueprint_Install_ToolCabinet.label>
+  
+  <!-- EN: kuvaputkitelevisio (piirrustus) -->
+  <Blueprint_Install_TubeTelevision.label>tube television (blueprint)</Blueprint_Install_TubeTelevision.label>
+  
+  <!-- EN: terveydentilan näyttö (piirrustus) -->
+  <Blueprint_Install_VitalsMonitor.label>vitals monitor (blueprint)</Blueprint_Install_VitalsMonitor.label>
+  
+  <!-- EN: long-range mineral scanner (piirrustus) -->
+  <Blueprint_LongRangeMineralScanner.label>long-range mineral scanner (blueprint)</Blueprint_LongRangeMineralScanner.label>
+  
+  <!-- EN: marriage spot (piirrustus) -->
+  <Blueprint_MarriageSpot.label>marriage spot (blueprint)</Blueprint_MarriageSpot.label>
+  
+  <!-- EN: metallilaatta (piirrustus) -->
+  <Blueprint_MetalTile.label>metal tile (blueprint)</Blueprint_MetalTile.label>
+  
+  <!-- EN: moisture pump (piirrustus) -->
+  <Blueprint_MoisturePump.label>moisture pump (blueprint)</Blueprint_MoisturePump.label>
+  
+  <!-- EN: monianalysaattori (piirrustus) -->
+  <Blueprint_MultiAnalyzer.label>multi-analyzer (blueprint)</Blueprint_MultiAnalyzer.label>
+  
+  <!-- EN: ravinnetahna-annostelija (piirrustus) -->
+  <Blueprint_NutrientPasteDispenser.label>nutrient paste dispenser (blueprint)</Blueprint_NutrientPasteDispenser.label>
+  
+  <!-- EN: kiertoratavaihtokaupan majakka (piirrustus) -->
+  <Blueprint_OrbitalTradeBeacon.label>orbital trade beacon (blueprint)</Blueprint_OrbitalTradeBeacon.label>
+  
+  <!-- EN: party spot (piirrustus) -->
+  <Blueprint_PartySpot.label>party spot (blueprint)</Blueprint_PartySpot.label>
+  
+  <!-- EN: passive cooler (piirrustus) -->
+  <Blueprint_PassiveCooler.label>passive cooler (blueprint)</Blueprint_PassiveCooler.label>
+  
+  <!-- EN: betonilaatta (piirrustus) -->
+  <Blueprint_PavedTile.label>paved tile (blueprint)</Blueprint_PavedTile.label>
+  
+  <!-- EN: kukkaruukku (piirrustus) -->
+  <Blueprint_PlantPot.label>plant pot (piirrustus)</Blueprint_PlantPot.label>
+  
+  <!-- EN: pod launcher (piirrustus) -->
+  <Blueprint_PodLauncher.label>pod launcher (blueprint)</Blueprint_PodLauncher.label>
+  
+  <!-- EN: sähkökaapeli (piirrustus) -->
+  <Blueprint_PowerConduit.label>power conduit (blueprint)</Blueprint_PowerConduit.label>
+  
+  <!-- EN: virrankatkaisin (piirrustus) -->
+  <Blueprint_PowerSwitch.label>power switch (blueprint)</Blueprint_PowerSwitch.label>
+  
+  <!-- EN: kuninkaallinen sänky (piirrustus) -->
+  <Blueprint_RoyalBed.label>royal sänky (piirrustus)</Blueprint_RoyalBed.label>
+  
+  <!-- EN: hiekkasäkkejä (piirrustus) -->
+  <Blueprint_Sandbags.label>sandbags (blueprint)</Blueprint_Sandbags.label>
+  
+  <!-- EN: sarkofagi (piirrustus) -->
+  <Blueprint_Sarcophagus.label>sarcophagus (blueprint)</Blueprint_Sarcophagus.label>
+  
+  <!-- EN: shelf (piirrustus) -->
+  <Blueprint_Shelf.label>shelf (piirrustus)</Blueprint_Shelf.label>
+  
+  <!-- EN: avaruusaluksen rakennepalkki (piirrustus) -->
+  <Blueprint_Ship_Beam.label>ship structural beam (blueprint)</Blueprint_Ship_Beam.label>
+  
+  <!-- EN: avaruusaluksen tietokoneydin (piirrustus) -->
+  <Blueprint_Ship_ComputerCore.label>ship computer core (blueprint)</Blueprint_Ship_ComputerCore.label>
+  
+  <!-- EN: avaruusaluksen salauniarkku (piirrustus) -->
+  <Blueprint_Ship_CryptosleepCasket.label>ship cryptosleep casket (blueprint)</Blueprint_Ship_CryptosleepCasket.label>
+  
+  <!-- EN: avaruusaluksen moottori (piirrustus) -->
+  <Blueprint_Ship_Engine.label>ship engine (blueprint)</Blueprint_Ship_Engine.label>
+  
+  <!-- EN: avaruusaluksen reaktori (piirrustus) -->
+  <Blueprint_Ship_Reactor.label>ship reactor (blueprint)</Blueprint_Ship_Reactor.label>
+  
+  <!-- EN: hopealaatta (piirrustus) -->
+  <Blueprint_SilverTile.label>silver tile (blueprint)</Blueprint_SilverTile.label>
+  
+  <!-- EN: yksinkertainen tutkimuspöytä (piirrustus) -->
+  <Blueprint_SimpleResearchBench.label>simple research bench (blueprint)</Blueprint_SimpleResearchBench.label>
+  
+  <!-- EN: nukkumapaikka (piirrustus) -->
+  <Blueprint_SleepingSpot.label>nukkumapaikka (piirrustus)</Blueprint_SleepingSpot.label>
+  
+  <!-- EN: aurinkopaneeli (piirrustus) -->
+  <Blueprint_SolarGenerator.label>solar generator (blueprint)</Blueprint_SolarGenerator.label>
+  
+  <!-- EN: jalkalamppu (piirrustus) -->
+  <Blueprint_StandingLamp.label>standing lamp (piirrustus)</Blueprint_StandingLamp.label>
+  
+  <!-- EN: jalkalamppu (sininen) (piirrustus) -->
+  <Blueprint_StandingLamp_Blue.label>standing lamp (blue) (piirrustus)</Blueprint_StandingLamp_Blue.label>
+  
+  <!-- EN: jalkalamppu (vihreä) (piirrustus) -->
+  <Blueprint_StandingLamp_Green.label>standing lamp (green) (piirrustus)</Blueprint_StandingLamp_Green.label>
+  
+  <!-- EN: jalkalamppu (punainen) (piirrustus) -->
+  <Blueprint_StandingLamp_Red.label>standing lamp (red) (piirrustus)</Blueprint_StandingLamp_Red.label>
+  
+  <!-- EN: steriili laatta (piirrustus) -->
+  <Blueprint_SterileTile.label>sterile tile (blueprint)</Blueprint_SterileTile.label>
+  
+  <!-- EN: jakkara (piirrustus) -->
+  <Blueprint_Stool.label>stool (piirrustus)</Blueprint_Stool.label>
+  
+  <!-- EN: kirkasvalolamppu (piirrustus) -->
+  <Blueprint_SunLamp.label>sun lamp (piirrustus)</Blueprint_SunLamp.label>
+  
+  <!-- EN: teurastuspöytä (piirrustus) -->
+  <Blueprint_TableButcher.label>butcher table (blueprint)</Blueprint_TableButcher.label>
+  
+  <!-- EN: koneiden työstöpöytä (piirrustus) -->
+  <Blueprint_TableMachining.label>machining table (blueprint)</Blueprint_TableMachining.label>
+  
+  <!-- EN: veistäjän pöytä (piirrustus) -->
+  <Blueprint_TableSculpting.label>sculptor's table (blueprint)</Blueprint_TableSculpting.label>
+  
+  <!-- EN: kivenleikkajan pöytä (piirrustus) -->
+  <Blueprint_TableStonecutter.label>stonecutter's table (blueprint)</Blueprint_TableStonecutter.label>
+  
+  <!-- EN: graniittilaatta (piirrustus) -->
+  <Blueprint_TileGranite.label>granite tile (blueprint)</Blueprint_TileGranite.label>
+  
+  <!-- EN: kalkkikivilaatta (piirrustus) -->
+  <Blueprint_TileLimestone.label>limestone tile (blueprint)</Blueprint_TileLimestone.label>
+  
+  <!-- EN: marmorilaatta (piirrustus) -->
+  <Blueprint_TileMarble.label>marble tile (blueprint)</Blueprint_TileMarble.label>
+  
+  <!-- EN: hiekkakivilaatta (piirrustus) -->
+  <Blueprint_TileSandstone.label>sandstone tile (blueprint)</Blueprint_TileSandstone.label>
+  
+  <!-- EN: liuskekivilaatta (piirrustus) -->
+  <Blueprint_TileSlate.label>slate tile (blueprint)</Blueprint_TileSlate.label>
+  
+  <!-- EN: työkalukaappi (piirrustus) -->
+  <Blueprint_ToolCabinet.label>tool cabinet (blueprint)</Blueprint_ToolCabinet.label>
+  
+  <!-- EN: soihtu (piirrustus) -->
+  <Blueprint_TorchLamp.label>soihtu (piirrustus)</Blueprint_TorchLamp.label>
+  
+  <!-- EN: transport pod (piirrustus) -->
+  <Blueprint_TransportPod.label>transport pod (blueprint)</Blueprint_TransportPod.label>
+  
+  <!-- EN: kuvaputkitelevisio (piirrustus) -->
+  <Blueprint_TubeTelevision.label>tube television (blueprint)</Blueprint_TubeTelevision.label>
+  
+  <!-- EN: ilmastointikanava (piirrustus) -->
+  <Blueprint_Vent.label>vent (blueprint)</Blueprint_Vent.label>
+  
+  <!-- EN: terveydentilan näyttö (piirrustus) -->
+  <Blueprint_VitalsMonitor.label>vitals monitor (blueprint)</Blueprint_VitalsMonitor.label>
+  
+  <!-- EN: seinä (piirrustus) -->
+  <Blueprint_Wall.label>wall (blueprint)</Blueprint_Wall.label>
+  
+  <!-- EN: tuuliturbiini (piirrustus) -->
+  <Blueprint_WindTurbine.label>wind turbine (blueprint)</Blueprint_WindTurbine.label>
+  
+  <!-- EN: puulattia (piirrustus) -->
+  <Blueprint_WoodPlankFloor.label>wood floor (blueprint)</Blueprint_WoodPlankFloor.label>
+  
+  <!-- EN: alpakka ruumis -->
+  <Corpse_Alpaca.label>alpakan corpse</Corpse_Alpaca.label>
+  <!-- EN: Kuollut alpakka. -->
+  <Corpse_Alpaca.description>Kuolleen alpakan ruumis.</Corpse_Alpaca.description>
+  
+  <!-- EN: alfamajava ruumis -->
+  <Corpse_Alphabeaver.label>alfamajavan ruumis</Corpse_Alphabeaver.label>
+  <!-- EN: Kuollut alfamajava. -->
+  <Corpse_Alphabeaver.description>Kuolleen alfamajavan ruumis.</Corpse_Alphabeaver.description>
+  
+  <!-- EN: harmaakarhu ruumis -->
+  <Corpse_Bear_Grizzly.label>harmaakarhun ruumis</Corpse_Bear_Grizzly.label>
+  <!-- EN: Kuollut harmaakarhu. -->
+  <Corpse_Bear_Grizzly.description>Kuolleen harmaakarhun ruumis.</Corpse_Bear_Grizzly.description>
+  
+  <!-- EN: jääkarhu ruumis -->
+  <Corpse_Bear_Polar.label>jääkarhun ruumis</Corpse_Bear_Polar.label>
+  <!-- EN: Kuollut jääkarhu. -->
+  <Corpse_Bear_Polar.description>Kuolleen jääkarhun ruumis.</Corpse_Bear_Polar.description>
+  
+  <!-- EN: paukkulooppi ruumis -->
+  <Corpse_Boomalope.label>paukkuloopin ruumis</Corpse_Boomalope.label>
+  <!-- EN: Kuollut paukkulooppi. -->
+  <Corpse_Boomalope.description>Kuolleen paukkuloopin ruumis.</Corpse_Boomalope.description>
+  
+  <!-- EN: paukkurotta ruumis -->
+  <Corpse_Boomrat.label>paukkurotan ruumis</Corpse_Boomrat.label>
+  <!-- EN: Kuollut paukkurotta. -->
+  <Corpse_Boomrat.description>Kuolleen paukkurotan ruumis.</Corpse_Boomrat.description>
+  
+  <!-- EN: kapybara ruumis -->
+  <Corpse_Capybara.label>kapybaran ruumis</Corpse_Capybara.label>
+  <!-- EN: Kuollut kapybara. -->
+  <Corpse_Capybara.description>Kuolleen kapybaran ruumis.</Corpse_Capybara.description>
+  
+  <!-- EN: caribou ruumis -->
+  <Corpse_Caribou.label>caribou corpse</Corpse_Caribou.label>
+  <!-- EN: Kuollut caribou. -->
+  <Corpse_Caribou.description>caribou corpse</Corpse_Caribou.description>
+  
+  <!-- EN: cassowary ruumis -->
+  <Corpse_Cassowary.label>cassowary corpse</Corpse_Cassowary.label>
+  <!-- EN: Kuollut cassowary. -->
+  <Corpse_Cassowary.description>cassowary corpse</Corpse_Cassowary.description>
+  
+  <!-- EN: kissa ruumis -->
+  <Corpse_Cat.label>kissan ruumis</Corpse_Cat.label>
+  <!-- EN: Kuollut kissa. -->
+  <Corpse_Cat.description>Kuolleen kissan ruumis.</Corpse_Cat.description>
+  
+  <!-- EN: kana ruumis -->
+  <Corpse_Chicken.label>kanan ruumis</Corpse_Chicken.label>
+  <!-- EN: Kuollut kana. -->
+  <Corpse_Chicken.description>Kuolleen kanan ruumis.</Corpse_Chicken.description>
+  
+  <!-- EN: chinchilla ruumis -->
+  <Corpse_Chinchilla.label>chinchillan ruumis</Corpse_Chinchilla.label>
+  <!-- EN: Kuollut chinchilla. -->
+  <Corpse_Chinchilla.description>Kuolleen chinchillan ruumis.</Corpse_Chinchilla.description>
+  
+  <!-- EN: kobra ruumis -->
+  <Corpse_Cobra.label>kobran ruumis</Corpse_Cobra.label>
+  <!-- EN: Kuollut kobra. -->
+  <Corpse_Cobra.description>Kuolleen kobran ruumis.</Corpse_Cobra.description>
+  
+  <!-- EN: cougar ruumis -->
+  <Corpse_Cougar.label>cougar corpse</Corpse_Cougar.label>
+  <!-- EN: Kuollut cougar. -->
+  <Corpse_Cougar.description>Dead body of a cougar.</Corpse_Cougar.description>
+  
+  <!-- EN: lehmä ruumis -->
+  <Corpse_Cow.label>lehmän corpse</Corpse_Cow.label>
+  <!-- EN: Kuollut lehmä. -->
+  <Corpse_Cow.description>Kuolleen lehmän ruumis.</Corpse_Cow.description>
+  
+  <!-- EN: peura ruumis -->
+  <Corpse_Deer.label>peuran ruumis</Corpse_Deer.label>
+  <!-- EN: Kuollut peura. -->
+  <Corpse_Deer.description>Kuolleen peuran ruumis.</Corpse_Deer.description>
+  
+  <!-- EN: dromedaari ruumis -->
+  <Corpse_Dromedary.label>dromedaarin ruumis</Corpse_Dromedary.label>
+  <!-- EN: Kuollut dromedaari. -->
+  <Corpse_Dromedary.description>Kuolleen dromedaarin ruumis.</Corpse_Dromedary.description>
+  
+  <!-- EN: norsu ruumis -->
+  <Corpse_Elephant.label>norsun ruumis</Corpse_Elephant.label>
+  <!-- EN: Kuollut norsu. -->
+  <Corpse_Elephant.description>Kuolleen norsun ruumis.</Corpse_Elephant.description>
+  
+  <!-- EN: hirvi ruumis -->
+  <Corpse_Elk.label>hirven ruumis</Corpse_Elk.label>
+  <!-- EN: Kuollut hirvi. -->
+  <Corpse_Elk.description>Kuolleen hirven ruumis.</Corpse_Elk.description>
+  
+  <!-- EN: emu ruumis -->
+  <Corpse_Emu.label>emu corpse</Corpse_Emu.label>
+  <!-- EN: Kuollut emu. -->
+  <Corpse_Emu.description>emu corpse</Corpse_Emu.description>
+  
+  <!-- EN: arctic fox ruumis -->
+  <Corpse_Fox_Arctic.label>arctic fox corpse</Corpse_Fox_Arctic.label>
+  <!-- EN: Kuollut arctic fox. -->
+  <Corpse_Fox_Arctic.description>arctic fox corpse</Corpse_Fox_Arctic.description>
+  
+  <!-- EN: fennec fox ruumis -->
+  <Corpse_Fox_Fennec.label>fennec fox corpse</Corpse_Fox_Fennec.label>
+  <!-- EN: Kuollut fennec fox. -->
+  <Corpse_Fox_Fennec.description>fennec fox corpse</Corpse_Fox_Fennec.description>
+  
+  <!-- EN: red fox ruumis -->
+  <Corpse_Fox_Red.label>red fox corpse</Corpse_Fox_Red.label>
+  <!-- EN: Kuollut red fox. -->
+  <Corpse_Fox_Red.description>red fox corpse</Corpse_Fox_Red.description>
+  
+  <!-- EN: gazelle ruumis -->
+  <Corpse_Gazelle.label>gazelle corpse</Corpse_Gazelle.label>
+  <!-- EN: Kuollut gazelle. -->
+  <Corpse_Gazelle.description>gazelle corpse</Corpse_Gazelle.description>
+  
+  <!-- EN: jänis ruumis -->
+  <Corpse_Hare.label>jäniksen ruumis</Corpse_Hare.label>
+  <!-- EN: Kuollut jänis. -->
+  <Corpse_Hare.description>Kuolleen jäniksen ruumis.</Corpse_Hare.description>
+  
+  <!-- EN: ihminen ruumis -->
+  <Corpse_Human.label>ihmisen ruumis</Corpse_Human.label>
+  <!-- EN: Kuollut ihminen. -->
+  <Corpse_Human.description>Kuolleen ihmisen ruumis.</Corpse_Human.description>
+  
+  <!-- EN: husky ruumis -->
+  <Corpse_Husky.label>huskyn ruumis</Corpse_Husky.label>
+  <!-- EN: Kuollut husky. -->
+  <Corpse_Husky.description>Kuolleen huskyn ruumis.</Corpse_Husky.description>
+  
+  <!-- EN: ibex ruumis -->
+  <Corpse_Ibex.label>ibex corpse</Corpse_Ibex.label>
+  <!-- EN: Kuollut ibex. -->
+  <Corpse_Ibex.description>ibex corpse</Corpse_Ibex.description>
+  
+  <!-- EN: iguaani ruumis -->
+  <Corpse_Iguana.label>iguaanin ruumis</Corpse_Iguana.label>
+  <!-- EN: Kuollut iguaani. -->
+  <Corpse_Iguana.description>Kuolleen iguaanin ruumis.</Corpse_Iguana.description>
+  
+  <!-- EN: labradorinnoutaja ruumis -->
+  <Corpse_LabradorRetriever.label>labradorinnoutajan ruumis</Corpse_LabradorRetriever.label>
+  <!-- EN: Kuollut labradorinnoutaja. -->
+  <Corpse_LabradorRetriever.description>Kuolleen labradorinnoutajan ruumis.</Corpse_LabradorRetriever.description>
+  
+  <!-- EN: lynx ruumis -->
+  <Corpse_Lynx.label>lynx corpse</Corpse_Lynx.label>
+  <!-- EN: Kuollut lynx. -->
+  <Corpse_Lynx.description>lynx corpse</Corpse_Lynx.description>
+  
+  <!-- EN: tuhatjalkainen ruumis -->
+  <Corpse_Mech_Centipede.label>tuhatjalkaisen ruumis</Corpse_Mech_Centipede.label>
+  <!-- EN: Kuollut tuhatjalkainen. -->
+  <Corpse_Mech_Centipede.description>Kuolleen tuhatjalkaisen ruumis.</Corpse_Mech_Centipede.description>
+  
+  <!-- EN: viikatemies ruumis -->
+  <Corpse_Mech_Scyther.label>viikatemiehen ruumis</Corpse_Mech_Scyther.label>
+  <!-- EN: Kuollut viikatemies. -->
+  <Corpse_Mech_Scyther.description>Kuolleen viikatemiehen ruumis.</Corpse_Mech_Scyther.description>
+  
+  <!-- EN: jättipillerinpyörittäjä ruumis -->
+  <Corpse_Megascarab.label>jättipillerinpyörittäjän ruumis</Corpse_Megascarab.label>
+  <!-- EN: Kuollut jättipillerinpyörittäjä. -->
+  <Corpse_Megascarab.description>Kuolleen jättipillerinpyörittäjän ruumis.</Corpse_Megascarab.description>
+  
+  <!-- EN: Megasloth ruumis -->
+  <Corpse_Megasloth.label>Megasloth corpse</Corpse_Megasloth.label>
+  <!-- EN: Kuollut Megasloth. -->
+  <Corpse_Megasloth.description>Megasloth corpse</Corpse_Megasloth.description>
+  
+  <!-- EN: megaspider ruumis -->
+  <Corpse_Megaspider.label>megaspider corpse</Corpse_Megaspider.label>
+  <!-- EN: Kuollut megaspider. -->
+  <Corpse_Megaspider.description>Dead body of a megaspider.</Corpse_Megaspider.description>
+  
+  <!-- EN: apina ruumis -->
+  <Corpse_Monkey.label>apinan ruumis</Corpse_Monkey.label>
+  <!-- EN: Kuollut apina. -->
+  <Corpse_Monkey.description>Kuolleen apinan ruumis.</Corpse_Monkey.description>
+  
+  <!-- EN: hirvibiisoni ruumis -->
+  <Corpse_Muffalo.label>hirvibiisonin ruumis</Corpse_Muffalo.label>
+  <!-- EN: Kuollut hirvibiisoni. -->
+  <Corpse_Muffalo.description>Kuolleen hirvibiisonin ruumis.</Corpse_Muffalo.description>
+  
+  <!-- EN: ostrich ruumis -->
+  <Corpse_Ostrich.label>ostrich corpse</Corpse_Ostrich.label>
+  <!-- EN: Kuollut ostrich. -->
+  <Corpse_Ostrich.description>ostrich corpse</Corpse_Ostrich.description>
+  
+  <!-- EN: panther ruumis -->
+  <Corpse_Panther.label>panther corpse</Corpse_Panther.label>
+  <!-- EN: Kuollut panther. -->
+  <Corpse_Panther.description>panther corpse</Corpse_Panther.description>
+  
+  <!-- EN: sika ruumis -->
+  <Corpse_Pig.label>sian ruumis</Corpse_Pig.label>
+  <!-- EN: Kuollut sika. -->
+  <Corpse_Pig.description>Kuolleen sian ruumis.</Corpse_Pig.description>
+  
+  <!-- EN: Raccoon ruumis -->
+  <Corpse_Raccoon.label>Raccoon corpse</Corpse_Raccoon.label>
+  <!-- EN: Kuollut Raccoon. -->
+  <Corpse_Raccoon.description>Raccoon corpse</Corpse_Raccoon.description>
+  
+  <!-- EN: rat ruumis -->
+  <Corpse_Rat.label>rat corpse</Corpse_Rat.label>
+  <!-- EN: Kuollut rat. -->
+  <Corpse_Rat.description>rat corpse</Corpse_Rat.description>
+  
+  <!-- EN: sarvikuono ruumis -->
+  <Corpse_Rhinoceros.label>sarvikuonon ruumis</Corpse_Rhinoceros.label>
+  <!-- EN: Kuollut sarvikuono. -->
+  <Corpse_Rhinoceros.description>Kuolleen sarvikuonon ruumis.</Corpse_Rhinoceros.description>
+  
+  <!-- EN: lumijänis ruumis -->
+  <Corpse_Snowhare.label>lumijäniksen ruumis</Corpse_Snowhare.label>
+  <!-- EN: Kuollut lumijänis. -->
+  <Corpse_Snowhare.description>Kuolleen lumijäniksen ruumis.</Corpse_Snowhare.description>
+  
+  <!-- EN: spelopede ruumis -->
+  <Corpse_Spelopede.label>spelopede corpse</Corpse_Spelopede.label>
+  <!-- EN: Kuollut spelopede. -->
+  <Corpse_Spelopede.description>Dead body of a spelopede.</Corpse_Spelopede.description>
+  
+  <!-- EN: orava ruumis -->
+  <Corpse_Squirrel.label>oravan ruumis</Corpse_Squirrel.label>
+  <!-- EN: Kuollut orava. -->
+  <Corpse_Squirrel.description>Kuolleen oravan ruumis.</Corpse_Squirrel.description>
+  
+  <!-- EN: thrumbo ruumis -->
+  <Corpse_Thrumbo.label>thrumbon ruumis</Corpse_Thrumbo.label>
+  <!-- EN: Kuollut thrumbo. -->
+  <Corpse_Thrumbo.description>Kuolleen thrumbon ruumis.</Corpse_Thrumbo.description>
+  
+  <!-- EN: kilpikonna ruumis -->
+  <Corpse_Tortoise.label>kilpikonnan ruumis</Corpse_Tortoise.label>
+  <!-- EN: Kuollut kilpikonna. -->
+  <Corpse_Tortoise.description>Kuolleen kilpikonnan ruumis.</Corpse_Tortoise.description>
+  
+  <!-- EN: turkey ruumis -->
+  <Corpse_Turkey.label>turkey corpse</Corpse_Turkey.label>
+  <!-- EN: Kuollut turkey. -->
+  <Corpse_Turkey.description>turkey corpse</Corpse_Turkey.description>
+  
+  <!-- EN: warg ruumis -->
+  <Corpse_Warg.label>wargin ruumis</Corpse_Warg.label>
+  <!-- EN: Kuollut warg. -->
+  <Corpse_Warg.description>Kuolleen wargin ruumis.</Corpse_Warg.description>
+  
+  <!-- EN: villisika ruumis -->
+  <Corpse_WildBoar.label>villisian ruumis</Corpse_WildBoar.label>
+  <!-- EN: Kuollut villisika. -->
+  <Corpse_WildBoar.description>Kuolleen villisian ruumis.</Corpse_WildBoar.description>
+  
+  <!-- EN: arctic wolf ruumis -->
+  <Corpse_Wolf_Arctic.label>arctic wolf corpse</Corpse_Wolf_Arctic.label>
+  <!-- EN: Kuollut arctic wolf. -->
+  <Corpse_Wolf_Arctic.description>arctic wolf corpse</Corpse_Wolf_Arctic.description>
+  
+  <!-- EN: timber wolf ruumis -->
+  <Corpse_Wolf_Timber.label>timber wolf corpse</Corpse_Wolf_Timber.label>
+  <!-- EN: Kuollut timber wolf. -->
+  <Corpse_Wolf_Timber.description>timber wolf corpse</Corpse_Wolf_Timber.description>
+  
+  <!-- EN: yorkshirenterrieri ruumis -->
+  <Corpse_YorkshireTerrier.label>yorkshirenterrierin ruumis</Corpse_YorkshireTerrier.label>
+  <!-- EN: Kuollut yorkshirenterrieri. -->
+  <Corpse_YorkshireTerrier.description>Kuolleen yorkshirenterrierin ruumis.</Corpse_YorkshireTerrier.description>
+  
+  <!-- EN: eläimen sänky (rakennus) -->
+  <Frame_AnimalBed.label>eläimen sänky (rakennus)</Frame_AnimalBed.label>
+  <!-- EN: Pehmeä sänky jossa eläimet voivat nukkua.  Tähän sopivat kaikki eläimet. -->
+  <Frame_AnimalBed.description>A soft sänky for animals to sleep on. Fits any animal.</Frame_AnimalBed.description>
+  
+  <!-- EN: eläimen nukkumalaatikko (rakennus) -->
+  <Frame_AnimalSleepingBox.label>eläimen sleeping box (rakennus)</Frame_AnimalSleepingBox.label>
+  <!-- EN: Pieni laatikko jossa eläimet voivat nukkua. Tähän sopivat pienet eläimet kuten kanat, kissat tai pienet koirat. -->
+  <Frame_AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</Frame_AnimalSleepingBox.description>
+  
+  <!-- EN: eläimen nukkumapaikka (rakennus) -->
+  <Frame_AnimalSleepingSpot.label>eläimen nukkumapaikka (rakennus)</Frame_AnimalSleepingSpot.label>
+  <!-- EN: Määrää paikan maassa, jossa eläinten kannattaa nukkua. -->
+  <Frame_AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</Frame_AnimalSleepingSpot.description>
+  
+  <!-- EN: nojatuoli (rakennus) -->
+  <Frame_Armchair.label>armchair (rakennus)</Frame_Armchair.label>
+  <!-- EN: Suuri pehmeä mukava istuin. Sopii hyvin rentoutumiseen. -->
+  <Frame_Armchair.description>A large, soft, comfy seat. Great for relaxation.</Frame_Armchair.description>
+  
+  <!-- EN: auto-ovi (rakennus) -->
+  <Frame_Autodoor.label>autodoor (building)</Frame_Autodoor.label>
+  <!-- EN: Jakaa huoneita. Sähköistetty toiminta sallii ihmisten liikkumisen oven läpi hidastamatta. -->
+  <Frame_Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Frame_Autodoor.description>
+  
+  <!-- EN: akku (rakennus) -->
+  <Frame_Battery.label>battery (building)</Frame_Battery.label>
+  <!-- EN: Varastoi sähköenergiaa kun tehoa on ylimäärin ja tuottaa sitä tarpeen mukaan. Varoitus - varautuneilla akuilla on tapana räjähtää lämmitettäessä tai kastellessa. -->
+  <Frame_Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Frame_Battery.description>
+  
+  <!-- EN: sänky (rakennus) -->
+  <Frame_Bed.label>sänky (rakennus)</Frame_Bed.label>
+  <!-- EN: Lepäämiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä. -->
+  <Frame_Bed.description>Lepäämiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä.</Frame_Bed.description>
+  
+  <!-- EN: biljardipöytä (rakennus) -->
+  <Frame_BilliardsTable.label>billiards table (building)</Frame_BilliardsTable.label>
+  <!-- EN: Pehmeäksi päällystetty pöytä erilaisten biljardin tyyppisten pelien pelaamiseen. -->
+  <Frame_BilliardsTable.description>A soft-topped bounded table for playing a variety of billiards-type games.</Frame_BilliardsTable.description>
+  
+  <!-- EN: panimo (rakennus) -->
+  <Frame_Brewery.label>brewery (building)</Frame_Brewery.label>
+  <!-- EN: Työasema kaikilla työkaluilla jotka tarvitaan oluen panemiseen. -->
+  <Frame_Brewery.description>A work station with all the equipment needed to brew beer.</Frame_Brewery.description>
+  
+  <!-- EN: nuotio (rakennus) -->
+  <Frame_Campfire.label>campfire (building)</Frame_Campfire.label>
+  <!-- EN: Tällä voi paistaa ruokaa ja lämmitellä. Palaa muutaman päivän ajan. Se täytyy asettaa muiden lämmönlähteiden tavoin sisätiloihin jotta sillä olisi suljettu alue mitä lämmittää. -->
+  <Frame_Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Frame_Campfire.description>
+  
+  <!-- EN: caravan packing spot (rakennus) -->
+  <Frame_CaravanPackingSpot.label>caravan packing spot (building)</Frame_CaravanPackingSpot.label>
+  <!-- EN: Designates a spot where caravans will be formed. -->
+  <Frame_CaravanPackingSpot.description>Designates a spot where caravans will be formed.</Frame_CaravanPackingSpot.description>
+  
+  <!-- EN: sininen kokolattiamatto (rakennus) -->
+  <Frame_CarpetBlue.label>blue carpet (building)</Frame_CarpetBlue.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetBlue.description>Terrain building in progress.</Frame_CarpetBlue.description>
+  
+  <!-- EN: kermanvärinen kokolattiamatto (rakennus) -->
+  <Frame_CarpetCream.label>cream carpet (building)</Frame_CarpetCream.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetCream.description>Terrain building in progress.</Frame_CarpetCream.description>
+  
+  <!-- EN: tumma kokolattiamatto (rakennus) -->
+  <Frame_CarpetDark.label>dark carpet (building)</Frame_CarpetDark.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetDark.description>Terrain building in progress.</Frame_CarpetDark.description>
+  
+  <!-- EN: vihreä kokolattiamatto (rakennus) -->
+  <Frame_CarpetGreen.label>green carpet (building)</Frame_CarpetGreen.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetGreen.description>Terrain building in progress.</Frame_CarpetGreen.description>
+  
+  <!-- EN: punainen kokolattiamatto (rakennus) -->
+  <Frame_CarpetRed.label>red carpet (building)</Frame_CarpetRed.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetRed.description>Terrain building in progress.</Frame_CarpetRed.description>
+  
+  <!-- EN: shakkipöytä (rakennus) -->
+  <Frame_ChessTable.label>chess table (building)</Frame_ChessTable.label>
+  <!-- EN: Muinainen kuninkaiden peli. Pari tuntia hauskaa silloin tällöin jopa yksin pelattuna. -->
+  <Frame_ChessTable.description>The ancient game of kings. Fun for a few hours here and there, even playing alone.</Frame_ChessTable.description>
+  
+  <!-- EN: kommunikaatiopääte (rakennus) -->
+  <Frame_CommsConsole.label>comms console (building)</Frame_CommsConsole.label>
+  <!-- EN: Kommunikoi kiertoradalla olevien kauppa-alusten ja muiden ryhmien kanssa. -->
+  <Frame_CommsConsole.description>Allows radio contact with remote traders as well as other factions for trade and diplomacy.</Frame_CommsConsole.description>
+  
+  <!-- EN: betoni (rakennus) -->
+  <Frame_Concrete.label>concrete (building)</Frame_Concrete.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Concrete.description>Terrain building in progress.</Frame_Concrete.description>
+  
+  <!-- EN: jäähdytin (rakennus) -->
+  <Frame_Cooler.label>cooler (building)</Frame_Cooler.label>
+  <!-- EN: Sähkölaite, joka sopii seinään ja työntää huoneeseen kylmää ilmaa. Sen poistoportti tuottaa suuren määrän lämpöä. Tätä voidaan käyttää huoneiden viilentämiseen kesällä tai pakastehuoneen. -->
+  <Frame_Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Frame_Cooler.description>
+  
+  <!-- EN: crafting spot (rakennus) -->
+  <Frame_CraftingSpot.label>crafting spot (building)</Frame_CraftingSpot.label>
+  <!-- EN: A place for crafting simple things like shivs or bows. -->
+  <Frame_CraftingSpot.description>A place for crafting simple things like shivs or bows.</Frame_CraftingSpot.description>
+  
+  <!-- EN: salauniarkku (rakennus) -->
+  <Frame_CryptosleepCasket.label>cryptosleep casket (building)</Frame_CryptosleepCasket.label>
+  <!-- EN: Itsetoiminen sarkofagi, joka on suunniteltu pitämään henkilö keskeytetyn elon tilassa monia vuosia. -->
+  <Frame_CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</Frame_CryptosleepCasket.description>
+  
+  <!-- EN: deep drill (rakennus) -->
+  <Frame_DeepDrill.label>deep drill (building)</Frame_DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. -->
+  <Frame_DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</Frame_DeepDrill.description>
+  
+  <!-- EN: ruokapöydän tuoli (rakennus) -->
+  <Frame_DiningChair.label>dining chair (rakennus)</Frame_DiningChair.label>
+  <!-- EN: Mukava ja puoleensavetävä tuoli pöydän ääressä istumiseen. -->
+  <Frame_DiningChair.description>A comfortable and attractive chair for sitting at a table.</Frame_DiningChair.description>
+  
+  <!-- EN: ovi (rakennus) -->
+  <Frame_Door.label>door (building)</Frame_Door.label>
+  <!-- EN: Jakaa huoneita. Täytyy avata ja sulkea käsin, mikä hidastaa ihmisiä. -->
+  <Frame_Door.description>Divides rooms. Must be manually opened and closed, which slows people down.</Frame_Door.description>
+  
+  <!-- EN: double bed (rakennus) -->
+  <Frame_DoubleBed.label>double sänky (rakennus)</Frame_DoubleBed.label>
+  <!-- EN: A simple double-wide sänky that fits two people. -->
+  <Frame_DoubleBed.description>A simple double-wide sänky that fits two people.</Frame_DoubleBed.description>
+  
+  <!-- EN: drug lab (rakennus) -->
+  <Frame_DrugLab.label>drug lab (building)</Frame_DrugLab.label>
+  <!-- EN: A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs. -->
+  <Frame_DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</Frame_DrugLab.description>
+  
+  <!-- EN: electric crematorium (rakennus) -->
+  <Frame_ElectricCrematorium.label>electric crematorium (building)</Frame_ElectricCrematorium.label>
+  <!-- EN: Cremates corpses. Electrically-powered. -->
+  <Frame_ElectricCrematorium.description>Cremates corpses. Electrically-powered.</Frame_ElectricCrematorium.description>
+  
+  <!-- EN: sähköinen sulatusuuni (rakennus) -->
+  <Frame_ElectricSmelter.label>electric smelter (building)</Frame_ElectricSmelter.label>
+  <!-- EN: Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon virtaa. -->
+  <Frame_ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</Frame_ElectricSmelter.description>
+  
+  <!-- EN: electric taontapöytä (rakennus) -->
+  <Frame_ElectricSmithy.label>electric smithy (building)</Frame_ElectricSmithy.label>
+  <!-- EN: An electric-powered station equipped for smithing non-mechanical weapons and tools. -->
+  <Frame_ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</Frame_ElectricSmithy.description>
+  
+  <!-- EN: electric stove (rakennus) -->
+  <Frame_ElectricStove.label>electric stove (building)</Frame_ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <Frame_ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</Frame_ElectricStove.description>
+  
+  <!-- EN: electric tailoring bench (rakennus) -->
+  <Frame_ElectricTailoringBench.label>electric tailor bench (building)</Frame_ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed. -->
+  <Frame_ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</Frame_ElectricTailoringBench.description>
+  
+  <!-- EN: fermenting barrel (rakennus) -->
+  <Frame_FermentingBarrel.label>fermenting barrel (building)</Frame_FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <Frame_FermentingBarrel.description>A barrel for fermenting raw wort into beer.</Frame_FermentingBarrel.description>
+  
+  <!-- EN: palovaahtopaukku (rakennus) -->
+  <Frame_FirefoamPopper.label>firefoam popper (building)</Frame_FirefoamPopper.label>
+  <!-- EN: Kun tuli koskee tähän tai tämä aktivoidaan manuaalisesti, tämä paukahtaa ja suihkuttaa paloa sammuttavaa vaahtoa pyöreälle alueelle ympäristöönsä. -->
+  <Frame_FirefoamPopper.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</Frame_FirefoamPopper.description>
+  
+  <!-- EN: granite flagstone (rakennus) -->
+  <Frame_FlagstoneGranite.label>granite flagstone (building)</Frame_FlagstoneGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneGranite.description>Terrain building in progress.</Frame_FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone (rakennus) -->
+  <Frame_FlagstoneLimestone.label>limestone flagstone (building)</Frame_FlagstoneLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneLimestone.description>Terrain building in progress.</Frame_FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone (rakennus) -->
+  <Frame_FlagstoneMarble.label>marble flagstone (building)</Frame_FlagstoneMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneMarble.description>Terrain building in progress.</Frame_FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone (rakennus) -->
+  <Frame_FlagstoneSandstone.label>sandstone flagstone (building)</Frame_FlagstoneSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSandstone.description>Terrain building in progress.</Frame_FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone (rakennus) -->
+  <Frame_FlagstoneSlate.label>slate flagstone (building)</Frame_FlagstoneSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSlate.description>Terrain building in progress.</Frame_FlagstoneSlate.description>
+  
+  <!-- EN: fueled taontapöytä (rakennus) -->
+  <Frame_FueledSmithy.label>fueled smithy (building)</Frame_FueledSmithy.label>
+  <!-- EN: A wood-fueled station equipped for smithing non-mechanical weapons and tools. -->
+  <Frame_FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</Frame_FueledSmithy.description>
+  
+  <!-- EN: puuliesi (rakennus) -->
+  <Frame_FueledStove.label>fueled stove (building)</Frame_FueledStove.label>
+  <!-- EN: Yksinkertainen puukäyttöinen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia. -->
+  <Frame_FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</Frame_FueledStove.description>
+  
+  <!-- EN: maalämpögeneraattori (rakennus) -->
+  <Frame_GeothermalGenerator.label>geothermal generator (building)</Frame_GeothermalGenerator.label>
+  <!-- EN: Tuottaa sähköä geysireistä. -->
+  <Frame_GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</Frame_GeothermalGenerator.description>
+  
+  <!-- EN: kultalaatta (rakennus) -->
+  <Frame_GoldTile.label>gold tile (building)</Frame_GoldTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_GoldTile.description>Terrain building in progress.</Frame_GoldTile.description>
+  
+  <!-- EN: hauta (rakennus) -->
+  <Frame_Grave.label>grave (building)</Frame_Grave.label>
+  <!-- EN: Aseta kuolleet hautoihin antaaksesi heille arvollisen viimeisen leposijan. -->
+  <Frame_Grave.description>Place the dead in graves to give them a decent final resting place. Colonists will visit full graves to gain meditative joy.</Frame_Grave.description>
+  
+  <!-- EN: ground-penetrating scanner (rakennus) -->
+  <Frame_GroundPenetratingScanner.label>ground-penetrating scanner (building)</Frame_GroundPenetratingScanner.label>
+  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
+  <Frame_GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</Frame_GroundPenetratingScanner.description>
+  
+  <!-- EN: hand-tailoring bench (rakennus) -->
+  <Frame_HandTailoringBench.label>hand tailor bench (building)</Frame_HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench. -->
+  <Frame_HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</Frame_HandTailoringBench.description>
+  
+  <!-- EN: lämmitin (rakennus) -->
+  <Frame_Heater.label>heater (building)</Frame_Heater.label>
+  <!-- EN: Sähkölaite, joka muuttaa sähköä lämmöksi. Se osaa automaattisesti kytkeä itsensä päälle ja pois saavuttaakseen tavoitelämpötilan. -->
+  <Frame_Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Frame_Heater.description>
+  
+  <!-- EN: hi-tech research bench (rakennus) -->
+  <Frame_HiTechResearchBench.label>hi-tech research bench (building)</Frame_HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power. -->
+  <Frame_HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</Frame_HiTechResearchBench.description>
+  
+  <!-- EN: suppilo (rakennus) -->
+  <Frame_Hopper.label>hopper (building)</Frame_Hopper.label>
+  <!-- EN: Varaa resursseja koneiden, kuten ravinnetahnan jakajan, käyttöön. -->
+  <Frame_Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Frame_Hopper.description>
+  
+  <!-- EN: hevosenkenkäpelin paalu (rakennus) -->
+  <Frame_HorseshoesPin.label>horseshoes pin (building)</Frame_HorseshoesPin.label>
+  <!-- EN: Yksinkertainen muinainen peli jota pelataan muutamalla hevosenkengällä ja maassa olevalla paalulla. Pelaajat heittävät hevosenkenkiä kaukaa ja yrittävät saada ne osumaan lähelle paalua tai paaluun. Se on rentouttavaa ja harjoittaa silmien ja käsien koordinaatiota. -->
+  <Frame_HorseshoesPin.description>A simple ancient game played with a few horseshoes and a large pin in the ground. Players toss horseshoes from a distance and attempt to get them to land close to or around the pin. It's relaxing, and even trains hand-eye coordination.</Frame_HorseshoesPin.description>
+  
+  <!-- EN: lääkintävuode (rakennus) -->
+  <Frame_HospitalBed.label>lääkintävuode (rakennus)</Frame_HospitalBed.label>
+  <!-- EN: Erityisesti loukkaantuneille ihmisille tarkoitettu sänky. Parantaa lääkintätyön onnistumismahdollisuutta. -->
+  <Frame_HospitalBed.description>A sänky specially designed for injured people. Improves chance of successful medical work.</Frame_HospitalBed.description>
+  
+  <!-- EN: vesiviljelyallas (rakennus) -->
+  <Frame_HydroponicsBasin.label>hydroponics basin (building)</Frame_HydroponicsBasin.label>
+  <!-- EN: Ruokakasvien kasvattamiseen. Vesiviljelyaltaat kasvattavat muutaman kasvin nopeasti. -->
+  <Frame_HydroponicsBasin.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</Frame_HydroponicsBasin.description>
+  
+  <!-- EN: long-range mineral scanner (rakennus) -->
+  <Frame_LongRangeMineralScanner.label>long-range mineral scanner (building)</Frame_LongRangeMineralScanner.label>
+  <!-- EN: Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect. -->
+  <Frame_LongRangeMineralScanner.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</Frame_LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot (rakennus) -->
+  <Frame_MarriageSpot.label>marriage spot (building)</Frame_MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <Frame_MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</Frame_MarriageSpot.description>
+  
+  <!-- EN: metallilaatta (rakennus) -->
+  <Frame_MetalTile.label>metal tile (building)</Frame_MetalTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_MetalTile.description>Terrain building in progress.</Frame_MetalTile.description>
+  
+  <!-- EN: moisture pump (rakennus) -->
+  <Frame_MoisturePump.label>moisture pump (building)</Frame_MoisturePump.label>
+  <!-- EN: Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water. -->
+  <Frame_MoisturePump.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</Frame_MoisturePump.description>
+  
+  <!-- EN: monianalysaattori (rakennus) -->
+  <Frame_MultiAnalyzer.label>multi-analyzer (building)</Frame_MultiAnalyzer.label>
+  <!-- EN: Kasvattaa tutkimisnopeutta. Täytyy rakentaa lähelle tutkimuspöytää. Yksi tutkimuspöytä voi olla yhdistettynä vain yhteen monianalysaattoriin. -->
+  <Frame_MultiAnalyzer.description>Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.</Frame_MultiAnalyzer.description>
+  
+  <!-- EN: ravinnetahna-annostelija (rakennus) -->
+  <Frame_NutrientPasteDispenser.label>nutrient paste dispenser (building)</Frame_NutrientPasteDispenser.label>
+  <!-- EN: Tekee orgaaniseista raaka-aineista synteettista ravinnetahnaa. Accepts raw food, but not rough plant matter like hay. -->
+  <Frame_NutrientPasteDispenser.description>Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</Frame_NutrientPasteDispenser.description>
+  
+  <!-- EN: kiertoratavaihtokaupan majakka (rakennus) -->
+  <Frame_OrbitalTradeBeacon.label>orbital trade beacon (building)</Frame_OrbitalTradeBeacon.label>
+  <!-- EN: Tarvitaan kiertoratavaihtokauppaan. Voit myydä vain tavaroita jotka ovat lähellä tällaista majakkaa. Voidaan asentaa sisätiloihin. -->
+  <Frame_OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.</Frame_OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot (rakennus) -->
+  <Frame_PartySpot.label>party spot (building)</Frame_PartySpot.label>
+  <!-- EN: Designates a spot where parties will be centered. Parties use an area around the spot. -->
+  <Frame_PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</Frame_PartySpot.description>
+  
+  <!-- EN: passive cooler (rakennus) -->
+  <Frame_PassiveCooler.label>passive cooler (building)</Frame_PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days. -->
+  <Frame_PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</Frame_PassiveCooler.description>
+  
+  <!-- EN: betonilaatta (rakennus) -->
+  <Frame_PavedTile.label>paved tile (building)</Frame_PavedTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_PavedTile.description>Terrain building in progress.</Frame_PavedTile.description>
+  
+  <!-- EN: kukkaruukku (rakennus) -->
+  <Frame_PlantPot.label>plant pot (rakennus)</Frame_PlantPot.label>
+  <!-- EN: Istuta koristekukkia tähän parantaaksesi lähellä olevien ihmisten mielialaa. -->
+  <Frame_PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</Frame_PlantPot.description>
+  
+  <!-- EN: pod launcher (rakennus) -->
+  <Frame_PodLauncher.label>pod launcher (building)</Frame_PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <Frame_PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</Frame_PodLauncher.description>
+  
+  <!-- EN: sähkökaapeli (rakennus) -->
+  <Frame_PowerConduit.label>power conduit (building)</Frame_PowerConduit.label>
+  <!-- EN: Nippu sähköjohtimia tehon siirtämiseen. Can be placed under walls and other buildings. -->
+  <Frame_PowerConduit.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</Frame_PowerConduit.description>
+  
+  <!-- EN: virrankatkaisin (rakennus) -->
+  <Frame_PowerSwitch.label>power switch (building)</Frame_PowerSwitch.label>
+  <!-- EN: Kytkee virran päälle ja pois. -->
+  <Frame_PowerSwitch.description>Switches power on/off.</Frame_PowerSwitch.description>
+  
+  <!-- EN: kuninkaallinen sänky (rakennus) -->
+  <Frame_RoyalBed.label>royal sänky (rakennus)</Frame_RoyalBed.label>
+  <!-- EN: Ylellinen vuode jalosukuisille. -->
+  <Frame_RoyalBed.description>A luxurious gold-inlaid sänky fit for the highborn. Very comfy and beautiful. Fits two.</Frame_RoyalBed.description>
+  
+  <!-- EN: hiekkasäkkejä (rakennus) -->
+  <Frame_Sandbags.label>sandbags (building)</Frame_Sandbags.label>
+  <!-- EN: Suojaa luodeilta. -->
+  <Frame_Sandbags.description>Cover from gunfire.</Frame_Sandbags.description>
+  
+  <!-- EN: sarkofagi (rakennus) -->
+  <Frame_Sarcophagus.label>sarcophagus (building)</Frame_Sarcophagus.label>
+  <!-- EN: Koristeellisesti kuvioitu hautausarkku kunnioitetuille kuolleille. -->
+  <Frame_Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Frame_Sarcophagus.description>
+  
+  <!-- EN: shelf (rakennus) -->
+  <Frame_Shelf.label>shelf (rakennus)</Frame_Shelf.label>
+  <!-- EN: Items stored in this will not deteriorate, even if outside. -->
+  <Frame_Shelf.description>Items stored in this will not deteriorate, even if outside.</Frame_Shelf.description>
+  
+  <!-- EN: avaruusaluksen rakennepalkki (rakennus) -->
+  <Frame_Ship_Beam.label>ship structural beam (building)</Frame_Ship_Beam.label>
+  <!-- EN: Rakennepalkki, jonka ympärille avaruusaluksen voi rakentaa. -->
+  <Frame_Ship_Beam.description>A structural beam around which a ship can be constructed.</Frame_Ship_Beam.description>
+  
+  <!-- EN: avaruusaluksen tietokoneydin (rakennus) -->
+  <Frame_Ship_ComputerCore.label>ship computer core (building)</Frame_Ship_ComputerCore.label>
+  <!-- EN: Yli-inhimillisen tekoälyn varastoimiseen kykenevä tietokoneydin. Tekoäly pystyy selvittämään minkä tahansa haasteen. -->
+  <Frame_Ship_ComputerCore.description>A computer core capable of housing a superhumanlike AI who can guide a ship through any challenge.</Frame_Ship_ComputerCore.description>
+  
+  <!-- EN: avaruusaluksen salauniarkku (rakennus) -->
+  <Frame_Ship_CryptosleepCasket.label>ship cryptosleep casket (building)</Frame_Ship_CryptosleepCasket.label>
+  <!-- EN: Ulkoavaruuden vaaroja vastaan kovennettu salauniarkku. Kykenee ylläpitämään yhden hengen salaunessa vuosisatojen ajan avaruudessa ja selviämään ilmakehään palaamisesta. -->
+  <Frame_Ship_CryptosleepCasket.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</Frame_Ship_CryptosleepCasket.description>
+  
+  <!-- EN: avaruusaluksen moottori (rakennus) -->
+  <Frame_Ship_Engine.label>ship engine (building)</Frame_Ship_Engine.label>
+  <!-- EN: Antimaterialla toimiva moottori, joka kykenee laukaisemaan aluksen kiertoradalle ja tähtienvälisille lentoradoille. -->
+  <Frame_Ship_Engine.description>An engine capable of launching a ship into orbit and on interstellar trajectories.</Frame_Ship_Engine.description>
+  
+  <!-- EN: avaruusaluksen reaktori (rakennus) -->
+  <Frame_Ship_Reactor.label>ship reactor (building)</Frame_Ship_Reactor.label>
+  <!-- EN: Tuo alukselle virtaa sen matkalle avaruuden halki. -->
+  <Frame_Ship_Reactor.description>Powers a ship on its journey through space.</Frame_Ship_Reactor.description>
+  
+  <!-- EN: hopealaatta (rakennus) -->
+  <Frame_SilverTile.label>silver tile (building)</Frame_SilverTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SilverTile.description>Terrain building in progress.</Frame_SilverTile.description>
+  
+  <!-- EN: yksinkertainen tutkimuspöytä (rakennus) -->
+  <Frame_SimpleResearchBench.label>simple research bench (building)</Frame_SimpleResearchBench.label>
+  <!-- EN: Yksinkertainen työpöytä, jossa on kirjoitusvälineitä ja tietellisiä työkaluja. Tutkijat työskentelevät tässä keksiäkseen uusia asioita. -->
+  <Frame_SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</Frame_SimpleResearchBench.description>
+  
+  <!-- EN: nukkumapaikka (rakennus) -->
+  <Frame_SleepingSpot.label>nukkumapaikka (rakennus)</Frame_SleepingSpot.label>
+  <!-- EN: Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava. -->
+  <Frame_SleepingSpot.description>Määrää paikan maassa, jossa ihmisten kannattaa nukkua. Epämukava.</Frame_SleepingSpot.description>
+  
+  <!-- EN: aurinkopaneeli (rakennus) -->
+  <Frame_SolarGenerator.label>solar generator (building)</Frame_SolarGenerator.label>
+  <!-- EN: Tuottaa sähköä auringon valosta. Ei toimi pimeässä. -->
+  <Frame_SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark.</Frame_SolarGenerator.description>
+  
+  <!-- EN: jalkalamppu (rakennus) -->
+  <Frame_StandingLamp.label>standing lamp (rakennus)</Frame_StandingLamp.label>
+  <!-- EN: Seisova lamppu joka valaisee alueen. -->
+  <Frame_StandingLamp.description>Standing lamp that lights an area.</Frame_StandingLamp.description>
+  
+  <!-- EN: jalkalamppu (sininen) (rakennus) -->
+  <Frame_StandingLamp_Blue.label>standing lamp (blue) (rakennus)</Frame_StandingLamp_Blue.label>
+  <!-- EN: Seisova lamppu joka valaisee alueen sinisellä valolla. -->
+  <Frame_StandingLamp_Blue.description>Standing lamp that lights an area in blue.</Frame_StandingLamp_Blue.description>
+  
+  <!-- EN: jalkalamppu (vihreä) (rakennus) -->
+  <Frame_StandingLamp_Green.label>standing lamp (green) (rakennus)</Frame_StandingLamp_Green.label>
+  <!-- EN: Seisova lamppu joka valaisee alueen vihreällä valolla. -->
+  <Frame_StandingLamp_Green.description>Standing lamp that lights an area in green.</Frame_StandingLamp_Green.description>
+  
+  <!-- EN: jalkalamppu (punainen) (rakennus) -->
+  <Frame_StandingLamp_Red.label>standing lamp (red) (rakennus)</Frame_StandingLamp_Red.label>
+  <!-- EN: Seisova lamppu joka valaisee alueen punaisella valolla. -->
+  <Frame_StandingLamp_Red.description>Standing lamp that lights an area in red.</Frame_StandingLamp_Red.description>
+  
+  <!-- EN: steriili laatta (rakennus) -->
+  <Frame_SterileTile.label>sterile tile (building)</Frame_SterileTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SterileTile.description>Terrain building in progress.</Frame_SterileTile.description>
+  
+  <!-- EN: jakkara (rakennus) -->
+  <Frame_Stool.label>stool (rakennus)</Frame_Stool.label>
+  <!-- EN: Tämän päällä istutaan. -->
+  <Frame_Stool.description>A simple platform on which to sit.</Frame_Stool.description>
+  
+  <!-- EN: kirkasvalolamppu (rakennus) -->
+  <Frame_SunLamp.label>sun lamp (rakennus)</Frame_SunLamp.label>
+  <!-- EN: Valaisee alueen niin kirkkaasti että viljelykasvit voivat kasvaa. -->
+  <Frame_SunLamp.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</Frame_SunLamp.description>
+  
+  <!-- EN: teurastuspöytä (rakennus) -->
+  <Frame_TableButcher.label>butcher table (building)</Frame_TableButcher.label>
+  <!-- EN: Raskas pöytä kuolleiden olioiden teurastamiseen raaoiksi lihanpalasiksi. -->
+  <Frame_TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</Frame_TableButcher.description>
+  
+  <!-- EN: koneiden työstöpöytä (rakennus) -->
+  <Frame_TableMachining.label>machining table (building)</Frame_TableMachining.label>
+  <!-- EN: Pöytä ja työkalut koneiden osien kokoamiseen ja purkamiseen. -->
+  <Frame_TableMachining.description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</Frame_TableMachining.description>
+  
+  <!-- EN: veistäjän pöytä (rakennus) -->
+  <Frame_TableSculpting.label>sculptor's table (building)</Frame_TableSculpting.label>
+  <!-- EN: Taiteellista veistämistä varten varusteltu työpöytä. -->
+  <Frame_TableSculpting.description>A workbench equipped for artistic sculpting.</Frame_TableSculpting.description>
+  
+  <!-- EN: kivenleikkajan pöytä (rakennus) -->
+  <Frame_TableStonecutter.label>stonecutter's table (building)</Frame_TableStonecutter.label>
+  <!-- EN: Työpöytä karkeiden kivien leikkaamiseen käyttökelpoisiksi harkoiksi. -->
+  <Frame_TableStonecutter.description>A work table equipped to cut rough stone into usable blocks.</Frame_TableStonecutter.description>
+  
+  <!-- EN: graniittilaatta (rakennus) -->
+  <Frame_TileGranite.label>granite tile (building)</Frame_TileGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileGranite.description>Terrain building in progress.</Frame_TileGranite.description>
+  
+  <!-- EN: kalkkikivilaatta (rakennus) -->
+  <Frame_TileLimestone.label>limestone tile (building)</Frame_TileLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileLimestone.description>Terrain building in progress.</Frame_TileLimestone.description>
+  
+  <!-- EN: marmorilaatta (rakennus) -->
+  <Frame_TileMarble.label>marble tile (building)</Frame_TileMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileMarble.description>Terrain building in progress.</Frame_TileMarble.description>
+  
+  <!-- EN: hiekkakivilaatta (rakennus) -->
+  <Frame_TileSandstone.label>sandstone tile (building)</Frame_TileSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSandstone.description>Terrain building in progress.</Frame_TileSandstone.description>
+  
+  <!-- EN: liuskekivilaatta (rakennus) -->
+  <Frame_TileSlate.label>slate tile (building)</Frame_TileSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSlate.description>Terrain building in progress.</Frame_TileSlate.description>
+  
+  <!-- EN: työkalukaappi (rakennus) -->
+  <Frame_ToolCabinet.label>tool cabinet (building)</Frame_ToolCabinet.label>
+  <!-- EN: Lisää työskentelynopeutta. Täytyy rakentaa lähelle työpöytää. Yksi työpöytä voi olla yhdistettynä vain yhteen työkalukaappiin. -->
+  <Frame_ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</Frame_ToolCabinet.description>
+  
+  <!-- EN: soihtu (rakennus) -->
+  <Frame_TorchLamp.label>soihtu (rakennus)</Frame_TorchLamp.label>
+  <!-- EN: Puinen soihtu alueen valaisemiseen. Puuta voidaan automaattisesti lisätä polttoaineeksi. Tuottaa pienen määrän lämpöä. -->
+  <Frame_TorchLamp.description>Puinen soihtu alueen valaisemiseen. Puuta voidaan automaattisesti lisätä polttoaineeksi. Tuottaa pienen määrän lämpöä.</Frame_TorchLamp.description>
+  
+  <!-- EN: transport pod (rakennus) -->
+  <Frame_TransportPod.label>transport pod (building)</Frame_TransportPod.label>
+  <!-- EN: A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles. -->
+  <Frame_TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</Frame_TransportPod.description>
+  
+  <!-- EN: kuvaputkitelevisio (rakennus) -->
+  <Frame_TubeTelevision.label>tube television (building)</Frame_TubeTelevision.label>
+  <!-- EN: Katodisädeputkinäyttö joka näyttää liikkuvia kuvia äänen kanssa. Jopa syrjäisillä planeetoilla on usein vanha lähetin joka pyörittää jotain lähes mielenkiintoista katsottavaa. -->
+  <Frame_TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</Frame_TubeTelevision.description>
+  
+  <!-- EN: ilmastointikanava (rakennus) -->
+  <Frame_Vent.label>vent (building)</Frame_Vent.label>
+  <!-- EN: Yksinkertainen kanava kahden huoneen lämpötilan tasaamiseen ilman että niiden välillä kävellään. -->
+  <Frame_Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Frame_Vent.description>
+  
+  <!-- EN: terveydentilan näyttö (rakennus) -->
+  <Frame_VitalsMonitor.label>vitals monitor (building)</Frame_VitalsMonitor.label>
+  <!-- EN: Parantaa potilaiden parantamisen laatua. Täytyy rakentaa lääkintävuoteen viereen. Yksi lääkintävuode voi olla yhdistettynä vain yhteen terveydentilan näyttöön. -->
+  <Frame_VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</Frame_VitalsMonitor.description>
+  
+  <!-- EN: seinä (rakennus) -->
+  <Frame_Wall.label>wall (building)</Frame_Wall.label>
+  <!-- EN: Läpäisemätön seinä. Kykenee kannattelemaan kattoa. -->
+  <Frame_Wall.description>An impassable wall. Capable of holding up a roof.</Frame_Wall.description>
+  
+  <!-- EN: tuuliturbiini (rakennus) -->
+  <Frame_WindTurbine.label>wind turbine (building)</Frame_WindTurbine.label>
+  <!-- EN: Tuulivoimalla toimiva sähkögeneraattori. Tarvitsee laajan tyhjän alueen eteen ja taakse optimaalisen ilmavirtauksen mahdollistamiseksi. -->
+  <Frame_WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</Frame_WindTurbine.description>
+  
+  <!-- EN: puulattia (rakennus) -->
+  <Frame_WoodPlankFloor.label>wood floor (building)</Frame_WoodPlankFloor.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_WoodPlankFloor.description>Terrain building in progress.</Frame_WoodPlankFloor.description>
+  
+  <!-- EN: alpakka lihaa -->
+  <Meat_Alpaca.label>alpakan lihaa</Meat_Alpaca.label>
+  <!-- EN: Raakaa lihaa oliosta alpakka. -->
+  <Meat_Alpaca.description>Raakaa alpakan lihaa.</Meat_Alpaca.description>
+  
+  <!-- EN: alfamajava lihaa -->
+  <Meat_Alphabeaver.label>alfamajavan lihaa</Meat_Alphabeaver.label>
+  <!-- EN: Raakaa lihaa oliosta alfamajava. -->
+  <Meat_Alphabeaver.description>Raakaa alfamajavan lihaa.</Meat_Alphabeaver.description>
+  
+  <!-- EN: bear meat -->
+  <Meat_Bear_Grizzly.label>harmaakarhun lihaa</Meat_Bear_Grizzly.label>
+  <!-- EN: Raakaa lihaa oliosta harmaakarhu. -->
+  <Meat_Bear_Grizzly.description>Raakaa harmaakarhun lihaa.</Meat_Bear_Grizzly.description>
+  
+  <!-- EN: paukkulooppi lihaa -->
+  <Meat_Boomalope.label>paukkuloopin lihaa</Meat_Boomalope.label>
+  <!-- EN: Raakaa lihaa oliosta paukkulooppi. -->
+  <Meat_Boomalope.description>Raakaa paukkuloopin lihaa.</Meat_Boomalope.description>
+  
+  <!-- EN: paukkurotta lihaa -->
+  <Meat_Boomrat.label>paukkurotan lihaa</Meat_Boomrat.label>
+  <!-- EN: Raakaa lihaa oliosta paukkurotta. -->
+  <Meat_Boomrat.description>Raakaa paukkurotan lihaa.</Meat_Boomrat.description>
+  
+  <!-- EN: kapybara lihaa -->
+  <Meat_Capybara.label>kapybaran lihaa</Meat_Capybara.label>
+  <!-- EN: Raakaa lihaa oliosta kapybara. -->
+  <Meat_Capybara.description>Raakaa kapybaran lihaa.</Meat_Capybara.description>
+  
+  <!-- EN: caribou lihaa -->
+  <Meat_Caribou.label>caribou meat</Meat_Caribou.label>
+  <!-- EN: Raakaa lihaa oliosta caribou. -->
+  <Meat_Caribou.description>caribou meat</Meat_Caribou.description>
+  
+  <!-- EN: bird meat -->
+  <Meat_Cassowary.label>bird meat</Meat_Cassowary.label>
+  <!-- EN: Raakaa lihaa oliosta cassowary. -->
+  <Meat_Cassowary.description>bird meat</Meat_Cassowary.description>
+  
+  <!-- EN: kissa lihaa -->
+  <Meat_Cat.label>kissan lihaa</Meat_Cat.label>
+  <!-- EN: Raakaa lihaa oliosta kissa. -->
+  <Meat_Cat.description>Raakaa kissan lihaa.</Meat_Cat.description>
+  
+  <!-- EN: kana lihaa -->
+  <Meat_Chicken.label>kanan lihaa</Meat_Chicken.label>
+  <!-- EN: Raakaa lihaa oliosta kana. -->
+  <Meat_Chicken.description>Raakaa kanan lihaa.</Meat_Chicken.description>
+  
+  <!-- EN: chinchilla lihaa -->
+  <Meat_Chinchilla.label>chinchillan lihaa</Meat_Chinchilla.label>
+  <!-- EN: Raakaa lihaa oliosta chinchilla. -->
+  <Meat_Chinchilla.description>Raakaa chinchillan lihaa.</Meat_Chinchilla.description>
+  
+  <!-- EN: cobraflesh -->
+  <Meat_Cobra.label>kobran lihaa</Meat_Cobra.label>
+  <!-- EN: Raakaa lihaa oliosta kobra. -->
+  <Meat_Cobra.description>Raakaa kobran lihaa.</Meat_Cobra.description>
+  
+  <!-- EN: cougar lihaa -->
+  <Meat_Cougar.label>cougar meat</Meat_Cougar.label>
+  <!-- EN: Raakaa lihaa oliosta cougar. -->
+  <Meat_Cougar.description>Raw flesh of a cougar.</Meat_Cougar.description>
+  
+  <!-- EN: beef -->
+  <Meat_Cow.label>naudanlihaa</Meat_Cow.label>
+  <!-- EN: Raakaa lihaa oliosta lehmä. -->
+  <Meat_Cow.description>Raakaa lehmän lihaa.</Meat_Cow.description>
+  
+  <!-- EN: venison -->
+  <Meat_Deer.label>peuran lihaa</Meat_Deer.label>
+  <!-- EN: Raakaa lihaa oliosta peura. -->
+  <Meat_Deer.description>Raakaa peuran lihaa.</Meat_Deer.description>
+  
+  <!-- EN: dromedaari lihaa -->
+  <Meat_Dromedary.label>dromedaarin lihaa</Meat_Dromedary.label>
+  <!-- EN: Raakaa lihaa oliosta dromedaari. -->
+  <Meat_Dromedary.description>Raakaa dromedaarin lihaa.</Meat_Dromedary.description>
+  
+  <!-- EN: norsu lihaa -->
+  <Meat_Elephant.label>norsun lihaa</Meat_Elephant.label>
+  <!-- EN: Raakaa lihaa oliosta norsu. -->
+  <Meat_Elephant.description>Raakaa norsun lihaa.</Meat_Elephant.description>
+  
+  <!-- EN: hirvi lihaa -->
+  <Meat_Elk.label>hirven lihaa</Meat_Elk.label>
+  <!-- EN: Raakaa lihaa oliosta hirvi. -->
+  <Meat_Elk.description>Raakaa hirven lihaa.</Meat_Elk.description>
+  
+  <!-- EN: foxmeat -->
+  <Meat_Fox_Fennec.label>foxmeat</Meat_Fox_Fennec.label>
+  <!-- EN: Raakaa lihaa oliosta fennec fox. -->
+  <Meat_Fox_Fennec.description>foxmeat</Meat_Fox_Fennec.description>
+  
+  <!-- EN: gazelle lihaa -->
+  <Meat_Gazelle.label>gazelle meat</Meat_Gazelle.label>
+  <!-- EN: Raakaa lihaa oliosta gazelle. -->
+  <Meat_Gazelle.description>gazelle meat</Meat_Gazelle.description>
+  
+  <!-- EN: jänis lihaa -->
+  <Meat_Hare.label>jäniksen lihaa</Meat_Hare.label>
+  <!-- EN: Raakaa lihaa oliosta jänis. -->
+  <Meat_Hare.description>Raakaa jäniksen lihaa.</Meat_Hare.description>
+  
+  <!-- EN: ihminen lihaa -->
+  <Meat_Human.label>ihmisen lihaa</Meat_Human.label>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <Meat_Human.description>Raakaa ihmisen lihaa.</Meat_Human.description>
+  
+  <!-- EN: husky lihaa -->
+  <Meat_Husky.label>huskyn lihaa</Meat_Husky.label>
+  <!-- EN: Raakaa lihaa oliosta husky. -->
+  <Meat_Husky.description>Raakaa huskyn lihaa.</Meat_Husky.description>
+  
+  <!-- EN: ibex lihaa -->
+  <Meat_Ibex.label>ibex meat</Meat_Ibex.label>
+  <!-- EN: Raakaa lihaa oliosta ibex. -->
+  <Meat_Ibex.description>ibex meat</Meat_Ibex.description>
+  
+  <!-- EN: iguaani lihaa -->
+  <Meat_Iguana.label>iguaanin lihaa</Meat_Iguana.label>
+  <!-- EN: Raakaa lihaa oliosta iguaani. -->
+  <Meat_Iguana.description>Raakaa iguaanin lihaa.</Meat_Iguana.description>
+  
+  <!-- EN: labradorinnoutaja lihaa -->
+  <Meat_LabradorRetriever.label>labradorinnoutajan lihaa</Meat_LabradorRetriever.label>
+  <!-- EN: Raakaa lihaa oliosta labradorinnoutaja. -->
+  <Meat_LabradorRetriever.description>Raakaa labradorinnoutajan lihaa.</Meat_LabradorRetriever.description>
+  
+  <!-- EN: lynx lihaa -->
+  <Meat_Lynx.label>lynx meat</Meat_Lynx.label>
+  <!-- EN: Raakaa lihaa oliosta lynx. -->
+  <Meat_Lynx.description>lynx meat</Meat_Lynx.description>
+  
+  <!-- EN: Megasloth lihaa -->
+  <Meat_Megasloth.label>Megasloth meat</Meat_Megasloth.label>
+  <!-- EN: Raakaa lihaa oliosta Megasloth. -->
+  <Meat_Megasloth.description>Megasloth meat</Meat_Megasloth.description>
+  
+  <!-- EN: insect meat -->
+  <Meat_Megaspider.label>megaspider meat</Meat_Megaspider.label>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <Meat_Megaspider.description>Raw flesh of a megaspider.</Meat_Megaspider.description>
+  
+  <!-- EN: apina lihaa -->
+  <Meat_Monkey.label>apinan lihaa</Meat_Monkey.label>
+  <!-- EN: Raakaa lihaa oliosta apina. -->
+  <Meat_Monkey.description>Raakaa apinan lihaa.</Meat_Monkey.description>
+  
+  <!-- EN: hirvibiisoni lihaa -->
+  <Meat_Muffalo.label>hirvibiisonin lihaa</Meat_Muffalo.label>
+  <!-- EN: Raakaa lihaa oliosta hirvibiisoni. -->
+  <Meat_Muffalo.description>Raakaa hirvibiisonin lihaa.</Meat_Muffalo.description>
+  
+  <!-- EN: panther lihaa -->
+  <Meat_Panther.label>panther meat</Meat_Panther.label>
+  <!-- EN: Raakaa lihaa oliosta panther. -->
+  <Meat_Panther.description>panther meat</Meat_Panther.description>
+  
+  <!-- EN: pork -->
+  <Meat_Pig.label>sianlihaa</Meat_Pig.label>
+  <!-- EN: Raakaa lihaa oliosta sika. -->
+  <Meat_Pig.description>Raakaa sian lihaa.</Meat_Pig.description>
+  
+  <!-- EN: Raccoon lihaa -->
+  <Meat_Raccoon.label>Raccoon meat</Meat_Raccoon.label>
+  <!-- EN: Raakaa lihaa oliosta Raccoon. -->
+  <Meat_Raccoon.description>Raccoon meat</Meat_Raccoon.description>
+  
+  <!-- EN: rat lihaa -->
+  <Meat_Rat.label>rat meat</Meat_Rat.label>
+  <!-- EN: Raakaa lihaa oliosta rat. -->
+  <Meat_Rat.description>rat meat</Meat_Rat.description>
+  
+  <!-- EN: sarvikuono lihaa -->
+  <Meat_Rhinoceros.label>sarvikuonon lihaa</Meat_Rhinoceros.label>
+  <!-- EN: Raakaa lihaa oliosta sarvikuono. -->
+  <Meat_Rhinoceros.description>Raakaa sarvikuonon lihaa.</Meat_Rhinoceros.description>
+  
+  <!-- EN: orava lihaa -->
+  <Meat_Squirrel.label>oravan lihaa</Meat_Squirrel.label>
+  <!-- EN: Raakaa lihaa oliosta orava. -->
+  <Meat_Squirrel.description>Raakaa oravan lihaa.</Meat_Squirrel.description>
+  
+  <!-- EN: thrumbo lihaa -->
+  <Meat_Thrumbo.label>thrumbon lihaa</Meat_Thrumbo.label>
+  <!-- EN: Raakaa lihaa oliosta thrumbo. -->
+  <Meat_Thrumbo.description>Raakaa thrumbon lihaa.</Meat_Thrumbo.description>
+  
+  <!-- EN: kilpikonna lihaa -->
+  <Meat_Tortoise.label>kilpikonnan lihaa</Meat_Tortoise.label>
+  <!-- EN: Raakaa lihaa oliosta kilpikonna. -->
+  <Meat_Tortoise.description>Raakaa kilpikonnan lihaa.</Meat_Tortoise.description>
+  
+  <!-- EN: turkey lihaa -->
+  <Meat_Turkey.label>turkey meat</Meat_Turkey.label>
+  <!-- EN: Raakaa lihaa oliosta turkey. -->
+  <Meat_Turkey.description>turkey meat</Meat_Turkey.description>
+  
+  <!-- EN: warg lihaa -->
+  <Meat_Warg.label>wargin lihaa</Meat_Warg.label>
+  <!-- EN: Raakaa lihaa oliosta warg. -->
+  <Meat_Warg.description>Raakaa wargin lihaa.</Meat_Warg.description>
+  
+  <!-- EN: wolfmeat -->
+  <Meat_Wolf_Timber.label>wolfmeat</Meat_Wolf_Timber.label>
+  <!-- EN: Raakaa lihaa oliosta timber wolf. -->
+  <Meat_Wolf_Timber.description>wolfmeat</Meat_Wolf_Timber.description>
+  
+  <!-- EN: yorkshirenterrieri lihaa -->
+  <Meat_YorkshireTerrier.label>yorkshirenterrierin lihaa</Meat_YorkshireTerrier.label>
+  <!-- EN: Raakaa lihaa oliosta yorkshirenterrieri. -->
+  <Meat_YorkshireTerrier.description>Raakaa yorkshirenterrierin lihaa.</Meat_YorkshireTerrier.description>
+  
+</LanguageData>

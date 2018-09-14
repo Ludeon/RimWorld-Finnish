@@ -1,76 +1,151 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Root.label>juuri</Root.label>
-
-
-  <!-- Foods -->
-
-  <Foods.label>ruuat</Foods.label>
-  <FoodMeals.label>ateriat</FoodMeals.label>
-  <FoodRaw.label>raa-at ruuat</FoodRaw.label>
-  <MeatRaw.label>liha</MeatRaw.label>
-  <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
+  
+  <!-- EN: animal products -->
   <AnimalProductRaw.label>eläintuotteet</AnimalProductRaw.label>
-  <EggsUnfertilized.label>munat (ei hedel.)</EggsUnfertilized.label>
-  <EggsFertilized.label>munat (hedel.)</EggsFertilized.label>
-
-
-  <!-- Manufactured -->
-
-  <Manufactured.label>tuotetut</Manufactured.label>
-  <Textiles.label>tekstiilit</Textiles.label>
-  <Leathers.label>nahat</Leathers.label>
-  <Medicine.label>lääketarpeet</Medicine.label>
-  <Drugs.label>drugs</Drugs.label>
-
-
-  <!-- Raw resources -->
-
-  <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
-  <PlantMatter.label>plant matter</PlantMatter.label>
-  <StoneBlocks.label>kiviharkot</StoneBlocks.label>
-
-
-  <!-- Items -->
-
-  <Items.label>esineet</Items.label>
-  <Art.label>taide</Art.label>
-  <Furniture.label>huonekalut</Furniture.label>
-  <Unfinished.label>keskeneräiset</Unfinished.label>
-  <Artifacts.label>artifacts</Artifacts.label>
-  <BodyParts.label>body parts</BodyParts.label>
-  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
-
-
-  <!-- Weapons -->
-
-  <Weapons.label>aseet</Weapons.label>
-  <WeaponsMelee.label>lähitaisteluaseet</WeaponsMelee.label>
-  <WeaponsRanged.label>ampuma-aseet</WeaponsRanged.label>
-  <Grenades.label>kranaatit</Grenades.label>
-
-
-  <!-- Apparel -->
-
+  
+  <!-- EN: apparel -->
   <Apparel.label>vaatteet</Apparel.label>
-  <Headgear.label>päähineet</Headgear.label>
-
-
-  <!-- Chunks -->
-
+  
+  <!-- UNUSED -->
+  <Art.label>taide</Art.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>artifacts</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>body parts</BodyParts.label>
+  
+  <!-- EN: artificial -->
+  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>TODO</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>TODO</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>TODO</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
   <Chunks.label>kimpaleet</Chunks.label>
-  <StoneChunks.label>kivenjärkäleet</StoneChunks.label>
-
-
-  <!-- Corpses -->
-
+  
+  <!-- EN: corpses -->
   <Corpses.label>ruumiit</Corpses.label>
-  <CorpsesHumanlike.label>ihmisruumiit</CorpsesHumanlike.label>
+  
+  <!-- EN: animal corpses -->
   <CorpsesAnimal.label>eläinten ruumiit</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>ihmisruumiit</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
   <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
   <CorpsesMechanoid.label>mekanoidien ruumiit</CorpsesMechanoid.label>
-
-
+  
+  <!-- EN: drugs -->
+  <Drugs.label>drugs</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>munat (hedel.)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>munat (ei hedel.)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>ateriat</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>raa-at ruuat</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>ruuat</Foods.label>
+  
+  <!-- UNUSED -->
+  <Furniture.label>huonekalut</Furniture.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>kranaatit</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>päähineet</Headgear.label>
+  
+  <!-- EN: items -->
+  <Items.label>esineet</Items.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>nahat</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>tuotetut</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>liha</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>lääketarpeet</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>TODO</MortarShells.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>plant matter</PlantMatter.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>juuri</Root.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>kiviharkot</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>kivenjärkäleet</StoneChunks.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>tekstiilit</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>keskeneräiset</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>aseet</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>lähitaisteluaseet</WeaponsMelee.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>ampuma-aseet</WeaponsRanged.label>
+  
 </LanguageData>

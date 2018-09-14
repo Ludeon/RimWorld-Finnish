@@ -1,43 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Chicken.label>kana</Chicken.label>
-  <Chicken.description>Perinteisintä maatilalintua kanaa kasvatetaan sen munien ja lihan vuoksi.</Chicken.description>
-  <!-- Leather Amount: 0 -->
-  <Chicken_Meat.label>kanan lihaa</Chicken_Meat.label>
-  <Chicken_Meat.description>Raakaa kanan lihaa.</Chicken_Meat.description>
-  <Chicken_Corpse.label>kanan ruumis</Chicken_Corpse.label>
-  <Chicken_Corpse.description>Kuolleen kanan ruumis.</Chicken_Corpse.description>
-
-  <Pig.label>sika</Pig.label>
-  <Pig.description>Sika oli yksi ensimmäisistä ihmisen kesyttämistä eläimistä. Sitä kasvatetaan useimmiten sen lihan ja nahan vuoksi, ja sitä on helppo ruokkia sen kaikkiruokaisen ruokavalion vuoksi.</Pig.description>
-  <Pig_Leather.label>sian nahkaa</Pig_Leather.label>
-  <Pig_Leather.description>Sian vuodasta tehtyä nahkaa.</Pig_Leather.description>
-  <Pig_Leather.stuffProps.stuffAdjective>pig leathery</Pig_Leather.stuffProps.stuffAdjective>
-  <Pig_Meat.label>sianlihaa</Pig_Meat.label>
-  <Pig_Meat.description>Raakaa sian lihaa.</Pig_Meat.description>
-  <Pig_Corpse.label>sian ruumis</Pig_Corpse.label>
-  <Pig_Corpse.description>Kuolleen sian ruumis.</Pig_Corpse.description>
-
-  <Cow.label>lehmä</Cow.label>
-  <Cow.description>Erittäin yleinen kotieläin. Voi tuottaa suuret määrät maitoa tai voidaan teurastaa herkullisen ruuan takia.</Cow.description>
-  <Cow_Leather.label>lehmän nahkaa</Cow_Leather.label>
-  <Cow_Leather.description>Lehmän vuodasta tehtyä nahkaa.</Cow_Leather.description>
-  <Cow_Leather.stuffProps.stuffAdjective>cow leathery</Cow_Leather.stuffProps.stuffAdjective>
-  <Cow_Meat.label>naudanlihaa</Cow_Meat.label>
-  <Cow_Meat.description>Raakaa lehmän lihaa.</Cow_Meat.description>
-  <Cow_Corpse.label>lehmän corpse</Cow_Corpse.label>
-  <Cow_Corpse.description>Kuolleen lehmän ruumis.</Cow_Corpse.description>
-
+  
+  <!-- EN: alpaca -->
   <Alpaca.label>alpakka</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America -->
   <Alpaca.description>Keskikokoinen sorkkaeläin joka muistuttaa läheisesti laamaa. Alpakkaa ylistetään usein sen huomattavan pehmeää villaa.</Alpaca.description>
-  <Alpaca_Leather.label>alpakan nahkaa</Alpaca_Leather.label>
-  <Alpaca_Leather.description>Alpakan vuodasta tehtyä nahkaa.</Alpaca_Leather.description>
-  <Alpaca_Leather.stuffProps.stuffAdjective>alpaca leathery</Alpaca_Leather.stuffProps.stuffAdjective>
-  <Alpaca_Meat.label>alpakan lihaa</Alpaca_Meat.label>
-  <Alpaca_Meat.description>Raakaa alpakan lihaa.</Alpaca_Meat.description>
-  <Alpaca_Corpse.label>alpakan corpse</Alpaca_Corpse.label>
-  <Alpaca_Corpse.description>Kuolleen alpakan ruumis.</Alpaca_Corpse.description>
-
-
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>TODO</Alpaca.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>TODO</Alpaca.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>TODO</Alpaca.tools.head.label>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>kana</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>Perinteisintä maatilalintua kanaa kasvatetaan sen munien ja lihan vuoksi.</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>TODO</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>TODO</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>TODO</Chicken.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>lehmä</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>Erittäin yleinen kotieläin. Voi tuottaa suuret määrät maitoa tai voidaan teurastaa herkullisen ruuan takia.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>TODO</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>TODO</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>TODO</Cow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>TODO</Cow.tools.right_hoof.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>sika</Pig.label>
+  <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
+  <Pig.description>Sika oli yksi ensimmäisistä ihmisen kesyttämistä eläimistä. Sitä kasvatetaan useimmiten sen lihan ja nahan vuoksi, ja sitä on helppo ruokkia sen kaikkiruokaisen ruokavalion vuoksi.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>TODO</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>TODO</Pig.tools.head.label>
+  
 </LanguageData>

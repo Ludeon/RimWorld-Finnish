@@ -1,55 +1,77 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Artistic recipes - speed not affected by skill because skill affects output quality -->
-
-  <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
-  <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
-
-  <TailoringSpeed.label>räätälöintinopeus</TailoringSpeed.label>
-  <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
-
-  <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
-  <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
-
-
-  <!-- Production recipes - speed affected by skill because there is no output quality -->
-
-  <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
-  <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
-
-  <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
-
-  <CookSpeed.label>keittonopeus</CookSpeed.label>
-  <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
-
-  <FoodPoisonChance.label>ruoan myrkyttämisen todennäköisyys</FoodPoisonChance.label>
-  <FoodPoisonChance.description>Todennäköisyys, että tämä henkilö myrkyttää kokkaamansa aterian epähuomiossa.</FoodPoisonChance.description>
-
-  <BrewingSpeed.label>alkoholin valmistusnopeus</BrewingSpeed.label>
-  <BrewingSpeed.description>Nopeus jolla tämä henkilö panee olutta.</BrewingSpeed.description>
-
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>teurastuskyky</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>Kerroin teurastamalla tuotetun lihan määrään.</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
   <ButcheryFleshSpeed.label>teurastusnopeus</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
   <ButcheryFleshSpeed.description>Nopeus, jolla tämä henkilö teurastaa tuoreita olioita.</ButcheryFleshSpeed.description>
-
+  
+  <!-- EN: mechanoid disassembly efficiency -->
+  <ButcheryMechanoidEfficiency.label>mekanoidin purkukyky</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>Kerroin mekanoidin purkamisesta saatujen materiaalien määrään.</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid disassembly speed -->
   <ButcheryMechanoidSpeed.label>mekanoidin purkunopeus</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can disassemble a mechanoid. -->
   <ButcheryMechanoidSpeed.description>Nopeus, jolla tämä henkilö purkaa mekanoidin.</ButcheryMechanoidSpeed.description>
-
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>keittonopeus</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>alkoholin valmistusnopeus</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>Nopeus jolla tämä henkilö panee olutta.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>drug production speed</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>How fast this character produces drugs.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>ruoan myrkyttämisen todennäköisyys</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
+  <FoodPoisonChance.description>Todennäköisyys, että tämä henkilö myrkyttää kokkaamansa aterian epähuomiossa.</FoodPoisonChance.description>
+  
+  <!-- UNUSED -->
   <MechanoidOperationSuccessChance.label>mechanoid operation success chance</MechanoidOperationSuccessChance.label>
   <MechanoidOperationSuccessChance.description>The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.</MechanoidOperationSuccessChance.description>
-
-  <ButcheryFleshEfficiency.label>teurastuskyky</ButcheryFleshEfficiency.label>
-  <ButcheryFleshEfficiency.description>Kerroin teurastamalla tuotetun lihan määrään.</ButcheryFleshEfficiency.description>
-
-  <ButcheryMechanoidEfficiency.label>mekanoidin purkukyky</ButcheryMechanoidEfficiency.label>
-  <ButcheryMechanoidEfficiency.description>Kerroin mekanoidin purkamisesta saatujen materiaalien määrään.</ButcheryMechanoidEfficiency.description>
-
-
-  <!-- Dumb recipes - not affected by skill because there's no skill component -->
-
+  
+  <!-- EN: sculpting speed -->
+  <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
+  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
+  <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
+  
+  <!-- EN: smelting speed -->
   <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
-
-
+  
+  <!-- EN: smithing speed -->
+  <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
+  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
+  <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
+  
+  <!-- UNUSED -->
+  <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
+  
+  <!-- EN: tailoring speed -->
+  <TailoringSpeed.label>räätälöintinopeus</TailoringSpeed.label>
+  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
+  <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
+  
+  <!-- EN: unskilled labor speed -->
+  <UnskilledLaborSpeed.label>TODO</UnskilledLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
+  <UnskilledLaborSpeed.description>TODO</UnskilledLaborSpeed.description>
+  
 </LanguageData>

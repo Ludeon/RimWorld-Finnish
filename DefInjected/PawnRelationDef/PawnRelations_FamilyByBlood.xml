@@ -1,61 +1,80 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- close family -->
-
-  <Parent.label>isä</Parent.label>
-  <Parent.labelFemale>äiti</Parent.labelFemale>
-
+  
+  <!-- EN: son -->
   <Child.label>lapsi</Child.label>
+  <!-- EN: daughter -->
   <Child.labelFemale>tytär</Child.labelFemale>
-
-  <Sibling.label>veli</Sibling.label>
-  <Sibling.labelFemale>sisko</Sibling.labelFemale>
-
-  <HalfSibling.label>veli</HalfSibling.label>
-  <HalfSibling.labelFemale>sisko</HalfSibling.labelFemale>
-
-  <Grandparent.label>isoisä</Grandparent.label>
-  <Grandparent.labelFemale>isoäiti</Grandparent.labelFemale>
-
-  <Grandchild.label>lapsenlapsi</Grandchild.label>
-  <Grandchild.labelFemale>lapsenlapsi</Grandchild.labelFemale>
-
-  <NephewOrNiece.label>sisaruksen poika</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>sisaruksen tytär</NephewOrNiece.labelFemale>
-
-  <UncleOrAunt.label>setä</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>täti</UncleOrAunt.labelFemale>
-
+  
+  <!-- EN: cousin -->
   <Cousin.label>serkku</Cousin.label>
   <Cousin.labelFemale>serkku</Cousin.labelFemale>
-
-
-  <!-- distant family -->
-
-  <GreatGrandparent.label>isoisoisä</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>isoisoäiti</GreatGrandparent.labelFemale>
-
-  <GreatGrandchild.label>lapsenlapsenlapsi</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>lapsenlapsenlapsi</GreatGrandchild.labelFemale>
-
-  <GranduncleOrGrandaunt.label>isosetä</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>isotäti</GranduncleOrGrandaunt.labelFemale>
-
-  <GrandnephewOrGrandniece.label>sisaruksen lapsen poika</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>sisaruksen lapsen tytär</GrandnephewOrGrandniece.labelFemale>
-
+  
+  <!-- EN: cousin once removed -->
   <CousinOnceRemoved.label>serkku</CousinOnceRemoved.label>
   <CousinOnceRemoved.labelFemale>serkku</CousinOnceRemoved.labelFemale>
-
-  <SecondCousin.label>pikkuserkku</SecondCousin.label>
-  <SecondCousin.labelFemale>pikkuserkku</SecondCousin.labelFemale>
-
-
-  <!-- kin -->
-
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>lapsenlapsi</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>lapsenlapsi</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>sisaruksen lapsen poika</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>sisaruksen lapsen tytär</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>isoisä</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>isoäiti</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>isosetä</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>isotäti</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>lapsenlapsenlapsi</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>lapsenlapsenlapsi</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>isoisoisä</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>isoisoäiti</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>veli</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>sisko</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
   <Kin.label>sukulainen</Kin.label>
   <Kin.labelFemale>sukulainen</Kin.labelFemale>
-
-
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>sisaruksen poika</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>sisaruksen tytär</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>isä</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>äiti</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>pikkuserkku</SecondCousin.label>
+  <SecondCousin.labelFemale>pikkuserkku</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>veli</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>sisko</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>setä</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>täti</UncleOrAunt.labelFemale>
+  
 </LanguageData>

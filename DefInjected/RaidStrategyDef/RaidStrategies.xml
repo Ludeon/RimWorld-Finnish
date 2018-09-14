@@ -1,28 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ImmediateAttack.arrivalTextFriendly>He tulevat auttamaan välittömästi.</ImmediateAttack.arrivalTextFriendly>
+  
+  <!-- EN: They are attacking immediately. -->
   <ImmediateAttack.arrivalTextEnemy>He hyökkäävät välittömästi.</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>He tulevat auttamaan välittömästi.</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
   <ImmediateAttack.letterLabelEnemy>Hyökkäys</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
   <ImmediateAttack.letterLabelFriendly>Liittolaisia</ImmediateAttack.letterLabelFriendly>
-
-  <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
-  <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
-
-  <StageThenAttack.arrivalTextFriendly>He valmistautuvat hetken ennen avun antamista.</StageThenAttack.arrivalTextFriendly>
-  <StageThenAttack.arrivalTextEnemy>He valmistautuvat hetken ja hyökkäävät sitten.\n\nValmistele puolustuksia tai hyökkää heitä vastaan etukäteen.</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelEnemy>Hyökkäys</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.letterLabelFriendly>Liittolaisia</StageThenAttack.letterLabelFriendly>
-
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
   <ImmediateAttackSappers.arrivalTextEnemy>Näyttää siltä että he aikovat käyttää hyväksi pioneereja kaivaakseen tunneleita puolustuksiesi ohi.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
   <ImmediateAttackSappers.letterLabelEnemy>Hyökkäys</ImmediateAttackSappers.letterLabelEnemy>
-
-  <Siege.arrivalTextFriendly>Näyttää siltä että he aikovat käyttää piiritystaktiikoita auttaakseen sinua.</Siege.arrivalTextFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
   <Siege.arrivalTextEnemy>Näyttää siltä että he aikovat piirittää yhdyskuntaa ja pommittaa teitä tykkilulella etäältä. Voit yrittää odottaa heidän lähtöään - tai lähteä hoitelemaan heidät.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Näyttää siltä että he aikovat käyttää piiritystaktiikoita auttaakseen sinua.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
   <Siege.letterLabelEnemy>Piiritys</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
   <Siege.letterLabelFriendly>Liittolaisia</Siege.letterLabelFriendly>
-
-
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>He valmistautuvat hetken ja hyökkäävät sitten.\n\nValmistele puolustuksia tai hyökkää heitä vastaan etukäteen.</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>He valmistautuvat hetken ennen avun antamista.</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>Hyökkäys</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>Liittolaisia</StageThenAttack.letterLabelFriendly>
+  
 </LanguageData>

@@ -1,41 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- removing body parts -->
-
-  <RemoveBodyPart.label>poista ruumiinosa</RemoveBodyPart.label>
-  <RemoveBodyPart.description>Poistaa ruumiinosan.</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>Poistaa ruumiinosaa.</RemoveBodyPart.jobString>
-
+  
+  <!-- UNUSED -->
   <RemoveMechanoidBodyPart.label>poista ruumiinosa</RemoveMechanoidBodyPart.label>
   <RemoveMechanoidBodyPart.description>Poistaa ruumiinosan.</RemoveMechanoidBodyPart.description>
   <RemoveMechanoidBodyPart.jobString>Poistaa ruumiinosaa.</RemoveMechanoidBodyPart.jobString>
-
-
-  <!-- Anesthetize -->
-
-  <Anesthetize.label>anesthetize</Anesthetize.label>
-  <Anesthetize.description>Makes a creature unconscious by administering an anesthetic.</Anesthetize.description>
-  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
-
-
-  <!-- Euthanasia -->
-
-  <Euthanize.label>armomurhaa</Euthanize.label>
-  <Euthanize.description>Suorittaa eutanasian.</Euthanize.description>
-  <Euthanize.jobString>Suorittaa eutanasiaa.</Euthanize.jobString>
-
+  
+  <!-- UNUSED -->
   <ShutDownMechanoid.label>sammuta</ShutDownMechanoid.label>
   <ShutDownMechanoid.description>Sammuttaa mekanoidin.</ShutDownMechanoid.description>
   <ShutDownMechanoid.jobString>Sammuttaa mekanoidia.</ShutDownMechanoid.jobString>
-
-
-  <!-- removing hediffs (e.g. diseases) -->
-
-  <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
-  <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
-  <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
-
-
+  
 </LanguageData>

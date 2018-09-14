@@ -1,82 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Tier 2: Non-electric -->
-
-  <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
-  <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.</PsychiteRefining.description>
-
-  <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
-  <WakeUpProduction.description>Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.</WakeUpProduction.description>
-
-  <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
-  <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice.</GoJuiceProduction.description>
-
-  <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
-  <PenoxycylineProduction.description>Learn to produce penoxycline, a disease prevention drug.</PenoxycylineProduction.description>
-
-
-  <!-- Tier 2: Basic electricity -->
-
-  <Batteries.label>batteries</Batteries.label>
-  <Batteries.description>Build batteries for storing electricity.</Batteries.description>
-
-  <Refining.label>refining</Refining.label>
-  <Refining.description>Build refineries to make chemfuel from wood.</Refining.description>
-
-  <NutrientPaste.label>nutrient paste</NutrientPaste.label>
-  <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
-
-  <SolarPanels.label>solar panels</SolarPanels.label>
-  <SolarPanels.description>Build solar panels for electrical generation.</SolarPanels.description>
-
-  <AirConditioning.label>air conditioning</AirConditioning.label>
-  <AirConditioning.description>Build air conditions to cool rooms in the heat, or to keep freezers.</AirConditioning.description>
-
-  <Autodoors.label>autodoors</Autodoors.label>
-  <Autodoors.description>Build autodoors which open to permit movement without slowing anyone down.</Autodoors.description>
-
-  <Hydroponics.label>vesiviljely</Hydroponics.label>
-  <Hydroponics.description>Mahdollistaa vesiviljelyaltaiden rakentamisen ruokakasvien nopeaan kasvattamiseen sisätiloissa.</Hydroponics.description>
-
-  <ElectricSmelting.label>sähkösulatus</ElectricSmelting.label>
-  <ElectricSmelting.description>Rakenna sähkösulattimia, jotka käyttävät lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta ja muista esineistä.</ElectricSmelting.description>
-
-  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
-  <PackagedSurvivalMeal.description>Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.</PackagedSurvivalMeal.description>
-
+  
+  <!-- UNUSED -->
   <ElectricCremation.label>electric cremation</ElectricCremation.label>
   <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
-
-  <ColoredLights.label>värilliset valot</ColoredLights.label>
-  <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
-
-  <Machining.label>työstäminen</Machining.label>
-  <Machining.description>Rakenna työstöpöytiä kuolleiden mekanoidien purkamiseen käyttökelpoiseksi metalliksi.</Machining.description>
-
-  <IEDBomb.label>improvisoidut räjähteet</IEDBomb.label>
-  <IEDBomb.description>Mahdollistaa yhdyskuntalaisten rakentaa omatekoisia pommiansoja tykin kranaateista.</IEDBomb.description>
-
+  
+  <!-- UNUSED -->
+  <ElectricSmelting.label>sähkösulatus</ElectricSmelting.label>
+  <ElectricSmelting.description>Rakenna sähkösulattimia, jotka käyttävät lämpöä ja vahvoja sähkömagneetteja käyttökelpoisen metallin erottamiseen metallikuonasta ja muista esineistä.</ElectricSmelting.description>
+  
+  <!-- UNUSED -->
   <IEDIncendiary.label>improvisoidut palopommit</IEDIncendiary.label>
   <IEDIncendiary.description>Mahdollistaa yhdyskuntalaisten rakentaa omatekoisia palopommiansoja tykin kranaateista.</IEDIncendiary.description>
-
-  <Mortars.label>kranaatinheittimet</Mortars.label>
-  <Mortars.description>Opi rakentamaan kranaatinheittimiä, jotka pystyvät heittämään kranaatteja pitkiä matkoja seinien yli.</Mortars.description>
-
-  <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
-  <SmokepopBelt.description>Learn to build smokepop belts which can provide an automatic defensive smokescreen.</SmokepopBelt.description>
-
-  <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
-
-
-  <!-- Tier 2.5 Microelectronics -->
-
-  <TubeTelevision.label>tube television</TubeTelevision.label>
-  <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
-
-  <GunTurrets.label>gun turrets</GunTurrets.label>
-  <GunTurrets.description>Allows the production of automated gun turrets.</GunTurrets.description>
-
-
+  
 </LanguageData>

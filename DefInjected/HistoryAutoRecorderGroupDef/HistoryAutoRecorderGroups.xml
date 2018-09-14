@@ -1,14 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Wealth.label>varallisuus</Wealth.label>
-  <Wealth.graphLabelY>Määrä</Wealth.graphLabelY>
-
-  <Population.label>väkiluku</Population.label>
-  <Population.graphLabelY>Yhdyskuntalaista</Population.graphLabelY>
-
+  
+  <!-- EN: colonist mood -->
   <ColonistMood.label>yhdyskuntalaisten mieliala</ColonistMood.label>
+  
+  <!-- UNUSED -->
   <ColonistMood.graphLabelY>Prosenttia</ColonistMood.graphLabelY>
-
-
+  
+  <!-- EN: debug -->
+  <Debug.label>TODO</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>väkiluku</Population.label>
+  
+  <!-- UNUSED -->
+  <Population.graphLabelY>Yhdyskuntalaista</Population.graphLabelY>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>varallisuus</Wealth.label>
+  
+  <!-- UNUSED -->
+  <Wealth.graphLabelY>Määrä</Wealth.graphLabelY>
+  
 </LanguageData>

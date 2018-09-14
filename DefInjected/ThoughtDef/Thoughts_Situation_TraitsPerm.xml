@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MoodOffsetSanguine.stages.0.label>toiveikas</MoodOffsetSanguine.stages.0.label>
-  <MoodOffsetSanguine.stages.0.description>Luonnollinen mielialalisä Toiveikas-luonteenpiirteestä.</MoodOffsetSanguine.stages.0.description>
-
-  <MoodOffsetOptimist.stages.0.label>optimisti</MoodOffsetOptimist.stages.0.label>
-  <MoodOffsetOptimist.stages.0.description>Luonnollinen mielialalisä Optimisti-luonteenpiirteestä.</MoodOffsetOptimist.stages.0.description>
-
-  <MoodOffsetPessimist.stages.0.label>pessimisti</MoodOffsetPessimist.stages.0.label>
-  <MoodOffsetPessimist.stages.0.description>Luonnollinen haitta Pessimisti-luonteenpiirteestä.</MoodOffsetPessimist.stages.0.description>
-
-  <MoodOffsetDepressive.stages.0.label>masentava</MoodOffsetDepressive.stages.0.label>
-  <MoodOffsetDepressive.stages.0.description>Luonnollinen haitta Masentava-luonteenpiirteestä.</MoodOffsetDepressive.stages.0.description>
-
-
+  
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>masentava</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>Luonnollinen haitta Masentava-luonteenpiirteestä.</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>optimisti</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>Luonnollinen mielialalisä Optimisti-luonteenpiirteestä.</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>pessimisti</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>Luonnollinen haitta Pessimisti-luonteenpiirteestä.</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>toiveikas</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>Luonnollinen mielialalisä Toiveikas-luonteenpiirteestä.</MoodOffsetSanguine.stages.sanguine.description>
+  
 </LanguageData>

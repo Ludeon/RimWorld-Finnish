@@ -1,80 +1,161 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Work tab -->
+  <!-- EN: Manual priorities -->
   <ManualPriorities>Säädä tärkeyksiä</ManualPriorities>
+  <!-- EN: higher priority -->
   <HigherPriority>Tärkeämpi</HigherPriority>
+  <!-- EN: lower priority -->
   <LowerPriority>Vähemmän tärkeä</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
   <RelevantSkills>Tähän kuuluva taito: {0}\nTähän kuuluvien taitojen keskiarvo: {1} / {2}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Klikkaa siirtyäksesi:</ClickToJumpTo>
+  <!-- EN: {0} cannot do this kind of work. -->
   <CannotDoThisWork>{0} ei voi tehdä tätä työtä.</CannotDoThisWork>
+  <!-- EN: (none) -->
   <NoneBrackets>(ei mitään)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
-
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>TODO</SelectedWorkTypeWithVeryBadSkill>
+  
   <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
   <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
+  <!-- EN: Clear forced -->
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
+  <!-- EN: forced -->
   <ApparelForcedLower>pakotettu</ApparelForcedLower>
+  <!-- EN: Forced apparel -->
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
+  <!-- EN: Edit... -->
   <AssignTabEdit>Muokkaa...</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Hallitse huumekäytäntöjä</ManageDrugPolicies>
-
+  
   <!-- Restrictions tab -->
+  <!-- EN: Copy -->
   <Copy>Kopioi</Copy>
+  <!-- EN: Paste -->
   <Paste>Liitä</Paste>
+  <!-- EN: Allowed area -->
   <AllowedArea>Sallittu alue</AllowedArea>
-
+  
   <!-- Animals tab -->
+  <!-- EN: Master -->
   <Master>Isäntä</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>Raskaana ({0} / {1})</PregnantIconDesc>
-
+  <!-- EN: Bonded to -->
+  <BondedTo>TODO</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>TODO</IsPredator>
+  
   <!-- Factions tab -->
+  <!-- EN: Hostile -->
   <Hostile>Vihamielinen</Hostile>
+  <!-- EN: Ally -->
+  <Ally>TODO</Ally>
+  <!-- EN: defeated -->
   <DefeatedLower>kukistettu</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
-  <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
-
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
+  
   <!-- Social tab -->
+  <!-- EN: Friend -->
   <Friend>Ystävä</Friend>
+  <!-- EN: Rival -->
   <Rival>Vihollinen</Rival>
+  <!-- EN: Acquaintance -->
   <Acquaintance>Tuttava</Acquaintance>
-
+  
   <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
   <Graph>Kaavio</Graph>
+  <!-- EN: Messages -->
+  <Messages>TODO</Messages>
+  <!-- EN: Statistics -->
   <Statistics>Statistics</Statistics>
-
+  
   <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
   <SelectGraph>Valitse kaavio</SelectGraph>
+  <!-- EN: Last 30 days -->
   <Last30Days>Viimeiset 30 päivää</Last30Days>
+  <!-- EN: Last 100 days -->
   <Last100Days>Viimeiset 100 päivää</Last100Days>
+  <!-- EN: Last 300 days -->
   <Last300Days>Viimeiset 300 päivää</Last300Days>
+  <!-- EN: All -->
   <AllDays>Kaikki</AllDays>
-  <Day>Päivä</Day>
+  <!-- EN: Value -->
   <Value>Arvo</Value>
+  <!-- EN: External -->
   <External>Ulkoinen</External>
 
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>TODO</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>TODO</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>TODO</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>TODO</NoMessages>
+
   <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
   <Playtime>Pelattu aika</Playtime>
+  <!-- EN: Storyteller -->
   <Storyteller>Tarinankertoja</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
   <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
   <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
   <NumThreatBigs>Merkkittäviä uhkia</NumThreatBigs>
+  <!-- EN: Enemy raids -->
   <NumEnemyRaids>Vihollisten tekemiä hyökkäyksiä</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
   <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
   <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
   <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
 
   <!-- Research tab -->
+  <!-- EN: project tech level -->
   <ProjectTechLevel>project tech level</ProjectTechLevel>
+  <!-- EN: your tech level -->
   <YourTechLevel>your tech level</YourTechLevel>
+  <!-- EN: cost multiplier -->
   <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
-
-  <!--<CurrentOutfit>Nykyinen vaatekerta</CurrentOutfit>-->
-  <!--<CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>-->
-  <!--<FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>-->
-  <!--<FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>-->
+  
+  <!-- UNUSED -->
+  <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
 
 </LanguageData>

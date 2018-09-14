@@ -1,30 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Meditative -->
-
-  <Skygaze.reportString>Katselee taivasta.</Skygaze.reportString>
-  <Meditate.reportString>Meditoi.</Meditate.reportString>
-  <Pray.reportString>Rukoilee.</Pray.reportString>
-  <GoForWalk.reportString>Kävelyllä.</GoForWalk.reportString>
+  
+  <!-- EN: building snowman. -->
   <BuildSnowman.reportString>Rakentaa lumiukon.</BuildSnowman.reportString>
-  <VisitGrave.reportString>Vierailee haudalla.</VisitGrave.reportString>
-  <ViewArt.reportString>viewing art.</ViewArt.reportString>
-
-
-  <!-- Social -->
-
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>Kävelyllä.</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>Meditoi.</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>Pelaa biljardia.</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>Pelaa shakkia.</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>TODO</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>Heittää hevosenkenkiä.</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>TODO</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>Rukoilee.</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>Katselee taivasta.</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
   <SocialRelax.reportString>Hengailee.</SocialRelax.reportString>
-  <VisitSickPawn.reportString>Piristää potilasta TargetA.</VisitSickPawn.reportString>
-
-
-  <!-- Building interaction -->
-
-  <PlayHorseshoes.reportString>Heittää hevosenkenkiä.</PlayHorseshoes.reportString>
-  <PlayChess.reportString>Pelaa shakkia.</PlayChess.reportString>
-  <PlayBilliards.reportString>Pelaa biljardia.</PlayBilliards.reportString>
-  <WatchTelevision.reportString>Katsoo televisiota.</WatchTelevision.reportString>
+  
+  <!-- EN: using telescope. -->
   <UseTelescope.reportString>Käyttää teleskooppia.</UseTelescope.reportString>
-
-
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>viewing art.</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>Vierailee haudalla.</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>Piristää potilasta TargetA.</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>Katsoo televisiota.</WatchTelevision.reportString>
+  
 </LanguageData>

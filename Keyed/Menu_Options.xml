@@ -1,53 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
   <Audiovisuals>Äänet ja kuva</Audiovisuals>
+  <!-- EN: Game volume -->
   <GameVolume>Peliäänien voimakkuus</GameVolume>
+  <!-- EN: Music volume -->
   <MusicVolume>Musiikin voimakkuus</MusicVolume>
+  <!-- EN: Ambient volume -->
+  <AmbientVolume>TODO</AmbientVolume>
+  <!-- EN: Anti-aliasing -->
   <Antialiasing>Reunanpehmennys</Antialiasing>
 
   <!-- Gameplay -->
+  <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
+  <!-- EN: Pause on load -->
   <PauseOnLoad>Pysäytä peli lataamisen jälkeen</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pysäytä peli kiireelliseen viestiin</PauseOnUrgentLetter>
+  <!-- EN: Custom cursor -->
   <CustomCursor>Mukautettu kursori</CustomCursor>
+  <!-- EN: Hats shown only on game map -->
   <HatsShownOnlyOnMap>Hatut näytetään vain pelikartalla</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
   <UIScale>Käyttöliittymän skaalaus</UIScale>
+  <!-- EN: Keyboard configuration -->
   <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
+  <!-- EN: Choose language -->
   <ChooseLanguage>Valitse kieli</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
   <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Sinulle opetetaan nyt kaikki asiat alusta alkaen.</AdaptiveTutorIsReset>
+  <!-- EN: Run in background -->
   <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
+  <!-- EN: Development mode -->
   <DevelopmentMode>Kehitystila</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Nollaa modit kaatumisen jälkeen</ResetModsConfigOnCrash>
+  <!-- EN: Verbose logging -->
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
+  <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
+  <!-- EN: Show save data location -->
+  <ShowSaveGameDataLocation>TODO</ShowSaveGameDataLocation>
+  <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen nimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
+  <!-- EN: Add name -->
   <AddName>Lisää nimi</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
   <TypeFirstNickOrLastName>Kirjoita etunimi, nimimerkki tai sukunimi.</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
   <MessageAlreadyPreferredName>Tämä nimi on jo haluttujen listalla.</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
   <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
   <AutosaveInterval>Automaattitallennus</AutosaveInterval>
+  <!-- EN: Temperature mode -->
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
+  <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Näytä reaaliaikainen kello</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerHomes>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>TODO</MaxNumberOfPlayerSettlements>
+  <!-- EN: Plant wind sway -->
   <PlantWindSway>Kasvien heiluminen tuulessa</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>TODO</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>Automaattitallennuksen suurin sallittu aikaväli permadeath-tilassa on {0} päivä.</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
   <ModSettings>Modien asetukset</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>TODO</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
+  <!-- EN: Resolution -->
   <Resolution>Resoluutio</Resolution>
+  <!-- EN: Fullscreen -->
   <Fullscreen>Koko näytön tila</Fullscreen>
 
-  <!-- Privacy -->
+  <!-- Mods -->
+  <!-- EN: Select mod... -->
+  <SelectMod>Valitse modi...</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
+  <NoConfigurableMods>Yhtään muokattavissa olevaa modia ei ole ladattu.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore to default settings -->
+  <RestoreToDefaultSettings>TODO</RestoreToDefaultSettings>
+  <!-- EN: Your options have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>TODO</ResetAndRestart>
+  
+  <!-- UNUSED -->
+  <MaxNumberOfPlayerHomes>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerHomes>
   <Privacy>Yksityisyys</Privacy>
   <UserName>Käyttäjänimi</UserName>
   <ChooseHistoryUploadPref>Salli pelitietojen lähetys</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Käyttäjien pelaamistiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään {0} pelissä kuluvan päivän välein (ja joissain harvoissa tapauksissa, kuten pelin lopussa) RimWorldin palvelimille analysoitavaksi. Lähetetyt pelaamistiedot koostuvat vain tilastoista ja historiasta peliin liittyen - mitään henkilökohtaisia tietoja ei lähetetä, antamaasi käyttäjänimeä lukuunottamatta, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
-
-  <!-- Mods -->
-  <SelectMod>Valitse modi...</SelectMod>
-  <NoConfigurableMods>Yhtään muokattavissa olevaa modia ei ole ladattu.</NoConfigurableMods>
 
 </LanguageData>

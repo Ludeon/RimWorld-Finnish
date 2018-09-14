@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede -->
+  <Mech_Centipede.label>tuhatjalkainen</Mech_Centipede.label>
+  <Mech_Centipede.labelPlural>centipedes</Mech_Centipede.labelPlural>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>TODO</Mech_Lancer.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>viikatemies</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>scythers</Mech_Scyther.labelPlural>
+  
+</LanguageData>

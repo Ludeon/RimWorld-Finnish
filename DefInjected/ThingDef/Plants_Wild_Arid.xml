@@ -1,19 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Wild - clustering bushes (some harvestable) -->
-
-  <PlantAgave.label>agaave</PlantAgave.label>
-  <PlantAgave.description>Suurilehtinen aavikkokasvi, jonka kukat ja varret ovat syötäviä.</PlantAgave.description>
-
-
-  <!-- Wild - Cacti -->
-
-  <PlantSaguaroCactus.label>jättikaktus</PlantSaguaroCactus.label>
-  <PlantSaguaroCactus.description>Suuri kaktus, joka on kuivien alueiden asukas.</PlantSaguaroCactus.description>
-
-  <PlantPincushionCactus.label>neulatyynykaktus</PlantPincushionCactus.label>
-  <PlantPincushionCactus.description>Lyhyt kaktus, nimensä mukaisesti muistuttaa neulatyynyä.</PlantPincushionCactus.description>
-
-
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>agaave</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>Suurilehtinen aavikkokasvi, jonka kukat ja varret ovat syötäviä.</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>neulatyynykaktus</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>Lyhyt kaktus, nimensä mukaisesti muistuttaa neulatyynyä.</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>jättikaktus</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>Suuri kaktus, joka on kuivien alueiden asukas.</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>TODO</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>TODO</Plant_TreeDrago.description>
+  
 </LanguageData>

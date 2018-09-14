@@ -1,30 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: afro -->
   <Afro.label>afrokampaus</Afro.label>
+  
+  <!-- EN: bob -->
   <Bob.label>polkkatukka</Bob.label>
-  <Burgundy.label>burgunditukka</Burgundy.label>
-  <Flowy.label>virtaava</Flowy.label>
-  <Long.label>pitkä</Long.label>
-  <Mohawk.label>irokeesi</Mohawk.label>
-  <Mop.label>moppi</Mop.label>
-  <Pigtails.label>letit</Pigtails.label>
-  <Shaved.label>ajeltu</Shaved.label>
-  <Spikes.label>piikikäs</Spikes.label>
-  <Tuft.label>töyhtö</Tuft.label>
-  <Wavy.label>aaltoileva</Wavy.label>
+  
+  <!-- EN: braided knot -->
   <BraidedKnot.label>palmikko</BraidedKnot.label>
-  <Topdog.label>topdog</Topdog.label>
-  <Senorita.label>senorita</Senorita.label>
-  <ScorpionTail.label>skorpionin häntä</ScorpionTail.label>
+  
+  <!-- EN: brief ponytail -->
   <BriefPonytail.label>poninhäntä</BriefPonytail.label>
-  <Troubadour.label>trubaduuri</Troubadour.label>
-  <Messy.label>sotkuinen</Messy.label>
-  <Princess.label>prinsessa</Princess.label>
-  <Firestarter.label>kapinallinen</Firestarter.label>
-  <GreasySwoop.label>rasvattu letti</GreasySwoop.label>
+  
+  <!-- EN: burgundy -->
+  <Burgundy.label>burgunditukka</Burgundy.label>
+  
+  <!-- EN: curly -->
   <Curly.label>kihara</Curly.label>
+  
+  <!-- EN: firestarter -->
+  <Firestarter.label>kapinallinen</Firestarter.label>
+  
+  <!-- EN: flowy -->
+  <Flowy.label>virtaava</Flowy.label>
+  
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>rasvattu letti</GreasySwoop.label>
+  
+  <!-- EN: long -->
+  <Long.label>pitkä</Long.label>
+  
+  <!-- EN: messy -->
+  <Messy.label>sotkuinen</Messy.label>
+  
+  <!-- EN: mohawk -->
+  <Mohawk.label>irokeesi</Mohawk.label>
+  
+  <!-- EN: mop -->
+  <Mop.label>moppi</Mop.label>
+  
+  <!-- EN: pigtails -->
+  <Pigtails.label>letit</Pigtails.label>
+  
+  <!-- EN: princess -->
+  <Princess.label>prinsessa</Princess.label>
+  
+  <!-- EN: scatman -->
   <Scatman.label>scatman</Scatman.label>
-
-
+  
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>skorpionin häntä</ScorpionTail.label>
+  
+  <!-- EN: senorita -->
+  <Senorita.label>senorita</Senorita.label>
+  
+  <!-- EN: shaved -->
+  <Shaved.label>ajeltu</Shaved.label>
+  
+  <!-- EN: spikes -->
+  <Spikes.label>piikikäs</Spikes.label>
+  
+  <!-- EN: topdog -->
+  <Topdog.label>topdog</Topdog.label>
+  
+  <!-- EN: troubadour -->
+  <Troubadour.label>trubaduuri</Troubadour.label>
+  
+  <!-- EN: tuft -->
+  <Tuft.label>töyhtö</Tuft.label>
+  
+  <!-- EN: wavy -->
+  <Wavy.label>aaltoileva</Wavy.label>
+  
 </LanguageData>

@@ -1,29 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <FilthDirt.label>multaa</FilthDirt.label>
-  <FilthAnimalFilth.label>eläimen saastaa</FilthAnimalFilth.label>
-  <FilthSand.label>hiekkaa</FilthSand.label>
-  <RockRubble.label>kiviröykkiö</RockRubble.label>
-  <BuildingRubble.label>rakennuksen jäänteet</BuildingRubble.label>
-  <SlagRubble.label>scattered slag</SlagRubble.label>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>lapsivettä</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>eläimen saastaa</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>ash</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>verta</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>bugblood</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>corpse bile</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>multaa</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>palovaahtoa</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>fuel puddle</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Burns on the ground.</Filth_Fuel.description>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>rakennuksen jäänteet</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>kiviröykkiö</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>hiekkaa</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>limaa</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>TODO</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>oksennusta</Filth_Vomit.label>
+  
+  <!-- EN: scattered sandbags -->
   <SandbagRubble.label>hajonneita hiekkasäkkejä</SandbagRubble.label>
-
-
-  <!-- Fluids etc -->
-
-  <FilthBlood.label>verta</FilthBlood.label>
-  <FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
-  <FilthAmnioticFluid.label>lapsivettä</FilthAmnioticFluid.label>
-  <FilthSlime.label>limaa</FilthSlime.label>
-  <FilthVomit.label>oksennusta</FilthVomit.label>
-  <FilthFireFoam.label>palovaahtoa</FilthFireFoam.label>
-
-  <FilthFuel.label>fuel puddle</FilthFuel.label>
-  <FilthFuel.description>Burns on the ground.</FilthFuel.description>
-
-  <FilthCorpseBile.label>corpse bile</FilthCorpseBile.label>
-  <FilthAsh.label>ash</FilthAsh.label>
-
-
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>scattered slag</SlagRubble.label>
+  
 </LanguageData>

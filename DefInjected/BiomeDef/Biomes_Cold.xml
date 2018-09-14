@@ -1,17 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: boreal forest -->
   <BorealForest.label>havumetsä</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
   <BorealForest.description>Havupuumetsiä. Ankarista talvista huolimatta havupuumetsissä on monimuotoinen kanta pieniä ja suuria eläimiä. Lumi tekee talvella liikkumisesta äärimäisen hidasta.</BorealForest.description>
-
-  <Tundra.label>tundra</Tundra.label>
-  <Tundra.description>Näillä enimmäkseen jäätyneillä tasangoilla ei ole juurikaan puita tai kasvillisuutta. Pieniä eläimiä on suurten vaeltavien laidunlaumojen ja niiden saalistajien lomassa. Lumi tekee talvella liikkumisesta äärimäisen hidasta.</Tundra.description>
-
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>TODO</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>TODO</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
   <IceSheet.label>mannerjää</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
   <IceSheet.description>Maaperä on peittynyt jopa kilometrien paksuisten jääkerrosten alle. Täällä ei ole yhteyttä maahan tai kallioon, joten täällä ei ole kasveja. Ainoat täällä olevat eläimet ovat vaeltamassa muualle - tai pahasti hukassa. Lumi hidastaa liikkumista, mutta paikoin on alavaa jäätikköä, jolla on helppo kävellä.</IceSheet.description>
-
+  
+  <!-- EN: sea ice -->
   <SeaIce.label>merellinen jää</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
   <SeaIce.description>Pysyviä vedessä kelluvia jäävuoria. Täällä ei ole maaperää, kasveja, mineraaleja, ja erittäin vähän eläimiä. Liikkuminen hidasta syvän lumen ja railojen takia.</SeaIce.description>
-
-
+  
+  <!-- EN: tundra -->
+  <Tundra.label>tundra</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Näillä enimmäkseen jäätyneillä tasangoilla ei ole juurikaan puita tai kasvillisuutta. Pieniä eläimiä on suurten vaeltavien laidunlaumojen ja niiden saalistajien lomassa. Lumi tekee talvella liikkumisesta äärimäisen hidasta.</Tundra.description>
+  
 </LanguageData>

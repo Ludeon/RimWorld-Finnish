@@ -1,19 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: heatstroke -->
   <Heatstroke.label>lämpöhalvaus</Heatstroke.label>
-  <Heatstroke.stages.0.label>initial-hidden</Heatstroke.stages.0.label>
-  <Heatstroke.stages.1.label>esiaste</Heatstroke.stages.1.label>
-  <Heatstroke.stages.2.label>vähäinen</Heatstroke.stages.2.label>
-  <Heatstroke.stages.3.label>vakava</Heatstroke.stages.3.label>
-  <Heatstroke.stages.4.label>äärimmäinen</Heatstroke.stages.4.label>
-
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>initial-hidden</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>esiaste</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>vähäinen</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>vakava</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>äärimmäinen</Heatstroke.stages.extreme.label>
+  
+  <!-- EN: hypothermia -->
   <Hypothermia.label>hypotermia</Hypothermia.label>
-  <Hypothermia.stages.0.label>shivering-hidden</Hypothermia.stages.0.label>
-  <Hypothermia.stages.1.label>värisevä</Hypothermia.stages.1.label>
-  <Hypothermia.stages.2.label>vähäinen</Hypothermia.stages.2.label>
-  <Hypothermia.stages.3.label>vakava</Hypothermia.stages.3.label>
-  <Hypothermia.stages.4.label>äärimmäinen</Hypothermia.stages.4.label>
-
-
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>shivering-hidden</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>värisevä</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>vähäinen</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>vakava</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>äärimmäinen</Hypothermia.stages.extreme.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>TODO</HypothermicSlowdown.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-0.label>TODO</HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-1.label>TODO</HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <HypothermicSlowdown.stages.moderate.label>TODO</HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <HypothermicSlowdown.stages.serious.label>TODO</HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <HypothermicSlowdown.stages.extreme.label>TODO</HypothermicSlowdown.stages.extreme.label>
+  
 </LanguageData>
