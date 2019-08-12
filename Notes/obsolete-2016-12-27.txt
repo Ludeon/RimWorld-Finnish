@@ -1,0 +1,603 @@
+List of obsolete tags in this translation. These tags have been removed from the game 
+or have changed their name.
+
+DefInjected\BodyPartGroupDef\BodyPartGroups.xml
+    <CoveredByNaturalArmor.label>luonnollisen panssarin peittämä</CoveredByNaturalArmor.label>
+
+DefInjected\ConceptDef\Concepts_Alerts.xml
+    <BuildOrbitalTradeBeacon.helpTexts.0>Lähettääksesi tavaroita tai hopeaa kiertoratakauppiaille sinun täytyy rakentaa KIERTORATAVAIHTOKAUPAN MAJAKKA ja asettaa sen ympärille varastoalue.</BuildOrbitalTradeBeacon.helpTexts.0>
+    <CameraZoom.helpTexts.0>Lähennä ja loitonna kuvaa käyttämällä HIIREN RULLAA tai T- ja G-näppäimiä.</CameraZoom.helpTexts.0>
+    <EquippingWeapons.helpTexts.0>Yhdyskuntalaisesi toivat mukanaan aseita. Ota ne käyttöön!\n\nValitse vuorotellen kukin yhdyskuntalainen ja paina hiiren oikealla näppäimellä asetta jonka haluat heidän ottavan käyttöön.</EquippingWeapons.helpTexts.0>
+    <Forbidding.helpTexts.0>Yhdyskuntalaisesi eivät tee mitään esineillä jotka on merkitty KIELLETYIKSI.\n\nValitse ruoka ja metalli laskeutumisalueesi lähistöllä ja paina F SALLIAKSESI ne.</Forbidding.helpTexts.0>
+    <GrowingFood.helpTexts.0>Määritä KASVATUSALUE Arkkitehti-valikosta kasvattaaksesi ruokaa.\n\nNe voidaan määrittää vain hedelmällisille alueille.</GrowingFood.helpTexts.0>
+    <HistoryTab.helpTexts.0>Voit nähdä tiedot yhdyskuntasi ajan mittaan keräämistä varoista HISTORIA-välilehdestä YLEISKATSAUS-ikkunassa.</HistoryTab.helpTexts.0>
+    <HomeArea.helpTexts.0>KOTIALUE kertoo yhdyskuntalaisille mitkä alueet tulee siivota ja missä sammuttaa tulipalot.\n\nMääritä KOTIALUE Alueet-kategoriasta Arkkitehti-valikossa.</HomeArea.helpTexts.0>
+    <InfoCard.helpTexts.0>Tietokortissa on yksityiskohtaisia tietoja mistä tahansa esineestä, henkilöstä tai rakennelmasta.\n\nValitse henkilö tai esine ja avaa sen tietokortti painamalla 'i' kuvaketta tarkastelupaneelissa ruudun vasemmassa alakulmassa.</InfoCard.helpTexts.0>
+    <MedicalOperations.helpTexts.0>Määrätäksesi lääkintäoperaation kuten elimenkeräyksen tai proteesin asentamisen avaa yhdyskuntalaisen TERVEYS-välilehti ja vaihda sitten OPERAATIOT.</MedicalOperations.helpTexts.0>
+    <PrisonerTab.helpTexts.0>Avaa vangin Vanki-välilehti määritelläksesi miten häntä kohdellaan.\n\nTarvitsen yhdyskuntalaisen, jolle on asetettu Vanginvartiointi-työ, vangeista huolehtimiseksi.</PrisonerTab.helpTexts.0>
+    <RightClickClearLetter.helpTexts.0>Voit nopeasti hankkiutua eroon tulevista viesteistä painamalla niitä hiiren oikealla näppäimellä.</RightClickClearLetter.helpTexts.0>
+    <RightClickClearLetter.label>Opettele viestien poistaminen hiiren oikealla näppäimellä</RightClickClearLetter.label>
+    <SetGrowingZonePlant.helpTexts.0>Voit määritellä mitä kasvatusalueelle kylvetään. Voit jopa kasvattaa puita!\n\nValitse vain kasvatusalue, avaa Kasvatus-välilehti ja paina Istuta-nappia.</SetGrowingZonePlant.helpTexts.0>
+    <SpacePause.helpTexts.0>Pain VÄLILYÖNTIÄ pysäyttääksesi tai jatkaaksesi peliä.\n\nVoit antaa käskyjä kun peli on pysäytetty.\n\nPidä tämä mielessä - jos pelistä tulee liian hektinen, paina VÄLILYÖNTIÄ!</SpacePause.helpTexts.0>
+    <SpacePause.label>Opettele ajan pysäyttäminen välilyönnillä</SpacePause.label>
+    <Stockpiles.helpTexts.0>Yhdyskuntalaisesi tarvitsevat alueen mihin varastoida esineitä. Merkitse VARASTOALUE heille johon varastoida esineitä.\n\nLöydät varastoalueen ALUEET osiossa ARKKITEHTI -valikossa alavasemmalla.</Stockpiles.helpTexts.0>
+    <StoragePriority.helpTexts.0>Voit vaihtaa varaston PRIORITEETTIA. Yhdyskuntalaiset täyttävät korkeamman prioriteetin varastot ensin.</StoragePriority.helpTexts.0>
+    <StoragePriority.label>Opettele varastojen prioriteetti</StoragePriority.label>
+    <StorageTab.helpTexts.0>Voit muokata varastoalueiden ja -rakennelmien asetuksia valitsemalla ne ja avaamalla VARASTO-välilehden tarkastelupaneelin yläpuolelta ruudun vasemmassa alakulmassa.</StorageTab.helpTexts.0>
+    <TimeControls.helpTexts.0>Voit nopeuttaa, hidastaa tai pysäyttää ajan käyttämällä ruudun oikeassa alakulmassa olevilla aikakontrolleilla.</TimeControls.helpTexts.0>
+    <WorkTab.helpTexts.0>Voit asettaa jokaisen yhdyskuntalaisen työasetukset TYÖT-näkymässä ruudun vasemmassa alakulmassa.\n\nHe tekevät aina löytämänsä korkeimman prioriteetin työn.\n\nJos kenelläkään ei ole jotain työtä asetettuna, tai he ovat tekemässä korkeamman prioriteetin töitä, työ ei tule koskaan tehdyksi.</WorkTab.helpTexts.0>
+
+DefInjected\ConceptDef\Concepts_Entry.xml
+    <WorldCameraMovement.helpTexts.0>Lähennä ja loitonna maailmankarttaa HIIREN RULLALLA tai PAGEUP/PAGEDOWN-näppäimillä.\n\nSiirrä kuvaa WASD- tai NUOLINÄPPÄIMILLÄ tai painamalla HIIREN RULLAA ja vetämällä.</WorldCameraMovement.helpTexts.0>
+
+DefInjected\ConceptDef\Concepts_Noted.xml
+    <AnimalTraining.helpTexts.0>Voit määrätä kesyn eläimen koulutettavaksi teittyihin tehtäviin sen KOULUTTAMINEN-välilehdessä.\n\nEläimiä ei voi kouluttaa jatkuvasti; ne tarvitsevat aikaa koulutussessioiden välissä.</AnimalTraining.helpTexts.0>
+    <AnimalsDontAttackDoors.helpTexts.0>Ihmisiä jahtaavat eläimet eivät yleensä hyökkää ovien tai sammutettujen tykkitornien kimppuun.\n\nVoit paeta niiltä hankkiutumalla sisätiloihin tai muurin taakse. Mutta ne odottavat kyllä.</AnimalsDontAttackDoors.helpTexts.0>
+    <BillsTab.helpTexts.0>Saadaksesi yhdyskuntalaisen työskentelemään pöydän ääressä valitse pöytä ja avaa Tilaukset-välilehti. Sielllä voit määrätä mitä aterioita valmistetaan, mitä käsitöitä tehdään ja mitä eläimiä teurastetaan.</BillsTab.helpTexts.0>
+    <CameraDolly.helpTexts.0>Liikuta kameraa painamalla HIIREN RULLAA ja pitämällä sitä pohjassa tai WASD-näppäimillä.</CameraDolly.helpTexts.0>
+    <Capturing.helpTexts.0>Vihollinen on liikuntakyvytön. Voit kaapata hänet!</Capturing.helpTexts.0>
+    <Capturing.helpTexts.1>Jotta voit kaapata, valitse yhdyskuntalainen, paina liikuntakyvyttöntä vihollista hiiren oikealla näppäimellä ja valitse Kaappaa.\n\nTarvitsen ylimääräisen sängyn joka on merkitty vankien käyttöön.</Capturing.helpTexts.1>
+    <ClickingMessages.helpTexts.0>Voit klikata ruudun vasemmassa ylälaidassa keskittääksesi kuvan välittömästi niiden kohteeseen.</ClickingMessages.helpTexts.0>
+    <Deterioration.helpTexts.0>Ulos jätetyt tavarat hajoavat hiljalleen.\n\nJos haluat säilyttää esineitä pitkällä tähtäimellä pidä ne katon alla.</Deterioration.helpTexts.0>
+    <Drafting.helpTexts.0>Ohjataksesi yhdyskuntalaista suoraan taistelussa Värvää heidät valitsemalla heidät ja painamalla VÄRVÄÄ-nappia.</Drafting.helpTexts.0>
+    <Drafting.helpTexts.1>Värvätty yhdyskuntalainen tekee vain sen minkä käsket ja noudattaa vain taistelukäskyjä. Aseistetut yhdyskuntalaiset käyttävät niitä kun mahdollista.\n\nÄlä jätä yhdyskuntalaisia Värvätyiksi ikuisesti - he nääntyvät nälkään ja tulevat suruullisiksi.</Drafting.helpTexts.1>
+    <HostilityResponse.helpTexts.0>Voit määrittää miten yhdyskuntalaisten tulisi automaattisesti vastata uhkiin, kuten metsästäviin eläimiin.\n\nValitse PAKENE, HYÖKKÄÄ tai ÄLÄ VÄLITÄ -tilojen välillä MÄÄRÄYKSET-valikossa.</HostilityResponse.helpTexts.0>
+    <InspectRoomStats.helpTexts.0>Voit tarkistaa yksittäisten huoneiden vaikuttavuuden, vaurauden ja kauneuden laittamalla ruudun oikeassa alalaidassa olevan HUONEIDEN TILASTOJEN TARKISTAMINEN -valinnan päälle.</InspectRoomStats.helpTexts.0>
+    <InteractingWithTraders.helpTexts.0>Voit keskustella henkilöiden kanssa joilla on ? pään päällä.\n\nValitse yhdyskuntalainen ja paina hiiren oikeaa nappia hahmoa jolla on ? yläpuolellaan.</InteractingWithTraders.helpTexts.0>
+    <Mining.helpTexts.0>Voit määrittää louhintapaikan avaamalla ARKKITEHTI-valikon ja valitsemalla MÄÄRÄYKSET-välilehden.\n\nJoistan louhittavista kivistä tulee TERÄSTÄ, KULTAA, MUOVITERÄSTÄ ja muita hyödyllisiä materiaaleja.</Mining.helpTexts.0>
+    <OpeningComms.helpTexts.0>Kommunikoidaksesi valitse työkelpoinen yhdyskuntalainen ja paina konsolia hiiren oikealla näppäimellä.</OpeningComms.helpTexts.0>
+    <Rescuing.helpTexts.0>Pelastaaksesi haavoittuneen yhdyskuntalaisen valitse terve yhdyskuntalainen ja paina haavoittunutta hiiren oikealla näppäimellä.</Rescuing.helpTexts.0>
+    <StorageTabCategories.helpTexts.0>Varastoalueen Varasto-välilehdessä voit avata kategorioita salliaksesi ja estääksesi tietyt esineet. Paina kategorioiden nimien vasemmalla puolella olevia kolmioita.</StorageTabCategories.helpTexts.0>
+    <TVForSickPeople.helpTexts.0>Laita sairaille ihmisille TV jota he voivat katsoa viihdyttääksesi heitä sängyssä.</TVForSickPeople.helpTexts.0>
+
+DefInjected\ConceptDef\Concepts_TriggeredModal.xml
+    <ArrestingCreatesEnemies.helpTexts.0>Varoitus: Henkilö jota yrität pidättää ei välttämättä antaudu taistelutta.\n\nJos pidätät yhdyskuntaan kuulumattoman henkilön heidän koko ryhmästänsä tulee vihollisesi.</ArrestingCreatesEnemies.helpTexts.0>
+    <SwitchFlickingDesignation.helpTexts.0>Huomaa: Tämä vain merkitsee, että yhdyskuntalaisen tulee kääntää kytkin.\n\nMitään ei tapahdu ennen kuin yhdyskuntalainen (jolla on Kytkijä-työ) tulee ja kääntää kytkimen käsin.</SwitchFlickingDesignation.helpTexts.0>
+    <TradeGoodsMustBeNearBeacon.helpTexts.0>Lähettääksesi tavaroita ja hopeaa kiertoradan vaihtokauppiaille sinun täytyy rakentaa KIERTORATAVAIHTOKAUPAN MAJAKKA ja asettaa tavarat varastoalueelle sen lähelle.</TradeGoodsMustBeNearBeacon.helpTexts.0>
+
+DefInjected\DamageDef\Damages_Healing.xml
+    <HealGlobal.label>hoidetaan kokovartalovammaa</HealGlobal.label>
+    <HealInjury.label>hoidetaan paikallista vammaa</HealInjury.label>
+    <RestoreBodyPart.label>korvataan ruumiinosaa</RestoreBodyPart.label>
+
+DefInjected\DifficultyDef\Difficulties.xml
+    <Basebuilder.description>Pelitila joka keskittyy tukikohdan rakentamiseen. Uhkia on vähennetty aika paljon.</Basebuilder.description>
+    <Basebuilder.label>Tukikohdan rakentaja</Basebuilder.label>
+    <Challenge.description>Haastava pelitila. Tämä taso vaatii suunnittelua, taktikointia ja onnea selviytymiseen. Tapa jolla RimWorldia on tarkoitus pelata.</Challenge.description>
+    <Challenge.label>Haaste</Challenge.label>
+    <Extreme.description>Kova kuin timanttiteräinen tikari. Viholliset ovat vahvoja, hinnat ovat huonoja, ruokaa on vähän ja yhdyskuntalaiset ovat ärtyisiä. Niille jotka nauttivat digitaalisesta kärsimyksestä.</Extreme.description>
+    <Extreme.label>Äärimmäinen</Extreme.label>
+    <FreePlay.description>Pelitila joka keskittyy yhdyskunnan rakentamiseen hiekkalaatikkomaisessa empäristössä. Uhkia ilmestyy, mutta ne ovat erittäin heikkoja.</FreePlay.description>
+    <FreePlay.label>Vapaa peli</FreePlay.label>
+    <Rough.description>Tämä on kovakourainen planeetta. Uhkat voivat olla aika vaarallisia eikä yhdyskuntalaisten mielialaan tai satojen kokoon ole bonuksia.</Rough.description>
+    <Rough.label>Hankala</Rough.label>
+
+DefInjected\FactionDef\Factions.xml
+    <Colony.description>Teidän oma yhteisönne.</Colony.description>
+    <Colony.label>yhdyskunta</Colony.label>
+    <Colony.pawnsPlural>yhdyskuntalaisia</Colony.pawnsPlural>
+
+DefInjected\HediffDef\Hediffs_Chronic.xml
+    <HeartArteryBlockage.stages.5.label>äärimmäinen</HeartArteryBlockage.stages.5.label>
+
+DefInjected\HediffDef\Hediffs_Drugs.xml
+    <Alcohol.stages.0.label>buzzed-hidden</Alcohol.stages.0.label>
+    <Alcohol.stages.1.label>lämmin</Alcohol.stages.1.label>
+    <Alcohol.stages.2.label>humaltunut</Alcohol.stages.2.label>
+    <Alcohol.stages.3.label>juopunut</Alcohol.stages.3.label>
+    <Alcohol.stages.4.label>jurrissa</Alcohol.stages.4.label>
+    <Alcohol.stages.5.label>sammunut</Alcohol.stages.5.label>
+    <Hangover.stages.3.label>hidden-drunk</Hangover.stages.3.label>
+
+DefInjected\HediffDef\Hediffs_GlobalMisc.xml
+    <Concussion.label>aivotärähdys</Concussion.label>
+
+DefInjected\HediffDef\Hediffs_Infections.xml
+    <Flu.stages.4.label>äärimmäinen</Flu.stages.4.label>
+    <Malaria.stages.4.label>äärimmäinen</Malaria.stages.4.label>
+    <Plague.stages.5.label>äärimmäinen</Plague.stages.5.label>
+    <SleepingSickness.stages.6.label>äärimmäinen</SleepingSickness.stages.6.label>
+    <WoundInfection.stages.4.label>äärimmäinen</WoundInfection.stages.4.label>
+
+DefInjected\HediffDef\Hediffs_Injuries.xml
+    <Bite.comps.0.labelSolidTended>huonosti asetettu</Bite.comps.0.labelSolidTended>
+    <Bite.comps.0.labelTended>huonosti sidottu</Bite.comps.0.labelTended>
+    <Bite.comps.0.labelTendedInner>huonosti ommeltu</Bite.comps.0.labelTendedInner>
+    <BrainDamage.comps.0.oldLabel>aivovaurio</BrainDamage.comps.0.oldLabel>
+    <BrainDamage.injuryProps.destroyedLabel>Vaurioitunut</BrainDamage.injuryProps.destroyedLabel>
+    <BrainDamage.label>aivovaurio</BrainDamage.label>
+    <Bruise.comps.0.labelSolidTended>huonosti asetettu</Bruise.comps.0.labelSolidTended>
+    <Bruise.comps.0.labelTended>huonosti sidottu</Bruise.comps.0.labelTended>
+    <Bruise.comps.0.labelTendedInner>huonosti ommeltu</Bruise.comps.0.labelTendedInner>
+    <Burn.comps.0.labelSolidTended>huonosti asetettu</Burn.comps.0.labelSolidTended>
+    <Burn.comps.0.labelTended>huonosti sidottu</Burn.comps.0.labelTended>
+    <Burn.comps.0.labelTendedInner>huonosti ommeltu</Burn.comps.0.labelTendedInner>
+    <Crack.comps.0.labelSolidTended>huonosti asetettu</Crack.comps.0.labelSolidTended>
+    <Crack.comps.0.labelTended>huonosti parannettu</Crack.comps.0.labelTended>
+    <Crack.comps.0.labelTendedInner>huonosti parannettu</Crack.comps.0.labelTendedInner>
+    <Crush.comps.0.labelSolidTended>huonosti asetettu</Crush.comps.0.labelSolidTended>
+    <Crush.comps.0.labelTended>huonosti sidottu</Crush.comps.0.labelTended>
+    <Crush.comps.0.labelTendedInner>huonosti ommeltu</Crush.comps.0.labelTendedInner>
+    <Cut.comps.0.labelSolidTended>huonosti asetettu</Cut.comps.0.labelSolidTended>
+    <Cut.comps.0.labelTended>huonosti sidottu</Cut.comps.0.labelTended>
+    <Cut.comps.0.labelTendedInner>huonosti ommeltu</Cut.comps.0.labelTendedInner>
+    <Frostbite.comps.0.labelSolidTended>huonosti asetettu</Frostbite.comps.0.labelSolidTended>
+    <Frostbite.comps.0.labelTended>huonosti sidottu</Frostbite.comps.0.labelTended>
+    <Frostbite.comps.0.labelTendedInner>huonosti ommeltu</Frostbite.comps.0.labelTendedInner>
+    <Gunshot.comps.0.labelSolidTended>huonosti asetettu</Gunshot.comps.0.labelSolidTended>
+    <Gunshot.comps.0.labelTended>huonosti sidottu</Gunshot.comps.0.labelTended>
+    <Gunshot.comps.0.labelTendedInner>huonosti ommeltu</Gunshot.comps.0.labelTendedInner>
+    <Misc.comps.0.labelSolidTended>huonosti asetettu</Misc.comps.0.labelSolidTended>
+    <Misc.comps.0.labelTended>huonosti sidottu</Misc.comps.0.labelTended>
+    <Misc.comps.0.labelTendedInner>huonosti ommeltu</Misc.comps.0.labelTendedInner>
+    <Scratch.comps.0.labelSolidTended>huonosti asetettu</Scratch.comps.0.labelSolidTended>
+    <Scratch.comps.0.labelTended>huonosti sidottu</Scratch.comps.0.labelTended>
+    <Scratch.comps.0.labelTendedInner>huonosti ommeltu</Scratch.comps.0.labelTendedInner>
+    <Shredded.comps.0.labelSolidTended>huonosti asetettu</Shredded.comps.0.labelSolidTended>
+    <Shredded.comps.0.labelTended>huonosti sidottu</Shredded.comps.0.labelTended>
+    <Shredded.comps.0.labelTendedInner>huonosti ommeltu</Shredded.comps.0.labelTendedInner>
+    <Stab.comps.0.labelSolidTended>huonosti asetettu</Stab.comps.0.labelSolidTended>
+    <Stab.comps.0.labelTended>huonosti sidottu</Stab.comps.0.labelTended>
+    <Stab.comps.0.labelTendedInner>huonosti ommeltu</Stab.comps.0.labelTendedInner>
+    <SurgicalCut.comps.0.labelSolidTended>huonosti asetettu</SurgicalCut.comps.0.labelSolidTended>
+    <SurgicalCut.comps.0.labelTended>huonosti sidottu</SurgicalCut.comps.0.labelTended>
+    <SurgicalCut.comps.0.labelTendedInner>huonosti ommeltu</SurgicalCut.comps.0.labelTendedInner>
+
+DefInjected\InteractionDef\Interactions_Prisoner.xml
+    <PrisonerFriendlyChat.label>keskustelu vangin kanssa</PrisonerFriendlyChat.label>
+	<PrisonerFriendlyChat.logRulesInitiator.rulesStrings>
+		<li>logentry->Yritti vakuuttaa vankia [other_nameShortIndef] yhdyskunnan hyvyydestä.</li>
+	</PrisonerFriendlyChat.logRulesInitiator.rulesStrings>
+	<PrisonerFriendlyChat.logRulesRecipient.rulesStrings>
+		<li>logentry->Kuunteli henkilön [other_nameShortIndef] kertovan siitä miten mukava yhdyskunta on.</li>
+	</PrisonerFriendlyChat.logRulesRecipient.rulesStrings>
+
+DefInjected\KeyBindingDef\KeyBindings.xml
+    <DebugTickOnce.label>etene yksi askel (debug)</DebugTickOnce.label>
+    <ToggleLog.label>näytä / piilota loki</ToggleLog.label>
+
+DefInjected\MainTabDef\MainTabs.xml
+    <Statistics.description>Käy läpi tilastotietoja yhdyskunnasta.</Statistics.description>
+    <Statistics.label>tilastotiedot</Statistics.label>
+
+DefInjected\MentalStateDef\MentalStates.xml
+    <Berserk.inspectLine>Mielentila: Raivopäinen</Berserk.inspectLine>
+    <BingingAlcohol.beginLetter>{0} on ryyppyputkella.</BingingAlcohol.beginLetter>
+    <BingingAlcohol.beginLetterLabel>ryyppyputki</BingingAlcohol.beginLetterLabel>
+    <BingingAlcohol.inspectLine>Mielentila: Ryyppyputki</BingingAlcohol.inspectLine>
+    <BingingAlcohol.label>ryyppyputkella</BingingAlcohol.label>
+    <BingingAlcohol.recoveryMessage>{0} ei ole enää ryyppyputkella.</BingingAlcohol.recoveryMessage>
+    <ConfusedWander.beginLetter>{0} on murtunut ja haahuilee sekavana ympäriinsä.</ConfusedWander.beginLetter>
+    <ConfusedWander.beginLetterLabel>sekava olo</ConfusedWander.beginLetterLabel>
+    <ConfusedWander.inspectLine>Mielentila: Haahuilee sekavana</ConfusedWander.inspectLine>
+    <ConfusedWander.label>sekava haahuilu</ConfusedWander.label>
+    <ConfusedWander.recoveryMessage>{0} ei ole enää sekava.</ConfusedWander.recoveryMessage>
+    <DazedWander.beginLetter>{0} on murtunut ja haahuileee hämmentyneenä ympäriinsä.</DazedWander.beginLetter>
+    <DazedWander.beginLetterLabel>hämmennys</DazedWander.beginLetterLabel>
+    <DazedWander.inspectLine>Mielentila: Haahuilee hämmentyneenä</DazedWander.inspectLine>
+    <DazedWander.label>hämmentynyt haahuilu</DazedWander.label>
+    <DazedWander.recoveryMessage>{0} ei ole enää hämmentynyt.</DazedWander.recoveryMessage>
+    <GiveUpExit.inspectLine>Mielentila: Luovuttanut ja lähdössä</GiveUpExit.inspectLine>
+    <Manhunter.inspectLine>Mielentila: Ihmisjahtaaja</Manhunter.inspectLine>
+    <PanicFlee.inspectLine>Mielentila: Pakenee paniikissa</PanicFlee.inspectLine>
+    <SocialFighting.inspectLine>Mielentila: Riitelyä</SocialFighting.inspectLine>
+    <SocialFighting.recoveryMessage>{0} ja {1} eivät enää riitele.</SocialFighting.recoveryMessage>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Arid.xml
+    <Dromedary.lifeStages.0.label>dronedaarin vasa</Dromedary.lifeStages.0.label>
+    <Elephant.lifeStages.0.label>norsunpoikanen</Elephant.lifeStages.0.label>
+    <Muffalo.lifeStages.0.label>hirvibiisonin vasa</Muffalo.lifeStages.0.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Farm.xml
+    <Chicken.labelFemale>kana</Chicken.labelFemale>
+    <Chicken.labelMale>kukko</Chicken.labelMale>
+    <Chicken.lifeStages.0.label>tipu</Chicken.lifeStages.0.label>
+    <Cow.labelFemale>lehmä</Cow.labelFemale>
+    <Cow.labelMale>sonni</Cow.labelMale>
+    <Cow.lifeStages.0.label>vasikka</Cow.lifeStages.0.label>
+    <Pig.labelFemale>emakko</Pig.labelFemale>
+    <Pig.lifeStages.0.label>porsas</Pig.lifeStages.0.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Pet.xml
+    <Cat.lifeStages.0.label>kissanpentu</Cat.lifeStages.0.label>
+    <Husky.lifeStages.0.label>husky pentu</Husky.lifeStages.0.label>
+    <LabradorRetriever.lifeStages.0.label>labradorinnoutajan pentu</LabradorRetriever.lifeStages.0.label>
+    <Warg.lifeStages.0.label>wargin pentu</Warg.lifeStages.0.label>
+    <YorkshireTerrier.lifeStages.0.label>yorkshirenterrierin pentu</YorkshireTerrier.lifeStages.0.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Temperate.xml
+    <Deer.labelFemale>doe</Deer.labelFemale>
+    <Deer.labelMale>buck</Deer.labelMale>
+    <Elk.lifeStages.0.label>hirvenvasa</Elk.lifeStages.0.label>
+    <Thrumbo.lifeStages.0.label>trumbon vasikka</Thrumbo.lifeStages.0.label>
+
+DefInjected\PawnKindDef\PawnKinds_Animal_Tropical.xml
+    <Boomalope.lifeStages.0.label>paukkuloopin vasikka</Boomalope.lifeStages.0.label>
+
+DefInjected\RecipeDef\Recipes_Drugs.xml
+    <BrewBeer.description>Pane erä olutta humalasta.</BrewBeer.description>
+    <BrewBeer.jobString>valmistaa olutta.</BrewBeer.jobString>
+    <BrewBeer.label>valmista olutta</BrewBeer.label>
+
+DefInjected\RecipeDef\Recipes_Production.xml
+    <MakeArtilleryShell.description>Valmistaa kranaatin tykeille.</MakeArtilleryShell.description>
+    <MakeArtilleryShell.jobString>Tekee tykin kranaattia.</MakeArtilleryShell.jobString>
+    <MakeArtilleryShell.label>tee tykin kranaatti</MakeArtilleryShell.label>
+    <MakeStoneBlocks.description>Leikkaa kivenlohkareita käyttökelpoisiksi harkoiksi.</MakeStoneBlocks.description>
+    <MakeStoneBlocks.jobString>Leikkaa kiveä.</MakeStoneBlocks.jobString>
+    <MakeStoneBlocks.label>tee kiviharkkoja</MakeStoneBlocks.label>
+
+DefInjected\RecordDef\Records_Time.xml
+    <TimeAsColonist.description>Total time spent as a colonist.</TimeAsColonist.description>
+    <TimeAsColonist.label>time as a colonist</TimeAsColonist.label>
+
+DefInjected\RoomStatDef\RoomStats.xml
+    <Impressiveness.scoreStages.10.label>ilmiömäisen vaikuttava</Impressiveness.scoreStages.10.label>
+    <Impressiveness.scoreStages.11.label>maailmanihme</Impressiveness.scoreStages.11.label>
+
+DefInjected\RulePackDef\RulePacks_Global.xml
+		<li>game->nopilla</li>
+		<li>game->noppapeliä</li>
+		<li>game->rulettia</li>
+		<li>game->venttiä</li>
+		<li>vegetable->tomato</li>
+		<li>vegetable->carrot</li>
+		<li>vegetable->onion</li>
+		<li>vegetable->turnip</li>
+		<li>vegetable->bok choy</li>
+		<li>vegetable->stalk of celery</li>
+		<li>vegetable->gourd</li>
+		<li>vegetable->pumpkin</li>
+		<li>vegetable->broccoli</li>
+		<li>vegetable->cauliflower</li>
+		<li>vegetable->bell pepper</li>
+		<li>vegetable->potato</li>
+		<li>vegetable->mushroom</li>
+		<li>trans->of</li>
+		<li>trans->for</li>
+		<li>trans->by</li>
+		<li>trans->with</li>
+
+DefInjected\RulePackDef\RulePacks_NameMakers_Animals.xml
+	<NamerAnimalGeneric.rulePack.rulesStrings>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[color]</li>
+		<li>name->[animalnameunisex]</li>
+		<li>name->[animalnamemale]</li>
+		<li>name->[animalnamefemale]</li>
+		<li>name->[personname]</li>
+		<li>name->[exoticname]</li>
+		<li>exoticname->[badassadjective]</li>
+		<li>exoticname->[concept]</li>
+		<li>exoticname->[badassadjective]</li>
+	</NamerAnimalGeneric.rulePack.rulesStrings>
+
+DefInjected\RulePackDef\RulePacks_NameMakers_Factions.xml
+	<NamerColony.rulePack.rulesStrings>
+		<li>name->[colonyname]</li>
+		<li>name->[badassanimal]lauma[terrainfeature]</li>
+
+DefInjected\RulePackDef\RulePacks_NameMakers_People.xml
+		<li>name->[animal] [tribalword]</li>
+		<li>name->[color] [animal]</li>
+	</NamerColony.rulePack.rulesStrings>
+
+DefInjected\SpecialThingFilterDef\SpecialThingFilters.xml
+    <AllowNonSmeltableWeapons.description>Salli aseet joita ei voi sulattaa.</AllowNonSmeltableWeapons.description>
+
+DefInjected\StatDef\Stats_Building_Special.xml
+    <MedicalTreatmentQualityFactor.description>Lääkehoidon laatu kerrotaan tällä arvolla.</MedicalTreatmentQualityFactor.description>
+    <MedicalTreatmentQualityFactor.label>lääkinnän laatukerroin</MedicalTreatmentQualityFactor.label>
+    <ResearchSpeedFactor.parts.0.customLabel>Room cleanliness</ResearchSpeedFactor.parts.0.customLabel>
+
+DefInjected\StatDef\Stats_Pawns_WorkMedical.xml
+    <BaseHealingQuality.description>Alkuarvo potilaille annetulle lääkinnälle kun tämä henkilö toimii lääkärinä.</BaseHealingQuality.description>
+    <BaseHealingQuality.label>lääkinnän laadun alkuarvo</BaseHealingQuality.label>
+
+DefInjected\StorytellerDef\Storytellers.xml
+    <Cassandra.quotation>Hyvälle tarinankerronnalle on tärkeää ponnistelun voimistumisen täydellinen kehittyminen.</Cassandra.quotation>
+    <Phoebe.quotation>Otetaan iisti ja rakennetaan.</Phoebe.quotation>
+    <Randy.quotation>Maailma on sattumanvarainen, jäbä. Tarinoidenkin pitäisi olla! Onko sinulla sytkäriä?</Randy.quotation>
+
+DefInjected\ThingCategoryDef\ThingCategories.xml
+    <BodyPartsAndImplants.label>ruumiinosat</BodyPartsAndImplants.label>
+    <Resources.label>resurssit</Resources.label>
+
+DefInjected\ThingDef\Items_Resource_Manufactured.xml
+    <ArtilleryShell.description>Ammutaan kranaatinheittimistä.</ArtilleryShell.description>
+    <ArtilleryShell.label>tykin kranaatteja</ArtilleryShell.label>
+    <Components.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</Components.description>
+    <Components.label>components</Components.label>
+
+DefInjected\ThingDef\Races_Animal_Bears.xml
+    <PolarBear_Meat.description>Raakaa jääkarhun lihaa.</PolarBear_Meat.description>
+    <PolarBear_Meat.label>jääkarhun lihaa</PolarBear_Meat.label>
+
+DefInjected\ThingDef\Races_Animal_Hares.xml
+    <Snowhare_Meat.description>Raakaa lumijäniksen lihaa.</Snowhare_Meat.description>
+    <Snowhare_Meat.label>lumijäniksen lihaa</Snowhare_Meat.label>
+
+DefInjected\ThingDef\Races_Animal_Insect.xml
+    <Megascarab_Meat.description>Raakaa jättipillerinpyörittäjän lihaa.</Megascarab_Meat.description>
+    <Megascarab_Meat.label>jättipillerinpyörittäjän lihaa</Megascarab_Meat.label>
+    <Spelopede_Meat.description>Raw flesh of a spelopede.</Spelopede_Meat.description>
+    <Spelopede_Meat.label>spelopede meat</Spelopede_Meat.label>
+
+DefInjected\ThingDef\Races_Animal_Temperate.xml
+    <WildBoar_Leather.description>Villisian vuodasta tehtyä nahkaa.</WildBoar_Leather.description>
+    <WildBoar_Leather.label>villisian nahkaa</WildBoar_Leather.label>
+    <WildBoar_Leather.stuffProps.stuffAdjective>boar leathery</WildBoar_Leather.stuffProps.stuffAdjective>
+    <WildBoar_Meat.description>Raakaa villisian lihaa.</WildBoar_Meat.description>
+    <WildBoar_Meat.label>villisian lihaa</WildBoar_Meat.label>
+
+DefInjected\ThingDef\Things_Special.xml
+    <DropPod.label>laskeutumiskapseli</DropPod.label>
+    <Explosion.label>explosion</Explosion.label>
+    <Puddle_Fuel.description>Palaa maassa.</Puddle_Fuel.description>
+    <Puddle_Fuel.label>öljyläikkä</Puddle_Fuel.label>
+
+DefInjected\ThingDef\Weapons_Guns.xml
+    <Bullet_PDW.label>konepistoolin luoti</Bullet_PDW.label>
+    <Gun_PDW.description>Muinaisen kaavan konepistooli. Lyhyt kantama, matala teho ja nopea ampumisnopeus.</Gun_PDW.description>
+    <Gun_PDW.label>konepistooli</Gun_PDW.label>
+
+DefInjected\ThoughtDef\Thoughts_ConditionsGeneral.xml
+    <Crowded.stages.0.description>Täälä on hieman liian väkirikasta.</Crowded.stages.0.description>
+    <Crowded.stages.0.label>hieman tungosta</Crowded.stages.0.label>
+    <Crowded.stages.1.description>Täällä on väkirikasta. Tuntisin oloni paljon paremmaksi jos täällä olisi enemmän vapaata tilaa.</Crowded.stages.1.description>
+    <Crowded.stages.1.label>tungosta</Crowded.stages.1.label>
+    <Crowded.stages.2.description>Tämä paikka on niin täpötäynnä että pystyn hädin tuskin hengittämään. Tarvitsen lisää tilaa.</Crowded.stages.2.description>
+    <Crowded.stages.2.label>paljon tungosta</Crowded.stages.2.label>
+
+DefInjected\ThoughtDef\Thoughts_Memories.xml
+    <AteNutrientPasteMeal.stages.0.description>Minun täytyi syödä ravinnetahnaa. Tiedän, että se pitää minut hengissä, mutta kukaan ei halua niellä sitä mönjää.</AteNutrientPasteMeal.stages.0.description>
+    <AteNutrientPasteMeal.stages.0.label>söi ravinnetahnaa</AteNutrientPasteMeal.stages.0.label>
+    <BattleWounded.stages.0.description>Tuo on minun vertani! Olen haavoittunut taistelussa!</BattleWounded.stages.0.description>
+    <BattleWounded.stages.0.label>haavoittunut</BattleWounded.stages.0.label>
+    <WitnessedDeathStranger.stages.0.description>Näin jonkun kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathStranger.stages.0.description>
+    <WitnessedDeathStranger.stages.0.label>koki vieraan kuoleman</WitnessedDeathStranger.stages.0.label>
+    <WitnessedDeathStrangerBloodlust.stages.0.description>Näin jonkun kuolevan! Se oli nastaa!</WitnessedDeathStrangerBloodlust.stages.0.description>
+    <WitnessedDeathStrangerBloodlust.stages.0.label>koki vieraan kuoleman</WitnessedDeathStrangerBloodlust.stages.0.label>
+
+DefInjected\ThoughtDef\Thoughts_MentalState.xml
+    <CurrentlyInMentalStateBerserk.stages.0.description>Must kill!</CurrentlyInMentalStateBerserk.stages.0.description>
+    <CurrentlyInMentalStateBerserk.stages.0.label>berserk thoughts</CurrentlyInMentalStateBerserk.stages.0.label>
+    <CurrentlyInMentalStatePanicFlee.stages.0.description>I have to get out of here!</CurrentlyInMentalStatePanicFlee.stages.0.description>
+    <CurrentlyInMentalStatePanicFlee.stages.0.label>panic</CurrentlyInMentalStatePanicFlee.stages.0.label>
+    <CurrentlyInMentalStateSad.stages.0.description>It's all just too much.</CurrentlyInMentalStateSad.stages.0.description>
+    <CurrentlyInMentalStateSad.stages.0.label>broken thoughts</CurrentlyInMentalStateSad.stages.0.label>
+
+DefInjected\ThoughtDef\Thoughts_Needs.xml
+    <ComfortLevel.stages.0.description>Minulla on ollut aika epämukavaa viime aikoina. Tarvitsemme tänne pehmeitä istuimia.</ComfortLevel.stages.0.description>
+    <ComfortLevel.stages.0.label>epämukavaa</ComfortLevel.stages.0.label>
+    <ComfortLevel.stages.1.description>Minun on ollut mukava olla viime aikoina.</ComfortLevel.stages.1.description>
+    <ComfortLevel.stages.1.label>mukavaa</ComfortLevel.stages.1.label>
+    <ComfortLevel.stages.2.description>Minun on ollut erittäin mukava olla viime aikoina.</ComfortLevel.stages.2.description>
+    <ComfortLevel.stages.2.label>erittäin mukavaa</ComfortLevel.stages.2.label>
+    <ComfortLevel.stages.3.description>Minun on ollut äärimmäisen mukava olla viime aikoina. Tämä paikka on niin mukava!</ComfortLevel.stages.3.description>
+    <ComfortLevel.stages.3.label>äärimmäisen mukavaa</ComfortLevel.stages.3.label>
+    <ComfortLevel.stages.4.description>Lepään taivaan pilvien päällä.</ComfortLevel.stages.4.description>
+    <ComfortLevel.stages.4.label>luksusmaisen mukavaa</ComfortLevel.stages.4.label>
+    <EnvironmentCramped.stages.0.description>Tämä paikka on todella sulkeinen. Tunnen kuin minulla ei olisi ollenkaan tilaa hengittää.</EnvironmentCramped.stages.0.description>
+    <EnvironmentCramped.stages.0.label>ahdas ympäristö</EnvironmentCramped.stages.0.label>
+    <EnvironmentCramped.stages.1.description>Täällä on erittäin ahdasta. Minulla ei ole tilaa liikkua. Tunnen itseni rotaksi pienessä häkissä.</EnvironmentCramped.stages.1.description>
+    <EnvironmentCramped.stages.1.label>erittäin ahdas ympäristö</EnvironmentCramped.stages.1.label>
+    <EnvironmentPretty.stages.0.description>Tämä on hieno paikka.</EnvironmentPretty.stages.0.description>
+    <EnvironmentPretty.stages.0.label>miellyttävä ympäristö</EnvironmentPretty.stages.0.label>
+    <EnvironmentPretty.stages.1.description>Pidän todella paljon tästä paikasta. Se on kaunis.</EnvironmentPretty.stages.1.description>
+    <EnvironmentPretty.stages.1.label>erittäin miellyttävä ympäristö</EnvironmentPretty.stages.1.label>
+    <EnvironmentPretty.stages.2.description>Tämä paikka on kaunis. Se piristää minua ja saa minut rakastamaan elämää.</EnvironmentPretty.stages.2.description>
+    <EnvironmentPretty.stages.2.label>kaunis ympäristö</EnvironmentPretty.stages.2.label>
+    <EnvironmentSpaciousInterior.stages.0.description>Tämä on todella mukavan avoin sisätila.</EnvironmentSpaciousInterior.stages.0.description>
+    <EnvironmentSpaciousInterior.stages.0.label>tilavat sisätilat</EnvironmentSpaciousInterior.stages.0.label>
+    <EnvironmentUgly.stages.0.description>Täällä on epämiellyttävä olla.</EnvironmentUgly.stages.0.description>
+    <EnvironmentUgly.stages.0.label>ruma ympäristö</EnvironmentUgly.stages.0.label>
+    <EnvironmentUgly.stages.1.description>Tämä paikka on todella epämiellyttävä. En halua olla täällä.</EnvironmentUgly.stages.1.description>
+    <EnvironmentUgly.stages.1.label>erittäin ruma ympäristö</EnvironmentUgly.stages.1.label>
+    <EnvironmentUgly.stages.2.description>Tämä paikka on sietämätön. Haluan pois täältä...</EnvironmentUgly.stages.2.description>
+    <EnvironmentUgly.stages.2.label>inhottava ympäristö</EnvironmentUgly.stages.2.label>
+    <Hungry.stages.0.description>En ole syönyt hetkeen.</Hungry.stages.0.description>
+    <Hungry.stages.0.label>nälkäinen</Hungry.stages.0.label>
+    <Hungry.stages.1.description>Nälkä kalvaa sisuksiani. Tarvitsen ruokaa tai näännyn kohta nälkään.</Hungry.stages.1.description>
+    <Hungry.stages.1.label>kipeästi nälkäinen</Hungry.stages.1.label>
+    <Hungry.stages.2.description>Haluan vain jotakin - mitä tahansa - syötävää. Tunnen, kuinka ruumiini on kuihtumassa pois. Sattuu...</Hungry.stages.2.description>
+    <Hungry.stages.2.label>nälänhätä</Hungry.stages.2.label>
+    <JoyLevel.stages.0.description>Siitä on niin kauan kun viimeksi tein jotain mistä todella nautin.</JoyLevel.stages.0.description>
+    <JoyLevel.stages.0.label>täysin iloton</JoyLevel.stages.0.label>
+    <JoyLevel.stages.1.description>En saa koskaan levätä ja nautiskella itsekseni täällä.</JoyLevel.stages.1.description>
+    <JoyLevel.stages.1.label>erittäin iloton</JoyLevel.stages.1.label>
+    <JoyLevel.stages.2.description>Tarvitsisin tauon tehdäkseni jotain nautinnollista.</JoyLevel.stages.2.description>
+    <JoyLevel.stages.2.label>iloton</JoyLevel.stages.2.label>
+    <JoyLevel.stages.3.description>Minulla on ollut viime aikoina oikein hauskaa.</JoyLevel.stages.3.description>
+    <JoyLevel.stages.3.label>ilontäyteinen</JoyLevel.stages.3.label>
+    <JoyLevel.stages.4.description>Olen nauttinut olostani niin paljon, rakastan sitä!</JoyLevel.stages.4.description>
+    <JoyLevel.stages.4.label>iloa monta kiloa</JoyLevel.stages.4.label>
+    <Tired.stages.0.description>En ole nukkunut hetkeen.</Tired.stages.0.description>
+    <Tired.stages.0.label>väsynyt</Tired.stages.0.label>
+    <Tired.stages.1.description>Olen hyvin väsynyt. Haluan vain mennä makuulle ja levätä pari minuuttia...</Tired.stages.1.description>
+    <Tired.stages.1.label>erittäin väsynyt</Tired.stages.1.label>
+    <Tired.stages.2.description>Olen niin uupunut, että pysyn hädin tuskin pystyssä. Silmäluomeni ovat lyijynraskaat. Anna minun nukkua...</Tired.stages.2.description>
+    <Tired.stages.2.label>uupunut</Tired.stages.2.label>
+
+DefInjected\ThoughtDef\Thoughts_RoomStats.xml
+    <AteInImpressiveDiningRoom.stages.10.description>Söin ateriani ilmiömäisen vaikuttavassa ruokahuoneessa. Voisin olla täällä loppuikäni.</AteInImpressiveDiningRoom.stages.10.description>
+    <AteInImpressiveDiningRoom.stages.10.label>ilmiömäisen vaikuttava ruokahuone</AteInImpressiveDiningRoom.stages.10.label>
+    <AteInImpressiveDiningRoom.stages.11.description>Söin juuri ateriani parhaassa ruokahuoneessa jonka voi kuvitella. Voisin olla täällä loppuikäni.</AteInImpressiveDiningRoom.stages.11.description>
+    <AteInImpressiveDiningRoom.stages.11.label>maailmanihme</AteInImpressiveDiningRoom.stages.11.label>
+    <Barracks.stages.10.description>Minun parakkini on paras paikka jonka voi kuvitella. Se on loistava.</Barracks.stages.10.description>
+    <Barracks.stages.10.label>ilmiömäisen vaikuttava parakki</Barracks.stages.10.label>
+    <Barracks.stages.11.description>Onko tämä totta? En voi uskoa asuvani tällaisessa paikassa.</Barracks.stages.11.description>
+    <Barracks.stages.11.label>maailmanihme</Barracks.stages.11.label>
+    <Bedroom.stages.1.description>Minun makuuhuoneeni on luotaantyöntävä paikka.</Bedroom.stages.1.description>
+    <Bedroom.stages.1.label>luotaantyöntävä makuuhuone</Bedroom.stages.1.label>
+    <Bedroom.stages.10.description>Minun makuuhuoneeni on paras paikka jonka voi kuvitella. Se on loistava.</Bedroom.stages.10.description>
+    <Bedroom.stages.10.label>ilmiömäisen vaikuttava makuuhuone</Bedroom.stages.10.label>
+    <Bedroom.stages.11.description>Onko tämä totta? En voi uskoa asuvani tällaisessa paikassa.</Bedroom.stages.11.description>
+    <Bedroom.stages.11.label>maailmanihme</Bedroom.stages.11.label>
+    <JoyActivityInImpressiveRecRoom.stages.10.description>Minulla oli hauskaa ilmiömäisen vaikuttavassa olohuoneessa. Voisin olla täällä loppuikäni.</JoyActivityInImpressiveRecRoom.stages.10.description>
+    <JoyActivityInImpressiveRecRoom.stages.10.label>ilmiömäisen vaikuttava olohuone</JoyActivityInImpressiveRecRoom.stages.10.label>
+    <JoyActivityInImpressiveRecRoom.stages.11.description>Minulla oli hauskaa yhdessä parhaista olohuoneista jonka voi kuvitella. Voisin olla täällä loppuikäni.</JoyActivityInImpressiveRecRoom.stages.11.description>
+    <JoyActivityInImpressiveRecRoom.stages.11.label>maailmanihme</JoyActivityInImpressiveRecRoom.stages.11.label>
+    <PrisonBarracks.stages.10.description>Minun vankiparakkini on loistava! En voi uskoa että he pitävät minua tällaisessa huoneessa. </PrisonBarracks.stages.10.description>
+    <PrisonBarracks.stages.10.label>ilmiömäisen vaikuttava parakki</PrisonBarracks.stages.10.label>
+    <PrisonBarracks.stages.11.description>Onko tämä totta? En voi uskoa että he pitävät minua tällaisessa huoneessa. Voisin olla täällä loppuikäni.</PrisonBarracks.stages.11.description>
+    <PrisonBarracks.stages.11.label>maailmanihme</PrisonBarracks.stages.11.label>
+    <PrisonCell.stages.1.description>Minun vankisellini on luotaantyöntävä paikka.</PrisonCell.stages.1.description>
+    <PrisonCell.stages.1.label>luotaantyöntävä vankiselli</PrisonCell.stages.1.label>
+    <PrisonCell.stages.10.description>Minun vankisellini on paras paikka jonka voi kuvitella. Voisin olla täällä loppuikäni.</PrisonCell.stages.10.description>
+    <PrisonCell.stages.10.label>ilmiömäisen vaikuttava vankiselli</PrisonCell.stages.10.label>
+    <PrisonCell.stages.11.description>Onko tämä totta? En voi uskoa että he pitävät minua tällaisessa huoneessa. Voisin olla täällä loppuikäni.</PrisonCell.stages.11.description>
+    <PrisonCell.stages.11.label>maailmanihme</PrisonCell.stages.11.label>
+
+DefInjected\ThoughtDef\Thoughts_SocialConditional.xml
+    <Beautiful.stages.0.label>beautiful</Beautiful.stages.0.label>
+
+DefInjected\ThoughtDef\Thoughts_SocialInteractions.xml
+    <FailedRomanceAttempt.stages.0.label>failed romance attempt</FailedRomanceAttempt.stages.0.label>
+    <PrisonerFriendlyChat.stages.0.description>Juttelin vanginvartijan kanssa yhdyskunnasta. Kuulostaa hyvältä paikalta...</PrisonerFriendlyChat.stages.0.description>
+    <PrisonerFriendlyChat.stages.0.label>vanginvartijan vakuuttelema</PrisonerFriendlyChat.stages.0.label>
+    <Rebuffed.stages.0.label>rebuffed</Rebuffed.stages.0.label>
+
+DefInjected\TraderKindDef\TraderKinds_Caravan_Neolithic.xml
+    <Caravan_Neolithic_SlavesMerchant.label>slaves merchant</Caravan_Neolithic_SlavesMerchant.label>
+
+DefInjected\TraderKindDef\TraderKinds_Orbital_Misc.xml
+    <Orbital_Misc_BulkGoods.label>bulk goods trader</Orbital_Misc_BulkGoods.label>
+    <Orbital_Misc_CombatSupplier.label>combat supplier</Orbital_Misc_CombatSupplier.label>
+    <Orbital_Misc_Exotic.label>exotic goods trader</Orbital_Misc_Exotic.label>
+    <Orbital_Misc_PirateMerchant.label>pirate merchant</Orbital_Misc_PirateMerchant.label>
+
+DefInjected\TraitDef\Traits_Spectrum.xml
+    <Prettiness.degreeDatas.0.description>NAME is exceptionally beautiful, which makes everyone like HIM.</Prettiness.degreeDatas.0.description>
+    <Prettiness.degreeDatas.0.label>beautiful</Prettiness.degreeDatas.0.label>
+    <Prettiness.degreeDatas.1.description>NAME is staggeringly ugly, which socially repels others.</Prettiness.degreeDatas.1.description>
+    <Prettiness.degreeDatas.1.label>ugly</Prettiness.degreeDatas.1.label>
+    <TemperaturePreference.degreeDatas.0.description>Henkilön NAME ruumis tuottaa suuret määrät lämpöä. Hänellä on mukava olla lämpötiloissa jotka saisivat kenen tahansa muun värisemäään, mutta HE ei pidä kuumasta.</TemperaturePreference.degreeDatas.0.description>
+    <TemperaturePreference.degreeDatas.0.label>kylmänrakastaja</TemperaturePreference.degreeDatas.0.label>
+    <TemperaturePreference.degreeDatas.1.description>NAME kestää viileitä lämpötiloja paremmin kuin useimmat muut.</TemperaturePreference.degreeDatas.1.description>
+    <TemperaturePreference.degreeDatas.1.label>kylmää kestävä</TemperaturePreference.degreeDatas.1.label>
+    <TemperaturePreference.degreeDatas.2.description>NAME kestää kuumia lämpötiloja paremmin kuin useimmat muut.</TemperaturePreference.degreeDatas.2.description>
+    <TemperaturePreference.degreeDatas.2.label>lämpöä kestävä</TemperaturePreference.degreeDatas.2.label>
+    <TemperaturePreference.degreeDatas.3.description>NAME rakastaa kuumaa säätä - mutta HE ei kestä kylmää kovin hyvin.</TemperaturePreference.degreeDatas.3.description>
+    <TemperaturePreference.degreeDatas.3.label>kuumanrakastaja</TemperaturePreference.degreeDatas.3.label>
+
+DefInjected\WorkTypeDef\WorkTypes.xml
+    <Repair.description>Korjaajat korjaavat hajonneita rakennuksia ja varusteita.</Repair.description>
+    <Repair.gerundLabel>Korjaaminen</Repair.gerundLabel>
+    <Repair.labelShort>Korjaa</Repair.labelShort>
+    <Repair.pawnLabel>Korjaaja</Repair.pawnLabel>
+
+Keyed\Alerts.xml
+    <AndMore>lisää</AndMore>
+    <BuildARoom>Rakenna huone</BuildARoom>
+    <BuildARoomDesc>Huone koostuu erillisistä seinistä ja ovesta.\n\nKäytä ARKKITEHTI-valikkoa ruudun vasemmassa alakulmassa määrittääksesi mihin haluat rakentaa asioita. Kun olet määrittänyt jotain rakennettavaksi, yhdyskuntalaisesi rakentavat sen kun he voivat.</BuildARoomDesc>
+    <BuildingNeedsPower>Rakennus tarvitsee virtaa</BuildingNeedsPower>
+    <BuildingsNeedPower>Rakkenukset tarvitsevat virtaa</BuildingsNeedPower>
+    <BuildingsNeedPowerDesc>Nämä virtaa käyttävät rakennukset ovat irrallaan kaikista mahdollisista virranlähteistä:\n\n{0}\nYhdistä ne generaattoriin tai akkuun.</BuildingsNeedPowerDesc>
+    <LowMoodDescEnding>Tarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.</LowMoodDescEnding>
+    <NeedDump>Tarvitset kaatopaikan</NeedDump>
+    <NeedDumpDesc>Olet merkinnyt esineen {0} raahattavaksi, mutta yhdyskuntalaisillasi ei ole paikkaa minne viedä sitä.\n\nMääritä kaatopaikka ja aseta se hyväksymään samantyyppisiä tavaroita kuin {0}.</NeedDumpDesc>
+    <NeedHomeArea>Tarvitset kotialueen</NeedHomeArea>
+    <NeedHomeAreaDesc>Sinun täytyy määrittä KOTIALUE, missä yhdyskuntalaisesi siivoavat, sammuttavat paloja ja korjaavat rakennelmia.\n\nMääritä kotialue ALUEET-välilehdessä ARKKITEHTI-valikossa.</NeedHomeAreaDesc>
+    <NeedSawmill>Tarvitset sahan</NeedSawmill>
+    <NeedSawmillDesc>Tarvitset jonkinlaisen sahan jolla voit sahata puita monikäyttöisemmiksi lankuiksi.\n\nRakenna SAHA tai SÄHKÖINEN SAHA.</NeedSawmillDesc>
+    <NoTradingCapacity>Ei vaihtokapasiteettia</NoTradingCapacity>
+    <NoTradingCapacityDesc>Sinulla ei ole minkäänlaista tapaa kommunikoida mahdollisten kauppa-alusten kanssa.\n\nRakenna kommunikaatiopaneeli.</NoTradingCapacityDesc>
+    <PoorMood>Huono mieliala</PoorMood>
+    <PoorMoodDesc>Nämä yhdyskuntalaiset ovat huonolla tuulella ja saattavat saada hermoromahduksen hetkenä minä hyvänsä:\n\n{0}</PoorMoodDesc>
+    <TerribleMood>Surkea mielieala</TerribleMood>
+    <TerribleMoodDesc>Nämä yhdyskuntalaiset ovat erittäin rasittuneita ja saattavat kokea mahdollisesti väkivaltaisen hermoromahduksen minä hetkenä hyvänsä:\n\n{0}</TerribleMoodDesc>
+
+Keyed\Dialog_StatsReports.xml
+    <StatsReport_UnpoweredWorkTable>No power</StatsReport_UnpoweredWorkTable>
+
+Keyed\Dialogs_Various.xml
+    <ColonyGainsName>Yhdyskunta tunnetaan nyt nimellä {0}.</ColonyGainsName>
+    <ColonyNameIsInvalid>Tuo yhdyskunnan nimi ei ole kelvollinen.</ColonyNameIsInvalid>
+    <DragToTrade>Vedä vaihtaaksesi</DragToTrade>
+    <InitializingMap>Initializing map</InitializingMap>
+    <MinimumSkillLevel>Minimi taitotaso {0}</MinimumSkillLevel>
+    <NameColonyMessage>Näyttää siltä, että joudutte olemaan täällä kauan. {0} ehdottaa, että annat yhdyskunnalle nimen.\n\nMillä nimellä sitä tulisi kutsua?</NameColonyMessage>
+
+Keyed\Enums.xml
+    <FoodTypeFlags_AnimalKibble>kibble</FoodTypeFlags_AnimalKibble>
+    <FoodTypeFlags_NutritionalDrug>liquor</FoodTypeFlags_NutritionalDrug>
+    <FoodTypeFlags_Seeds>seeds</FoodTypeFlags_Seeds>
+
+Keyed\FloatMenu.xml
+    <CannotDeposit>Ei voi tallettaa esinettä {0} kohteeseen {1}</CannotDeposit>
+    <CannotPrioritizeIsNotA>Ei voi priorisoida ({0} ei ole {1})</CannotPrioritizeIsNotA>
+    <Deposit>Talleta {0} kohteeseen {1}</Deposit>
+    <Teetotaler>absolutisti</Teetotaler>
+
+Keyed\GameplayCommands.xml
+    <CommandBedSetAsNonMedicalDesc> Määritä tämä sänky normaaliin käyttöön.</CommandBedSetAsNonMedicalDesc>
+    <CommandBedSetAsNonMedicalLabel>Aseta normaaliksi</CommandBedSetAsNonMedicalLabel>
+    <CommandBedSetForColonistsDesc>Aseta tämän huoneen sängyt yhdyskuntalaisten käyttöön.</CommandBedSetForColonistsDesc>
+    <CommandBedSetForColonistsLabel>Aseta yhdyskuntalaisille</CommandBedSetForColonistsLabel>
+
+Keyed\ITabs.xml
+    <AffectsLower>vaikuttaa</AffectsLower>
+
+Keyed\Letters.xml
+    <FamilyLetterAppendedSuffix>(family)</FamilyLetterAppendedSuffix>
+    <FamilyLetterAppendedTextColonist>NAME is a family member of a colonist. HECAP is {0}'s {1}.</FamilyLetterAppendedTextColonist>
+    <FamilyLetterAppendedTextPrisoner>NAME is a family member of one of your prisoners. HECAP is {0}'s {1}.</FamilyLetterAppendedTextPrisoner>
+    <LetterFamilyMembersNeutralGroup>There are family members of your colonists or prisoners in the arriving group:</LetterFamilyMembersNeutralGroup>
+    <LetterFamilyMembersRaidEnemy>There are family members of your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThe family members are:</LetterFamilyMembersRaidEnemy>
+    <LetterFamilyMembersRaidFriendly>There are family members of your colonists or prisoners in the arriving group of friendly {0}:</LetterFamilyMembersRaidFriendly>
+    <LetterFamilyMembersTraderShipSlaves>The orbital trader is selling family members of your colonists or prisoners:</LetterFamilyMembersTraderShipSlaves>
+    <LetterLabelNoticedFamilyMembers>Family</LetterLabelNoticedFamilyMembers>
+
+Keyed\MainTabs.xml
+    <ColonyWealthBuildings>Yhdyskunnan varallisuus (rakennuksista)</ColonyWealthBuildings>
+    <ColonyWealthItems>Yhdyskunnan varallisuus (esineistä)</ColonyWealthItems>
+    <ColonyWealthTotal>Yhdyskunnan varallisuus</ColonyWealthTotal>
+    <DamageTaken>Otettu vahinko</DamageTaken>
+    <OutfitEdit>Muokkaa...</OutfitEdit>
+
+Keyed\Menu_Options.xml
+    <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
+
+Keyed\Menus_Main.xml
+    <AvgJanTemp>Keskilämp. (Tammi): {0}</AvgJanTemp>
+    <AvgJulTemp>Keskilämp. (Kesä): {0}</AvgJulTemp>
+    <DownloadingMod>Ladataan {0}</DownloadingMod>
+    <WorldRenderMode>Karttatyyppi</WorldRenderMode>
+    <WorldRenderModeBiomes>Biomi</WorldRenderModeBiomes>
+    <WorldRenderModeElevation>Korkeus</WorldRenderModeElevation>
+    <WorldRenderModeFertility>Hedelmällisyys</WorldRenderModeFertility>
+    <WorldRenderModeFull>Täysi</WorldRenderModeFull>
+    <WorldRenderModeRainfall>Sademäärä</WorldRenderModeRainfall>
+    <WorldRenderModeTemperature>Lämpötila</WorldRenderModeTemperature>
+    <WorldSize>Koko</WorldSize>
+    <YouAgreeToSteamWorkshopLegal>Julkaisemalla tämän modin hyväksyt  Steam Workshopin käyttöehdot. Paina tästä lisätietoja.</YouAgreeToSteamWorkshopLegal>
+
+Keyed\Messages.xml
+    <MessageCantSelectDeadFamilyMember>{0} is dead.</MessageCantSelectDeadFamilyMember>
+    <MessageCantSelectOffMapFamilyMember>{0} is off the map.</MessageCantSelectOffMapFamilyMember>
+    <MessageRecruitFail>{0} epäonnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitFail>
+    <MessageRecruitFailBecauseMood>{0} epäonnsitui vangin {1} värväämisessä (vaingin mieliala alle {2}).</MessageRecruitFailBecauseMood>
+
+Keyed\Misc_Gameplay.xml
+    <CannotGrowTooCold>Ei voi kasvaa - liian kylmä.</CannotGrowTooCold>
+    <CasketUnknownContents>Tuntematon</CasketUnknownContents>
+    <DeliveringFood>Tuomassa ruokaa henkilölle {0}.</DeliveringFood>
+    <EggDamagedEmbryo>damaged embryo</EggDamagedEmbryo>
+    <GoodResult>hyvä tulos</GoodResult>
+    <InjuryRequiresTreatment>tarvitsee hoitoa parantuakseen</InjuryRequiresTreatment>
+    <MentalBreakThresholdHard>Väkivaltaisen hermoromahduksen kynnys</MentalBreakThresholdHard>
+    <MentalBreakThresholdSoft>Vaimean hermoromahduksen kynnys</MentalBreakThresholdSoft>
+    <MentalStateLetterLabel>Mental state</MentalStateLetterLabel>
+    <PoorResult>kehno tulos</PoorResult>
+    <SeedLabel>{0} siemen</SeedLabel>
+    <ShowBeautyToggleButton>Aseta päälle kauneusnäkymä.\n\nNäyttää ympäristön kauneuden kuten kursorin kohdalla seisova hahmo sen näkisi.</ShowBeautyToggleButton>
+    <ShowRoomStatsToggleButton>Aseta päälle huoneiden tilastojen näyttäminen.\n\nNäyttää tietoja huoneesta, jonka päällä kursori on.</ShowRoomStatsToggleButton>
+    <TreatQuality>hoidon laatu {0}</TreatQuality>
+    <TriggerFirefoamPopper>Trigger firefoam popper</TriggerFirefoamPopper>
+    <UntreatedLower>hoitamaton</UntreatedLower>
+    <UseArtifact>Aktivoi</UseArtifact>
+    <UseNeurotrainer>Käytä älykkyysvalmentajaa oppiaksesi {0}</UseNeurotrainer>
+
