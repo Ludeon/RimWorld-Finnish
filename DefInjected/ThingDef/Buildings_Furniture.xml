@@ -134,24 +134,10 @@
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x2c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</Table2x2c.description>
   
-  <!-- UNUSED -->
-  <Table2x2c_Blueprint.label>table (short) (piirrustus)</Table2x2c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x2c_Frame.label>table (short) (rakennus)</Table2x2c_Frame.label>
-  <Table2x2c_Frame.description>People eat off tables when chairs are placed facing them.</Table2x2c_Frame.description>
-  
   <!-- EN: table (2x4) -->
   <Table2x4c.label>pöytä (pitkä)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x4c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</Table2x4c.description>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Blueprint.label>table (long) (piirrustus)</Table2x4c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Frame.label>table (long) (rakennus)</Table2x4c_Frame.label>
-  <Table2x4c_Frame.description>People eat off tables when chairs are placed facing them.</Table2x4c_Frame.description>
   
   <!-- EN: table (3x3) -->
   <Table3x3c.label>TODO</Table3x3c.label>

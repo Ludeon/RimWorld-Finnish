@@ -32,7 +32,7 @@
   <AbandonAllTip>Abandon (all)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
-  <!-- EN: {0} will most likely die. -->
+  <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>TODO</BanishTipWillDie>
   
   <!-- Caravan inspect -->

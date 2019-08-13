@@ -47,7 +47,7 @@
   
   <!-- EN: sculpting speed -->
   <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
-  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
+  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
   <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
   
   <!-- EN: smelting speed -->

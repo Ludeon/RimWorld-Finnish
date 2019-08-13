@@ -364,6 +364,12 @@
   <!-- EN: kirkasvalolamppu (piirrustus) -->
   <Blueprint_SunLamp.label>sun lamp (piirrustus)</Blueprint_SunLamp.label>
   
+  <!-- EN: pöytä (lyhyt) (piirrustus) -->
+  <Blueprint_Table2x2c.label>table (short) (piirrustus)</Blueprint_Table2x2c.label>
+  
+  <!-- EN: pöytä (pitkä) (piirrustus) -->
+  <Blueprint_Table2x4c.label>table (long) (piirrustus)</Blueprint_Table2x4c.label>
+  
   <!-- EN: teurastuspöytä (piirrustus) -->
   <Blueprint_TableButcher.label>butcher table (blueprint)</Blueprint_TableButcher.label>
   
@@ -400,8 +406,17 @@
   <!-- EN: transport pod (piirrustus) -->
   <Blueprint_TransportPod.label>transport pod (blueprint)</Blueprint_TransportPod.label>
   
+  <!-- EN: improvisoitu räjähdeansa (piirrustus) -->
+  <Blueprint_TrapIED_HighExplosive.label>IED trap (blueprint)</Blueprint_TrapIED_HighExplosive.label>
+  
+  <!-- EN: improvisoitu palopommiansa (piirrustus) -->
+  <Blueprint_TrapIED_Incendiary.label>IED incendiary trap (blueprint)</Blueprint_TrapIED_Incendiary.label>
+  
   <!-- EN: kuvaputkitelevisio (piirrustus) -->
   <Blueprint_TubeTelevision.label>tube television (blueprint)</Blueprint_TubeTelevision.label>
+  
+  <!-- EN: kranaatinheitin (piirrustus) -->
+  <Blueprint_Turret_Mortar.label>mortar (blueprint)</Blueprint_Turret_Mortar.label>
   
   <!-- EN: ilmastointikanava (piirrustus) -->
   <Blueprint_Vent.label>vent (blueprint)</Blueprint_Vent.label>
@@ -418,172 +433,172 @@
   <!-- EN: puulattia (piirrustus) -->
   <Blueprint_WoodPlankFloor.label>wood floor (blueprint)</Blueprint_WoodPlankFloor.label>
   
-  <!-- EN: alpakka ruumis -->
+  <!-- EN: Alpakka ruumis -->
   <Corpse_Alpaca.label>alpakan corpse</Corpse_Alpaca.label>
   <!-- EN: Kuollut alpakka. -->
   <Corpse_Alpaca.description>Kuolleen alpakan ruumis.</Corpse_Alpaca.description>
   
-  <!-- EN: alfamajava ruumis -->
+  <!-- EN: Alfamajava ruumis -->
   <Corpse_Alphabeaver.label>alfamajavan ruumis</Corpse_Alphabeaver.label>
   <!-- EN: Kuollut alfamajava. -->
   <Corpse_Alphabeaver.description>Kuolleen alfamajavan ruumis.</Corpse_Alphabeaver.description>
   
-  <!-- EN: harmaakarhu ruumis -->
+  <!-- EN: Harmaakarhu ruumis -->
   <Corpse_Bear_Grizzly.label>harmaakarhun ruumis</Corpse_Bear_Grizzly.label>
   <!-- EN: Kuollut harmaakarhu. -->
   <Corpse_Bear_Grizzly.description>Kuolleen harmaakarhun ruumis.</Corpse_Bear_Grizzly.description>
   
-  <!-- EN: jääkarhu ruumis -->
+  <!-- EN: Jääkarhu ruumis -->
   <Corpse_Bear_Polar.label>jääkarhun ruumis</Corpse_Bear_Polar.label>
   <!-- EN: Kuollut jääkarhu. -->
   <Corpse_Bear_Polar.description>Kuolleen jääkarhun ruumis.</Corpse_Bear_Polar.description>
   
-  <!-- EN: paukkulooppi ruumis -->
+  <!-- EN: Paukkulooppi ruumis -->
   <Corpse_Boomalope.label>paukkuloopin ruumis</Corpse_Boomalope.label>
   <!-- EN: Kuollut paukkulooppi. -->
   <Corpse_Boomalope.description>Kuolleen paukkuloopin ruumis.</Corpse_Boomalope.description>
   
-  <!-- EN: paukkurotta ruumis -->
+  <!-- EN: Paukkurotta ruumis -->
   <Corpse_Boomrat.label>paukkurotan ruumis</Corpse_Boomrat.label>
   <!-- EN: Kuollut paukkurotta. -->
   <Corpse_Boomrat.description>Kuolleen paukkurotan ruumis.</Corpse_Boomrat.description>
   
-  <!-- EN: kapybara ruumis -->
+  <!-- EN: Kapybara ruumis -->
   <Corpse_Capybara.label>kapybaran ruumis</Corpse_Capybara.label>
   <!-- EN: Kuollut kapybara. -->
   <Corpse_Capybara.description>Kuolleen kapybaran ruumis.</Corpse_Capybara.description>
   
-  <!-- EN: caribou ruumis -->
+  <!-- EN: Caribou ruumis -->
   <Corpse_Caribou.label>caribou corpse</Corpse_Caribou.label>
   <!-- EN: Kuollut caribou. -->
   <Corpse_Caribou.description>caribou corpse</Corpse_Caribou.description>
   
-  <!-- EN: cassowary ruumis -->
+  <!-- EN: Cassowary ruumis -->
   <Corpse_Cassowary.label>cassowary corpse</Corpse_Cassowary.label>
   <!-- EN: Kuollut cassowary. -->
   <Corpse_Cassowary.description>cassowary corpse</Corpse_Cassowary.description>
   
-  <!-- EN: kissa ruumis -->
+  <!-- EN: Kissa ruumis -->
   <Corpse_Cat.label>kissan ruumis</Corpse_Cat.label>
   <!-- EN: Kuollut kissa. -->
   <Corpse_Cat.description>Kuolleen kissan ruumis.</Corpse_Cat.description>
   
-  <!-- EN: kana ruumis -->
+  <!-- EN: Kana ruumis -->
   <Corpse_Chicken.label>kanan ruumis</Corpse_Chicken.label>
   <!-- EN: Kuollut kana. -->
   <Corpse_Chicken.description>Kuolleen kanan ruumis.</Corpse_Chicken.description>
   
-  <!-- EN: chinchilla ruumis -->
+  <!-- EN: Chinchilla ruumis -->
   <Corpse_Chinchilla.label>chinchillan ruumis</Corpse_Chinchilla.label>
   <!-- EN: Kuollut chinchilla. -->
   <Corpse_Chinchilla.description>Kuolleen chinchillan ruumis.</Corpse_Chinchilla.description>
   
-  <!-- EN: kobra ruumis -->
+  <!-- EN: Kobra ruumis -->
   <Corpse_Cobra.label>kobran ruumis</Corpse_Cobra.label>
   <!-- EN: Kuollut kobra. -->
   <Corpse_Cobra.description>Kuolleen kobran ruumis.</Corpse_Cobra.description>
   
-  <!-- EN: cougar ruumis -->
+  <!-- EN: Cougar ruumis -->
   <Corpse_Cougar.label>cougar corpse</Corpse_Cougar.label>
   <!-- EN: Kuollut cougar. -->
   <Corpse_Cougar.description>Dead body of a cougar.</Corpse_Cougar.description>
   
-  <!-- EN: lehmä ruumis -->
+  <!-- EN: Lehmä ruumis -->
   <Corpse_Cow.label>lehmän corpse</Corpse_Cow.label>
   <!-- EN: Kuollut lehmä. -->
   <Corpse_Cow.description>Kuolleen lehmän ruumis.</Corpse_Cow.description>
   
-  <!-- EN: peura ruumis -->
+  <!-- EN: Peura ruumis -->
   <Corpse_Deer.label>peuran ruumis</Corpse_Deer.label>
   <!-- EN: Kuollut peura. -->
   <Corpse_Deer.description>Kuolleen peuran ruumis.</Corpse_Deer.description>
   
-  <!-- EN: dromedaari ruumis -->
+  <!-- EN: Dromedaari ruumis -->
   <Corpse_Dromedary.label>dromedaarin ruumis</Corpse_Dromedary.label>
   <!-- EN: Kuollut dromedaari. -->
   <Corpse_Dromedary.description>Kuolleen dromedaarin ruumis.</Corpse_Dromedary.description>
   
-  <!-- EN: norsu ruumis -->
+  <!-- EN: Norsu ruumis -->
   <Corpse_Elephant.label>norsun ruumis</Corpse_Elephant.label>
   <!-- EN: Kuollut norsu. -->
   <Corpse_Elephant.description>Kuolleen norsun ruumis.</Corpse_Elephant.description>
   
-  <!-- EN: hirvi ruumis -->
+  <!-- EN: Hirvi ruumis -->
   <Corpse_Elk.label>hirven ruumis</Corpse_Elk.label>
   <!-- EN: Kuollut hirvi. -->
   <Corpse_Elk.description>Kuolleen hirven ruumis.</Corpse_Elk.description>
   
-  <!-- EN: emu ruumis -->
+  <!-- EN: Emu ruumis -->
   <Corpse_Emu.label>emu corpse</Corpse_Emu.label>
   <!-- EN: Kuollut emu. -->
   <Corpse_Emu.description>emu corpse</Corpse_Emu.description>
   
-  <!-- EN: arctic fox ruumis -->
+  <!-- EN: Arctic fox ruumis -->
   <Corpse_Fox_Arctic.label>arctic fox corpse</Corpse_Fox_Arctic.label>
   <!-- EN: Kuollut arctic fox. -->
   <Corpse_Fox_Arctic.description>arctic fox corpse</Corpse_Fox_Arctic.description>
   
-  <!-- EN: fennec fox ruumis -->
+  <!-- EN: Fennec fox ruumis -->
   <Corpse_Fox_Fennec.label>fennec fox corpse</Corpse_Fox_Fennec.label>
   <!-- EN: Kuollut fennec fox. -->
   <Corpse_Fox_Fennec.description>fennec fox corpse</Corpse_Fox_Fennec.description>
   
-  <!-- EN: red fox ruumis -->
+  <!-- EN: Red fox ruumis -->
   <Corpse_Fox_Red.label>red fox corpse</Corpse_Fox_Red.label>
   <!-- EN: Kuollut red fox. -->
   <Corpse_Fox_Red.description>red fox corpse</Corpse_Fox_Red.description>
   
-  <!-- EN: gazelle ruumis -->
+  <!-- EN: Gazelle ruumis -->
   <Corpse_Gazelle.label>gazelle corpse</Corpse_Gazelle.label>
   <!-- EN: Kuollut gazelle. -->
   <Corpse_Gazelle.description>gazelle corpse</Corpse_Gazelle.description>
   
-  <!-- EN: jänis ruumis -->
+  <!-- EN: Jänis ruumis -->
   <Corpse_Hare.label>jäniksen ruumis</Corpse_Hare.label>
   <!-- EN: Kuollut jänis. -->
   <Corpse_Hare.description>Kuolleen jäniksen ruumis.</Corpse_Hare.description>
   
-  <!-- EN: ihminen ruumis -->
+  <!-- EN: Ihminen ruumis -->
   <Corpse_Human.label>ihmisen ruumis</Corpse_Human.label>
   <!-- EN: Kuollut ihminen. -->
   <Corpse_Human.description>Kuolleen ihmisen ruumis.</Corpse_Human.description>
   
-  <!-- EN: husky ruumis -->
+  <!-- EN: Husky ruumis -->
   <Corpse_Husky.label>huskyn ruumis</Corpse_Husky.label>
   <!-- EN: Kuollut husky. -->
   <Corpse_Husky.description>Kuolleen huskyn ruumis.</Corpse_Husky.description>
   
-  <!-- EN: ibex ruumis -->
+  <!-- EN: Ibex ruumis -->
   <Corpse_Ibex.label>ibex corpse</Corpse_Ibex.label>
   <!-- EN: Kuollut ibex. -->
   <Corpse_Ibex.description>ibex corpse</Corpse_Ibex.description>
   
-  <!-- EN: iguaani ruumis -->
+  <!-- EN: Iguaani ruumis -->
   <Corpse_Iguana.label>iguaanin ruumis</Corpse_Iguana.label>
   <!-- EN: Kuollut iguaani. -->
   <Corpse_Iguana.description>Kuolleen iguaanin ruumis.</Corpse_Iguana.description>
   
-  <!-- EN: labradorinnoutaja ruumis -->
+  <!-- EN: Labradorinnoutaja ruumis -->
   <Corpse_LabradorRetriever.label>labradorinnoutajan ruumis</Corpse_LabradorRetriever.label>
   <!-- EN: Kuollut labradorinnoutaja. -->
   <Corpse_LabradorRetriever.description>Kuolleen labradorinnoutajan ruumis.</Corpse_LabradorRetriever.description>
   
-  <!-- EN: lynx ruumis -->
+  <!-- EN: Lynx ruumis -->
   <Corpse_Lynx.label>lynx corpse</Corpse_Lynx.label>
   <!-- EN: Kuollut lynx. -->
   <Corpse_Lynx.description>lynx corpse</Corpse_Lynx.description>
   
-  <!-- EN: tuhatjalkainen ruumis -->
+  <!-- EN: Tuhatjalkainen ruumis -->
   <Corpse_Mech_Centipede.label>tuhatjalkaisen ruumis</Corpse_Mech_Centipede.label>
   <!-- EN: Kuollut tuhatjalkainen. -->
   <Corpse_Mech_Centipede.description>Kuolleen tuhatjalkaisen ruumis.</Corpse_Mech_Centipede.description>
   
-  <!-- EN: viikatemies ruumis -->
+  <!-- EN: Viikatemies ruumis -->
   <Corpse_Mech_Scyther.label>viikatemiehen ruumis</Corpse_Mech_Scyther.label>
   <!-- EN: Kuollut viikatemies. -->
   <Corpse_Mech_Scyther.description>Kuolleen viikatemiehen ruumis.</Corpse_Mech_Scyther.description>
   
-  <!-- EN: jättipillerinpyörittäjä ruumis -->
+  <!-- EN: Jättipillerinpyörittäjä ruumis -->
   <Corpse_Megascarab.label>jättipillerinpyörittäjän ruumis</Corpse_Megascarab.label>
   <!-- EN: Kuollut jättipillerinpyörittäjä. -->
   <Corpse_Megascarab.description>Kuolleen jättipillerinpyörittäjän ruumis.</Corpse_Megascarab.description>
@@ -593,32 +608,32 @@
   <!-- EN: Kuollut Megasloth. -->
   <Corpse_Megasloth.description>Megasloth corpse</Corpse_Megasloth.description>
   
-  <!-- EN: megaspider ruumis -->
+  <!-- EN: Megaspider ruumis -->
   <Corpse_Megaspider.label>megaspider corpse</Corpse_Megaspider.label>
   <!-- EN: Kuollut megaspider. -->
   <Corpse_Megaspider.description>Dead body of a megaspider.</Corpse_Megaspider.description>
   
-  <!-- EN: apina ruumis -->
+  <!-- EN: Apina ruumis -->
   <Corpse_Monkey.label>apinan ruumis</Corpse_Monkey.label>
   <!-- EN: Kuollut apina. -->
   <Corpse_Monkey.description>Kuolleen apinan ruumis.</Corpse_Monkey.description>
   
-  <!-- EN: hirvibiisoni ruumis -->
+  <!-- EN: Hirvibiisoni ruumis -->
   <Corpse_Muffalo.label>hirvibiisonin ruumis</Corpse_Muffalo.label>
   <!-- EN: Kuollut hirvibiisoni. -->
   <Corpse_Muffalo.description>Kuolleen hirvibiisonin ruumis.</Corpse_Muffalo.description>
   
-  <!-- EN: ostrich ruumis -->
+  <!-- EN: Ostrich ruumis -->
   <Corpse_Ostrich.label>ostrich corpse</Corpse_Ostrich.label>
   <!-- EN: Kuollut ostrich. -->
   <Corpse_Ostrich.description>ostrich corpse</Corpse_Ostrich.description>
   
-  <!-- EN: panther ruumis -->
+  <!-- EN: Panther ruumis -->
   <Corpse_Panther.label>panther corpse</Corpse_Panther.label>
   <!-- EN: Kuollut panther. -->
   <Corpse_Panther.description>panther corpse</Corpse_Panther.description>
   
-  <!-- EN: sika ruumis -->
+  <!-- EN: Sika ruumis -->
   <Corpse_Pig.label>sian ruumis</Corpse_Pig.label>
   <!-- EN: Kuollut sika. -->
   <Corpse_Pig.description>Kuolleen sian ruumis.</Corpse_Pig.description>
@@ -628,67 +643,67 @@
   <!-- EN: Kuollut Raccoon. -->
   <Corpse_Raccoon.description>Raccoon corpse</Corpse_Raccoon.description>
   
-  <!-- EN: rat ruumis -->
+  <!-- EN: Rat ruumis -->
   <Corpse_Rat.label>rat corpse</Corpse_Rat.label>
   <!-- EN: Kuollut rat. -->
   <Corpse_Rat.description>rat corpse</Corpse_Rat.description>
   
-  <!-- EN: sarvikuono ruumis -->
+  <!-- EN: Sarvikuono ruumis -->
   <Corpse_Rhinoceros.label>sarvikuonon ruumis</Corpse_Rhinoceros.label>
   <!-- EN: Kuollut sarvikuono. -->
   <Corpse_Rhinoceros.description>Kuolleen sarvikuonon ruumis.</Corpse_Rhinoceros.description>
   
-  <!-- EN: lumijänis ruumis -->
+  <!-- EN: Lumijänis ruumis -->
   <Corpse_Snowhare.label>lumijäniksen ruumis</Corpse_Snowhare.label>
   <!-- EN: Kuollut lumijänis. -->
   <Corpse_Snowhare.description>Kuolleen lumijäniksen ruumis.</Corpse_Snowhare.description>
   
-  <!-- EN: spelopede ruumis -->
+  <!-- EN: Spelopede ruumis -->
   <Corpse_Spelopede.label>spelopede corpse</Corpse_Spelopede.label>
   <!-- EN: Kuollut spelopede. -->
   <Corpse_Spelopede.description>Dead body of a spelopede.</Corpse_Spelopede.description>
   
-  <!-- EN: orava ruumis -->
+  <!-- EN: Orava ruumis -->
   <Corpse_Squirrel.label>oravan ruumis</Corpse_Squirrel.label>
   <!-- EN: Kuollut orava. -->
   <Corpse_Squirrel.description>Kuolleen oravan ruumis.</Corpse_Squirrel.description>
   
-  <!-- EN: thrumbo ruumis -->
+  <!-- EN: Thrumbo ruumis -->
   <Corpse_Thrumbo.label>thrumbon ruumis</Corpse_Thrumbo.label>
   <!-- EN: Kuollut thrumbo. -->
   <Corpse_Thrumbo.description>Kuolleen thrumbon ruumis.</Corpse_Thrumbo.description>
   
-  <!-- EN: kilpikonna ruumis -->
+  <!-- EN: Kilpikonna ruumis -->
   <Corpse_Tortoise.label>kilpikonnan ruumis</Corpse_Tortoise.label>
   <!-- EN: Kuollut kilpikonna. -->
   <Corpse_Tortoise.description>Kuolleen kilpikonnan ruumis.</Corpse_Tortoise.description>
   
-  <!-- EN: turkey ruumis -->
+  <!-- EN: Turkey ruumis -->
   <Corpse_Turkey.label>turkey corpse</Corpse_Turkey.label>
   <!-- EN: Kuollut turkey. -->
   <Corpse_Turkey.description>turkey corpse</Corpse_Turkey.description>
   
-  <!-- EN: warg ruumis -->
+  <!-- EN: Warg ruumis -->
   <Corpse_Warg.label>wargin ruumis</Corpse_Warg.label>
   <!-- EN: Kuollut warg. -->
   <Corpse_Warg.description>Kuolleen wargin ruumis.</Corpse_Warg.description>
   
-  <!-- EN: villisika ruumis -->
+  <!-- EN: Villisika ruumis -->
   <Corpse_WildBoar.label>villisian ruumis</Corpse_WildBoar.label>
   <!-- EN: Kuollut villisika. -->
   <Corpse_WildBoar.description>Kuolleen villisian ruumis.</Corpse_WildBoar.description>
   
-  <!-- EN: arctic wolf ruumis -->
+  <!-- EN: Arctic wolf ruumis -->
   <Corpse_Wolf_Arctic.label>arctic wolf corpse</Corpse_Wolf_Arctic.label>
   <!-- EN: Kuollut arctic wolf. -->
   <Corpse_Wolf_Arctic.description>arctic wolf corpse</Corpse_Wolf_Arctic.description>
   
-  <!-- EN: timber wolf ruumis -->
+  <!-- EN: Timber wolf ruumis -->
   <Corpse_Wolf_Timber.label>timber wolf corpse</Corpse_Wolf_Timber.label>
   <!-- EN: Kuollut timber wolf. -->
   <Corpse_Wolf_Timber.description>timber wolf corpse</Corpse_Wolf_Timber.description>
   
-  <!-- EN: yorkshirenterrieri ruumis -->
+  <!-- EN: Yorkshirenterrieri ruumis -->
   <Corpse_YorkshireTerrier.label>yorkshirenterrierin ruumis</Corpse_YorkshireTerrier.label>
   <!-- EN: Kuollut yorkshirenterrieri. -->
   <Corpse_YorkshireTerrier.description>Kuolleen yorkshirenterrierin ruumis.</Corpse_YorkshireTerrier.description>
@@ -1123,6 +1138,16 @@
   <!-- EN: Valaisee alueen niin kirkkaasti että viljelykasvit voivat kasvaa. -->
   <Frame_SunLamp.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</Frame_SunLamp.description>
   
+  <!-- EN: pöytä (lyhyt) (rakennus) -->
+  <Frame_Table2x2c.label>table (short) (rakennus)</Frame_Table2x2c.label>
+  <!-- EN: Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja. -->
+  <Frame_Table2x2c.description>People eat off tables when chairs are placed facing them.</Frame_Table2x2c.description>
+  
+  <!-- EN: pöytä (pitkä) (rakennus) -->
+  <Frame_Table2x4c.label>table (long) (rakennus)</Frame_Table2x4c.label>
+  <!-- EN: Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja. -->
+  <Frame_Table2x4c.description>People eat off tables when chairs are placed facing them.</Frame_Table2x4c.description>
+  
   <!-- EN: teurastuspöytä (rakennus) -->
   <Frame_TableButcher.label>butcher table (building)</Frame_TableButcher.label>
   <!-- EN: Raskas pöytä kuolleiden olioiden teurastamiseen raaoiksi lihanpalasiksi. -->
@@ -1183,10 +1208,25 @@
   <!-- EN: A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles. -->
   <Frame_TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</Frame_TransportPod.description>
   
+  <!-- EN: improvisoitu räjähdeansa (rakennus) -->
+  <Frame_TrapIED_HighExplosive.label>IED trap (building)</Frame_TrapIED_HighExplosive.label>
+  <!-- EN: Tykinammus yhdistettynä kotitekoiseen laukaisimeen. Kun joku häiritsee laukaisinta, ammus räjähtää. Improvisoidussa laukaisimessa on satunnainen viive, joka saattaa mahdollistaa ketterän uhrin karkaamisen. -->
+  <Frame_TrapIED_HighExplosive.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</Frame_TrapIED_HighExplosive.description>
+  
+  <!-- EN: improvisoitu palopommiansa (rakennus) -->
+  <Frame_TrapIED_Incendiary.label>IED incendiary trap (building)</Frame_TrapIED_Incendiary.label>
+  <!-- EN: Räjähteitä sekoitettuna palopommitahnaan kemiallisella laukaisimella. Sen kemiallinen laukaisin on yksinkertainen ja varma. -->
+  <Frame_TrapIED_Incendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</Frame_TrapIED_Incendiary.description>
+  
   <!-- EN: kuvaputkitelevisio (rakennus) -->
   <Frame_TubeTelevision.label>tube television (building)</Frame_TubeTelevision.label>
   <!-- EN: Katodisädeputkinäyttö joka näyttää liikkuvia kuvia äänen kanssa. Jopa syrjäisillä planeetoilla on usein vanha lähetin joka pyörittää jotain lähes mielenkiintoista katsottavaa. -->
   <Frame_TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</Frame_TubeTelevision.description>
+  
+  <!-- EN: kranaatinheitin (rakennus) -->
+  <Frame_Turret_Mortar.label>mortar (building)</Frame_Turret_Mortar.label>
+  <!-- EN: Kranaatinheitin joka ampuu räjähtäviä kranaatteja. Tarvitsee käyttäjän. Räjähtää vaurioituessaan. -->
+  <Frame_Turret_Mortar.description>A mortar that launches explosive shells. Must be manned. Explodes when damaged.</Frame_Turret_Mortar.description>
   
   <!-- EN: ilmastointikanava (rakennus) -->
   <Frame_Vent.label>vent (building)</Frame_Vent.label>
@@ -1213,12 +1253,12 @@
   <!-- EN: Terrain building in progress. -->
   <Frame_WoodPlankFloor.description>Terrain building in progress.</Frame_WoodPlankFloor.description>
   
-  <!-- EN: alpakka lihaa -->
+  <!-- EN: Alpakka lihaa -->
   <Meat_Alpaca.label>alpakan lihaa</Meat_Alpaca.label>
   <!-- EN: Raakaa lihaa oliosta alpakka. -->
   <Meat_Alpaca.description>Raakaa alpakan lihaa.</Meat_Alpaca.description>
   
-  <!-- EN: alfamajava lihaa -->
+  <!-- EN: Alfamajava lihaa -->
   <Meat_Alphabeaver.label>alfamajavan lihaa</Meat_Alphabeaver.label>
   <!-- EN: Raakaa lihaa oliosta alfamajava. -->
   <Meat_Alphabeaver.description>Raakaa alfamajavan lihaa.</Meat_Alphabeaver.description>
@@ -1228,22 +1268,22 @@
   <!-- EN: Raakaa lihaa oliosta harmaakarhu. -->
   <Meat_Bear_Grizzly.description>Raakaa harmaakarhun lihaa.</Meat_Bear_Grizzly.description>
   
-  <!-- EN: paukkulooppi lihaa -->
+  <!-- EN: Paukkulooppi lihaa -->
   <Meat_Boomalope.label>paukkuloopin lihaa</Meat_Boomalope.label>
   <!-- EN: Raakaa lihaa oliosta paukkulooppi. -->
   <Meat_Boomalope.description>Raakaa paukkuloopin lihaa.</Meat_Boomalope.description>
   
-  <!-- EN: paukkurotta lihaa -->
+  <!-- EN: Paukkurotta lihaa -->
   <Meat_Boomrat.label>paukkurotan lihaa</Meat_Boomrat.label>
   <!-- EN: Raakaa lihaa oliosta paukkurotta. -->
   <Meat_Boomrat.description>Raakaa paukkurotan lihaa.</Meat_Boomrat.description>
   
-  <!-- EN: kapybara lihaa -->
+  <!-- EN: Kapybara lihaa -->
   <Meat_Capybara.label>kapybaran lihaa</Meat_Capybara.label>
   <!-- EN: Raakaa lihaa oliosta kapybara. -->
   <Meat_Capybara.description>Raakaa kapybaran lihaa.</Meat_Capybara.description>
   
-  <!-- EN: caribou lihaa -->
+  <!-- EN: Caribou lihaa -->
   <Meat_Caribou.label>caribou meat</Meat_Caribou.label>
   <!-- EN: Raakaa lihaa oliosta caribou. -->
   <Meat_Caribou.description>caribou meat</Meat_Caribou.description>
@@ -1253,17 +1293,17 @@
   <!-- EN: Raakaa lihaa oliosta cassowary. -->
   <Meat_Cassowary.description>bird meat</Meat_Cassowary.description>
   
-  <!-- EN: kissa lihaa -->
+  <!-- EN: Kissa lihaa -->
   <Meat_Cat.label>kissan lihaa</Meat_Cat.label>
   <!-- EN: Raakaa lihaa oliosta kissa. -->
   <Meat_Cat.description>Raakaa kissan lihaa.</Meat_Cat.description>
   
-  <!-- EN: kana lihaa -->
+  <!-- EN: Kana lihaa -->
   <Meat_Chicken.label>kanan lihaa</Meat_Chicken.label>
   <!-- EN: Raakaa lihaa oliosta kana. -->
   <Meat_Chicken.description>Raakaa kanan lihaa.</Meat_Chicken.description>
   
-  <!-- EN: chinchilla lihaa -->
+  <!-- EN: Chinchilla lihaa -->
   <Meat_Chinchilla.label>chinchillan lihaa</Meat_Chinchilla.label>
   <!-- EN: Raakaa lihaa oliosta chinchilla. -->
   <Meat_Chinchilla.description>Raakaa chinchillan lihaa.</Meat_Chinchilla.description>
@@ -1273,7 +1313,7 @@
   <!-- EN: Raakaa lihaa oliosta kobra. -->
   <Meat_Cobra.description>Raakaa kobran lihaa.</Meat_Cobra.description>
   
-  <!-- EN: cougar lihaa -->
+  <!-- EN: Cougar lihaa -->
   <Meat_Cougar.label>cougar meat</Meat_Cougar.label>
   <!-- EN: Raakaa lihaa oliosta cougar. -->
   <Meat_Cougar.description>Raw flesh of a cougar.</Meat_Cougar.description>
@@ -1288,17 +1328,17 @@
   <!-- EN: Raakaa lihaa oliosta peura. -->
   <Meat_Deer.description>Raakaa peuran lihaa.</Meat_Deer.description>
   
-  <!-- EN: dromedaari lihaa -->
+  <!-- EN: Dromedaari lihaa -->
   <Meat_Dromedary.label>dromedaarin lihaa</Meat_Dromedary.label>
   <!-- EN: Raakaa lihaa oliosta dromedaari. -->
   <Meat_Dromedary.description>Raakaa dromedaarin lihaa.</Meat_Dromedary.description>
   
-  <!-- EN: norsu lihaa -->
+  <!-- EN: Norsu lihaa -->
   <Meat_Elephant.label>norsun lihaa</Meat_Elephant.label>
   <!-- EN: Raakaa lihaa oliosta norsu. -->
   <Meat_Elephant.description>Raakaa norsun lihaa.</Meat_Elephant.description>
   
-  <!-- EN: hirvi lihaa -->
+  <!-- EN: Hirvi lihaa -->
   <Meat_Elk.label>hirven lihaa</Meat_Elk.label>
   <!-- EN: Raakaa lihaa oliosta hirvi. -->
   <Meat_Elk.description>Raakaa hirven lihaa.</Meat_Elk.description>
@@ -1308,42 +1348,42 @@
   <!-- EN: Raakaa lihaa oliosta fennec fox. -->
   <Meat_Fox_Fennec.description>foxmeat</Meat_Fox_Fennec.description>
   
-  <!-- EN: gazelle lihaa -->
+  <!-- EN: Gazelle lihaa -->
   <Meat_Gazelle.label>gazelle meat</Meat_Gazelle.label>
   <!-- EN: Raakaa lihaa oliosta gazelle. -->
   <Meat_Gazelle.description>gazelle meat</Meat_Gazelle.description>
   
-  <!-- EN: jänis lihaa -->
+  <!-- EN: Jänis lihaa -->
   <Meat_Hare.label>jäniksen lihaa</Meat_Hare.label>
   <!-- EN: Raakaa lihaa oliosta jänis. -->
   <Meat_Hare.description>Raakaa jäniksen lihaa.</Meat_Hare.description>
   
-  <!-- EN: ihminen lihaa -->
+  <!-- EN: Ihminen lihaa -->
   <Meat_Human.label>ihmisen lihaa</Meat_Human.label>
-  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <!-- EN: Ràẅ þùṭçĥèṟèð Ƒſèșĥ. Càƞ þè çòòкèð ìƞṭò ṁèàſș òṟ èàṭèƞ ṟàẅ, àſṭĥòùğĥ ṁòșṭ ĥùṁàƞș ðìșſìкè ṭĥè ìðèà. -->
   <Meat_Human.description>Raakaa ihmisen lihaa.</Meat_Human.description>
   
-  <!-- EN: husky lihaa -->
+  <!-- EN: Husky lihaa -->
   <Meat_Husky.label>huskyn lihaa</Meat_Husky.label>
   <!-- EN: Raakaa lihaa oliosta husky. -->
   <Meat_Husky.description>Raakaa huskyn lihaa.</Meat_Husky.description>
   
-  <!-- EN: ibex lihaa -->
+  <!-- EN: Ibex lihaa -->
   <Meat_Ibex.label>ibex meat</Meat_Ibex.label>
   <!-- EN: Raakaa lihaa oliosta ibex. -->
   <Meat_Ibex.description>ibex meat</Meat_Ibex.description>
   
-  <!-- EN: iguaani lihaa -->
+  <!-- EN: Iguaani lihaa -->
   <Meat_Iguana.label>iguaanin lihaa</Meat_Iguana.label>
   <!-- EN: Raakaa lihaa oliosta iguaani. -->
   <Meat_Iguana.description>Raakaa iguaanin lihaa.</Meat_Iguana.description>
   
-  <!-- EN: labradorinnoutaja lihaa -->
+  <!-- EN: Labradorinnoutaja lihaa -->
   <Meat_LabradorRetriever.label>labradorinnoutajan lihaa</Meat_LabradorRetriever.label>
   <!-- EN: Raakaa lihaa oliosta labradorinnoutaja. -->
   <Meat_LabradorRetriever.description>Raakaa labradorinnoutajan lihaa.</Meat_LabradorRetriever.description>
   
-  <!-- EN: lynx lihaa -->
+  <!-- EN: Lynx lihaa -->
   <Meat_Lynx.label>lynx meat</Meat_Lynx.label>
   <!-- EN: Raakaa lihaa oliosta lynx. -->
   <Meat_Lynx.description>lynx meat</Meat_Lynx.description>
@@ -1355,20 +1395,20 @@
   
   <!-- EN: insect meat -->
   <Meat_Megaspider.label>megaspider meat</Meat_Megaspider.label>
-  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <!-- EN: Ràẅ þùṭçĥèṟèð Ƒſèșĥ. IƑ ƞèçèșșàṟý, çàƞ þè çòòкèð ìƞṭò ṁèàſș, òṟ èṽèƞ èàṭèƞ ṟàẅ. Eẋṭṟèṁèſý ùƞàṗṗèṭìžìƞğ. -->
   <Meat_Megaspider.description>Raw flesh of a megaspider.</Meat_Megaspider.description>
   
-  <!-- EN: apina lihaa -->
+  <!-- EN: Apina lihaa -->
   <Meat_Monkey.label>apinan lihaa</Meat_Monkey.label>
   <!-- EN: Raakaa lihaa oliosta apina. -->
   <Meat_Monkey.description>Raakaa apinan lihaa.</Meat_Monkey.description>
   
-  <!-- EN: hirvibiisoni lihaa -->
+  <!-- EN: Hirvibiisoni lihaa -->
   <Meat_Muffalo.label>hirvibiisonin lihaa</Meat_Muffalo.label>
   <!-- EN: Raakaa lihaa oliosta hirvibiisoni. -->
   <Meat_Muffalo.description>Raakaa hirvibiisonin lihaa.</Meat_Muffalo.description>
   
-  <!-- EN: panther lihaa -->
+  <!-- EN: Panther lihaa -->
   <Meat_Panther.label>panther meat</Meat_Panther.label>
   <!-- EN: Raakaa lihaa oliosta panther. -->
   <Meat_Panther.description>panther meat</Meat_Panther.description>
@@ -1383,37 +1423,37 @@
   <!-- EN: Raakaa lihaa oliosta Raccoon. -->
   <Meat_Raccoon.description>Raccoon meat</Meat_Raccoon.description>
   
-  <!-- EN: rat lihaa -->
+  <!-- EN: Rat lihaa -->
   <Meat_Rat.label>rat meat</Meat_Rat.label>
   <!-- EN: Raakaa lihaa oliosta rat. -->
   <Meat_Rat.description>rat meat</Meat_Rat.description>
   
-  <!-- EN: sarvikuono lihaa -->
+  <!-- EN: Sarvikuono lihaa -->
   <Meat_Rhinoceros.label>sarvikuonon lihaa</Meat_Rhinoceros.label>
   <!-- EN: Raakaa lihaa oliosta sarvikuono. -->
   <Meat_Rhinoceros.description>Raakaa sarvikuonon lihaa.</Meat_Rhinoceros.description>
   
-  <!-- EN: orava lihaa -->
+  <!-- EN: Orava lihaa -->
   <Meat_Squirrel.label>oravan lihaa</Meat_Squirrel.label>
   <!-- EN: Raakaa lihaa oliosta orava. -->
   <Meat_Squirrel.description>Raakaa oravan lihaa.</Meat_Squirrel.description>
   
-  <!-- EN: thrumbo lihaa -->
+  <!-- EN: Thrumbo lihaa -->
   <Meat_Thrumbo.label>thrumbon lihaa</Meat_Thrumbo.label>
   <!-- EN: Raakaa lihaa oliosta thrumbo. -->
   <Meat_Thrumbo.description>Raakaa thrumbon lihaa.</Meat_Thrumbo.description>
   
-  <!-- EN: kilpikonna lihaa -->
+  <!-- EN: Kilpikonna lihaa -->
   <Meat_Tortoise.label>kilpikonnan lihaa</Meat_Tortoise.label>
   <!-- EN: Raakaa lihaa oliosta kilpikonna. -->
   <Meat_Tortoise.description>Raakaa kilpikonnan lihaa.</Meat_Tortoise.description>
   
-  <!-- EN: turkey lihaa -->
+  <!-- EN: Turkey lihaa -->
   <Meat_Turkey.label>turkey meat</Meat_Turkey.label>
   <!-- EN: Raakaa lihaa oliosta turkey. -->
   <Meat_Turkey.description>turkey meat</Meat_Turkey.description>
   
-  <!-- EN: warg lihaa -->
+  <!-- EN: Warg lihaa -->
   <Meat_Warg.label>wargin lihaa</Meat_Warg.label>
   <!-- EN: Raakaa lihaa oliosta warg. -->
   <Meat_Warg.description>Raakaa wargin lihaa.</Meat_Warg.description>
@@ -1423,7 +1463,7 @@
   <!-- EN: Raakaa lihaa oliosta timber wolf. -->
   <Meat_Wolf_Timber.description>wolfmeat</Meat_Wolf_Timber.description>
   
-  <!-- EN: yorkshirenterrieri lihaa -->
+  <!-- EN: Yorkshirenterrieri lihaa -->
   <Meat_YorkshireTerrier.label>yorkshirenterrierin lihaa</Meat_YorkshireTerrier.label>
   <!-- EN: Raakaa lihaa oliosta yorkshirenterrieri. -->
   <Meat_YorkshireTerrier.description>Raakaa yorkshirenterrierin lihaa.</Meat_YorkshireTerrier.description>

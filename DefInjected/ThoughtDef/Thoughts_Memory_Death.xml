@@ -40,9 +40,13 @@
   <KnowGuestExecuted.stages.someone_was_executed.label>elin kerättiin ja henkilö tapettiin</KnowGuestExecuted.stages.someone_was_executed.label>
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
   <KnowGuestExecuted.stages.someone_was_executed.description>Vanki tai vieras kuoli koska yhdyskunta otti häneltä ruumiinosia. Se on kamalaa.</KnowGuestExecuted.stages.someone_was_executed.description>
-  <!-- EN: someone organ-harvested -->
-  <KnowGuestExecuted.stages.someone_organharvested.label>someone organ-harvested</KnowGuestExecuted.stages.someone_organharvested.label>
+  <!-- EN: someone was organ-murdered -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.label>
   <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  
+  <!-- UNUSED -->
+  <KnowGuestExecuted.stages.someone_organharvested.label>someone organ-harvested</KnowGuestExecuted.stages.someone_organharvested.label>
   <KnowGuestExecuted.stages.someone_organharvested.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.someone_organharvested.description>
   
   <!-- EN: innocent prisoner died -->

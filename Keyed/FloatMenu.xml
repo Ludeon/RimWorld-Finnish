@@ -15,12 +15,12 @@
   <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
   <!-- EN: Cannot use (full) -->
   <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
-  <!-- EN: leader {0} is unavailable -->
+  <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
   
-  <!-- EN: Fire at {0} -->
+  <!-- EN: Fire at {1_label} -->
   <FireAt>Ammu {0}</FireAt>
 
   <!-- EN: out of range -->
@@ -29,23 +29,23 @@
   <TooClose>TODO</TooClose>
   <!-- EN: cannot hit target -->
   <CannotHitTarget>kohteeseen ei voi osua</CannotHitTarget>
-  <!-- EN: {0} is incapable of violence -->
+  <!-- EN: {1_labelShort} is incapable of violence -->
   <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
-  <!-- EN: {0} is not drafted -->
+  <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>TODO</CannotAttackSelf>
 
-  <!-- EN: Man {0} -->
+  <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Miehitä {0}</OrderManThing>
   
-  <!-- EN: Melee attack {0} -->
+  <!-- EN: Melee attack {1_label} -->
   <MeleeAttack>Lähitaistele kohteen {0} kanssa</MeleeAttack>
-  <!-- EN: Melee attack {0} to death -->
+  <!-- EN: Melee attack {1_label} to death -->
   <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>ei reittiä</NoPath>
@@ -121,7 +121,7 @@
   <!-- EN: angers faction -->
   <AngersFaction>TODO</AngersFaction>
   
-  <!-- EN: Consume {0} -->
+  <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Syö/juo {0}</ConsumeThing>
   
   <!-- EN: Cannot go here (no path) -->
@@ -131,22 +131,22 @@
   
   <!-- EN: Arrest {0} -->
   <Arrest>Pidätä {0}</Arrest>
-  <!-- EN: Try to arrest {0} -->
+  <!-- EN: Try to arrest {1_label} -->
   <TryToArrest>Yritä pidättää {0}</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Ei voi pidättää</CannotArrest>
 
-  <!-- EN: Capture {0} -->
+  <!-- EN: Capture {1_label} -->
   <Capture>Kaappaa {0}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Ei voi kaapata</CannotCapture>
 
-  <!-- EN: Rescue {0} -->
+  <!-- EN: Rescue {1_label} -->
   <Rescue>Pelasta {0}</Rescue>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Ei voi pelastaa</CannotRescue>
 
-  <!-- EN: Carry {0} to cryptosleep casket -->
+  <!-- EN: Carry {1_label} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Kanna {0} salauniarkkuun</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Ei voi kantaa salauniarkkuun</CannotCarryToCryptosleepCasket>
@@ -161,7 +161,7 @@
   <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
   <Reserved>Joku muu on varannut tämän.</Reserved>
-  <!-- EN: Reserved by {0} -->
+  <!-- EN: Reserved by {1_labelShort} -->
   <ReservedBy>{0} on varannut tämän.</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
@@ -182,73 +182,73 @@
   <EquipWarningBrawler>(painija tulee pahalle mielelle)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>Ei voida ottaa käyttöön {0}</CannotEquip>
-  <!-- EN: Cannot man {0} -->
+  <!-- EN: Cannot man {1_labelShort} -->
   <CannotManThing>TODO</CannotManThing>
   
-  <!-- EN: Force wear {0} -->
+  <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>Pakota pukemaan {0}</ForceWear>
-  <!-- EN: Cannot wear {0} -->
+  <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Ei voi pukea {0}</CannotWear>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
   
-  <!-- EN: Cannot pick up {0} -->
+  <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>Cannot pick up {0}</CannotPickUp>
-  <!-- EN: Cannot pick up {0} (all) -->
+  <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
-  <!-- EN: Pick up {0} -->
+  <!-- EN: Pick up {1_label} -->
   <PickUp>Pick up {0}</PickUp>
-  <!-- EN: Pick up {0} (all) -->
+  <!-- EN: Pick up {1_label} (all) -->
   <PickUpAll>Pick up {0} (all)</PickUpAll>
-  <!-- EN: Pick up {0}... -->
+  <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Pick up {0}...</PickUpSome>
-  <!-- EN: Pick up {0} x{{0}} -->
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
   
-  <!-- EN: Cannot give {0} to pack animal -->
+  <!-- EN: Cannot give {1_label} to pack animal -->
   <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
-  <!-- EN: Cannot give {0} (all) to pack animal -->
+  <!-- EN: Cannot give {1_label} (all) to pack animal -->
   <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
-  <!-- EN: Give {0} to pack animal -->
+  <!-- EN: Give {1_label} to pack animal -->
   <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
-  <!-- EN: Give {0} (all) to pack animal -->
+  <!-- EN: Give {1_label} (all) to pack animal -->
   <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
-  <!-- EN: Give {0} to pack animal... -->
+  <!-- EN: Give {1_labelShort} to pack animal... -->
   <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
-  <!-- EN: Take {0} x{{0}} -->
+  <!-- EN: Take {1_labelShort} x{{0}} -->
   <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
   
-  <!-- EN: Cannot load {0} into caravan -->
+  <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>TODO</CannotLoadIntoCaravan>
-  <!-- EN: Cannot load {0} (all) into caravan -->
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
   <CannotLoadIntoCaravanAll>TODO</CannotLoadIntoCaravanAll>
-  <!-- EN: Load {0} into caravan -->
+  <!-- EN: Load {1_label} into caravan -->
   <LoadIntoCaravan>TODO</LoadIntoCaravan>
-  <!-- EN: Load {0} (all) into caravan -->
+  <!-- EN: Load {1_label} (all) into caravan -->
   <LoadIntoCaravanAll>TODO</LoadIntoCaravanAll>
-  <!-- EN: Load {0} into caravan... -->
+  <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>TODO</LoadIntoCaravanSome>
-  <!-- EN: Load {0} x{{0}} -->
+  <!-- EN: Load {1_labelShort} x{{0}} -->
   <LoadIntoCaravanCount>TODO</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>TODO</OverweightLower>
 
-  <!-- EN: Cannot carry {0} and leave the area -->
+  <!-- EN: Cannot carry {1_label} and leave the area -->
   <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
-  <!-- EN: Carry {0} and leave the area -->
+  <!-- EN: Carry {1_label} and leave the area -->
   <CarryToExit>Carry {0} and leave the area</CarryToExit>
-  <!-- EN: Capture {0} and leave the area -->
+  <!-- EN: Capture {1_label} and leave the area -->
   <CarryToExitAndCapture>TODO</CarryToExitAndCapture>
   
-  <!-- EN: Strip {0} -->
+  <!-- EN: Strip {1_label} -->
   <Strip>Riisu {0}</Strip>
-  <!-- EN: Cannot strip {0} -->
+  <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Ei voi riisua {0}</CannotStrip>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Tuhoudu tässä</SelfDestructHere>
   
-  <!-- EN: Drop {0} -->
+  <!-- EN: Drop {1_label} -->
   <Drop>Pudota {0}</Drop>
 
   <!-- EN: Rest until healed -->
@@ -262,6 +262,11 @@
   <TradeWith>Trade with {0}</TradeWith>
   <!-- EN: Cannot trade -->
   <CannotTrade>Cannot trade</CannotTrade>
+
+  <!-- EN: Open {0_label} -->
+  <Open>TODO</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>TODO</CannotOpen>
   
   <!-- EN: Enter {0} -->
   <EnterMap>Enter {0}</EnterMap>
@@ -296,7 +301,7 @@
   <CannotMissingHealthActivities>Ei voi priorisoida (kykenemätön toimeen {0})</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
-  <!-- EN: Already {0} {1} -->
+  <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
@@ -315,7 +320,7 @@
   <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Ei voi priorisoida (tutkimus on pitkäaikainen tehtävä)</CannotPrioritizeResearch>
 
-  <!-- EN: Cannot prioritize ({0} is forbidden) -->
+  <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
   <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize (forbidden) -->
   <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>

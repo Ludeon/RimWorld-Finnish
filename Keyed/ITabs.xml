@@ -52,7 +52,7 @@
   <MinimumSkill>Minimi taitotaso</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>PYSÄYTETTY</SuspendedCaps>
-  <!-- EN: Worker: {0} -->
+  <!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>Työn tekijä: {0}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>Istuta</PlantVerb>
@@ -196,7 +196,7 @@
   <Trainability>TODO</Trainability>
   <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>Tarvitsee kouluttamiseen älykkyyden {0}.</CannotTrainNotSmartEnough>
-  <!-- EN: {0} is too small to train this. -->
+  <!-- EN: {1_labelShort} is too small to train this. -->
   <CannotTrainTooSmall>{0} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
@@ -213,9 +213,9 @@
   <Slave>Slave</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Faction leader</FactionLeader>
-  <!-- EN: Opinion of {0} -->
+  <!-- EN: Opinion of {1_labelShort} -->
   <OpinionOf>Opinion of {0}</OpinionOf>
-  <!-- EN: {0}'s opinion of me -->
+  <!-- EN: {1_labelShort}'s opinion of me -->
   <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>I'm dead</IAmDead>
@@ -261,6 +261,10 @@
   <FormingCaravanStatus_GatheringSlaves>TODO</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
   <FormingCaravanStatus_GatheringSlaves_Pause>TODO</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->

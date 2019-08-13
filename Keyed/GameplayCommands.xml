@@ -4,9 +4,11 @@
   <!-- Forbid -->
   <!-- EN: Forbid -->
   <CommandForbid>Kiellä tai salli</CommandForbid>
-  <!-- EN: Forbidden - colonists will not interact with this. -->
+  <!-- EN: Allow -->
+  <CommandAllow>TODO</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
   <CommandForbiddenDesc>Kielletty - yhdyskuntalaiset eivät käytä tätä.</CommandForbiddenDesc>
-  <!-- EN: Not forbidden - colonists may interact with this. -->
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
   <CommandNotForbiddenDesc>Sallittu - yhdyskuntalaiset voivat käyttää tätä.</CommandNotForbiddenDesc>
 
   <!-- Power -->
@@ -39,7 +41,7 @@
   <CommandUndraftLabel>Vapauta palveluksesta</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Asepalvelus päällä/pois.\n\nKutsutut henkilöt ottavat vastaan komentoja ja taistelevat. He eivät tee työtä, syö tai lepää.</CommandToggleDraftDesc>
-  <!-- EN: {0} cannot walk. -->
+  <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{0} on lamaantunut.</IsIncapped>
 
   <!-- EN: Fire at will -->

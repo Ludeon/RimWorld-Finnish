@@ -160,11 +160,13 @@
   <Downloading>Ladataan</Downloading>
   <!-- EN: Source -->
   <Source>Lähde</Source>
-  <!-- EN: For version: {0} -->
+  <!-- EN: For version(s): {0} -->
   <ModTargetVersion>For version: {0}</ModTargetVersion>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: {0}.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Drag to reorder</DragToReorder>
@@ -231,15 +233,15 @@
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
   <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
 
-  <!-- Landing site select -->
-  <!-- EN: Select landing site -->
-  <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>TODO</SelectStartingSite>
   <!-- EN: Select random site -->
   <SelectRandomSite>Valitse satunnainen alue</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Valitse alue</SelectSite>
-  <!-- EN: Please select a landing site. -->
-  <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>TODO</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Et voi laskeutua tähän biomiin: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
@@ -386,6 +388,8 @@
   <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 
   <!-- UNUSED -->
+  <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
+  <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
   <AvgSummerTemp>Kesän lämpötila</AvgSummerTemp>
   <AvgWinterTemp>Talven lämpötila</AvgWinterTemp>
   <MovementTimeNow>Nykyinen liikkumisaika</MovementTimeNow>

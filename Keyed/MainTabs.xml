@@ -12,7 +12,7 @@
   <RelevantSkills>Tähän kuuluva taito: {0}\nTähän kuuluvien taitojen keskiarvo: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Klikkaa siirtyäksesi:</ClickToJumpTo>
-  <!-- EN: {0} cannot do this kind of work. -->
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
   <CannotDoThisWork>{0} ei voi tehdä tätä työtä.</CannotDoThisWork>
   <!-- EN: (none) -->
   <NoneBrackets>(ei mitään)</NoneBrackets>
@@ -26,7 +26,7 @@
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
-  <!-- EN: Clear forced -->
+  <!-- EN: Clr. forced -->
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>pakotettu</ApparelForcedLower>
@@ -36,6 +36,8 @@
   <AssignTabEdit>Muokkaa...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Hallitse huumekäytäntöjä</ManageDrugPolicies>
+  <!-- EN: Manage food restrictions -->
+  <ManageFoodRestrictions>TODO</ManageFoodRestrictions>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->

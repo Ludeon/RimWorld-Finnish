@@ -85,6 +85,9 @@
   <!-- EN: operating turret. -->
   <ManTurret.reportString>Käyttää tykkiä.</ManTurret.reportString>
   
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>TODO</OfferHelp.reportString>
+  
   <!-- EN: opening TargetA. -->
   <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
   

@@ -13,7 +13,7 @@
   
   <!-- EN: heater -->
   <Heater.label>lämmitin</Heater.label>
-  <!-- EN: An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
   <Heater.description>Sähkölaite, joka muuttaa sähköä lämmöksi. Se osaa automaattisesti kytkeä itsensä päälle ja pois saavuttaakseen tavoitelämpötilan.</Heater.description>
   
   <!-- EN: passive cooler -->

@@ -8,15 +8,7 @@
   <Lit>Valaistu</Lit>
   <!-- EN: Brightly lit -->
   <LitBrightly>Kirkkaasti valaistu</LitBrightly>
-  
-  <!-- History upload pref -->
-  <!-- EN: Undecided -->
-  <Unspecified>Päättämätön</Unspecified>
-  <!-- EN: Allow -->
-  <Always>Salli</Always>
-  <!-- EN: Do not allow -->
-  <Never>Älä salli</Never>
-  
+
   <!-- Price types -->
   <!-- EN: very cheap -->
   <PriceTypeVeryCheap>hyvin halpa</PriceTypeVeryCheap>
@@ -296,6 +288,9 @@
   <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
 
   <!-- UNUSED -->
+  <Unspecified>Päättämätön</Unspecified>
+  <Always>Salli</Always>
+  <Never>Älä salli</Never>
   <QualityCategory_Shoddy>surkea</QualityCategory_Shoddy>
   <QualityCategory_Superior>parempi</QualityCategory_Superior>
   <QualityCategoryShort_Shoddy>surk</QualityCategoryShort_Shoddy>

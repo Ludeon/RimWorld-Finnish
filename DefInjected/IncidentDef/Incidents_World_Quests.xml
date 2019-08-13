@@ -12,7 +12,7 @@
   <Quest_DownedRefugee.label>TODO</Quest_DownedRefugee.label>
   <!-- EN: Incapacitated refugee quest -->
   <Quest_DownedRefugee.letterLabel>TODO</Quest_DownedRefugee.letterLabel>
-  <!-- EN: [PAWN_nameDef] contacts you and requests help. [PAWN_pronoun] is wounded and unable to move. Without your help, [PAWN_pronoun] will die in {0} days.\n\n[PAWN_nameDef] is a {1}-year-old {2}. [PAWN_pronoun] promises to join you if you rescue [PAWN_objective].\n\n[PAWN_nameDef] says that {3}. -->
+  <!-- EN: {PAWN_nameDef} contacts you and requests help. {PAWN_pronoun} is wounded and unable to move. Without your help, {PAWN_pronoun} will die in {0} days.\n\n{PAWN_nameDef} is a {1}-year-old {2}. {PAWN_pronoun} promises to join you if you rescue {PAWN_objective}.\n\n{PAWN_nameDef} says that {3}. -->
   <Quest_DownedRefugee.letterText>TODO</Quest_DownedRefugee.letterText>
   
   <!-- EN: item stash quest -->
@@ -36,14 +36,14 @@
   <Quest_PeaceTalks.label>TODO</Quest_PeaceTalks.label>
   <!-- EN: Peace talks quest -->
   <Quest_PeaceTalks.letterLabel>TODO</Quest_PeaceTalks.letterLabel>
-  <!-- EN: [PAWN_nameDef], {0} of {1}, has sent us a message. [PAWN_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
+  <!-- EN: {PAWN_nameDef}, {0} of {1}, has sent us a message. {PAWN_pronoun} wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
   <Quest_PeaceTalks.letterText>TODO</Quest_PeaceTalks.letterText>
   
   <!-- EN: prisoner rescue quest -->
   <Quest_PrisonerRescue.label>TODO</Quest_PrisonerRescue.label>
   <!-- EN: Prisoner rescue quest -->
   <Quest_PrisonerRescue.letterLabel>TODO</Quest_PrisonerRescue.letterLabel>
-  <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n[PAWN_nameDef] is being held at a camp nearby under armed guard. Rescue [PAWN_objective], and [PAWN_pronoun] will join your colony. [PAWN_pronoun] is a {1}-year-old {2}. [PAWN_pronoun] says that {3}. -->
+  <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n{PAWN_nameDef} is being held at a camp nearby under armed guard. Rescue {PAWN_objective}, and {PAWN_pronoun} will join your colony. {PAWN_pronoun} is a {1}-year-old {2}. {PAWN_pronoun} says that {3}. -->
   <Quest_PrisonerRescue.letterText>TODO</Quest_PrisonerRescue.letterText>
   
   <!-- EN: trade request -->

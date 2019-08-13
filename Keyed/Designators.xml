@@ -68,9 +68,9 @@
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
   <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
 
-  <!-- EN: Unforbid -->
+  <!-- EN: Allow -->
   <DesignatorUnforbid>TODO</DesignatorUnforbid>
-  <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
   <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
@@ -180,11 +180,11 @@
   <OutOfBounds>Rajojen ulkopuolella.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>Ei voi asettaa tuntemattomattomille alueille.</CannotPlaceInUndiscovered>
-  <!-- EN: Interaction spot is blocked by {0}. -->
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
   <InteractionSpotBlocked>Käyttöpiste on estetty.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>Käyttöpiste on rajojen ulkopuolella.</InteractionSpotOutOfBounds>
-  <!-- EN: Interaction spot will be blocked by {0}. -->
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
   <InteractionSpotWillBeBlocked>{0} tulee estämään tämän käyttöpisteen.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0} estäisi kohdan, josta rakennelmaa {1} käytetään.</WouldBlockInteractionSpot>
@@ -198,6 +198,8 @@
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
   <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>TODO</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->

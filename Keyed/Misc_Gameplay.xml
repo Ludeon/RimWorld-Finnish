@@ -256,9 +256,9 @@
   <RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
   <VentClosed>Closed</VentClosed>
-  <!-- EN: worn by {0} -->
+  <!-- EN: worn by {1_labelShort} -->
   <WornBy>worn by {0}</WornBy>
-  <!-- EN: equipped by {0} -->
+  <!-- EN: equipped by {1_labelShort} -->
   <EquippedBy>equipped by {0}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
@@ -280,7 +280,7 @@
   <KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
   <!-- EN: Known threats: {0} -->
   <KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
-  <!-- EN: Known threats: None -->
+  <!-- EN: Threats: Unknown -->
   <KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>TODO</SkillRequirements>
@@ -320,7 +320,7 @@
   <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
   <!-- EN: Expires in -->
   <ExpiresIn>TODO</ExpiresIn>
-  <!-- EN: {0}'s caravan -->
+  <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
   <Reason>TODO</Reason>
@@ -428,11 +428,11 @@
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Ei voi antaa määräyksiä hallitsemattomille yksiköille.</CannotOrderNonControlled>
-  <!-- EN: {0} is incapable of violence. -->
+  <!-- EN: {1_labelShort} is incapable of violence. -->
   <IsIncapableOfViolence>{0} ei pysty väkivaltaan.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
-  <!-- EN: {0} is not drafted. -->
+  <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{0} ei ole värvättynä.</IsNotDrafted>
 
   <!-- Snow -->
@@ -458,15 +458,15 @@
   <CannotFire>TODO</CannotFire>
   <!-- EN: roofed -->
   <Roofed>TODO</Roofed>
-  <!-- EN: Shell loaded: {0} -->
+  <!-- EN: Shell loaded: {1_label} -->
   <ShellLoaded>Ammus ladattu</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Lataamaton</ShellNotLoaded>
 
   <!-- Job reports -->
-  <!-- EN: hauling {0} to {1}. -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
   <ReportHaulingTo>Kuljettamassa: {0} kohteeseen {1}.</ReportHaulingTo>
-  <!-- EN: hauling {0}. -->
+  <!-- EN: hauling {1_label}. -->
   <ReportHauling>Kuljettamassa: {0}.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>TODO</ReportHaulingUnknown>
@@ -496,7 +496,7 @@
   <ReportStanding>standing.</ReportStanding>
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
-  <!-- EN: extinguishing fire on {0}. -->
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
   <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>TODO</ReportDiggingUpCorpse>
@@ -526,7 +526,7 @@
   <Weather>Sää</Weather>
   <!-- EN: Cover -->
   <ShootingCover>Suoja</ShootingCover>
-  <!-- EN: {0} stops {1} -->
+  <!-- EN: {COVER_label} stops {1} -->
   <CoverThingBlocksPercentOfShots>{0} pysäyttää {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>ei suojaa</NoCoverLower>
@@ -562,11 +562,11 @@
   <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
-  <!-- EN: {0} {1} -->
+  <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>ryhmän {1} {0}</PawnMainDescFactionedWrap>
-  <!-- EN: {1} {0} -->
+  <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Ryhmä</Faction>
@@ -666,7 +666,7 @@
   <LessThanADay>less than a day</LessThanADay>
 
   <!-- Shooting tooltip -->
-  <!-- EN: Shot by {0} -->
+  <!-- EN: Shot by {1_labelShort} -->
   <ShotBy>Henkilön {0} osumatarkkuus</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>Kohteeseen ei voi osua.</CannotHit>
@@ -770,9 +770,7 @@
   <ShowWorldFeaturesToggleButton>TODO</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
-  <!-- EN: Fire -->
-  <Fire>Tulipalo</Fire>
-  <!-- EN: Fire on {0} -->
+  <!-- EN: fire on {1_label} -->
   <FireOn>{0} on tulessa</FireOn>
   <!-- EN: Burning -->
   <Burning>Tulessa</Burning>
@@ -828,7 +826,7 @@
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
   <CasketContains>Sisältää</CasketContains>
-  <!-- EN: Warning!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
   <CasketWarning>Varoitus!\n\n[PAWN_nameDef] on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
 
   <!-- Ship launch report -->
@@ -856,7 +854,7 @@
   <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <!-- EN: {0} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
   <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
@@ -924,11 +922,11 @@
   <InactiveFacility>pois käytöstä</InactiveFacility>
 
   <!-- Hediffs growth modes -->
-  <!-- EN: {0}'s {1} is now growing. -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
   <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
-  <!-- EN: {0}'s {1} is now stable. -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
   <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
-  <!-- EN: {0}'s {1} is now in remission. -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
   <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
@@ -938,13 +936,13 @@
   <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
-  <!-- EN: too dangerous for {0} -->
+  <!-- EN: too dangerous for {1_labelShort} -->
   <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
-  <!-- EN: forbidden for {0} -->
+  <!-- EN: forbidden for {1_labelShort} -->
   <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
   <!-- EN: reserved -->
   <MarriageSpotReserved>reserved</MarriageSpotReserved>
-  <!-- EN: unreachable for {0} -->
+  <!-- EN: unreachable for {1_labelShort} -->
   <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
   <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
@@ -1052,6 +1050,7 @@
   <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
 
   <!-- UNUSED -->
+  <Fire>Tulipalo</Fire>
   <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
   <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
   <CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>

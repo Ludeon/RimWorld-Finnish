@@ -79,9 +79,9 @@
   <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
   <ChangeWorkSettings.text>Voit määrittää kuka tekee minkälaista työtä käyttämällä valintaruutuja. Yhdyskuntalaiset tekevät työtehtäviä järjestyksessä vasemmalta oikealle.\n\nKokeile astetusten muuttamista nyt.\n\nPidä varasi - Yhdyskuntalaiset noudattavat aina työtehtävien tärkeysjärjestystä, vaikka tämä saisi heidät tekemään tyhmiä asioita! Järkevän työskentelyjärjestyksen asettaminen on RimWorldissa menestymisessä keskeinen taito. Aseta siis työnteon asetukset varovaisesti, ja tarkista ne usein!</ChangeWorkSettings.text>
   
-  <!-- EN: Please choose a temperate forest landing site with flat terrain. -->
+  <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
   <ChooseLandingSite.rejectInputMessage>Ole hyvä ja valitse laskeutumisalue lauhkea metsä -biomissa, jossa on tasainen maasto.</ChooseLandingSite.rejectInputMessage>
-  <!-- EN: Here, you choose your landing site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a landing site with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile. -->
+  <!-- EN: Here you choose your starting site.\n\nClick a spot with temperate forest biome and no hills. This will be a light green area with brown dots. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
   <ChooseLandingSite.text>Tässä valitset laskeutumisalueen.\n\nOn olemassa paljon biomeita, mutta aloitetaan toistaiseksi ystävällisellä biomilla.\n\nKlikkaa laskeutumisaluetta, jolla on lauhkea metsä -biomi ja jonka maasto on tasainen ja paina SEURAAVA.\n\nVoit käyttää MAASTO-välilehteä nähdäksesi tietoja valitusta laatasta.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
@@ -169,14 +169,14 @@
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
   <Pause.text>Voit pysäyttää ajan.\n\nTämä tarkoittaa sitä, että sinun ei tarvitse koskaan kiirehtiä. Voit aina pysäyttää pelin ja miettiä rauhassa toimenpiteitäsi.\n\nKokeile pelin pysäyttämistä {Key:TogglePause}-näppäimellä tai käyttämällä ajan ohjaimia oikeassa alakulmassa.</Pause.text>
   
-  <!-- EN: Please try randomizing a character first. -->
+  <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.rejectInputMessage>Ole hyvä ja kokeile ensin hahmon satunnaistamista.</RandomizeCharacter.rejectInputMessage>
-  <!-- EN: If you don't like a character, you can regenerate them!\n\nTry randomizing a character with the RANDOMIZE button. -->
+  <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.text>Nyt luot hahmot!\n\nKokeile satunnaistaa hahmo SATUNNAISTA-napilla.</RandomizeCharacter.text>
   
-  <!-- EN: Please try choosing a character first. -->
+  <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
   <ReorderCharacters.rejectInputMessage>TODO</ReorderCharacters.rejectInputMessage>
-  <!-- EN: Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label. -->
+  <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
   <ReorderCharacters.text>TODO</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
@@ -199,11 +199,11 @@
   <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
   <UndraftAll.text>Onnistuit! VAPAUTA nyt kaikki yhdyskuntalaisesi käyttämällä samaa komentoa kuin aikaisemmin.\n\nTämä sallii heidän palata omiin aikatauluihinsa.</UndraftAll.text>
   
-  <!-- EN: Unforbid this -->
+  <!-- EN: Allow this -->
   <UnforbidStartingResources.onMapInstruction>Salli tämä</UnforbidStartingResources.onMapInstruction>
-  <!-- EN: Please unforbid your starting items. -->
+  <!-- EN: Please allow your starting items. -->
   <UnforbidStartingResources.rejectInputMessage>Ole hyvä ja salli aloitusesineesi.</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must unforbid the items.\n\n1. Clicking your starting items to select them.\n2. Click the FORBID toggle button to unforbid them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
+  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
   <UnforbidStartingResources.text>Jotta yhdyskuntalaiset voivat nyt tuoda ensineitä varastoalueelle sinun täytyy sallia esineet.\n\n1. Klikkaa aloitusesineitä valitaksesi niitä.\n2. Paina KIELLÄ TAI SALLI -komentoa salliaksesi ne.\n\n(Edistynyt vihje: Tuplaklikkaa esinettä valitaksesi kaikki näytössä olevat samantyyppiset esineet.)</UnforbidStartingResources.text>
   
 </LanguageData>

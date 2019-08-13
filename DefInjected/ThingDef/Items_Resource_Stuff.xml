@@ -58,7 +58,7 @@
   
   <!-- EN: uranium -->
   <Uranium.label>uraania</Uranium.label>
-  <!-- EN: An dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
   <Uranium.description>Äärimmäisen kova ja tiheä metalli. Vaikka sen tunnetuin käyttökohde on ydinreaktoreissa, sen fysikaaliset ominaisuudet tekevät siitä sopivan joissain tarkoituksissa työkaluna, aseena tai panssarina.</Uranium.description>
   <Uranium.stuffProps.stuffAdjective>uraanista tehty</Uranium.stuffProps.stuffAdjective>
   
