@@ -1,0 +1,37 @@
+Rimworld-suomi-Rimworld
+
+personal shield         henkilökohtainen suojakilpi
+resources               resurssit
+info card               tietokortti?
+construction            rakennelma
+inspect pane            tarkastelupaneeli
+medical operations      lääkintäoperaatiot
+health                  terveys
+orbital trade beacon    kiertoratavaihtokaupan majakka
+goodwill                hyväntahtoisuus
+flick                   naksauttaa? naksauttaja? kääntäjä? käyttäjä?
+broken                  murtunut
+joy tolerance           kyllästyminen ilonpitoihin
+firefighting            palontorjunta
+faction                 ryhmä -> ryhmittymä?
+colony                  yhdyskunta -> siirtokunta?
+rimworld                syrjäinen planeetta?
+melee attacking         lähitaistelee olion ->
+urbworld                urbaani maailma
+midworld                keskimaailma
+glitterworld            välkemaailma
+joywire                 iloimplantti
+debug                   kehitystila
+item                    esine
+architect tab           arkkitehti-välilehti
+work tab                työnteko-välilehti
+restrict tab            rajoitukset-välilehti
+assign tab              määräykset-välilehti
+animals tab             eläimet-välilehti
+research tab            tutkimus-välilehti
+world tab               maailma-välilehti
+history tab             historia-välilehti
+factions tab            ryhmät-välilehti
+menu tab                valikko-välilehti
+landing site            laskeutumisalue
+quadrum                 neljännes
