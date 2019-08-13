@@ -89,9 +89,9 @@
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
-  <RestoreToDefaultSettings>TODO</RestoreToDefaultSettings>
+  <RestoreToDefaultSettings>Palauta oletusasetukset</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
-  <ResetAndRestart>TODO</ResetAndRestart>
+  <ResetAndRestart>Asetukset on palautettu oletuksiin. Peli käynnistyy nyt uudelleen automaattisesti.</ResetAndRestart>
   
   <!-- UNUSED -->
   <MaxNumberOfPlayerHomes>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerHomes>
