@@ -5,19 +5,19 @@
   <ClickToJumpToProblem>Klikkaa hypätäksesi ongelmaan</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMinor>Pienen hermoromahduksen riski</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskMajor>Suuren hermoromahduksen riski</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskExtreme>Äärimmäisen hermoromahduksen riski</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Nämä yhdyskuntalaiset ovat huonolla tuulella ja saattavat kokea pienen hermoromahduksen milloin tahansa:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Nämä yhdyskuntalaiset ovat erittäin huonolla tuulella ja saattavat kokea suuren hermoromahduksen milloin tahansa:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Nämä yhdyskuntalaiset ovat kriittisesti rasittuneita ja saattavat kokea äärimmäisen (ja mahdollisesti väkivaltaisen) hermoromahduksen milloin tahansa:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Tarkista näiden yhdyskuntalaisten Tarpeet-välilehti nähdäksesi mikä heitä vaivaa.\n\nSaadaksesi yhdyskuntalaiset voimaan paremmin voit tehdä heille hienoja aterioita, antaa heille enemmän aikaa ja parempia esineitä ilonpitoon, asettaa heidät kauniisiin ympäristöihin, antaa heidän juoda ja polttaa ja paljon muuta.</BreakRiskDescEnding>
   
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Yhdyskuntalainen tarvitsee pelastusta</ColonistNeedsRescue>
@@ -29,27 +29,27 @@
   <!-- EN: Need defenses -->
   <NeedDefenses>Tarvitset puolustuksia</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Rosvojoukkojen hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia.\n\nRakenna muutama tykkitorni.</NeedDefensesDesc>
+  <NeedDefensesDesc>Olet ollut täällä jo jonkin aikaa ja sinut on todennäköisesti huomattu. Rosvojoukkojen hyökkäykset alkavat pian.\n\nSinun kannattaisi valmistella puolustuksia kuten hiekkasäkkejä ja ansoja.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>Tarvitset lääkärin</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>Nämä yhdyskuntalaisesi tarvitsevat lääkärin hoitoa, mutta sinulla ei ole yhtään tervettä yhdyskuntalaista määritettynä lääkäriksi.\n\n{0}\nNimeä terve yhdyskuntalainen lääkäriksi. Hoitamattomina, haavat eivät saata parantua kunnolla ja tulla pysyviksi.</NeedDoctorDesc>
+  <NeedDoctorDesc>Nämä yhdyskuntalaisesi tarvitsevat lääkärin hoitoa, mutta sinulla ei ole yhtään tervettä yhdyskuntalaista määritettynä lääkäriksi.\n\n{0}\nNimeä terve yhdyskuntalainen tekemään Lääkäri-työtä. Hoitamattomina haavat eivät välttämättä parannu kunnolla ja saattavat tulla pysyviksi.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>Tarvitset louhijan</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>Olet määrännyt joitain kiviä louhittaviksi mutta yhtään yhdyskuntalaistasi ei ole määritetty louhijaksi.\n\nNimeä yhdyskuntalainen louhijaksi.</NeedMinerDesc>
+  <NeedMinerDesc>Olet määrännyt joitain kiviä louhittaviksi mutta yhtään yhdyskuntalaistasi ei ole määritetty louhimaan.\n\nNimeä yhdyskuntalainen tekemään Louhi-työtä.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>Tarvitset vanginvartijan</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>Sinulla on vanki, mutta yhtään yhdyskuntalaistasi ei ole määritetty vanginvartijaksi.\n\nNimeä yhdyskuntalainen vanginvartijaksi.</NeedWardenDesc>
+  <NeedWardenDesc>Sinulla on vanki, mutta yhtään yhdyskuntalaistasi ei ole määritetty vanginvartijaksi.\n\nNimeä yhdyskuntalainen tekemään Vartioi-työtä.</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>Vähän ruokaa</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Sinulla on vain {0} täyden palkin edestä ruokaa varastossa. Tämä on vaarallisen vähän.\n\nKasvata, osta, etsi tai tapa jotain syötävää.</LowFoodDesc>
+  <LowFoodDesc>Sinun ruokavarastosi ovat vaarallisen pienet..\n\n    Sinulla on vain {0} täyden palkin edestä ruokaa varastossa.\n    Ruokaa saavien yhdyskuntalaisten ja vankien määrä: {1}    Varastoissa on {2} päivän edestä ruokaa.\n\nKasvata, osta, etsi tai tapa jotain syötävää.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Vähän lääketarpeita</LowMedicine>
@@ -64,72 +64,72 @@
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
-  <HunterLacksWeapon>Metsästäjällä ei ole asetta</HunterLacksWeapon>
+  <HunterLacksWeapon>Metsästäjällä ei ole ampuma-asetta</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>Yhdyskuntalainen on määrätty metsästäjäksi, mutta hänellä ei ole asetta. Hän ei metsästä ennen kuin hänellä on ase.\n\nSuosittelemme ampuma-aseen käyttöä loukkaantumisen välttämiseksi.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Yhdyskuntalainen on määrätty metsästäjäksi, mutta hänellä ei ole ampuma-asetta.\n\n Hän ei metsästä ennen kuin hänellä on ampuma-ase.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparel>Riekaleiset vaateet</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Näillä yhdyskuntalaisilla on riekaleiset vaatteet, mikä tekee heistä suruullisia:\n\n{0}\nHanki vaatteita jotka eivät ole niin huonossa kunnossa.\n\nVoit räätälöidä vaatteita räätälinpöydällä tai ostaa niitä vaihtokauppiailta.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudity>Onneton alastomuus</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>Nämä yhdyskuntalaiset ovat alastomia eivätkä pidä siitä:\n\n{0}\nHanki heille jotain vaatteita.\n\nVoit räätälöidä vaatteita räätälinpöydällä tai ostaa niitä vaihtokauppiailta.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>Nälänhätä</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>Nämä yhdyskuntalaiset ovat nääntymässä nälkään:\n\n{0}\nHanki heille jotain ruokaa. Tarvitset ruo'oanlähteen kuten ravinnetahna-annostelija ja joitain ruokaa millä tehdä ravinnetahnaa. Varmista myös että he eivät ole värvättyjä.</StarvationDesc>
+  <StarvationDesc>Nämä yhdyskuntalaiset ovat nääntymässä nälkään:\n\n{0}\nHanki heille jotain ruokaa.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
+  <StarvationAnimals>Eläinten nälänhätä</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Nämä yhdyskunnan eläimet ovat nääntymässä nälkään:\n\n{0}\nHanki heille jotain ruokaa.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>Ylirasittuminen</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>Nämä yhdyskuntalaiset ovat erittäin väsyneitä ja tarvitsevat lepoa:\n\n{0}\nHe tarvitsevat sängyn, joka on merkitty yhdyskuntalaisten käyttöön. Varmista lisäksi etteivät he ole värvättyjä.</ExhaustionDesc>
+  <ExhaustionDesc>Nämä yhdyskuntalaiset ovat erittäin väsyneitä ja tarvitsevat lepoa:\n\n{0}\nAnna heille lepoa. He tarvitsevat sängyn, joka on merkitty yhdyskuntalaisten käyttöön. Varmista lisäksi etteivät he ole värvättyjä.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>Tarvitset suppilon</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>Sinulla on ravinnetahna-annostelija, jonka vieressä ei ole suppiloa.\n\nTahna-annostelija tarvitsee vierelleen suppilon täynnä raakaa ruokaa.\n\nRakenna annostelijan viereen suppilo.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Sinulla on ravinnetahna-annostelija, jonka vieressä ei ole suppiloa.\n\nTahna-annostelija tarvitsee vierelleen suppilon täynnä kypsymätöntä ruokaa.\n\nRakenna annostelijan viereen suppilo.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
   <NeedMealSource>Tarvitset ruuanlähteen</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>Sinulla ei ole mitään tapaa valmistaa kunnollisia aterioita raa'oista aineksista.\n\nRakenna ravinnetahna-annostelija tai liesi.\n\n(Se ei saa olla vangin huoneessa, muuten yhdyskuntalaiset eivät voi käyttää sitä.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Sinulla ei ole mitään tapaa valmistaa kunnollisia aterioita kypsymättömistä aineksista.\n\nRakenna liesi, nuotio tai ravinnetahna-annostelija.\n\n(Se ei saa olla vangin huoneessa, muuten yhdyskuntalaiset eivät voi käyttää sitä.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySource>Tarvitset vaihtelua ajanvietteeseen</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>On vain {0} erilaista ajanvietetapaa yhdyskunnassa {1}, mutta nykyisillä odotusten tasolla ({2}), yhdyskuntalaiset tarvitsevat {3} erilaista ajanvietetapaa pysyäkseen tyytyväisinä. Tarjoa vaihtelua ajanvietteeseen tekemällä uusi erilainen ajanvietetapa.\n\n{4}\n\n{5}\n\nHuomaa: Voit tarkistaa minkä tahansa esineen ajanvietetyypin sen Tilastot-sivulta, saatavilla painamalla 'i'-nappia.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
+  <AvailableRecreationTypes>Saatavila olevat ajanvietetavat</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>TODO</MissingRecreationTypes>
+  <MissingRecreationTypes>Puuttuvat ajanvietetavat</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>Nykyisellä odotusten tasolla ({0}) jokaisen ajanvietetavan tehokkuus putoaa {1} valveillaolopäivää kohti. Saatavuus {2} ajanvietetapaan on suositeltavaa.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>TODO</bored>
+  <bored>tylsistynyt</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>TODO</Boredom>
+  <Boredom>Tylsistyminen</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>TODO</BoredomDesc>
+  <BoredomDesc>Nämä ihmiset ovat joko ajanvietteen tarpeessa tai tylsistyneet jokaiseen saatavilla olevaan ajanvietetapaan:\n\n{0}\n\nHanki heille enemmän vaihtelua ajanvietteeseen.\n\nTällä hetkellä saatavilla olevat ajanvietetarpeet {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>Tarvitset akkuja</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>Sinulla on aurinkopaneeleja, mutta ei yhtäkään akkua. Tästä johtuen joka kerta, kun aurinko laskee, sähköt katkeavat.\n\nRakenna muutama akku selvitäksesi yön yli ilman sähkökatkoja.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Sinulla on aurinkopaneeleja ja tuulivoimaloita, mutta ei yhtäkään akkua. Tämä tarkoittaa sitä, että kun aurinko laskee tai tuuli tyyntyy, sähköt katkeavat.\n\nRakenna muutama akku selvitäksesi ilman sähkökatkoja.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Painijalla on ampuma-ase</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>Eräällä yhdyskuntalaisellasi on Painija-luonteenpiirre, mutta kantaa silti ampuma-asetta. Tämä tekee hänet hyvin surulliseksi.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Eräällä yhdyskuntalaisellasi on Painija-luonteenpiirre, mutta kantaa silti ampuma-asetta. Tämä tekee hänet erittäin surulliseksi.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>Suojakilven käyttäjällä on ampuma-ase</ShieldUserHasRangedWeapon>
@@ -149,7 +149,7 @@
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin, määritä sairaspeti valitsemalla se ja nimeä se sairaspediksi. Sitten, valitse loukkaantunut yhdyskuntalainen ja hiiren oikealla näppäimellä sairaspedin päällä määritä heidät potilaiksi.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Nämä yhdyskuntalaiset tarvitsevat lääkärin hoitoa. Ilman sitä he saattavat kuolla vammoihinsa tai ne saattavat tulla pysyviksi.\n\n{0}\nHoida heitä lähettämällä heidät sairaspetiin.\n\n(Ensin määritä sairaspeti valitsemalla se ja määritä se sairaspediksi. Sitten valitse loukkaantunut yhdyskuntalainen ja klikkaa hiiren oikealla näppäimellä sairaspedin päällä määrittäksesi hänet potilaaksi.)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Hypotermia</AlertHypothermia>
@@ -157,9 +157,9 @@
   <AlertHypothermiaDesc>Nämä yhdyskuntalaiset kärsivät hypotermiasta.\n\n{0}\nVarmista, että heidän vaatetuksensa on vuodenaikaan sopiva ja että sisätilat ovat lämmitettyjä.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>{0} potilasta odottaa toimenpiteitä</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Nämä potilaat odottavat lääketoimenpiteitä:\n\n{0}\nVarmista, että sinulla on kaikki tarpeelliset lääkintätarpeet ja vapaa lääkäri saatavilla.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
   <FireInHomeArea>Tuli on irti!</FireInHomeArea>
@@ -181,20 +181,20 @@
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>Metsästäjällä on suojakilpi ja ampuma-ase</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>Erääs metsästäjäsi käyttää ampuma-asetta ja hänellä on päällään henkilökohtainen suojakilpi, joka estää ampumisen.\n\nHe eivät voi metsästää ellei suojaakilpeä poisteta.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Erääs metsästäjäsi käyttää ampuma-asetta ja hänellä on päällään henkilökohtainen suojakilpi, joka estää ampumisen kauas.\n\nHe eivät voi metsästää ellei suojaakilpeä poisteta.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+  <NeedWarmClothes>Tarvitset lämpimiä vaatteita</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>Vähintään {0} yhdyskuntalaiseltasi puuttuu lämpimät vaatteet kun kylmä kausi tulee.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>Kaikilta yhdyskuntalaisiltasi puuttuvat lämpimät vaatteet kun kylmä kausi tulee.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>Ulkoilman lämpötila saavuttaa arvon {0}.\n\nVoit räätälöidä lämpimiä vaatteita räätälinpöydällä tai ostaa niitä vaihtokauppiailta.</NeedWarmClothesDesc2>
   
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+  <ImmobileCaravan>Karavaani ei pysty liikkumaan</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Yksi karavaaneistasi ei pysty liikkumaan koska siinä on liikaa tavaraa.\n\nVoit saada karavaanin taas liikkeelle hylkäämällä jotain tavaroita Tavarat-välilehdestä.</ImmobileCaravanDesc>
   
 </LanguageData>
