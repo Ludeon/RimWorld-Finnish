@@ -17,9 +17,9 @@
   <Food.description>Ruoka on ravinnon määrä jonka olio on lähiaikoina syönyt. Jos se on nollassa olio ottaa ajan myötä nääntymisvahinkoa.</Food.description>
   
   <!-- EN: recreation -->
-  <Joy.label>huvi</Joy.label>
+  <Joy.label>hupi</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
-  <Joy.description>Huvi kuvaa ajoittaista ilonpidon tarvetta. Huomaa että samanlaisen aktiviteetin toistaminen tekee siitä vähemmän tehokkaan huvinlähteen.</Joy.description>
+  <Joy.description>Hupi kuvaa ajoittaista ilonpidon tarvetta. Huomaa että samanlaisen aktiviteetin toistaminen tekee siitä vähemmän tehokkaan huvinlähteen.</Joy.description>
   
   <!-- EN: mood -->
   <Mood.label>mieliala</Mood.label>
