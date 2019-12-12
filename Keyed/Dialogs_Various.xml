@@ -8,7 +8,7 @@
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
-  <Close>TODO</Close>
+  <Close>Sulje</Close>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -20,7 +20,7 @@
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Koska tämä on DRM-vapaa kopio, voit asentaa pelin kahdesti eri kansioihin ja voit pelata sekä uutta että vanhaa versiota.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
-  <GameUpdatedToNewVersionSteam>Jos haluat jatkaa vanhan version käyttöä, voit käyttää Steamin "Betat"-ominaisuutta.\n\n  1. Steam kokoelmassa klikkaa hiiren oikealla hiirellä RimWorldia.\n  2. Klikkaa Ominaisuudet.\n  3. Klikkaa Betat-välilehteä.\n  4. Valitse haluamasi versio pudotusvalikosta.\n\nVanhat versiot tullaan todennäköisesti poistamaan tästä listasta ennen pitkää - emme vain halua lopettaa kesken olevia pelejä.\n\nHuomaa, että jos modinkehittäjät päivittävät modinsa pelin uuteen versioon, ne lakkaavat todennäköisesti toimimasta vanhassa versiossa. Sinun saattaa täytyä ottaa automaattiset päivitykset pois käytöstä estääksesi tämän.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>Jos haluat jatkaa vanhan version käyttöä, voit käyttää Steamin "Betat"-ominaisuutta.\n\n  1. Steam kokoelmassa klikkaa hiiren oikealla hiirellä RimWorldia.\n  2. Klikkaa Ominaisuudet.\n  3. Klikkaa Betat-välilehteä.\n  4. Valitse haluamasi versio pudotusvalikosta.\n\nVanhat versiot tullaan todennäköisesti poistamaan tästä listasta ennen pitkää - emme vain halua lopettaa kesken olevia pelejä.\n\nHuomaa, että jos modinkehittäjät päivittävät modinsa pelin uuteen versioon, ne lakkaavat todennäköisesti toimimasta vanhassa versiossa. Sinun saattaa olla parempi ottaa automaattiset päivitykset pois käytöstä estääksesi tämän.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -30,39 +30,39 @@
   
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssetsTitle>Virhe assetteja ladatessa</ErrorWhileLoadingAssetsTitle>
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
-  <ErrorWhileLoadingAssets>An error occured while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets>Virhe tapahtui ladattaessa pelin assetteja. Katso virhelokia saadaksesi lisätietoja.</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>Peliä suoritetaan tällä hetkellä modien kanssa - ne saattavat aiheuttaa näitä ongelmia.</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMapTitle>Virhe luodessa karttaa</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
-  <ErrorWhileGeneratingMap>An error occured while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>Virhe tapahtui luodessa uutta karttaa. Katso virhelokia saadaksesi lisätietoja.</ErrorWhileGeneratingMap>
   <!-- EN: Error while loading a map -->
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMapTitle>Virhe karttaa ladatessa</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
-  <ErrorWhileLoadingMap>An error occured while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingMap>Virhe tapahtui karttaa ladatessa. Katso virhelokia saadaksesi lisätietoja.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
+  <ModsChanged>Modilista on muuttunut. Peli käynnistyy nyt automaattisesti uudelleen.</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
+  <FailedToRestart>Jotain meni pieleen peliä uudelleen käynnistettäessä. Peli ei pysty täysin tyhjentämään pois käytöstä olevien modien koodia, joten pois käytöstä olevien modien koodi saattaa olla vielä aktiivista.\n\nOn suositeltavaa että suljet ja käynnistät pelin uudelleen ladataksesi kaikki modit siististi.</FailedToRestart>
   <!-- EN: Restarting -->
-  <Restarting>Restarting</Restarting>
+  <Restarting>Käynnistetään uudelleen</Restarting>
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Steam APIa ei pystytä alustamaan. Mahdollisia syitä:\n\n-Steam ei ole käynnissä.\n-Käynnistetty Steamin ulkopuolelta ilman steam_appid.txt-tiedostoa.\n-Suoritettu eri käyttöoikeuksilla kuin Steam (esim. "järjestelmänvalvojana").\n\nYleisimmissä tapauksissa, tietokoneen uudelleenkäynnistäminen korjaa tämän ongelman.\n\nVoit pelata silti, mutta Steamin tilastoja ei kerätä ja Steamin ominaisuudet eivät ole saatavilla.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
   <InitializingInterface>Alustetaan käyttöliittymää</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>Tyhjennetään käyttämättömiä assetteja</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
+  <LoadingAllActiveMods>Ladataan kaikkia aktiivisia modeja</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
   <LoadingDefs>Ladataan defs</LoadingDefs>
   <!-- EN: Loading assets -->
@@ -76,9 +76,9 @@
   <!-- EN: Initializing game -->
   <InitializingGame>Alustetaan peliä</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>Asetetaan esineet paikoilleen</SpawningAllThings>
+  <SpawningAllThings>Asetetaan esineitä paikoilleen</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>Asetetaan yhdyskuntalaiset paikoilleen</SpawningColonists>
+  <SpawningColonists>Asetetaan yhdyskuntalaisia paikoilleen</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->
@@ -102,7 +102,7 @@
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on täysin eri versio.\n\nTämän datan lataaminen ei luultavasti tule toimimaan.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>Käynnissä oleva versio on {0}, mutta tallennettu data on versiosta {1}, joka on täysin eri versio.\n\nTämän datan lataaminen ei luultavasti tule toimimaan.</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
   <SaveIsFromDifferentGameBuild>Käynnissä oleva versio on {0} mutta tallennettu data on versiosta {1}, joka on eri koontiversiosta.\n\nTämän datan lataamisen pitäisi silti toimia.</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
@@ -110,17 +110,17 @@
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
   <SaveIsUnknownFormat>Tallennusdata on tuntematonta formaattia eikä lähes varmasti tule latautumaan oikein.</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>Tiedoston {0} tallentamisessa oli ongelma:\n\n{1}</ProblemSavingFile>
+  <ProblemSavingFile>Tiedoston {0} tallentamisessa oli ongelma:\n\n{1}\n\nKatso virhelokia saadaksesi lisätietoja.</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>Load anyway</LoadAnyway>
+  <LoadAnyway>Lataa silti</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>TODO</ChangeLoadedMods>
+  <ChangeLoadedMods>Lataa modilista tallennuksesta</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
-  <MissingMods>TODO</MissingMods>
+  <MissingMods>Joitain modeja ei ole saatavilla ja täytyy asentaa</MissingMods>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
-  <NamePlayerFactionMessage>{0} on sitä mieltä, että sinun tulisi antaa ryhmällesi nimi. Mikä ryhmän nimen pitäisi olla?</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>Koska näyttää siltä, että tulette olemaan täällä kauan, {0} on sitä mieltä, että sinun tulisi antaa ryhmällesi nimi. Mikä ryhmän nimen pitäisi olla?</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
   <PlayerFactionGainsName>Ryhmäsi tunnetaan nyt nimellä {0}.</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
@@ -128,7 +128,7 @@
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>Koska näyttää siltä, että tulette olemaan täällä kauan, {0} on sitä mieltä, että sinun tulisi antaa tälle yhteisölle nimi. Mikä paikallisen yhteisön nimen tulisi olla?</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>{0} on sitä mieltä, että sinun tulisi antaa tälle asuinpaikalle nimi. Mikä tämän asuinpaikan nimen tulisi olla?</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>Tämä yhteisö tunnetaan nyt nimellä {0}.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
@@ -136,9 +136,9 @@
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>Koska näyttää siltä, että tulette olemaan täällä kauan, {0} on myös sitä mieltä, että sinun tulisi antaa tälle yhteisölle nimi. Mikä paikallisen yhteisön nimen tulisi olla?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} on myös sitä mieltä, että sinun tulisi antaa tälle asuinpaikalle nimi. Mikä tämän asuinpaikan nimen tulisi olla?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>Ryhmäsi tunnetaan nyt nimellä {0} ja tämä yhteisö tunnetaan nyt nimellä {1}.</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>Ryhmäsi tunnetaan nyt nimellä {0} ja tämä asuinpaikka tunnetaan nyt nimellä {1}.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
@@ -150,35 +150,35 @@
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>Yhdyskuntalaisen kutsumanimi on nyt {0}.</PawnGainsName>
+  <PawnGainsName>Tämän henkilön kutsumanimi on nyt {0}. Hänen tittelinsä on {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
-  <AnimalGainsName>TODO</AnimalGainsName>
+  <AnimalGainsName>Eläimen nimi on nyt {0}</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
   <VersionMismatch>Versio yhteensopimaton</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>Kenttä tallennettiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>Tämä peli tallennettiin peliversiolla {0}\nKäytössä oleva versio on {1}.\n\n Tämän tallenuksen lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>Maailma luotiin peliversiossa {0}\nKäytössä oleva versio on {1}.\n\nTämän maailman lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia. Suosittelemme, että luot uuden maailman.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>Maailma luotiin peliversiolla {0}\nKäytössä oleva versio on {1}.\n\nTämän maailman lataaminen aiheuttaa todennäköisesti bugeja ja kaatumisia. Suosittelemme, että luot uuden maailman.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>Tämä tiedosto tallennettiin peliversiolla {0}\nKäytössä oleva versio on {1}\n\nTämän tiedoston lataaminen saattaa aiheuttaa bugeja ja kaatumisia.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Modien eroavuus</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>Kartta tallennettiin eri kokoelmalla modeja käytössä kuin nykyiset käytössä olevat. Tämä saatta ehkä aiheuttaa ongelmia riippuen siitä, mitä modit tekevät.\n\nKartta tallennettiin näillä modeilla (tässä järjestyksessä):\n\n{0}\n\nKäytössä olevat modit ovat:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Tämä tiedosto tallennettiin eri kokoelmalla modeja käytössä kuin nykyiset käytössä olevat. Tämä saatta ehkä aiheuttaa ongelmia riippuen siitä, mitä modit tekevät.\n\nTiedosto tallennettiin näillä modeilla (tässä järjestyksessä):\n\n{0}\n\nKäytössä olevat modit ovat:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
   <ConfirmResolutionChange>Vaihdoit resoluutiota. Toimiiko uusi kunnolla?\n\nAutomaattinen palautus {0}...</ConfirmResolutionChange>
   <!-- EN: Keep -->
-  <ResolutionKeep>Pidä resoluutio</ResolutionKeep>
+  <ResolutionKeep>Pidä</ResolutionKeep>
   <!-- EN: Revert -->
   <ResolutionRevert>Palauta</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>TODO</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Haluatko varmasti poistaa kehitystilan pysyvästi käytöstä tällä tietokoneella?\n\nTämä asetus on ihmisille jotka haluavat puhtaan pelikokemuksen ilman houkutusta käyttää kehitystyökaluja ja niiden tuomaa etua normaalissa pelissä.\n\nKehitystila voidaan ottaa uudelleen käyttöön, mutta sen tekeminen vaatii konfiguraatiotiedostojen manuaalista muokkaamista. Sinun täytyy etsiä Internetistä miten se tehdään.</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
   <!-- EN: Research -->
@@ -196,19 +196,19 @@
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
   <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖYDÄN, yhdyskuntalaisesi eivät pysty tekemään tutkimusta.\n\nVoit kuitenkin tarkastella vaihtoehtoja jo nyt.</ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
+  <ResearchPrerequisites>Tutkimuksen vaatimukset</ResearchPrerequisites>
   <!-- EN: Required research bench -->
-  <RequiredResearchBench>Required research bench</RequiredResearchBench>
+  <RequiredResearchBench>Tarvittava tutkimuspöytä</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  <RequiredResearchBenchFacilities>Tarvittavat tutkimuspöydän laitteet</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Varoitus: Olet laskeutumassa jäiseen ympäristöön. Selviytyminen saattaa olla vaikeaa tai lähes mahdotonta. Jos et halua äärimmäistä haastetta, valitse erilainen paikka tai aloituskuukausi.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>Varoitus: Olet laskeutumassa jäiseen ympäristöön. Selviytyminen saattaa olla vaikeaa tai lähes mahdotonta. Jos et halua äärimmäistä haastetta, valitse erilainen paikka tai aloitusvuodenaika.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Varoitus: Suorituskyky saattaa kärsiä suuremmissa kentissä ellei tietokoneesi ole tehokas.\n\nJos sinulla on huonompi kone, valitse Pieni.\n\nLudeoninen koko on testaamaton eikä lähes varmasti tule toimimaan hyvin.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Peli on suunniteltu pelattavaksi keskikokoisilla kartoilla. Nämä koot tarjoavat runsaasti tilaa!\n\nSuurikokoiset kartat eivät alenna vain suorituskykyä - ne itse asiassa rikkovat pelimekaniikoita. Tekoäly tekee tyhmiä päätöksiä ja se vaikuttaa pelin balanssiin monilla tavoilla. Nämä koot ovat mukana vain perinteiden ja testauksen takia, ole hyvä äläkä käytä niitä ilman tiettyä syytä.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>Kentän koko</MapSize>
+  <MapSize>Kartan koko</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1} neliötä)</MapSizeDesc>
   <!-- EN: Small -->
@@ -218,13 +218,13 @@
   <!-- EN: Large -->
   <MapSizeLarge>Suuri</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Ludeoninen</MapSizeExtreme>
+  <MapSizeExtreme>Äärimmäinen (testi)</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>Starting season:</MapStartSeason>
+  <MapStartSeason>Aloitusvuodenaika:</MapStartSeason>
   <!-- EN: Auto -->
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
   <!-- EN: Notice -->
-  <Notice>TODO</Notice>
+  <Notice>Huomautus</Notice>
 
   <!-- Bill config -->
   <!-- EN: Suspended -->
@@ -240,68 +240,68 @@
   <!-- EN: Details -->
   <Details>Muokkaa</Details>
   <!-- EN: Ingredient radius -->
-  <IngredientSearchRadius>Valmistusaineiden etsintäalue</IngredientSearchRadius>
+  <IngredientSearchRadius>Ainesosien etsintäalue</IngredientSearchRadius>
   <!-- EN: Currently have -->
-  <CurrentlyHave>Varastossa on</CurrentlyHave>
+  <CurrentlyHave>Tällä hetkellä</CurrentlyHave>
   <!-- EN: Counting -->
   <CountingProducts>Lasketaan</CountingProducts>
   <!-- EN: Infinite -->
   <Infinite>Loputon</Infinite>
   <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
+  <AllowedSkillRange>Sallittu {0} taito:</AllowedSkillRange>
   <!-- EN: incompatible -->
-  <IncompatibleLower>TODO</IncompatibleLower>
+  <IncompatibleLower>yhteensopimaton</IncompatibleLower>
   <!-- EN: Any worker -->
-  <AnyWorker>TODO</AnyWorker>
+  <AnyWorker>Kuka tahansa</AnyWorker>
   <!-- EN: Unlimited -->
-  <Unlimited>TODO</Unlimited>
+  <Unlimited>Rajoittamaton</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
-  <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kohdemäärää, koska siinä on useampia tai arvaamattomia osia.)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>(Tällä reseptillä ei voi olla kohdemäärää, koska siinä on useampia tai arvaamattomia tuotteita.)</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
   <WorkAmount>Työn määrä</WorkAmount>
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Minimitaito:</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
-  <BillRequires>Tarvitsee {0} kategoriasta {1}</BillRequires>
+  <BillRequires>Tarvitsee {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>Tarvitsee ravinnemäärän {0}</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
-  <BillRequiresMayVary>(Määrä saattaa vaihdella esineillä, joilla on epästandardi koko, kuten kullalla.)</BillRequiresMayVary>
+  <BillRequiresMayVary>(Pienet ainesosat, kuten kulta, tarvitsevat {0} kertaa suuremman määrän.)</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>Tämä on pienikokoinen ainesosa. Tämä tarkoittaa sitä, että jokainen 'yksikkö' on vain 1/20 normaalikokoisen ainesosan määrästä. Siten täyttääksesi saman ainesosavaatimuksen tarvitset 20 kertaa suuremman määrän.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>Tämä on pienikokoinen ainesosa. Tämä tarkoittaa sitä, että jokainen 'yksikkö' on vain 1/{0} normaalikokoisen ainesosan määrästä. Siten täyttääksesi saman ainesosavaatimuksen tarvitset {0} kertaa suuremman määrän.</ThisIsSmallVolume>
   <!-- EN: ingredients -->
-  <UsableIngredients>käytettävät ainekset</UsableIngredients>
+  <UsableIngredients>ainesosat</UsableIngredients>
   <!-- EN: To {0} -->
   <BillRepeatTargetCountShort>{0} asti</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
+  <PauseWhenSatisfied>Aseta tauolle kun tyydytetty</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
+  <UnpauseWhenYouHave>Poista tauolta kun on</UnpauseWhenYouHave>
   <!-- EN: Paused -->
-  <Paused>Paused</Paused>
+  <Paused>Taulla</Paused>
   <!-- EN: Unpause -->
-  <Unpause>Unpause</Unpause>
+  <Unpause>Poista tauolta</Unpause>
 
   <!-- EN: Count equipped -->
-  <IncludeEquipped>TODO</IncludeEquipped>
+  <IncludeEquipped>Laske käytössä olevat</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>TODO</IncludeTainted>
+  <IncludeTainted>Laske pilaantuneet</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
-  <LimitToAllowedStuff>TODO</LimitToAllowedStuff>
+  <LimitToAllowedStuff>Vain sallitut ainesosat</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
-  <IncludeFromAll>TODO</IncludeFromAll>
+  <IncludeFromAll>Tarkista kaikkialta</IncludeFromAll>
   <!-- EN: Look in {0} -->
-  <IncludeSpecific>TODO</IncludeSpecific>
+  <IncludeSpecific>Tarkista kohteesta {0}</IncludeSpecific>
   
   <!-- Info card -->
   <!-- EN: Damage -->
   <Damage>Vahinko</Damage>
   <!-- EN: Armor penetration -->
-  <ArmorPenetration>TODO</ArmorPenetration>
+  <ArmorPenetration>Panssarinläpäisyvyys</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>TODO</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>Panssarinläpäisyvyys on se määrä panssaria jonka tämä ase jättää huomiotta joka kerta kun se osuu kohteeseen.\n\nJos panssarinläpäisyvyys jon suurempi kuin kohteen panssari, se käyttäytyy kuin panssaria ei olisi. Muussa tapauksessa panssarinläpäisyvyys vähennetään kohteen panssarista.</ArmorPenetrationExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Tarkkuus</Accuracy>
   <!-- EN: Burst shot count -->
@@ -317,13 +317,13 @@
   <!-- EN: Range -->
   <Range>Kantama</Range>
   <!-- EN: Stopping power -->
-  <StoppingPower>TODO</StoppingPower>
+  <StoppingPower>Pysäytysvoima</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>TODO</StoppingPowerExplanation>
+  <StoppingPowerExplanation>Osumat tästä aseesta horjuttavat kohteita hidastaen niiden liikettä usean sekunnin. Tämä ei vaikuta kohteisiin joiden ruumiinkoko on suurempi kuin pysäytysvoima.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
-  <DirectHitChance>TODO</DirectHitChance>
+  <DirectHitChance>Suoran osuman todennäköisyys</DirectHitChance>
   <!-- EN: Miss radius -->
-  <MissRadius>TODO</MissRadius>
+  <MissRadius>ohilaukausalue</MissRadius>
   <!-- EN: Grows wild -->
   <GrowsWild>Kasvaa luonnossa</GrowsWild>
   <!-- EN: Harvestable -->
@@ -333,21 +333,21 @@
   <!-- EN: Growing time -->
   <GrowingTime>Kasvamisaika</GrowingTime>
   <!-- EN: Harvest yield -->
-  <HarvestYield>TODO</HarvestYield>
+  <HarvestYield>Sadon määrä</HarvestYield>
   <!-- EN: Min growth temperature -->
-  <MinGrowthTemperature>TODO</MinGrowthTemperature>
+  <MinGrowthTemperature>Minimi kasvulämpötila</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
-  <MaxGrowthTemperature>TODO</MaxGrowthTemperature>
+  <MaxGrowthTemperature>Maksimi kasvulämpötila</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
   <GrowingTimeDesc>Kasvit kasvavat vain osan aikaa päivästä ja vain jos ne on valaistu. Tämä tilasto mittaa aikaa, jonka kasvi tarvitsee todellista kasvamisaikaa kasvaakseen täyteen mittaansa. Todellinen kasvamisaika on yleensä kaksi kertaa pitempi aika. Matalat lämpötilat hidastavat myös kasvien kasvua.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>päivää</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>Minimi viljelytaito viljeltäväksi</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
   <FertilityRequirement>Hedelmällisyysvaatimus</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
-  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
+  <FertilitySensitivity>Hedelmällisyysherkkyys</FertilitySensitivity>
   <!-- EN: Light requirement -->
   <LightRequirement>Valoisuusvaatimus</LightRequirement>
   <!-- EN: Attributes -->
@@ -367,9 +367,9 @@
   <!-- EN: Diet -->
   <Diet>Ruokavalio</Diet>
   <!-- EN: Leather type -->
-  <LeatherType>TODO</LeatherType>
+  <LeatherType>Nahan tyyppi</LeatherType>
   <!-- EN: Body size -->
-  <BodySize>Body size</BodySize>
+  <BodySize>Ruumiinkoko</BodySize>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Värväyksen vaikeus</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -377,13 +377,13 @@
   <!-- EN: Covers -->
   <Covers>Suojaa</Covers>
   <!-- EN: Layer -->
-  <Layer>TODO</Layer>
+  <Layer>Kerros</Layer>
   <!-- EN: Cover effectiveness -->
-  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
+  <CoverEffectiveness>Suojan tehokkuus</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>Miten tehokas tämä on kun sitä käytetään suojana tulitaistelussa. Korkeammat prosentit estävät suurempaa määrää laukauksia.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
-  <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
+  <MedicineXpGainFactor>Kokemuksensaantikerroin</MedicineXpGainFactor>
   <!-- EN: Mood change -->
   <MoodChange>Vaikutus mielialaan</MoodChange>
   <!-- EN: Wildness -->
@@ -391,65 +391,65 @@
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>Villimpiä eläimiä on luonnostaan vaikeampi kesyttää, kouluttaa ja käsitellä.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>TODO</TrainingDecayInterval>
+  <TrainingDecayInterval>Koulutuksen häviämisaika</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
-  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
+  <TamenessWillNotDecay>Kesyys ei koskaan häviä.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
+  <AnimalFilthRate>Eläimen saastan määrä</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>Eläimet tuottavat saastaa kun ne liikkuvat rakennetuilla lattioilla. Tämä on keskimääräinen tuotettu saasta per {0} kuljettua neliötä.\n\nSuuremmat ja vähemmän lemmikkieläinmäiset eläimet tuottavat enemmän saastaa.</AnimalFilthRateExplanation>
   <!-- EN: Time -->
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
+  <TimeRecordsCategory>Aika</TimeRecordsCategory>
   <!-- EN: Misc -->
-  <MiscRecordsCategory>Misc</MiscRecordsCategory>
+  <MiscRecordsCategory>Sekalainen</MiscRecordsCategory>
   <!-- EN: Addictiveness -->
-  <Addictiveness>Addictiveness</Addictiveness>
+  <Addictiveness>Riippuvuus</Addictiveness>
   <!-- EN: Pack animal -->
-  <PackAnimal>Pack animal</PackAnimal>
+  <PackAnimal>Kuormajuhta</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
+  <PackAnimalExplanation>Kertoo onko tämä eläin sopiva kantamaan esineitä karavaanissa pitkiä matkoja.</PackAnimalExplanation>
   <!-- EN: Skill -->
-  <Skill>TODO</Skill>
+  <Skill>Taito</Skill>
   <!-- EN: Success rate multiplier -->
-  <SurgerySuccessChanceFactor>TODO</SurgerySuccessChanceFactor>
+  <SurgerySuccessChanceFactor>Onnistumiskerroin</SurgerySuccessChanceFactor>
   <!-- EN: Work speed governed by -->
-  <WorkSpeedStat>TODO</WorkSpeedStat>
+  <WorkSpeedStat>Työskentelynopeuteen vaikuttaa</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
-  <EfficiencyStat>TODO</EfficiencyStat>
+  <EfficiencyStat>Tuotantolaatuun vaikuttaa</EfficiencyStat>
   <!-- EN: Construction skill required -->
-  <ConstructionSkillRequired>TODO</ConstructionSkillRequired>
+  <ConstructionSkillRequired>Vaadittava rakennustaito</ConstructionSkillRequired>
   <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>TODO</ConstructionSkillRequiredExplanation>
+  <ConstructionSkillRequiredExplanation>Tarvitsee tämän tason rakentamistaidon rakennettavaksi</ConstructionSkillRequiredExplanation>
   <!-- EN: Nuzzle interval -->
-  <NuzzleInterval>TODO</NuzzleInterval>
+  <NuzzleInterval>Kiehnäysaikaväli</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>TODO</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>Miten usein eläin kiehnää ystävällisiä yhdyskuntalaisia keskimäärin.\n\nKiehnäys on monelle eläinlajille yhteinen käytöstapa, jossa eläin painaa nenänsä tai kuononsa ystävää vasten hellyydenosoituksena. Useimpien ihmisten mielestä tämä on söpöä ja se saa heidät hyvälle tuulelle joksikin aikaa.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>TODO</HarmedRevengeChance>
+  <HarmedRevengeChance>Koston todennäköisyys satutettaessa</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>TODO</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olio haluaa kostaa hyökkääjän satuttaessa kiväärietäisyydeltä.\n\nTämä todennäköisyys kasvaa jos hyökkääjä on lähempänä. Jos hyökkääjä on erittäin lähellä, todennäköisyys on kolme kertaa yhtä suuri.\n\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.\n\nMinimoidaksesi olion kostonhimoisuuden hyökkää sen kimppuun kiväärietäisyydeltä hitaasti ampuvalla aseella.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>TODO</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Koston todennäköisyys kesytyksen epäonnistuessa</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>TODO</TerrainRequirement>
+  <TerrainRequirement>Maaston vaatimus</TerrainRequirement>
   <!-- EN: Supports -->
-  <Supports>TODO</Supports>
+  <Supports>Tukee</Supports>
   <!-- EN: Trap armor penetration -->
-  <TrapArmorPenetration>TODO</TrapArmorPenetration>
+  <TrapArmorPenetration>Ansan panssarinläpäisyvyys</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>TODO</RearmCost>
+  <RearmCost>Uudeleenlatauksen hinta</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>TODO</RearmCostExplanation>
+  <RearmCostExplanation>Tämän tykkitornin uudelleenlataukseen vaadittavat resurssit (vaikeusaste vaikuttaa)</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Laukauksia ennen uudelleenlatausta</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Miten monta laukausta tämä tykkitorni voi laukaista ennen kuin se täytyy ladata uudelleen.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>TODO</PowerConsumption>
+  <PowerConsumption>Sähkönkulutus</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
-  <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
+  <PositiveBuysNegativeSells>Positiiviset numerot ostavat.\nNegatiiviset numerot myyvät.</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
   <BuyPriceDesc>Hinta, jonka maksat ostaaksesi tämän.</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
@@ -457,7 +457,7 @@
   <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>Tämän tavaran hinta on {0}.</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>Miten monta tällaista tavaraa yhdyskunta on valmiina vaihtamaan\n\nVoit myydä kiertoradalla oleville kauppiaille tavaroita, jos ne ovat ulkona ja lähellä kiertoradallista vaihtokauppamajakkaa.</ColonyCount>
+  <ColonyCount>Miten monta tällaista tavaraa yhdyskunta on valmiina vaihtamaan\n\nVoit myydä kiertoradalla oleville kauppiaille tavaroita vain jos ne ovat lähellä kiertoradallista vaihtokauppamajakkaa.</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
   <TraderCount>Miten monta tällaista tavaraa vaihtokauppialla on antaa.</TraderCount>
   <!-- EN: Accept -->
@@ -469,207 +469,207 @@
   <!-- EN: Close -->
   <CloseButton>Sulje</CloseButton>
   <!-- EN: Your tradeable silver: {0} -->
-  <YourTradeableSilver>Sinun vaihtokauppaan sopivan hopean määrä: {0}</YourTradeableSilver>
+  <YourTradeableSilver>Vaihtokauppakelpoista hopeaa: {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
   <YourTradeableSilverTip>Voit käydä vaihtokauppaa vain sillä hopealla joka on lähellä kiertoradallista vaihtokauppamajakkaa eikä ole katon alla.</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
-  <TraderHasNoMore>Vaihtokauppiaalle ei ole enempää.</TraderHasNoMore>
+  <TraderHasNoMore>Vaihtokauppiaalla ei ole enempää.</TraderHasNoMore>
   <!-- EN: No more to sell. -->
   <ColonyHasNoMore>Sinulla ei ole enempää.</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
-  <TraderWillNotTrade>Vaihtokauppias ei suostu vaihtamaan tällaisia tavaroita.</TraderWillNotTrade>
+  <TraderWillNotTrade>Vaihtokauppias ei suostu ostamaan tätä.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
-  <Negotiator>Negotiator</Negotiator>
+  <Negotiator>Neuvottelija</Negotiator>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>Neuvottelijasi {0} ei pysty puhumaan kunnolla huonon terveyden vuoksi.\n\nTällä on vaikutusta vaihtohintoihin.\n\nHarkitse terveemmässä kunnossa olevan neuvottelijan käyttöä.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>Neuvottelijasi {1_labelShort} ei pysty puhumaan kunnolla huonon terveyden vuoksi.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>TODO</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>Neuvottelijasi {1_labelShort} ei pysty kunnolla kuulemaan huonon terveyden vuoksi.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
-  <NegotiatorCapacityImpaired>TODO</NegotiatorCapacityImpaired>
+  <NegotiatorCapacityImpaired>Tällä on vaikutusta vaihtokaupan hintoihin.\n\nHarkitse terveemmän neuvottelijan käyttämistä.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>Vaihtokauppiaalla ei ole tarpeeksi hopeaa kauppaa varten. Jatka silti?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>Järjestä</SortBy>
   <!-- EN: trader type -->
-  <TraderTypePrice>trader type</TraderTypePrice>
+  <TraderTypePrice>vaihtotyyppi</TraderTypePrice>
   <!-- EN: selling -->
-  <Selling>selling</Selling>
+  <Selling>myyminen</Selling>
   <!-- EN: buying -->
-  <Buying>buying</Buying>
+  <Buying>ostaminen</Buying>
   <!-- EN: item sell price multiplier -->
-  <ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
+  <ItemSellPriceFactor>esineen myyntihinnan kerroin</ItemSellPriceFactor>
   <!-- EN: difficulty level -->
-  <DifficultyLevel>difficulty level</DifficultyLevel>
+  <DifficultyLevel>vaikeustaso</DifficultyLevel>
   <!-- EN: global post-process curve -->
-  <PostCurve>global post-process curve</PostCurve>
+  <PostCurve>globaali jälkikäsittely</PostCurve>
   <!-- EN: Your negotiator bonus -->
-  <YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
+  <YourNegotiatorBonus>Neuvottelijasi bonus</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
-  <TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+  <TradeWithFactionBaseBonus>Bonus ryhmän tukikohdan kanssa vaihtamisesta</TradeWithFactionBaseBonus>
   <!-- EN: minimum -->
-  <minimum>minimum</minimum>
+  <minimum>minimi</minimum>
   <!-- EN: Final price -->
-  <FinalPrice>Final price</FinalPrice>
+  <FinalPrice>Lopullinen hinta</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>TODO</GiftModeTip>
+  <GiftModeTip>Lahjatila - tarjoa lahjoja kohteelle {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
-  <TradeModeTip>TODO</TradeModeTip>
+  <TradeModeTip>Palaa vaihtotilaan</TradeModeTip>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
-  <SellableItemsTitle>TODO</SellableItemsTitle>
+  <SellableItemsTitle>Esineitä joita tämä vaihtokauppias ostaa</SellableItemsTitle>
   <!-- EN: Creatures -->
-  <PawnsTabShort>TODO</PawnsTabShort>
+  <PawnsTabShort>Olioita</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Muodosta karavaani</FormCaravan>
   <!-- EN: Number available to send with the caravan. -->
-  <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>Saatavilla oleva lukumäärä karavaaniin laitettavaksi.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
-  <PawnsTab>People and animals</PawnsTab>
+  <PawnsTab>Ihmiset ja eläimet</PawnsTab>
   <!-- EN: Items -->
-  <ItemsTab>Items</ItemsTab>
+  <ItemsTab>Esineet</ItemsTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
-  <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>Sinun täytyy määrätä vähintään yksi ei maissa oleva yhdyskuntalainen.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
-  <CaravanCouldNotFindExitSpot>Could not find any valid exit location.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindExitSpot>Valittu poistumiskohta ({0}) on luoksepääsemätön.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>Ei löytynyt yhtään sopivaa pakkausaluetta. Varmista että valittuun poistumiskohtaan ({0}) pääsee.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Varoitus: jotkin määrätyistä yhdyskuntalaisista eivät pääse poistumiskohtaan ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort} on luoksepääsemätön kaikille määrätyille yhdyskuntalaisille.</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>Yksikään määrätyistä yhdyskuntalaisista ei pääse kohteeseen {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
-  <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <CaravanItemIsUnreachableMulti>Yksikään määrätyistä yhdyskuntalaisista ei pääse kohteeseen {0}x {1}.</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
-  <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
+  <TooBigCaravanMassUsage>Karavaani ei voi kantaa noin paljon.</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
-  <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+  <CaravanMassUsageTooltip>Sisältää kannetut ja päällä olevat esineet. Vähemmän kuin maksimin kantaminen antaa nopeusbonuksen.</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>TODO</CaravanVisibilityTip>
+  <CaravanVisibilityTip>Näkyvyys kuvaa miten helppo karavaani on huomata.\n\nSe moninkertaistaa todennäköisyyden että viholliset hyökkäävät sen kimppuun.\n\nNäkyvyys ei vaikuta kykyysi löytää sitä mitä haluat.\n\nNäkyvyys perustuu kaikkien ihmisten ja eläinten yhteenlaskettuun ruumiin kokoon.</CaravanVisibilityTip>
   <!-- EN: Days of food -->
-  <DaysWorthOfFood>TODO</DaysWorthOfFood>
+  <DaysWorthOfFood>Päivää ruokaa</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
-  <DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
+  <DaysWorthOfFoodInfoRot>pilaantumiseen {0}</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
-  <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
+  <InfiniteDaysWorthOfFoodInfo>Loputon</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Arvioitu päivien määrä ennen kuin ainakin yhdeltä ihmiseltä tai eläimeltä loppuu ruoka. Eri lajeilla on erilaiset ruokavaliot, joten toisilta saattaa loppua ruoka ennen muita. Tämä arvo lasketaan tarkemmin kun reitti on valittu.\n\nVaikuttajat:\n  - Kannetun ruuan tyyppi ja määrä\n  - Karavaanin jäsenet ja niiden ruokavaliot\n  - Keräämisnopeus\n  - Eläimet voivat laiduntaa\n  - Aikaa kunnes ruoka pilaantuu\n  - Kuuma sää pilaannuttaa ruokaa nopeammin.</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(vain ensimmäinen reittipiste otetaan huomioon)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
-  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog>Karavaanillasi on vain {0} päivän edestä ruokaa ja tulee nälkäiseksi erittäin nopeasti.\n\nOletko varma että haluat muodostaa tämän karavaanin?</DaysWorthOfFoodWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
-  <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodWarningDialog_NoFood>Karavaanillasi ei ole ruokaa ja tulee nälkäiseksi erittäin nopeasti.\n\nOletko varma että haluat muodostaa tämän karavaanin?</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>TODO</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>Keskimääräinen ihmisten päivässä keräämä ruoka. Tämä arvo muuttuu kun matkustat läpi biomien, joissa on eri keräämismahdollisuudet.</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
-  <ForagedFoodPerDay>TODO</ForagedFoodPerDay>
+  <ForagedFoodPerDay>Kerätty päivässä</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.\n\nAre you sure you want to form this caravan?</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanFoodWillRotSoonWarningDialog>Suuri osa karavaanin ruuasta pilaantuu pian.</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
-  <CaravanIncapableOfSocial>TODO</CaravanIncapableOfSocial>
+  <CaravanIncapableOfSocial>Sinulla ei ole karavaanissa ketään joka pystyy diplomatiaan tai vaihtokauppaan.</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
-  <CaravanAreYouSure>TODO</CaravanAreYouSure>
+  <CaravanAreYouSure>Oletko varma että haluat muodostaa tämän karavaanin?</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>TODO</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>Sinun täytyy ensin valita reitti karavaanille.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>TODO</MessageNoValidExitTile>
+  <MessageNoValidExitTile>Karavaanisi ei pysty lähtemään alueelta. Varmista että vähintään yhdelle reunalle pääsee.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
-  <ItemWeightTip>Weight of this item.</ItemWeightTip>
+  <ItemWeightTip>Tämän esineen paino.</ItemWeightTip>
   <!-- EN: Market value -->
-  <MarketValueTip>Market value</MarketValueTip>
+  <MarketValueTip>Markkina-arvo</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
-  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
+  <DaysUntilRotTip>Päivien määrä kunnes tämä esine alkaa pilaantua alueella vallitsevan lämpötilan perusteella.</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>TODO</ItemNutritionTip>
+  <ItemNutritionTip>Miten suuren ravintoarvon tämä ruoka tarjoaa.\n\nVertailuksi aikuinen tarvitsee {0} ravintoarvoa päivässä.</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>TODO</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>Tämä eläin voi laiduntaa ruokaa ympäristöstä kannetun ruuan syönmisen sijasta. Laiduntaminen on vain mahdollista joissain biomeissa ja lämpötila-alueissa.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>TODO</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>Ravintoarvoa kerätty päivässä. Todelliseen arvoon vaikuttaa myös biomin kerättävyys.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
-  <NutritionEatenPerDayTip>TODO</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>Ravintoarvoa syöty päivässä. Vertailuksi yksinkertaisissa aterioissa on {0} ravintoarvoa.\n\nVoi syödä: {2}\n\nSelitys:\n{1}.</NutritionEatenPerDayTip>
   <!-- EN: Mass carried -->
-  <MassCarriedSimple>TODO</MassCarriedSimple>
+  <MassCarriedSimple>Kannettu massa</MassCarriedSimple>
   <!-- EN: Mass capacity -->
-  <MassCapacity>Mass capacity</MassCapacity>
+  <MassCapacity>Massakapasiteetti</MassCapacity>
   <!-- EN: Mass -->
-  <Mass>Mass</Mass>
+  <Mass>Massa</Mass>
   <!-- EN: Caravan mass -->
-  <CaravanMass>TODO</CaravanMass>
+  <CaravanMass>Karavaanin massa</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
-  <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
+  <EquipmentAndApparelMass>Varusteiden ja vaatteiden massa</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
-  <InventoryMass>Inventory mass</InventoryMass>
+  <InventoryMass>Omaisuuksien massa</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>Yhdyskuntalaiset keräävät nyt esineet ja lähtevät alueelta.</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
   <ReformCaravan>Muodosta karavaani uudelleen</ReformCaravan>
   <!-- EN: Colonists -->
-  <ColonistsSection>Colonists</ColonistsSection>
+  <ColonistsSection>Yhdyskuntalaiset</ColonistsSection>
   <!-- EN: Prisoners -->
-  <PrisonersSection>Prisoners</PrisonersSection>
+  <PrisonersSection>Vangit</PrisonersSection>
   <!-- EN: Capture -->
-  <CaptureSection>TODO</CaptureSection>
+  <CaptureSection>Kaappaa</CaptureSection>
   <!-- EN: Animals -->
-  <AnimalsSection>Animals</AnimalsSection>
+  <AnimalsSection>Eläimet</AnimalsSection>
   <!-- EN: Choose route -->
-  <ChooseRouteButton>TODO</ChooseRouteButton>
+  <ChooseRouteButton>Valitse reitti</ChooseRouteButton>
   <!-- EN: Abandon -->
-  <AbandonButton>TODO</AbandonButton>
+  <AbandonButton>Hylkää</AbandonButton>
   <!-- EN: Movement speed -->
-  <CaravanMovementSpeed>TODO</CaravanMovementSpeed>
+  <CaravanMovementSpeed>Liikkumisnopeus</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
-  <TilesPerDay>TODO</TilesPerDay>
+  <TilesPerDay>laattaa/päivä</TilesPerDay>
   <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>TODO</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>Liikkumisnopeus riippuu kaikkien ihmisten ja eläinten keskinopeudesta, kannetusta massasta ja maaston liikkumisvaikeudesta.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
-  <AnimalsWillBeAbleToGraze>TODO</AnimalsWillBeAbleToGraze>
+  <AnimalsWillBeAbleToGraze>Eläimet tulevat pystymään laiduntamaan</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
-  <AnimalsCanGraze>TODO</AnimalsCanGraze>
+  <AnimalsCanGraze>Eläimet voivat laiduntaa</AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
-  <PossibleToGrazeFor>TODO</PossibleToGrazeFor>
+  <PossibleToGrazeFor>(vielä {0} päivää)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
-  <PossibleToGrazeForever>TODO</PossibleToGrazeForever>
+  <PossibleToGrazeForever>(ikuisesti))</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
-  <CantGrazeBecauseOfBiome>TODO</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->
-  <CantGrazeBecauseOfTemp>TODO</CantGrazeBecauseOfTemp>
+  <CantGrazeBecauseOfTemp>(liian kylmää vielä {0} päivää)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
-  <TotalNutrition>TODO</TotalNutrition>
+  <TotalNutrition>Yhteenlaskettu ravintoarvo</TotalNutrition>
   <!-- EN: Not moving -->
-  <CaravanNotMoving>TODO</CaravanNotMoving>
+  <CaravanNotMoving>Ei liikkeellä</CaravanNotMoving>
   <!-- EN: Foraged nutrition per day -->
-  <ForagedNutritionPerDay>TODO</ForagedNutritionPerDay>
+  <ForagedNutritionPerDay>Päivässä kerätty ravintoarvo</ForagedNutritionPerDay>
   <!-- EN: Faction type -->
-  <FactionType>TODO</FactionType>
+  <FactionType>Ryhmän tyyppi</FactionType>
   <!-- EN: Total body size -->
-  <TotalBodySize>TODO</TotalBodySize>
+  <TotalBodySize>Yhteenlaskettu ruumiinkoko</TotalBodySize>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
   <SplitCaravan>Jaa karavaani</SplitCaravan>
   <!-- EN: You must leave at least one non-downed colonist. -->
-  <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SourceCaravanMustHaveAtLeastOneColonist>Sinun täytyy jättää vähintään yksi ei maissa oleva yhdyskuntalainen.</SourceCaravanMustHaveAtLeastOneColonist>
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
-  <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
+  <SplitCaravanThingCountTip>Miten monta tätä esinettä karavaani on valmis antamaan uuteen karavaaniin.</SplitCaravanThingCountTip>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
-  <LoadTransporters>Load {0}</LoadTransporters>
+  <LoadTransporters>Lastaa {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>Merkityt ihmiset ja esineet ovat liian painavia kuljetuskapseleille.</TooBigTransportersMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>Et voi lähettää tyhjiä kuljetuskapseleita.</CantSendEmptyTransportPods>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{0} ei pääse kuljetuskapseleiden luo.</PawnCantReachTransporters>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>Kuljetuskapseleiden ja kohteen {0} välillä ei ole reittiä.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>Kuljetuskapseleiden ja kohteen {0}x {1} välillä ei ole reittiä.</TransporterItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -683,9 +683,9 @@
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>Haluatko lähettää pelitietoja RimWorldin servereille auttaaksesi kehittäjiä tasapainottamaan peliä? Jos sallit, tietosi lähetetään joka {0}:s päivä (ja joissain harvinaisissa tapauksissa kuten pelin lopussa). Yksityisyysasetuksia voidaan muuttaa myöhemmän asetuksista.</HistoryUploadMessage>
+  <HistoryUploadMessage>Haluatko lähettää pelitietoja RimWorldin servereille auttaaksesi kehittäjiä tasapainottamaan peliä? Jos hyväksyt, tietosi lähetetään {0} päivän välein (ja joissain harvinaisissa tapauksissa kuten pelin lopussa). Yksityisyysasetuksia voidaan muuttaa myöhemmän asetuksista.</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
-  <HistoryUploadMessagePlayerName>Vaikka pelihistoria lähetetäänkin nimettömänä, voit liittää "käyttäjänimen".</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>Vaikka pelihistoria lähetetäänkin nimettömänä, voit liittää nimesi.</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
   <HistoryUploadYes>Salli pelitietojen lähettäminen</HistoryUploadYes>
   <!-- EN: Do not allow uploading gameplay data -->
@@ -705,13 +705,13 @@
   <!-- EN: Delete outfit... -->
   <DeleteOutfit>Poista vaatekerta...</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
-  <OutfitInUse>{0} käyttää vaatekertaa.</OutfitInUse>
+  <OutfitInUse>Vaatekertaa käyttää {0}.</OutfitInUse>
   <!-- EN: No outfit selected -->
   <NoOutfitSelected>Ei vaatekertaa valittuna</NoOutfitSelected>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
-  <DrugPolicy>Huumekäytännöt</DrugPolicy>
+  <DrugPolicy>Päihdekäytännöt</DrugPolicy>
   <!-- EN: Select policy... -->
   <SelectDrugPolicy>Valitse käytäntö...</SelectDrugPolicy>
   <!-- EN: New policy -->
@@ -719,23 +719,23 @@
   <!-- EN: Delete policy... -->
   <DeleteDrugPolicy>Poista käytäntö...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>Huumekäytäntöä käyttää henkilö(t) {0}.</DrugPolicyInUse>
+  <DrugPolicyInUse>Päihdekäytäntöä käyttää {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Ruokarajoitusta käyttää {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
-  <SocialDrugs>Sosiaalinen käyttö</SocialDrugs>
+  <SocialDrugs>Seurapäihteet</SocialDrugs>
   <!-- EN: No drugs -->
-  <NoDrugs>Ei huumausaineita</NoDrugs>
+  <NoDrugs>Ei päiheitä</NoDrugs>
   <!-- EN: One drink per day -->
   <OneDrinkPerDay>Yksi juoma päivässä</OneDrinkPerDay>
   <!-- EN: Unrestricted -->
   <Unrestricted>Rajoittamaton</Unrestricted>
   <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>Ei huumekäytäntöä valittuna</NoDrugPolicySelected>
+  <NoDrugPolicySelected>Ei päihdekäytäntöä valittuna</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
-  <AddDrug>Lisää huumausaine...</AddDrug>
+  <AddDrug>Lisää päihde...</AddDrug>
   <!-- EN: Drug -->
-  <DrugColumnLabel>Huumausaine</DrugColumnLabel>
+  <DrugColumnLabel>Päihde</DrugColumnLabel>
   <!-- EN: Usage -->
   <DrugUsageColumnLabel>Käyttö</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
@@ -743,11 +743,11 @@
   <!-- EN: Only if mood below -->
   <MoodThresholdColumnLabel>Vain jos mieliala on alle</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>Vain jos huvi on alle</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Vain jos hupi on alle</JoyThresholdColumnLabel>
   <!-- EN: Take to inventory -->
-  <TakeToInventoryColumnLabel>Ota varusteisiin</TakeToInventoryColumnLabel>
+  <TakeToInventoryColumnLabel>Ota omaisuuksiin</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
-  <NoDrugsBrackets>(ei huumausaineta)</NoDrugsBrackets>
+  <NoDrugsBrackets>(ei päihteitä)</NoDrugsBrackets>
   <!-- EN: Every day -->
   <EveryDay>Joka päivä</EveryDay>
   <!-- EN: {0} times per day -->
@@ -757,49 +757,49 @@
   <!-- EN: Any -->
   <NoDrugUseRequirement>Mikä tahansa</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
-  <DeleteDrugTooltip>Poista tämä huumausaine.</DeleteDrugTooltip>
+  <DeleteDrugTooltip>Poista tämä päihde.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
-  <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
+  <DrugNameColumnDesc>Päihteen nimi.</DrugNameColumnDesc>
   <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
+  <DrugUsageColumnDesc>Miten päihdettä voi käyttää.</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
-  <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
+  <FrequencyColumnDesc>Miten usein yhdyskuntalaiset voivat kokeilla tämän päihteen käyttöä.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>Yhdyskuntalaiset käyttävät tätä päihdettä vain jos heidän mielilalansa on tämän alapuolella.</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Yhdyskuntalaiset käyttävät tätä päihdettä vain jos heidän hupinsa taso on tämän alapuolella.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>Miten paljon ylimäärin ottaa mukaan päihdettä kun sitä kerätään käytettäväksi jotta aina päihdevarastossa käynti voidaan välttää.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>Addiktioon\n\nKäytä tätä päihdettä ruokkimaan jo syntynyttä addiktiotarvetta.\n\nMyös pois käytöstä ollessa tietyt piirteet omaavat hahmot tai hermoromahtaneet käyttävät päihdettä siitä huolimatta.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>Ajanvietteeseen\n\nKäytä tätä päihdettä hupiin ja sosiaalisiin tarkoituksiin.\n\nMyös pois käytöstä ollessa tietyt piirteet omaavat hahmot tai hermoromahtaneet käyttävät päihdettä siitä huolimatta.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>Aikataulun mukaan\n\nKäytä tätä päihdettä määrätyn aikataulun mukaan kun tietyt ehdot täyttyvät.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>TODO</FoodRestriction>
+  <FoodRestriction>Ruokarajoitus</FoodRestriction>
   <!-- EN: Lavish -->
-  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
+  <FoodRestrictionLavish>Yltäkylläinen</FoodRestrictionLavish>
   <!-- EN: Fine -->
-  <FoodRestrictionFine>TODO</FoodRestrictionFine>
+  <FoodRestrictionFine>Hieno</FoodRestrictionFine>
   <!-- EN: Simple -->
-  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
+  <FoodRestrictionSimple>Yksinkertainen</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <FoodRestrictionPaste>Tahna</FoodRestrictionPaste>
   <!-- EN: Raw -->
-  <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
+  <FoodRestrictionRaw>Valmistamaton</FoodRestrictionRaw>
   <!-- EN: Nothing -->
-  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
+  <FoodRestrictionNothing>Ei mitään</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>TODO</SelectFoodRestriction>
+  <SelectFoodRestriction>Valitse ruokarajoitus</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>TODO</NewFoodRestriction>
+  <NewFoodRestriction>Uusi ruokarajoitus</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Poista ruokarajoitus</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>Ei ruokarajoitusta valittuna</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->
@@ -819,49 +819,49 @@
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} tarvitsee {1} taitoa Kasvattamisessa sen kylvämiseen.\n\nYhdelläkään ei maissa olevalla yhdyskuntalaisellasi ei ole tätä taitoa, joten tätä kasvia ei viljellä.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeWithColonyPawns>Jotkin yhdyskuntalaisesi tai eläimesi ovat tällä alueella. Oletko varma että hylkäät sen?\n\nSeuraavat ihmiset ja eläimet jätetään jälkeen:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
-  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts>Jos hylkäät {0}, seuraaville ihmisille tulee seuraavat ajatukset:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Kaikki:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>TODO</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Jotkin eläimet tai vangit yrittävät liittyä tähän karavaaniin. Jos liikutat sitä, ne eivät enää pysty siihen.\n\nEläimiä, vankeja ja maissa olevia yhdyskuntalaisia jotka jätetään jälkeen ilman yhtään ei maissa olevaa yhdyskuntalaista pidetään hylättyinä ja viholliset voivat kaapata ne.\n\nOletko varma että siirrät karavaaniasi?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
-  <ConfirmBanishPawnDialog>TODO</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog>Haluatko varmasti karkottaa yksilön {1_label}</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>TODO</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} kuolee mitä varmimmin.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>TODO</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} ottaa mukaanssa seuraavat esineet</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>TODO</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Kaikille yhdyskuntalaisille tulee seuraavat ajatukset:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>TODO</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort} karkottaminen tuo seuraaville ihmisille seuraavat ajatukset:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Kapseliryhmä ei ole täysin lastattu. {0} puuttuu. Laukaise silti?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>TODO</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Koska tämä sijainti on {0} laatan etäisyydellä toisen ryhmän tukikohdasta, he kokevat että tunkeilet heidän maillaan ja suhteesi siihen ryhmään huononee joka {1}. päivä.\n\nAsetu silti tähän?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>TODO</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>Oletko varma että haluat siivota kaikki kielen {0} käännöstiedostot?\n\nTämä tulee:\n  - Lisäämään placeholderit puuttuville keyed käännöksille, def-injektoiduille käännöksille ja taustatarinoille\n  - Lisämään tai päivittämään kommentteja joissa on alkuperäinen kääntämätön teksti\n  - Siirtämään kaikki keyed ja def-injektoidut käännökset oikeisiin XML-tiedostoihin\n  - Asettamaan automaattisen muotoilun kaikkiin XML-tiedostoihin\n  - Päivittämään yhteensopivat def-nimet\n  - Poistamaan kaikki olemassa olevat XML-kommentit (paitsi täyden listan injektioissa)\n\nEi-XML tiedostoja ei poisteta tai muokata.\n\nMuista käynnistää peli uudelleen käännöstiedostojen muokkauksen jälkeen ennen kuin käytät tätä työkalua ladataksesi kaiken datan uudelleen.\n\nVarmista että sinulla on varmuuskopio kaikista käännöstiedostoista ennen kuin käytät tätä työkalua.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>Kyllä, minulla on varmuuskopio</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>Karavaani tulee olemaan liikuntakyvytön jos lähetät kapselit tyhjälle laatalle. Jatka silti?</TransportersCaravanWillBeImmobile>
 
   <!-- UNUSED -->
   <PermadeathMode>Permadeath-tila</PermadeathMode>
@@ -871,26 +871,6 @@
   <BillStoreMode_DropOnFloor>Jätä lattialle</BillStoreMode_DropOnFloor>
   <BillStoreMode_BestStockpile>Vie parhaaseen varastoon</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
-  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
-  <CaravanConfigTab>Config</CaravanConfigTab>
   <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-  <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Exit direction</ExitDirection>
-  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
-  <CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>New</CaravanSplitDestLabel>
-  <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
-  <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
-  <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
-  <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
-  <ConfirmAbandonPawnDialog_LeftToDie>{0} will most likely die.</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with [PAWN_objective]:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-  <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-  <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
 
 </LanguageData>

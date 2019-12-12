@@ -24,9 +24,9 @@
   <!-- EN: winter -->
   <SeasonWinter>talvi</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <SeasonPermanentSummer>pysyvä kesä</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+  <SeasonPermanentWinter>pysyvä talvi</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
   <QuadrumAprimay>Huhtitouko</QuadrumAprimay>
@@ -62,9 +62,9 @@
   <!-- EN: {0} hours -->
   <PeriodHours>{0} tuntia</PeriodHours>
   <!-- EN: 1 second -->
-  <Period1Second>TODO</Period1Second>
+  <Period1Second>1 sekunti</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>TODO</PeriodSeconds>
+  <PeriodSeconds>{0} sekuntia</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->

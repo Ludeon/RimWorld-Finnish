@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>TODO</Tool>
+  <Tool>Työkalu</Tool>
   <!-- EN: damage -->
-  <DamageLower>TODO</DamageLower>
+  <DamageLower>vahinko</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
+  <SecondsPerAttackLower>sekuntia per hyökkäys</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
   <StatsReport_BaseValue>Alkuarvo</StatsReport_BaseValue>
@@ -15,7 +15,7 @@
   <!-- EN: Relevant gear -->
   <StatsReport_RelevantGear>Tätä koskevat varusteet</StatsReport_RelevantGear>
   <!-- EN: Relevant health conditions -->
-  <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
+  <StatsReport_RelevantHediffs>Tätä koskevat terveydentilat</StatsReport_RelevantHediffs>
   <!-- EN: Life stage -->
   <StatsReport_LifeStage>Elämänvaihe</StatsReport_LifeStage>
   <!-- EN: Material -->
@@ -23,29 +23,29 @@
   <!-- EN: Character quality -->
   <StatsReport_CharacterQuality>Hahmon laatu</StatsReport_CharacterQuality>
   <!-- EN: Skills -->
-  <StatsReport_Skills>Taitojen vaikutus</StatsReport_Skills>
+  <StatsReport_Skills>Taidot</StatsReport_Skills>
   <!-- EN: Other stats -->
-  <StatsReport_OtherStats>Muiden tilastojen vaikutus</StatsReport_OtherStats>
+  <StatsReport_OtherStats>Muut tilastot</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>TODO</StatsReport_Health>
+  <StatsReport_Health>Terveys</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>Tärkeys {0}</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>{0} tärkeys</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>TODO</HealthOffsetScale>
+  <HealthOffsetScale>{0} vaikutus</HealthOffsetScale>
   <!-- EN: {0} max -->
-  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+  <HealthFactorMaxImpact>{0} maks</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>TODO</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>jos alle {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>Jälkikäsittely</StatsReport_PostProcessed>
   <!-- EN: Final value -->
   <StatsReport_FinalValue>Lopullinen arvo</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>Markkina-arvoon on laskettu mukaan rakennusmateriaalit ja työn määrä.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>Rakennusmateriaalit ja työn määrä</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Laatukerroin</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
+  <StatsReport_MaxGain>Maksimivahvistus</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>Iästä johtuva kerroin {0}</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
@@ -53,17 +53,17 @@
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>Mielialasta johtuva kerroin {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>TODO</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>Keveydestä johtuva kerroin {0}</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
   <StatsReport_DifficultyMultiplier>Vaikeustasosta johtuva kerroin {0}</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
   <StatsReport_InBed>Sängyssä</StatsReport_InBed>
   <!-- EN: Facilities -->
-  <StatsReport_Facilities>Facilities</StatsReport_Facilities>
+  <StatsReport_Facilities>Laitteet</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>Kerroin ruumiinkoosta</StatsReport_BodySize>
+  <StatsReport_BodySize>Ruumiin koosta johtuva kerroin {0}</StatsReport_BodySize>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>Tilastot näytetään seuraavassa muodossa:\nDPS ( Lähitaistelun vahinko / Jäähdytysaika sekunneissa / Lähitaistelun osumistodennäköisyys )\n\nDPS = Lähitaistelun vahinko * Lähitaistelun osumistodennäköisyys / Jäähdytysaika sekunneissa</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = Lähitaistelun vahinko * Lähitaistelun osumistodennäköisyys / Jäähdytysaika sekunneissa</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
   <StatsReport_MeleeDamage>Lähitaistelun vahinko</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
@@ -75,43 +75,43 @@
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>Elinajanodote</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>Puuttuvista ruumiinosista johtuva kerroin</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
-  <StatsReport_GearAndInventoryMass>Gear and inventory mass</StatsReport_GearAndInventoryMass>
+  <StatsReport_GearAndInventoryMass>Varusteiden ja omaisuuksien massa</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>Ruumiin päällä olosta johtuva kerroin</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
   <AverageOfAllAttacks>keskiarvo kaikista hyökkäyksistä</AverageOfAllAttacks>
   <!-- EN: Scenario -->
-  <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
+  <StatsReport_ScenarioFactor>Skenaario</StatsReport_ScenarioFactor>
   <!-- EN: Ingredients -->
-  <StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>
+  <StatsReport_IngredientsMass>Ainesosat</StatsReport_IngredientsMass>
   <!-- EN: Permanently disabled. -->
-  <StatsReport_PermanentlyDisabled>TODO</StatsReport_PermanentlyDisabled>
+  <StatsReport_PermanentlyDisabled>Pysyvästi poissa käytöstä</StatsReport_PermanentlyDisabled>
   <!-- EN: {0} -->
-  <StatsReport_Inspiration>TODO</StatsReport_Inspiration>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <!-- EN: Added body parts -->
-  <StatsReport_AddedBodyPartsMass>TODO</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>Lisätyt ruumiinosat</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>TODO</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>Materiaalista johtuva kerroin</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
-  <StatsReport_Resting>TODO</StatsReport_Resting>
+  <StatsReport_Resting>Lepää</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>TODO</StatsReport_JoyKind>
+  <StatsReport_JoyKind>ajanvietteen tyyppi</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>TODO</StatsReport_WorkToUninstall>
+  <StatsReport_WorkToUninstall>poistoon käytettävä työ</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>TODO</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>kasvusta johtuva kerroin {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>TODO</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>skaalattu koska villi</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>TODO</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>Ei lihaa</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>TODO</StatsReport_NotFresh>
+  <StatsReport_NotFresh>Ei tuoretta</StatsReport_NotFresh>
   <!-- EN: Wild man -->
-  <StatsReport_WildMan>TODO</StatsReport_WildMan>
+  <StatsReport_WildMan>Villi mies</StatsReport_WildMan>
   <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>TODO</StatsReport_NonToolAttack>
+  <StatsReport_NonToolAttack>Hyökkää</StatsReport_NonToolAttack>
 
   <!-- UNUSED -->
   <StatsReport_HealthFactors>Terveyden vaikutus</StatsReport_HealthFactors>

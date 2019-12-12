@@ -2,14 +2,14 @@
 <LanguageData>
 
   <!-- EN: A story generator by Tynan Sylvester -->
-  <MainPageCredit>Tynan Sylvesterin yhdyskuntasimulaattori</MainPageCredit>
+  <MainPageCredit>Tynan Sylvesterin tarinageneraatori</MainPageCredit>
 
   <!-- EN: Developers -->
   <Credits_Developers>Kehittäjät</Credits_Developers>
   <!-- EN: Direction, design, code, art -->
   <Credit_DirectionVarious>Ohjaus, suunnittelu, ohjelmointi, taide</Credit_DirectionVarious>
   <!-- EN: Audio -->
-  <Credit_MusicAndSound>Musiikki ja ääni</Credit_MusicAndSound>
+  <Credit_MusicAndSound>Ääni</Credit_MusicAndSound>
   <!-- EN: Code -->
   <Credit_Code>Ohjelmointi</Credit_Code>
   <!-- EN: Art -->
@@ -20,7 +20,7 @@
   <Credit_AdditionalCode>Täydentävä koodi</Credit_AdditionalCode>
   
   <!-- EN: Additional development -->
-  <Credits_AdditionalDevelopment>TODO</Credits_AdditionalDevelopment>
+  <Credits_AdditionalDevelopment>Täydentävä kehitys</Credits_AdditionalDevelopment>
 
   <!-- EN: Special thanks -->
   <Credit_SpecialThanks>Erityiskiitokset</Credit_SpecialThanks>

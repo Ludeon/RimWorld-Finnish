@@ -34,9 +34,9 @@
   <!-- EN: Haul things -->
   <DesignatorHaulThings>Kuljeta esineitä</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka kuljetetaan kaatopaikoille. Ei tarvita sellaisille kuin ruualle tai ruumiille, jotka ovat aina kuljetettavissa.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka kuljetetaan kaatopaikoille. Ei tarvita esineille kuten ruualle tai ruumiille, jotka ovat aina kuljetettavissa.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>Voit merkitä ainoastana kuljetettavia, ei-automaattisia asioita (kuten kiviä).</MustHaulHaulables>
+  <MustHaulHaulables>Voit merkitä ainoastana kuljetettavia, ei-aina siirrettäviä esineitä (kuten kiviä).</MustHaulHaulables>
 
   <!-- EN: Hunt -->
   <DesignatorHunt>Metsästä</DesignatorHunt>
@@ -49,9 +49,9 @@
   <DesignatorMineDesc>Merkitse kivialueet jotka louhitaan avoimiksi.</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Tasoita pinta</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Merkitse karkea kivilattia ja seinät tasoitettaviksi.</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Suunnittele</DesignatorPlan>
@@ -64,38 +64,38 @@
   <DesignatorPlanRemoveDesc>Poista suunnitelmia.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>TODO</DesignatorForbid>
+  <DesignatorForbid>Kiellä</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
+  <DesignatorForbidDesc>Merkitse esineitä kielletyiksi. Yhdyskuntalaiset eivät pysty käyttämäään merkittyjä esineitä.</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <DesignatorUnforbid>Salli</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>Merkitse esineitä sallituiksi. Yhdyskuntalaiset voivat käyttää merkittyjä esineitä.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>Laajenna kotialuetta</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>Yhdyskuntalaiset korjaavat rakennuksia, siivoavat lattioita ja sammuttavat tulipaloja ainoastaan Kotialueiden sisällä.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>Yhdyskuntalaiset korjaavat rakennuksia, siivoavat lattioita ja sammuttavat tulipaloja ainoastaan kotialueiden sisällä.</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
   <DesignatorAreaHomeClear>Poista kotialue</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
   <DesignatorAreaHomeClearDesc>Poista Kotialue. Yhdyskuntalaiset eivät enää siivoa, korjaa tai sammuta tulipaloja tällä alueella.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Laajenna katonrakennusaluetta</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Yhdyskuntalaiset rakentavat kattoja tällä alueella.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
   <DesignatorAreaNoRoofExpand>Laajenna katotonta aluetta</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>Luo alue missä kattoja ei tehdä, yhdyskuntalaiset myös repivät olemassa olevat katot alas tällä alueella.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Yhdyskuntalaiset poistavat katot tällä alueella (paitsi yläpuolisen vuoren, jota ei voi poistaa.</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>TODO</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Poista kattojen merkintä</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>TODO</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>Yhdyskuntalaiset jättävät katot huomiotta tällä alueella.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
   <DesignatorAreaSnowClearExpand>Laajenna lumenkolausaluetta</DesignatorAreaSnowClearExpand>
@@ -127,29 +127,29 @@
   <DesignatorZoneCreateStorageDumpingDesc>Luo kaatopaikka johon yhdyskuntalaiset varastoivat romua/jätettä.\nTätä voidaan käyttää myös olemassaolevien kaatopaikkojen laajentamiseen.</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>Poista alueita</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Kutista alueita</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>Kutista alue</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
   <DesignatorZoneDeleteDesc>Poista alueita, kuten varasto- tai kasvatusalueita.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Laajenna aluetta</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
   <DesignatorClaim>Valtaa</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
-  <DesignatorClaimDesc>Valloita neutraaleja rakennelmia yhdyskunnalle, sisältäen muinaisrauniot ja hylätyt piiritys leirit. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Valtaa neutraaleja rakennelmia yhdyskunnalle, kuten muinaisrauniota ja hylätyttyjä piiritysleirejä. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
   <DesignatorRemoveFloor>Poista lattia</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>Poista lattia paljastaaksesi alla olevan maan.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>Poista lattiaa paljastaaksesi alla olevan maan.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Poista silta</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>Poista siltoja paljastaaksesi alla olevan maan.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
   <DesignatorStrip>Riisu</DesignatorStrip>
@@ -162,9 +162,9 @@
   <DesignatorOpenDesc>Avaa täytettyjä hautoja tai säiliöitä.</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
-  <DesignatorSlaughter>Tapa</DesignatorSlaughter>
+  <DesignatorSlaughter>Teurasta</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
-  <DesignatorSlaughterDesc>Tapa kesy eläin.</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>Teurasta kesy eläin.</DesignatorSlaughterDesc>
 
   <!-- EN: Tame -->
   <DesignatorTame>Kesytä</DesignatorTame>
@@ -181,17 +181,17 @@
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>Ei voi asettaa tuntemattomattomille alueille.</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
-  <InteractionSpotBlocked>Käyttöpiste on estetty.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>{1_labelShort} estää käyttöpisteen.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>Käyttöpiste on rajojen ulkopuolella.</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
-  <InteractionSpotWillBeBlocked>{0} tulee estämään tämän käyttöpisteen.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>{1_labelShort} tulee estämään tämän käyttöpisteen.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0} estäisi kohdan, josta rakennelmaa {1} käytetään.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Maaperä täällä on jo {0}.</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>TODO</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>Pinta on jo merkitty tasoitettavaksi.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
   <IdenticalThingExists>Identtinen esine on jo tässä.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
@@ -199,15 +199,15 @@
   <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that can support: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordance>TODO</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} tarvitsee maaperän joka pystyy tukemaan: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
-  <SpaceBeingSmoothed>Space being smoothed.</SpaceBeingSmoothed>
+  <SpaceBeingSmoothed>Tilaa tasoitetaan.</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
-  <TerrainMustBeRemovable>Täytyy osoittaa poistettava lattia.</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>Täytyy merkitä poistettava lattia.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>TODO</MustBeOnMovingWater>
+  <MustBeOnMovingWater>Vesimylly on oltava liikkuvassa vedessä.</MustBeOnMovingWater>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -219,17 +219,15 @@
   <!-- EN: Transmits power -->
   <TransmitsPower>Lähettää virtaa</TransmitsPower>
   <!-- EN: Construction needed -->
-  <ConstructionNeeded>TODO</ConstructionNeeded>
+  <ConstructionNeeded>Rakentamista tarvitaan</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>TODO</NoColonistWithConstructionSkillTip>
+  <NoColonistWithConstructionSkillTip>Yhdelläkään sinun {0} ei ole tätä taitoa.</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Kaikki ne {0} joilla on tämä taito eivät ole määrätty {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
   <!-- UNUSED -->
-  <DesignatorSmoothFloor>Hio lattia</DesignatorSmoothFloor>
+  <DesignatorSmoothFloor>Tasoita lattia</DesignatorSmoothFloor>
   <DesignatorSmoothFloorDesc>Määritä karkeita kivilattioita hiottaviksi.</DesignatorSmoothFloorDesc>
-  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
   <DesignatorAreaNoRoofClear>Poista katoton alue</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>Poista katoton alue. Kattoja voidaan tehdä tälle alueelle ja olemassaolevia kattoja ei revitä alas.</DesignatorAreaNoRoofClearDesc>
   <DesignatorRearmTrap>Viritä ansa</DesignatorRearmTrap>
