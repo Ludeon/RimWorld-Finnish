@@ -23,41 +23,41 @@
 
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
-  <StoragePriorityUnstored>Ei väliä</StoragePriorityUnstored>
+  <StoragePriorityUnstored>varastoimaton</StoragePriorityUnstored>
   <!-- EN: low -->
-  <StoragePriorityLow>Matala</StoragePriorityLow>
+  <StoragePriorityLow>matala</StoragePriorityLow>
   <!-- EN: normal -->
-  <StoragePriorityNormal>Normaali</StoragePriorityNormal>
+  <StoragePriorityNormal>normaali</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>Suosittu</StoragePriorityPreferred>
+  <StoragePriorityPreferred>suosittu</StoragePriorityPreferred>
   <!-- EN: important -->
-  <StoragePriorityImportant>Tärkeä</StoragePriorityImportant>
+  <StoragePriorityImportant>tärkeä</StoragePriorityImportant>
   <!-- EN: critical -->
-  <StoragePriorityCritical>Kriittinen</StoragePriorityCritical>
+  <StoragePriorityCritical>kriittinen</StoragePriorityCritical>
 
   <!-- Food type flags -->
   <!-- EN: vegetables -->
-  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_VegetableOrFruit>vihannekset</FoodTypeFlags_VegetableOrFruit>
   <!-- EN: raw meat -->
-  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Meat>raaka liha</FoodTypeFlags_Meat>
   <!-- EN: corpses -->
-  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Corpse>ruumiit</FoodTypeFlags_Corpse>
   <!-- EN: seeds -->
-  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
+  <FoodTypeFlags_Seed>siemenet</FoodTypeFlags_Seed>
   <!-- EN: animal products -->
-  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_AnimalProduct>eläintuotteet</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>elävät kasvit</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Tree>elävät puut</FoodTypeFlags_Tree>
   <!-- EN: meals -->
-  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Meal>ateriat</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Processed>valmisruoka</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
-  <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Liquor>viina</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>kuivamuona</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->
@@ -111,13 +111,13 @@
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>Tasainen</Hilliness_Flat>
+  <Hilliness_Flat>tasainen</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>Pieniä mäkiä</Hilliness_SmallHills>
+  <Hilliness_SmallHills>pieniä mäkiä</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>Suuria mäkiä</Hilliness_LargeHills>
+  <Hilliness_LargeHills>suuria mäkiä</Hilliness_LargeHills>
   <!-- EN: mountainous -->
-  <Hilliness_Mountainous>Vuoristoinen</Hilliness_Mountainous>
+  <Hilliness_Mountainous>vuoristoinen</Hilliness_Mountainous>
   <!-- EN: impassable -->
   <Hilliness_Impassable>läpäisemätön</Hilliness_Impassable>
   
@@ -141,7 +141,7 @@
 
   <!-- Mod sources -->
   <!-- EN: local folder -->
-  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+  <ContentSource_LocalFolder>paikallinen kansio</ContentSource_LocalFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
@@ -153,7 +153,7 @@
   <!-- EN: Herbal medicine or worse -->
   <MedicalCareCategory_HerbalOrWorse>Yrttilääkkeitä tai huonompia</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Normaaleja lääketarpeita tai huonompia</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Teollisuustason lääketarpeita tai huonompia</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
   <MedicalCareCategory_Best>Parhaan laadun lääkintää</MedicalCareCategory_Best>
 
@@ -167,41 +167,41 @@
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>kasvaa</HediffGrowthMode_Growing>
   <!-- EN: stable -->
-  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Stable>vakaa</HediffGrowthMode_Stable>
   <!-- EN: remission -->
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>lievenee</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
   <!-- EN: animal -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
+  <TechLevel_Animal>eläin</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
+  <TechLevel_Neolithic>neoliittinen</TechLevel_Neolithic>
   <!-- EN: medieval -->
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
+  <TechLevel_Medieval>keskiaikainen</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
+  <TechLevel_Industrial>teollinen</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Spacer>avaruusaika</TechLevel_Spacer>
   <!-- EN: ultra -->
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
   <!-- EN: archotech -->
-  <TechLevel_Archotech>TODO</TechLevel_Archotech>
+  <TechLevel_Archotech>akrotekniikka</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>Seisoo</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Laskeutumiskapseli</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
-  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
+  <PawnGenerationContext_All>kaikki hahmot</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>pelaajan aloitushahmot</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>ei-pelattavat hahmot</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
@@ -239,53 +239,53 @@
   
   <!-- Diet category -->
   <!-- EN: Never eats -->
-  <DietCategory_NeverEats>TODO</DietCategory_NeverEats>
+  <DietCategory_NeverEats>Ei syö koskaan</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
-  <DietCategory_Herbivorous>TODO</DietCategory_Herbivorous>
+  <DietCategory_Herbivorous>Kasvinsyöjä</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>TODO</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>Puunsyöjä</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>TODO</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>Munansyöjä</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
-  <DietCategory_Omnivorous>TODO</DietCategory_Omnivorous>
+  <DietCategory_Omnivorous>Kaikkiruokainen</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->
-  <DietCategory_Carnivorous>TODO</DietCategory_Carnivorous>
+  <DietCategory_Carnivorous>Lihansyöjä</DietCategory_Carnivorous>
   <!-- EN: - -->
-  <DietCategory_NeverEats_Short>TODO</DietCategory_NeverEats_Short>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
   <!-- EN: H -->
-  <DietCategory_Herbivorous_Short>TODO</DietCategory_Herbivorous_Short>
+  <DietCategory_Herbivorous_Short>Kas</DietCategory_Herbivorous_Short>
   <!-- EN: D -->
-  <DietCategory_Dendrovorous_Short>TODO</DietCategory_Dendrovorous_Short>
+  <DietCategory_Dendrovorous_Short>P</DietCategory_Dendrovorous_Short>
   <!-- EN: Ov -->
-  <DietCategory_Ovivorous_Short>TODO</DietCategory_Ovivorous_Short>
+  <DietCategory_Ovivorous_Short>M</DietCategory_Ovivorous_Short>
   <!-- EN: O -->
-  <DietCategory_Omnivorous_Short>TODO</DietCategory_Omnivorous_Short>
+  <DietCategory_Omnivorous_Short>Kai</DietCategory_Omnivorous_Short>
   <!-- EN: C -->
-  <DietCategory_Carnivorous_Short>TODO</DietCategory_Carnivorous_Short>
+  <DietCategory_Carnivorous_Short>L</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>TODO</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>epäpätevä kokki</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
-  <FoodPoisonCause_FilthyKitchen>TODO</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_FilthyKitchen>likainen keittoalue</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>TODO</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>pilaantunutta ruokaa</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>TODO</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>vaarallinen ruoan tyyppi</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <!-- EN: none -->
-  <PsychicDroneLevel_None>TODO</PsychicDroneLevel_None>
+  <PsychicDroneLevel_None>olematon</PsychicDroneLevel_None>
   <!-- EN: medium -->
-  <PsychicDroneLevel_GoodMedium>TODO</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_GoodMedium>keskitaso</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
-  <PsychicDroneLevel_BadLow>TODO</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadLow>matala</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
-  <PsychicDroneLevel_BadMedium>TODO</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadMedium>keskitaso</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>korkea</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>äärimmäinen</PsychicDroneLevel_BadExtreme>
 
   <!-- UNUSED -->
   <Unspecified>Päättämätön</Unspecified>
@@ -299,6 +299,5 @@
   <TrainableIntelligence_Simple>Yksinkertainen</TrainableIntelligence_Simple>
   <TrainableIntelligence_Intermediate>Keskinkertainen</TrainableIntelligence_Intermediate>
   <TrainableIntelligence_Advanced>Kehittynyt</TrainableIntelligence_Advanced>
-  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
 
 </LanguageData>

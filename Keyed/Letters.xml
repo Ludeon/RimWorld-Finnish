@@ -248,9 +248,9 @@
   
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
-  <LetterLabelCaravanEnteredMap>TODO</LetterLabelCaravanEnteredMap>
+  <LetterLabelCaravanEnteredMap>Karavaani saapui kohteeseen {0_label}</LetterLabelCaravanEnteredMap>
   <!-- EN: {0} has arrived at {1_definite}. -->
-  <LetterCaravanEnteredMap>TODO</LetterCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} on saapunut {1_definite}</LetterCaravanEnteredMap>
   
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->

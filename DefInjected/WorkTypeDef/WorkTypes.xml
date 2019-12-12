@@ -108,7 +108,7 @@
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Kasvattajat istuttavat siemeniä ja korjaavat sadon viljelmiltä.</Growing.description>
   <!-- EN: growing -->
-  <Growing.gerundLabel>Kasvattaminen</Growing.gerundLabel>
+  <Growing.gerundLabel>kasvattaminen</Growing.gerundLabel>
   <!-- EN: Grow -->
   <Growing.labelShort>Kasvata</Growing.labelShort>
   <!-- EN: Grower -->

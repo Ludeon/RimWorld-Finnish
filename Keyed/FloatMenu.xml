@@ -16,113 +16,113 @@
   <!-- EN: Cannot use (full) -->
   <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
-  <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+  <LeaderUnavailable>johtaja {1_labelShort} ei ole saatavilla</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
-  <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+  <LeaderUnavailableNoLeader>johtaja ei ole saatavilla</LeaderUnavailableNoLeader>
   
   <!-- EN: Fire at {1_label} -->
-  <FireAt>Ammu {0}</FireAt>
+  <FireAt>Ammu {1_label}</FireAt>
 
   <!-- EN: out of range -->
   <OutOfRange>kantaman ulkopuolella</OutOfRange>
   <!-- EN: too close -->
-  <TooClose>TODO</TooClose>
+  <TooClose>liian lähellä</TooClose>
   <!-- EN: cannot hit target -->
   <CannotHitTarget>kohteeseen ei voi osua</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{1_labelShort} ei kykene väkivaltaan</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
-  <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
+  <IncapableOfViolenceLower>kykenemätön väkivaltaan</IncapableOfViolenceLower>
   <!-- EN: {1_labelShort} is not drafted -->
-  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+  <IsNotDraftedLower>{1_labelShort} ei ole värvätty</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
-  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>et voi komentaa yksikköjä joita et ohjaa</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
-  <CannotAttackSelf>TODO</CannotAttackSelf>
+  <CannotAttackSelf>ei voi hyökätä itseen</CannotAttackSelf>
 
   <!-- EN: Man {1_labelShort} -->
-  <OrderManThing>Miehitä {0}</OrderManThing>
+  <OrderManThing>Miehitä {1_labelShort}</OrderManThing>
   
   <!-- EN: Melee attack {1_label} -->
-  <MeleeAttack>Lähitaistele kohteen {0} kanssa</MeleeAttack>
+  <MeleeAttack>Lähitaistele kohteen {1_label} kanssa</MeleeAttack>
   <!-- EN: Melee attack {1_label} to death -->
-  <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
+  <MeleeAttackToDeath>Hakkaa {1_label} kuoliaaksi</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>ei reittiä</NoPath>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>kielletty</ForbiddenLower>
   <!-- EN: outside allowed area -->
-  <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
+  <ForbiddenOutsideAllowedAreaLower>sallitun alueen ulkopuolella</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->
-  <NotInHomeArea>not in home area</NotInHomeArea>
+  <NotInHomeArea>ei kotialueella</NotInHomeArea>
   <!-- EN: burning -->
   <BurningLower>palaa</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
-  <NoMergeTarget>TODO</NoMergeTarget>
+  <NoMergeTarget>saatavilla ei ole kasaa johon yhdistää</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
   <!-- EN: need material -->
   <MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
   <!-- EN: under required skill {0} -->
-  <UnderRequiredSkill>TODO</UnderRequiredSkill>
+  <UnderRequiredSkill>tarvittavan taidon {0} alapuolella </UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
-  <UnderAllowedSkill>TODO</UnderAllowedSkill>
+  <UnderAllowedSkill>sallitun taidon {0} alapuolella</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>TODO</AboveAllowedSkill>
+  <AboveAllowedSkill>sallitun taidon {0} yläpuolella</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
-  <MissingRequiredSkillLevel>TODO</MissingRequiredSkillLevel>
+  <MissingRequiredSkillLevel>puuttuu tarvittu taitotaso</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>eläin on vuorovaikuttanut liian äskettäin</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>ei käyttökelpoista ruokaa</NoUsableFood>
   <!-- EN: no food -->
-  <NoFood>no food</NoFood>
+  <NoFood>ei ruokaa</NoFood>
   <!-- EN: animals skill too low - need {0} -->
-  <AnimalsSkillTooLow>Eläimen taitotaso liian matala</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>Eläimen taitotaso liian matala - tarvitaan {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
-  <CantInteractAnimalDowned>TODO</CantInteractAnimalDowned>
+  <CantInteractAnimalDowned>eläin maissa</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
-  <CantInteractAnimalAsleep>TODO</CantInteractAnimalAsleep>
+  <CantInteractAnimalAsleep>eläin nukkuu</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
-  <CantInteractAnimalBusy>TODO</CantInteractAnimalBusy>
+  <CantInteractAnimalBusy>eläin on kiireinen</CantInteractAnimalBusy>
   <!-- EN: construction skill too low -->
-  <ConstructionSkillTooLow>TODO</ConstructionSkillTooLow>
+  <ConstructionSkillTooLow>rakennustaito liian matala</ConstructionSkillTooLow>
   <!-- EN: need components -->
-  <NoComponentsToRepair>need components</NoComponentsToRepair>
+  <NoComponentsToRepair>tarvitsee komponentteja</NoComponentsToRepair>
   <!-- EN: need {0} -->
-  <NoFuelToRefuel>need {0}</NoFuelToRefuel>
+  <NoFuelToRefuel>tarvitsee {0}</NoFuelToRefuel>
   <!-- EN: need wort -->
-  <NoWort>need wort</NoWort>
+  <NoWort>tarvitsee yrttejä</NoWort>
   <!-- EN: available food is in storage of higher priority -->
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>saatavilla oleva ruoka on korkeamman prioriteetin varastossa</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <!-- EN: no suitable food -->
-  <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
+  <NoFoodToFillHopper>ei kelvollista ruokaa</NoFoodToFillHopper>
   <!-- EN: self-tend disabled -->
-  <SelfTendDisabled>self-tend disabled</SelfTendDisabled>
+  <SelfTendDisabled>itsehoito pois käytöstä</SelfTendDisabled>
   <!-- EN: reserved for prisoners -->
-  <ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
+  <ReservedForPrisoners>varattu vangeille</ReservedForPrisoners>
   <!-- EN: cannot reach -->
-  <CannotReach>TODO</CannotReach>
+  <CannotReach>ei yllä</CannotReach>
   <!-- EN: not ready for surgery -->
-  <NotSurgeryReady>TODO</NotSurgeryReady>
+  <NotSurgeryReady>ei valmis kirurgiaan</NotSurgeryReady>
   <!-- EN: skill incapable -->
-  <SkillDisabled>TODO</SkillDisabled>
+  <SkillDisabled>ei pysty taitoon</SkillDisabled>
   <!-- EN: too bright -->
-  <CantSowCavePlantBecauseOfLight>TODO</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseOfLight>liian kirkasta</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
-  <CantSowCavePlantBecauseUnroofed>TODO</CantSowCavePlantBecauseUnroofed>
+  <CantSowCavePlantBecauseUnroofed>ei katon alla</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
-  <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
+  <IncapableOfDeconstruction>kykenemätön purkamiseen</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
-  <IncapableOfMining>TODO</IncapableOfMining>
+  <IncapableOfMining>kykenemätön louhimiseen</IncapableOfMining>
   <!-- EN: angers faction -->
-  <AngersFaction>TODO</AngersFaction>
+  <AngersFaction>suututtaa ryhmän</AngersFaction>
   
   <!-- EN: Consume {1_labelShort} -->
-  <ConsumeThing>Syö/juo {0}</ConsumeThing>
+  <ConsumeThing>Syö/juo {1_labelShort}</ConsumeThing>
   
   <!-- EN: Cannot go here (no path) -->
   <CannotGoNoPath>Ei voi mennä tänne (ei reittiä)</CannotGoNoPath>
@@ -132,41 +132,41 @@
   <!-- EN: Arrest {0} -->
   <Arrest>Pidätä {0}</Arrest>
   <!-- EN: Try to arrest {1_label} -->
-  <TryToArrest>Yritä pidättää {0}</TryToArrest>
+  <TryToArrest>Yritä pidättää {1_label}</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Ei voi pidättää</CannotArrest>
 
   <!-- EN: Capture {1_label} -->
-  <Capture>Kaappaa {0}</Capture>
+  <Capture>Kaappaa {1_label}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Ei voi kaapata</CannotCapture>
 
   <!-- EN: Rescue {1_label} -->
-  <Rescue>Pelasta {0}</Rescue>
+  <Rescue>Pelasta {1_label}</Rescue>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Ei voi pelastaa</CannotRescue>
 
   <!-- EN: Carry {1_label} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Kanna {0} salauniarkkuun</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Kanna {1_label} salauniarkkuun</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Ei voi kantaa salauniarkkuun</CannotCarryToCryptosleepCasket>
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Ei saatavilla olevaa salauniarkkua.</NoCryptosleepCasket>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>Ei saatavilla ja suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
+  <NoPrisonerBed>Saatavilla ei ole vapaata ja suljetussa huoneessa olevaa vangin sänkyä turvallisessa lämpötilassa.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>Ei saatavilla olevaa muille kuin vangeille tarkoitettua sänkyä.</NoNonPrisonerBed>
+  <NoNonPrisonerBed>Saatavilla ei ole muille kuin vangeille tarkoitettua sänkyä turvallisessa lämpötilassa.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
+  <NoAnimalBed>Saatavilla ei ole vapaata eläimen sänkyä.</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
   <Reserved>Joku muu on varannut tämän.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>{0} on varannut tämän.</ReservedBy>
+  <ReservedBy>{1_labelShort} on varannut tämän.</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
-  <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
+  <IsReservedBy>{0} on henkilön {1} varaama.</IsReservedBy>
   <!-- EN: Too heavy -->
-  <TooHeavy>Too heavy</TooHeavy>
+  <TooHeavy>Liian raskas</TooHeavy>
 
   <!-- EN: incapable -->
   <Incapable>kykenemätön</Incapable>
@@ -174,7 +174,7 @@
   <IncapableOfCapacity>kykenemätön toimintoon {0}</IncapableOfCapacity>
 
   <!-- EN: min skill -->
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>min. taito</MinSkill>
   
   <!-- EN: Equip {0} -->
   <Equip>Ota käyttöön {0}</Equip>
@@ -183,107 +183,107 @@
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>Ei voida ottaa käyttöön {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
-  <CannotManThing>TODO</CannotManThing>
+  <CannotManThing>Ei voi miehittää {1_labelShort}</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
-  <ForceWear>Pakota pukemaan {0}</ForceWear>
+  <ForceWear>Pakota pukemaan {1_labelShort}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
-  <CannotWear>Ei voi pukea {0}</CannotWear>
+  <CannotWear>Ei voi pukea {1_label}</CannotWear>
   <!-- EN: missing body parts -->
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <CannotWearBecauseOfMissingBodyParts>puuttuvia ruumiinosia</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Cannot pick up {1_label} -->
-  <CannotPickUp>Cannot pick up {0}</CannotPickUp>
+  <CannotPickUp>Ei voi poimia {1_label}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
-  <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
+  <CannotPickUpAll>Ei voi poimia {1_label} (kaikki)</CannotPickUpAll>
   <!-- EN: Pick up {1_label} -->
-  <PickUp>Pick up {0}</PickUp>
+  <PickUp>Poimi {1_label}</PickUp>
   <!-- EN: Pick up {1_label} (all) -->
-  <PickUpAll>Pick up {0} (all)</PickUpAll>
+  <PickUpAll>Poimi {1_label} (all)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
-  <PickUpSome>Pick up {0}...</PickUpSome>
+  <PickUpSome>Poimi {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
-  <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+  <PickUpCount>Poimi {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot give {1_label} to pack animal -->
-  <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>Ei voi antaa {1_label} kantojuhdalle</CannotGiveToPackAnimal>
   <!-- EN: Cannot give {1_label} (all) to pack animal -->
-  <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>Ei voi antaa {1_label} (kaikki) kantojuhdalle</CannotGiveToPackAnimalAll>
   <!-- EN: Give {1_label} to pack animal -->
-  <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
+  <GiveToPackAnimal>Anna {1_label} kantojuhdalle</GiveToPackAnimal>
   <!-- EN: Give {1_label} (all) to pack animal -->
-  <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>Anna {1_label} (kaikki) kantojuhdalle</GiveToPackAnimalAll>
   <!-- EN: Give {1_labelShort} to pack animal... -->
-  <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>Anna {1_labelShort} kantojuhdalle...</GiveToPackAnimalSome>
   <!-- EN: Take {1_labelShort} x{{0}} -->
-  <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Ota {1_labelShort} x{{0}}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>TODO</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>Ei voi lastata {1_label} karavaaniin</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
-  <CannotLoadIntoCaravanAll>TODO</CannotLoadIntoCaravanAll>
+  <CannotLoadIntoCaravanAll>Ei voi lastata {1_label} (kaikki) karavaaniin</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
-  <LoadIntoCaravan>TODO</LoadIntoCaravan>
+  <LoadIntoCaravan>Lastaa {1_label} karavaaniin</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
-  <LoadIntoCaravanAll>TODO</LoadIntoCaravanAll>
+  <LoadIntoCaravanAll>Lastaa {1_label} (kaikki) karavaaniin</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
-  <LoadIntoCaravanSome>TODO</LoadIntoCaravanSome>
+  <LoadIntoCaravanSome>Lastaa {1_labelShort} karavaaniin</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
-  <LoadIntoCaravanCount>TODO</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>Lastaa {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
-  <OverweightLower>TODO</OverweightLower>
+  <OverweightLower>ylipainoinen</OverweightLower>
 
   <!-- EN: Cannot carry {1_label} and leave the area -->
-  <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
+  <CannotCarryToExit>Ei voi kantaa {1_label} ja lähteä alueelta</CannotCarryToExit>
   <!-- EN: Carry {1_label} and leave the area -->
-  <CarryToExit>Carry {0} and leave the area</CarryToExit>
+  <CarryToExit>Kanna {1_label} ja lähde alueelta</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
-  <CarryToExitAndCapture>TODO</CarryToExitAndCapture>
+  <CarryToExitAndCapture>Kaappaa {1_label} ja lähde alueelta</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_label} -->
-  <Strip>Riisu {0}</Strip>
+  <Strip>Riisu {1_label}</Strip>
   <!-- EN: Cannot strip {1_label} -->
-  <CannotStrip>Ei voi riisua {0}</CannotStrip>
+  <CannotStrip>Ei voi riisua {1_label}</CannotStrip>
 
   <!-- EN: Self-destruct here -->
-  <SelfDestructHere>Tuhoudu tässä</SelfDestructHere>
+  <SelfDestructHere>Itsetuhoudu tässä</SelfDestructHere>
   
   <!-- EN: Drop {1_label} -->
-  <Drop>Pudota {0}</Drop>
+  <Drop>Pudota {1_label}</Drop>
 
   <!-- EN: Rest until healed -->
-  <UseMedicalBed>Lepää kunnes täysin parantunut</UseMedicalBed>
+  <UseMedicalBed>Lepää kunnes parantunut</UseMedicalBed>
   <!-- EN: not injured -->
-  <NotInjured>Ei loukkaantunut</NotInjured>
+  <NotInjured>ei loukkaantunut</NotInjured>
   <!-- EN: occupied by {0} -->
-  <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
+  <SomeoneElseSleeping>{0} varannut</SomeoneElseSleeping>
   
   <!-- EN: Trade with {0} -->
-  <TradeWith>Trade with {0}</TradeWith>
+  <TradeWith>Käy vaihtokauppaa henkilön {0} kanssa</TradeWith>
   <!-- EN: Cannot trade -->
-  <CannotTrade>Cannot trade</CannotTrade>
+  <CannotTrade>Ei voi käydä vaihtokauppaa</CannotTrade>
 
   <!-- EN: Open {0_label} -->
-  <Open>TODO</Open>
+  <Open>Avaa {0_label}</Open>
   <!-- EN: Cannot open {0_label} -->
-  <CannotOpen>TODO</CannotOpen>
+  <CannotOpen>Ei voi avata {0_label}</CannotOpen>
   
   <!-- EN: Enter {0} -->
-  <EnterMap>Enter {0}</EnterMap>
+  <EnterMap>Mene sisään kohteeseen {0}</EnterMap>
   <!-- EN: Visit {0} -->
-  <VisitSettlement>Visit {0}</VisitSettlement>
+  <VisitSettlement>Vieraile kohteessa {0}</VisitSettlement>
   <!-- EN: Visit {0} -->
-  <VisitPeaceTalks>TODO</VisitPeaceTalks>
+  <VisitPeaceTalks>Vieraile kohteessa {0}</VisitPeaceTalks>
   <!-- EN: Visit {0} -->
-  <VisitEscapeShip>TODO</VisitEscapeShip>
+  <VisitEscapeShip>Vieraile kohteessa {0}</VisitEscapeShip>
   <!-- EN: Attack {0} -->
-  <AttackSettlement>Attack {0}</AttackSettlement>
+  <AttackSettlement>Hyökkää kohteeseen {0}</AttackSettlement>
   <!-- EN: Approach {0} -->
-  <ApproachSite>TODO</ApproachSite>
+  <ApproachSite>Lähesty kohdetta {0}</ApproachSite>
   <!-- EN: Approaching {0} -->
-  <ApproachingSite>TODO</ApproachingSite>
+  <ApproachingSite>Lähesty  kohdetta {0}</ApproachingSite>
   <!-- EN: Offer gifts -->
-  <OfferGifts>TODO</OfferGifts>
+  <OfferGifts>Tarjoa lahjoja</OfferGifts>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -293,96 +293,94 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
+  <CannotGenericWork>{0} ei onnistu kohteeseen {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
-  <CannotGenericWorkCustom>TODO</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>{0} ei onnistu</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize (incapable of {0}) -->
   <CannotMissingHealthActivities>Ei voi priorisoida (kykenemätön toimeen {0})</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Kohteen {2_labelShort} {0} on jo menossa</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Ei voi priorisoida (ei koskaan tee toimintoa {0})</CannotPrioritizeWorkTypeDisabled>
 
   <!-- EN: Cannot prioritize (will never {0}) -->
-  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Ei voi priorisoida (ei koskaan tee toimintoa {0})</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
-  <WillNever>TODO</WillNever>
+  <WillNever>ei koskaan tee toimintoa {0}</WillNever>
 
   <!-- EN: Cannot prioritize (not assigned to {0}) -->
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Ei voi priorisoida (ei määrätty tekemään toimintoa {0})</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
-  <NotAssigned>TODO</NotAssigned>
+  <NotAssigned>ei määrätty</NotAssigned>
 
   <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Ei voi priorisoida (tutkimus on pitkäaikainen tehtävä)</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
-  <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Ei voi priorisoida ({1_label} on kielletty)</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize (forbidden) -->
-  <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>Ei voi priorisoida (kielletty)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Sallitun alueen ulkopuolella</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>Priorisoi kohteen {1} {0}</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
-  <DropAtEdge>Drop at edge</DropAtEdge>
+  <DropAtEdge>Pudota reunalle</DropAtEdge>
   <!-- EN: Drop in center -->
-  <DropInCenter>Drop in center</DropInCenter>
+  <DropInCenter>Pudota keskelle</DropInCenter>
   <!-- EN: Attack {0}: Drop at edge -->
-  <AttackAndDropAtEdge>TODO</AttackAndDropAtEdge>
+  <AttackAndDropAtEdge>Hyökkää kohteeseen {0}: Pudota reunalle</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
-  <AttackAndDropInCenter>TODO</AttackAndDropInCenter>
+  <AttackAndDropInCenter>Hyökkää kohteeseen {0}: Pudota keskelle</AttackAndDropInCenter>
   
   <!-- EN: vomiting -->
-  <VomitingLower>vomiting</VomitingLower>
+  <VomitingLower>oksentaa</VomitingLower>
   <!-- EN: not interruptible -->
-  <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+  <NotInterruptibleLower>ei keskeytettävissä</NotInterruptibleLower>
   
   <!-- EN: Add a new waypoint here -->
-  <AddWaypoint>Add a new waypoint here</AddWaypoint>
+  <AddWaypoint>Lisää uusi reittipiste tänne</AddWaypoint>
   <!-- EN: Remove this waypoint -->
-  <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+  <RemoveWaypoint>Poista tämä reittipiste</RemoveWaypoint>
 
   <!-- EN: Cancel all designations -->
-  <RemoveAllDesignations>TODO</RemoveAllDesignations>
+  <RemoveAllDesignations>Peruuta kaikki määräykset</RemoveAllDesignations>
   <!-- EN: Designate all -->
-  <DesignateAll>TODO</DesignateAll>
+  <DesignateAll>Määrää kaikki</DesignateAll>
   <!-- EN: {0} affected -->
-  <CountToDesignate>TODO</CountToDesignate>
+  <CountToDesignate>{0} vaikutuksen alla</CountToDesignate>
   <!-- EN: Forbid all items -->
-  <ForbidAllItems>TODO</ForbidAllItems>
+  <ForbidAllItems>Kiellä kaikki esineet</ForbidAllItems>
   <!-- EN: Unforbid all items -->
-  <UnforbidAllItems>TODO</UnforbidAllItems>
+  <UnforbidAllItems>Salli kaikki esineet</UnforbidAllItems>
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>TODO</LandInExistingMap>
+  <LandInExistingMap>Zoomaa sisään ja valitse laskeutumispaikka kohteessa{0}</LandInExistingMap>
   <!-- EN: The contents will be lost -->
-  <TransportPodsContentsWillBeLost>TODO</TransportPodsContentsWillBeLost>
+  <TransportPodsContentsWillBeLost>Sisältö menetetään</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
-  <FormCaravanHere>TODO</FormCaravanHere>
+  <FormCaravanHere>Muodosta karavaaani tässä</FormCaravanHere>
   <!-- EN: Give to {0} -->
-  <GiveToCaravan>TODO</GiveToCaravan>
+  <GiveToCaravan>Anna karavaaniin {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>TODO</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>Anna lahjana kohteelle {0} ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
-  <FreePrisoner>TODO</FreePrisoner>
+  <FreePrisoner>Vapauta vanki</FreePrisoner>
   <!-- EN: Offer help -->
-  <OfferHelp>TODO</OfferHelp>
+  <OfferHelp>Tarjoa apua</OfferHelp>
   
   <!-- UNUSED -->
   <MissingSkill>taitotaso liian matala</MissingSkill>
   <NoEmptyGraveLower>ei ole tyhjää hautaa määritelty sen varastointiin</NoEmptyGraveLower>
-  <VisitSite>Visit {0}</VisitSite>
-  <AttackSite>Attack {0}</AttackSite>
 
 </LanguageData>
