@@ -669,12 +669,12 @@
   <Corpse_Squirrel.description>Kuolleen oravan ruumis.</Corpse_Squirrel.description>
   
   <!-- EN: Thrumbo ruumis -->
-  <Corpse_Thrumbo.label>thrumbon ruumis</Corpse_Thrumbo.label>
+  <Corpse_Thrumbo.label>Trumbon ruumis</Corpse_Thrumbo.label>
   <!-- EN: Kuollut thrumbo. -->
-  <Corpse_Thrumbo.description>Kuolleen thrumbon ruumis.</Corpse_Thrumbo.description>
+  <Corpse_Thrumbo.description>Kuolleen trumbon ruumis.</Corpse_Thrumbo.description>
   
   <!-- EN: Kilpikonna ruumis -->
-  <Corpse_Tortoise.label>kilpikonnan ruumis</Corpse_Tortoise.label>
+  <Corpse_Tortoise.label>Kilpikonnan ruumis</Corpse_Tortoise.label>
   <!-- EN: Kuollut kilpikonna. -->
   <Corpse_Tortoise.description>Kuolleen kilpikonnan ruumis.</Corpse_Tortoise.description>
   
@@ -1439,9 +1439,9 @@
   <Meat_Squirrel.description>Raakaa oravan lihaa.</Meat_Squirrel.description>
   
   <!-- EN: Thrumbo lihaa -->
-  <Meat_Thrumbo.label>thrumbon lihaa</Meat_Thrumbo.label>
+  <Meat_Thrumbo.label>trumbon lihaa</Meat_Thrumbo.label>
   <!-- EN: Raakaa lihaa oliosta thrumbo. -->
-  <Meat_Thrumbo.description>Raakaa thrumbon lihaa.</Meat_Thrumbo.description>
+  <Meat_Thrumbo.description>Raakaa trumbon lihaa.</Meat_Thrumbo.description>
   
   <!-- EN: Kilpikonna lihaa -->
   <Meat_Tortoise.label>kilpikonnan lihaa</Meat_Tortoise.label>

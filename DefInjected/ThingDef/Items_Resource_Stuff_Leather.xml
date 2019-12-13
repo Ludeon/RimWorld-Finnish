@@ -103,10 +103,10 @@
   <Leather_Rhinoceros.stuffProps.stuffAdjective>rhinoceros leathery</Leather_Rhinoceros.stuffProps.stuffAdjective>
   
   <!-- EN: thrumbofur -->
-  <Leather_Thrumbo.label>thrumbon nahkaa</Leather_Thrumbo.label>
+  <Leather_Thrumbo.label>trumbon nahkaa</Leather_Thrumbo.label>
   <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
-  <Leather_Thrumbo.description>Thrumbon vuodasta tehtyä nahkaa.</Leather_Thrumbo.description>
-  <Leather_Thrumbo.stuffProps.stuffAdjective>thrumbo leathery</Leather_Thrumbo.stuffProps.stuffAdjective>
+  <Leather_Thrumbo.description>Trumbon vuodasta tehtyä nahkaa. Luksusmaista ja äärimmäisen kestävää. Käytetään korkealaatuisimpiin teoksiin sen eristävyyden ja voimakkuuden takia.</Leather_Thrumbo.description>
+  <Leather_Thrumbo.stuffProps.stuffAdjective>trumbonnahkainen</Leather_Thrumbo.stuffProps.stuffAdjective>
   
   <!-- EN: wolfskin -->
   <Leather_Wolf.label>wargin nahkaa</Leather_Wolf.label>
