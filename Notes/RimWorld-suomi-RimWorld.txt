@@ -14,8 +14,8 @@ broken                  murtunut
 joy tolerance           kyllästyminen ilonpitoihin
 firefighting            palontorjunta
 faction                 ryhmä -> ryhmittymä?
-colony                  yhdyskunta -> siirtokunta?
-rimworld                syrjäinen planeetta?
+colony                  yhdyskunta
+rimworld                syrjäplanetta
 melee attacking         lähitaistelee olion ->
 urbworld                urbaani maailma
 midworld                keskimaailma

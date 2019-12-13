@@ -17,7 +17,7 @@
   <CabinFever.stages.1.description>Olen ollut täällä loukussa kuin rotta todella kauan. Minun täytyy epätoivoisen kipeästi mennä ulos tai tulen hulluksi!</CabinFever.stages.1.description>
   
   <!-- EN: tainted {0} -->
-  <DeadMansApparel.stages.tainted.label>dead man's {0}</DeadMansApparel.stages.tainted.label>
+  <DeadMansApparel.stages.tainted.label>kuolleen {0}</DeadMansApparel.stages.tainted.label>
   <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
   <DeadMansApparel.stages.tainted.description>I am wearing apparel that someone died in. It creeps me out and feels dirty.</DeadMansApparel.stages.tainted.description>
   <!-- EN: tainted {0} (+1) -->

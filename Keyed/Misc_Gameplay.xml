@@ -321,7 +321,7 @@
   <!-- EN: Expires in -->
   <ExpiresIn>TODO</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>johtajan {1_labelShort} karavaani</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
   <Reason>TODO</Reason>
   <!-- EN: Relations with {0} -->
@@ -329,7 +329,7 @@
   <!-- EN: captured by {0} -->
   <capturedBy>TODO</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>TODO</yourCaravan>
+  <yourCaravan>Karavaanisi</yourCaravan>
   <!-- EN: {0} wildness -->
   <CreatureWildness>TODO</CreatureWildness>
   <!-- EN: {0} trainability -->
@@ -617,7 +617,7 @@
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>Ei liitetty virtaan.</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>Yhdistetty sähkövirta/varastoitu teho: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Yhdistetty sähkövirta/varastoitu teho: {0} W / {1} Wp</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>Tarvittava virta</PowerNeeded>
   <!-- EN: Power output -->

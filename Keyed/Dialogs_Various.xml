@@ -287,7 +287,7 @@
   <!-- EN: Count equipped -->
   <IncludeEquipped>Laske käytössä olevat</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>Laske pilaantuneet</IncludeTainted>
+  <IncludeTainted>Laske kuolleiden vaatteet</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
   <LimitToAllowedStuff>Vain sallitut ainesosat</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
@@ -425,11 +425,11 @@
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
   <NuzzleIntervalExplanation>Miten usein eläin kiehnää ystävällisiä yhdyskuntalaisia keskimäärin.\n\nKiehnäys on monelle eläinlajille yhteinen käytöstapa, jossa eläin painaa nenänsä tai kuononsa ystävää vasten hellyydenosoituksena. Useimpien ihmisten mielestä tämä on söpöä ja se saa heidät hyvälle tuulelle joksikin aikaa.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>Koston todennäköisyys satutettaessa</HarmedRevengeChance>
+  <HarmedRevengeChance>Koston tod.näk. satutettaessa</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olio haluaa kostaa hyökkääjän satuttaessa kiväärietäisyydeltä.\n\nTämä todennäköisyys kasvaa jos hyökkääjä on lähempänä. Jos hyökkääjä on erittäin lähellä, todennäköisyys on kolme kertaa yhtä suuri.\n\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.\n\nMinimoidaksesi olion kostonhimoisuuden hyökkää sen kimppuun kiväärietäisyydeltä hitaasti ampuvalla aseella.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>Koston todennäköisyys kesytyksen epäonnistuessa</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Koston tod.näk. kesytyksen epäonn.</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
   <TerrainRequirement>Maaston vaatimus</TerrainRequirement>
   <!-- EN: Supports -->

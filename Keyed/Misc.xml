@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>Tallentaa automaattisesti</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>Te kolme heräätte salauniarkuistanne sireenien ja repeytyvän metallin ääniin. Pääsette juuri ja juuri pakokapseleihinne ennen kuin alus repeytyy kappaleiksi.\n\nJonkin ajan kuluttua laskeudutte tälle tuntemattomalle syrjäiselle planetalle.\n\nKun tuhoutuneen avaruusaluksenne kappaleita sataa ympärillenne, alatte suunnittelemaan selviytymistänne.</GameStartDialog>
+  <GameStartDialog>Te kolme heräätte salauniarkuistanne sireenien ja repeytyvän metallin ääniin. Pääsette juuri ja juuri pakokapseleihinne ennen kuin alus repeytyy kappaleiksi.\n\nJonkin ajan kuluttua laskeudutte tälle tuntemattomalle syrjäplaneetalle.\n\nKun tuhoutuneen avaruusaluksenne kappaleita sataa ympärillenne, alatte suunnittelemaan selviytymistänne.</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Yhdyskunta</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
