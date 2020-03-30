@@ -1,7 +1,7 @@
-﻿al
-all
+al
+kaikki
 an
-and
+ja
 ar
 are
 as
@@ -59,6 +59,6 @@ to
 ve
 ver
 wa
-was
+oli
 wit
-you
+sinä
