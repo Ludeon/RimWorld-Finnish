@@ -6,25 +6,25 @@ Wuland
 Yootanu
 Vornax
 Ludeon
-Ultimate
-Superior
-Starlight
-Sunlight
+Perimmäinen
+Esimies
+Tähtien valo
+Auringon valo
 Greengrow
-Grassland
-Planetary
-Homestead
+Preeria
+Planeetta
+Pientila
 Zarimax
 Albium
-General
-Meteor
+Yleinen
+Meteori
 Terroid
 Terra
-Old School
+Vanha koulukunta
 Nouveau
-New
-The Best
-Professional
+Uusi
+Paras
+Ammattilainen
 Emporium
 Wynham
 Cranktown
@@ -34,7 +34,7 @@ Sylvester
 Lartmech
 Arnprior
 Wulan
-Capital
+Pääkaupunki
 Sinleth
 Volova
 Subdrive
@@ -46,7 +46,7 @@ Yrath
 Kaluyu
 Yulten
 Dorth
-Pleasant
+Miellyttävä
 Treal
 Lordium
 Novunis
@@ -55,12 +55,12 @@ Humantic
 Accurate
 Steelium
 Meush
-Cool
+Viileä
 Luminus
 Luxitor
 Driver
 Mass Driver
-Edge
+Reuna
 Supersharp
 Multica
 Sundrium
@@ -70,21 +70,21 @@ Major
 Ultrafine
 Unbreak
 Siliconium
-General Woof
+Kenraali Woof
 Graff
-General
-Dealer
-Convenient
+Yleinen
+Kauppias
+Mukava
 Kwik-O
 Lasoid
 Dime
 Nevermold
 Keranum
-Leader
+Johtaja
 Draft
 Linus
-Nonlinear
-Advanced
+Epälineaarinen
+Kehittynut
 Starshot
 Tukus
 Linstorm
@@ -94,7 +94,7 @@ Fiberium
 Lumen
 Stratospheric
 Shaft
-Current
+Nykyinen
 Pleather
 Meatus
 Porcine
