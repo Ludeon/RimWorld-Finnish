@@ -1,17 +1,17 @@
-﻿Company
-Partners
-Corporation
+Yhtiö
+Kumppanit
+Yhtiö
 Traders
-Industries
+Toimialat
 Incorporated
 Travelers
-Interplanetary
-Shipping
-Export Company
-Import Company
-Transport Company
-Securities
-Solutions
-Consortium
-Interstellar
-Lubricants
+Planeettojen välinen
+Laivaus
+Vientiyritys
+Tuo yritys
+Kuljetusyritys
+Arvopaperit
+Ratkaisut
+Konsortio
+Tähtienvälinen
+Voiteluaineet

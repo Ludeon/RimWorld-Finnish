@@ -1,18 +1,18 @@
-﻿union
-nation
-confederacy
-confederation
-dominion
-league
-alliance
-covenant
-federation
-compact
-accord
-coalition
-concord
-kin league
-pact
-treaty
-amalgamation
-unification
+﻿liitto
+kansakunta
+valtioliitto
+valtioliitto
+valta
+liiga
+liittouma
+liitto
+liittovaltio
+kompakti
+sopimus
+koalitio
+sopu
+sukulaisten liiga
+sopimus
+sopimus
+yhdistäminen
+yhdistyminen

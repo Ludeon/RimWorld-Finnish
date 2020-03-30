@@ -1,7 +1,7 @@
-﻿nation
-confederacy
-confederation
-alliance
-kinship
-people
-tribe
+kansakunta
+valtioliitto
+valtioliitto
+liittouma
+sukulaisuus
+ihmiset
+heimo

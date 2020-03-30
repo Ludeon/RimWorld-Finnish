@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+punainen
+musta
+harmaa
+tuhka
 
-dark
-shadow
-night
+tumma
+varjo
+yö
