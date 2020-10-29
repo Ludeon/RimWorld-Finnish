@@ -21,7 +21,7 @@
   <!-- EN: Storage -->
   <TabStorage>Varasto</TabStorage>
   <!-- EN: Shells -->
-  <TabShells>TODO</TabShells>
+  <TabShells>Ammukset</TabShells>
   <!-- EN: Health -->
   <TabHealth>Terveys</TabHealth>
   <!-- EN: Race -->
@@ -31,17 +31,17 @@
   <!-- EN: Stats -->
   <TabStats>Tilastot</TabStats>
   <!-- EN: Records -->
-  <TabRecords>Tilastot</TabRecords>
+  <TabRecords>Historia</TabRecords>
   <!-- EN: Art -->
   <TabArt>Taide</TabArt>
   <!-- EN: Social -->
   <TabSocial>Seuraelämä</TabSocial>
   <!-- EN: Log -->
-  <TabLog>TODO</TabLog>
+  <TabLog>Loki</TabLog>
   <!-- EN: Caravan -->
-  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <TabFormingCaravan>Karavaani</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>TODO</TabTransporterContents>
+  <TabTransporterContents>Sisältö</TabTransporterContents>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -49,33 +49,33 @@
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>Resepti {0} tarvitsee allaolevat taidot. Yhdelläkään yhdyskuntalaisellasi ei ole näitä taitoja, joten kukaan ei tee tätä tilausta.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
-  <MinimumSkill>Minimi taitotaso</MinimumSkill>
+  <MinimumSkill>Min. taitotaso</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>PYSÄYTETTY</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>Työn tekijä: {0}</BoundWorkerIs>
+  <BoundWorkerIs>Työn tekijä: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>Istuta</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>Kopioitua tilausta ei voi liittää tähän.</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
-  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <ReorderBillUpTip>Siirrä ylös</ReorderBillUpTip>
   <!-- EN: Move down -->
-  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <ReorderBillDownTip>Siirrä alas</ReorderBillDownTip>
   <!-- EN: Delete -->
-  <DeleteBillTip>TODO</DeleteBillTip>
+  <DeleteBillTip>Poista</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
-  <CopyBillTip>TODO</CopyBillTip>
+  <CopyBillTip>Kopioi leikepöydälle</CopyBillTip>
   <!-- EN: Suspend -->
-  <SuspendBillTip>TODO</SuspendBillTip>
+  <SuspendBillTip>Keskeytä</SuspendBillTip>
   <!-- EN: Paste -->
-  <PasteBillTip>TODO</PasteBillTip>
+  <PasteBillTip>Liitä</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>Ei voi lisätä enempää</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>TODO</RecruitmentResistance>
+  <RecruitmentResistance>Vastustusta jäljellä</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Värväyksen vaikeus</RecruitmentDifficulty>
   <!-- EN: Gets food -->
@@ -87,7 +87,7 @@
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Yritä värvätä</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+  <ConsideredGuilty>Syyllinen (rangaistusta jäljellä {0})</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -115,7 +115,7 @@
   <!-- EN: Injured -->
   <Injured>Haavoittunut</Injured>
   <!-- EN: no health conditions -->
-  <NoHealthConditions>TODO</NoHealthConditions>
+  <NoHealthConditions>ei terveysongelmia</NoHealthConditions>
   <!-- EN: Whole body -->
   <WholeBody>Koko ruumis</WholeBody>
   <!-- EN: Data processing -->
@@ -139,27 +139,27 @@
   <!-- EN: Medical operations -->
   <MedicalOperations>Lääkintäoperaatiot</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>Amputoi</Amputate>
+  <Amputate>amputoi</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>TODO</HarvestOrgan>
+  <HarvestOrgan>kerää</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>Poista</RemoveOrgan>
+  <RemoveOrgan>poista</RemoveOrgan>
   <!-- EN: memory -->
-  <MemoryLower>memory</MemoryLower>
+  <MemoryLower>muisti</MemoryLower>
   <!-- EN: social interactions -->
-  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <SocialInteractionsLower>sosiaaliset toimet</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
-  <HungerRate>Hunger rate</HungerRate>
+  <HungerRate>Nälkiintymisnopeus</HungerRate>
   <!-- EN: Tiredness -->
-  <Tiredness>Tiredness</Tiredness>
+  <Tiredness>Väsyneisyys</Tiredness>
   <!-- EN: Pain -->
   <PainFactor>Kipu</PainFactor>
   <!-- EN: Prevents infection -->
-  <PreventsInfection>Prevents infection</PreventsInfection>
+  <PreventsInfection>Estää tartunnan</PreventsInfection>
   <!-- EN: Self-tend -->
-  <SelfTend>Self-tend</SelfTend>
+  <SelfTend>Itsehoito</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+  <SelfTendTip>{0} joilla on itsehoito käytössä hoitavat itseään {1} tehokkuudella.</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -175,11 +175,11 @@
   <!-- EN: Enhanced -->
   <Enhanced>Paranneltu</Enhanced>
   <!-- EN: Seriously impaired -->
-  <SeriouslyImpaired>Vak. est.</SeriouslyImpaired>
+  <SeriouslyImpaired>Vak. estynyt</SeriouslyImpaired>
   <!-- EN: Impaired -->
   <Impaired>Estynyt</Impaired>
   <!-- EN: Slightly impaired -->
-  <SlightlyImpaired>Väh. est.</SlightlyImpaired>
+  <SlightlyImpaired>Vähän estynyt</SlightlyImpaired>
   <!-- EN: None -->
   <NoPain>Olematon</NoPain>
   <!-- EN: Little -->
@@ -193,102 +193,102 @@
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
-  <Trainability>TODO</Trainability>
+  <Trainability>Koulutettavuus</Trainability>
   <!-- EN: Requires trainability {0}. -->
-  <CannotTrainNotSmartEnough>Tarvitsee kouluttamiseen älykkyyden {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>Tarvitsee koulutettavuuden {0}.</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{0} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} on liian pieni tämän kouluttamiseen.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Tarvittava koulutus: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <!-- EN: (no relationships) -->
-  <NoRelationships>(no relationships)</NoRelationships>
+  <NoRelationships>(ei suhteita)</NoRelationships>
   <!-- EN: Kidnapped -->
-  <Kidnapped>Kidnapped</Kidnapped>
+  <Kidnapped>Kidnapattu</Kidnapped>
   <!-- EN: Missing -->
-  <Missing>Missing</Missing>
+  <Missing>Kateissa</Missing>
   <!-- EN: Slave -->
-  <Slave>Slave</Slave>
+  <Slave>Orja</Slave>
   <!-- EN: Faction leader -->
-  <FactionLeader>Faction leader</FactionLeader>
+  <FactionLeader>Ryhmän johtaja</FactionLeader>
   <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>Opinion of {0}</OpinionOf>
+  <OpinionOf>Mielipide henkilöstä {1_labelShort}</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>Henkilön {1_labelShort} mielipide minusta</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
-  <IAmDead>I'm dead</IAmDead>
+  <IAmDead>Olen kuollut</IAmDead>
   <!-- EN: I'm a psychopath -->
-  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  <IAmPsychopath>Olen psykopaatti</IAmPsychopath>
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
-  <OverallArmor>TODO</OverallArmor>
+  <OverallArmor>Kokonaispanssari</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
-  <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+  <MassCarried>Kannettu massa: {0} / {1} kg</MassCarried>
   <!-- EN: Comfortable temperature range -->
-  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+  <ComfyTemperatureRange>Mukava lämpötila-alue</ComfyTemperatureRange>
   <!-- EN: Blunt -->
-  <ArmorBlunt>Blunt</ArmorBlunt>
+  <ArmorBlunt>Tylppä</ArmorBlunt>
   <!-- EN: Sharp -->
-  <ArmorSharp>Sharp</ArmorSharp>
+  <ArmorSharp>Terävä</ArmorSharp>
   <!-- EN: Heat -->
-  <ArmorHeat>Heat</ArmorHeat>
+  <ArmorHeat>Lämpö</ArmorHeat>
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>TODO</ShowAll>
+  <ShowAll>Näytä kaikki</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>TODO</ShowCombat>
+  <ShowCombat>Näytä taistelu</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>TODO</ShowSocial>
+  <ShowSocial>Näytä sosiaalinen</ShowSocial>
   <!-- EN: no recent entries -->
-  <NoRecentEntries>TODO</NoRecentEntries>
+  <NoRecentEntries>ei viimeaikaisia merkintöjä</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
-  <CopyLogTip>TODO</CopyLogTip>
+  <CopyLogTip>Kopioi loki leikepöydälle</CopyLogTip>
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>TODO</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals>Kerätään eläimiä</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>TODO</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Kerätään eläimiä (odotetaan)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>Kerätään esineitä</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>Kerätään esineitä (odotetaan)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>TODO</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves>Kerätään orjia</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>TODO</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_GatheringSlaves_Pause>Kerätään orjia (odotetaan)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>Kerätään maissa olevia ihmisiä</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Kerätään maissa olevia ihmisiä (odotetaan)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
-  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving>Lähdetään</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>Lähdetään (odotetaan)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
-  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <FormingCaravanStatus_Waiting>Odotetaan</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>TODO</CaravanMembers>
+  <CaravanMembers>Jäsenet</CaravanMembers>
   <!-- EN: Animals -->
-  <CaravanAnimals>TODO</CaravanAnimals>
+  <CaravanAnimals>Eläimet</CaravanAnimals>
   <!-- EN: Items to load -->
-  <ItemsToLoad>TODO</ItemsToLoad>
+  <ItemsToLoad>Lastattavat esineet</ItemsToLoad>
   <!-- EN: Loaded items -->
-  <LoadedItems>TODO</LoadedItems>
+  <LoadedItems>Lastatut esineet</LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <PackAnimalsCountLower>kantojuhdat</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+  <InMentalStateCountLower>hermoromahtanut</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>TODO</RemoveSliderText>
+  <RemoveSliderText>Poista {{0}}x {0}</RemoveSliderText>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>Haluatko varmasti poistaa {0}?</ConfirmRemoveItemDialog>
 
   <!-- UNUSED -->
   <PrisonerNoInteraction>Ei vuorovaikutusta</PrisonerNoInteraction>

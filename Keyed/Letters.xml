@@ -4,33 +4,33 @@
   <!-- EN: Jump to location -->
   <JumpToLocation>Hyppää sijaintiin</JumpToLocation>
   <!-- EN: Postpone -->
-  <PostponeLetter>Postpone</PostponeLetter>
+  <PostponeLetter>Viivästytä</PostponeLetter>
   <!-- EN: Reject -->
-  <RejectLetter>Reject</RejectLetter>
+  <RejectLetter>Hylkää</RejectLetter>
   
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Kesä</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Kesä on alkanut! Talvi on silti tulossa.\n\nSinun ruokaviljelmäsi eivät kasva talven kylmässä. Varmista, että sinulla on ruokaa varastossa usean kuukauden tarpeiksi kun sinulla on siihen vielä mahdollisuus.\n\nVoit rakentaa pakastehuoneen estääksesi ruuan pilaantumisen.\n\nYritä lisäksi ostaa, varastaa tai tehdä itse anorakkeja tai jäädyt astueassasi ulos.</FirstSummerWarning>
+  <FirstSummerWarning>Kesä on alkanut! Talvi on silti tulossa.\n\nSinun ruokaviljelmäsi eivät kasva talven kylmässä. Varmista, että sinulla on ruokaa varastossa usean kuukauden tarpeiksi kun sinulla on siihen vielä mahdollisuus.\n\nVoit rakentaa pakastehuoneen estääksesi ruuan pilaantumisen.\n\nYritä lisäksi ostaa, varastaa tai tehdä itse anorakkeja tai jäädyt astuessasi ulos.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_Hostile>Välit ryhmän {0} kanssa ovat meneet täysin poikki. He ovat nyt vihamielisiä sinua kohtaan.\n\nHe suorittavat ajoittaisia hyökkäyksiä yhdyskuntasi ja karavaaniesi kimpuun ja kieltäytyvät käymästä vaihtokauppaa kanssasi. Jos haluat parantaa suhteita, voit silti tarjota heille lahjoja karavaaneilla tai kuljetuskapseleilla.\n\nTämä tapahtui koska hyväntahtoisuus ({1}) on laskenut tason {2} alapuolelle. Jotta voit palauttaa neutraalin suhteen, hyväntahtoisuuden on saavutettava uudelleen taso {3}.</LetterRelationsChange_Hostile>
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>TODO</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>Suhde ryhmään {0} on lämmennyt. He pitävät sinua nyt neutraalina  eivätkä enää hyökkää kimppuusi.\n\nTämä tapahtui koska hyväntahtoisuus ({1}) on noussut tason {2} yli. Jos hyväntahtoisuus laskee tason {3} alapuolelle, ryhmästä {0} tulee jälleen vihamielinen. Jos hyvantahtoisuus nousee tason {4} yläpuolelle, heistä tulee liittoilaisia ja he taistelevat puolestasi.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>TODO</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>Suhde ryhmään {0} on viilennyt. He pitävät sinua nyt neutraalina liittolaisen sijasta.\n\nVaikka he käyttäytyvät kanssasi rauhantahtoisesti, he eivät enää lähetä taistelijoita auttamaan sinua kun olet uhattuna.\n\nTämä tapahtui koska hyväntahtoisuus ({1}) laski tason {2} alle. Jos hyväntahtoisuus laskee tason {3} alapuolelle, ryhmästä {0} tulee vihamielinen. Jos hyväntahtoisuus nousee tason {4} yläpuolelle, heistä tulee jälleen liittolaisia.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>TODO</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>Suhteestasi ryhmän {0} kanssa on tullut erittäin läheinen. He pitävät sinua nyt liittolaisenaan.\n\nLiittolaiset saapuvat toisinaan auttamaan sinua vihollisten kanssa taistelemisessa kun olet hyökkäyksen kohteena. Voit myös soittaa heille pyytääksesi apua milloin vain hyväntahtoisuuden kustannuksella.\n\nTeistä on tullut liittolaisia koska hyväntahtoisuus ({1}) on noussut tason {2} yläpuolelle. Jos hyväntahtoisuus laskee tason {3} alapuolelle, suhde palaa neutraaliksi.</LetterRelationsChange_Ally>
 
   <!-- EN: goodwill -->
-  <goodwill>TODO</goodwill>
+  <goodwill>hyväntahtoisuus</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Neutraali</Neutral>
   <!-- EN: Death -->
-  <Death>TODO</Death>
+  <Death>Kuolema</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-  <ShortCircuitRain>{0} on mennyt oikosulkuun sateessa ja on sytyttänyt tulipalon.</ShortCircuitRain>
+  <ShortCircuitRain>{0} on mennyt oikosulkuun sateessa ja sytyttänyt tulipalon.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>Alue paljastunut</LetterLabelAreaRevealed>
@@ -51,22 +51,22 @@
   <!-- EN: {0} successfully recruited {1} ({2} chance). -->
   <RecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</RecruitSuccess>
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
-  <RecruitFail>{0} epäonnistui vangin {1} värmäämisessä ({2} mahdollisuus).</RecruitFail>
+  <RecruitFail>{0} epäonnistui vangin {1} värväämisessä ({2} mahdollisuus).</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>TODO</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} on henkilön {RELATIVE_labelShort} {1}. Jos {PAWN_nameDef} kuolee, {RELATIVE_labelShort} kärsii surusta pitkäkään. Jos onnistut pelastamaan henkilön {PAWN_nameDef}, {RELATIVE_labelShort} tulee olemaan onnellinen pitkään.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
   <LetterLabelBirthday>Syntymäpäivä</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>Tänään on henkilön {0} syntymäpäivä! Hänen biologinen ikänsä on {3} vuotta.\n\Ajanlaskun mukaan {1} täytti juuri {2}.\n\nHuomaa, että ihmiset eivät ikäänny ollessaan salaunessa, ja siksi ajanlaskun mukainen syntymäpäivä on erillinen biologisesta syntymäpäivästä.</BirthdayChronological>
+  <BirthdayChronological>Tänään on henkilön {0} kronologinen syntymäpäivä! Hänen biologinen ikänsä on {3} vuotta.\n\Kronologisen iän mukaan {1} täytti juuri {2}.\n\nHuomaa, että koska ihmiset eivät ikäänny ollessaan salaunessa, kronologinen syntymäpäivä on erillinen biologisesta syntymäpäivästä.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
   <BirthdayBiologicalAgeInjuries>{0} on saavuttanut {1} vuoden biologisen iän.\n\nValitettavasti hän sai seuraavat sairaudet ikääntymisen mukana:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Sairaus</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{0} tuli sairaaksi ({1}). Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewDisease>
+  <NewDisease>{PAWN} sairastui tautiin {1}.\n\nVarmista, että sinulla on sairaspeti ja lääkäri. Varmista, että {PAWN_definite} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
   <NewPartDisease>{0} sai {1}-tartunnan. Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
