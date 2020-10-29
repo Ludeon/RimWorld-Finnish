@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Animals don't attack doors -->
-  <AnimalsDontAttackDoors.label>Eläimet eivät hyökkää ovien kimppuun</AnimalsDontAttackDoors.label>
-  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
-  <AnimalsDontAttackDoors.helpText>Ihmisiä jahtaavat eläimet eivät yleensä hyökkää ovien tai epäaktivoitujen tykkitornien kimppuun.\n\nVoit paeta heiltä hakeutumalla sisätiloihin tai seinän taakse. Ne tulevat silti odottamaan sinua.</AnimalsDontAttackDoors.helpText>
+  <!-- EN: Animals will attack doors -->
+  <AnimalsDontAttackDoors.label>Eläimet rikkovat ovia</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
+  <AnimalsDontAttackDoors.helpText>Ihmisiä jahtaavat eläimet rikkovat oven jos näkevät yhdyskuntalaisen kulkevan niistä. Ne hyökkäävät myös sammutettujen tykkitornien kimppuun.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Tilaukset-välilehti</BillsTab.label>

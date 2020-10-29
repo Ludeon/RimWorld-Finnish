@@ -84,7 +84,7 @@
   <Jailbreaker.label>TODO</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
   <Jailbreaker.baseInspectLine>TODO</Jailbreaker.baseInspectLine>
-  <!-- EN: {0} has a mental breakdown and is going to induce prisoners to escape. -->
+  <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
   <Jailbreaker.beginLetter>TODO</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
   <Jailbreaker.beginLetterLabel>TODO</Jailbreaker.beginLetterLabel>
@@ -113,7 +113,7 @@
   <Slaughterer.label>TODO</Slaughterer.label>
   <!-- EN: Mental state: Slaughterer -->
   <Slaughterer.baseInspectLine>TODO</Slaughterer.baseInspectLine>
-  <!-- EN: {0} has a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
   <Slaughterer.beginLetter>TODO</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
   <Slaughterer.recoveryMessage>TODO</Slaughterer.recoveryMessage>
@@ -164,6 +164,17 @@
   <Wander_Psychotic.beginLetterLabel>daze</Wander_Psychotic.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
   <Wander_Psychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
   <Wander_Sad.label>sad wandering</Wander_Sad.label>

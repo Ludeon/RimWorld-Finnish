@@ -20,12 +20,14 @@
   <PauseOnLoad>Pysäytä peli lataamisen jälkeen</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pysäytä peli kiireelliseen viestiin</PauseOnUrgentLetter>
+  <!-- EN: Pause on -->
+  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Mukautettu kursori</CustomCursor>
   <!-- EN: Hats shown only on game map -->
   <HatsShownOnlyOnMap>Hatut näytetään vain pelikartalla</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
-  <UIScale>Käyttöliittymän skaalaus</UIScale>
+  <UIScale>Käyttöliit. koko</UIScale>
   <!-- EN: Keyboard configuration -->
   <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
   <!-- EN: Choose language -->
@@ -40,12 +42,18 @@
   <DevelopmentMode>Kehitystila</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Nollaa modit kaatumisen jälkeen</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>TODO</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Näytä tallennussijainti</ShowSaveGameDataLocation>
+  <!-- EN: Open log file folder -->
+  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <!-- EN: Show log file location -->
+  <ShowLogFileLocation>TODO</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Halutut pelaajien luomat hahmot. Näiden hahmojen pelissä olon todennäköisyys tulee olemaan suurempi:</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -63,7 +71,9 @@
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Näytä reaaliaikainen kello</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
-  <MaxNumberOfPlayerSettlements>Yhdyskuntalaisten maksimimäärä: {0}</MaxNumberOfPlayerSettlements>
+  <MaxNumberOfPlayerSettlements>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>TODO</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Kasvien heiluminen tuulessa</PlantWindSway>
   <!-- EN: Enable test map sizes -->
@@ -92,6 +102,8 @@
   <RestoreToDefaultSettings>Palauta oletusasetukset</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Asetukset on palautettu oletuksiin. Peli käynnistyy nyt uudelleen automaattisesti.</ResetAndRestart>
+  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
   
   <!-- UNUSED -->
   <MaxNumberOfPlayerHomes>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerHomes>

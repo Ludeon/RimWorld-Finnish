@@ -33,5 +33,11 @@
   <WorkTagPlantWork>Kasvityö</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>Louhimistyö</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>TODO</WorkTagAllWork>
 
 </LanguageData>

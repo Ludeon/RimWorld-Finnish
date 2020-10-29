@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>sydän</Heart.label>
+  <!-- EN: A biological human heart. Pumps blood around the body. -->
+  <Heart.description>Toimittaa verta ja happea kaikkiin kehon osiin. Valmis löytämään uuden omistajan.</Heart.description>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>munuainen</Kidney.label>
+  <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
+  <Kidney.description>Suodattaa ja poistaa kuona-aineita verestä.</Kidney.description>
+  
+  <!-- EN: liver -->
+  <Liver.label>maksa</Liver.label>
+  <!-- EN: A biological human liver. Plays an important role in metabolism. -->
+  <Liver.description>Olennainen osa aineenvaihdunnassa.</Liver.description>
+  
+  <!-- EN: lung -->
+  <Lung.label>keuhko</Lung.label>
+  <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
+  <Lung.description>Olennainen osa hengitysjärjestelmää.</Lung.description>
+  
+</LanguageData>

@@ -5,10 +5,14 @@
   <Confirm>Vahvista</Confirm>
   <!-- EN: Go back -->
   <GoBack>Takaisin</GoBack>
+  <!-- EN: Do you want to continue? -->
+  <WantToContinue>Haluatko jatkaa?</WantToContinue>
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Sulje</Close>
+  <!-- EN: Accept -->
+  <Accept>Hyväksy</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -19,8 +23,8 @@
   <GameUpdatedToNewVersionSavesCompatible>Vanhoissa versioissa tallennettujen pelien pitäisi olla yhteensopivia, mutta jotkin modit saattavat estyä toimimasta.</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Koska tämä on DRM-vapaa kopio, voit asentaa pelin kahdesti eri kansioihin ja voit pelata sekä uutta että vanhaa versiota.</GameUpdatedToNewVersionNonSteam>
-  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
-  <GameUpdatedToNewVersionSteam>Jos haluat jatkaa vanhan version käyttöä, voit käyttää Steamin "Betat"-ominaisuutta.\n\n  1. Steam kokoelmassa klikkaa hiiren oikealla hiirellä RimWorldia.\n  2. Klikkaa Ominaisuudet.\n  3. Klikkaa Betat-välilehteä.\n  4. Valitse haluamasi versio pudotusvalikosta.\n\nVanhat versiot tullaan todennäköisesti poistamaan tästä listasta ennen pitkää - emme vain halua lopettaa kesken olevia pelejä.\n\nHuomaa, että jos modinkehittäjät päivittävät modinsa pelin uuteen versioon, ne lakkaavat todennäköisesti toimimasta vanhassa versiossa. Sinun saattaa olla parempi ottaa automaattiset päivitykset pois käytöstä estääksesi tämän.</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
+  <GameUpdatedToNewVersionSteam>Jos haluat jatkaa vanhan version käyttöä, voit käyttää Steamin "Betat"-ominaisuutta.\n\n  1. Steam-kokoelmassa klikkaa hiiren oikealla hiirellä RimWorldia.\n  2. Klikkaa Ominaisuudet.\n  3. Klikkaa Betat-välilehteä.\n  4. Valitse haluamasi versio pudotusvalikosta.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -117,6 +121,14 @@
   <ChangeLoadedMods>Lataa modilista tallennuksesta</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Joitain modeja ei ole saatavilla ja täytyy asentaa</MissingMods>
+  <!-- EN: Official content -->
+  <OfficialContent>TODO</OfficialContent>
+  <!-- EN: Active -->
+  <ContentActive>TODO</ContentActive>
+  <!-- EN: Installed, but not active -->
+  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <!-- EN: Not installed -->
+  <ContentNotInstalled>TODO</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
@@ -179,28 +191,6 @@
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>Haluatko varmasti poistaa kehitystilan pysyvästi käytöstä tällä tietokoneella?\n\nTämä asetus on ihmisille jotka haluavat puhtaan pelikokemuksen ilman houkutusta käyttää kehitystyökaluja ja niiden tuomaa etua normaalissa pelissä.\n\nKehitystila voidaan ottaa uudelleen käyttöön, mutta sen tekeminen vaatii konfiguraatiotiedostojen manuaalista muokkaamista. Sinun täytyy etsiä Internetistä miten se tehdään.</ConfirmPermanentlyDisableDevMode>
-
-  <!-- Research -->
-  <!-- EN: Research -->
-  <Research>Tutki</Research>
-  <!-- EN: Researched -->
-  <Researched>Tutkittu</Researched>
-  <!-- EN: Unresearched -->
-  <Unresearched>Tutkimatta</Unresearched>
-  <!-- EN: Finished -->
-  <Finished>Päättynyt</Finished>
-  <!-- EN: In Progress -->
-  <InProgress>Tutkitaan</InProgress>
-  <!-- EN: Locked -->
-  <Locked>Locked</Locked>
-  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖYDÄN, yhdyskuntalaisesi eivät pysty tekemään tutkimusta.\n\nVoit kuitenkin tarkastella vaihtoehtoja jo nyt.</ResearchMenuWithoutBench>
-  <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>Tutkimuksen vaatimukset</ResearchPrerequisites>
-  <!-- EN: Required research bench -->
-  <RequiredResearchBench>Tarvittava tutkimuspöytä</RequiredResearchBench>
-  <!-- EN: Required research bench facilities -->
-  <RequiredResearchBenchFacilities>Tarvittavat tutkimuspöydän laitteet</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
@@ -312,14 +302,22 @@
   <MeleeWarmupTime>Lähitaistelun lämmitysaika</MeleeWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Jäähdytysaika</CooldownTime>
+  <!-- EN: Disarmed -->
+  <DisarmedTime>TODO</DisarmedTime>
+  <!-- EN: Charging -->
+  <ChargingTime>TODO</ChargingTime>
+  <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
+  <ChargingNext>TODO</ChargingNext>
+  <!-- EN: Shut down -->
+  <ShutDown>TODO</ShutDown>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Tulinopeus</BurstShotFireRate>
   <!-- EN: Range -->
   <Range>Kantama</Range>
   <!-- EN: Stopping power -->
   <StoppingPower>Pysäytysvoima</StoppingPower>
-  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>Osumat tästä aseesta horjuttavat kohteita hidastaen niiden liikettä usean sekunnin. Tämä ei vaikuta kohteisiin joiden ruumiinkoko on suurempi kuin pysäytysvoima.</StoppingPowerExplanation>
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>Osumat tästä aseesta horjuttavat kohteita hidastaen niiden liikettä usean sekunnin.\n\nTämä ei vaikuta kohteisiin joiden ruumiinkoko on suurempi kuin pysäytysvoima.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>Suoran osuman todennäköisyys</DirectHitChance>
   <!-- EN: Miss radius -->
@@ -338,8 +336,8 @@
   <MinGrowthTemperature>Minimi kasvulämpötila</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Maksimi kasvulämpötila</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
-  <GrowingTimeDesc>Kasvit kasvavat vain osan aikaa päivästä ja vain jos ne on valaistu. Tämä tilasto mittaa aikaa, jonka kasvi tarvitsee todellista kasvamisaikaa kasvaakseen täyteen mittaansa. Todellinen kasvamisaika on yleensä kaksi kertaa pitempi aika. Matalat lämpötilat hidastavat myös kasvien kasvua.</GrowingTimeDesc>
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <GrowingTimeDesc>Kasvit kasvavat vain osan aikaa päivästä ja vain jos ne on valaistu.\n\nTämä tilasto mittaa aikaa, jonka kasvi tarvitsee todellista kasvamisaikaa kasvaakseen täyteen mittaansa. Todellinen kasvamisaika on yleensä kaksi kertaa pitempi aika.\nMatalat lämpötilat hidastavat myös kasvien kasvua.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>päivää</Days>
   <!-- EN: Minimum growing skill to sow -->
@@ -366,6 +364,8 @@
   <MinFoodQuality>Min. ruoan laatu</MinFoodQuality>
   <!-- EN: Diet -->
   <Diet>Ruokavalio</Diet>
+  <!-- EN: Nutrition need per day -->
+  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>Nahan tyyppi</LeatherType>
   <!-- EN: Body size -->
@@ -376,11 +376,13 @@
   <MarketValue>Perushinta</MarketValue>
   <!-- EN: Covers -->
   <Covers>Suojaa</Covers>
+  <!-- EN: Created at -->
+  <CreatedAt>TODO</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Kerros</Layer>
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>Suojan tehokkuus</CoverEffectiveness>
-  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
+  <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
   <CoverEffectivenessExplanation>Miten tehokas tämä on kun sitä käytetään suojana tulitaistelussa. Korkeammat prosentit estävät suurempaa määrää laukauksia.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>Kokemuksensaantikerroin</MedicineXpGainFactor>
@@ -396,14 +398,52 @@
   <TamenessWillNotDecay>Kesyys ei koskaan häviä.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
   <AnimalFilthRate>Eläimen saastan määrä</AnimalFilthRate>
-  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>Eläimet tuottavat saastaa kun ne liikkuvat rakennetuilla lattioilla. Tämä on keskimääräinen tuotettu saasta per {0} kuljettua neliötä.\n\nSuuremmat ja vähemmän lemmikkieläinmäiset eläimet tuottavat enemmän saastaa.</AnimalFilthRateExplanation>
+  <!-- EN: Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
+  <AnimalFilthRateExplanation>Eläimet tuottavat saastaa kun ne liikkuvat rakennetuilla lattioilla.\n\nTämä on keskimääräinen tuotettu saasta per {0} kuljettua neliötä.\n\nSuuremmat ja vähemmän lemmikkieläinmäiset eläimet tuottavat enemmän saastaa.</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>Aika</TimeRecordsCategory>
   <!-- EN: Misc -->
   <MiscRecordsCategory>Sekalainen</MiscRecordsCategory>
-  <!-- EN: Addictiveness -->
+  <!-- EN: Chemical -->
+  <Chemical>TODO</Chemical>
+  <!-- EN: High gain per dose -->
+  <HighGain>TODO</HighGain>
+  <!-- EN: High fall rate -->
+  <HighFallRate>TODO</HighFallRate>
+  <!-- EN: High duration per dose -->
+  <HighDuration>TODO</HighDuration>
+  <!-- EN: Tolerance gain per dose -->
+  <ToleranceGain>TODO</ToleranceGain>
+  <!-- EN: Tolerance fall rate -->
+  <ToleranceFallRate>TODO</ToleranceFallRate>
+  <!-- EN: New addiction min tolerance -->
+  <MinimumToleranceForAddiction>TODO</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval -->
+  <SafeDoseInterval>TODO</SafeDoseInterval>
+  <!-- EN: New addiction chance -->
   <Addictiveness>Riippuvuus</Addictiveness>
+  <!-- EN: Addiction initial severity -->
+  <AddictionSeverityInitial>TODO</AddictionSeverityInitial>
+  <!-- EN: Addiction severity per dose -->
+  <AddictionSeverityPerDose>TODO</AddictionSeverityPerDose>
+  <!-- EN: Addiction need fill per dose -->
+  <AddictionNeedOffset>TODO</AddictionNeedOffset>
+  <!-- EN: Addiction need fall rate -->
+  <AddictionNeedFallRate>TODO</AddictionNeedFallRate>
+  <!-- EN: Addiction need dose interval -->
+  <AddictionNeedDoseInterval>TODO</AddictionNeedDoseInterval>
+  <!-- EN: Addiction recovery time -->
+  <AddictionRecoveryTime>TODO</AddictionRecoveryTime>
+  <!-- EN: Addiction cost -->
+  <AddictionCost>TODO</AddictionCost>
+  <!-- EN: Random overdose chance -->
+  <RandomODChance>TODO</RandomODChance>
+  <!-- EN: Always safe -->
+  <AlwaysSafe>TODO</AlwaysSafe>
+  <!-- EN: Never safe -->
+  <NeverSafe>TODO</NeverSafe>
+  <!-- EN: {0} / day -->
+  <PerDay>TODO</PerDay>
   <!-- EN: Pack animal -->
   <PackAnimal>Kuormajuhta</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -412,22 +452,24 @@
   <Skill>Taito</Skill>
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Onnistumiskerroin</SurgerySuccessChanceFactor>
+  <!-- EN: Death chance on fail -->
+  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Työskentelynopeuteen vaikuttaa</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Tuotantolaatuun vaikuttaa</EfficiencyStat>
-  <!-- EN: Construction skill required -->
-  <ConstructionSkillRequired>Vaadittava rakennustaito</ConstructionSkillRequired>
-  <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>Tarvitsee tämän tason rakentamistaidon rakennettavaksi</ConstructionSkillRequiredExplanation>
+  <!-- EN: {0} skill required -->
+  <SkillRequiredToBuild>Vaadittava rakennustaito [0}</SkillRequiredToBuild>
+  <!-- EN: Requires this level of {0} in order to build. -->
+  <SkillRequiredToBuildExplanation>Tarvitsee tason {0} rakentamiseen.</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>Kiehnäysaikaväli</NuzzleInterval>
-  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>Miten usein eläin kiehnää ystävällisiä yhdyskuntalaisia keskimäärin.\n\nKiehnäys on monelle eläinlajille yhteinen käytöstapa, jossa eläin painaa nenänsä tai kuononsa ystävää vasten hellyydenosoituksena. Useimpien ihmisten mielestä tämä on söpöä ja se saa heidät hyvälle tuulelle joksikin aikaa.</NuzzleIntervalExplanation>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>Miten usein eläin kiehnää ystävällisiä yhdyskuntalaisia keskimäärin.\n\nKiehnäys on monelle eläinlajille yhteinen käytöstapa, jossa eläin painaa nenänsä tai kuononsa ystävää vasten hellyydenosoituksena.\nUseimpien ihmisten mielestä tämä on söpöä ja se saa heidät hyvälle tuulelle joksikin aikaa.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Koston tod.näk. satutettaessa</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olio haluaa kostaa hyökkääjän satuttaessa kiväärietäisyydeltä.\n\nTämä todennäköisyys kasvaa jos hyökkääjä on lähempänä. Jos hyökkääjä on erittäin lähellä, todennäköisyys on kolme kertaa yhtä suuri.\n\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.\n\nMinimoidaksesi olion kostonhimoisuuden hyökkää sen kimppuun kiväärietäisyydeltä hitaasti ampuvalla aseella.</HarmedRevengeChanceExplanation>
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
+  <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olio haluaa kostaa hyökkääjän satuttaessa kiväärietäisyydeltä.\n\nTämä todennäköisyys kasvaa jos hyökkääjä on lähempänä. Jos hyökkääjä on erittäin lähellä, todennäköisyys on kolme kertaa yhtä suuri.\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.\n\nMinimoidaksesi olion kostonhimoisuuden hyökkää sen kimppuun kiväärietäisyydeltä hitaasti ampuvalla aseella.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Koston tod.näk. kesytyksen epäonn.</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -446,7 +488,47 @@
   <ShotsBeforeRearmExplanation>Miten monta laukausta tämä tykkitorni voi laukaista ennen kuin se täytyy ladata uudelleen.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>Sähkönkulutus</PowerConsumption>
-
+  <!-- EN: Target -->
+  <Target>TODO</Target>
+  <!-- EN: The types of targets on which this ability can be used. -->
+  <AbilityTargetDesc>TODO</AbilityTargetDesc>
+  <!-- EN: human -->
+  <TargetHuman>TODO</TargetHuman>
+  <!-- EN: animal -->
+  <TargetAnimal>TODO</TargetAnimal>
+  <!-- EN: self -->
+  <TargetSelf>TODO</TargetSelf>
+  <!-- EN: ground -->
+  <TargetGround>TODO</TargetGround>
+  <!-- EN: Click to learn more. -->
+  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <!-- EN: Click to view factions. -->
+  <ClickToViewFactions>TODO</ClickToViewFactions>
+  <!-- EN: meditation focus types -->
+  <MeditationFocuses>TODO</MeditationFocuses>
+  <!-- EN: Unlocks meditation focus types -->
+  <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
+  <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
+  <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
+  <!-- EN: Can use {0} focus type because -->
+  <MeditationFocusCanUse>TODO</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>TODO</MeditationFocusObjects>
+  <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
+  <MeditationFocusEnabledByTitle>TODO</MeditationFocusEnabledByTitle>
+  <!-- EN: has childhood -->
+  <MeditationFocusEnabledByChildhood>TODO</MeditationFocusEnabledByChildhood>
+  <!-- EN: has adulthood -->
+  <MeditationFocusEnabledByAdulthood>TODO</MeditationFocusEnabledByAdulthood>
+  <!-- EN: has trait -->
+  <MeditationFocusEnabledByTrait>TODO</MeditationFocusEnabledByTrait>
+  <!-- EN: does not have trait -->
+  <MeditationFocusDisabledByTrait>TODO</MeditationFocusDisabledByTrait>
+  <!-- EN: Enables meditation focus types -->
+  <EnablesMeditationFocusType>TODO</EnablesMeditationFocusType>
+  
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>Positiiviset numerot ostavat.\nNegatiiviset numerot myyvät.</PositiveBuysNegativeSells>
@@ -462,6 +544,8 @@
   <TraderCount>Miten monta tällaista tavaraa vaihtokauppialla on antaa.</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>Hyväksy</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>TODO</LoadSelected>
   <!-- EN: Reset -->
   <ResetButton>Nollaa</ResetButton>
   <!-- EN: Cancel -->
@@ -480,6 +564,8 @@
   <TraderWillNotTrade>Vaihtokauppias ei suostu ostamaan tätä.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>Neuvottelija</Negotiator>
+  <!-- EN: Negotiator: {0} (+{1}) -->
+  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Neuvottelijasi {1_labelShort} ei pysty puhumaan kunnolla huonon terveyden vuoksi.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -514,22 +600,34 @@
   <GiftModeTip>Lahjatila - tarjoa lahjoja kohteelle {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Palaa vaihtotilaan</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>Esineitä joita tämä vaihtokauppias ostaa</SellableItemsTitle>
+  <!-- EN: Never visited - stock unknown -->
+  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <!-- EN: Restocked since your last visit -->
+  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <!-- EN: Next restock: {0} days -->
+  <NextTraderRestock>TODO</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Olioita</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Muodosta karavaani</FormCaravan>
+  <!-- EN: Send -->
+  <Send>TODO</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Saatavilla oleva lukumäärä karavaaniin laitettavaksi.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>Ihmiset ja eläimet</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>Esineet</ItemsTab>
+  <!-- EN: Travel supplies -->
+  <FoodAndMedicineTab>TODO</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Sinun täytyy määrätä vähintään yksi ei maissa oleva yhdyskuntalainen.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -556,8 +654,8 @@
   <DaysWorthOfFoodInfoRot>pilaantumiseen {0}</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Loputon</InfiniteDaysWorthOfFoodInfo>
-  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Arvioitu päivien määrä ennen kuin ainakin yhdeltä ihmiseltä tai eläimeltä loppuu ruoka. Eri lajeilla on erilaiset ruokavaliot, joten toisilta saattaa loppua ruoka ennen muita. Tämä arvo lasketaan tarkemmin kun reitti on valittu.\n\nVaikuttajat:\n  - Kannetun ruuan tyyppi ja määrä\n  - Karavaanin jäsenet ja niiden ruokavaliot\n  - Keräämisnopeus\n  - Eläimet voivat laiduntaa\n  - Aikaa kunnes ruoka pilaantuu\n  - Kuuma sää pilaannuttaa ruokaa nopeammin.</DaysWorthOfFoodTooltip>
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>Arvioitu päivien määrä ennen kuin ainakin yhdeltä ihmiseltä tai eläimeltä loppuu ruoka. Eri lajeilla on erilaiset ruokavaliot, joten toisilta saattaa loppua ruoka ennen muita. Tämä arvo lasketaan tarkemmin kun reitti on valittu.\n\nVaikuttajat:\n  - Nykyinen henkilön omaisuudet\n  - Kannetun ruuan tyyppi ja määrä\n  - Karavaanin jäsenet ja niiden ruokavaliot\n  - Keräämisnopeus\n  - Eläimet voivat laiduntaa\n  - Aikaa kunnes ruoka pilaantuu\n  - Kuuma sää pilaannuttaa ruokaa nopeammin.</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(vain ensimmäinen reittipiste otetaan huomioon)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
@@ -590,8 +688,12 @@
   <AnimalCanGrazeTip>Tämä eläin voi laiduntaa ruokaa ympäristöstä kannetun ruuan syönmisen sijasta. Laiduntaminen on vain mahdollista joissain biomeissa ja lämpötila-alueissa.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>Ravintoarvoa kerätty päivässä. Todelliseen arvoon vaikuttaa myös biomin kerättävyys.\n\n{0}</NutritionForagedPerDayTip>
-  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
   <NutritionEatenPerDayTip>Ravintoarvoa syöty päivässä. Vertailuksi yksinkertaisissa aterioissa on {0} ravintoarvoa.\n\nVoi syödä: {2}\n\nSelitys:\n{1}.</NutritionEatenPerDayTip>
+  <!-- EN: Can eat -->
+  <CanEat>TODO</CanEat>
+  <!-- EN: Legend -->
+  <Legend>TODO</Legend>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>Kannettu massa</MassCarriedSimple>
   <!-- EN: Mass capacity -->
@@ -618,6 +720,8 @@
   <AnimalsSection>Eläimet</AnimalsSection>
   <!-- EN: Choose route -->
   <ChooseRouteButton>Valitse reitti</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>TODO</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Hylkää</AbandonButton>
   <!-- EN: Movement speed -->
@@ -648,6 +752,8 @@
   <FactionType>Ryhmän tyyppi</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>Yhteenlaskettu ruumiinkoko</TotalBodySize>
+  <!-- EN: Automatically select travel supplies -->
+  <AutomaticallySelectFoodAndMedicine>TODO</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -657,19 +763,35 @@
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
   <SplitCaravanThingCountTip>Miten monta tätä esinettä karavaani on valmis antamaan uuteen karavaaniin.</SplitCaravanThingCountTip>
   
+  <!-- Caravan misc -->
+  <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
+  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>Lastaa {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>Merkityt ihmiset ja esineet ovat liian painavia kuljetuskapseleille.</TooBigTransportersMassUsage>
+  <!-- EN: The assigned people and items are too heavy for the shuttle. -->
+  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>Et voi lähettää tyhjiä kuljetuskapseleita.</CantSendEmptyTransportPods>
+  <!-- EN: You can't send empty shuttle. -->
+  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{0} ei pääse kuljetuskapseleiden luo.</PawnCantReachTransporters>
+  <!-- EN: {1_labelShort} can't reach the shuttle. -->
+  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>Kuljetuskapseleiden ja kohteen {0} välillä ei ole reittiä.</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the shuttle and the {0}. -->
+  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>Kuljetuskapseleiden ja kohteen {0}x {1} välillä ei ole reittiä.</TransporterItemIsUnreachableMulti>
+  <!-- EN: There is no path between the shuttle and {0}x {1}. -->
+  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>TODO</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -744,8 +866,8 @@
   <MoodThresholdColumnLabel>Vain jos mieliala on alle</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>Vain jos hupi on alle</JoyThresholdColumnLabel>
-  <!-- EN: Take to inventory -->
-  <TakeToInventoryColumnLabel>Ota omaisuuksiin</TakeToInventoryColumnLabel>
+  <!-- EN: Keep in inventory -->
+  <TakeToInventoryColumnLabel>Pidä omaisuuksissa</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(ei päihteitä)</NoDrugsBrackets>
   <!-- EN: Every day -->
@@ -860,10 +982,88 @@
   <ConfirmCleanupTranslationFiles_Confirm>Kyllä, minulla on varmuuskopio</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>Karavaani tulee olemaan liikuntakyvytön jos lähetät kapselit tyhjälle laatalle. Jatka silti?</TransportersCaravanWillBeImmobile>
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>Karavaani tulee olemaan liikuntakyvytön jos laukaiset tyhjälle laatalle. Jatka silti?</TransportersCaravanWillBeImmobile>
 
+  <!-- Confirm cancel monument marker -->
+  <!-- EN: Do you really want to remove this monument marker? -->
+  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
+
+  <!-- Abilities -->
+  <!-- EN: Line of sight required -->
+  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <!-- EN: Neural heat gain -->
+  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <!-- EN: Psyfocus cost -->
+  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
+  <!-- EN: Effect duration -->
+  <AbilityDuration>TODO</AbilityDuration>
+  <!-- EN: Effect radius -->
+  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <!-- EN: Casting time -->
+  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <!-- EN: No line of sight to target. -->
+  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
+  <!-- EN: {0} must target an empty area. -->
+  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <!-- EN: {0} must target a walkable area. -->
+  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  <!-- EN: {0} must target an unroofed area. -->
+  <AbilityRoofed>TODO</AbilityRoofed>
+  <!-- EN: {0_labelShort} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>TODO</AbilityCantApplyNoResistance>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>TODO</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>TODO</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>TODO</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>TODO</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>TODO</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>TODO</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>TODO</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>TODO</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>TODO</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>TODO</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
+  
   <!-- UNUSED -->
+  <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖYDÄN, yhdyskuntalaisesi eivät pysty tekemään tutkimusta.\n\nVoit kuitenkin tarkastella vaihtoehtoja jo nyt.</ResearchMenuWithoutBench>
+  <ConstructionSkillRequired>Vaadittava rakennustaito</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>Tarvitsee tämän tason rakentamistaidon rakennettavaksi</ConstructionSkillRequiredExplanation>
   <PermadeathMode>Permadeath-tila</PermadeathMode>
   <DoXTimes>Tee X kertaa</DoXTimes>
   <DoUntilYouHaveX>Tee, kunnes on X</DoUntilYouHaveX>

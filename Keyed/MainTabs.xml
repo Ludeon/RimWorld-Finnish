@@ -22,14 +22,32 @@
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>TODO</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>TODO</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>TODO</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>TODO</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>TODO</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>TODO</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>TODO</PawnFactionInfo>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
+  <!-- EN: Unchangeable -->
+  <Unchangeable>TODO</Unchangeable>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>pakotettu</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>TODO</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
   <!-- EN: Edit... -->
@@ -58,6 +76,8 @@
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>TODO</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>TODO</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -68,8 +88,12 @@
   <DefeatedLower>kukistettu</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
+  <!-- EN: Enemy of:  -->
+  <EnemyOf>TODO</EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <!-- EN: Current relations with this faction. -->
+  <CurrentRelationTip>TODO</CurrentRelationTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -78,8 +102,12 @@
   <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
   <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
+  <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
+  <CurrentGoodwillTip_NaturalGoodwillRise>TODO</CurrentGoodwillTip_NaturalGoodwillRise>
+  <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
+  <CurrentGoodwillTip_NaturalGoodwillFall>TODO</CurrentGoodwillTip_NaturalGoodwillFall>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
@@ -148,16 +176,153 @@
   <ColonistsLaunched>Yhdyskuntalaisa lähetetty avaruuteen</ColonistsLaunched>
 
   <!-- Research tab -->
-  <!-- EN: project tech level -->
-  <ProjectTechLevel>project tech level</ProjectTechLevel>
-  <!-- EN: your tech level -->
-  <YourTechLevel>your tech level</YourTechLevel>
-  <!-- EN: cost multiplier -->
-  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
+  <!-- EN: Research -->
+  <Research>Tutki</Research>
+  <!-- EN: Researched -->
+  <Researched>Tutkittu</Researched>
+  <!-- EN: Unresearched -->
+  <Unresearched>Tutkimatta</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>Päättynyt</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>Tutkitaan</InProgress>
+  <!-- EN: Locked -->
+  <Locked>Locked</Locked>
+  <!-- EN: Research prerequisites -->
+  <ResearchPrerequisites>Tutkimuksen vaatimukset</ResearchPrerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>Tarvittava tutkimuspöytä</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>Tarvittavat tutkimuspöydän laitteet</RequiredResearchBenchFacilities>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>TODO</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>TODO</UnlockedWith>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>TODO</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>TODO</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>TODO</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>TODO</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>TODO</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>TODO</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>TODO</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>TODO</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>TODO</QuestAveragePawnMoodTargets>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>TODO</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>TODO</GuestsDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>TODO</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>TODO</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>TODO</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>TODO</AcceptQuestForTip>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>TODO</QuestOutcomeInfo_Invalid>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <!-- EN: Select hives -->
+  <SelectHiveTargets>TODO</SelectHiveTargets>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>TODO</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestNoThroneRoom>TODO</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
+  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>TODO</QuestRequiresNoDangerOnMap>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>TODO</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>TODO</ChooseRewardsDesc>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>TODO</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>TODO</AcceptGoodwillDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>TODO</RoyalFavorOff>
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>TODO</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>TODO</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>TODO</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>TODO</QuestBetrayalOfferTip>
   
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>TODO</CreatesNeed>
+
   <!-- UNUSED -->
+  <ProjectTechLevel>project tech level</ProjectTechLevel>
+  <YourTechLevel>your tech level</YourTechLevel>
+  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
   <CurrentGoodwill>Tämänhetkinen tämän ryhmän hyväntahtoisuus sinua kohtaan.</CurrentGoodwill>
 
 </LanguageData>

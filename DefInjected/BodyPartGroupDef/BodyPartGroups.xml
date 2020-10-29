@@ -71,6 +71,11 @@
   <!-- EN: legs -->
   <Legs.label>jalkavarret</Legs.label>
   
+  <!-- EN: middle finger -->
+  <MiddleFingers.label>TODO</MiddleFingers.label>
+  <!-- EN: finger -->
+  <MiddleFingers.labelShort>TODO</MiddleFingers.labelShort>
+  
   <!-- EN: mouth -->
   <Mouth.label>suu</Mouth.label>
   
@@ -105,7 +110,7 @@
   <!-- EN: upper head -->
   <UpperHead.label>päälaki</UpperHead.label>
   
-  <!-- EN: waist -->
+  <!-- EN: utility slot -->
   <Waist.label>vyötärö</Waist.label>
   
 </LanguageData>

@@ -44,6 +44,8 @@
   <NotEnoughStoredLower>ei tarpeeksi varastossa</NotEnoughStoredLower>
   <!-- EN: nothing -->
   <NothingLower>ei mitään</NothingLower>
+  <!-- EN: Nothing -->
+  <Nothing>TODO</Nothing>
   <!-- EN: Adapted -->
   <Adapted>Mukautunut</Adapted>
   <!-- EN: fresh -->
@@ -64,6 +66,14 @@
   <MissingMedicalBillIngredient>{0} puuttuu</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
   <Immunity>Vastustuskyky</Immunity>
+  <!-- EN: {0} days to recover -->
+  <DaysToRecover>TODO</DaysToRecover>
+  <!-- EN: Ineffective -->
+  <Ineffective>TODO</Ineffective>
+  <!-- EN: illegal -->
+  <Illegal>TODO</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>TODO</DetectionChance>
   <!-- EN: Race -->
   <Race>Rotu</Race>
   <!-- EN: Description -->
@@ -78,12 +88,24 @@
   <ThingInfo>Tietoja</ThingInfo>
   <!-- EN: Drop -->
   <DropThing>Pudota</DropThing>
+  <!-- EN: Temporary faction members will not drop their items. -->
+  <DropThingLodger>TODO</DropThingLodger>
+  <!-- EN: This person refuses to drop this. -->
+  <DropThingLocked>TODO</DropThingLocked>
   <!-- EN: Rename -->
   <Rename>Nimeä uudelleen</Rename>
   <!-- EN: Rename animal -->
   <RenameAnimal>TODO</RenameAnimal>
   <!-- EN: Rename colonist -->
   <RenameColonist>Nimeä yhdyskuntalainen uudelleen</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>TODO</RenounceTitle>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>TODO</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>tuntematon</UnknownLower>
   <!-- EN: On -->
@@ -120,6 +142,8 @@
   <DormantHiveNotReproducing>TODO</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>TODO</NextSpawnedItemIn>
+  <!-- EN: Next resource in -->
+  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
   <BrokenDown>Broken down</BrokenDown>
   <!-- EN: (bond) -->
@@ -152,7 +176,7 @@
   <UsingBedrolls>TODO</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>Est. time to destination: {0}</CaravanEstimatedTimeToDestination>
-  <!-- EN: Estimated days to arrive: {0} -->
+  <!-- EN: Route travel time: {0} days -->
   <CaravanEstimatedDaysToDestination>TODO</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
@@ -164,7 +188,7 @@
   <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
   <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
-  <!-- EN: Stopped because: Everyone has a mental break. -->
+  <!-- EN: Stopped because: Everyone is in a mental break. -->
   <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
   <CaravanColonistsCount>TODO</CaravanColonistsCount>
@@ -208,6 +232,8 @@
   <CaravanAttacking>Attacking {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>TODO</CaravanOfferingGifts>
+  <!-- EN: Trading with {0} -->
+  <CaravanTrading>TODO</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
   <!-- EN: T -->
@@ -220,10 +246,10 @@
   <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>Map</Map>
-  <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>{0} hours until leaving</ForceExitAndRemoveMapCountdown>
-  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0} hours.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Room</Room>
   <!-- EN: Beauty here -->
@@ -262,10 +288,16 @@
   <EquippedBy>equipped by {0}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
+  <!-- EN: {0} wants this destroyed. -->
+  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
+  <!-- EN: Departing on shuttle in {0} -->
+  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
+  <!-- EN: Departing in {0} -->
+  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
+  <!-- EN: Should depart on shuttle -->
+  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
-  <!-- EN: Contents: {0} ({1}) -->
-  <ItemStashContents>Contents: {0}.</ItemStashContents>
   <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
@@ -276,12 +308,8 @@
   <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
-  <!-- EN: Known threat: {0} -->
-  <KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
-  <!-- EN: Known threats: {0} -->
-  <KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
-  <!-- EN: Threats: Unknown -->
-  <KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
+  <!-- EN: {0} {1} -->
+  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>TODO</SkillRequirements>
   <!-- EN: Products -->
@@ -300,7 +328,7 @@
   <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
   <!-- EN: downed -->
   <DownedLower>TODO</DownedLower>
-  <!-- EN: carried -->
+  <!-- EN: resting -->
   <Carried>TODO</Carried>
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>TODO</AverageCaravanMemberMoveSpeed>
@@ -334,14 +362,20 @@
   <CreatureWildness>TODO</CreatureWildness>
   <!-- EN: {0} trainability -->
   <CreatureTrainability>TODO</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
-  <!-- EN: You can't re-enter for another {0} days. -->
+  <!-- EN: Too dangerous to re-enter for {0}. -->
   <EnterCooldown>TODO</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>TODO</Caravan>
-  <!-- EN: there may be danger there -->
+  <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>TODO</PreciousLumpLabel>
   <!-- EN: no active research project -->
@@ -356,6 +390,100 @@
   <Mortars>TODO</Mortars>
   <!-- EN: enemy -->
   <Enemy>TODO</Enemy>
+  <!-- EN: location -->
+  <Location>TODO</Location>
+  <!-- EN: animals -->
+  <AnimalsLower>TODO</AnimalsLower>
+  <!-- EN: {0} x{1} -->
+  <FilthLabel>TODO</FilthLabel>
+  <!-- EN: {0} of {1} x{2} -->
+  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <!-- EN: Required -->
+  <Required>TODO</Required>
+  <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
+  <!-- EN: prisoner -->
+  <PrisonerLower>TODO</PrisonerLower>
+  <!-- EN: prisoners -->
+  <PrisonersLower>TODO</PrisonersLower>
+  <!-- EN: Click to view this quest in quests tab -->
+  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <!-- EN: Mood -->
+  <Mood>TODO</Mood>
+  <!-- EN: Quest -->
+  <Quest>TODO</Quest>
+  <!-- EN: Brings raids every {0} -->
+  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <!-- EN: Generates {0} every {1} -->
+  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
+  <!-- EN: Foliage kill radius -->
+  <FoliageKillRadius>TODO</FoliageKillRadius>
+  <!-- EN: Radius expand rate -->
+  <RadiusExpandRate>TODO</RadiusExpandRate>
+  <!-- EN: View: {0} -->
+  <ViewHyperlink>TODO</ViewHyperlink>
+  <!-- EN: Detonates in {0} days -->
+  <DetonationCountdown>TODO</DetonationCountdown>
+  <!-- EN: Large explosion if damaged -->
+  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
+  <!-- EN: Mech cluster -->
+  <MechCluster>TODO</MechCluster>
+  <!-- EN: Spawning in {0} -->
+  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
+  <!-- EN: {0} assembly completes in {1}. -->
+  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>TODO</MechAssemblyNextType>
+  <!-- EN: produced -->
+  <ThingsProduced>TODO</ThingsProduced>
+  <!-- EN: harvested -->
+  <PlantsHarvested>TODO</PlantsHarvested>
+  <!-- EN: {0} killed -->
+  <PawnsKilled>TODO</PawnsKilled>
+  <!-- EN: Sent {0}, will return in {1} -->
+  <PawnsLent>TODO</PawnsLent>
+  <!-- EN: Dormant -->
+  <DormantCompInactive>TODO</DormantCompInactive>
+  <!-- EN: Sealed -->
+  <DormantCompSealed>TODO</DormantCompSealed>
+  <!-- EN: Ready to drop mechanoids -->
+  <DormantCompBeacon>TODO</DormantCompBeacon>
+  <!-- EN: Expired -->
+  <DormantCompExpired>TODO</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>TODO</InitiatesIn>
+  <!-- EN: Activates in {0} -->
+  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>TODO</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>TODO</PsychicEntropyShort>
+  <!-- EN: {0} pain boost -->
+  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <!-- EN: radius {0} -->
+  <ConditionCauserRadius>TODO</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>TODO</LowPsyfocus>
+  <!-- EN: {0} left -->
+  <DurationLeft>TODO</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>TODO</AnyOf>
+  <!-- EN: Goodwill -->
+  <Goodwill>TODO</Goodwill>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+
+  <!-- Scanning -->
+  <!-- EN: User scanning speed -->
+  <UserScanAbility>TODO</UserScanAbility>
+  <!-- EN: Random find interval -->
+  <ScanAverageInterval>TODO</ScanAverageInterval>
+  <!-- EN: Progress to guaranteed find -->
+  <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
+  
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>TODO</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -400,8 +528,12 @@
   <TextMote_ConstructionFail>Rakentaminen\nepäonnistui</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
   <TextMote_Dodge>Väistöliike</TextMote_Dodge>
+  <!-- EN: Immune -->
+  <TextMote_Immune>TODO</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} tended</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>TODO</TextMote_SkillUp>
   <!-- EN: low mood -->
   <lowMood>TODO</lowMood>
   <!-- EN: low opinion -->
@@ -466,6 +598,8 @@
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
   <ReportHaulingTo>Kuljettamassa: {0} kohteeseen {1}.</ReportHaulingTo>
+  <!-- EN: burying {THING_label} in {DESTINATION}. -->
+  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
   <ReportHauling>Kuljettamassa: {0}.</ReportHauling>
   <!-- EN: hauling. -->
@@ -488,6 +622,8 @@
   <WatchingAurora>TODO</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>Käyttää esinettä {0} kohteeseen {1}.</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>alue</AreaLower>
   <!-- EN: cowering. -->
@@ -506,6 +642,14 @@
   <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
   <LordReportAttendingParty>Attending party</LordReportAttendingParty>
+  <!-- EN: Attending concert -->
+  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
+  <!-- EN: Holding a concert -->
+  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
+  <!-- EN: Giving a speech -->
+  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
+  <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
+  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>Forming caravan</LordReportFormingCaravan>
 
@@ -536,6 +680,8 @@
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
   <RecipeMake>Tee {0}</RecipeMake>
+  <!-- EN: Make {0}. -->
+  <RecipeMakeDescription>TODO</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Tekee esinettä {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -550,6 +696,8 @@
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Menee ohi: {0}</ThoughtExpiresIn>
+  <!-- EN: thought disabled by -->
+  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
   <ThoughtStartsExpiringIn>Alkaa mennä ohi: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
@@ -566,10 +714,20 @@
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>ryhmän {1} {0}</PawnMainDescFactionedWrap>
+  <!-- EN: {0} in {1} -->
+  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
+  <!-- EN: {0} under {1} -->
+  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
+  <!-- EN: {0} under {1}\nHome faction: {2} -->
+  <PawnMainDescTempFactionedWrap>TODO</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Ryhmä</Faction>
+  <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
+  <FactionDesc>TODO</FactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>TODO</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>Varuste</Equipped>
   <!-- EN: nothing -->
@@ -600,8 +758,8 @@
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Valitse seuraava asia samassa neliössä.\n\nPikanäppäin: {0}\n\nVoit myös tehdä tämän klikkaamalla samaa ruutua hitaasti uudestaan.</SelectNextInSquareTip>
-  <!-- EN: View information about this object. -->
-  <DefInfoTip>Tietoja tästä esineestä.</DefInfoTip>
+  <!-- EN: View information. -->
+  <DefInfoTip>Katso tietoja.</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
@@ -760,9 +918,13 @@
   <ShowAnimalNamesToggleButton>Aseta päälle kesyjen eläinten nimien näyttäminen.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>Toggle visiblity of roofs.</ShowRoofOverlayToggleButton>
+  <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
+  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
+  <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
+  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>Lock the rotation of the camera so the north pole is always up.</LockNorthUpToggleButton>
-  <!-- EN: Toggle day/night lighting system. -->
+  <!-- EN: Toggle day/night lighting on the planet view. -->
   <UsePlanetDayNightSystemToggleButton>Toggle day/night lighting system.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
   <ShowExpandingIconsToggleButton>TODO</ShowExpandingIconsToggleButton>
@@ -784,6 +946,14 @@
   <TimeLeft>time left</TimeLeft>
   <!-- EN: impact date -->
   <ImpactDate>impact date</ImpactDate>
+  <!-- EN: Source unknown. -->
+  <SourceUnknown>TODO</SourceUnknown>
+  <!-- EN: Click to jump to the source. -->
+  <ClickToJumpToSource>TODO</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>TODO</ClickToJumpToFlashstorm>
+  <!-- EN: Caused by quest: {0} -->
+  <CausedByQuest>TODO</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
@@ -844,18 +1014,24 @@
   <ShipReportHibernating>TODO</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>TODO</ShipReportNotReady>
-  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>TODO</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>TODO</HibernateWarningStandalone>
-  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
   <HibernateWarningPacifist>TODO</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
+  <SkillNeurotrainerUsed>TODO</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -902,12 +1078,18 @@
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Kaikki ovat joko kuolleet tai poissa. Tämä tarina on ohi.\n\nEhkä joku toinen voi hyödyntää näitä raunioita.</GameOverEveryoneDead>
-  <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunched>Olet laukaissut aluksesi! Nämä yhdyskuntalaiset pääsivät mukaan:\n\n{0}\nJa nämä yhdyskuntalaiset eivät:\n\n{1}\nAI:si yrittää nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä. Tai, se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi, odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunched>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
-  <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
-  <GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
+  <!-- EN: You've launched the ship! -->
+  <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
+  <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
+  <!-- EN: These colonists escaped:\n\n{0} -->
+  <GameOverColonistsEscaped>TODO</GameOverColonistsEscaped>
+  <!-- EN: These colonists were left behind:\n\n{0} -->
+  <GameOverColonistsLeft>TODO</GameOverColonistsLeft>
+  <!-- EN: In memory of:\n -->
+  <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Jatka pelaamista</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -985,6 +1167,10 @@
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
 
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>TODO</ChargesRemaining>
+  
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>Learning helper</LearningHelper>
@@ -1048,23 +1234,125 @@
   <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <!-- EN: {0} ({1})\n{2}\n{3} -->
+  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <!-- EN: {0} ({1})\n{2} -->
+  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <!-- EN: {0}\n{1}\n{2} -->
+  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <!-- EN: {0}\n{1} -->
+  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>TODO</PawnTooltipPsyfocus>
 
+  <!-- Pawn tooltip description -->
+  <!-- EN: {0} {1} -->
+  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
+  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):
+\n{0} -->
+  <Reward_Items>TODO</Reward_Items>
+  <!-- EN: you will receive (total value {1}):
+\n{0} -->
+  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <!-- EN: your faction relations with {0_name} will improve by {1} -->
+  <Reward_Goodwill>TODO</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>TODO</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>TODO</Reward_Title>
+  <!-- EN: value {0} -->
+  <TotalValue>TODO</TotalValue>
+  
+  <!-- Bladelink -->
+  <!-- EN: Bonded to: {0} -->
+  <BondedWith>TODO</BondedWith>
+  <!-- EN: Not yet bonded -->
+  <NotBonded>TODO</NotBonded>
+  <!-- EN: bonded to someone else -->
+  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
+
+  <!-- Biocoded weapons -->
+  <!-- EN: biocoded {0} -->
+  <Biocoded>TODO</Biocoded>
+  <!-- EN: Biocoding: {0} -->
+  <CodedFor>TODO</CodedFor>
+  <!-- EN: biocoded -->
+  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <!-- EN: Intercepts {0} every {1} -->
+  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0} -->
+  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <!-- EN: ground projectiles -->
+  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <!-- EN: aerial projectiles -->
+  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <!-- EN: Affected gender -->
+  <AffectedGender>TODO</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>TODO</CausedByHediff>
+  
   <!-- UNUSED -->
+  <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
+  <GameOverShipLaunched>Olet laukaissut aluksesi! Nämä yhdyskuntalaiset pääsivät mukaan:\n\n{0}\nJa nämä yhdyskuntalaiset eivät:\n\n{1}\nAI:si yrittää nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä. Tai, se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi, odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunched>
   <Fire>Tulipalo</Fire>
-  <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
-  <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
-  <DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
-  <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
-  <SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
   <AreaAnimalDefaultLabel>Eläinten alue {0}</AreaAnimalDefaultLabel>
   <NewAreaAnimal>Uusi eläinten alue</NewAreaAnimal>
-  <ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
-  <ExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ExpandingIconsToggleButton>
   <TrapArmed>Viritetty</TrapArmed>
   <TrapNotArmed>Virittämätön</TrapNotArmed>
   <TrapRearmingCost>Virittämiskustannukset: {0}</TrapRearmingCost>
-  <EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
 
 </LanguageData>

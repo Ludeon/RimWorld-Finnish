@@ -10,7 +10,7 @@
   <!-- EN: Toggle määräykset tab -->
   <MainTab_Assign.label>määräykset-välilehti päälle tai pois</MainTab_Assign.label>
   
-  <!-- EN: Toggle ryhmät tab -->
+  <!-- UNUSED -->
   <MainTab_Factions.label>ryhmät-välilehti päälle tai pois</MainTab_Factions.label>
   
   <!-- EN: Toggle historia tab -->

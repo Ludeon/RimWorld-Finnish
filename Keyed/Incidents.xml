@@ -10,10 +10,11 @@
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
   <AnimalInsanityMultiple>Jonkinlainen psyykkinen aalto on pyyhkinyt alueen yli. Yhdyskuntalaisesi ovat kunnossa, mutta...\n\nNäyttää siltä että moni alueen {0} on tullut hulluksi siitä.</AnimalInsanityMultiple>
 
-  <!-- EN: Blight -->
-  <LetterLabelCropBlight>Vitsaus</LetterLabelCropBlight>
-  <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
-  <LetterCropBlight>Yhdyskuntalaisesi on huomannut vitsauksen viljelmilläsi! Sinun pitäisi leikata tai polttaa vitsauksen vaikuttamat kasvit ennen kuin se leviää.</LetterCropBlight>
+  <!-- EN: Blight: {PLANTDEF_labelPlural} -->
+  <LetterLabelCropBlight>Vitsaus: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
+  <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
+\nYou should cut or burn the affected plants before the blight spreads. -->
+  <LetterCropBlight>Yhdyskuntalaisesi on huomannut vitsauksen {PLANTDEF_labelPlural}-viljelmissäsi!\nSinun pitää leikata tai polttaa vitsauksen vaikuttamat kasvit ennen kuin se leviää.</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Ihmeparantuminen</LetterLabelMiracleHeal>
@@ -57,8 +58,12 @@
   <!-- EN: That really is a huge explosion. Wow. -->
   <ShortCircuitWasHuge>Tuo on todella valtava räjähdys. Vau.</ShortCircuitWasHuge>
 
-  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
-  <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.</TraderArrival>
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
+  <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.\n\n{2}</TraderArrival>
+  <!-- EN: They're affiliated with {FACTION_name}. -->
+  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <!-- EN: They are not affiliated with any faction. -->
+  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>Eräs {PAWN_title} tukikohdasta {1} on kulkemassa ohi. {PAWN_pronoun} nimensä on {PAWN_nameFull}.</SingleTravelerPassing>
@@ -86,22 +91,26 @@
 
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>Ihmisjahtaajia</LetterLabelManhunterPackArrived>
-  <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>Ihmisiä jahtaava {0}lauma on saapunut alueelle. Ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät voi kulkea ovista elleivät ne näe jonkun kulkevan niistä. Pysy seinien sisällä ollaksesi turvassa. Ne eivät myöskään hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi jos haluat säästää ne.\n\nNe lähtevät alueelta parin päivän päästä. Voit piiloutua ja odottaa, tai taistella niitä vastaan.</ManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>Ihmisiä jahtaava {0}lauma on saapunut alueelle! Scaria-sairauden hulluksi ajamina ne vaeltavat alueella ihmislihaa metsästäen.\n\nNe eivät välitä ovista elleivät ne näe jonkun kulkevan niistä. Pysy seinien sisällä ollaksesi turvassa. Ne eivät myöskään hyökkää sammutettujen tykkitornien kimppuun, joten sammuta tykkitornisi säästääksesi ne.\n\nNe lähtevät alueelta parin päivän päästä. Voit piiloutua ja odottaa, tai taistella niitä vastaan.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
-  <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>Muinainen rakennelma on vapauttanut psyykkisen pulssin joka on ajanut kaikki lähellä olevat eläimet hulluiksi.</MessageAnimalInsanityPulse>
+  <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>{SOURCE_label} on vapauttanut psyykkisen pulssin joka on ajanut kaikki lähellä olevat eläimet hulluiksi.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>Pudonneen aluksen kappale on lähettänyt keskitetyn psyykkisen pulssin, joka on ajanut yhdyskuntalaisen {0} hulluksi.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>Heräsi {0} päivää sitten</AwokeDaysAgo>
+  <!-- EN: Activated {0} days ago -->
+  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <!-- EN: Opened {0} days ago -->
+  <OpenedDaysAgo>TODO</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Psyykkisen häirinnän taso: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Häirintä voimistuu</LetterLabelPsychicDroneLevelIncreased>
-  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>Pudonneen aluksen kappale lähettää nyt vieläkin voimakkaampaa psyykkistä häirintää. Jokainen {0} humanoidi alueella tuntee itsensä vieläkin häiriintyneemmäksi, järkyttyneeksi ja vainoharhaisemmaksi.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
@@ -109,35 +118,12 @@
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
   <LetterAgentRevealed>{0} on paljastunut vihollisen {1} vakoojaksi.\n\nHän yrittää nyt paeta.</LetterAgentRevealed>
 
-  <!-- Distant psychic drone -->
-  <!-- EN: Psychic drone -->
-  <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
-  <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.\n\nHäirinnän taso on {1}.</LetterIncidentPsychicDrone>
-
-  <!-- EN: Psychic soothe -->
-  <LetterLabelPsychicSoothe>Psyykkinen rauhoitus</LetterLabelPsychicSoothe>
-  <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
-  <LetterIncidentPsychicSoothe>Jokainen sukupuolta {0} edustava yhdyskuntalainen hymyilee onnessaan!\n\nJokin etäinen onnellisuuskone lähettää voimakasta psyykkistä säteilyä koko alueen ylle taajuudella joka tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon parempi.</LetterIncidentPsychicSoothe>
-
   <!-- Beavers -->
   <!-- EN: Beavers! -->
   <LetterLabelBeaversArrived>Majavia!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>Ryhmä nälkäisiä alfamajavia on saapunut.\n\nYritä tappaa ne ennen kuin he hävittävät alueen jokaisen puunlähteen.</BeaversArrived>
   
-  <!-- Refugee chased -->
-  <!-- EN: Refugee chased at {0} -->
-  <RefugeeChasedTitle>Pakolaista jahdataan {0}</RefugeeChasedTitle>
-  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
-  <RefugeeChasedInitial>{PAWN_titleIndef} nimeltään {PAWN_nameDef} kutsuu sinua lähistöltä. {PAWN_objective} jahtavat {2} tukikohdasta {3}!\n\n{PAWN_pronoun} anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. {PAWN_pronoun} kertoo biologinen ikänsä olevan {4} vuotta vanha.\n\nOle varuillasi - jos hyväksyt, joudut kohtaamaan {PAWN_possessive} kannoillaan olevat {2}.</RefugeeChasedInitial>
-  <!-- EN: Offer safety -->
-  <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
-  <!-- EN: Ignore the message -->
-  <RefugeeChasedInitial_Reject>Jätä viesti huomiotta</RefugeeChasedInitial_Reject>
-  <!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
-  <RefugeeChasedRejected>{1_labelShort} huutaa kauhuissaan särisevästä kaiuttimesta ennen kuin katkaiset lähetyksen.</RefugeeChasedRejected>
-
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>{1_kind} kesyyntyi itsestään</LetterLabelAnimalSelfTame>
@@ -163,9 +149,11 @@
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} tukikohdasta {0}</LetterLabelTraderCaravanArrival>
-  <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
-  <LetterTraderCaravanArrival>Vaihtokaupan karavaani tukikohdasta {0} on tulossa. He ovat {1}.\n\nHe pysyttelevät yhdyskunnan ympärillä muutaman päivän ennen lähtöään. Voit hyökätä heidän kimppuunsa - mutta tämä suututaa heidän ryhmänsä!</LetterTraderCaravanArrival>
-  
+  <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
+  <LetterTraderCaravanArrival>Karavaani tukikohdasta {0} on tulossa. He ovat {1}.</LetterTraderCaravanArrival>
+  <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
+  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+    
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>Lunnaspyyntö kohteesta {0}</RansomDemandTitle>
@@ -177,16 +165,16 @@
   <RansomDemand_Reject>Hylkää</RansomDemand_Reject>
   
   <!-- Journey-related -->
-  <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
-  <JourneyOffer>Ystävällinen tekoäly menneisyydestäsi nimeltään Charlon Whitestone on lähettänyt sinulle viestin!\n\nHän paljastaa, että hän on piilottanut avaruusaluksen planeetalle ja lähettää sinulle sen koordinaatit kartalla.\n\nAvaruusalus on tällä hetkellä syvässä horrostilassa. Sinun täytyy käynnistää se kun saavut ja sitten puolustaa sitä hyökkääjiltä jotka yrittävät varastaa sitä kunnes käynnistyminen pääsee loppuun.\n\nJos saat aluksen ilmaan, Charlon ottaa sinut pois tältä syrjäplaneetalta tähtiin.</JourneyOffer>
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>Alus löydetty</EscapeShipFoundLabel>
-  <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>Olet saapunut Charlon Whitestonen lähettämiin koordinaatteihin ja löytänyt piilotetun avaruusaluksen.\n\nAluksen reaktori on yhä syvässä horrostilassa, joten se ei vielä pysty lentämään. Voit käynnistää sen käyttämällä tietokoneydintä.\n\nCharlon Whitestone varoittaa, että käynnistysprosessissa kestää noin 15 päivää ja energiajäljen pystyy tunnistamaan kaukaa. Tällainen energiajälki osoittaa mahdollisuuden tähtienväliseen matkustukseen ja houkuttelee epätoivoisia hyökkääjäryhmiä ja parvia kuollettavia mekanoideja.\n\nSinun kimppuusi hyökätään voimalla jota et ole koskaan nähnyt. Varmista että puolustuksesi ovat ensin valmiit.</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>Olet saapunut (*Name)Charlon Whitestonen(/*Name) lähettämiin koordinaatteihin ja löytänyt piilotetun avaruusaluksen.\n\nAluksen reaktori on yhä syvässä horrostilassa, joten se ei vielä pysty lentämään. Voit käynnistää sen käyttämällä tietokoneydintä.\n\n(*Name)Charlon Whitestone(/*Name) varoittaa, että käynnistysprosessissa kestää noin 15 päivää ja energiajäljen pystyy tunnistamaan kaukaa. Tällainen energiajälki osoittaa mahdollisuuden tähtienväliseen matkustukseen ja houkuttelee epätoivoisia hyökkääjäryhmiä ja parvia kuollettavia mekanoideja.\n\nSinun kimppuusi hyökätään voimalla jota et ole koskaan nähnyt. Varmista että puolustuksesi ovat ensin valmiit.</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Alus tuhottu</EscapeShipLostLabel>
-  <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>Charlon Whitestone lähettää sinulle viestin.\n\nHän näkee että olet menettänyt laskeutuneen aluksen hallinnan. Jotta se ei joutuisi vääriin käsiin, hänen on pakko laukaista aluksen itsetuhomekanismi. Alus on nyt kraateri.\n\nSinun on etsittävä toinen tapa poistua tältä planeetalta.</EscapeShipLost>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
+  <EscapeShipLost>(*Name)Charlon Whitestone(/*Name) lähettää sinulle viestin.\n\nHän näkee että olet menettänyt laskeutuneen aluksen hallinnan. Jotta se ei joutuisi vääriin käsiin, hänen on pakko laukaista aluksen itsetuhomekanismi. Alus on nyt kraateri.\n\nSinun on etsittävä toinen tapa poistua tältä planeetalta.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -201,14 +189,16 @@
   <CaravanMeeting_MoveOn>Jatka matkaa</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>ei karavaanin jäseniä jotka pystyvät käymään kauppaa</CaravanMeeting_TradeIncapable>
+  <!-- EN: need a trader with the title of {0} from {1_name} -->
+  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Karavaanipyyntö</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
   <LetterCaravanRequest>Läheinen asumus, {0}, esittää sinulle erityisen vaihtokaupan. He haluavat ostaa:\n\n  {1} (arvo: {2})\n\nHe tarjoavat:\n\n  {3} (arvo: {4})\n\nTämä pyynto menee vanhaksi: {5}\n\nJos haluat tehdä vaihtokaupan, lähetä karavaaani pyydetyillä esineillä. Arvioitu matkan kesto on {6}. Voit tarkistaa tämän tarjouksen valitsemalla {0} maailmankartalta.</LetterCaravanRequest>
-  <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
-  <CaravanRequestInfo>Pyydetään: {0} ({3}), Palkinto: {1} ({2} jäljellä)</CaravanRequestInfo>
+  <!-- EN: Requesting: {0} ({2}) ({1} left) -->
+  <CaravanRequestInfo>Pyydetään: {0} ({2}), ({1} jäljellä)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>normaalilaatuinen tai parempi</NormalQualityOrBetter>
   <!-- EN: not tainted -->
@@ -234,7 +224,35 @@
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
   <LetterSiteNoLongerHostileMulti>Koska {0} ei enää ole vihamielinen, seuraavat paikat eivät enää ole saatavilla.</LetterSiteNoLongerHostileMulti>
 
+  <!-- Quest asker faction hostile -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
+  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
+  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
+  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+
   <!-- UNUSED -->
+  <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.\n\nHäirinnän taso on {1}.</LetterIncidentPsychicDrone>
+  <LetterLabelPsychicSoothe>Psyykkinen rauhoitus</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Jokainen sukupuolta {0} edustava yhdyskuntalainen hymyilee onnessaan!\n\nJokin etäinen onnellisuuskone lähettää voimakasta psyykkistä säteilyä koko alueen ylle taajuudella joka tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon parempi.</LetterIncidentPsychicSoothe>
+  <RefugeeChasedTitle>Pakolaista jahdataan {0}</RefugeeChasedTitle>
+  <RefugeeChasedInitial>{PAWN_titleIndef} nimeltään {PAWN_nameDef} kutsuu sinua lähistöltä. {PAWN_objective} jahtavat {2} tukikohdasta {3}!\n\n{PAWN_pronoun} anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. {PAWN_pronoun} kertoo biologinen ikänsä olevan {4} vuotta vanha.\n\nOle varuillasi - jos hyväksyt, joudut kohtaamaan {PAWN_possessive} kannoillaan olevat {2}.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Jätä viesti huomiotta</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{1_labelShort} huutaa kauhuissaan särisevästä kaiuttimesta ennen kuin katkaiset lähetyksen.</RefugeeChasedRejected>
+  <JourneyOffer>Ystävällinen tekoäly menneisyydestäsi nimeltään Charlon Whitestone on lähettänyt sinulle viestin!\n\nHän paljastaa, että hän on piilottanut avaruusaluksen planeetalle ja lähettää sinulle sen koordinaatit kartalla.\n\nAvaruusalus on tällä hetkellä syvässä horrostilassa. Sinun täytyy käynnistää se kun saavut ja sitten puolustaa sitä hyökkääjiltä jotka yrittävät varastaa sitä kunnes käynnistyminen pääsee loppuun.\n\nJos saat aluksen ilmaan, Charlon ottaa sinut pois tältä syrjäplaneetalta tähtiin.</JourneyOffer>
   <CropBlight>Mysteerinen vitsaus on tuhonnut satosi.</CropBlight>
   <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut laskeutumiskapseleissa lähistölle.</EnemyRaidEdgeDrop>

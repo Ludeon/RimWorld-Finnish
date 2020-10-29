@@ -8,6 +8,13 @@
   <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>Kokkaa hienoa ateriaa.</CookMealFine.jobString>
   
+  <!-- EN: cook fine meal x4 -->
+  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
+  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <!-- EN: Cooking 4 fine meals. -->
+  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>kokkaa yltäkylläinen ateria</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
@@ -15,12 +22,26 @@
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>Kokkaa yltäkylläistä ateriaa.</CookMealLavish.jobString>
   
+  <!-- EN: cook lavish meal x4 -->
+  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>kokkaa yksinkertainen ateria</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
   <CookMealSimple.description>Kokkaa mutkattoman aterian yhdestä aineksesta.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>Kokkaa yksinkertaista ateriaa.</CookMealSimple.jobString>
+  
+  <!-- EN: cook simple meal x4 -->
+  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
   
   <!-- UNUSED -->
   <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
@@ -33,5 +54,12 @@
   <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
+  
+  <!-- EN: cook packaged survival meal x4 -->
+  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <!-- EN: Cooking 4 survival meals. -->
+  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

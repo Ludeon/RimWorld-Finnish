@@ -81,12 +81,12 @@
   
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
   <ChooseLandingSite.rejectInputMessage>Ole hyvä ja valitse laskeutumisalue lauhkea metsä -biomissa, jossa on tasainen maasto.</ChooseLandingSite.rejectInputMessage>
-  <!-- EN: Here you choose your starting site.\n\nClick a spot with temperate forest biome and no hills. This will be a light green area with brown dots. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
+  <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
   <ChooseLandingSite.text>Tässä valitset laskeutumisalueen.\n\nOn olemassa paljon biomeita, mutta aloitetaan toistaiseksi ystävällisellä biomilla.\n\nKlikkaa laskeutumisaluetta, jolla on lauhkea metsä -biomi ja jonka maasto on tasainen ja paina SEURAAVA.\n\nVoit käyttää MAASTO-välilehteä nähdäksesi tietoja valitusta laatasta.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Ole hyvä ja valitse tarinankertoja Asetukset-valikosta lopettaaksesi tutoriaalin.</ChooseStoryteller.rejectInputMessage>
-  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun. -->
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
   <ChooseStoryteller.text>Tämä on tutoriaalin päätös!\n\nOn vielä paljon opittavaa, kuten vangit, metsästäminen, vaihtokauppa, eläinten kesytys ja paljon enemmän. Mutta sinulla on perusteet hallussa.\n\nSatunnaiset tapahtumat olivat poistetu käytöstä tämän tutoriaalin aikana. Aloittaaksesi oikean pelin:\n\n1. Avaa VALIKKO-välilehti oikeassa alakulmassa.\n2. Valitse  ASETUKSET.\n3. Klikkaa VALITSE TARINANKERTOJA.\n4. Valitse tarinankertoja ja vaikeustaso jotka viehättävät sinua.\n\nOnnea ja pidä hauskaa.</ChooseStoryteller.text>
   
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->

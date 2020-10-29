@@ -77,11 +77,10 @@
   <WoolAlpaca.description>The remarkably soft wool of an alpaca. It is very warm.</WoolAlpaca.description>
   <WoolAlpaca.stuffProps.stuffAdjective>alpaca wool</WoolAlpaca.stuffProps.stuffAdjective>
   
-  <!-- EN: camelhair -->
-  <WoolCamel.label>camelhair</WoolCamel.label>
-  <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
-  <WoolCamel.description>Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolCamel.description>
-  <WoolCamel.stuffProps.stuffAdjective>camelhair</WoolCamel.stuffProps.stuffAdjective>
+  <!-- EN: bison wool -->
+  <WoolBison.label>TODO</WoolBison.label>
+  <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
+  <WoolBison.description>TODO</WoolBison.description>
   
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
@@ -94,5 +93,11 @@
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
   <WoolMuffalo.description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>
   <WoolMuffalo.stuffProps.stuffAdjective>muffalo wool</WoolMuffalo.stuffProps.stuffAdjective>
+  
+  <!-- EN: sheep wool -->
+  <WoolSheep.label>camelhair</WoolSheep.label>
+  <!-- EN: Sheep's wool. It provides good insulation. -->
+  <WoolSheep.description>Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolSheep.description>
+  <WoolSheep.stuffProps.stuffAdjective>camelhair</WoolSheep.stuffProps.stuffAdjective>
   
 </LanguageData>

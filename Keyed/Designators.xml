@@ -196,10 +196,12 @@
   <IdenticalThingExists>Identtinen esine on jo tässä.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
   <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
-  <!-- EN: The terrain here cannot support this. -->
-  <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
-  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <!-- EN: {0_label} cannot be built on this terrain. -->
+  <TerrainCannotSupport>{0_label} ei voida rakentaa tähän maastoon.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>{0_label} tarvitsee maaperän joka pystyy tukemaan: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -208,6 +210,18 @@
   <TerrainMustBeRemovable>Täytyy merkitä poistettava lattia.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>Vesimylly on oltava liikkuvassa vedessä.</MustBeOnMovingWater>
+  <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
+  <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -221,11 +235,17 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Rakentamista tarvitaan</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>Yhdelläkään sinun {0} ei ole tätä taitoa.</NoColonistWithConstructionSkillTip>
+  <NoColonistWithSkillTip>Yhdelläkään sinun {0} ei ole tätä taitoa.</NoColonistWithSkillTip>
+  <!-- EN: {0} needed -->
+  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
+  <!-- EN: None of your {0} have all skills required. -->
+  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Kaikki ne {0} joilla on tämä taito eivät ole määrätty {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>Kaikki ne {0} joilla on tämä taito eivät ole määrätty {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
   <!-- UNUSED -->
+  <NoColonistWithConstructionSkillTip>Yhdelläkään sinun {0} ei ole tätä taitoa.</NoColonistWithConstructionSkillTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Kaikki ne {0} joilla on tämä taito eivät ole määrätty {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
   <DesignatorSmoothFloor>Tasoita lattia</DesignatorSmoothFloor>
   <DesignatorSmoothFloorDesc>Määritä karkeita kivilattioita hiottaviksi.</DesignatorSmoothFloorDesc>
   <DesignatorAreaNoRoofClear>Poista katoton alue</DesignatorAreaNoRoofClear>
