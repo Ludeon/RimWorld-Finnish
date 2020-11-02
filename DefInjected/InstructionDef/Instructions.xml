@@ -147,7 +147,7 @@
   <MapCameraDolly.text>Täällä sinä nyt olet planeetan pinnalla!\n\nKokeile nyt kameran liikuttamista.\n\nKäytä {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}-näppäimiä tai klikkaa ja vedä hiiren keskipainikkeella.\n\nKokeile sitä nyt!</MapCameraDolly.text>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
-  <MapCameraZoom.text>Loistavaa!\n\nVoit myös lähentää ja loitontaa kameraa hiiren rullalla tai näppäimillä {Key:MapZoomIn} ja {Key:MapZoomOut}.\n\nKokeile sitä nyt!</MapCameraZoom.text>
+  <MapCameraZoom.text>Loistavaa!\n\nVoit myös lähentää ja loitontaa kameraa hiiren rullalla tai näppäimillä {Key:MapZoom_In} ja {Key:MapZoom_Out}.\n\nKokeile sitä nyt!</MapCameraZoom.text>
   
   <!-- EN: Designate all this\nfor mining -->
   <MineSteel.onMapInstruction>Määrää tämä kaikki\nlouhittavaksi</MineSteel.onMapInstruction>
