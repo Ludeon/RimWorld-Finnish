@@ -28,7 +28,7 @@
   
   <!-- EN: concrete -->
   <Concrete.label>betoni</Concrete.label>
-  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
   <Concrete.description>Pikabetonia. Tämän päällä käveleminen on nopeaa, mutta se on varsin ruma. Sinun täytyy pystyä kaivamaan maaperän pois valaaksesi tämän.</Concrete.description>
   
   <!-- EN: gold tile -->
@@ -36,14 +36,14 @@
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
   <GoldTile.description>Kaikkein kaunein ja vaikuttavin lattia. Erittäin kallis ja tarvitsee paljon työtä sen rakentamiseen.</GoldTile.description>
   
-  <!-- EN: metal tile -->
+  <!-- EN: steel tile -->
   <MetalTile.label>metallilaatta</MetalTile.label>
-  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
   <MetalTile.description>Metallilaattoja avaruusalustunnelman luomiseen.</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>betonilaatta</PavedTile.label>
-  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
   <PavedTile.description>Käytännönläheisiä betonilaattoja. Näiden päällä liikkuminen on nopeaa, mutta ne eivät ole kovin kauniita.</PavedTile.description>
   
   <!-- EN: silver tile -->

@@ -106,6 +106,9 @@
   <!-- EN: thorax -->
   <MechanicalThorax.label>keskiruumis</MechanicalThorax.label>
   
+  <!-- EN: thorax -->
+  <MechanicalThoraxCanManipulate.label>TODO</MechanicalThoraxCanManipulate.label>
+  
   <!-- EN: reactor -->
   <Reactor.label>TODO</Reactor.label>
   

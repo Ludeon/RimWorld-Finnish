@@ -8,6 +8,11 @@
   <!-- EN: lancer -->
   <Mech_Lancer.label>TODO</Mech_Lancer.label>
   
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>TODO</Mech_Pikeman.label>
+  <!-- EN: pikemen -->
+  <Mech_Pikeman.labelPlural>TODO</Mech_Pikeman.labelPlural>
+  
   <!-- EN: scyther -->
   <Mech_Scyther.label>viikatemies</Mech_Scyther.label>
   <Mech_Scyther.labelPlural>scythers</Mech_Scyther.labelPlural>

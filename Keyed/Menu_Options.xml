@@ -9,7 +9,7 @@
   <!-- EN: Music volume -->
   <MusicVolume>Musiikin voimakkuus</MusicVolume>
   <!-- EN: Ambient volume -->
-  <AmbientVolume>TODO</AmbientVolume>
+  <AmbientVolume>Ympäristön äänet</AmbientVolume>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>Reunanpehmennys</Antialiasing>
 
@@ -20,12 +20,14 @@
   <PauseOnLoad>Pysäytä peli lataamisen jälkeen</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pysäytä peli kiireelliseen viestiin</PauseOnUrgentLetter>
+  <!-- EN: Pause on -->
+  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Mukautettu kursori</CustomCursor>
   <!-- EN: Hats shown only on game map -->
   <HatsShownOnlyOnMap>Hatut näytetään vain pelikartalla</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
-  <UIScale>Käyttöliittymän skaalaus</UIScale>
+  <UIScale>Käyttöliit. koko</UIScale>
   <!-- EN: Keyboard configuration -->
   <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
   <!-- EN: Choose language -->
@@ -40,14 +42,20 @@
   <DevelopmentMode>Kehitystila</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Nollaa modit kaatumisen jälkeen</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>TODO</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
-  <ShowSaveGameDataLocation>TODO</ShowSaveGameDataLocation>
+  <ShowSaveGameDataLocation>Näytä tallennussijainti</ShowSaveGameDataLocation>
+  <!-- EN: Open log file folder -->
+  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <!-- EN: Show log file location -->
+  <ShowLogFileLocation>TODO</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen nimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
+  <NamesYouWantToSee>Halutut pelaajien luomat hahmot. Näiden hahmojen pelissä olon todennäköisyys tulee olemaan suurempi:</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>Lisää nimi</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -55,25 +63,27 @@
   <!-- EN: This name is already on the preferred list. -->
   <MessageAlreadyPreferredName>Tämä nimi on jo haluttujen listalla.</MessageAlreadyPreferredName>
   <!-- EN: Storyteller settings -->
-  <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
+  <ChangeStoryteller>Tarinankertojan asetukset</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>Automaattitallennus</AutosaveInterval>
+  <AutosaveInterval>Autom. tall. väli</AutosaveInterval>
   <!-- EN: Temperature mode -->
   <TemperatureMode>Lämpötila-asteikko</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Näytä reaaliaikainen kello</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
-  <MaxNumberOfPlayerSettlements>TODO</MaxNumberOfPlayerSettlements>
+  <MaxNumberOfPlayerSettlements>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>TODO</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Kasvien heiluminen tuulessa</PlantWindSway>
   <!-- EN: Enable test map sizes -->
-  <EnableTestMapSizes>TODO</EnableTestMapSizes>
+  <EnableTestMapSizes>Ota karttojen testikoot käyttöön</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>Automaattitallennuksen suurin sallittu aikaväli permadeath-tilassa on {0} päivä.</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Autom. tall. suurin sallittu aikaväli permadeath-tilassa on {0} päivä.</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
   <ModSettings>Modien asetukset</ModSettings>
   <!-- EN: Permanently disable development mode -->
-  <PermanentlyDisableDevMode>TODO</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>Poista kehitystila pysyvästi käytöstä</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
@@ -92,6 +102,8 @@
   <RestoreToDefaultSettings>Palauta oletusasetukset</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Asetukset on palautettu oletuksiin. Peli käynnistyy nyt uudelleen automaattisesti.</ResetAndRestart>
+  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
   
   <!-- UNUSED -->
   <MaxNumberOfPlayerHomes>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerHomes>

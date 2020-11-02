@@ -7,7 +7,5 @@
   <Turrets.description>A few turrets.</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
   <Turrets.arrivedLetter>TODO</Turrets.arrivedLetter>
-  <!-- EN: {0} defend the site -->
-  <Turrets.descriptionDialogue>TODO</Turrets.descriptionDialogue>
   
 </LanguageData>

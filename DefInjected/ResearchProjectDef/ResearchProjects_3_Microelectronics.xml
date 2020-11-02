@@ -1,19 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: colored lights -->
-  <ColoredLights.label>värilliset valot</ColoredLights.label>
-  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>deep drilling</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
   <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.</GroundPenetratingScanner.description>
+  
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>TODO</HeavyTurrets.label>
-  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <!-- EN: Produce the heavy autocannon turret. -->
   <HeavyTurrets.description>TODO</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
@@ -51,9 +56,9 @@
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
   <PrecisionRifling.description>TODO</PrecisionRifling.description>
   
-  <!-- EN: shield belt -->
+  <!-- EN: shields -->
   <ShieldBelt.label>shield belt</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
   <ShieldBelt.description>Momentum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.</ShieldBelt.description>
   
   <!-- EN: transport pod -->

@@ -9,14 +9,7 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
-  <Breakup.logRulesInitiator.rulesStrings>
-    <li>logentry->Päätti suhteen henkilön [other_nameShortIndef] kanssa.</li>
-  </Breakup.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Breakup.logRulesRecipient.rulesStrings>
-    <li>logentry->Henkilö  [other_nameShortIndef] päätti suhteen minun kanssani.</li>
-  </Breakup.logRulesRecipient.rulesStrings>
+  <Breakup.logRulesInitiator.rulesStrings>TODO</Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>avioliittoehdotus</MarriageProposal.label>
@@ -26,13 +19,8 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>logentry->Ehdotti avioliittoa henkilön [other_nameShortIndef] kanssa.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ehdotti avioliittoa henkilön [RECIPIENT_nameDef] kanssa.</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <MarriageProposal.logRulesRecipient.rulesStrings>
-    <li>logentry->Henkilö [other_nameShortIndef] ehdotti avioliittua minun kanssani.</li>
-  </MarriageProposal.logRulesRecipient.rulesStrings>
   
   <!-- EN: romance attempt -->
   <RomanceAttempt.label>viettely-yritys</RomanceAttempt.label>
@@ -98,13 +86,6 @@
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
-  <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Yritti kosiskella henkilöä [other_nameShortIndef].</li>
-  </RomanceAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <RomanceAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Henkilö [other_nameShortIndef] kosiskeli minua.</li>
-  </RomanceAttempt.logRulesRecipient.rulesStrings>
+  <RomanceAttempt.logRulesInitiator.rulesStrings>TODO</RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

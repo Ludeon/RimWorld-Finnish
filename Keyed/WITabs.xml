@@ -46,8 +46,8 @@
   <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Prisoners</CaravanPrisoners>
-  <!-- EN: Inventory -->
-  <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>TODO</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>TODO</NoneCapable>
   <!-- EN: Caravan not moving -->
@@ -70,8 +70,5 @@
   <PlanetSeed>Luontiarvo</PlanetSeed>
   <!-- EN: Coverage -->
   <PlanetCoverageShort>Peitto</PlanetCoverageShort>
-
-  <!-- UNUSED -->
-  <AbandonTipWillDie>{0} will most likely die.</AbandonTipWillDie>
 
 </LanguageData>

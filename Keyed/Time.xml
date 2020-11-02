@@ -9,9 +9,13 @@
   <LetterMinute>m</LetterMinute>
   <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
-  
+  <!-- EN: y -->
+  <LetterYear>v</LetterYear>
+
   <!-- EN: days -->
   <DaysLower>päivää</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>tuntia</HoursLower>
   <!-- EN: seconds -->
   <SecondsLower>sekuntia</SecondsLower>
 
@@ -36,6 +40,15 @@
   <QuadrumSeptober>Syysmarras</QuadrumSeptober>
   <!-- EN: Decembary -->
   <QuadrumDecembary>Joulutammi</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>Huto</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>Helo</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>Syma</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>Jota</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>Syntynyt: {0}</Born>

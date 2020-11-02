@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: applying TargetB. -->
+  <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
+  
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
   
@@ -9,6 +12,21 @@
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThing.reportString>TODO</CastAbilityOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>TODO</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
@@ -52,6 +70,9 @@
   <!-- EN: moving. -->
   <Goto.reportString>Liikkuu.</Goto.reportString>
   
+  <!-- EN: moving. -->
+  <GotoMindControlled.reportString>TODO</GotoMindControlled.reportString>
+  
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>Etsii turvallista lämpötilaa.</GotoSafeTemperature.reportString>
   
@@ -91,9 +112,6 @@
   <!-- EN: opening TargetA. -->
   <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
   
-  <!-- UNUSED -->
-  <RearmTrap.reportString>Virittää ansan TargetA.</RearmTrap.reportString>
-  
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>TODO</RearmTurret.reportString>
   
@@ -105,6 +123,9 @@
   
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>TODO</RefuelAtomic.reportString>
+  
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TODO</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>Poistaa vaatteen TargetA.</RemoveApparel.reportString>
@@ -121,7 +142,7 @@
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
-  <!-- EN: taking TargetA. -->
+  <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
@@ -147,6 +168,9 @@
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>Oksentaa.</Vomit.reportString>

@@ -84,7 +84,7 @@
   
   <!-- EN: shelf -->
   <Shelf.label>shelf</Shelf.label>
-  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
   <Shelf.description>Items stored in this will not deteriorate, even if outside.</Shelf.description>
   
   <!-- EN: sleeping spot -->

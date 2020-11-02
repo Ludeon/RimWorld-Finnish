@@ -26,6 +26,11 @@
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
   <BlowbackOperation.description>TODO</BlowbackOperation.description>
   
+  <!-- EN: colored lights -->
+  <ColoredLights.label>värilliset valot</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
+  
   <!-- EN: electricity -->
   <Electricity.label>electricity</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
@@ -73,7 +78,7 @@
   
   <!-- EN: machining -->
   <Machining.label>työstäminen</Machining.label>
-  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
   <Machining.description>Rakenna työstöpöytiä kuolleiden mekanoidien purkamiseen käyttökelpoiseksi metalliksi.</Machining.description>
   
   <!-- EN: mortars -->
@@ -96,9 +101,9 @@
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
   <Prosthetics.description>TODO</Prosthetics.description>
   
-  <!-- EN: smokepop belts -->
+  <!-- EN: smokepop packs -->
   <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
-  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
   <SmokepopBelt.description>Learn to build smokepop belts which can provide an automatic defensive smokescreen.</SmokepopBelt.description>
   
   <!-- EN: solar panel -->

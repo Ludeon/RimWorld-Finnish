@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ancients -->
+  <!-- EN: neutral ancients -->
   <Ancients.label>avaruusmatkaajia</Ancients.label>
   <Ancients.description>Ihmisiä avaruuden syvyyksistä.</Ancients.description>
   <!-- EN: Ancients -->
@@ -11,7 +11,7 @@
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>avaruusmatkaajia</Ancients.pawnsPlural>
   
-  <!-- EN: ancients -->
+  <!-- EN: hostile ancients -->
   <AncientsHostile.label>avaruusmatkaajia</AncientsHostile.label>
   <AncientsHostile.description>Ihmisiä avaruuden syvyyksistä.</AncientsHostile.description>
   <!-- EN: Ancients -->
@@ -24,7 +24,7 @@
   <!-- EN: insects -->
   <Insect.label>hyönteisiä</Insect.label>
   <Insect.description>Yleensä aggressiivisia ja tunkeilevia hyönteisiä.</Insect.description>
-  <!-- EN: insects -->
+  <!-- EN: Sorne Geneline -->
   <Insect.fixedName>hyönteisiä</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>TODO</Insect.pawnSingular>
@@ -34,7 +34,6 @@
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>mekanoidipesä</Mechanoid.label>
   <Mechanoid.description>Muinaisten itsejäljentävien koneiden pesä.</Mechanoid.description>
-  <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>mekanoidipesä</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>

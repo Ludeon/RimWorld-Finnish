@@ -7,9 +7,6 @@
   <!-- EN: building roof. -->
   <BuildRoof.reportString>building roof.</BuildRoof.reportString>
   
-  <!-- UNUSED -->
-  <BuryCorpse.reportString>Hautaa henkilön TargetA.</BuryCorpse.reportString>
-  
   <!-- EN: capturing TargetA. -->
   <Capture.reportString>Kaappaa henkilön TargetA.</Capture.reportString>
   
@@ -87,9 +84,6 @@
   
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>Teloittaa vangin TargetA.</PrisonerExecution.reportString>
-  
-  <!-- UNUSED -->
-  <PrisonerFriendlyChat.reportString>Keskustelee vangin TargetA kanssa.</PrisonerFriendlyChat.reportString>
   
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>Vapauttaa vankia TargetA.</ReleasePrisoner.reportString>

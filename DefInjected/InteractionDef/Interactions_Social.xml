@@ -66,14 +66,7 @@
     <li>insultcomparison(p=2)->[Animal]</li>
     <li>insultcomparison->[Enemy]</li>
   -->
-  <Insult.logRulesInitiator.rulesStrings>
-    <li>logentry->Loukkasi henkilöä [other_nameShortIndef].</li>
-  </Insult.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Insult.logRulesRecipient.rulesStrings>
-    <li>logentry->Henkilö [other_nameShortIndef] loukkasi minua.</li>
-  </Insult.logRulesRecipient.rulesStrings>
+  <Insult.logRulesInitiator.rulesStrings>TODO</Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
   <KindWords.label>kind words</KindWords.label>
@@ -93,15 +86,8 @@
     <li>complimented->expressed appreciation for</li>
     <li>complimented->said good things about</li>
   -->
-  <KindWords.logRulesInitiator.rulesStrings>
-    <li>logentry->Said kind words to [other_nameShortIndef].</li>
-  </KindWords.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <KindWords.logRulesRecipient.rulesStrings>
-    <li>logentry->Had kind words bestowed by [other_nameShortIndef].</li>
-  </KindWords.logRulesRecipient.rulesStrings>
-  
+  <KindWords.logRulesInitiator.rulesStrings>TODO</KindWords.logRulesInitiator.rulesStrings>
+
   <!-- EN: slight -->
   <Slight.label>halveksunta</Slight.label>
   <!-- EN:
@@ -121,13 +107,6 @@
     <li>madefunof->made a contemptuous remark about</li>
     <li>madefunof->offered a backhanded compliment about</li>
   -->
-  <Slight.logRulesInitiator.rulesStrings>
-    <li>logentry->Halveksi henkilöä [other_nameShortIndef].</li>
-  </Slight.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Slight.logRulesRecipient.rulesStrings>
-    <li>logentry->Henkilö [other_nameShortIndef] halveksi minua.</li>
-  </Slight.logRulesRecipient.rulesStrings>
+  <Slight.logRulesInitiator.rulesStrings>TODO</Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>

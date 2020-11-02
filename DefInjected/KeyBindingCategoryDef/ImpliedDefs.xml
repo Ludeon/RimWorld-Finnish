@@ -11,9 +11,9 @@
   <!-- EN: Key bindings for the "Huonekalut" section of the Architect menu -->
   <Architect_Furniture.description>Key bindings for the "Furniture" section of the Architect menu</Architect_Furniture.description>
   
-  <!-- EN: huvi tab -->
+  <!-- EN: hupi tab -->
   <Architect_Joy.label>joy tab</Architect_Joy.label>
-  <!-- EN: Key bindings for the "Huvi" section of the Architect menu -->
+  <!-- EN: Key bindings for the "Hupi" section of the Architect menu -->
   <Architect_Joy.description>Key bindings for the "Joy" section of the Architect menu</Architect_Joy.description>
   
   <!-- EN: sekalaiset tab -->

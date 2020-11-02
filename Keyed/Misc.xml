@@ -16,18 +16,28 @@
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Versio {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>TODO</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>kehitysversio</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Laadittu {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Kirjautunut Steamiin nimellä {0}</LoggedIntoSteamAs>
-
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>TODO</ToCommaListAnd>
+  
   <!-- General-use words -->
   <!-- EN: Yes -->
   <Yes>Kyllä</Yes>
   <!-- EN: No -->
   <No>Ei</No>
+  <!-- EN: new -->
+  <New>TODO</New>
+  <!-- EN: Gender -->
+  <Gender>TODO</Gender>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -42,6 +52,8 @@
   <damage>damage</damage>
   <!-- EN: radius -->
   <radius>radius</radius>
+  <!-- EN: expired -->
+  <expired>TODO</expired>
   <!-- EN: duration (days) -->
   <durationDays>duration (days)</durationDays>
   <!-- EN: interval (days) -->
@@ -66,6 +78,10 @@
   <Default>TODO</Default>
   <!-- EN: Average -->
   <Average>TODO</Average>
+  <!-- EN: Cause -->
+  <Cause>TODO</Cause>
+  <!-- EN: etc -->
+  <Etc>TODO</Etc>
   <!-- EN: ${0} -->
   <MoneyFormat>TODO</MoneyFormat>
 
@@ -79,6 +95,16 @@
   <MeatInsectDesc>TODO</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>TODO</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>TODO</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>TODO</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>TODO</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} ruumis</CorpseLabel>
@@ -118,6 +144,12 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
   
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  
   <!-- EN: (various) -->
   <VariousLabel>(erilaisia)</VariousLabel>
 
@@ -134,6 +166,9 @@
   <West>West</West>
   <!-- EN: East -->
   <East>East</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>TODO</ApplyingTechprint>
   
   <!-- UNUSED -->
   <LeatherLabel>{0} nahka</LeatherLabel>
