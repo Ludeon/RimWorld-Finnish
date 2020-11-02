@@ -1,8 +1,8 @@
-﻿poker
-chess
-cards
+pokeri
+shakki
+kortit
 backgammon
-dice
-craps
-roulette
+noppa
+noppapeli
+ruletti
 blackjack

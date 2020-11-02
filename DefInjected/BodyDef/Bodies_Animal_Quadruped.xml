@@ -423,24 +423,24 @@
   <!-- EN: turtle-like -->
   <TurtleLike.label>kilpikonnamainen</TurtleLike.label>
   <!-- EN: left lung -->
-  <TurtleLike.corePart.parts.left_lung.customLabel>TODO</TurtleLike.corePart.parts.left_lung.customLabel>
+  <TurtleLike.corePart.parts.left_lung.customLabel>vasen keuhko</TurtleLike.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <TurtleLike.corePart.parts.right_lung.customLabel>TODO</TurtleLike.corePart.parts.right_lung.customLabel>
+  <TurtleLike.corePart.parts.right_lung.customLabel>oikea keuhko</TurtleLike.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
-  <TurtleLike.corePart.parts.left_kidney.customLabel>TODO</TurtleLike.corePart.parts.left_kidney.customLabel>
+  <TurtleLike.corePart.parts.left_kidney.customLabel>vasen munuainen</TurtleLike.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
-  <TurtleLike.corePart.parts.right_kidney.customLabel>TODO</TurtleLike.corePart.parts.right_kidney.customLabel>
+  <TurtleLike.corePart.parts.right_kidney.customLabel>oikea munuainen</TurtleLike.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>TODO</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>vasen silmä</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>TODO</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>oikea silmä</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
   <!-- EN: front left leg -->
-  <TurtleLike.corePart.parts.front_left_leg.customLabel>TODO</TurtleLike.corePart.parts.front_left_leg.customLabel>
+  <TurtleLike.corePart.parts.front_left_leg.customLabel>vasen etujalka</TurtleLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <TurtleLike.corePart.parts.front_right_leg.customLabel>TODO</TurtleLike.corePart.parts.front_right_leg.customLabel>
+  <TurtleLike.corePart.parts.front_right_leg.customLabel>oikea etujalka</TurtleLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <TurtleLike.corePart.parts.rear_left_leg.customLabel>TODO</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+  <TurtleLike.corePart.parts.rear_left_leg.customLabel>vasen takajalka</TurtleLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <TurtleLike.corePart.parts.rear_right_leg.customLabel>TODO</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+  <TurtleLike.corePart.parts.rear_right_leg.customLabel>oikea takajalka</TurtleLike.corePart.parts.rear_right_leg.customLabel>
   
 </LanguageData>

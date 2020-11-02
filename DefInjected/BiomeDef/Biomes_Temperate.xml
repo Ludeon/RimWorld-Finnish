@@ -7,8 +7,8 @@
   <TemperateForest.description>Ystävällinen metsikkö täynnä lehtipuita ja hedelmällisiä aukioita. Monenlaiset eläimet liikkuvat puissa ja maassa. Lumi tekee talvella liikkumisesta äärimäisen hidasta.</TemperateForest.description>
   
   <!-- EN: temperate swamp -->
-  <TemperateSwamp.label>TODO</TemperateSwamp.label>
+  <TemperateSwamp.label>suo</TemperateSwamp.label>
   <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
-  <TemperateSwamp.description>TODO</TemperateSwamp.description>
+  <TemperateSwamp.description>Tukehtunut suo, jossa taudit ja kasvillisuus rehottavat. Tiheä ylikasvu vaikeuttaa liikkumista ja rakennuspintojen puhdistaminen vie kauan. Suuri osa maastosta on liian pehmeää raskaiden rakenteiden tukemiseksi.</TemperateSwamp.description>
   
 </LanguageData>
