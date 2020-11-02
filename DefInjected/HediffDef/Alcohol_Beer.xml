@@ -25,9 +25,6 @@
   <!-- EN: blackout -->
   <AlcoholHigh.stages.blackout.label>hammered</AlcoholHigh.stages.blackout.label>
   
-  <!-- UNUSED -->
-  <AlcoholHigh.stages.5.label>blackout</AlcoholHigh.stages.5.label>
-  
   <!-- EN: alcohol tolerance -->
   <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
@@ -38,9 +35,6 @@
   <AlcoholTolerance.stages.large.label>large</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
   <AlcoholTolerance.stages.massive.label>massive</AlcoholTolerance.stages.massive.label>
-  
-  <!-- UNUSED -->
-  <AlcoholTolerance.stages.small-1.label>small</AlcoholTolerance.stages.small-1.label>
   
   <!-- EN: hangover -->
   <Hangover.label>krapula</Hangover.label>

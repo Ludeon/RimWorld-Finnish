@@ -11,20 +11,4 @@
   <!-- EN: Quest available -->
   <GiveQuest_Random.letterLabel>TODO</GiveQuest_Random.letterLabel>
   
-  <!-- UNUSED -->
-  <Quest_BanditCamp.label>bandit camp opportunity</Quest_BanditCamp.label>
-  <Quest_BanditCamp.letterLabel>Bandit camp opportunity</Quest_BanditCamp.letterLabel>
-  <Quest_BanditCamp.letterText>{0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\nIf we succeed, their relations will improve, and they'll send us this reward:\n\n{3}</Quest_BanditCamp.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_ItemStash.label>item stash opportunity</Quest_ItemStash.label>
-  <Quest_ItemStash.letterLabel>Item stash opportunity</Quest_ItemStash.letterLabel>
-  <Quest_ItemStash.letterText>{0}, {1} of {2}, has sent us a message.\n\nThey've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won’t last - others will take the items in {4} days if we don't.\n\nValuables tend to attract danger, so beware.\n\n{5}</Quest_ItemStash.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_JourneyOffer.label>journey offer</Quest_JourneyOffer.label>
-  
-  <!-- UNUSED -->
-  <Quest_TradeRequest.label>caravan request</Quest_TradeRequest.label>
-  
 </LanguageData>

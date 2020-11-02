@@ -144,7 +144,7 @@
   <MakeStockpile.text>Loistavaa!\n\nTee nyt varastoalue, jotta yhdyskuntalaiset tietävät, missä säilyttää esineitä.\n\n1. Klikkaa ARKKITEHTI-välilehteä vasemmassa alakulmassa.\n2. Klikkaa ALUEET-kategoriaa.\n3. Valitse VARASTOALUE-työkalu.\n4. Klikkaa ja vedä neliö kuten kartalla näytetään.</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
-  <MapCameraDolly.text>Täällä sinä nyt olet planeetan pinnalla!\n\nKokeile nyt kameran liikuttamista.\n\nKäytä {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}-näppäimiä tai klikkaa ja vedä hiiren keskipainikkeella.\n\nKokeile sitä nyt!</MapCameraDolly.text>
+  <MapCameraDolly.text>Täällä sinä nyt olet planeetan pinnalla!\n\nKokeile nyt kameran liikuttamista.\n\nKäytä {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}-näppäimiä tai klikkaa ja vedä hiiren keskipainikkeella.\n\nKokeile sitä nyt!</MapCameraDolly.text>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
   <MapCameraZoom.text>Loistavaa!\n\nVoit myös lähentää ja loitontaa kameraa hiiren rullalla tai näppäimillä {Key:MapZoomIn} ja {Key:MapZoomOut}.\n\nKokeile sitä nyt!</MapCameraZoom.text>
@@ -192,7 +192,7 @@
   <SetToGrowRice.text>Voit päättää, mitä kasvia yhdyskuntalaistesi tulee kylvää kasvatusalueelle.\n\n1. Klikkaa oikealla hiirellä poistuaksesi arkkitehtitilasta.\n2. Klikkaa kasvatusaluetta valitaksesi sen.\n3. Klikkaa "Valitse kasvi"-komentoa alareunassa ja vaihda se riisiin.</SetToGrowRice.text>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.text>Voit myös nopeuttaa aikaa.\n\nKokeile ajan ohjaamista näppäimillä {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} ja {Key:TimeSpeedSuperfast} tai ajan ohjaimilla oikeassa alakulmassa.</TimeControls.text>
+  <TimeControls.text>Voit myös nopeuttaa aikaa.\n\nKokeile ajan ohjaamista näppäimillä {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} ja {Key:TimeSpeed_Superfast} tai ajan ohjaimilla oikeassa alakulmassa.</TimeControls.text>
   
   <!-- EN: Please un-draft your colonists. -->
   <UndraftAll.rejectInputMessage>Ole hyvä ja vapauta yhdyskuntalaisesi.</UndraftAll.rejectInputMessage>

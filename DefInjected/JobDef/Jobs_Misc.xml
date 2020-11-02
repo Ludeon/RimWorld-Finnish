@@ -112,9 +112,6 @@
   <!-- EN: opening TargetA. -->
   <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
   
-  <!-- UNUSED -->
-  <RearmTrap.reportString>Virittää ansan TargetA.</RearmTrap.reportString>
-  
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>TODO</RearmTurret.reportString>
   

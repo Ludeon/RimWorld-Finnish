@@ -4,22 +4,13 @@
   <!-- EN: colonist mood -->
   <ColonistMood.label>yhdyskuntalaisten mieliala</ColonistMood.label>
   
-  <!-- UNUSED -->
-  <ColonistMood.graphLabelY>Prosenttia</ColonistMood.graphLabelY>
-  
   <!-- EN: debug -->
   <Debug.label>TODO</Debug.label>
   
   <!-- EN: population -->
   <Population.label>väkiluku</Population.label>
   
-  <!-- UNUSED -->
-  <Population.graphLabelY>Yhdyskuntalaista</Population.graphLabelY>
-  
   <!-- EN: wealth -->
   <Wealth.label>varallisuus</Wealth.label>
-  
-  <!-- UNUSED -->
-  <Wealth.graphLabelY>Määrä</Wealth.graphLabelY>
   
 </LanguageData>

@@ -42,10 +42,6 @@
   <Rest.description>Lepo on miten paljon unta olio on saanut lähiaikoina.</Rest.description>
   
   <!-- EN: room size -->
-  <RoomSize.label>TODO</RoomSize.label>
-  
-  <!-- UNUSED -->
-  <Space.label>tila</Space.label>
-  <Space.description>Tila kuvastaa vapauden tunnetta ja liikkumatilaa. Sitä haittaavat pitkät ajanjaksot ahtaissa huoneissa.</Space.description>
+  <RoomSize.label>huoneen koko</RoomSize.label>
   
 </LanguageData>

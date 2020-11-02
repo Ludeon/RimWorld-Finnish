@@ -60,9 +60,6 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
   
-  <!-- UNUSED -->
-  <RefugeeChased.label>chased refugee</RefugeeChased.label>
-  
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
   

@@ -43,10 +43,7 @@
   <!-- EN: major -->
   <Flu.stages.major.label>vähäinen</Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Flu.stages.extreme.label>merkittävä</Flu.stages.extreme.label>
-  
-  <!-- UNUSED -->
-  <Flu.stages.3.label>äärimmäinen</Flu.stages.3.label>
+  <Flu.stages.extreme.label>äärimmäinen</Flu.stages.extreme.label>
   
   <!-- EN: gut worms -->
   <GutWorms.label>lapamatoja</GutWorms.label>
@@ -62,10 +59,7 @@
   <!-- EN: major -->
   <Malaria.stages.major.label>vähäinen</Malaria.stages.major.label>
   <!-- EN: extreme -->
-  <Malaria.stages.extreme.label>merkittävä</Malaria.stages.extreme.label>
-  
-  <!-- UNUSED -->
-  <Malaria.stages.3.label>äärimmäinen</Malaria.stages.3.label>
+  <Malaria.stages.extreme.label>äärimmäinen</Malaria.stages.extreme.label>
   
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>lihaksen loisia</MuscleParasites.label>
@@ -79,14 +73,11 @@
   <!-- EN: minor -->
   <Plague.stages.minor.label>vähäinen</Plague.stages.minor.label>
   <!-- EN: major -->
-  <Plague.stages.major.label>vähäinen</Plague.stages.major.label>
+  <Plague.stages.major.label>merkittävä</Plague.stages.major.label>
   <!-- EN: extreme -->
-  <Plague.stages.extreme-0.label>merkittävä</Plague.stages.extreme-0.label>
+  <Plague.stages.extreme-0.label>äärimmäinen</Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>äärimmäinen</Plague.stages.extreme-1.label>
-  
-  <!-- UNUSED -->
-  <Plague.stages.4.label>äärimmäinen</Plague.stages.4.label>
   
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>astien mekaniitteja</SensoryMechanites.label>
@@ -106,14 +97,11 @@
   <!-- EN: minor -->
   <SleepingSickness.stages.minor-1.label>vähäinen</SleepingSickness.stages.minor-1.label>
   <!-- EN: major -->
-  <SleepingSickness.stages.major.label>vähäinen</SleepingSickness.stages.major.label>
+  <SleepingSickness.stages.major.label>merkittävä</SleepingSickness.stages.major.label>
   <!-- EN: extreme -->
-  <SleepingSickness.stages.extreme-0.label>merkittävä</SleepingSickness.stages.extreme-0.label>
+  <SleepingSickness.stages.extreme-0.label>äärimmäinen</SleepingSickness.stages.extreme-0.label>
   <!-- EN: extreme -->
   <SleepingSickness.stages.extreme-1.label>äärimmäinen</SleepingSickness.stages.extreme-1.label>
-  
-  <!-- UNUSED -->
-  <SleepingSickness.stages.5.label>äärimmäinen</SleepingSickness.stages.5.label>
   
   <!-- EN: infection -->
   <WoundInfection.label>tartunta</WoundInfection.label>

@@ -38,11 +38,6 @@
   <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
   <MechCluster.letterText>TODO</MechCluster.letterText>
   
-  <!-- UNUSED -->
-  <PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>
-  <PoisonShipPartCrash.letterLabel>Myrkkyalus</PoisonShipPartCrash.letterLabel>
-  <PoisonShipPartCrash.letterText>Suuri kappale muinaisesta avaruusaluksesta on pudonnut lähistölle.\n\nSiitä vuotaa myrkyllisiä aineita, jotka tappavat kaikki kasvit laajenevalta säteeltä ympäriltään.\n\nTuhoa se niin pian kuin mahdollista.</PoisonShipPartCrash.letterText>
-  
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->

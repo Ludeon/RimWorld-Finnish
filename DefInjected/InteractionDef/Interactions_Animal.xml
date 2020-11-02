@@ -27,14 +27,7 @@
     <li>tamed->sat patiently near</li>
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
-  <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>logentry->Kommunikoi eläimen [other_nameShortIndef] kanssa yrittäen luoda suhdetta.</li>
-  </AnimalChat.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <AnimalChat.logRulesRecipient.rulesStrings>
-    <li>logentry->Vastasi henkilön [other_nameShortIndef] ystävälliseen kommunikaatioon.</li>
-  </AnimalChat.logRulesRecipient.rulesStrings>
+  <AnimalChat.logRulesInitiator.rulesStrings>TODO</AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
   <Nuzzle.label>nuzzle</Nuzzle.label>
@@ -64,14 +57,7 @@
     <li>rubbedpart->side</li>
     <li>rubbedpart->arm</li>
   -->
-  <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>logentry->Nuzzled [other_nameShortIndef].</li>
-  </Nuzzle.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Nuzzle.logRulesRecipient.rulesStrings>
-    <li>logentry->Was nuzzled by [other_nameShortIndef].</li>
-  </Nuzzle.logRulesRecipient.rulesStrings>
+  <Nuzzle.logRulesInitiator.rulesStrings>TODO</Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>kesytysyritys</TameAttempt.label>
@@ -92,14 +78,7 @@
     <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
-  <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Yritti kesyttää eläintä [other_nameShortIndef].</li>
-  </TameAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <TameAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Katsoo henkilön [other_nameShortIndef] yritystä kesyttää minua.</li>
-  </TameAttempt.logRulesRecipient.rulesStrings>
+  <TameAttempt.logRulesInitiator.rulesStrings>TODO</TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
   <TrainAttempt.label>koulutusyritys</TrainAttempt.label>
@@ -115,13 +94,6 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Koulutti eläintä [other_nameShortIndef].</li>
-  </TrainAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <TrainAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->[other_nameShortIndef] koulutti minua.</li>
-  </TrainAttempt.logRulesRecipient.rulesStrings>
+  <TrainAttempt.logRulesInitiator.rulesStrings>TODO</TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

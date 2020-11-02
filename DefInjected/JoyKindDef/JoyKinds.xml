@@ -13,28 +13,16 @@
   <!-- EN: food consumption -->
   <Gluttonous.label>ahnas</Gluttonous.label>
   
-  <!-- UNUSED -->
-  <Lewd.label>irstas</Lewd.label>
-  
   <!-- EN: solitary relaxation -->
   <Meditative.label>mieteskelevä</Meditative.label>
   
-  <!-- UNUSED -->
-  <Passive.label>passiivinen</Passive.label>
-  
   <!-- EN: social interaction -->
   <Social.label>sosiaalinen</Social.label>
-  
-  <!-- UNUSED -->
-  <Study.label>opiskelu</Study.label>
   
   <!-- EN: telescope study -->
   <Telescope.label>TODO</Telescope.label>
   
   <!-- EN: television watching -->
   <Television.label>TODO</Television.label>
-  
-  <!-- UNUSED -->
-  <Work.label>töitä</Work.label>
   
 </LanguageData>
