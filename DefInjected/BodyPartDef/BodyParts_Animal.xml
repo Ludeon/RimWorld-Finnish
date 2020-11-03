@@ -5,7 +5,7 @@
   <AnimalJaw.label>leuka</AnimalJaw.label>
   
   <!-- EN: antenna -->
-  <Antenna.label>TODO</Antenna.label>
+  <Antenna.label>tuntosarvi</Antenna.label>
   
   <!-- EN: beak -->
   <Beak.label>nokka</Beak.label>
@@ -14,72 +14,18 @@
   <Body.label>ruumis</Body.label>
   
   <!-- EN: elytra -->
-  <Elytra.label>TODO</Elytra.label>
+  <Elytra.label>peitinsiipi</Elytra.label>
   
   <!-- EN: front claw -->
-  <FrontClaw.label>TODO</FrontClaw.label>
+  <FrontClaw.label>etukynsi</FrontClaw.label>
   <!-- EN: claw -->
-  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
-  
-  <!-- UNUSED -->
-  <FrontLeftHoof.label>vasen etukavio</FrontLeftHoof.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftInsectLeg.label>vasen etujalka</FrontLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLeg.label>vasen etujalka</FrontLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFifthClaw.label>vasemman etujalan viides kynsi</FrontLeftLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFirstClaw.label>vasemman etujalan ensimmäinen kynsi</FrontLeftLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFourthClaw.label>vasemman etujalan neljäs kynsi</FrontLeftLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegSecondClaw.label>vasemman etujalan toinen kynsi</FrontLeftLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegThirdClaw.label>vasemman etujalan kolmas kynsi</FrontLeftLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftPaw.label>vasen etukäpälä</FrontLeftPaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightHoof.label>oikea etukavio</FrontRightHoof.label>
-  
-  <!-- UNUSED -->
-  <FrontRightInsectLeg.label>oikea etujalka</FrontRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLeg.label>oikea etujalka</FrontRightLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFifthClaw.label>oikean etujalan viides kynsi</FrontRightLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFirstClaw.label>oikean etujalan ensimmäinen kynsi</FrontRightLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFourthClaw.label>oikean etujalan neljäs kynsi</FrontRightLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegSecondClaw.label>oikean etujalan toinen kynsi</FrontRightLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegThirdClaw.label>oikean etujalan kolmas kynsi</FrontRightLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightPaw.label>oikea etukäpälä</FrontRightPaw.label>
+  <FrontClaw.labelShort>kynsi</FrontClaw.labelShort>
   
   <!-- EN: head claw -->
   <HeadClaw.label>sarvi</HeadClaw.label>
   
   <!-- EN: hoof -->
-  <Hoof.label>TODO</Hoof.label>
+  <Hoof.label>kavio</Hoof.label>
   
   <!-- EN: horn -->
   <Horn.label>sarvi</Horn.label>
@@ -94,7 +40,7 @@
   <InsectHeart.label>sydän</InsectHeart.label>
   
   <!-- EN: leg -->
-  <InsectLeg.label>TODO</InsectLeg.label>
+  <InsectLeg.label>jalka</InsectLeg.label>
   
   <!-- EN: mouth -->
   <InsectMouth.label>suu</InsectMouth.label>
@@ -105,29 +51,8 @@
   <!-- EN: jowl -->
   <Jowl.label>poski</Jowl.label>
   
-  <!-- UNUSED -->
-  <LeftAntenna.label>vasen antenni</LeftAntenna.label>
-  
-  <!-- UNUSED -->
-  <LeftElytra.label>vasen peitinsiipi</LeftElytra.label>
-  
-  <!-- UNUSED -->
-  <LeftTusk.label>vasen syöksyhammas</LeftTusk.label>
-  
-  <!-- UNUSED -->
-  <MiddleLeftInsectLeg.label>vasen keskijalka</MiddleLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleLeftLeg.label>vasen keskijalka</MiddleLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleRightInsectLeg.label>oikea keskijalka</MiddleRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleRightLeg.label>oikea keskijalka</MiddleRightLeg.label>
-  
   <!-- EN: paw -->
-  <Paw.label>TODO</Paw.label>
+  <Paw.label>käpälä</Paw.label>
   
   <!-- EN: plastron -->
   <Plastron.label>vatsakilpi</Plastron.label>
@@ -136,72 +61,9 @@
   <Pronotum.label>keskiruumis</Pronotum.label>
   
   <!-- EN: rear claw -->
-  <RearClaw.label>TODO</RearClaw.label>
+  <RearClaw.label>takakynsi</RearClaw.label>
   <!-- EN: claw -->
-  <RearClaw.labelShort>TODO</RearClaw.labelShort>
-  
-  <!-- UNUSED -->
-  <RearLeftHoof.label>vasen takakavio</RearLeftHoof.label>
-  
-  <!-- UNUSED -->
-  <RearLeftInsectLeg.label>vasen takajalka</RearLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLeg.label>vasen takajalka</RearLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFifthClaw.label>vasemman takajalan viides kynsi</RearLeftLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFirstClaw.label>vasemman takajalan ensimmäinen kynsi</RearLeftLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFourthClaw.label>vasemman takajalan neljäs kynsi</RearLeftLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegSecondClaw.label>vasemman takajalan toinen kynsi</RearLeftLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegThirdClaw.label>vasemman takajalan kolmas kynsi</RearLeftLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftPaw.label>vasen takakäpälä</RearLeftPaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightHoof.label>oikea takakavio</RearRightHoof.label>
-  
-  <!-- UNUSED -->
-  <RearRightInsectLeg.label>oikea takajalka</RearRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <RearRightLeg.label>oikea takajalka</RearRightLeg.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFifthClaw.label>oikean takajalan viides kynsi</RearRightLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFirstClaw.label>oikean takajalan ensimmäinen kynsi</RearRightLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFourthClaw.label>oikean takajalan neljäs kynsi</RearRightLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegSecondClaw.label>oikean takajalan toinen kynsi</RearRightLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegThirdClaw.label>oikean takajalan kolmas kynsi</RearRightLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightPaw.label>oikea takakäpälä</RearRightPaw.label>
-  
-  <!-- UNUSED -->
-  <RightAntenna.label>oikea antenni</RightAntenna.label>
-  
-  <!-- UNUSED -->
-  <RightElytra.label>oikea peitinsiipi</RightElytra.label>
-  
-  <!-- UNUSED -->
-  <RightTusk.label>oikea syöksyhammas</RightTusk.label>
+  <RearClaw.labelShort>kynsi</RearClaw.labelShort>
   
   <!-- EN: shell -->
   <Shell.label>kuori</Shell.label>
@@ -228,6 +90,6 @@
   <TurtleShell.label>kuori</TurtleShell.label>
   
   <!-- EN: tusk -->
-  <Tusk.label>TODO</Tusk.label>
+  <Tusk.label>syöksyhammas</Tusk.label>
   
 </LanguageData>

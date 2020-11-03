@@ -2,148 +2,40 @@
 <LanguageData>
   
   <!-- EN: arm -->
-  <Arm.label>TODO</Arm.label>
+  <Arm.label>käsivarsi</Arm.label>
   
   <!-- EN: clavicle -->
-  <Clavicle.label>TODO</Clavicle.label>
+  <Clavicle.label>solisluu</Clavicle.label>
   
   <!-- EN: femur -->
-  <Femur.label>TODO</Femur.label>
+  <Femur.label>reisiluu</Femur.label>
   
   <!-- EN: finger -->
-  <Finger.label>TODO</Finger.label>
+  <Finger.label>sormi</Finger.label>
   
   <!-- EN: hand -->
-  <Hand.label>TODO</Hand.label>
+  <Hand.label>kämmen</Hand.label>
   
   <!-- EN: humerus -->
-  <Humerus.label>TODO</Humerus.label>
-  
-  <!-- UNUSED -->
-  <LeftArm.label>vasen käsivarsi</LeftArm.label>
-  
-  <!-- UNUSED -->
-  <LeftClavicle.label>vasen solisluu</LeftClavicle.label>
-  
-  <!-- UNUSED -->
-  <LeftFemur.label>vasen reisiluu</LeftFemur.label>
-  
-  <!-- UNUSED -->
-  <LeftFootBigToe.label>vasen isovarvas</LeftFootBigToe.label>
-  
-  <!-- UNUSED -->
-  <LeftFootFourthToe.label>vasen neljäs varvas</LeftFootFourthToe.label>
-  
-  <!-- UNUSED -->
-  <LeftFootLittleToe.label>vasen pikkuvarvas</LeftFootLittleToe.label>
-  
-  <!-- UNUSED -->
-  <LeftFootMiddleToe.label>vasen keskivarvas</LeftFootMiddleToe.label>
-  
-  <!-- UNUSED -->
-  <LeftFootSecondToe.label>vasen toinen varvas</LeftFootSecondToe.label>
-  
-  <!-- UNUSED -->
-  <LeftHand.label>vasen käsi</LeftHand.label>
-  
-  <!-- UNUSED -->
-  <LeftHandIndexFinger.label>vasen etusormi</LeftHandIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMiddleFinger.label>vasen keskisormi</LeftHandMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandPinky.label>vasen pikkurilli</LeftHandPinky.label>
-  
-  <!-- UNUSED -->
-  <LeftHandRingFinger.label>vasen nimetön</LeftHandRingFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandThumb.label>vasen peukalo</LeftHandThumb.label>
-  
-  <!-- UNUSED -->
-  <LeftHumerus.label>vasen olkaluu</LeftHumerus.label>
-  
-  <!-- UNUSED -->
-  <LeftRadius.label>vasen värttinäluu</LeftRadius.label>
-  
-  <!-- UNUSED -->
-  <LeftShoulder.label>vasen olkapää</LeftShoulder.label>
-  
-  <!-- UNUSED -->
-  <LeftTibia.label>vasen sääriluu</LeftTibia.label>
+  <Humerus.label>olkaluu</Humerus.label>
   
   <!-- EN: pelvis -->
   <Pelvis.label>lantio</Pelvis.label>
   
   <!-- EN: radius -->
-  <Radius.label>TODO</Radius.label>
-  
-  <!-- UNUSED -->
-  <RightArm.label>oikea käsivarsi</RightArm.label>
-  
-  <!-- UNUSED -->
-  <RightClavicle.label>oikea solisluu</RightClavicle.label>
-  
-  <!-- UNUSED -->
-  <RightFemur.label>oikea reisiluu</RightFemur.label>
-  
-  <!-- UNUSED -->
-  <RightFootBigToe.label>oikea isovarvas</RightFootBigToe.label>
-  
-  <!-- UNUSED -->
-  <RightFootFourthToe.label>oikea neljäs varvas</RightFootFourthToe.label>
-  
-  <!-- UNUSED -->
-  <RightFootLittleToe.label>oikea pikkuvarvas</RightFootLittleToe.label>
-  
-  <!-- UNUSED -->
-  <RightFootMiddleToe.label>oikea keskivarvas</RightFootMiddleToe.label>
-  
-  <!-- UNUSED -->
-  <RightFootSecondToe.label>oikea toinen varvas</RightFootSecondToe.label>
-  
-  <!-- UNUSED -->
-  <RightHand.label>oikea käsi</RightHand.label>
-  
-  <!-- UNUSED -->
-  <RightHandIndexFinger.label>oikea etusormi</RightHandIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMiddleFinger.label>oikea keskisormi</RightHandMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandPinky.label>oikea pikkurilli</RightHandPinky.label>
-  
-  <!-- UNUSED -->
-  <RightHandRingFinger.label>oikea nimetön</RightHandRingFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandThumb.label>oikea peukalo</RightHandThumb.label>
-  
-  <!-- UNUSED -->
-  <RightHumerus.label>oikea olkaluu</RightHumerus.label>
-  
-  <!-- UNUSED -->
-  <RightRadius.label>oikea värttinäluu</RightRadius.label>
-  
-  <!-- UNUSED -->
-  <RightShoulder.label>oikea olkapää</RightShoulder.label>
-  
-  <!-- UNUSED -->
-  <RightTibia.label>oikea sääriluu</RightTibia.label>
+  <Radius.label>värttinäluu</Radius.label>
   
   <!-- EN: shoulder -->
-  <Shoulder.label>TODO</Shoulder.label>
+  <Shoulder.label>olkapää</Shoulder.label>
   
   <!-- EN: sternum -->
   <Sternum.label>rintalasta</Sternum.label>
   
   <!-- EN: tibia -->
-  <Tibia.label>TODO</Tibia.label>
+  <Tibia.label>sääriluu</Tibia.label>
   
   <!-- EN: toe -->
-  <Toe.label>TODO</Toe.label>
+  <Toe.label>varvas</Toe.label>
   
   <!-- EN: torso -->
   <Torso.label>yläruumis</Torso.label>

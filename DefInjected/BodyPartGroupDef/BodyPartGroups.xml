@@ -14,34 +14,34 @@
   <Feet.label>jalkaterät</Feet.label>
   
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>etuvasemmat kynnet</FrontLeftClaws.label>
+  <FrontLeftClaws.label>vasemmat etukynnet</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>kynnet</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
-  <FrontLeftLeg.label>etuvasen jalkavarsi</FrontLeftLeg.label>
+  <FrontLeftLeg.label>vasen etujalka</FrontLeftLeg.label>
   <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>jalka</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
-  <FrontLeftPaw.label>etuvasen käpälä</FrontLeftPaw.label>
+  <FrontLeftPaw.label>vasen etukäpälä</FrontLeftPaw.label>
   <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>käpälä</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>etuoikeat kynnet</FrontRightClaws.label>
+  <FrontRightClaws.label>oikeat etukynnet</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>kynnet</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
-  <FrontRightLeg.label>etuoikea jalkavarsi</FrontRightLeg.label>
+  <FrontRightLeg.label>oikea etujalka</FrontRightLeg.label>
   <!-- EN: leg -->
-  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>jalka</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
-  <FrontRightPaw.label>etuoikea käpälä</FrontRightPaw.label>
+  <FrontRightPaw.label>oikea etukäpälä</FrontRightPaw.label>
   <!-- EN: paw -->
-  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>käpälä</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
   <FullHead.label>koko pää</FullHead.label>
@@ -61,20 +61,20 @@
   <!-- EN: left blade -->
   <LeftBlade.label>vasen terä</LeftBlade.label>
   <!-- EN: blade -->
-  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  <LeftBlade.labelShort>terä</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
-  <LeftHand.label>vasen käsi</LeftHand.label>
+  <LeftHand.label>vasen nyrkki</LeftHand.label>
   <!-- EN: fist -->
-  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  <LeftHand.labelShort>nyrkki</LeftHand.labelShort>
   
   <!-- EN: legs -->
   <Legs.label>jalkavarret</Legs.label>
   
   <!-- EN: middle finger -->
-  <MiddleFingers.label>TODO</MiddleFingers.label>
+  <MiddleFingers.label>keskisormi</MiddleFingers.label>
   <!-- EN: finger -->
-  <MiddleFingers.labelShort>TODO</MiddleFingers.labelShort>
+  <MiddleFingers.labelShort>sormi</MiddleFingers.labelShort>
   
   <!-- EN: mouth -->
   <Mouth.label>suu</Mouth.label>
@@ -85,12 +85,12 @@
   <!-- EN: right blade -->
   <RightBlade.label>oikea terä</RightBlade.label>
   <!-- EN: blade -->
-  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  <RightBlade.labelShort>terä</RightBlade.labelShort>
   
   <!-- EN: right fist -->
-  <RightHand.label>oikea käsi</RightHand.label>
+  <RightHand.label>oikea nyrkki</RightHand.label>
   <!-- EN: fist -->
-  <RightHand.labelShort>TODO</RightHand.labelShort>
+  <RightHand.labelShort>nyrkki</RightHand.labelShort>
   
   <!-- EN: shoulders -->
   <Shoulders.label>olkapäät</Shoulders.label>

@@ -4,81 +4,81 @@
   <!-- EN: lancer -->
   <Lancer.label>TODO</Lancer.label>
   <!-- EN: left sight sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>vasen näköanturi</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>oikea näköanturi</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>vasen kuuloanturi</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>oikea kuuloanturi</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left shoulder -->
-  <Lancer.corePart.parts.left_shoulder.customLabel>TODO</Lancer.corePart.parts.left_shoulder.customLabel>
+  <Lancer.corePart.parts.left_shoulder.customLabel>vasen olkapää</Lancer.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left arm -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>vasen käsivarsi</Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left hand -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>vasen kämmen</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>vasen pikkurilli</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left middle finger -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>vasen keskisormi</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>vasen etusormi</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>vasen peukalo</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right mechanical shoulder -->
   <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>oikea käsivarsi</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
   <!-- EN: right hand -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>oikea kämmen</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>oikea pikkurilli</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right middle finger -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>oikea keskisormi</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>oikea etusormi</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>oikea peukalo</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Lancer.corePart.parts.left_leg.customLabel>TODO</Lancer.corePart.parts.left_leg.customLabel>
+  <Lancer.corePart.parts.left_leg.customLabel>vasen jalka</Lancer.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>vasen jalkaterä</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Lancer.corePart.parts.right_leg.customLabel>TODO</Lancer.corePart.parts.right_leg.customLabel>
+  <Lancer.corePart.parts.right_leg.customLabel>oikea jalka</Lancer.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>oikea jalkaterä</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
   
   <!-- EN: mechanical centipede -->
   <MechanicalCentipede.label>mekaaninen tuhatjalkainen</MechanicalCentipede.label>
   <!-- EN: left sight sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>vasen näköanturi</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>oikea näköanturi</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>vasen kuuloanturi</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>oikea kuuloanturi</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   
   <!-- EN: pikeman -->
   <Pikeman.label>TODO</Pikeman.label>
   <!-- EN: left sight sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>vasen näköanturi</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>oikea näköanturi</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>vasen kuuloanturi</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>oikea kuuloanturi</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: front left leg -->
-  <Pikeman.corePart.parts.front_left_leg.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.customLabel>vasen etujalka</Pikeman.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left foot -->
-  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>etuvasen jalkaterä</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
   <!-- EN: front right leg -->
-  <Pikeman.corePart.parts.front_right_leg.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.customLabel>
+  <Pikeman.corePart.parts.front_right_leg.customLabel>oikea etujalka</Pikeman.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right foot -->
   <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
   <!-- EN: rear left leg -->
-  <Pikeman.corePart.parts.rear_left_leg.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.customLabel>
+  <Pikeman.corePart.parts.rear_left_leg.customLabel>vasen takajalka</Pikeman.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left foot -->
   <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
   <!-- EN: rear right leg -->
@@ -89,52 +89,52 @@
   <!-- EN: scyther -->
   <Scyther.label>viikatemies</Scyther.label>
   <!-- EN: left sight sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>vasen näköanturi</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>oikea näköanturi</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>vasen kuuloanturi</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>oikea kuuloanturi</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left shoulder -->
-  <Scyther.corePart.parts.left_shoulder.customLabel>TODO</Scyther.corePart.parts.left_shoulder.customLabel>
+  <Scyther.corePart.parts.left_shoulder.customLabel>vasen olkapää</Scyther.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left arm -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>vasen käsivarsi</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left blade -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>vasen terä</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
   <!-- EN: left hand -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>vasen kämmen</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>vasen pikkurilli</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left middle finger -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>vasen keskisormi</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>vasen etusormi</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>vasen peukalo</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
-  <Scyther.corePart.parts.right_shoulder.customLabel>TODO</Scyther.corePart.parts.right_shoulder.customLabel>
+  <Scyther.corePart.parts.right_shoulder.customLabel>oikea olkapää</Scyther.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>oikea käsivarsi</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right blade -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>oikea terä</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
   <!-- EN: right hand -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>oikea kämmen</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>oikea pikkurilli</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right middle finger -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>oikea keskisormi</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>oikea etusormi</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>oikea peukalo</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Scyther.corePart.parts.left_leg.customLabel>TODO</Scyther.corePart.parts.left_leg.customLabel>
+  <Scyther.corePart.parts.left_leg.customLabel>vasen jalka</Scyther.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>vasen jalkaterä</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Scyther.corePart.parts.right_leg.customLabel>TODO</Scyther.corePart.parts.right_leg.customLabel>
+  <Scyther.corePart.parts.right_leg.customLabel>oikea jalka</Scyther.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>oikea jalkaterä</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
   
 </LanguageData>

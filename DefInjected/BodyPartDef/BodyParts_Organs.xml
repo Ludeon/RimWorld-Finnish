@@ -5,25 +5,13 @@
   <Heart.label>sydän</Heart.label>
   
   <!-- EN: kidney -->
-  <Kidney.label>TODO</Kidney.label>
-  
-  <!-- UNUSED -->
-  <LeftKidney.label>vasen munuainen</LeftKidney.label>
-  
-  <!-- UNUSED -->
-  <LeftLung.label>vasen keuhko</LeftLung.label>
+  <Kidney.label>munuainen</Kidney.label>
   
   <!-- EN: liver -->
   <Liver.label>maksa</Liver.label>
   
   <!-- EN: lung -->
-  <Lung.label>TODO</Lung.label>
-  
-  <!-- UNUSED -->
-  <RightKidney.label>oikea munuainen</RightKidney.label>
-  
-  <!-- UNUSED -->
-  <RightLung.label>oikea keuhko</RightLung.label>
+  <Lung.label>keuhko</Lung.label>
   
   <!-- EN: stomach -->
   <Stomach.label>maha</Stomach.label>

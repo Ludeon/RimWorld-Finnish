@@ -16,17 +16,17 @@
   <!-- EN: right antenna -->
   <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>oikea tuntosarvi</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: front left leg -->
-  <BeetleLike.corePart.parts.front_left_leg.customLabel>etuvasen jalka</BeetleLike.corePart.parts.front_left_leg.customLabel>
+  <BeetleLike.corePart.parts.front_left_leg.customLabel>vasen etujalka</BeetleLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <BeetleLike.corePart.parts.front_right_leg.customLabel>etuoikea jalka</BeetleLike.corePart.parts.front_right_leg.customLabel>
+  <BeetleLike.corePart.parts.front_right_leg.customLabel>oikea etujalka</BeetleLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLike.corePart.parts.middle_left_leg.customLabel>keskimmäinen vasen jalka</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel>vasen keskijalka</BeetleLike.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLike.corePart.parts.middle_right_leg.customLabel>keskimmäinen oikea jalka</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>oikea keskijalka</BeetleLike.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <BeetleLike.corePart.parts.rear_left_leg.customLabel>takavasen jalka</BeetleLike.corePart.parts.rear_left_leg.customLabel>
+  <BeetleLike.corePart.parts.rear_left_leg.customLabel>vasen takajalka</BeetleLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <BeetleLike.corePart.parts.rear_right_leg.customLabel>takaoikea jalka</BeetleLike.corePart.parts.rear_right_leg.customLabel>
+  <BeetleLike.corePart.parts.rear_right_leg.customLabel>oikea takajalka</BeetleLike.corePart.parts.rear_right_leg.customLabel>
   
   <!-- EN: beetle-like with claw -->
   <BeetleLikeWithClaw.label>kovakuoriaismainen sarvella</BeetleLikeWithClaw.label>
@@ -43,16 +43,16 @@
   <!-- EN: right antenna -->
   <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>oikea tuntosarvi</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: front left leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>etuvasen jalka</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>vasen etujalka</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>etuoikea jalka</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>oikea etujalka</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>keskimmäinen vasen jalka</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>vasen keskijalka</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>keskimmäinen oikea jalka</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>oikea keskijalka</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>takavasen jalka</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>vasen takajalka</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>takaoikea jalka</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>oikea takajalka</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
   
 </LanguageData>

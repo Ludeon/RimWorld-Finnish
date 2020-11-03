@@ -5,13 +5,13 @@
   <Brain.label>aivot</Brain.label>
   
   <!-- EN: ear -->
-  <Ear.label>TODO</Ear.label>
+  <Ear.label>korva</Ear.label>
   
   <!-- EN: eye -->
-  <Eye.label>TODO</Eye.label>
+  <Eye.label>silmä</Eye.label>
   
   <!-- EN: foot -->
-  <Foot.label>TODO</Foot.label>
+  <Foot.label>jalkaterä</Foot.label>
   
   <!-- EN: head -->
   <Head.label>pää</Head.label>
@@ -19,20 +19,8 @@
   <!-- EN: jaw -->
   <Jaw.label>leuka</Jaw.label>
   
-  <!-- UNUSED -->
-  <LeftEar.label>vasen korva</LeftEar.label>
-  
-  <!-- UNUSED -->
-  <LeftEye.label>vasen silmä</LeftEye.label>
-  
-  <!-- UNUSED -->
-  <LeftFoot.label>vasen jalkaterä</LeftFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftLeg.label>vasen jalka</LeftLeg.label>
-  
   <!-- EN: leg -->
-  <Leg.label>TODO</Leg.label>
+  <Leg.label>jalka</Leg.label>
   
   <!-- EN: neck -->
   <Neck.label>kaula</Neck.label>
@@ -40,23 +28,8 @@
   <!-- EN: nose -->
   <Nose.label>nenä</Nose.label>
   
-  <!-- UNUSED -->
-  <Rib.label>kylkiluu</Rib.label>
-  
   <!-- EN: ribcage -->
-  <Ribcage.label>TODO</Ribcage.label>
-  
-  <!-- UNUSED -->
-  <RightEar.label>oikea korva</RightEar.label>
-  
-  <!-- UNUSED -->
-  <RightEye.label>oikea silmä</RightEye.label>
-  
-  <!-- UNUSED -->
-  <RightFoot.label>oikea jalkaterä</RightFoot.label>
-  
-  <!-- UNUSED -->
-  <RightLeg.label>oikea jalka</RightLeg.label>
+  <Ribcage.label>rintakehä</Ribcage.label>
   
   <!-- EN: skull -->
   <Skull.label>kallo</Skull.label>

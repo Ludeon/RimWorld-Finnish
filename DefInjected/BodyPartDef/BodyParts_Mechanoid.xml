@@ -5,151 +5,79 @@
   <ArtificialBrain.label>keinotekoiset aivot</ArtificialBrain.label>
   
   <!-- EN: blade -->
-  <Blade.label>TODO</Blade.label>
+  <Blade.label>terä</Blade.label>
   
   <!-- EN: fluid reprocessor -->
-  <FluidReprocessor.label>TODO</FluidReprocessor.label>
+  <FluidReprocessor.label>nesteenkäsittelijä</FluidReprocessor.label>
   
   <!-- EN: sound sensor -->
-  <HearingSensor.label>TODO</HearingSensor.label>
-  
-  <!-- UNUSED -->
-  <LeftBlade.label>vasen terä</LeftBlade.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalIndexFinger.label>vasen etusormi</LeftHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalMiddleFinger.label>vasen keskisormi</LeftHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalPinky.label>vasen pikkurilli</LeftHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalThumb.label>vasen peukalo</LeftHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <LeftHearingSensor.label>vasen kuuloanturi</LeftHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalArm.label>vasen käsivarsi</LeftMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalFoot.label>vasen jalkaterä</LeftMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalHand.label>vasen käsi</LeftMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalLeg.label>vasen jalka</LeftMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalShoulder.label>vasen olkapää</LeftMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <LeftSightSensor.label>vasen näköanturi</LeftSightSensor.label>
+  <HearingSensor.label>kuuloanturi</HearingSensor.label>
   
   <!-- EN: arm -->
-  <MechanicalArm.label>TODO</MechanicalArm.label>
+  <MechanicalArm.label>käsivarsi</MechanicalArm.label>
   
   <!-- EN: fifth body ring -->
   <MechanicalCentipedeBodyFifthRing.label>vartalon viides jaoke</MechanicalCentipedeBodyFifthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFifthRing.labelShort>TODO</MechanicalCentipedeBodyFifthRing.labelShort>
+  <MechanicalCentipedeBodyFifthRing.labelShort>vartalon jaoke</MechanicalCentipedeBodyFifthRing.labelShort>
   
   <!-- EN: first body ring -->
   <MechanicalCentipedeBodyFirstRing.label>vartalon ensimmäinen jaoke</MechanicalCentipedeBodyFirstRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFirstRing.labelShort>TODO</MechanicalCentipedeBodyFirstRing.labelShort>
+  <MechanicalCentipedeBodyFirstRing.labelShort>vartalon jaoke</MechanicalCentipedeBodyFirstRing.labelShort>
   
   <!-- EN: fourth body ring -->
   <MechanicalCentipedeBodyFourthRing.label>vartalon neljäs jaoke</MechanicalCentipedeBodyFourthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFourthRing.labelShort>TODO</MechanicalCentipedeBodyFourthRing.labelShort>
+  <MechanicalCentipedeBodyFourthRing.labelShort>vartalon jaoke</MechanicalCentipedeBodyFourthRing.labelShort>
   
   <!-- EN: second body ring -->
   <MechanicalCentipedeBodySecondRing.label>vartalon toinen jaoke</MechanicalCentipedeBodySecondRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySecondRing.labelShort>TODO</MechanicalCentipedeBodySecondRing.labelShort>
+  <MechanicalCentipedeBodySecondRing.labelShort>vartalon jaoke</MechanicalCentipedeBodySecondRing.labelShort>
   
   <!-- EN: sixth body ring -->
   <MechanicalCentipedeBodySixthRing.label>vartalon kuudes jaoke</MechanicalCentipedeBodySixthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySixthRing.labelShort>TODO</MechanicalCentipedeBodySixthRing.labelShort>
+  <MechanicalCentipedeBodySixthRing.labelShort>vartalon jaoke</MechanicalCentipedeBodySixthRing.labelShort>
   
   <!-- EN: third body ring -->
   <MechanicalCentipedeBodyThirdRing.label>vartalon kolmas jaoke</MechanicalCentipedeBodyThirdRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyThirdRing.labelShort>TODO</MechanicalCentipedeBodyThirdRing.labelShort>
+  <MechanicalCentipedeBodyThirdRing.labelShort>vartalon jaoke</MechanicalCentipedeBodyThirdRing.labelShort>
   
   <!-- EN: finger -->
-  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <MechanicalFinger.label>sormi</MechanicalFinger.label>
   
   <!-- EN: foot -->
-  <MechanicalFoot.label>TODO</MechanicalFoot.label>
+  <MechanicalFoot.label>jalkaterä</MechanicalFoot.label>
   
   <!-- EN: hand -->
-  <MechanicalHand.label>TODO</MechanicalHand.label>
+  <MechanicalHand.label>kämmen</MechanicalHand.label>
   
   <!-- EN: head -->
   <MechanicalHead.label>pää</MechanicalHead.label>
   
   <!-- EN: leg -->
-  <MechanicalLeg.label>TODO</MechanicalLeg.label>
+  <MechanicalLeg.label>jalka</MechanicalLeg.label>
   
   <!-- EN: neck -->
   <MechanicalNeck.label>kaula</MechanicalNeck.label>
   
   <!-- EN: shoulder -->
-  <MechanicalShoulder.label>TODO</MechanicalShoulder.label>
+  <MechanicalShoulder.label>olkapää</MechanicalShoulder.label>
   
   <!-- EN: thorax -->
   <MechanicalThorax.label>keskiruumis</MechanicalThorax.label>
   
   <!-- EN: thorax -->
-  <MechanicalThoraxCanManipulate.label>TODO</MechanicalThoraxCanManipulate.label>
+  <MechanicalThoraxCanManipulate.label>keskiruumis</MechanicalThoraxCanManipulate.label>
   
   <!-- EN: reactor -->
-  <Reactor.label>TODO</Reactor.label>
-  
-  <!-- UNUSED -->
-  <RightBlade.label>oikea terä</RightBlade.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalIndexFinger.label>oikea etusormi</RightHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalMiddleFinger.label>oikea keskisormi</RightHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalPinky.label>oikea pikkurilli</RightHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalThumb.label>oikea peukalo</RightHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <RightHearingSensor.label>oikea kuuloanturi</RightHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalArm.label>oikea käsivarsi</RightMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalFoot.label>oikea jalkaterä</RightMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalHand.label>oikea käsi</RightMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalLeg.label>oikea jalka</RightMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalShoulder.label>oikea olkapää</RightMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <RightSightSensor.label>oikea näköanturi</RightSightSensor.label>
+  <Reactor.label>reaktori</Reactor.label>
   
   <!-- EN: visual sensor -->
-  <SightSensor.label>TODO</SightSensor.label>
+  <SightSensor.label>näköanturi</SightSensor.label>
   
   <!-- EN: chemical analyzer -->
   <SmellSensor.label>hajuanturi</SmellSensor.label>
