@@ -1307,16 +1307,12 @@ WorkTagHunting 'hunting' (English file: WorkTags.xml:20) (placeholder exists in 
 WorkTagCommoner 'commoner work' (English file: WorkTags.xml:21) (placeholder exists in WorkTags.xml:39)
 WorkTagAllWork 'all work' (English file: WorkTags.xml:22) (placeholder exists in WorkTags.xml:41)
 
-========== Def-injected translations missing (4743) ==========
-BodyDef: QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel 'rear right hoof' (placeholder exists in Bodies_Animal_Quadruped.xml)
-BodyDef: QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel 'rear right hoof' (placeholder exists in Bodies_Animal_Quadruped.xml)
-BodyDef: QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel 'rear right hoof' (placeholder exists in Bodies_Animal_Quadruped.xml)
+========== Def-injected translations missing (4739) ==========
 BodyDef: Lancer.label 'lancer' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Lancer.corePart.parts.right_mechanical_shoulder.customLabel 'right mechanical shoulder' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.label 'pikeman' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel 'front right foot' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel 'rear left foot' (placeholder exists in Bodies_Mechanoid.xml)
-BodyDef: Pikeman.corePart.parts.rear_right_leg.customLabel 'rear right leg' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel 'rear right foot' (placeholder exists in Bodies_Mechanoid.xml)
 ConceptDef: QueueOrders.label 'Order queueing' (placeholder exists in Concepts_NotedOpportunistic.xml)
 ConceptDef: QueueOrders.helpText 'When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.' (placeholder exists in Concepts_NotedOpportunistic.xml)
