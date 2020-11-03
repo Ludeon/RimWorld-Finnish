@@ -235,7 +235,7 @@
   <!-- EN: rear right leg -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>oikea takajalka</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>oikea takakavio</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
   <QuadrupedAnimalWithHoovesAndHump.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndHump.label>
@@ -270,7 +270,7 @@
   <!-- EN: rear right leg -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>oikea takajalka</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>oikea takakavio</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
   <QuadrupedAnimalWithHoovesAndTusks.label>nelijalkainen eläin</QuadrupedAnimalWithHoovesAndTusks.label>
@@ -348,7 +348,7 @@
   <!-- EN: rear right leg -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>oikea takajalka</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>oikea takakavio</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
   <QuadrupedAnimalWithPaws.label>nelijalkainen eläin</QuadrupedAnimalWithPaws.label>
