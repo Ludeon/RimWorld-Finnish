@@ -6,12 +6,6 @@
   <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
   <BiofuelRefinery.description>A chemical refining plant. Used to refine wood into chemfuel.</BiofuelRefinery.description>
   
-  <!-- UNUSED -->
-  <Blueprint_ComponentAssemblyBench.label>component assembly bench (blueprint)</Blueprint_ComponentAssemblyBench.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Refinery.label>refinery (blueprint)</Blueprint_Refinery.label>
-  
   <!-- EN: brewery -->
   <Brewery.label>panimo</Brewery.label>
   <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
@@ -21,10 +15,6 @@
   <ButcherSpot.label>TODO</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
   <ButcherSpot.description>TODO</ButcherSpot.description>
-  
-  <!-- UNUSED -->
-  <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
-  <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
   
   <!-- EN: crafting spot -->
   <CraftingSpot.label>käsityöpiste</CraftingSpot.label>
@@ -75,14 +65,6 @@
   <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
   <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
-  
-  <!-- UNUSED -->
-  <Frame_ComponentAssemblyBench.label>component assembly bench (building)</Frame_ComponentAssemblyBench.label>
-  <Frame_ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</Frame_ComponentAssemblyBench.description>
-  
-  <!-- UNUSED -->
-  <Frame_Refinery.label>refinery (building)</Frame_Refinery.label>
-  <Frame_Refinery.description>A chemical refining plant. Used to refine wood into chemfuel.</Frame_Refinery.description>
   
   <!-- EN: fueled smithy -->
   <FueledSmithy.label>fueled taontapöytä</FueledSmithy.label>

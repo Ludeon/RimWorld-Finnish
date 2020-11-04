@@ -63,9 +63,6 @@
   <!-- EN: killed colony animal -->
   <KilledColonyAnimal.stages.killed_colony_animal.label>killed colony animal</KilledColonyAnimal.stages.killed_colony_animal.label>
   
-  <!-- UNUSED -->
-  <KilledMajorColonyEnemy.stages.0.label>killed major enemy</KilledMajorColonyEnemy.stages.0.label>
-  
   <!-- EN: man -->
   <Man.stages.man.label>man</Man.stages.man.label>
   
@@ -87,10 +84,6 @@
   <Pretty.stages.physically_appealing.label>TODO</Pretty.stages.physically_appealing.label>
   <!-- EN: physically stunning -->
   <Pretty.stages.physically_stunning.label>TODO</Pretty.stages.physically_stunning.label>
-  
-  <!-- UNUSED -->
-  <Pretty.stages.pretty.label>pretty</Pretty.stages.pretty.label>
-  <Pretty.stages.beautiful.label>beautiful</Pretty.stages.beautiful.label>
   
   <!-- EN: sold prisoner to slavery -->
   <SoldPrisoner.stages.sold_prisoner_to_slavery.label>sold prisoner to slavery</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
@@ -116,10 +109,6 @@
   <Ugly.stages.physically_unsightly.label>TODO</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
   <Ugly.stages.physically_hideous.label>TODO</Ugly.stages.physically_hideous.label>
-  
-  <!-- UNUSED -->
-  <Ugly.stages.ugly.label>ugly</Ugly.stages.ugly.label>
-  <Ugly.stages.staggeringly_ugly.label>staggeringly ugly</Ugly.stages.staggeringly_ugly.label>
   
   <!-- EN: want to sleep with {0} -->
   <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>want to sleep with {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>

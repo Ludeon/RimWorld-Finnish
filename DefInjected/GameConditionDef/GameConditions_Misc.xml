@@ -61,22 +61,22 @@
   <Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.</PsychicDrone.description>
+  <PsychicDrone.description>TODO</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
   <PsychicDrone.descriptionFuture>TODO</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>The psychic drone is ending.</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>psyykkinen häirintä päättyy</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
   <PsychicDrone.letterText>TODO</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+  <PsychicSoothe.label>psyykkinen rauhoitus</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.</PsychicSoothe.description>
+  <PsychicSoothe.description>TODO</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>The psychic soothe is ending.</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>psyykkinen rauhoitus päättyy</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
   <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
   

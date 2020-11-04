@@ -21,22 +21,13 @@
   <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
   <MeleeWeapon_AverageDPS.description>TODO</MeleeWeapon_AverageDPS.description>
   
-  <!-- UNUSED -->
-  <MeleeWeapon_Cooldown.label>lähitaistelun jäähtymisaika</MeleeWeapon_Cooldown.label>
-  <MeleeWeapon_Cooldown.description>Miten kauan lyönnistä palautuminen vie tällä lähitaisteluaseella.</MeleeWeapon_Cooldown.description>
-  <MeleeWeapon_Cooldown.formatString>{0} s</MeleeWeapon_Cooldown.formatString>
-  
   <!-- EN: melee cooldown -->
-  <MeleeWeapon_CooldownMultiplier.label>TODO</MeleeWeapon_CooldownMultiplier.label>
+  <MeleeWeapon_CooldownMultiplier.label>lähitaistelun jäähtymisaika</MeleeWeapon_CooldownMultiplier.label>
   <!-- EN: A multiplier on attack delay for weapons made of this material. -->
   <MeleeWeapon_CooldownMultiplier.description>TODO</MeleeWeapon_CooldownMultiplier.description>
   
-  <!-- UNUSED -->
-  <MeleeWeapon_DamageAmount.label>lähitaistelun vahinko</MeleeWeapon_DamageAmount.label>
-  <MeleeWeapon_DamageAmount.description>Iskua kohden tehty vahinko lähitaistelussa.</MeleeWeapon_DamageAmount.description>
-  
   <!-- EN: melee damage multiplier -->
-  <MeleeWeapon_DamageMultiplier.label>TODO</MeleeWeapon_DamageMultiplier.label>
+  <MeleeWeapon_DamageMultiplier.label>lähitaistelun vahingon kerroin</MeleeWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to melee combat. -->
   <MeleeWeapon_DamageMultiplier.description>TODO</MeleeWeapon_DamageMultiplier.description>
   

@@ -443,9 +443,4 @@
   <!-- EN: Too dangerous -->
   <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
   
-  <!-- UNUSED -->
-  <ConstructionSkillTooLow>rakennustaito liian matala</ConstructionSkillTooLow>
-  <MissingSkill>taitotaso liian matala</MissingSkill>
-  <NoEmptyGraveLower>ei ole tyhjää hautaa määritelty sen varastointiin</NoEmptyGraveLower>
-
 </LanguageData>

@@ -545,28 +545,4 @@
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
   <LetterTextSiteCountdownStarted>TODO</LetterTextSiteCountdownStarted>
 
-  <!-- UNUSED -->
-  <LetterLabelMentalBreakdown>Mielen murtuminen</LetterLabelMentalBreakdown>
-  <LetterLabelNewParty>Party</LetterLabelNewParty>
-  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
-  <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
-  <RelationsBrokenDown>Suhteesi ryhmän {0} kanssa ovat tulehtuneet. He ovat nyt vihamielisiä sinua kohtaan.</RelationsBrokenDown>
-  <RelationsWarmed>Suhteesi ryhmän {0} kanssa  ovat lämmenneet. He eivät ole enää vihamielisiä sinua kohtaan.</RelationsWarmed>
-  <RelationsBrokenCapture>Koska kaappasit henkilön {0}, {1} on nyt vihollisesi.</RelationsBrokenCapture>
-  <ColonyGoodwill>Yhdyskunnan hyväntahtoisuus</ColonyGoodwill>
-  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <LetterLabelRelationsChangeGood>Hyväntahtoisuutta</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Pahantahtoisuutta</LetterLabelRelationsChangeBad>
-  <LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} named {1}, bonded to {2}, has died. It will affect {2}'s mood.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
-  <LetterLabelFormedCaravan>Caravan ready</LetterLabelFormedCaravan>
-  <LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
-  <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
-  <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
-
 </LanguageData>

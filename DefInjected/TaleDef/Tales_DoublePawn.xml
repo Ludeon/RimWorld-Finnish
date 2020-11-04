@@ -283,9 +283,6 @@
   <!-- EN: colony animal killed -->
   <KilledColonyAnimal.label>colony animal killed</KilledColonyAnimal.label>
   
-  <!-- UNUSED -->
-  <KilledMajorColonyEnemy.label>major colony enemy killed</KilledMajorColonyEnemy.label>
-  
   <!-- EN: person recruited -->
   <Recruited.label>person recruited</Recruited.label>
   <!-- EN:

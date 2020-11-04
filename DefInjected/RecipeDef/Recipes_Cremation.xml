@@ -8,17 +8,12 @@
   <!-- EN: Burning apparel. -->
   <BurnApparel.jobString>Polttaa vaatetta.</BurnApparel.jobString>
   
-  <!-- UNUSED -->
-  <BurnApparelCampfire.label>burn apparel</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>Burn apparel to completely destroy it.</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
-  
   <!-- EN: burn drugs -->
-  <BurnDrugs.label>burn drugs</BurnDrugs.label>
+  <BurnDrugs.label>TODO</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>Burn drugs to completely destroy them.</BurnDrugs.description>
+  <BurnDrugs.description>TODO</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
-  <BurnDrugs.jobString>Burning drugs.</BurnDrugs.jobString>
+  <BurnDrugs.jobString>TODO</BurnDrugs.jobString>
   
   <!-- EN: burn weapon -->
   <BurnWeapon.label>TODO</BurnWeapon.label>

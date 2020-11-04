@@ -27,19 +27,19 @@
   <CookSpeed.description>Nopeus, jolla tämä henkilö kokkaa aterioita.</CookSpeed.description>
   
   <!-- EN: drug cooking speed -->
-  <DrugCookingSpeed.label>alkoholin valmistusnopeus</DrugCookingSpeed.label>
+  <DrugCookingSpeed.label>päihteiden keittämisnopeus</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>Nopeus jolla tämä henkilö panee olutta.</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>TODO</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
-  <DrugSynthesisSpeed.label>drug production speed</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.label>päihteiden valmistamisnopeus</DrugSynthesisSpeed.label>
   <!-- EN: How fast this character synthesizes complex chemical drugs. -->
-  <DrugSynthesisSpeed.description>How fast this character produces drugs.</DrugSynthesisSpeed.description>
+  <DrugSynthesisSpeed.description>TODO</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>ruoan myrkyttämisen todennäköisyys</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
-  <FoodPoisonChance.description>Todennäköisyys, että tämä henkilö myrkyttää kokkaamansa aterian epähuomiossa.</FoodPoisonChance.description>
+  <FoodPoisonChance.description>TODO</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
   <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
   
@@ -48,29 +48,9 @@
   <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
   <GeneralLaborSpeed.description>TODO</GeneralLaborSpeed.description>
   
-  <!-- UNUSED -->
-  <MechanoidOperationSuccessChance.label>mechanoid operation success chance</MechanoidOperationSuccessChance.label>
-  <MechanoidOperationSuccessChance.description>The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.</MechanoidOperationSuccessChance.description>
-  
-  <!-- UNUSED -->
-  <SculptingSpeed.label>veistonopeus</SculptingSpeed.label>
-  <SculptingSpeed.description>Nopeus, jolla tämä henkilö veistää. </SculptingSpeed.description>
-  
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>sulatusnopeus</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>Nopeus, jolla tämä henkilö sulattaa esineitä.</SmeltingSpeed.description>
-  
-  <!-- UNUSED -->
-  <SmithingSpeed.label>takomisnopeus</SmithingSpeed.label>
-  <SmithingSpeed.description>Nopeus, jolla tämä henkilö valmistaa aseita ja työkaluja.</SmithingSpeed.description>
-  
-  <!-- UNUSED -->
-  <StonecuttingSpeed.label>kiven leikkausnopeus</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Nopeus, jolla tämä henkilö leikkaa kivenlohkareita harkoiksi.</StonecuttingSpeed.description>
-  
-  <!-- UNUSED -->
-  <TailoringSpeed.label>räätälöintinopeus</TailoringSpeed.label>
-  <TailoringSpeed.description>Nopeus, jolla tämä henkilö tekee vaatteita.</TailoringSpeed.description>
   
 </LanguageData>

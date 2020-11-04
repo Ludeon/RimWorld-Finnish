@@ -624,8 +624,4 @@
   <!-- EN: {PAWN_nameDef} is a prisoner -->
   <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
 
-  <!-- UNUSED -->
-  <MessageMustDesignateSmoothableFloor>Pitää määrittää karkeaa kivilattiaa.</MessageMustDesignateSmoothableFloor>
-  <MessagePawnExitMapRelationsGain>Koska {0} poistui alueelta terveenä, suhteesi ryhmän {1} kanssa ovat parantuneet {2}.</MessagePawnExitMapRelationsGain>
-
 </LanguageData>

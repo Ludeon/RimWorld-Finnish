@@ -6,32 +6,6 @@
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
   <Barricade.description>TODO</Barricade.description>
   
-  <!-- UNUSED -->
-  <Blueprint_Install_Turret_MortarBomb.label>mortar (blueprint)</Blueprint_Install_Turret_MortarBomb.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_Turret_MortarEMP.label>EMP mortar (blueprint)</Blueprint_Install_Turret_MortarEMP.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_Turret_MortarIncendiary.label>incendiary mortar (blueprint)</Blueprint_Install_Turret_MortarIncendiary.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_TurretGun.label>improvised turret (blueprint)</Blueprint_Install_TurretGun.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_TrapDeadfall.label>deadfall trap (blueprint)</Blueprint_TrapDeadfall.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_TurretGun.label>improvised turret (blueprint)</Blueprint_TurretGun.label>
-  
-  <!-- UNUSED -->
-  <Frame_TrapDeadfall.label>deadfall trap (building)</Frame_TrapDeadfall.label>
-  <Frame_TrapDeadfall.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</Frame_TrapDeadfall.description>
-  
-  <!-- UNUSED -->
-  <Frame_TurretGun.label>improvised turret (building)</Frame_TurretGun.label>
-  <Frame_TurretGun.description>An improvised turret that automatically fires at nearby enemies. Explodes when damaged. Its hacked-together AI brain isn't very smart, and can't be directly controlled, so beware of friendly fire.</Frame_TurretGun.description>
-  
   <!-- EN: sandbags -->
   <Sandbags.label>hiekkasäkkejä</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->

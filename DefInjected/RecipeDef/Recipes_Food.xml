@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: make kibble -->
-  <Make_Kibble.label>make kibble</Make_Kibble.label>
+  <Make_Kibble.label>TODO</Make_Kibble.label>
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
-  <Make_Kibble.description>Make animal kibble by combining raw meat and plants.</Make_Kibble.description>
+  <Make_Kibble.description>TODO</Make_Kibble.description>
   <!-- EN: Making kibble. -->
-  <Make_Kibble.jobString>Making kibble.</Make_Kibble.jobString>
+  <Make_Kibble.jobString>TODO</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
-  <Make_Pemmican.label>make pemmican</Make_Pemmican.label>
+  <Make_Pemmican.label>TODO</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_Pemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</Make_Pemmican.description>
+  <Make_Pemmican.description>TODO</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
-  <Make_Pemmican.jobString>Making pemmican.</Make_Pemmican.jobString>
+  <Make_Pemmican.jobString>TODO</Make_Pemmican.jobString>
   
   <!-- EN: make pemmican x4 -->
   <Make_PemmicanBulk.label>TODO</Make_PemmicanBulk.label>
@@ -21,10 +21,5 @@
   <Make_PemmicanBulk.description>TODO</Make_PemmicanBulk.description>
   <!-- EN: Making bulk pemmican. -->
   <Make_PemmicanBulk.jobString>TODO</Make_PemmicanBulk.jobString>
-  
-  <!-- UNUSED -->
-  <Make_PemmicanCampfire.label>make pemmican</Make_PemmicanCampfire.label>
-  <Make_PemmicanCampfire.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</Make_PemmicanCampfire.description>
-  <Make_PemmicanCampfire.jobString>Making pemmican.</Make_PemmicanCampfire.jobString>
   
 </LanguageData>

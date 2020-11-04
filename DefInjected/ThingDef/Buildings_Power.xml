@@ -6,17 +6,10 @@
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
   <Battery.description>Varastoi sähköenergiaa kun tehoa on ylimäärin ja tuottaa sitä tarpeen mukaan. Varoitus - varautuneilla akuilla on tapana räjähtää lämmitettäessä tai kastellessa.</Battery.description>
   
-  <!-- UNUSED -->
-  <Blueprint_FueledGenerator.label>fueled generator (blueprint)</Blueprint_FueledGenerator.label>
-  
   <!-- EN: chemfuel powered generator -->
   <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
   <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
-  
-  <!-- UNUSED -->
-  <Frame_FueledGenerator.label>fueled generator (building)</Frame_FueledGenerator.label>
-  <Frame_FueledGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</Frame_FueledGenerator.description>
   
   <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>maalämpögeneraattori</GeothermalGenerator.label>

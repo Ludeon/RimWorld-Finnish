@@ -16,10 +16,6 @@
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
   <PawnBeauty.description>TODO</PawnBeauty.description>
   
-  <!-- UNUSED -->
-  <RecruitPrisonerChance.label>vanginvärväyksen todennäköisyys</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>Alkuarvo todennäköisyydelle, että tämä henkilö värvää vangin.</RecruitPrisonerChance.description>
-  
   <!-- EN: social impact -->
   <SocialImpact.label>keskustelun vaikuttavuus</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->

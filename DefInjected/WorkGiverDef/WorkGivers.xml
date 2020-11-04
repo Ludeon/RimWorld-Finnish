@@ -15,11 +15,6 @@
   <!-- EN: build roof -->
   <BuildRoofs.verb>build roof</BuildRoofs.verb>
   
-  <!-- UNUSED -->
-  <BuryCorpses.label>bury corpses</BuryCorpses.label>
-  <BuryCorpses.verb>haudata</BuryCorpses.verb>
-  <BuryCorpses.gerund>hautaaminen</BuryCorpses.gerund>
-  
   <!-- EN: chat with prisoners -->
   <ChatWithPrisoner.label>chat with prisoners</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
@@ -63,14 +58,14 @@
   <ConstructFinishFrames.verb>rakentaa</ConstructFinishFrames.verb>
   
   <!-- EN: remove floors -->
-  <ConstructRemoveFloors.label>remove floors</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.label>poista lattia</ConstructRemoveFloors.label>
   <!-- EN: removing floor -->
   <ConstructRemoveFloors.gerund>lattian poistaminen</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
   <ConstructRemoveFloors.verb>poistaa lattiaa</ConstructRemoveFloors.verb>
   
   <!-- EN: smooth floors -->
-  <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.label>hio lattia</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
   <ConstructSmoothFloors.gerund>hiominen</ConstructSmoothFloors.gerund>
   <!-- EN: smooth -->
@@ -131,11 +126,6 @@
   <DoBillsButcherFlesh.gerund>teurastaminen</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher -->
   <DoBillsButcherFlesh.verb>teurastaa</DoBillsButcherFlesh.verb>
-  
-  <!-- UNUSED -->
-  <DoBillsComponentAssemblyBench.label>assemble components</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>produce components</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>producing components at</DoBillsComponentAssemblyBench.gerund>
   
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
@@ -206,11 +196,6 @@
   <DoBillsMedicalHumanOperation.gerund>operoiminen</DoBillsMedicalHumanOperation.gerund>
   <!-- EN: operate on -->
   <DoBillsMedicalHumanOperation.verb>operoida</DoBillsMedicalHumanOperation.verb>
-  
-  <!-- UNUSED -->
-  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>muokata</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>muokkaaminen</DoBillsMedicalMechanoidOperation.gerund>
   
   <!-- EN: synthesize drugs -->
   <DoBillsProduceDrugs.label>produce drugs</DoBillsProduceDrugs.label>
@@ -457,16 +442,6 @@
   <!-- EN: open -->
   <Open.verb>avata</Open.verb>
   
-  <!-- UNUSED -->
-  <PatientGoToBed.label>recuperate in bed</PatientGoToBed.label>
-  <PatientGoToBed.verb>ottaa hoitoa vastaan kohteessa</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>hoidon vastaanottaminen kohteessa</PatientGoToBed.gerund>
-  
-  <!-- UNUSED -->
-  <PatientGoToBedEmergency.label>go to bed for emergency treatment</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>receive treatment in</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>receiving treatment in</PatientGoToBedEmergency.gerund>
-  
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
@@ -494,11 +469,6 @@
   <PlantsCut.gerund>leikkaaminen</PlantsCut.gerund>
   <!-- EN: cut -->
   <PlantsCut.verb>leikata</PlantsCut.verb>
-  
-  <!-- UNUSED -->
-  <RearmTraps.label>rearm traps</RearmTraps.label>
-  <RearmTraps.verb>virittää uudelleen</RearmTraps.verb>
-  <RearmTraps.gerund>uudelleenvirittäminen</RearmTraps.gerund>
   
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>TODO</RearmTurrets.label>

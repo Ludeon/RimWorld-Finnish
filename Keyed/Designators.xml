@@ -243,15 +243,4 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Kaikki ne {0} joilla on tämä taito eivät ole määrätty {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
-  <!-- UNUSED -->
-  <NoColonistWithConstructionSkillTip>Yhdelläkään sinun {0} ei ole tätä taitoa.</NoColonistWithConstructionSkillTip>
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Kaikki ne {0} joilla on tämä taito eivät ole määrätty {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
-  <DesignatorSmoothFloor>Tasoita lattia</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Määritä karkeita kivilattioita hiottaviksi.</DesignatorSmoothFloorDesc>
-  <DesignatorAreaNoRoofClear>Poista katoton alue</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Poista katoton alue. Kattoja voidaan tehdä tälle alueelle ja olemassaolevia kattoja ei revitä alas.</DesignatorAreaNoRoofClearDesc>
-  <DesignatorRearmTrap>Viritä ansa</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Viritä lauennut ansa uudelleen jotta se voi laueta jälleen.</DesignatorRearmTrapDesc>
-  <TerrainBeingSmoothed>Maaperä on jo merkitty hiottavaksi.</TerrainBeingSmoothed>
-
 </LanguageData>

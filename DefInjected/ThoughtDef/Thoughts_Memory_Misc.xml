@@ -6,10 +6,6 @@
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>Minun täytyi syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.stages.ate_without_table.description>
   
-  <!-- UNUSED -->
-  <BondedAnimalAbandoned.stages.0.label>bonded animal {0} abandoned</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>My bonded animal was abandoned in the middle of nowhere!</BondedAnimalAbandoned.stages.0.description>
-  
   <!-- EN: bonded animal {0} banished -->
   <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
@@ -24,14 +20,6 @@
   <Catharsis.stages.catharsis.label>Katarsis</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
   <Catharsis.stages.catharsis.description>Mitä juuri tapahtui... Se ei ollut minunlaistani. Tiedän pystyväni parempaan.</Catharsis.stages.catharsis.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandoned.stages.0.label>colonist abandoned</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>We just left someone behind. I hope they'll make it, but I'm worried.</ColonistAbandoned.stages.0.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandonedToDie.stages.0.label>colonist abandoned to die</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>We left someone behind in such a way that there's almost no way they'll survive.</ColonistAbandonedToDie.stages.0.description>
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
@@ -51,10 +39,6 @@
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
-  <!-- UNUSED -->
-  <DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
-  
   <!-- EN: defeated mech cluster -->
   <DefeatedMechCluster.stages.defeated_mech_cluster.label>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.label>
   <!-- EN: Blood beats metal, you damn machines! -->
@@ -69,10 +53,6 @@
   <FreedFromSlavery.stages.freed_from_slavery.label>TODO</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
   <FreedFromSlavery.stages.freed_from_slavery.description>TODO</FreedFromSlavery.stages.freed_from_slavery.description>
-  
-  <!-- UNUSED -->
-  <GreenThumbHappy.stages.0.label>kylvi kasvin</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>Maailma tarvitsee enemmän kasveja!</GreenThumbHappy.stages.0.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>tappoi jonkun</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -100,13 +80,9 @@
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Yhdyskunta otti vangilta tai vieraalta ruumiinosia. Se on kamalaa kun ihminen hajotetaan osia varten kun heillä ei ole vaihtoehtoa.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
   <!-- EN: prisoner sold -->
-  <KnowPrisonerSold.stages.prisoner_sold.label>TODO</KnowPrisonerSold.stages.prisoner_sold.label>
+  <KnowPrisonerSold.stages.prisoner_sold.label>vanki myytiin</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
-  <KnowPrisonerSold.stages.prisoner_sold.description>TODO</KnowPrisonerSold.stages.prisoner_sold.description>
-  
-  <!-- UNUSED -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>vanki myytiin</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  <KnowPrisonerSold.stages.prisoner_sold.description>Tämä yhdyskunta möi vangin orjaksi. Se on huolestuttava ajatus.</KnowPrisonerSold.stages.prisoner_sold.description>
   
   <!-- EN: my organ harvested -->
   <MyOrganHarvested.stages.my_organ_harvested.label>minulta kerättiin elin</MyOrganHarvested.stages.my_organ_harvested.label>
@@ -142,10 +118,6 @@
   <OnDuty.stages.on_duty.label>TODO</OnDuty.stages.on_duty.label>
   <!-- EN: I have a job to do. -->
   <OnDuty.stages.on_duty.description>TODO</OnDuty.stages.on_duty.description>
-  
-  <!-- UNUSED -->
-  <PrisonerAbandonedToDie.stages.0.label>prisoner abandoned to die</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>We left a prisoner behind in such a way that there's almost no way they'll survive.</PrisonerAbandonedToDie.stages.0.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>

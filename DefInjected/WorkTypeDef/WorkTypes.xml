@@ -96,14 +96,6 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>Sammuta liekki</Firefighter.verb>
   
-  <!-- UNUSED -->
-  <Flicker.label>Flick</Flicker.label>
-  <Flicker.description>Kytkijät käyttävät kytkimiä. Esimerkiksi kun määräät tykkitornin virran kytkettäväksi kytkijän on käytävä kytkemässä virta käsin.</Flicker.description>
-  <Flicker.labelShort>Kytke</Flicker.labelShort>
-  <Flicker.pawnLabel>Kytkijä</Flicker.pawnLabel>
-  <Flicker.gerundLabel>Kytkimien käyttö</Flicker.gerundLabel>
-  <Flicker.verb>Napsauta</Flicker.verb>
-  
   <Growing.label>Grow</Growing.label>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Kasvattajat istuttavat siemeniä ja korjaavat sadon viljelmiltä.</Growing.description>
@@ -169,11 +161,11 @@
   <!-- EN: patienting -->
   <Patient.gerundLabel>TODO</Patient.gerundLabel>
   <!-- EN: Patient -->
-  <Patient.labelShort>TODO</Patient.labelShort>
+  <Patient.labelShort>Potilas</Patient.labelShort>
   <!-- EN: Patient -->
-  <Patient.pawnLabel>TODO</Patient.pawnLabel>
+  <Patient.pawnLabel>Potilas</Patient.pawnLabel>
   <!-- EN: Become patient -->
-  <Patient.verb>TODO</Patient.verb>
+  <Patient.verb>Tule potilaaksi</Patient.verb>
   
   <PatientBedRest.label>Bed rest</PatientBedRest.label>
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
@@ -186,14 +178,6 @@
   <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
   <PatientBedRest.verb>Become patient</PatientBedRest.verb>
-  
-  <!-- UNUSED -->
-  <PatientEmergency.label>Patient</PatientEmergency.label>
-  <PatientEmergency.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</PatientEmergency.description>
-  <PatientEmergency.labelShort>Potilas</PatientEmergency.labelShort>
-  <PatientEmergency.pawnLabel>Potilas</PatientEmergency.pawnLabel>
-  <PatientEmergency.gerundLabel>Potilas</PatientEmergency.gerundLabel>
-  <PatientEmergency.verb>Tule potilaaksi</PatientEmergency.verb>
   
   <PlantCutting.label>Plant cut</PlantCutting.label>
   <!-- EN: Cut or harvest plants as designated. -->

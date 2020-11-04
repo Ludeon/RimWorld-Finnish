@@ -22,11 +22,6 @@
   <!-- EN: Use healer mech serum -->
   <MechSerumHealer.comps.CompUsable.useLabel>TODO</MechSerumHealer.comps.CompUsable.useLabel>
   
-  <!-- UNUSED -->
-  <MechSerumNeurotrainer.label>älykkyysvalmentaja</MechSerumNeurotrainer.label>
-  <MechSerumNeurotrainer.description>Kertakäyttöinen nanotekninen kouluttaja. Älykkyysvalmentaja asetetaan silmän taakse ja se vapauttaa nanokoneita käyttäjän aivoihin ja parantaa nopeasti hänen taitojaan tietyllä aluella.</MechSerumNeurotrainer.description>
-  <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>Use neurotrainer to learn {0}</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
-  
   <!-- EN: resurrector mech serum -->
   <MechSerumResurrector.label>TODO</MechSerumResurrector.label>
   <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->

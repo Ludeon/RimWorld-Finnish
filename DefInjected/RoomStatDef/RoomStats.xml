@@ -36,9 +36,6 @@
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
   
-  <!-- UNUSED -->
-  <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
-  
   <!-- EN: grave visiting recreation factor -->
   <GraveVisitingJoyGainFactor.label>huvinsaantikerroin haudalla vierailusta</GraveVisitingJoyGainFactor.label>
   
@@ -90,9 +87,6 @@
   
   <!-- EN: surgery success chance cleanliness factor -->
   <SurgerySuccessChanceCleanlinessFactor.label>TODO</SurgerySuccessChanceCleanlinessFactor.label>
-  
-  <!-- UNUSED -->
-  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
   
   <!-- EN: wealth -->
   <Wealth.label>vauraus</Wealth.label>

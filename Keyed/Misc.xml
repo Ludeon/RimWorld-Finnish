@@ -170,8 +170,4 @@
   <!-- EN: applying techprint ({0}) -->
   <ApplyingTechprint>TODO</ApplyingTechprint>
   
-  <!-- UNUSED -->
-  <LeatherLabel>{0} nahka</LeatherLabel>
-  <LeatherDesc>Nahka joka on tehty oliosta {0}.</LeatherDesc>
-
 </LanguageData>

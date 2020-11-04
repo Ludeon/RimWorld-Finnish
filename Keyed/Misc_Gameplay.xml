@@ -469,7 +469,7 @@
   <!-- EN: Any of -->
   <AnyOf>TODO</AnyOf>
   <!-- EN: Goodwill -->
-  <Goodwill>TODO</Goodwill>
+  <Goodwill>Hyväntahtoisuus</Goodwill>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
 
@@ -933,7 +933,7 @@
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>{0} on tulessa</FireOn>
+  <FireOn>{1_label} on tulessa</FireOn>
   <!-- EN: Burning -->
   <Burning>Tulessa</Burning>
   <!-- EN: fire size {0} -->
@@ -1031,7 +1031,7 @@
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>TODO</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -1061,7 +1061,7 @@
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
-  <Mood_MentalState>mental state</Mood_MentalState>
+  <Mood_MentalState>mielentila</Mood_MentalState>
   <!-- EN: about to break -->
   <Mood_AboutToBreak>murtumassa</Mood_AboutToBreak>
   <!-- EN: on edge -->
@@ -1079,15 +1079,15 @@
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Kaikki ovat joko kuolleet tai poissa. Tämä tarina on ohi.\n\nEhkä joku toinen voi hyödyntää näitä raunioita.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>TODO</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
-  <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedIntro>Olet laukaissut aluksesi!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>AI:si yrittää nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä tai se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>TODO</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>Nämä yhdyskuntalaiset pakenivat:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
-  <GameOverColonistsLeft>TODO</GameOverColonistsLeft>
+  <GameOverColonistsLeft>Nämä yhdyskuntalaiset jätettiin jälkeen:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
   <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
@@ -1345,14 +1345,4 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>TODO</CausedByHediff>
   
-  <!-- UNUSED -->
-  <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
-  <GameOverShipLaunched>Olet laukaissut aluksesi! Nämä yhdyskuntalaiset pääsivät mukaan:\n\n{0}\nJa nämä yhdyskuntalaiset eivät:\n\n{1}\nAI:si yrittää nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä. Tai, se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi, odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunched>
-  <Fire>Tulipalo</Fire>
-  <AreaAnimalDefaultLabel>Eläinten alue {0}</AreaAnimalDefaultLabel>
-  <NewAreaAnimal>Uusi eläinten alue</NewAreaAnimal>
-  <TrapArmed>Viritetty</TrapArmed>
-  <TrapNotArmed>Virittämätön</TrapNotArmed>
-  <TrapRearmingCost>Virittämiskustannukset: {0}</TrapRearmingCost>
-
 </LanguageData>

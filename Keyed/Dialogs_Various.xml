@@ -1060,17 +1060,4 @@
   <!-- EN: extreme -->
   <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
   
-  <!-- UNUSED -->
-  <ResearchMenuWithoutBench>Ennen kuin rakennat TUTKIMUSPÖYDÄN, yhdyskuntalaisesi eivät pysty tekemään tutkimusta.\n\nVoit kuitenkin tarkastella vaihtoehtoja jo nyt.</ResearchMenuWithoutBench>
-  <ConstructionSkillRequired>Vaadittava rakennustaito</ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>Tarvitsee tämän tason rakentamistaidon rakennettavaksi</ConstructionSkillRequiredExplanation>
-  <PermadeathMode>Permadeath-tila</PermadeathMode>
-  <DoXTimes>Tee X kertaa</DoXTimes>
-  <DoUntilYouHaveX>Tee, kunnes on X</DoUntilYouHaveX>
-  <DoForever>Tee ikuisesti</DoForever>
-  <BillStoreMode_DropOnFloor>Jätä lattialle</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Vie parhaaseen varastoon</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Vie lähimpään varastoon</BillStoreMode_NearestStockpileAnyPriority>
-  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-
 </LanguageData>

@@ -10,12 +10,6 @@
   <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
   <ApparelDamaged.stages.tattered_apparel.description>Minulla on yllä repaleisia rättejä. Enkö saisi jotain säädyllistä ylleni?</ApparelDamaged.stages.tattered_apparel.description>
   
-  <!-- UNUSED -->
-  <CabinFever.stages.0.label>mökkihöperyys (mieto)</CabinFever.stages.0.label>
-  <CabinFever.stages.0.description>Olen ollut sisätiloissa päiviä. Minun pitää mennä ulos.</CabinFever.stages.0.description>
-  <CabinFever.stages.1.label>mökkihöperyys (vakava)</CabinFever.stages.1.label>
-  <CabinFever.stages.1.description>Olen ollut täällä loukussa kuin rotta todella kauan. Minun täytyy epätoivoisen kipeästi mennä ulos tai tulen hulluksi!</CabinFever.stages.1.description>
-  
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>kuolleen {0}</DeadMansApparel.stages.tainted.label>
   <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->

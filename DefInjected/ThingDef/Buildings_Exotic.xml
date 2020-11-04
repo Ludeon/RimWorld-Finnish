@@ -6,18 +6,14 @@
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
   <DefoliatorShipPart.description>TODO</DefoliatorShipPart.description>
   
-  <!-- UNUSED -->
-  <MechCapsule.label>avaruusaluksen hylyn osa</MechCapsule.label>
-  <MechCapsule.description>Salaperäinen osa avaruusalusta. Siinä saattaa olla eksoottisia materiaaleja, tietokoneita tai jopa tekoäly. Tällainen tegnologia voi olla vaarallinen.</MechCapsule.description>
-  
   <!-- EN: ship part (psychic droner) -->
   <PsychicDronerShipPart.label>TODO</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
   <PsychicDronerShipPart.description>TODO</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
-  <ShipChunk.label>ship chunk</ShipChunk.label>
+  <ShipChunk.label>avaruusaluksen hylyn osa</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
-  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful steel and components.</ShipChunk.description>
+  <ShipChunk.description>TODO</ShipChunk.description>
   
 </LanguageData>

@@ -324,16 +324,4 @@
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>TODO</DeleteQuest>
 
-  <!-- UNUSED -->
-  <PrisonerNoInteraction>Ei vuorovaikutusta</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>Ystävällistä keskustelua</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>Keskustele ja yritä värvätä</PrisonerAttemptRecruit>
-  <PrisonerRelease>Päästä vapaaksi</PrisonerRelease>
-  <PrisonerExecution>Teloitus</PrisonerExecution>
-  <NoInjuries>(ei vammoja)</NoInjuries>
-  <Harvest>Kerää</Harvest>
-  <TrainableIntelligence>Älykkyys kouluttamisessa</TrainableIntelligence>
-  <AverageArmor>Average armor</AverageArmor>
-  <ArmorElectric>Electric</ArmorElectric>
-
 </LanguageData>

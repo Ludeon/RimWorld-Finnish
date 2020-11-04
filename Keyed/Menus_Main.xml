@@ -629,13 +629,4 @@
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
 
-  <!-- UNUSED -->
-  <SelectLandingSite>Valitse laskeutumisalue</SelectLandingSite>
-  <MustSelectLandingSite>Valitse laskeutumisalue.</MustSelectLandingSite>
-  <AvgSummerTemp>Kesän lämpötila</AvgSummerTemp>
-  <AvgWinterTemp>Talven lämpötila</AvgWinterTemp>
-  <MovementTimeNow>Nykyinen liikkumisaika</MovementTimeNow>
-  <MovementTimeSummer>Kesän liikkumisaika</MovementTimeSummer>
-  <MovementTimeWinter>Talven liikkumisaika</MovementTimeWinter>
-
 </LanguageData>

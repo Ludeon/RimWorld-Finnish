@@ -212,12 +212,8 @@
   <TimesTendedOther.description>How many medical treatments I have given.</TimesTendedOther.description>
   
   <!-- EN: tends received -->
-  <TimesTendedTo.label>treatments received</TimesTendedTo.label>
+  <TimesTendedTo.label>TODO</TimesTendedTo.label>
   <!-- EN: How many times I have had my medical conditions tended. -->
-  <TimesTendedTo.description>How many times I have received medical treatment.</TimesTendedTo.description>
-  
-  <!-- UNUSED -->
-  <TrapsRearmed.label>traps rearmed</TrapsRearmed.label>
-  <TrapsRearmed.description>The number of traps I have rearmed.</TrapsRearmed.description>
+  <TimesTendedTo.description>TODO</TimesTendedTo.description>
   
 </LanguageData>

@@ -314,17 +314,4 @@
   <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
   <!-- EN: group -->
   <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
-  <!-- UNUSED -->
-  <ContentSource_LocalFolder>paikallinen kansio</ContentSource_LocalFolder>
-  <Unspecified>Päättämätön</Unspecified>
-  <Always>Salli</Always>
-  <QualityCategory_Shoddy>surkea</QualityCategory_Shoddy>
-  <QualityCategory_Superior>parempi</QualityCategory_Superior>
-  <QualityCategoryShort_Shoddy>surk</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Superior>pare</QualityCategoryShort_Superior>
-  <TrainableIntelligence_None>Ei mikään</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>Yksinkertainen</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>Keskinkertainen</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>Kehittynyt</TrainableIntelligence_Advanced>
-
 </LanguageData>

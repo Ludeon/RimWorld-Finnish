@@ -86,10 +86,6 @@
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
   <Greedy.degreeDatas.greedy.description>[PAWN_nameDef] tarvitsee todella vaikuttavan makuuhuoneen. [PAWN_pronoun] saa huonomman mielialan jos [PAWN_pronoun] ei saa mitä haluaa.</Greedy.degreeDatas.greedy.description>
   
-  <!-- UNUSED -->
-  <GreenThumb.degreeDatas.0.label>viherpeukalo</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] pitää puutarhanhoidosta. [PAWN_possessive] mielialansa kohenee jokaisen istutetun kasvin myötä.</GreenThumb.degreeDatas.0.description>
-  
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>kateellinen</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->

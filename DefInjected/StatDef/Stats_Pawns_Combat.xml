@@ -36,12 +36,8 @@
   <!-- EN: Chance to spring a trap the character is unaware of. -->
   <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
   
-  <!-- UNUSED -->
-  <ShootingAccuracy.label>ampumisen osumatarkkuus</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Alkuarvo osumisen todennäköisyydelle etäisyyden yhtä neliötä kohti.</ShootingAccuracy.description>
-  
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.label>ampumisen osumatarkkuus</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->

@@ -11,10 +11,6 @@
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
   <DoorOpenSpeed.description>Nopeus, jolla ovi aukeaa.</DoorOpenSpeed.description>
   
-  <!-- UNUSED -->
-  <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
-  
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>immuniteetinsaamisnopeuden kerroin</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->

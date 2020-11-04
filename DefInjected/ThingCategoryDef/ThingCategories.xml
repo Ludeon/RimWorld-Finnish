@@ -19,9 +19,6 @@
   <!-- EN: headgear -->
   <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
   
-  <!-- UNUSED -->
-  <Art.label>taide</Art.label>
-  
   <!-- EN: artifacts -->
   <Artifacts.label>artifacts</Artifacts.label>
   
@@ -30,9 +27,6 @@
   
   <!-- EN: archotech -->
   <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
-  
-  <!-- UNUSED -->
-  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
   
   <!-- EN: bionic -->
   <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
@@ -53,10 +47,10 @@
   <Buildings.label>TODO</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>TODO</BuildingsArt.label>
+  <BuildingsArt.label>taide</BuildingsArt.label>
   
   <!-- EN: furniture -->
-  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  <BuildingsFurniture.label>huonekalut</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
   <BuildingsJoy.label>TODO</BuildingsJoy.label>
@@ -114,9 +108,6 @@
   
   <!-- EN: foods -->
   <Foods.label>ruuat</Foods.label>
-  
-  <!-- UNUSED -->
-  <Furniture.label>huonekalut</Furniture.label>
   
   <!-- EN: grenades -->
   <Grenades.label>kranaatit</Grenades.label>

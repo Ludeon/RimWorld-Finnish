@@ -242,29 +242,4 @@
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
 
-  <!-- UNUSED -->
-  <LetterLabelPsychicDrone>Psyykkinen häirintä</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Jokainen sukupuolen {0} edustaja irvistää tuskasta!\n\nJokin kaukainen vihaa kiihottava laite häiritsee koko tätä aluetta psyykkisesti, juuri tietyllä taajuudella mikä tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon huonompi.\n\nHäirinnän taso on {1}.</LetterIncidentPsychicDrone>
-  <LetterLabelPsychicSoothe>Psyykkinen rauhoitus</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Jokainen sukupuolta {0} edustava yhdyskuntalainen hymyilee onnessaan!\n\nJokin etäinen onnellisuuskone lähettää voimakasta psyykkistä säteilyä koko alueen ylle taajuudella joka tuntuu vaikuttavan vain tähän sukupuoleen. Muutaman päivän ajan joidenkin henkilöiden mieliala on paljon parempi.</LetterIncidentPsychicSoothe>
-  <RefugeeChasedTitle>Pakolaista jahdataan {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{PAWN_titleIndef} nimeltään {PAWN_nameDef} kutsuu sinua lähistöltä. {PAWN_objective} jahtavat {2} tukikohdasta {3}!\n\n{PAWN_pronoun} anelee turvapaikkaa ja tarjoutuu liittymään yhdyskuntaan. {PAWN_pronoun} kertoo biologinen ikänsä olevan {4} vuotta vanha.\n\nOle varuillasi - jos hyväksyt, joudut kohtaamaan {PAWN_possessive} kannoillaan olevat {2}.</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Tarjoa turvapaikkaa</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Jätä viesti huomiotta</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{1_labelShort} huutaa kauhuissaan särisevästä kaiuttimesta ennen kuin katkaiset lähetyksen.</RefugeeChasedRejected>
-  <JourneyOffer>Ystävällinen tekoäly menneisyydestäsi nimeltään Charlon Whitestone on lähettänyt sinulle viestin!\n\nHän paljastaa, että hän on piilottanut avaruusaluksen planeetalle ja lähettää sinulle sen koordinaatit kartalla.\n\nAvaruusalus on tällä hetkellä syvässä horrostilassa. Sinun täytyy käynnistää se kun saavut ja sitten puolustaa sitä hyökkääjiltä jotka yrittävät varastaa sitä kunnes käynnistyminen pääsee loppuun.\n\nJos saat aluksen ilmaan, Charlon ottaa sinut pois tältä syrjäplaneetalta tähtiin.</JourneyOffer>
-  <CropBlight>Mysteerinen vitsaus on tuhonnut satosi.</CropBlight>
-  <EnemyRaidWalkIn>Ryhmä {0} tukikohdasta {1} on saapunut lähistölle.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Ryhmä {0} tukikohdasta {1} on saapunut laskeutumiskapseleissa lähistölle.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Ryhmä {0} tukikohdasta {1} on pudottautunut aivan päällesi!</EnemyRaidCenterDrop>
-  <FriendlyRaidWalkIn>Ryhmä ystävällisiä {0} tukikohdasta {1} on saapunut lähistölle.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta lähistölle.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Ryhmä ystävällisiä {0} tukikohdasta {1} on pudottautunut kiertoradalta aivan päällesi!</FriendlyRaidCenterDrop>
-  <LetterLabelWandererJoin>Kulkuri liittyy</LetterLabelWandererJoin>
-  <WandererJoin>Eräs {0} nimeltään [PAWN_nameDef] on saapunut ja liittyy yhdyskuntaasi. [PAWN_pronoun] on {1}.</WandererJoin>
-  <PsychicDroneLevelLow>Matala</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Keskitaso</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>Korkea</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Äärimmäinen</PsychicDroneLevelExtreme>
-
 </LanguageData>

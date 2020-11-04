@@ -43,17 +43,12 @@
   <!-- EN: Cooking 4 simple meals. -->
   <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
   
-  <!-- UNUSED -->
-  <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
-  <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>
-  <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
-  
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
+  <CookMealSurvival.label>TODO</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
+  <CookMealSurvival.description>TODO.</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>TODO.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
   <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
