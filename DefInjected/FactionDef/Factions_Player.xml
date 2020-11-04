@@ -6,7 +6,7 @@
   <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Sinun oma yhteisösi.</PlayerColony.description>
   <!-- EN: colonist -->
-  <PlayerColony.pawnSingular>TODO</PlayerColony.pawnSingular>
+  <PlayerColony.pawnSingular>yhdyskuntalainen</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>yhdyskuntalaiset</PlayerColony.pawnsPlural>
   
@@ -15,7 +15,7 @@
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>Sinun oma heimosi.</PlayerTribe.description>
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>TODO</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>heimolainen</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>heimolaiset</PlayerTribe.pawnsPlural>
   

@@ -82,9 +82,9 @@
   <!-- EN: set -->
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: set -->
-  <Crack.comps.HediffComp_TendDuration.labelTendedWell>healed</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>asetettu</Crack.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: set -->
-  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>parannettu</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>asetettu</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent crack -->
   <Crack.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shattered -->
@@ -152,7 +152,7 @@
   <!-- EN: bandaged -->
   <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>sidottu</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: tended -->
-  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>ommeltu</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>hoidettu</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: frostbite scar -->
   <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->

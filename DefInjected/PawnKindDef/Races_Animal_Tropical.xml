@@ -3,82 +3,18 @@
   
   <!-- EN: boomalope -->
   <Boomalope.label>paukkulooppi</Boomalope.label>
-  <Boomalope.labelFemale>female boomalope</Boomalope.labelFemale>
-  <Boomalope.labelFemalePlural>female boomalopes</Boomalope.labelFemalePlural>
-  <Boomalope.labelMale>male boomalope</Boomalope.labelMale>
-  <Boomalope.labelMalePlural>male boomalopes</Boomalope.labelMalePlural>
-  <Boomalope.labelPlural>boomalopes</Boomalope.labelPlural>
+  <Boomalope.labelPlural>paukkuloopit</Boomalope.labelPlural>
   <!-- EN: boomalope calf -->
-  <Boomalope.lifeStages.boomalope_calf.label>boomalope calf</Boomalope.lifeStages.boomalope_calf.label>
-  <Boomalope.lifeStages.boomalope_calf.labelFemale>boomalope</Boomalope.lifeStages.boomalope_calf.labelFemale>
-  <Boomalope.lifeStages.boomalope_calf.labelFemalePlural>female boomalope calves</Boomalope.lifeStages.boomalope_calf.labelFemalePlural>
-  <Boomalope.lifeStages.boomalope_calf.labelMale>boomalope</Boomalope.lifeStages.boomalope_calf.labelMale>
-  <Boomalope.lifeStages.boomalope_calf.labelMalePlural>male boomalope calves</Boomalope.lifeStages.boomalope_calf.labelMalePlural>
+  <Boomalope.lifeStages.boomalope_calf.label>paukkuloopin vasikka</Boomalope.lifeStages.boomalope_calf.label>
   <!-- EN: boomalope calves -->
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>boomalope calves</Boomalope.lifeStages.boomalope_calf.labelPlural>
-  <Boomalope.lifeStages.1.label>boomalope</Boomalope.lifeStages.1.label>
-  <Boomalope.lifeStages.1.labelFemale>boomalope</Boomalope.lifeStages.1.labelFemale>
-  <Boomalope.lifeStages.1.labelFemalePlural>female boomalopes</Boomalope.lifeStages.1.labelFemalePlural>
-  <Boomalope.lifeStages.1.labelMale>boomalope</Boomalope.lifeStages.1.labelMale>
-  <Boomalope.lifeStages.1.labelMalePlural>male boomalopes</Boomalope.lifeStages.1.labelMalePlural>
-  <Boomalope.lifeStages.1.labelPlural>boomalope</Boomalope.lifeStages.1.labelPlural>
-  <Boomalope.lifeStages.2.label>boomalope</Boomalope.lifeStages.2.label>
-  <Boomalope.lifeStages.2.labelFemale>boomalope</Boomalope.lifeStages.2.labelFemale>
-  <Boomalope.lifeStages.2.labelFemalePlural>female boomalopes</Boomalope.lifeStages.2.labelFemalePlural>
-  <Boomalope.lifeStages.2.labelMale>boomalope</Boomalope.lifeStages.2.labelMale>
-  <Boomalope.lifeStages.2.labelMalePlural>male boomalopes</Boomalope.lifeStages.2.labelMalePlural>
-  <Boomalope.lifeStages.2.labelPlural>boomalope</Boomalope.lifeStages.2.labelPlural>
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>paukkuloopin vasikat</Boomalope.lifeStages.boomalope_calf.labelPlural>
   
   <!-- EN: cobra -->
   <Cobra.label>kobra</Cobra.label>
-  <Cobra.labelFemale>female cobra</Cobra.labelFemale>
-  <Cobra.labelFemalePlural>female cobras</Cobra.labelFemalePlural>
-  <Cobra.labelMale>male cobra</Cobra.labelMale>
-  <Cobra.labelMalePlural>male cobras</Cobra.labelMalePlural>
-  <Cobra.labelPlural>cobras</Cobra.labelPlural>
-  <Cobra.lifeStages.0.label>cobra</Cobra.lifeStages.0.label>
-  <Cobra.lifeStages.0.labelFemale>cobra</Cobra.lifeStages.0.labelFemale>
-  <Cobra.lifeStages.0.labelFemalePlural>female cobras</Cobra.lifeStages.0.labelFemalePlural>
-  <Cobra.lifeStages.0.labelMale>cobra</Cobra.lifeStages.0.labelMale>
-  <Cobra.lifeStages.0.labelMalePlural>male cobras</Cobra.lifeStages.0.labelMalePlural>
-  <Cobra.lifeStages.0.labelPlural>cobra</Cobra.lifeStages.0.labelPlural>
-  <Cobra.lifeStages.1.label>cobra</Cobra.lifeStages.1.label>
-  <Cobra.lifeStages.1.labelFemale>cobra</Cobra.lifeStages.1.labelFemale>
-  <Cobra.lifeStages.1.labelFemalePlural>female cobras</Cobra.lifeStages.1.labelFemalePlural>
-  <Cobra.lifeStages.1.labelMale>cobra</Cobra.lifeStages.1.labelMale>
-  <Cobra.lifeStages.1.labelMalePlural>male cobras</Cobra.lifeStages.1.labelMalePlural>
-  <Cobra.lifeStages.1.labelPlural>cobra</Cobra.lifeStages.1.labelPlural>
-  <Cobra.lifeStages.2.label>cobra</Cobra.lifeStages.2.label>
-  <Cobra.lifeStages.2.labelFemale>cobra</Cobra.lifeStages.2.labelFemale>
-  <Cobra.lifeStages.2.labelFemalePlural>female cobras</Cobra.lifeStages.2.labelFemalePlural>
-  <Cobra.lifeStages.2.labelMale>cobra</Cobra.lifeStages.2.labelMale>
-  <Cobra.lifeStages.2.labelMalePlural>male cobras</Cobra.lifeStages.2.labelMalePlural>
-  <Cobra.lifeStages.2.labelPlural>cobra</Cobra.lifeStages.2.labelPlural>
+  <Cobra.labelPlural>kobrat</Cobra.labelPlural>
   
   <!-- EN: monkey -->
   <Monkey.label>apina</Monkey.label>
-  <Monkey.labelFemale>female monkey</Monkey.labelFemale>
-  <Monkey.labelFemalePlural>female monkeys</Monkey.labelFemalePlural>
-  <Monkey.labelMale>male monkey</Monkey.labelMale>
-  <Monkey.labelMalePlural>male monkeys</Monkey.labelMalePlural>
-  <Monkey.labelPlural>monkeys</Monkey.labelPlural>
-  <Monkey.lifeStages.0.label>monkey</Monkey.lifeStages.0.label>
-  <Monkey.lifeStages.0.labelFemale>monkey</Monkey.lifeStages.0.labelFemale>
-  <Monkey.lifeStages.0.labelFemalePlural>female monkeys</Monkey.lifeStages.0.labelFemalePlural>
-  <Monkey.lifeStages.0.labelMale>monkey</Monkey.lifeStages.0.labelMale>
-  <Monkey.lifeStages.0.labelMalePlural>male monkeys</Monkey.lifeStages.0.labelMalePlural>
-  <Monkey.lifeStages.0.labelPlural>monkey</Monkey.lifeStages.0.labelPlural>
-  <Monkey.lifeStages.1.label>monkey</Monkey.lifeStages.1.label>
-  <Monkey.lifeStages.1.labelFemale>monkey</Monkey.lifeStages.1.labelFemale>
-  <Monkey.lifeStages.1.labelFemalePlural>female monkeys</Monkey.lifeStages.1.labelFemalePlural>
-  <Monkey.lifeStages.1.labelMale>monkey</Monkey.lifeStages.1.labelMale>
-  <Monkey.lifeStages.1.labelMalePlural>male monkeys</Monkey.lifeStages.1.labelMalePlural>
-  <Monkey.lifeStages.1.labelPlural>monkey</Monkey.lifeStages.1.labelPlural>
-  <Monkey.lifeStages.2.label>monkey</Monkey.lifeStages.2.label>
-  <Monkey.lifeStages.2.labelFemale>monkey</Monkey.lifeStages.2.labelFemale>
-  <Monkey.lifeStages.2.labelFemalePlural>female monkeys</Monkey.lifeStages.2.labelFemalePlural>
-  <Monkey.lifeStages.2.labelMale>monkey</Monkey.lifeStages.2.labelMale>
-  <Monkey.lifeStages.2.labelMalePlural>male monkeys</Monkey.lifeStages.2.labelMalePlural>
-  <Monkey.lifeStages.2.labelPlural>monkey</Monkey.lifeStages.2.labelPlural>
+  <Monkey.labelPlural>apinat</Monkey.labelPlural>
   
 </LanguageData>

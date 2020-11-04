@@ -9,7 +9,7 @@
   <!-- EN: Bills tab -->
   <BillsTab.label>Tilaukset-välilehti</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>Saadaksesi yhdyskuntalaiset työskentelemään pöydän ääressä, valitse pöytä ja avaa Tilaukset-välilehti. Siellä voit määrätä, mitä aterioita kokata, mitä esineitä valmistaa ja mitä olioita teurastaa.</BillsTab.helpText>
+  <BillsTab.helpText>Saadaksesi yhdyskuntalaiset työskentelemään pöydän ääressä, valitse pöytä ja avaa Tilaukset-välilehti. Siellä voit määrätä, mitä aterioita kokata, mitä esineitä valmistaa ja mitä eläimiä teurastaa.</BillsTab.helpText>
   
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>Rakenna kiertoratavaihtokaupan majakka</BuildOrbitalTradeBeacon.label>
@@ -59,7 +59,7 @@
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Opettele Vanki-välilehti</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>Avaa vangin Vanki-välilehti määritelläksesi miten häntä kohdellaan.\n\nVoit määrätä heidän värväämisen, huomiotta jättämisen ja teloittamisen, päättää mitä he syövät ja millaista hoitoa ne saavat. Yhdyskuntalaiset, joille on asetettu Vanginvartiointi-työ, huolehtivat vangeista.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>TODO</QueueOrders.label>
@@ -79,7 +79,7 @@
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>Opettele kasvatusalueen asetukset</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>Voit määritellä mitä kasvatusalueelle kylvetään. Voit jopa kasvattaa puita!\n\nValitse vain kasvatusalue, avaa Kasvatus-välilehti ja paina Istuta-nappia.</SetGrowingZonePlant.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Suojavyöt</ShieldBelts.label>
@@ -87,8 +87,8 @@
   <ShieldBelts.helpText>Suojavyöt estävät ampuma-aseiden ammuksien menemisen sisälle tai ulos. Ne eivät vaikuta lähitaisteluun.\n\nTaistellaksesi suojavöitä vastaan joko keksitä kohteeseen paljon tulitusta tai taistele lähitaistelussa.</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
-  <TVForSickPeople.label>TV for sick people</TVForSickPeople.label>
+  <TVForSickPeople.label>TV sairaille henkilöille</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
-  <TVForSickPeople.helpText>Sick people can watch TV while laying in bed.</TVForSickPeople.helpText>
+  <TVForSickPeople.helpText>Sairaat voivat katsoa televisiota sängyssä maatessaan.</TVForSickPeople.helpText>
   
 </LanguageData>

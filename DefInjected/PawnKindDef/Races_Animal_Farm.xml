@@ -3,178 +3,109 @@
   
   <!-- EN: alpaca -->
   <Alpaca.label>alpakka</Alpaca.label>
-  <Alpaca.labelFemale>female alpaca</Alpaca.labelFemale>
-  <Alpaca.labelFemalePlural>female alpacas</Alpaca.labelFemalePlural>
-  <Alpaca.labelMale>male alpaca</Alpaca.labelMale>
-  <Alpaca.labelMalePlural>male alpacas</Alpaca.labelMalePlural>
-  <Alpaca.labelPlural>alpacas</Alpaca.labelPlural>
-  <Alpaca.lifeStages.0.label>alpaca</Alpaca.lifeStages.0.label>
-  <Alpaca.lifeStages.0.labelFemale>alpaca</Alpaca.lifeStages.0.labelFemale>
-  <Alpaca.lifeStages.0.labelFemalePlural>female alpacas</Alpaca.lifeStages.0.labelFemalePlural>
-  <Alpaca.lifeStages.0.labelMale>alpaca</Alpaca.lifeStages.0.labelMale>
-  <Alpaca.lifeStages.0.labelMalePlural>male alpacas</Alpaca.lifeStages.0.labelMalePlural>
-  <Alpaca.lifeStages.0.labelPlural>alpaca</Alpaca.lifeStages.0.labelPlural>
-  <Alpaca.lifeStages.1.label>alpaca</Alpaca.lifeStages.1.label>
-  <Alpaca.lifeStages.1.labelFemale>alpaca</Alpaca.lifeStages.1.labelFemale>
-  <Alpaca.lifeStages.1.labelFemalePlural>female alpacas</Alpaca.lifeStages.1.labelFemalePlural>
-  <Alpaca.lifeStages.1.labelMale>alpaca</Alpaca.lifeStages.1.labelMale>
-  <Alpaca.lifeStages.1.labelMalePlural>male alpacas</Alpaca.lifeStages.1.labelMalePlural>
-  <Alpaca.lifeStages.1.labelPlural>alpaca</Alpaca.lifeStages.1.labelPlural>
-  <Alpaca.lifeStages.2.label>alpaca</Alpaca.lifeStages.2.label>
-  <Alpaca.lifeStages.2.labelFemale>alpaca</Alpaca.lifeStages.2.labelFemale>
-  <Alpaca.lifeStages.2.labelFemalePlural>female alpacas</Alpaca.lifeStages.2.labelFemalePlural>
-  <Alpaca.lifeStages.2.labelMale>alpaca</Alpaca.lifeStages.2.labelMale>
-  <Alpaca.lifeStages.2.labelMalePlural>male alpacas</Alpaca.lifeStages.2.labelMalePlural>
-  <Alpaca.lifeStages.2.labelPlural>alpaca</Alpaca.lifeStages.2.labelPlural>
+  <Alpaca.labelPlural>alpakat</Alpaca.labelPlural>
   
   <!-- EN: bison -->
-  <Bison.label>TODO</Bison.label>
+  <Bison.label>biisoni</Bison.label>
+  <Bison.labelPlural>biisonit</Bison.labelPlural>
   <!-- EN: bison calf -->
-  <Bison.lifeStages.bison_calf.label>TODO</Bison.lifeStages.bison_calf.label>
+  <Bison.lifeStages.bison_calf.label>biisonin vasikka</Bison.lifeStages.bison_calf.label>
   <!-- EN: bison calves -->
-  <Bison.lifeStages.bison_calf.labelPlural>TODO</Bison.lifeStages.bison_calf.labelPlural>
+  <Bison.lifeStages.bison_calf.labelPlural>biisonin vasikat</Bison.lifeStages.bison_calf.labelPlural>
   
   <!-- EN: chicken -->
   <Chicken.label>kana</Chicken.label>
   <!-- EN: hen -->
-  <Chicken.labelFemale>hen</Chicken.labelFemale>
-  <Chicken.labelFemalePlural>hens</Chicken.labelFemalePlural>
+  <Chicken.labelFemale>kana</Chicken.labelFemale>
+  <Chicken.labelFemalePlural>kanat</Chicken.labelFemalePlural>
   <!-- EN: rooster -->
-  <Chicken.labelMale>rooster</Chicken.labelMale>
-  <Chicken.labelMalePlural>roosters</Chicken.labelMalePlural>
-  <Chicken.labelPlural>chickens</Chicken.labelPlural>
+  <Chicken.labelMale>kukko</Chicken.labelMale>
+  <Chicken.labelMalePlural>kukot</Chicken.labelMalePlural>
+  <Chicken.labelPlural>kanat</Chicken.labelPlural>
   <!-- EN: chick -->
-  <Chicken.lifeStages.chick.label>chick</Chicken.lifeStages.chick.label>
-  <Chicken.lifeStages.chick.labelFemale>chicken</Chicken.lifeStages.chick.labelFemale>
-  <Chicken.lifeStages.chick.labelFemalePlural>female chicks</Chicken.lifeStages.chick.labelFemalePlural>
-  <Chicken.lifeStages.chick.labelMale>chicken</Chicken.lifeStages.chick.labelMale>
-  <Chicken.lifeStages.chick.labelMalePlural>male chicks</Chicken.lifeStages.chick.labelMalePlural>
-  <Chicken.lifeStages.chick.labelPlural>chicks</Chicken.lifeStages.chick.labelPlural>
-  <Chicken.lifeStages.cockerel.label>chicken</Chicken.lifeStages.cockerel.label>
-  <Chicken.lifeStages.cockerel.labelFemale>chicken</Chicken.lifeStages.cockerel.labelFemale>
-  <Chicken.lifeStages.cockerel.labelFemalePlural>female chickens</Chicken.lifeStages.cockerel.labelFemalePlural>
+  <Chicken.lifeStages.chick.label>tipu</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.chick.labelPlural>tiput</Chicken.lifeStages.chick.labelPlural>
   <!-- EN: cockerel -->
-  <Chicken.lifeStages.cockerel.labelMale>cockerel</Chicken.lifeStages.cockerel.labelMale>
-  <Chicken.lifeStages.cockerel.labelMalePlural>cockerels</Chicken.lifeStages.cockerel.labelMalePlural>
-  <Chicken.lifeStages.cockerel.labelPlural>chicken</Chicken.lifeStages.cockerel.labelPlural>
-  <Chicken.lifeStages.2.label>chicken</Chicken.lifeStages.2.label>
-  <Chicken.lifeStages.2.labelFemale>hen</Chicken.lifeStages.2.labelFemale>
-  <Chicken.lifeStages.2.labelFemalePlural>female chickens</Chicken.lifeStages.2.labelFemalePlural>
-  <Chicken.lifeStages.2.labelMale>rooster</Chicken.lifeStages.2.labelMale>
-  <Chicken.lifeStages.2.labelMalePlural>male chickens</Chicken.lifeStages.2.labelMalePlural>
-  <Chicken.lifeStages.2.labelPlural>chicken</Chicken.lifeStages.2.labelPlural>
+  <Chicken.lifeStages.cockerel.labelMale>kukonpoika</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.cockerel.labelMalePlural>kukonpoijat</Chicken.lifeStages.cockerel.labelMalePlural>
   
   <!-- EN: cow -->
   <Cow.label>lehmä</Cow.label>
-  <Cow.labelFemale>cow</Cow.labelFemale>
-  <Cow.labelFemalePlural>cows</Cow.labelFemalePlural>
+  <Cow.labelFemale>lehmä</Cow.labelFemale>
+  <Cow.labelFemalePlural>lehmät</Cow.labelFemalePlural>
   <!-- EN: bull -->
-  <Cow.labelMale>bull</Cow.labelMale>
-  <Cow.labelMalePlural>bulls</Cow.labelMalePlural>
-  <Cow.labelPlural>cows</Cow.labelPlural>
+  <Cow.labelMale>sonni</Cow.labelMale>
+  <Cow.labelMalePlural>sonnit</Cow.labelMalePlural>
+  <Cow.labelPlural>lehmät</Cow.labelPlural>
   <!-- EN: calf -->
-  <Cow.lifeStages.calf.label>calf</Cow.lifeStages.calf.label>
-  <Cow.lifeStages.calf.labelFemale>cow</Cow.lifeStages.calf.labelFemale>
-  <Cow.lifeStages.calf.labelFemalePlural>female calves</Cow.lifeStages.calf.labelFemalePlural>
-  <Cow.lifeStages.calf.labelMale>cow</Cow.lifeStages.calf.labelMale>
-  <Cow.lifeStages.calf.labelMalePlural>male calves</Cow.lifeStages.calf.labelMalePlural>
+  <Cow.lifeStages.calf.label>vasikka</Cow.lifeStages.calf.label>
   <!-- EN: calves -->
-  <Cow.lifeStages.calf.labelPlural>calves</Cow.lifeStages.calf.labelPlural>
-  <Cow.lifeStages.1.label>cow</Cow.lifeStages.1.label>
-  <Cow.lifeStages.1.labelFemale>cow</Cow.lifeStages.1.labelFemale>
-  <Cow.lifeStages.1.labelFemalePlural>female cows</Cow.lifeStages.1.labelFemalePlural>
-  <Cow.lifeStages.1.labelMale>cow</Cow.lifeStages.1.labelMale>
-  <Cow.lifeStages.1.labelMalePlural>male cows</Cow.lifeStages.1.labelMalePlural>
-  <Cow.lifeStages.1.labelPlural>cow</Cow.lifeStages.1.labelPlural>
-  <Cow.lifeStages.2.label>cow</Cow.lifeStages.2.label>
-  <Cow.lifeStages.2.labelFemale>cow</Cow.lifeStages.2.labelFemale>
-  <Cow.lifeStages.2.labelFemalePlural>female cows</Cow.lifeStages.2.labelFemalePlural>
-  <Cow.lifeStages.2.labelMale>bull</Cow.lifeStages.2.labelMale>
-  <Cow.lifeStages.2.labelMalePlural>male cows</Cow.lifeStages.2.labelMalePlural>
-  <Cow.lifeStages.2.labelPlural>cow</Cow.lifeStages.2.labelPlural>
+  <Cow.lifeStages.calf.labelPlural>vasikat</Cow.lifeStages.calf.labelPlural>
   
   <!-- EN: donkey -->
-  <Donkey.label>TODO</Donkey.label>
+  <Donkey.label>aasi</Donkey.label>
   <!-- EN: donkey foal -->
-  <Donkey.lifeStages.donkey_foal.label>TODO</Donkey.lifeStages.donkey_foal.label>
+  <Donkey.lifeStages.donkey_foal.label>aasin varsa</Donkey.lifeStages.donkey_foal.label>
   
   <!-- EN: duck -->
-  <Duck.label>TODO</Duck.label>
+  <Duck.label>ankka</Duck.label>
   <!-- EN: duckling -->
-  <Duck.lifeStages.duckling.label>TODO</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.duckling.label>ankanpoikanen</Duck.lifeStages.duckling.label>
   
   <!-- EN: goat -->
-  <Goat.label>TODO</Goat.label>
+  <Goat.label>pukki</Goat.label>
   <!-- EN: goat doe -->
-  <Goat.labelFemale>TODO</Goat.labelFemale>
+  <Goat.labelFemale>vuohi</Goat.labelFemale>
   <!-- EN: baby goat -->
-  <Goat.lifeStages.baby_goat.label>TODO</Goat.lifeStages.baby_goat.label>
+  <Goat.lifeStages.baby_goat.label>vuohen poikanen</Goat.lifeStages.baby_goat.label>
   
   <!-- EN: goose -->
-  <Goose.label>TODO</Goose.label>
+  <Goose.label>hanhi</Goose.label>
   <!-- EN: geese -->
-  <Goose.labelPlural>TODO</Goose.labelPlural>
+  <Goose.labelPlural>hanhet</Goose.labelPlural>
   
   <!-- EN: guinea pig -->
-  <GuineaPig.label>TODO</GuineaPig.label>
+  <GuineaPig.label>marsu</GuineaPig.label>
   
   <!-- EN: horse -->
-  <Horse.label>TODO</Horse.label>
+  <Horse.label>hevonen</Horse.label>
   <!-- EN: mare -->
-  <Horse.labelFemale>TODO</Horse.labelFemale>
+  <Horse.labelFemale>tamma</Horse.labelFemale>
   <!-- EN: stallion -->
-  <Horse.labelMale>TODO</Horse.labelMale>
+  <Horse.labelMale>ori</Horse.labelMale>
   <!-- EN: foal -->
-  <Horse.lifeStages.foal.label>TODO</Horse.lifeStages.foal.label>
+  <Horse.lifeStages.foal.label>varsa</Horse.lifeStages.foal.label>
   
   <!-- EN: pig -->
   <Pig.label>sika</Pig.label>
   <!-- EN: sow -->
-  <Pig.labelFemale>sow</Pig.labelFemale>
-  <Pig.labelFemalePlural>sows</Pig.labelFemalePlural>
-  <Pig.labelMale>male pig</Pig.labelMale>
-  <Pig.labelMalePlural>male pigs</Pig.labelMalePlural>
-  <Pig.labelPlural>pigs</Pig.labelPlural>
+  <Pig.labelFemale>emakko</Pig.labelFemale>
+  <Pig.labelFemalePlural>emakot</Pig.labelFemalePlural>
+  <Pig.labelPlural>siat</Pig.labelPlural>
   <!-- EN: piglet -->
-  <Pig.lifeStages.piglet.label>piglet</Pig.lifeStages.piglet.label>
-  <Pig.lifeStages.piglet.labelFemale>pig</Pig.lifeStages.piglet.labelFemale>
-  <Pig.lifeStages.piglet.labelFemalePlural>female piglets</Pig.lifeStages.piglet.labelFemalePlural>
-  <Pig.lifeStages.piglet.labelMale>pig</Pig.lifeStages.piglet.labelMale>
-  <Pig.lifeStages.piglet.labelMalePlural>male piglets</Pig.lifeStages.piglet.labelMalePlural>
-  <Pig.lifeStages.piglet.labelPlural>piglets</Pig.lifeStages.piglet.labelPlural>
-  <Pig.lifeStages.1.label>pig</Pig.lifeStages.1.label>
-  <Pig.lifeStages.1.labelFemale>pig</Pig.lifeStages.1.labelFemale>
-  <Pig.lifeStages.1.labelFemalePlural>female pigs</Pig.lifeStages.1.labelFemalePlural>
-  <Pig.lifeStages.1.labelMale>pig</Pig.lifeStages.1.labelMale>
-  <Pig.lifeStages.1.labelMalePlural>male pigs</Pig.lifeStages.1.labelMalePlural>
-  <Pig.lifeStages.1.labelPlural>pig</Pig.lifeStages.1.labelPlural>
-  <Pig.lifeStages.2.label>pig</Pig.lifeStages.2.label>
-  <Pig.lifeStages.2.labelFemale>sow</Pig.lifeStages.2.labelFemale>
-  <Pig.lifeStages.2.labelFemalePlural>female pigs</Pig.lifeStages.2.labelFemalePlural>
-  <Pig.lifeStages.2.labelMale>pig</Pig.lifeStages.2.labelMale>
-  <Pig.lifeStages.2.labelMalePlural>male pigs</Pig.lifeStages.2.labelMalePlural>
-  <Pig.lifeStages.2.labelPlural>pig</Pig.lifeStages.2.labelPlural>
+  <Pig.lifeStages.piglet.label>porsas</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.labelPlural>porsaat</Pig.lifeStages.piglet.labelPlural>
   
   <!-- EN: sheep -->
-  <Sheep.label>TODO</Sheep.label>
+  <Sheep.label>lammas</Sheep.label>
   <!-- EN: ewe -->
-  <Sheep.labelFemale>TODO</Sheep.labelFemale>
+  <Sheep.labelFemale>uuhi</Sheep.labelFemale>
   <!-- EN: ram -->
-  <Sheep.labelMale>TODO</Sheep.labelMale>
+  <Sheep.labelMale>pässi</Sheep.labelMale>
   <!-- EN: sheep -->
-  <Sheep.labelPlural>TODO</Sheep.labelPlural>
+  <Sheep.labelPlural>lampaat</Sheep.labelPlural>
   <!-- EN: lamb -->
-  <Sheep.lifeStages.lamb.label>TODO</Sheep.lifeStages.lamb.label>
+  <Sheep.lifeStages.lamb.label>karitsa</Sheep.lifeStages.lamb.label>
   <!-- EN: lambs -->
-  <Sheep.lifeStages.lamb.labelPlural>TODO</Sheep.lifeStages.lamb.labelPlural>
+  <Sheep.lifeStages.lamb.labelPlural>karitsat</Sheep.lifeStages.lamb.labelPlural>
   
   <!-- EN: yak -->
-  <Yak.label>TODO</Yak.label>
+  <Yak.label>jakki</Yak.label>
   <!-- EN: yak -->
-  <Yak.labelMale>TODO</Yak.labelMale>
+  <Yak.labelMale>jakki</Yak.labelMale>
   <!-- EN: yak calf -->
-  <Yak.lifeStages.yak_calf.label>TODO</Yak.lifeStages.yak_calf.label>
+  <Yak.lifeStages.yak_calf.label>jakin vasikka</Yak.lifeStages.yak_calf.label>
   <!-- EN: yak calves -->
-  <Yak.lifeStages.yak_calf.labelPlural>TODO</Yak.lifeStages.yak_calf.labelPlural>
+  <Yak.lifeStages.yak_calf.labelPlural>jakin vasikat</Yak.lifeStages.yak_calf.labelPlural>
   
 </LanguageData>

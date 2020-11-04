@@ -3,54 +3,10 @@
   
   <!-- EN: grizzly bear -->
   <Bear_Grizzly.label>harmaakarhu</Bear_Grizzly.label>
-  <Bear_Grizzly.labelFemale>female grizzly bear</Bear_Grizzly.labelFemale>
-  <Bear_Grizzly.labelFemalePlural>female grizzly bears</Bear_Grizzly.labelFemalePlural>
-  <Bear_Grizzly.labelMale>male grizzly bear</Bear_Grizzly.labelMale>
-  <Bear_Grizzly.labelMalePlural>male grizzly bears</Bear_Grizzly.labelMalePlural>
-  <Bear_Grizzly.labelPlural>grizzly bears</Bear_Grizzly.labelPlural>
-  <Bear_Grizzly.lifeStages.0.label>grizzly bear</Bear_Grizzly.lifeStages.0.label>
-  <Bear_Grizzly.lifeStages.0.labelFemale>grizzly bear</Bear_Grizzly.lifeStages.0.labelFemale>
-  <Bear_Grizzly.lifeStages.0.labelFemalePlural>female grizzly bears</Bear_Grizzly.lifeStages.0.labelFemalePlural>
-  <Bear_Grizzly.lifeStages.0.labelMale>grizzly bear</Bear_Grizzly.lifeStages.0.labelMale>
-  <Bear_Grizzly.lifeStages.0.labelMalePlural>male grizzly bears</Bear_Grizzly.lifeStages.0.labelMalePlural>
-  <Bear_Grizzly.lifeStages.0.labelPlural>grizzly bear</Bear_Grizzly.lifeStages.0.labelPlural>
-  <Bear_Grizzly.lifeStages.1.label>grizzly bear</Bear_Grizzly.lifeStages.1.label>
-  <Bear_Grizzly.lifeStages.1.labelFemale>grizzly bear</Bear_Grizzly.lifeStages.1.labelFemale>
-  <Bear_Grizzly.lifeStages.1.labelFemalePlural>female grizzly bears</Bear_Grizzly.lifeStages.1.labelFemalePlural>
-  <Bear_Grizzly.lifeStages.1.labelMale>grizzly bear</Bear_Grizzly.lifeStages.1.labelMale>
-  <Bear_Grizzly.lifeStages.1.labelMalePlural>male grizzly bears</Bear_Grizzly.lifeStages.1.labelMalePlural>
-  <Bear_Grizzly.lifeStages.1.labelPlural>grizzly bear</Bear_Grizzly.lifeStages.1.labelPlural>
-  <Bear_Grizzly.lifeStages.2.label>grizzly bear</Bear_Grizzly.lifeStages.2.label>
-  <Bear_Grizzly.lifeStages.2.labelFemale>grizzly bear</Bear_Grizzly.lifeStages.2.labelFemale>
-  <Bear_Grizzly.lifeStages.2.labelFemalePlural>female grizzly bears</Bear_Grizzly.lifeStages.2.labelFemalePlural>
-  <Bear_Grizzly.lifeStages.2.labelMale>grizzly bear</Bear_Grizzly.lifeStages.2.labelMale>
-  <Bear_Grizzly.lifeStages.2.labelMalePlural>male grizzly bears</Bear_Grizzly.lifeStages.2.labelMalePlural>
-  <Bear_Grizzly.lifeStages.2.labelPlural>grizzly bear</Bear_Grizzly.lifeStages.2.labelPlural>
+  <Bear_Grizzly.labelPlural>harmaakarhut</Bear_Grizzly.labelPlural>
   
   <!-- EN: polar bear -->
   <Bear_Polar.label>jääkarhu</Bear_Polar.label>
-  <Bear_Polar.labelFemale>female polar bear</Bear_Polar.labelFemale>
-  <Bear_Polar.labelFemalePlural>female polar bears</Bear_Polar.labelFemalePlural>
-  <Bear_Polar.labelMale>male polar bear</Bear_Polar.labelMale>
-  <Bear_Polar.labelMalePlural>male polar bears</Bear_Polar.labelMalePlural>
-  <Bear_Polar.labelPlural>polar bears</Bear_Polar.labelPlural>
-  <Bear_Polar.lifeStages.0.label>polar bear</Bear_Polar.lifeStages.0.label>
-  <Bear_Polar.lifeStages.0.labelFemale>polar bear</Bear_Polar.lifeStages.0.labelFemale>
-  <Bear_Polar.lifeStages.0.labelFemalePlural>female polar bears</Bear_Polar.lifeStages.0.labelFemalePlural>
-  <Bear_Polar.lifeStages.0.labelMale>polar bear</Bear_Polar.lifeStages.0.labelMale>
-  <Bear_Polar.lifeStages.0.labelMalePlural>male polar bears</Bear_Polar.lifeStages.0.labelMalePlural>
-  <Bear_Polar.lifeStages.0.labelPlural>polar bear</Bear_Polar.lifeStages.0.labelPlural>
-  <Bear_Polar.lifeStages.1.label>polar bear</Bear_Polar.lifeStages.1.label>
-  <Bear_Polar.lifeStages.1.labelFemale>polar bear</Bear_Polar.lifeStages.1.labelFemale>
-  <Bear_Polar.lifeStages.1.labelFemalePlural>female polar bears</Bear_Polar.lifeStages.1.labelFemalePlural>
-  <Bear_Polar.lifeStages.1.labelMale>polar bear</Bear_Polar.lifeStages.1.labelMale>
-  <Bear_Polar.lifeStages.1.labelMalePlural>male polar bears</Bear_Polar.lifeStages.1.labelMalePlural>
-  <Bear_Polar.lifeStages.1.labelPlural>polar bear</Bear_Polar.lifeStages.1.labelPlural>
-  <Bear_Polar.lifeStages.2.label>polar bear</Bear_Polar.lifeStages.2.label>
-  <Bear_Polar.lifeStages.2.labelFemale>polar bear</Bear_Polar.lifeStages.2.labelFemale>
-  <Bear_Polar.lifeStages.2.labelFemalePlural>female polar bears</Bear_Polar.lifeStages.2.labelFemalePlural>
-  <Bear_Polar.lifeStages.2.labelMale>polar bear</Bear_Polar.lifeStages.2.labelMale>
-  <Bear_Polar.lifeStages.2.labelMalePlural>male polar bears</Bear_Polar.lifeStages.2.labelMalePlural>
-  <Bear_Polar.lifeStages.2.labelPlural>polar bear</Bear_Polar.lifeStages.2.labelPlural>
+  <Bear_Polar.labelPlural>jääkarhut</Bear_Polar.labelPlural>
   
 </LanguageData>

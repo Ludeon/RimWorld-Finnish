@@ -3,110 +3,26 @@
   
   <!-- EN: elephant -->
   <Elephant.label>norsu</Elephant.label>
-  <Elephant.labelFemale>female elephant</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>female elephants</Elephant.labelFemalePlural>
-  <Elephant.labelMale>male elephant</Elephant.labelMale>
-  <Elephant.labelMalePlural>male elephants</Elephant.labelMalePlural>
-  <Elephant.labelPlural>elephants</Elephant.labelPlural>
+  <Elephant.labelPlural>norsut</Elephant.labelPlural>
   <!-- EN: elephant calf -->
-  <Elephant.lifeStages.elephant_calf.label>elephant calf</Elephant.lifeStages.elephant_calf.label>
-  <Elephant.lifeStages.elephant_calf.labelFemale>elephant</Elephant.lifeStages.elephant_calf.labelFemale>
-  <Elephant.lifeStages.elephant_calf.labelFemalePlural>female elephant calfs</Elephant.lifeStages.elephant_calf.labelFemalePlural>
-  <Elephant.lifeStages.elephant_calf.labelMale>elephant</Elephant.lifeStages.elephant_calf.labelMale>
-  <Elephant.lifeStages.elephant_calf.labelMalePlural>male elephant calfs</Elephant.lifeStages.elephant_calf.labelMalePlural>
-  <Elephant.lifeStages.elephant_calf.labelPlural>elephant calfs</Elephant.lifeStages.elephant_calf.labelPlural>
-  <Elephant.lifeStages.1.label>elephant</Elephant.lifeStages.1.label>
-  <Elephant.lifeStages.1.labelFemale>elephant</Elephant.lifeStages.1.labelFemale>
-  <Elephant.lifeStages.1.labelFemalePlural>female elephants</Elephant.lifeStages.1.labelFemalePlural>
-  <Elephant.lifeStages.1.labelMale>elephant</Elephant.lifeStages.1.labelMale>
-  <Elephant.lifeStages.1.labelMalePlural>male elephants</Elephant.lifeStages.1.labelMalePlural>
-  <Elephant.lifeStages.1.labelPlural>elephant</Elephant.lifeStages.1.labelPlural>
-  <Elephant.lifeStages.2.label>elephant</Elephant.lifeStages.2.label>
-  <Elephant.lifeStages.2.labelFemale>elephant</Elephant.lifeStages.2.labelFemale>
-  <Elephant.lifeStages.2.labelFemalePlural>female elephants</Elephant.lifeStages.2.labelFemalePlural>
-  <Elephant.lifeStages.2.labelMale>elephant</Elephant.lifeStages.2.labelMale>
-  <Elephant.lifeStages.2.labelMalePlural>male elephants</Elephant.lifeStages.2.labelMalePlural>
-  <Elephant.lifeStages.2.labelPlural>elephant</Elephant.lifeStages.2.labelPlural>
+  <Elephant.lifeStages.elephant_calf.label>norsun vasikka</Elephant.lifeStages.elephant_calf.label>
+  <Elephant.lifeStages.elephant_calf.labelPlural>norsun vasikat</Elephant.lifeStages.elephant_calf.labelPlural>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>Megasloth</Megasloth.label>
-  <Megasloth.labelFemale>female Megasloth</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>female Megasloths</Megasloth.labelFemalePlural>
-  <Megasloth.labelMale>male Megasloth</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>male Megasloths</Megasloth.labelMalePlural>
-  <Megasloth.labelPlural>Megasloths</Megasloth.labelPlural>
-  <Megasloth.lifeStages.0.label>Megasloth</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.0.labelFemale>Megasloth</Megasloth.lifeStages.0.labelFemale>
-  <Megasloth.lifeStages.0.labelFemalePlural>female Megasloths</Megasloth.lifeStages.0.labelFemalePlural>
-  <Megasloth.lifeStages.0.labelMale>Megasloth</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>male Megasloths</Megasloth.lifeStages.0.labelMalePlural>
-  <Megasloth.lifeStages.0.labelPlural>Megasloth</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.1.label>Megasloth</Megasloth.lifeStages.1.label>
-  <Megasloth.lifeStages.1.labelFemale>Megasloth</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>female Megasloths</Megasloth.lifeStages.1.labelFemalePlural>
-  <Megasloth.lifeStages.1.labelMale>Megasloth</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>male Megasloths</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelPlural>Megasloth</Megasloth.lifeStages.1.labelPlural>
-  <Megasloth.lifeStages.2.label>Megasloth</Megasloth.lifeStages.2.label>
-  <Megasloth.lifeStages.2.labelFemale>Megasloth</Megasloth.lifeStages.2.labelFemale>
-  <Megasloth.lifeStages.2.labelFemalePlural>female Megasloths</Megasloth.lifeStages.2.labelFemalePlural>
-  <Megasloth.lifeStages.2.labelMale>Megasloth</Megasloth.lifeStages.2.labelMale>
-  <Megasloth.lifeStages.2.labelMalePlural>male Megasloths</Megasloth.lifeStages.2.labelMalePlural>
-  <Megasloth.lifeStages.2.labelPlural>Megasloth</Megasloth.lifeStages.2.labelPlural>
+  <Megasloth.label>jättilaiskiainen</Megasloth.label>
+  <Megasloth.labelPlural>jättilaiskiaiset</Megasloth.labelPlural>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>sarvikuono</Rhinoceros.label>
-  <Rhinoceros.labelFemale>female rhinoceros</Rhinoceros.labelFemale>
-  <Rhinoceros.labelFemalePlural>female rhinoceroses</Rhinoceros.labelFemalePlural>
-  <Rhinoceros.labelMale>male rhinoceros</Rhinoceros.labelMale>
-  <Rhinoceros.labelMalePlural>male rhinoceroses</Rhinoceros.labelMalePlural>
   <!-- EN: rhinoceroses -->
-  <Rhinoceros.labelPlural>rhinoceroses</Rhinoceros.labelPlural>
-  <Rhinoceros.lifeStages.0.label>rhinoceros</Rhinoceros.lifeStages.0.label>
-  <Rhinoceros.lifeStages.0.labelFemale>rhinoceros</Rhinoceros.lifeStages.0.labelFemale>
-  <Rhinoceros.lifeStages.0.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.0.labelFemalePlural>
-  <Rhinoceros.lifeStages.0.labelMale>rhinoceros</Rhinoceros.lifeStages.0.labelMale>
-  <Rhinoceros.lifeStages.0.labelMalePlural>male rhinoceross</Rhinoceros.lifeStages.0.labelMalePlural>
-  <Rhinoceros.lifeStages.0.labelPlural>rhinoceroses</Rhinoceros.lifeStages.0.labelPlural>
-  <Rhinoceros.lifeStages.1.label>rhinoceros</Rhinoceros.lifeStages.1.label>
-  <Rhinoceros.lifeStages.1.labelFemale>rhinoceros</Rhinoceros.lifeStages.1.labelFemale>
-  <Rhinoceros.lifeStages.1.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.1.labelFemalePlural>
-  <Rhinoceros.lifeStages.1.labelMale>rhinoceros</Rhinoceros.lifeStages.1.labelMale>
-  <Rhinoceros.lifeStages.1.labelMalePlural>male rhinoceross</Rhinoceros.lifeStages.1.labelMalePlural>
-  <Rhinoceros.lifeStages.1.labelPlural>rhinoceroses</Rhinoceros.lifeStages.1.labelPlural>
-  <Rhinoceros.lifeStages.2.label>rhinoceros</Rhinoceros.lifeStages.2.label>
-  <Rhinoceros.lifeStages.2.labelFemale>rhinoceros</Rhinoceros.lifeStages.2.labelFemale>
-  <Rhinoceros.lifeStages.2.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.2.labelFemalePlural>
-  <Rhinoceros.lifeStages.2.labelMale>rhinoceros</Rhinoceros.lifeStages.2.labelMale>
-  <Rhinoceros.lifeStages.2.labelMalePlural>male rhinoceross</Rhinoceros.lifeStages.2.labelMalePlural>
-  <Rhinoceros.lifeStages.2.labelPlural>rhinoceroses</Rhinoceros.lifeStages.2.labelPlural>
+  <Rhinoceros.labelPlural>sarvikuonot</Rhinoceros.labelPlural>
   
   <!-- EN: thrumbo -->
   <Thrumbo.label>trumbo</Thrumbo.label>
-  <Thrumbo.labelFemale>naarastrumbo</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>naarastrumboja</Thrumbo.labelFemalePlural>
-  <Thrumbo.labelMale>koirastrumbo</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>koirastrumboja</Thrumbo.labelMalePlural>
-  <Thrumbo.labelPlural>trumboja</Thrumbo.labelPlural>
+  <Thrumbo.labelPlural>trumbot</Thrumbo.labelPlural>
   <!-- EN: thrumbo calf -->
   <Thrumbo.lifeStages.thrumbo_calf.label>trumbon vasikka</Thrumbo.lifeStages.thrumbo_calf.label>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemale>trumbo</Thrumbo.lifeStages.thrumbo_calf.labelFemale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>trumbon naarasvasikoita</Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMale>trumbo</Thrumbo.lifeStages.thrumbo_calf.labelMale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>trumbon koirasvasikoita</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
   <!-- EN: thrumbo calves -->
   <Thrumbo.lifeStages.thrumbo_calf.labelPlural>trumbon vasikoita</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
-  <Thrumbo.lifeStages.1.label>trumbo</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.1.labelFemale>trumbo</Thrumbo.lifeStages.1.labelFemale>
-  <Thrumbo.lifeStages.1.labelFemalePlural>naarastrumboja</Thrumbo.lifeStages.1.labelFemalePlural>
-  <Thrumbo.lifeStages.1.labelMale>trumbo</Thrumbo.lifeStages.1.labelMale>
-  <Thrumbo.lifeStages.1.labelMalePlural>koirastrumbos</Thrumbo.lifeStages.1.labelMalePlural>
-  <Thrumbo.lifeStages.1.labelPlural>trumbo</Thrumbo.lifeStages.1.labelPlural>
-  <Thrumbo.lifeStages.2.label>trumbo</Thrumbo.lifeStages.2.label>
-  <Thrumbo.lifeStages.2.labelFemale>trumbo</Thrumbo.lifeStages.2.labelFemale>
-  <Thrumbo.lifeStages.2.labelFemalePlural>narastrumbos</Thrumbo.lifeStages.2.labelFemalePlural>
-  <Thrumbo.lifeStages.2.labelMale>trumbo</Thrumbo.lifeStages.2.labelMale>
-  <Thrumbo.lifeStages.2.labelMalePlural>koirastrumbos</Thrumbo.lifeStages.2.labelMalePlural>
-  <Thrumbo.lifeStages.2.labelPlural>trumbo</Thrumbo.lifeStages.2.labelPlural>
   
 </LanguageData>

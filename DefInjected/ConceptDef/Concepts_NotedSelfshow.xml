@@ -19,22 +19,22 @@
   <!-- EN: Animal training -->
   <AnimalTraining.label>Animal training</AnimalTraining.label>
   <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
-  <AnimalTraining.helpText>You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</AnimalTraining.helpText>
+  <AnimalTraining.helpText>Voit määrätä kesyn eläimen koulutettavaksi teittyihin tehtäviin sen KOULUTTAMINEN-välilehdessä.\n\nEläimiä ei voi kouluttaa jatkuvasti; ne tarvitsevat aikaa koulutussessioiden välissä.</AnimalTraining.helpText>
   
   <!-- EN: Camera dolly -->
   <CameraDolly.label>Camera dolly</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
-  <CameraDolly.helpText>Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle or right button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys.</CameraDolly.helpText>
+  <CameraDolly.helpText>Liikuta kameraa painamalla ja vetämällä HIIREN NAPPIA 3 (keskimmäinen tai oikea nappi) tai {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}-näppäimillä.</CameraDolly.helpText>
   
   <!-- EN: Camera zoom -->
   <CameraZoom.label>Opettele kameran säätö</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
-  <CameraZoom.helpText>Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.</CameraZoom.helpText>
+  <CameraZoom.helpText>Lähennä ja loitonna kuvaa käyttämällä HIIREN RULLAA tai {Key:MapZoom_In} ja {Key:MapZoom_Out} näppäimiä.</CameraZoom.helpText>
   
   <!-- EN: Clicking messages -->
   <ClickingMessages.label>Clicking messages</ClickingMessages.label>
   <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
-  <ClickingMessages.helpText>You can click on the notifications in the top-left of the screen to instantly center the camera on their subject.</ClickingMessages.helpText>
+  <ClickingMessages.helpText>Voit klikata ruudun vasemmassa ylälaidassa keskittääksesi kuvan välittömästi niiden kohteeseen.</ClickingMessages.helpText>
   
   <!-- EN: Cover and shooting -->
   <CoverAndShooting.label>Cover and shooting</CoverAndShooting.label>
@@ -44,12 +44,12 @@
   <!-- EN: Item deterioration -->
   <Deterioration.label>hajoaminen</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
-  <Deterioration.helpText>Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them under a roof.</Deterioration.helpText>
+  <Deterioration.helpText>Ulos jätetyt tavarat hajoavat hiljalleen.\n\nJos haluat säilyttää esineitä pitkällä tähtäimellä pidä ne katon alla.</Deterioration.helpText>
   
   <!-- EN: Equipping weapons -->
   <EquippingWeapons.label>Ota aseet käyttöön</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
-  <EquippingWeapons.helpText>Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip.</EquippingWeapons.helpText>
+  <EquippingWeapons.helpText>Yhdyskuntalaisesi toivat mukanaan aseita. Ota ne käyttöön!\n\nValitse vuorotellen kukin yhdyskuntalainen ja paina hiiren oikealla näppäimellä asetta jonka haluat heidän ottavan käyttöön.</EquippingWeapons.helpText>
   
   <!-- EN: Fire preparation -->
   <FirePreparation.label>Fire preparation</FirePreparation.label>
@@ -59,7 +59,7 @@
   <!-- EN: Forbid and allow -->
   <Forbidding.label>Salli resursseja</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
-  <Forbidding.helpText>Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it.</Forbidding.helpText>
+  <Forbidding.helpText>Yhdyskuntalaisesi eivät tee mitään esineillä jotka on merkitty KIELLETYIKSI.\n\nValitse ruoka ja metalli laskeutumisalueesi lähistöllä ja paina F SALLIAKSESI ne.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
   <ForbiddingDoors.label>Forbidding doors</ForbiddingDoors.label>
@@ -84,32 +84,32 @@
   <!-- EN: Growing zones -->
   <GrowingFood.label>Määritä kasvatusalue</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground.</GrowingFood.helpText>
+  <GrowingFood.helpText>Määritä KASVATUSALUE Arkkitehti-valikosta kasvattaaksesi ruokaa.\n\nNe voidaan määrittää vain hedelmällisille alueille.</GrowingFood.helpText>
   
   <!-- EN: History tab -->
   <HistoryTab.label>Opettele Historia-välilehti</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen.</HistoryTab.helpText>
+  <HistoryTab.helpText>Voit nähdä tiedot yhdyskuntasi ajan mittaan keräämistä varoista HISTORIA-välilehdestä YLEISKATSAUS-ikkunassa.</HistoryTab.helpText>
   
   <!-- EN: Home area -->
   <HomeArea.label>Opettele kotialue</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu.</HomeArea.helpText>
+  <HomeArea.helpText>KOTIALUE kertoo yhdyskuntalaisille mitkä alueet tulee siivota ja missä sammuttaa tulipalot.\n\nMääritä KOTIALUE Alueet-kategoriasta Arkkitehti-valikossa.</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
   <HostilityResponse.label>Hostility response modes</HostilityResponse.label>
   <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
-  <HostilityResponse.helpText>You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu.</HostilityResponse.helpText>
+  <HostilityResponse.helpText>Voit määrittää miten yhdyskuntalaisten tulisi automaattisesti vastata uhkiin, kuten metsästäviin eläimiin.\n\nValitse PAKENE, HYÖKKÄÄ tai ÄLÄ VÄLITÄ -tilojen välillä MÄÄRÄYKSET-valikossa.</HostilityResponse.helpText>
   
   <!-- EN: Info card -->
   <InfoCard.label>Avaa tietokortti</InfoCard.label>
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
-  <InfoCard.helpText>The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane.</InfoCard.helpText>
+  <InfoCard.helpText>Tietokortissa on yksityiskohtaisia tietoja mistä tahansa esineestä, henkilöstä tai rakennelmasta.\n\nValitse henkilö tai esine ja avaa sen tietokortti painamalla 'i' kuvaketta tarkastelupaneelissa ruudun vasemmassa alakulmassa.</InfoCard.helpText>
   
   <!-- EN: Room stats inspector -->
   <InspectRoomStats.label>Room stats inspector</InspectRoomStats.label>
   <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
-  <InspectRoomStats.helpText>You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right.</InspectRoomStats.helpText>
+  <InspectRoomStats.helpText>Voit tarkistaa yksittäisten huoneiden vaikuttavuuden, vaurauden ja kauneuden laittamalla ruudun oikeassa alalaidassa olevan HUONEIDEN TILASTOJEN TARKISTAMINEN -valinnan päälle.</InspectRoomStats.helpText>
   
   <!-- EN: Manual work priorities -->
   <ManualWorkPriorities.label>Manual work priorities</ManualWorkPriorities.label>
@@ -119,12 +119,12 @@
   <!-- EN: Medical operations -->
   <MedicalOperations.label>Opettele lääkintäoperaatiot</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>Määrätäksesi lääkintäoperaation kuten elimenkeräyksen tai proteesin asentamisen avaa yhdyskuntalaisen TERVEYS-välilehti ja valitse sitten OPERAATIOT.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>louhiminen</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials.</Mining.helpText>
+  <Mining.helpText>Voit määrittää louhintapaikan avaamalla ARKKITEHTI-valikon ja valitsemalla MÄÄRÄYKSET-välilehden.\n\nJoistan louhittavista kivistä tulee TERÄSTÄ, KULTAA, MUOVITERÄSTÄ ja muita hyödyllisiä materiaaleja.</Mining.helpText>
   
   <!-- EN: Outfits -->
   <Outfits.label>Outfits</Outfits.label>
@@ -149,12 +149,12 @@
   <!-- EN: Stockpiles -->
   <Stockpiles.label>Määritä varastoalue</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.</Stockpiles.helpText>
+  <Stockpiles.helpText>Yhdyskuntalaisesi tarvitsevat alueen mihin varastoida esineitä. Merkitse VARASTOALUE heille johon varastoida esineitä.\n\nLöydät varastoalueen ALUEET osiossa ARKKITEHTI -valikossa alavasemmalla.</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
   <StorageTab.label>Opettele varaston asetukset</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority.</StorageTab.helpText>
+  <StorageTab.helpText>Voit muokata varastoalueiden ja -rakennelmien asetuksia valitsemalla ne ja avaamalla VARASTO-VÄLILEHDEN tarkastelupaneelin yläpuolelta ruudun vasemmassa alakulmassa.\n\nVarastoalueen Varasto-välilehdessä voit laajentaa kategorioita salliaksesi tai kieltääksesi tietyt esineet. Klikkaa kategorioiden nimien vasemmalla olevia kolmioita.\n\nVoit vaihtaa varaston PRIORITEETTIA. Yhdyskuntalaiset täyttävät korkeamman prioriteetin varastot ensin ja siirtävät esineitä matalamman prioriteetin varastoista korkeampaan.</StorageTab.helpText>
   
   <!-- EN: Time assignments -->
   <TimeAssignments.label>Time assignments</TimeAssignments.label>
@@ -164,11 +164,11 @@
   <!-- EN: Time controls -->
   <TimeControls.label>Opettele aikakontrollit</TimeControls.label>
   <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.helpText>You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right.</TimeControls.helpText>
+  <TimeControls.helpText>TODO</TimeControls.helpText>
   
   <!-- EN: Work settings -->
   <WorkTab.label>Muokkaa työasetuksia</WorkTab.label>
   <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
-  <WorkTab.helpText>You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done.</WorkTab.helpText>
+  <WorkTab.helpText>Voit asettaa jokaisen yhdyskuntalaisen työasetukset TYÖT-näkymässä ruudun vasemmassa alakulmassa.\n\nHe tekevät aina löytämänsä korkeimman prioriteetin työn.\n\nJos kenelläkään ei ole jotain työtä asetettuna, tai he ovat tekemässä korkeamman prioriteetin töitä, työ ei tule koskaan tehdyksi.</WorkTab.helpText>
   
 </LanguageData>

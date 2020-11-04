@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: flu -->
-  <Animal_Flu.label>TODO</Animal_Flu.label>
+  <Animal_Flu.label>flunssa</Animal_Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
   <Animal_Flu.description>TODO</Animal_Flu.description>
   <!-- EN: minor -->
@@ -13,7 +13,7 @@
   <Animal_Flu.stages.extreme.label>TODO</Animal_Flu.stages.extreme.label>
   
   <!-- EN: plague -->
-  <Animal_Plague.label>TODO</Animal_Plague.label>
+  <Animal_Plague.label>rutto</Animal_Plague.label>
   <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
   <Animal_Plague.description>TODO</Animal_Plague.description>
   <!-- EN: minor -->
@@ -35,7 +35,7 @@
   <FibrousMechanites.stages.intense_pain.label>voimakas kipu</FibrousMechanites.stages.intense_pain.label>
   
   <!-- EN: flu -->
-  <Flu.label>influenssa</Flu.label>
+  <Flu.label>flunssa</Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. -->
   <Flu.description>TODO</Flu.description>
   <!-- EN: minor -->

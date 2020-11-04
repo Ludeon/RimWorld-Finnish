@@ -2,65 +2,65 @@
 <LanguageData>
   
   <!-- EN: civil outlander union -->
-  <OutlanderCivil.label>vieras kylä</OutlanderCivil.label>
+  <OutlanderCivil.label>syrjämaalaisten siviililiitto</OutlanderCivil.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
-  <OutlanderCivil.description>Pieni selviytyjäyhteisö.\n\nNämä ihmiset ovat asuneet täällä vuosikymmeniä. Ne ovat menettäneet suurimman osan teknologiasta, joka toi heidät tänne, ja he käyttävät yleensä yksinkertaisia työkaluja ja rakenteita, ja puolustautuvat edistyneillä ruutiajan aseilla.\n\nHe eivät sinänsä ole vihamielisiä tai heikkoja, mutta he suhtautuvat vakavasti käytännönläheisiin asioihin, kuten vaihtokauppaan, luottamukseen ja selviytymiseen.</OutlanderCivil.description>
+  <OutlanderCivil.description>Nämä ihmiset ovat asuneet täällä vuosikymmeniä. Ne ovat menettäneet suurimman osan teknologiasta, joka toi heidät tänne, ja he käyttävät yleensä yksinkertaisia työkaluja ja rakenteita, ja puolustautuvat edistyneillä ruutiajan aseilla.\n\nHe eivät sinänsä ole vihamielisiä tai heikkoja, mutta he suhtautuvat vakavasti käytännönläheisiin asioihin, kuten vaihtokauppaan, luottamukseen ja selviytymiseen. Tämä ryhmä arvostaa suuresti kansalaisyhteiskunnallista käytöstä.</OutlanderCivil.description>
   <!-- EN: prime councilor -->
-  <OutlanderCivil.leaderTitle>Pormestari</OutlanderCivil.leaderTitle>
+  <OutlanderCivil.leaderTitle>pormestari</OutlanderCivil.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderCivil.pawnSingular>TODO</OutlanderCivil.pawnSingular>
+  <OutlanderCivil.pawnSingular>syrjämaalainen</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderCivil.pawnsPlural>vieraskyläläisiä</OutlanderCivil.pawnsPlural>
+  <OutlanderCivil.pawnsPlural>syrjämaalaiset</OutlanderCivil.pawnsPlural>
   
   <!-- EN: rough outlander union -->
-  <OutlanderRough.label>TODO</OutlanderRough.label>
+  <OutlanderRough.label>syrjämaalaisten julma liitto</OutlanderRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
   <OutlanderRough.description>TODO</OutlanderRough.description>
   <!-- EN: prime councilor -->
-  <OutlanderRough.leaderTitle>TODO</OutlanderRough.leaderTitle>
+  <OutlanderRough.leaderTitle>pormestari</OutlanderRough.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderRough.pawnSingular>TODO</OutlanderRough.pawnSingular>
+  <OutlanderRough.pawnSingular>syrjämaalainen</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderRough.pawnsPlural>TODO</OutlanderRough.pawnsPlural>
+  <OutlanderRough.pawnsPlural>syrjämaalaiset</OutlanderRough.pawnsPlural>
   
   <!-- EN: pirate band -->
   <Pirate.label>rosvojoukko</Pirate.label>
   <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
   <Pirate.description>Ryhmä lainsuojattomia.\n\nRosvot eivät kylvä tai rakenna eivätkä he tee usein vaihtokauppaa. He rikastuttavat itseään enimmäkseen ryöstöretkillä alueen tuottavampien ryhmien kimppuun.\n\nHeidän teknologiatasonsa riippuu enimmäkseen siitä, keneltä he ovat onnistuneet viimeksi kähveltämään tavaroita. He käyttävät useimmiten ruutiaseita, mutta onnekkaimmilla voi olla edistyneitä laseraseita, ja jotkut saattavat pitää ihmisten puukottamisesta lähietäisyydeltä.</Pirate.description>
   <!-- EN: boss -->
-  <Pirate.leaderTitle>Pomo</Pirate.leaderTitle>
+  <Pirate.leaderTitle>pomo</Pirate.leaderTitle>
   <!-- EN: pirate -->
-  <Pirate.pawnSingular>TODO</Pirate.pawnSingular>
+  <Pirate.pawnSingular>rosvo</Pirate.pawnSingular>
   <!-- EN: pirates -->
-  <Pirate.pawnsPlural>rosvoja</Pirate.pawnsPlural>
+  <Pirate.pawnsPlural>rosvot</Pirate.pawnsPlural>
   
   <!-- EN: gentle tribe -->
-  <TribeCivil.label>heimo</TribeCivil.label>
+  <TribeCivil.label>hellä heimo</TribeCivil.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
   <TribeCivil.description>Nämä ihmiset ovat olleet täällä erittäin kauan. Ehkä heidän esi-isänsä haaksirikkoutuivat tänne tuhat vuotta sitten. Ehkä he selvisivät jostain luonnonmullistuksesta, joka tuhosi kehittyneen sivilisaation täällä. Joka tapauksessa heimolaiset ovat enimmäkseen paimentolaiskansaa, jotka elättävät itsensä maasta alkeellisia työkaluja ja aseita käyttäen.\n\nJotkin heimot ovat vihamielisempiä kuin toiset; monet ovat valmiita vaihtokauppaan tai liittoutumaan jopa teidän kaltaistense outojen ihmisten kanssa. Läheinen yhteistyö tai värväys tulee olemaan hyvin hankalaa välissänne olevasta syvästä sosiaalisesta, teknologisesta ja kielellisestä kuilusta johtuen.\n\nHeidän teknologisista puutteistaan huolimatta heimolaiset voivat olla vaarallisia vihollisia ja arvokkaita ystäviä heidän käytännönläheisten taitojensa, heidän monilukuisuutensa ja heidän kestävyydensä ansiosta.</TribeCivil.description>
   <!-- EN: chief -->
-  <TribeCivil.leaderTitle>Päällikkö</TribeCivil.leaderTitle>
+  <TribeCivil.leaderTitle>päällikkö</TribeCivil.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeCivil.pawnSingular>TODO</TribeCivil.pawnSingular>
+  <TribeCivil.pawnSingular>heimolainen</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCivil.pawnsPlural>heimolaisia</TribeCivil.pawnsPlural>
+  <TribeCivil.pawnsPlural>heimolaiset</TribeCivil.pawnsPlural>
   
   <!-- EN: fierce tribe -->
-  <TribeRough.label>TODO</TribeRough.label>
+  <TribeRough.label>kiivas heimo</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
   <TribeRough.description>TODO</TribeRough.description>
   <!-- EN: tribesman -->
-  <TribeRough.pawnSingular>TODO</TribeRough.pawnSingular>
+  <TribeRough.pawnSingular>heimolainen</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeRough.pawnsPlural>TODO</TribeRough.pawnsPlural>
+  <TribeRough.pawnsPlural>heimolaiset</TribeRough.pawnsPlural>
   
   <!-- EN: savage tribe -->
-  <TribeSavage.label>TODO</TribeSavage.label>
+  <TribeSavage.label>raakalaisheimo</TribeSavage.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
   <TribeSavage.description>TODO</TribeSavage.description>
   <!-- EN: tribesman -->
-  <TribeSavage.pawnSingular>TODO</TribeSavage.pawnSingular>
+  <TribeSavage.pawnSingular>heimolainen</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeSavage.pawnsPlural>TODO</TribeSavage.pawnsPlural>
+  <TribeSavage.pawnsPlural>heimolaiset</TribeSavage.pawnsPlural>
   
 </LanguageData>

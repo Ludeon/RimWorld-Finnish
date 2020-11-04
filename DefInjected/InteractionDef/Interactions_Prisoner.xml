@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: try to get to know -->
-  <BuildRapport.label>try to get to know</BuildRapport.label>
+  <BuildRapport.label>yritä tutustua</BuildRapport.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
@@ -40,7 +40,7 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>logentry->Tried to build rapport with [other_nameShortIndef].</li>
+    <li>TODO</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
   
   <!-- EN: recruit attempt -->
@@ -52,7 +52,7 @@
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Yritti värvätä vangin [other_nameShortIndef].</li>
+    <li>TODO</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->

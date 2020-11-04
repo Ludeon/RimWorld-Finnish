@@ -4,48 +4,48 @@
   <!-- EN: manhunter -->
   <Manhunter.label>ihmisjahtaaja</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->
-  <Manhunter.baseInspectLine>Maddened: Manhunter</Manhunter.baseInspectLine>
+  <Manhunter.baseInspectLine>Hulluna: Ihmisjahtaaja</Manhunter.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <Manhunter.beginLetter>{0} on ryhtynyt ihmisjahtaajaksi!</Manhunter.beginLetter>
+  <Manhunter.beginLetter>{0} jahtaa ihmisiä!</Manhunter.beginLetter>
   <Manhunter.beginLetterLabel>ihmisjahtaaja</Manhunter.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <Manhunter.recoveryMessage>Henkilön {0} verenhimoinen ihmisjahti on tullut päätökseensä.</Manhunter.recoveryMessage>
+  <Manhunter.recoveryMessage>{0} ei enää jahtaa ihmisiä verenhimoisesti.</Manhunter.recoveryMessage>
   
   <!-- EN: manhunter -->
-  <ManhunterPermanent.label>manhunter</ManhunterPermanent.label>
+  <ManhunterPermanent.label>ihmisjahtaaja</ManhunterPermanent.label>
   <!-- EN: Maddened: Manhunter -->
-  <ManhunterPermanent.baseInspectLine>Maddened: Manhunter</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.baseInspectLine>Hulluna: Ihmisjahtaaja</ManhunterPermanent.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <ManhunterPermanent.beginLetter>{0} has become a manhunter!</ManhunterPermanent.beginLetter>
-  <ManhunterPermanent.beginLetterLabel>manhunter</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.beginLetter>{0} jahtaa ihmisiä!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>ihmisjahtaaja</ManhunterPermanent.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.recoveryMessage>{0} ei enää jahtaa ihmisiä verenhimoisesti.</ManhunterPermanent.recoveryMessage>
   
   <!-- EN: panic fleeing -->
   <PanicFlee.label>pakokauhu</PanicFlee.label>
   <!-- EN: Mental state: Fleeing in panic -->
-  <PanicFlee.baseInspectLine>Mental state: Fleeing in panic</PanicFlee.baseInspectLine>
+  <PanicFlee.baseInspectLine>Mielentila: Pakenee kauhuissaan</PanicFlee.baseInspectLine>
   <!-- EN: {0} is fleeing in panic. -->
-  <PanicFlee.beginLetter>{0} pakenee paniikissa.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetter>{0} pakenee kauhuissaan.</PanicFlee.beginLetter>
   <!-- EN: flee -->
-  <PanicFlee.beginLetterLabel>paniikki</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetterLabel>pakokauhu</PanicFlee.beginLetterLabel>
   <!-- EN: {0} is no longer fleeing in panic. -->
-  <PanicFlee.recoveryMessage>{0} ei enää pakene paniikissa.</PanicFlee.recoveryMessage>
+  <PanicFlee.recoveryMessage>{0} ei enää pakene kauhuissaan.</PanicFlee.recoveryMessage>
   
   <!-- EN: social fighting -->
   <SocialFighting.label>riitelyä</SocialFighting.label>
   <!-- EN: Mental state: Social fighting -->
-  <SocialFighting.baseInspectLine>Mental state: Social fighting</SocialFighting.baseInspectLine>
+  <SocialFighting.baseInspectLine>Mielentila: Riitelyä</SocialFighting.baseInspectLine>
   
   <!-- EN: confused wandering -->
-  <WanderConfused.label>confused wandering</WanderConfused.label>
+  <WanderConfused.label>hämmentynyt haahuilu</WanderConfused.label>
   <!-- EN: Mental state: Confused and wandering -->
-  <WanderConfused.baseInspectLine>Mental state: Confused and wandering</WanderConfused.baseInspectLine>
+  <WanderConfused.baseInspectLine>TODO</WanderConfused.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>{0} has broken down and is wandering around confused.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>TODO</WanderConfused.beginLetter>
   <!-- EN: confusion -->
-  <WanderConfused.beginLetterLabel>confusion</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetterLabel>TODO</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
-  <WanderConfused.recoveryMessage>{0} is no longer confused.</WanderConfused.recoveryMessage>
+  <WanderConfused.recoveryMessage>{0} ei ole enää hämmentynyt.</WanderConfused.recoveryMessage>
   
 </LanguageData>

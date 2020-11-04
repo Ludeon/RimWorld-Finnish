@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: accept -->
-  <Accept.label>TODO</Accept.label>
+  <Accept.label>hyväksy</Accept.label>
   
   <!-- EN: cancel -->
-  <Cancel.label>TODO</Cancel.label>
+  <Cancel.label>peruuta</Cancel.label>
   
   <!-- EN: draft -->
   <Command_ColonistDraft.label>värvää</Command_ColonistDraft.label>
