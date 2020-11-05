@@ -58,11 +58,11 @@
   <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>make any stone blocks</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>valmista kiviharkkoja</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>Cuts rock chunks into usable stone blocks.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>Leikkaa kivenlohkareita käyttökelpoisiksi harkoiksi.</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>Leikkaa kiviharkkoja järkäleestä.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
   <SmeltApparel.label>TODO</SmeltApparel.label>

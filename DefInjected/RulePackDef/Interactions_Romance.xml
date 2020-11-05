@@ -5,21 +5,21 @@
     <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
   -->
   <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] agreed and the two are now engaged.</li>
+    <li>TODO</li>
   </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
   -->
   <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] rejected the proposal.</li>
+    <li>TODO</li>
   </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
   -->
   <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
-    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+    <li>TODO</li>
   </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
   
   <!-- EN:
@@ -28,7 +28,7 @@
     <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
   -->
   <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] agreed and is now [initiator_nameShortDef]'s lover.</li>
+    <li>TODO</li>
   </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
@@ -41,7 +41,7 @@
     <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
   -->
   <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] rejected the advance.</li>
+    <li>TODO</li>
   </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

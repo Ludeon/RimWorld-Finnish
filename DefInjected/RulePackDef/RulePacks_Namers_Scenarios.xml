@@ -16,18 +16,17 @@
     <li>r_name->[story] [RomanNumeral]</li>
   -->
   <NamerScenario.rulePack.rulesStrings>
-    <li>name->[story] [trans] the [weapon]</li>
-    <li>name->[story] [trans] the [animal]</li>
-    <li>name->[story] [trans] the [terrainfeature]</li>
-    <li>name->[story] [trans] [outlander]s</li>
-    <li>name->[story] [trans] [concept]</li>
-    <li>name->[concept] [story]</li>
-    <li>name->[story] [trans] a [community]</li>
-    <li>name->a [adjective] [story]</li>
-    <li>name->[story] [trans] the [game]</li>
-    <li>name->[story] in [color] and [color]</li>
-    <li>name->[color] [story]</li>
-    <li>name->[story] [romannumeral]</li>
-  </NamerScenario.rulePack.rulesStrings>
+    <li>r_name->[story] [Trans] [Weapon]</li>
+    <li>r_name->[story] [Trans] [Animal]</li>
+    <li>r_name->[story] [Trans] [TerrainFeature]</li>
+    <li>r_name->[story] [Trans] [PersonJob]s</li>
+    <li>r_name->[story] [Trans] [ConceptAny]</li>
+    <li>r_name->[ConceptAny] [story]</li>
+    <li>r_name->[story] [Trans] [Community]</li>
+    <li>r_name->[AdjectiveAny] [story]</li>
+    <li>r_name->[story] [Trans] [Game]</li>
+    <li>r_name->[Color] ja [Color] [story]</li>
+    <li>r_name->[Color] [story]</li>
+    <li>r_name->[story] [RomanNumeral]</li></NamerScenario.rulePack.rulesStrings>
   
 </LanguageData>

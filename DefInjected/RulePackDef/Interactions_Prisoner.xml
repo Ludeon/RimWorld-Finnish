@@ -5,14 +5,14 @@
     <li>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</li>
   -->
   <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community.</li>
+    <li>TODO</li>
   </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] refused.</li>
   -->
   <Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] rejected the offer.</li>
+    <li>TODO</li>
   </Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

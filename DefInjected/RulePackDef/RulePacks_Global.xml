@@ -50,22 +50,7 @@
     <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
-  <GlobalUtility.rulePack.rulesStrings>
-    <li>quantity_adjphrase->ryhmä</li>
-    <li>quantity_adjphrase->joukkio</li>
-    <li>quantity_adjphrase->joukko</li>
-    <li>quantity_adjphrase->pari</li>
-    <li>quantity_adjphrase->pari</li>
-    <li>quantity_adjphrase->pari</li>
-    <li>quantity_adjphrase->ryhmä</li>
-    <li>quantity_adjphrase->ryhmä</li>
-    <li>quantity_adjphrase->joukkio lukemattomista yksilöistä</li>
-    <li>quantity_adjphrase->ryhmä lukemattomista yksilöistä</li>
-    <li>game->pokeria</li>
-    <li>game->shakkia</li>
-    <li>game->korttia</li>
-    <li>game->backgammonia</li>
-  </GlobalUtility.rulePack.rulesStrings>
+  <GlobalUtility.rulePack.rulesStrings>TODO</GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>

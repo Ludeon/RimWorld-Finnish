@@ -22,9 +22,9 @@
   <JoyGainFactor.description>TODO</JoyGainFactor.description>
   
   <!-- EN: medical tend quality offset -->
-  <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.label>lääkinnän laatulisä</MedicalTendQualityOffset.label>
   <!-- EN: Medical tend quality is offset by this value. -->
-  <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.description>Lääkehoidon laatuun lisätään tämä arvo.</MedicalTendQualityOffset.description>
   
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>tutkimisnopeuden kerroin</ResearchSpeedFactor.label>

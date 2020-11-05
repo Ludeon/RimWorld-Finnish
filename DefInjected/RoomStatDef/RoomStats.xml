@@ -10,7 +10,7 @@
   <!-- EN: neutral -->
   <Beauty.scoreStages.neutral.label>neutraali</Beauty.scoreStages.neutral.label>
   <!-- EN: pretty -->
-  <Beauty.scoreStages.pretty.label>melko hieno</Beauty.scoreStages.pretty.label>
+  <Beauty.scoreStages.pretty.label>hieno</Beauty.scoreStages.pretty.label>
   <!-- EN: beautiful -->
   <Beauty.scoreStages.beautiful.label>kaunis</Beauty.scoreStages.beautiful.label>
   <!-- EN: very beautiful -->
@@ -44,13 +44,13 @@
   <!-- EN: awful -->
   <Impressiveness.scoreStages.awful.label>hirveä</Impressiveness.scoreStages.awful.label>
   <!-- EN: dull -->
-  <Impressiveness.scoreStages.dull.label>luotaantyöntävä</Impressiveness.scoreStages.dull.label>
+  <Impressiveness.scoreStages.dull.label>tylsä</Impressiveness.scoreStages.dull.label>
   <!-- EN: mediocre -->
-  <Impressiveness.scoreStages.mediocre.label>tylsä</Impressiveness.scoreStages.mediocre.label>
+  <Impressiveness.scoreStages.mediocre.label>keskinkertainen</Impressiveness.scoreStages.mediocre.label>
   <!-- EN: decent -->
-  <Impressiveness.scoreStages.decent.label>keskinkertainen</Impressiveness.scoreStages.decent.label>
+  <Impressiveness.scoreStages.decent.label>kelvollinen</Impressiveness.scoreStages.decent.label>
   <!-- EN: slightly impressive -->
-  <Impressiveness.scoreStages.slightly_impressive.label>kiinnostava</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>hieman vaikuttava</Impressiveness.scoreStages.slightly_impressive.label>
   <!-- EN: somewhat impressive -->
   <Impressiveness.scoreStages.somewhat_impressive.label>jokseenkin vaikuttava</Impressiveness.scoreStages.somewhat_impressive.label>
   <!-- EN: very impressive -->
@@ -58,12 +58,12 @@
   <!-- EN: extremely impressive -->
   <Impressiveness.scoreStages.extremely_impressive.label>erittäin vaikuttava</Impressiveness.scoreStages.extremely_impressive.label>
   <!-- EN: unbelievably impressive -->
-  <Impressiveness.scoreStages.unbelievably_impressive.label>äärimmäisen vaikuttava</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <Impressiveness.scoreStages.unbelievably_impressive.label>uskomattoman vaikuttava</Impressiveness.scoreStages.unbelievably_impressive.label>
   <!-- EN: wondrously impressive -->
-  <Impressiveness.scoreStages.wondrously_impressive.label>uskomattoman vaikuttava</Impressiveness.scoreStages.wondrously_impressive.label>
+  <Impressiveness.scoreStages.wondrously_impressive.label>ilmiömäisen vaikuttava</Impressiveness.scoreStages.wondrously_impressive.label>
   
   <!-- EN: infection chance factor -->
-  <InfectionChanceFactor.label>tartunnansaamiskerroin factor</InfectionChanceFactor.label>
+  <InfectionChanceFactor.label>tartunnansaamiskerroin</InfectionChanceFactor.label>
   
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>tutkimisnopeuskerroin</ResearchSpeedFactor.label>

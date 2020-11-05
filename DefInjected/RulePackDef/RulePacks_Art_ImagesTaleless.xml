@@ -37,36 +37,6 @@
     <li>desc_pawn->looking [AdjectiveAny]</li>
     <li>desc_pawn->covered in [Gore]</li>
   -->
-  <TalelessImages.rulePack.rulesStrings>
-    <li>image->[outlander] jota ympäröi [outlander]joukkio. [part2]</li>
-    <li>image->[outlander] pelaamassa [game] [outlander]joukkion kanssa. [part2]</li>
-    <li>image->[outlander] joka [subject_desc] ja hänen kädessään on [weapon]. [part2]</li>
-    <li>image->yksinäinen [outlander]. [part2]</li>
-    <li>image->[adjective] [outlander] jolla on päällä [apparel]. [part2]</li>
-    <li>image->tyhjä [apparel] [subject_desc]. [part2]</li>
-    <li>image->[adjective] [terrainfeature]. [part2]</li>
-    <li>image->[animal]lauma pelaamassa [game]. [part2]</li>
-    <li>image->[animal], jolla on päällä [apparel], ja se [subject_desc]. [part2]</li>
-    <li>part2->[artextra_sentence] [artextra_sentence]</li>
-    <li>subject_desc->lentää ilmassa</li>
-    <li>subject_desc->leijuu ilmassa</li>
-    <li>subject_desc->seisoo maassa</li>
-    <li>subject_desc->liikkuu vasemmalle</li>
-    <li>subject_desc->liikkuu oikealle</li>
-    <li>subject_desc->istuu pöydällä</li>
-    <li>subject_desc->näkyy kuvastimen kautta</li>
-    <li>subject_desc->josta näkyy vain siluetti</li>
-    <li>subject_desc->ratsunaan [animal] jolla on päällä [apparel]</li>
-    <li>subject_desc->josta tulee [adjective] vaikutelma</li>
-    <li>subject_desc->suspended in the air</li>
-    <li>subject_desc->standing on the ground</li>
-    <li>subject_desc->moving to the left</li>
-    <li>subject_desc->moving to the right</li>
-    <li>subject_desc->sitting on a table</li>
-    <li>subject_desc->seen through a looking glass</li>
-    <li>subject_desc->rendered in silhouette</li>
-    <li>subject_desc->riding on a [animal] wearing a [apparel]</li>
-    <li>subject_desc->looking [adjective]</li>
-  </TalelessImages.rulePack.rulesStrings>
+  <TalelessImages.rulePack.rulesStrings>TODO</TalelessImages.rulePack.rulesStrings>
   
 </LanguageData>

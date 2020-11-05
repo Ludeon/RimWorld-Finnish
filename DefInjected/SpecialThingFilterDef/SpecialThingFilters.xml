@@ -43,10 +43,10 @@
   <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  <AllowNonBurnableWeapons.label>salli palamattomat</AllowNonBurnableWeapons.label>
   
   <!-- EN: allow clean apparel -->
-  <AllowNonDeadmansApparel.label>allow non-deadman's apparel</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.label>TODO</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
   
@@ -67,7 +67,7 @@
   <AllowRotten.description>Salli eloperäiset esineet, jotka ovat alkaneet mädäntyä.</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
+  <AllowSmeltable.label>TODO</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
   <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
