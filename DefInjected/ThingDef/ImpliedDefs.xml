@@ -608,9 +608,9 @@
   <!-- EN: Kuollut Megasloth. -->
   <Corpse_Megasloth.description>Megasloth corpse</Corpse_Megasloth.description>
   
-  <!-- EN: megaspider ruumis -->
+  <!-- EN: jättihämähäkki ruumis -->
   <Corpse_Megaspider.label>megaspider corpse</Corpse_Megaspider.label>
-  <!-- EN: Kuollut megaspider. -->
+  <!-- EN: Kuollut jättihämähäkki. -->
   <Corpse_Megaspider.description>Dead body of a megaspider.</Corpse_Megaspider.description>
   
   <!-- EN: apina ruumis -->
@@ -1263,7 +1263,7 @@
   <!-- EN: Raakaa lihaa oliosta alfamajava. -->
   <Meat_Alphabeaver.description>Raakaa alfamajavan lihaa.</Meat_Alphabeaver.description>
   
-  <!-- EN: bear meat -->
+  <!-- EN: karhun lihaa -->
   <Meat_Bear_Grizzly.label>harmaakarhun lihaa</Meat_Bear_Grizzly.label>
   <!-- EN: Raakaa lihaa oliosta harmaakarhu. -->
   <Meat_Bear_Grizzly.description>Raakaa harmaakarhun lihaa.</Meat_Bear_Grizzly.description>
@@ -1323,7 +1323,7 @@
   <!-- EN: Raakaa lihaa oliosta lehmä. -->
   <Meat_Cow.description>Raakaa lehmän lihaa.</Meat_Cow.description>
   
-  <!-- EN: venison -->
+  <!-- EN: peuranlihaa -->
   <Meat_Deer.label>peuran lihaa</Meat_Deer.label>
   <!-- EN: Raakaa lihaa oliosta peura. -->
   <Meat_Deer.description>Raakaa peuran lihaa.</Meat_Deer.description>

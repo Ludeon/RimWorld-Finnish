@@ -27,7 +27,7 @@
   <KnowColonistExecuted.stages.colonist_organharvested.label>TODO</KnowColonistExecuted.stages.colonist_organharvested.label>
   <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
   <KnowColonistExecuted.stages.colonist_organharvested.description>Yhdyskuntalainen kuoli koska joku otti häneltä ruumiinosia. Se on kamalaa.</KnowColonistExecuted.stages.colonist_organharvested.description>
-
+  
   <!-- EN: justified execution -->
   <KnowGuestExecuted.stages.justified_execution.label>oikeutettu teloitus</KnowGuestExecuted.stages.justified_execution.label>
   <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->

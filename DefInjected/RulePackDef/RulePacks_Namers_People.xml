@@ -9,7 +9,8 @@
   <EmpireNameUtility.rulePack.rulesStrings>
     <li>WordImperial(p=4)->[SylB][SylB]</li>
     <li>WordImperial(p=2)->[SylB][SylB][SylB]</li>
-    <li>WordImperial(p=0.2)->[SylB][SylB][SylB][SylB]</li></EmpireNameUtility.rulePack.rulesStrings>
+    <li>WordImperial(p=0.2)->[SylB][SylB][SylB][SylB]</li>
+  </EmpireNameUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[WordTribal] [WordTribal]</li>

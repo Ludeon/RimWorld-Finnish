@@ -193,18 +193,18 @@
   <!-- EN: Tekee esinettä rynnäkkökivääri. -->
   <Make_Gun_AssaultRifle.jobString>Making assault rifle.</Make_Gun_AssaultRifle.jobString>
   
-  <!-- EN: Tee bolt-action rifle -->
+  <!-- EN: Tee pulttilukkokivääri -->
   <Make_Gun_BoltActionRifle.label>make bolt-action rifle</Make_Gun_BoltActionRifle.label>
-  <!-- EN: Màкè bolt-action rifle. -->
+  <!-- EN: Màкè pulttilukkokivääri. -->
   <Make_Gun_BoltActionRifle.description>Make bolt-action rifle.</Make_Gun_BoltActionRifle.description>
-  <!-- EN: Tekee esinettä bolt-action rifle. -->
+  <!-- EN: Tekee esinettä pulttilukkokivääri. -->
   <Make_Gun_BoltActionRifle.jobString>Making bolt-action rifle.</Make_Gun_BoltActionRifle.jobString>
   
-  <!-- EN: Tee chain shotgun -->
+  <!-- EN: Tee sarjahaulikko -->
   <Make_Gun_ChainShotgun.label>make chain shotgun</Make_Gun_ChainShotgun.label>
-  <!-- EN: Màкè chain shotgun. -->
+  <!-- EN: Màкè sarjahaulikko. -->
   <Make_Gun_ChainShotgun.description>Make chain shotgun.</Make_Gun_ChainShotgun.description>
-  <!-- EN: Tekee esinettä chain shotgun. -->
+  <!-- EN: Tekee esinettä sarjahaulikko. -->
   <Make_Gun_ChainShotgun.jobString>Making chain shotgun.</Make_Gun_ChainShotgun.jobString>
   
   <!-- EN: Tee varauskivääri -->
@@ -235,11 +235,11 @@
   <!-- EN: Tekee esinettä kevyt konekivääri. -->
   <Make_Gun_LMG.jobString>Making LMG.</Make_Gun_LMG.jobString>
   
-  <!-- EN: Tee Machine pistol -->
+  <!-- EN: Tee konepistooli -->
   <Make_Gun_MachinePistol.label>Make Machine pistol</Make_Gun_MachinePistol.label>
-  <!-- EN: Màкè Machine pistol. -->
+  <!-- EN: Màкè konepistooli. -->
   <Make_Gun_MachinePistol.description>Make Machine pistol</Make_Gun_MachinePistol.description>
-  <!-- EN: Tekee esinettä Machine pistol. -->
+  <!-- EN: Tekee esinettä konepistooli. -->
   <Make_Gun_MachinePistol.jobString>Making Machine pistol.</Make_Gun_MachinePistol.jobString>
   
   <!-- EN: Tee minigun -->
@@ -256,18 +256,18 @@
   <!-- EN: Tekee esinettä pumppuhaulikko. -->
   <Make_Gun_PumpShotgun.jobString>Making pump shotgun.</Make_Gun_PumpShotgun.jobString>
   
-  <!-- EN: Tee pistooli -->
+  <!-- EN: Tee revolveri -->
   <Make_Gun_Revolver.label>Make pistol</Make_Gun_Revolver.label>
-  <!-- EN: Màкè pistooli. -->
+  <!-- EN: Màкè revolveri. -->
   <Make_Gun_Revolver.description>Make pistol</Make_Gun_Revolver.description>
-  <!-- EN: Tekee esinettä pistooli. -->
+  <!-- EN: Tekee esinettä revolveri. -->
   <Make_Gun_Revolver.jobString>Making pistol.</Make_Gun_Revolver.jobString>
   
-  <!-- EN: Tee tarkka-ampuja-ase -->
+  <!-- EN: Tee tarkkuuskivääri -->
   <Make_Gun_SniperRifle.label>Make sniper rifle</Make_Gun_SniperRifle.label>
-  <!-- EN: Màкè tarkka-ampuja-ase. -->
+  <!-- EN: Màкè tarkkuuskivääri. -->
   <Make_Gun_SniperRifle.description>Make sniper rifle</Make_Gun_SniperRifle.description>
-  <!-- EN: Tekee esinettä tarkka-ampuja-ase. -->
+  <!-- EN: Tekee esinettä tarkkuuskivääri. -->
   <Make_Gun_SniperRifle.jobString>Making sniper rifle.</Make_Gun_SniperRifle.jobString>
   
   <!-- EN: Tee nuija -->
@@ -347,11 +347,11 @@
   <!-- EN: Tekee esinettä pieni veistos. -->
   <Make_SculptureSmall.jobString>Making a small sculpture.</Make_SculptureSmall.jobString>
   
-  <!-- EN: Tee mortar shell -->
+  <!-- EN: Tee räjähdyskranaatti -->
   <Make_Shell_HighExplosive.label>make mortar shell</Make_Shell_HighExplosive.label>
-  <!-- EN: Màкè mortar shell. -->
+  <!-- EN: Màкè räjähdyskranaatti. -->
   <Make_Shell_HighExplosive.description>Craft a mortar shell.</Make_Shell_HighExplosive.description>
-  <!-- EN: Tekee esinettä mortar shell. -->
+  <!-- EN: Tekee esinettä räjähdyskranaatti. -->
   <Make_Shell_HighExplosive.jobString>Making mortar shell.</Make_Shell_HighExplosive.jobString>
   
   <!-- EN: Tee smokeleaf joint -->
