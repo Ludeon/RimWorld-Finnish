@@ -17,7 +17,7 @@
   <!-- EN: Options -->
   <Options>Asetukset</Options>
   <!-- EN: Mod -->
-  <Mod>TODO</Mod>
+  <Mod>Modi</Mod>
   <!-- EN: Mods -->
   <Mods>Modit</Mods>
   <!-- EN: Save translation report -->
@@ -27,7 +27,7 @@
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>Siivoa käännöstiedostot</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>Päivitä käännöstiedostot (TKeyt)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Siivotaan käännöstiedostoja</CleaningTranslationFiles>
   <!-- EN: Credits -->
@@ -51,11 +51,11 @@
   <!-- EN: Tynan's twitter -->
   <TynansTwitter>Tynanin twitter</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>Tynanin design book</TynansDesignBook>
+  <TynansDesignBook>Tynanin pelinsuunnittelukirja</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Auta kääntämään RimWorldia</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Osta soundtrack</BuySoundtrack>
+  <BuySoundtrack>Osta ääniraita</BuySoundtrack>
   <!-- EN: Create world -->
   <CreateWorld>Luo maailma</CreateWorld>
 
@@ -87,7 +87,7 @@
   <!-- EN: Overall temperature -->
   <PlanetTemperature>Vallitseva lämpötila</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>TODO</PlanetPopulation>
+  <PlanetPopulation>Asutuksen tiheys</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>Matala</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -101,11 +101,11 @@
   <!-- EN: High -->
   <PlanetTemperature_High>Korkea</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <PlanetPopulation_Low>Harva</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>Normaali</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <PlanetPopulation_High>Tiheä</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Luontiarvo</WorldSeed>
   <!-- EN: Randomize seed -->
@@ -121,17 +121,17 @@
   <!-- EN: Select -->
   <WorldChooseButton>Valitse</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo maailma ensin.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Ei maailmojen tiedostoja. Luo ensin maailma.</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Versio {0} on nyt saatavilla. Tarkista ludeon.com lisätietoja varten.</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
-  <BuildUpToDate>Versio on uusin</BuildUpToDate>
+  <BuildUpToDate>Tämä on viimeisin versio.</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Virhe haettaessa version tietoja: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>Ladataan versiotietoja</LoadingVersionInfo>
+  <LoadingVersionInfo>Ladataan versiotietoja...</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
@@ -147,11 +147,11 @@
   <!-- EN: Show mods data location -->
   <ShowModsDataLocation>Näytä modien sijanti</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Oletko varma että haluat poistaa Core-modin käytöstä? Peli ei toimi ellei sinulla ole toista modia joka korvaa kaikki sen toiminnot.\n\nMuista, että muut modit voivat korvata def-määrityksiä Core-modissa käyttämällä samaa defNamea.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Oletko varma että haluat poistaa core-modin käytöstä? Peli ei toimi ellei sinulla ole toista modia joka korvaa kaikki sen toiminnot.\n\nMuista, että muut modit voivat korvata def-määrityksiä core-modissa käyttämällä samaa defNamea.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Oletko varma että haluat poistaa kaiken modin {0} sisällön?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>TODO</ResolveModOrder>
+  <ResolveModOrder>Järjestä modit automaattisesti</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Poista tilaus</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -173,63 +173,63 @@
   <!-- EN: Downloading -->
   <Downloading>Ladataan</Downloading>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Näytä täytetyt vaatimukset</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>TODO</ModClickToSelect>
+  <ModClickToSelect>Klikkaa valitaksesi.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Klikkaa siirtyäksesi verkkosivulle</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Lähde</Source>
   <!-- EN: For game version(s) -->
   <ModTargetVersion>Pelin versio(i)lle</ModTargetVersion>
   <!-- EN: ID -->
-  <ModPackageId>TODO</ModPackageId>
+  <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <ModMustLoadBefore>Tämä tulee ladata ensin: {0}.</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <ModMustLoadAfter>Tämä tulee ladata myöhemmin: {0} </ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>TODO</ModDependsOn>
+  <ModDependsOn>Vaatii modin: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <ModIncompatibleWith>Epäyhteensopiva: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>Tämä modi on epäyhteensopiva modin {0} kanssa.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <ModOrderingWarning>Tämä modi ladataan väärässä järjestyksessä toisen modin kanssa. Käytä 'automaattijärjestys'-nappia tai järjestä modit manuaalisesti.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>Toinen käytössä oleva modi käyttää samaa ID:tä: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <ModCyclicDependency>Modeilla on syklinen riippuvaisuus alkaen modista {0}.</ModCyclicDependency>
   <!-- EN: This requires following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>Tämä vaatii toimiakseen seuraavia modeja: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Tätä modia ei ole tehty tälle RimWorldin versiolle eikä luultavasti tule toimimaan oikein.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>TODO</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Tätä modia ei ole tehty tälle RimWorldin versiolle.</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Tämä modi on tehty uudemmalle RimWorldin versiolle eikä luultavasti tule toimimaan oikein.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Modi tarvitsee oikein muotoillut versiotiedot tiedostossa About.xml. targetVersion-tagi on vanhentunut. Katso lisätietoja lokista.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modi tarvitsee oikein muotoillut versiotiedot tiedostossa About.xml. Esimerkin voit löytää netistä. targetVersion-tagi on vanhentunut. Katso lisätietoja lokista.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Modi vaatii uniikin oikein muotoillun packageIdn tiedostossa About.xml. Sen tulee täyttää seuraavat vaatimukset:\n\n  - Vain alfanumeerisia merkkejä ja piste.\n  - Ei välilyöntejä.\n  - Ainakin yksi piste.\n  - Ei peräkkäisiä pisteitä tai pistettä alussa tai lopussa.\n  - 60 merkkiä tai vähemmän.\n  - Ei voi sisältää sanaa "Ludeon". Esimerkin voit löytää netistä.</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Tässä modissa on ongelmia tiedostossa LoadFolders.xml, jotka täytyy ratkaista ennen lataamista:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>Versiolle {1} tarkoitettua kansiota {0} ei ole olemassa.</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>Väärän muotoinen versiomerkkijono '{0}'. Oikea formaatti on Major.Minor (esim. 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>Lista ladattavista kansioista versiolle {0} on tyhjä.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Versio {0} listaa saman kansion useammin kuin kerran: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>Epäkelvollinen versiojärjestys: {0} pitäisi tulla ennen versiota {1}.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>Epäkelvollinen versiojärjestys: 'default' pitäisi tulla ensimmäisenä.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>TODO</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>'default'-latauskansion käyttö on poistettu käytöstä. Ole hyvä ja määritä kansiot jokaiselle versiolle käyttäen v...-tageja.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Version{0} on määritetty latauskansioissa, mutta sitä ei ole listattu 'supportedVersions'-listassa modin About.xml-tiedostossa.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Vedä järjestääksesi</DragToReorder>
 
@@ -277,7 +277,7 @@
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>Tarinankertoja luo tapahtumia kuten rosvohyökkäyksiä, resurssien pudotuksia tai eläinten hyökkäyksiä. Niiden päätokset tulevat vaikuttamaan yhdyskuntasi tarinaan. Voit muuttaa näitä asetuksia milloin vain.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>Valitse vaikeustaso.</MustChooseDifficulty>
+  <MustChooseDifficulty>Ole hyvä ja valitse vaikeustaso.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
   <Difficulty>Vaikeustaso</Difficulty>
   <!-- EN: Commitment mode -->
@@ -287,174 +287,174 @@
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
   <MustChoosePermadeath>Ole hyvä ja valitse sitoutumistila tai lataa milloin vain -tila</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Voit tallentaa ja ladata pelin milloin vain.\n\nTämä on hyvä valinta jos opettelet edelleen peliä, jos se sopii pelityyliisi, jos käytät modeja jotka saattavat rikkoa pelisi, tai jos aiot itse valvoa sitoutumistilaa.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Voit tallentaa ja ladata pelin milloin vain.\n\nTämä on hyvä valinta jos opettelet vielä peliä, jos se sopii pelityyliisi, jos käytät modeja jotka saattavat rikkoa pelisi, tai jos aiot itse valvoa sitoutumistilaa.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>Voit tallentaa vain kun poistut pelistä.\n\nKoska RimWorld on tarinageneraattori, edes kaikkien paitsi yhden henkilön menettäminen ei ole pelin loppu - se on osa tarinaa. Peli on suunniteltu mahdollistamaan tappioista palautumisen.\n\nKurjista olosuhteista pelaamalla selviäminen tekee tarinasta tragedian ja menestystarinan. Se on tapa jolla RimWorldia on suunniteltu pelattavan.\n\nSiihen on syy että Luke Skywalker ei lopettanut ja ladannut uudelleen kun hänen perheensä tapettiin - menetys ja toipuminen ovat dramaattista.</PermadeathModeInfo>
+  <PermadeathModeInfo>Voit tallentaa vain kun poistut pelistä.\n\nKoska RimWorld on tarinageneraattori, edes kaikkien paitsi yhden henkilön menettäminen ei ole pelin loppu - se on osa tarinaa. Peli on suunniteltu mahdollistamaan tappioista palautumisen.\n\nKurjista olosuhteista pelaamalla selviäminen tekee tarinasta tragedian ja menestystarinan. Se on tapa jolla RimWorldia on suunniteltu pelattavan.\n\nSiihen on syynsä ettei Luke Skywalker lopettanut ja ladannut uudelleen kun hänen perheensä tapettiin - menetys ja toipuminen ovat dramaattista.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>Tarinankertojaa ja pelityyliä voi vaihtaa milloin vain</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Tarinankertojaa ja pelityyliä voi vaihtaa milloin vain.</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>TODO</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>Mukautetut pelityyliasetukset</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>TODO</DifficultyReset>
+  <DifficultyReset>Aseta standardiin pelityyliin...</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection>TODO</DifficultyThreatSection>
+  <DifficultyThreatSection>Uhat</DifficultyThreatSection>
   <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label>TODO</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Label>Uhkien skaalaus</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info>TODO</Difficulty_ThreatScale_Info>
+  <Difficulty_ThreatScale_Info>Säädä uhkien kuten hyökkäysten ja infestaatioiden kokoa ja tehtävien vaikeustasoa.</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
-  <Difficulty_AllowBigThreats_Label>TODO</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Label>Suuret uhat</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>TODO</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>Salli suuret uhat kuten hyökkäykset, infestaatiot, ihmisjahtaajalaumat, pakkolaskun tehneet mekanoidialukset ja muut.</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
-  <Difficulty_AllowViolentQuests_Label>TODO</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Label>Tehtäväuhat</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
-  <Difficulty_AllowViolentQuests_Info>TODO</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowViolentQuests_Info>Salli tehtävien tarjota väkivaltaisia uhkia ja haasteita. Jos tämä on pois käytöstä, tehtäviä muutetaan rauhantahtoisiksi.</Difficulty_AllowViolentQuests_Info>
   <!-- EN: Intro threats -->
-  <Difficulty_AllowIntroThreats_Label>TODO</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Label>Aloitusuhat</Difficulty_AllowIntroThreats_Label>
   <!-- EN: Enable the fixed intro threats that appear near game start. -->
-  <Difficulty_AllowIntroThreats_Info>TODO</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_AllowIntroThreats_Info>Ota käyttöön ennalta määrätyt uhat lähellä pelin alkua.</Difficulty_AllowIntroThreats_Info>
   <!-- EN: Predators hunt humans -->
-  <Difficulty_PredatorsHuntHumanlikes_Label>TODO</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Label>Saalistajat jahtaavat ihmisiä</Difficulty_PredatorsHuntHumanlikes_Label>
   <!-- EN: Allow wild predators to hunt humans. -->
-  <Difficulty_PredatorsHuntHumanlikes_Info>TODO</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>Salli villieläinsaalistajien jahdata ihmisiä.</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>TODO</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Äärimmäinen sää</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>TODO</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Salli äärimmäiset sääolosuhteet kuten myrkkylaskeumat, vulkaaniset talvet ja purkausmyrksyt.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
-  <DifficultyEconomySection>TODO</DifficultyEconomySection>
+  <DifficultyEconomySection>Talous</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
-  <Difficulty_TradePriceFactorLoss_Label>TODO</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Label>Vaihtokaupan hintatappio</Difficulty_TradePriceFactorLoss_Label>
   <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
-  <Difficulty_TradePriceFactorLoss_Info>TODO</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_TradePriceFactorLoss_Info>Vaihtokauppaa tehdessä ostohintoja nostetaan ja myyntihintoja lasketaan tämän verran.</Difficulty_TradePriceFactorLoss_Info>
   <!-- EN: Harvest yield -->
-  <Difficulty_CropYieldFactor_Label>TODO</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Label>Sadonkorjuun tuotto</Difficulty_CropYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
-  <Difficulty_CropYieldFactor_Info>TODO</Difficulty_CropYieldFactor_Info>
+  <Difficulty_CropYieldFactor_Info>Säädä kasvien ja viljelmien keräämisestä tuotettujen materiaalien määrää. Tähän kuuluvat kasvien kerääminen ja puiden kaataminen.</Difficulty_CropYieldFactor_Info>
   <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label>TODO</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Label>Louhimisen tuotto</Difficulty_MineYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when mining. -->
-  <Difficulty_MineYieldFactor_Info>TODO</Difficulty_MineYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Info>Säädä louhimisesta tuotettujen materiaalien määrää.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>TODO</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>Teurastuksen tuotto</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>TODO</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>Säädä teurastamisesta tuotettujen materiaalien määrää. Tähän kuuluvat lihan nahan määrä sekä mekanoidien silppuaminen tuotto.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label>TODO</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Label>Tutkimisnopeus</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info>TODO</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Info>Säädä tutkimisen nopeutta.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>TODO</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>Tehtävien palkinnot</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>TODO</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>Säädä tehtävistä saatujen palkintojen arvoa.\n\nHuomaa: Tehtävien palkintojen arvoa säädetään myös automaattiseti uhkaan sopivaksi. Jos säädät tätä asetusta, lisäät ylimääräisen kertoimen.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label>TODO</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Label>Ryöstöretkien saalis</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>TODO</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>Säädä rosvojen kantaman saaliin arvoa.\n\nHuomaa: Ryöstoretkien saaliin arvoa säädetään myös automaattiseti uhkaan sopivaksi. Jos säädät tätä asetusta, lisäät ylimääräisen kertoimen.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>TODO</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>Tykkitornin lataamiskustannukset</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>TODO</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>Säädä tykkitornien lataamisen kustannuksia.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>TODO</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>Scariamädätyksen todennäköisyys</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>TODO</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>Todennäköisyys, että ruumis mädäntyy heti kuoleman jälkeen jos oliolla on scariasairaus.\n\nHuomaa: Oletusasetukset on suunniteltu tasapainottamaan suurempien vaikeusasteiden suuremmat eläinmäärät, jotta kaikki pelaajat saavat saman verran lihaa palkinnoksi.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Vihollinen kuolee mennessään maihin</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Säädä todennäköisyyttä että maihin mennyt vihollinen kuolee heti. Tämä vaikuttaa vankiensaamismahdollisuuksiin ja siten yhdyskunnan kasvunopeuteen.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
-  <DifficultyGeneralSection>TODO</DifficultyGeneralSection>
+  <DifficultyGeneralSection>Yleiset</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label>TODO</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Label>Yhdyskuntalaisten mieliala</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>TODO</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>Pysyvä mielialalisä joka annetaan jokaiselle yhdyskuntalaiselle ja vangille. Yhdyskuntalaisilla on 50% perusmieliala.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label>TODO</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>Ruokamyrkytyksen todennäköisyys</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>TODO</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>Säädä todennäköisyyttä että henkilö saa ruokamyrkytyksen mahdollisesti myrkyllisestä ruoasta.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>TODO</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Eläinten kostotodennäköisyys</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>TODO</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Säädä todennäköisyyttä että villieläimen vahingoittaminen saa sen hyökkäämään.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label>TODO</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Label>Omien tulitus</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>TODO</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>Säädä omien tulituksen todennäköisyyttä.\n\nHuomaa: Tämä asetus vaikuttaa vain suoriin osumiin jotka ovat osumassa kohteeseensa. Se ei estä vahinkoa räjähdyksistä tai ohilaukauksista.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>TODO</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>Yhdyskuntalaisten välitön kuolema</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>TODO</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Info>Säädä todennäköisyyttä että yhdyskuntalainen voi kuolla hyökkäykseen välittömästi. Tulevaa vahinkoa säädetään siten että se saa yhdyskuntalaisen vain maihin.\n\nTämä estää vain jotkin välittömät kuolemat - yhdyskuntalaiset voivat yhä mennä maihin ja vuotaa kuiviin, kuolla tulesta, räjähdyksestä, sairaudesta ja muista.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Infektion todennäköisyys</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Säädä todennäköisyyttä että haavaan tulee infektio.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Tautien yleisyys</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Säädä satunnaisten tautien esiintyvyyttä.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label>TODO</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Label>Hyönteisten lisääntymisnopeus</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>TODO</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>Säädä nopeutta jolla hyönteispesät synnyttävät uusia hyönteisiä. Matalammat arvot tarkoittavat pitempiä aikoja synnytysten välillä.\n\nTämä ei vaikuta siihen tapahtuvatko infestaatiot - vain nopeuteen jolla aktiiviset pesät tuottavat hyönteisiä.</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label>TODO</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Syvien kaivausten infestaatiot</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info>TODO</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Säädä todennäköisyyttä että syvälle kaivaminen synnyttää infestaation.</Difficulty_DeepDrillInfestationChanceFactor_Info>
   <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label>TODO</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Label>Muinaisia uhkia kartalla</Difficulty_PeacefulTemples_Inverted_Label>
   <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info>TODO</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_PeacefulTemples_Inverted_Info>Muinisissa rakennuksissa saattaa olla vaarallisia uhkia.</Difficulty_PeacefulTemples_Inverted_Info>
   <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label>TODO</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Label>Luonnollisia pesiä kartalla</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>TODO</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>Horrostilassa olevia pesiä saattaa esiintyä luonnonluolissa.\n\nTämä asetus koskee vain kartanluontia eikä vaikuta aktiivisiin hyönteisiin jotka saattavat kaivautua esiin pelin aikana.</Difficulty_AllowCaveHives_Info>
 
   <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection>TODO</DifficultyPlayerToolsSection>
+  <DifficultyPlayerToolsSection>Pelaajan työkalut</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>TODO</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>Pelaaja voi rakentaa ansoja</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>TODO</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>Pelaaja voi rakentaa ansoja kuten piikkiansoja ja improvisoituja räjähdeansoja.</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>TODO</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>Pelaaja voi rakentaa tykkitorneja</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>TODO</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>Pelaaja voi rakentaa paikallaan pysyviä tykkitorneja kuten minitykkitorneja, autokanuunatorneja ja uraaniluotitykkitorneja.\n\nVoit silti käyttää valloitettuja tykkitorneja vaikka tämä on pois käytöstä.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>TODO</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>Pelaaja voi rakentaa kranaatinheittimiä</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>TODO</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>Pelaaja voi rakentaa kranaatinheittimiä\n\nVoit silti käyttää valloitettuja kranaatinheittimiä vaikka tämä on pois käytöstä.</Difficulty_AllowMortars_Info>
   
   <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection>TODO</DifficultyAdaptationSection>
+  <DifficultyAdaptationSection>Mukautuvuus</DifficultyAdaptationSection>
   <!-- EN: Damage adaptation growth -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Vahinkoihin mukautuvan uhan kasvunopeus</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Mukautuvuus tarkoittaa että tarinankertoja tekee pelistä haastavamman ajan myötä niin kauan kuin olet menettämättä mitään. Tämä on erikseen varakkuuden ja väkiluvun vaikutuksesta tarinaan.\n\nTämä säätää tällaiseen haasteen kasvua.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Damage adaptation effect -->
-  <Difficulty_AdaptationEffectFactor_Label>TODO</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Label>Vahinkoihin mukautuvan uhan kerroin</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
-  <Difficulty_AdaptationEffectFactor_Info>TODO</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>Mukautuvuus tarkoittaa että tarinankertoja tekee pelistä haastavamman ajan myötä niin kauan kuin olet menettämättä mitään. Tämä on erikseen varakkuuden ja väkiluvun vaikutuksesta tarinaan.\n\nTämä säätää mukautuvuuden vaikutusta uhkiin.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>TODO</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>Varakkuudesta riippumaton edistys</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>TODO</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>Pelaa varakkuudesta riippumattomassa tilassa.\n\nNormaalitilassa tarinankertoja kasvattaa uhkia yhdyskuntalaisten määrän, pelaajan varakkuuden ja muiden tekijöiden perusteella. Varakkuudesta riippumatton tila poistaa varakkuuskertoimen ja korvaa sen ennalta määrätyllä ajasta riippuvalla edistyskäyrällä. Ajan laskeminen aloitetaan yhdyskunnan perustamisesta.\n\nTämä on suositeltu vain heille jotka haluavat joustamattoman taitohaasteen. Varallisuudesta riippumattomassa tilassa voi olla lähes mahdotonta palautua vakavista tappioista ellet luo uutta yhdyskuntaa. On myös mahdollista edistyä liian nopeasti ja kokea peli liian helpoksi.</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
-  <Difficulty_FixedWealthTimeFactor_Label>TODO</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Label>Vuosia maksimiuhkaan</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
-  <Difficulty_FixedWealthTimeFactor_Info>TODO</Difficulty_FixedWealthTimeFactor_Info>
+  <Difficulty_FixedWealthTimeFactor_Info>Näin monen vuoden päästä varakkuudesta riippumaton tila saavuttaa maksimiuhkatasonsa.\n\nHuomaa, että tarinankertoja skaalaa uhkia edelleen yhdyskuntalaisten määrän ja muiden tekijöiden perusteella.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
   <SelectStartingSite>Valitse aloituspaikka</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Valitse satunnainen paikka</SelectRandomSite>
+  <SelectRandomSite>Satunnainen paikka</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Valitse paikka</SelectSite>
   <!-- EN: Please select a site. -->
@@ -492,13 +492,13 @@
   <!-- EN: Special features -->
   <SpecialFeatures>Erityispiirteet</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>Pohjoisrannikko</HasCoast0>
+  <HasCoast0>pohjoisrannikko</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>Itärannikko</HasCoast1>
+  <HasCoast1>itärannikko</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>Etelärannikko</HasCoast2>
+  <HasCoast2>etelärannikko</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>Länsirannikko</HasCoast3>
+  <HasCoast3>länsirannikko</HasCoast3>
   <!-- EN: caves -->
   <HasCaves>luolia</HasCaves>
   <!-- EN: Faction base -->
@@ -534,27 +534,27 @@
   <!-- EN: age {0} -->
   <AgeIndicator>ikä {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>TODO</PawnSummary>
+  <PawnSummary>{PAWN_race}, ikä {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, ikä {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Tausta</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>Kykenemätön toimiin</IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>TODO</Abilities>
+  <Abilities>Erikoiskyvyt</Abilities>
   <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>Taustatarinan {0} aiheuttama</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>Tittelin {0} aiheuttama</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Luonteenpiirteen {0} aiheuttama</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>{0} aiheuttaa tämän</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Pois käytöstä olevat työt:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Tehtävätilanteen {0} aiheuttama</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>Luonteenpiirteet</Traits>
   <!-- EN: Permanent mood effect -->
@@ -600,13 +600,13 @@
   <!-- EN: Back -->
   <Back>Edellinen</Back>
   <!-- EN: Change material... -->
-  <ShowMaterials>TODO</ShowMaterials>
+  <ShowMaterials>Vaihda materiaalia</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Pelattavuus</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
   <ConfirmQuit>Haluatko varmasti lopettaa? Menetät kaiken tallentamattoman edistyksen.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>Jokainen henkilö tarvitsee sopivan nimen.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Jokainen henkilö tarvitsee kelvollisen nimen.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
   <RequiredWorkTypeDisabledForEveryone>Yksikään valituista ihmisistä ei voi tehdä seuraavia toimia</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
@@ -625,8 +625,8 @@
   <GeneratingMapForNewEncounter>Luodaan kartaa yhteenottoa varten</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info -->
-  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <ClickForMoreInfo>Klikkaa saadaksesi lisätietoja</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>Lisätietoja ei ole saatavilla.</NoMoreInfoAvailable>
 
 </LanguageData>

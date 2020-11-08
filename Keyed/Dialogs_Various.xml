@@ -212,7 +212,7 @@
   <!-- EN: Starting season -->
   <MapStartSeason>Aloitusvuodenaika:</MapStartSeason>
   <!-- EN: Auto -->
-  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <MapStartSeasonDefault>Oletus</MapStartSeasonDefault>
   <!-- EN: Notice -->
   <Notice>Huomautus</Notice>
 
