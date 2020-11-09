@@ -6,7 +6,7 @@ Translation report for Finnish
 
 ========== Backstories load errors (0) ==========
 
-========== Missing keyed translations (991) ==========
+========== Missing keyed translations (1116) ==========
 AlertColonistLeftUnburied 'Colonist left unburied' (English file: Alerts.xml:40) (placeholder exists in Alerts.xml:67)
 AlertColonistLeftUnburiedDesc 'A colonist is left unburied.\n\nThis may negatively affect your colonists' mood.' (English file: Alerts.xml:41) (placeholder exists in Alerts.xml:69)
 CaravanIdle 'Caravan idle' (English file: Alerts.xml:92) (placeholder exists in Alerts.xml:155)
@@ -372,7 +372,6 @@ NewPartDiseaseAnimal '{PAWN_labelShort} has developed an illness: {3} in {PAWN_p
 PawnWasFormerlyColonist '{0} was formerly part of your faction.' (English file: Letters.xml:55) (placeholder exists in Letters.xml:92)
 PawnWasFormerlyLodger 'You previously hosted {0}.' (English file: Letters.xml:56) (placeholder exists in Letters.xml:94)
 PawnHasTheseRelationshipsWithColonists '{1_labelShort} has these relationships with your colonists:' (English file: Letters.xml:57) (placeholder exists in Letters.xml:96)
-LetterNewLeader 'The new {0} is {NEWLEADER_nameFull}.' (English file: Letters.xml:84) (placeholder exists in Letters.xml:141)
 MentalStateReason_Mood 'This happened because of poor mood.' (English file: Letters.xml:87) (placeholder exists in Letters.xml:146)
 MentalStateReason_Trait 'This happened because of the trait: {0}.' (English file: Letters.xml:88) (placeholder exists in Letters.xml:148)
 MentalStateReason_Hediff 'This happened because of: {0}.' (English file: Letters.xml:89) (placeholder exists in Letters.xml:150)
@@ -382,12 +381,32 @@ ViewRelatedQuest 'View related quest' (English file: Letters.xml:93) (placeholde
 ViewQuest 'View quest' (English file: Letters.xml:94) (placeholder exists in Letters.xml:159)
 LastEventsInLife 'The last events in {PAWN_definite}'s life' (English file: Letters.xml:95) (placeholder exists in Letters.xml:161)
 LetterInspirationBeginThanksToHighMoodPart 'Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!' (English file: Letters.xml:97) (placeholder exists in Letters.xml:164)
+LetterLabelNoticedRelatedPawns 'Relationship' (English file: Letters.xml:100) (placeholder exists in Letters.xml:168)
+LetterRelatedPawnsRaidEnemy 'There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:' (English file: Letters.xml:101) (placeholder exists in Letters.xml:170)
+LetterRelatedPawnsRaidFriendly 'There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}:' (English file: Letters.xml:102) (placeholder exists in Letters.xml:172)
+LetterRelatedPawnsNeutralGroup 'There are people who have relationships with your {0} or prisoners in the arriving group:' (English file: Letters.xml:103) (placeholder exists in Letters.xml:174)
+LetterRelatedPawnsTradeShip 'The orbital trader is selling people who have relationships with your {0} or prisoners:' (English file: Letters.xml:104) (placeholder exists in Letters.xml:176)
+LetterRelatedPawnsTradingWithSettlement 'The settlement is selling people who have relationships with your {0} or prisoners:' (English file: Letters.xml:105) (placeholder exists in Letters.xml:178)
+LetterRelatedPawnsTradingWithOtherCaravan 'The caravan is selling people who have relationships with your {0} or prisoners:' (English file: Letters.xml:106) (placeholder exists in Letters.xml:180)
 LetterRelatedPawnsGroupGeneric 'There are people who have relationships with your {0} or prisoners in the group:' (English file: Letters.xml:107) (placeholder exists in Letters.xml:182)
 LetterRelatedPawnsInMapWherePlayerLanded 'There are people who have relationships with your {0} or prisoners in the area where your {0} have landed.' (English file: Letters.xml:108) (placeholder exists in Letters.xml:184)
 LetterRelatedPawnsSettlement 'There are people who have relationships with your {0} or prisoners in this settlement:' (English file: Letters.xml:109) (placeholder exists in Letters.xml:186)
 LetterRelatedPawnsSite 'There are people who have relationships with your {0} or prisoners in this area:' (English file: Letters.xml:110) (placeholder exists in Letters.xml:188)
+RelationshipAppendedLetterSuffix 'relationship' (English file: Letters.xml:112) (placeholder exists in Letters.xml:191)
+RelationshipAppendedLetterTextColonist '{PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.' (English file: Letters.xml:113) (placeholder exists in Letters.xml:193)
+RelationshipAppendedLetterTextPrisoner '{PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.' (English file: Letters.xml:114) (placeholder exists in Letters.xml:195)
+LetterLabelAffair 'Affair' (English file: Letters.xml:117) (placeholder exists in Letters.xml:199)
+LetterAffair '{PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}.' (English file: Letters.xml:118) (placeholder exists in Letters.xml:201)
+LetterLabelNewLovers 'New lovers' (English file: Letters.xml:119) (placeholder exists in Letters.xml:203)
+LetterNewLovers '{PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed.' (English file: Letters.xml:120) (placeholder exists in Letters.xml:205)
+LetterNoLongerLovers '{PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship.' (English file: Letters.xml:121) (placeholder exists in Letters.xml:207)
 LetterNoLongerLovers_BackToBirthName '{PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name.' (English file: Letters.xml:122) (placeholder exists in Letters.xml:209)
+LetterLabelBreakup 'Breakup' (English file: Letters.xml:123) (placeholder exists in Letters.xml:211)
+LetterLabelAcceptedProposal 'Marriage is on!' (English file: Letters.xml:124) (placeholder exists in Letters.xml:213)
+LetterLabelRejectedProposal 'Rejected proposal' (English file: Letters.xml:125) (placeholder exists in Letters.xml:215)
+LetterAcceptedProposal 'At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.' (English file: Letters.xml:126) (placeholder exists in Letters.xml:217)
 LetterAcceptedProposal_NameChange '{PAWN_label} will change {PAWN_possessive} last name to {1}.' (English file: Letters.xml:127) (placeholder exists in Letters.xml:219)
+LetterRejectedProposal '{INITIATOR_nameFull} is going to be unhappy about this.' (English file: Letters.xml:128) (placeholder exists in Letters.xml:221)
 LetterLabelRelationsChange_Hostile 'Hostile: {0}' (English file: Letters.xml:131) (placeholder exists in Letters.xml:225)
 LetterLabelRelationsChange_Ally 'Allied: {0}' (English file: Letters.xml:132) (placeholder exists in Letters.xml:227)
 LetterLabelRelationsChange_NeutralFromHostile 'Enemy now neutral: {0}' (English file: Letters.xml:133) (placeholder exists in Letters.xml:229)
@@ -395,9 +414,19 @@ LetterLabelRelationsChange_NeutralFromAlly 'Ally now neutral: {0}' (English file
 LetterLabelSuffixBondedAnimalDied 'bonded' (English file: Letters.xml:138) (placeholder exists in Letters.xml:237)
 LetterPartBondedAnimalDied '{ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood.' (English file: Letters.xml:139) (placeholder exists in Letters.xml:239)
 LetterPartBondedAnimalDiedMulti 'It will affect mood of the following people:\n\n{0}' (English file: Letters.xml:140) (placeholder exists in Letters.xml:241)
+LetterLabelPrisonBreak 'Prison break' (English file: Letters.xml:143) (placeholder exists in Letters.xml:245)
+LetterPrisonBreak 'Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.' (English file: Letters.xml:144) (placeholder exists in Letters.xml:247)
+LetterNewlyAddicted '{PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal.' (English file: Letters.xml:148) (placeholder exists in Letters.xml:253)
+LetterDrugBinge '{2_label} is binging on {1}.' (English file: Letters.xml:152) (placeholder exists in Letters.xml:259)
+LetterAllCaravanColonistsDied 'All members of {0} have died.' (English file: Letters.xml:156) (placeholder exists in Letters.xml:265)
+LetterCaravanEnteredEnemyBase '{0} has arrived at {1} and is ready to begin the attack.' (English file: Letters.xml:164) (placeholder exists in Letters.xml:277)
 LetterLabelTransportPodsLandedInEnemyBase 'Attack begun' (English file: Letters.xml:167) (placeholder exists in Letters.xml:281)
 LetterTransportPodsLandedInEnemyBase 'Your transport pods have arrived at {0}.' (English file: Letters.xml:168) (placeholder exists in Letters.xml:283)
 LetterShuttleLandedInEnemyBase 'The shuttle has arrived at {0}.' (English file: Letters.xml:169) (placeholder exists in Letters.xml:285)
+LetterFactionBaseDefeated 'The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves.' (English file: Letters.xml:173) (placeholder exists in Letters.xml:291)
+LetterFactionBaseDefeated_FactionDestroyed 'Since this was their last settlement, {0} has been defeated.' (English file: Letters.xml:174) (placeholder exists in Letters.xml:293)
+LetterDefeatAllEnemiesQuestCompleted 'You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.' (English file: Letters.xml:178) (placeholder exists in Letters.xml:299)
+LetterFoundPreciousLump 'Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.' (English file: Letters.xml:182) (placeholder exists in Letters.xml:305)
 LetterLabelDeepScannerFoundLump 'Scanned underground' (English file: Letters.xml:185) (placeholder exists in Letters.xml:309)
 LetterDeepScannerFoundLump '{FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner!' (English file: Letters.xml:186) (placeholder exists in Letters.xml:311)
 LetterLabelAmbushInExistingMap 'Ambush' (English file: Letters.xml:189) (placeholder exists in Letters.xml:315)
@@ -444,6 +473,7 @@ LetterDisease_Blocked '{0} blocked {1} on: {2}.' (English file: Letters.xml:255)
 LetterLabelTraitDisease 'Disease: {0}' (English file: Letters.xml:256) (placeholder exists in Letters.xml:423)
 LetterTraitDisease '{PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible.' (English file: Letters.xml:257) (placeholder exists in Letters.xml:425)
 LetterLabelSurgeryFailed 'Surgery failed on {PATIENT_labelShort}' (English file: Letters.xml:260) (placeholder exists in Letters.xml:429)
+MessageMedicalOperationFailureRidiculous '{SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}).' (English file: Letters.xml:263) (placeholder exists in Letters.xml:435)
 MessageMedicalOperationFailureFatal '{SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}.' (English file: Letters.xml:264) (placeholder exists in Letters.xml:437)
 LetterQuestBecameAvailable 'A new quest has become available. It is called '{0}'.' (English file: Letters.xml:267) (placeholder exists in Letters.xml:441)
 LetterQuestRequiresAcceptance 'If you don't accept the quest within {0}, it will expire.' (English file: Letters.xml:268) (placeholder exists in Letters.xml:443)
@@ -580,52 +610,105 @@ OpenLogFileFolder 'Open log file folder' (English file: Menu_Options.xml:30) (pl
 ShowLogFileLocation 'Show log file location' (English file: Menu_Options.xml:31) (placeholder exists in Menu_Options.xml:56)
 MapDragSensitivity 'Map mouse drag sensitivity' (English file: Menu_Options.xml:41) (placeholder exists in Menu_Options.xml:76)
 ResetAndRestartConfirmationDialog 'All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue?' (English file: Menu_Options.xml:59) (placeholder exists in Menu_Options.xml:106)
+MessageRaidersStealing '{0} from {1} have decided to steal what they can and leave.' (English file: Messages.xml:9) (placeholder exists in Messages.xml:14)
 MessageCaravanDetectedRaidArrived '{0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}.' (English file: Messages.xml:11) (placeholder exists in Messages.xml:17)
 MessageDeterioratedAway '{0} has deteriorated away in storage.' (English file: Messages.xml:25) (placeholder exists in Messages.xml:41)
 MessageNeedRoyalTitleToCallWithShip 'Caller must have the title of {0_label} or higher.' (English file: Messages.xml:32) (placeholder exists in Messages.xml:52)
 MessageConditionCauserDespawned '{0} has been destroyed.' (English file: Messages.xml:34) (placeholder exists in Messages.xml:55)
-MessageRecruitJoinOfferAccepted '{RECRUITEE} has joined your colony.' (English file: Messages.xml:51) (placeholder exists in Messages.xml:83)
 MessageMustDesignateDeconstructibleMechCluster 'You must defeat a mech cluster before you can deconstruct it.' (English file: Messages.xml:66) (placeholder exists in Messages.xml:110)
 MessageMustDesignateSmoothableSurface 'Must designate rough stone surfaces.' (English file: Messages.xml:67) (placeholder exists in Messages.xml:112)
 MessageMustDesignateForbiddable 'Must designate unforbidden items.' (English file: Messages.xml:73) (placeholder exists in Messages.xml:124)
 MessageMustDesignateUnforbiddable 'Must designate forbidden items.' (English file: Messages.xml:74) (placeholder exists in Messages.xml:126)
-PawnDied '{1_labelShort} has died.' (English file: Messages.xml:83) (placeholder exists in Messages.xml:141)
+MessageTooLowMedCare 'Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}".' (English file: Messages.xml:80) (placeholder exists in Messages.xml:136)
 MessagePsylinkNoSensitivity '{PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity.' (English file: Messages.xml:95) (placeholder exists in Messages.xml:160)
 MessageLostImplantLevelFromHediff '{PAWN_labelShort} has lost a {1} implant level due to {2}.' (English file: Messages.xml:96) (placeholder exists in Messages.xml:162)
 MessageReceivedBrainDamageFromHediff '{PAWN_labelShort} has suffered {1} points of brain damage due to {2}.' (English file: Messages.xml:97) (placeholder exists in Messages.xml:164)
 MessageWentOverPsychicEntropyLimit '{PAWN_labelShort} has exceeded the normal limit of neural heat.' (English file: Messages.xml:98) (placeholder exists in Messages.xml:166)
+MessageEatenByPredator '{EATEN_labelShort} has been eaten by {PREDATOR}.' (English file: Messages.xml:104) (placeholder exists in Messages.xml:175)
+MessageAttackedByPredator '{PREY_labelShort} is being attacked by {PREDATOR}!' (English file: Messages.xml:105) (placeholder exists in Messages.xml:177)
+MessageCantSelectDeadPawn '{1_labelShort} is dead.' (English file: Messages.xml:111) (placeholder exists in Messages.xml:186)
+MessageCantSelectOffMapPawn '{1_labelShort} is off the map.' (English file: Messages.xml:112) (placeholder exists in Messages.xml:188)
+MessageSocialFight '{PAWN1_labelShort} started a social fight with {PAWN2_labelShort}.' (English file: Messages.xml:114) (placeholder exists in Messages.xml:191)
 MessageNewMarriageCeremony 'Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage.' (English file: Messages.xml:116) (placeholder exists in Messages.xml:194)
+MessageMarriageCeremonyStarts '{PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony!' (English file: Messages.xml:117) (placeholder exists in Messages.xml:196)
+MessageMarriageCeremonyCalledOff 'The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off.' (English file: Messages.xml:118) (placeholder exists in Messages.xml:198)
+MessageNewlyMarried '{PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion.' (English file: Messages.xml:119) (placeholder exists in Messages.xml:200)
+MessageMarriageCeremonyAfterPartyFinished 'The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished.' (English file: Messages.xml:120) (placeholder exists in Messages.xml:202)
+MessageNewBondRelation '{HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond.' (English file: Messages.xml:122) (placeholder exists in Messages.xml:205)
+MessageNewBondRelationNewName '{HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}.' (English file: Messages.xml:123) (placeholder exists in Messages.xml:207)
 MessageBondedAnimalMentalBreak '{ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death.' (English file: Messages.xml:125) (placeholder exists in Messages.xml:210)
 MessageNamedBondedAnimalMentalBreak '{ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death.' (English file: Messages.xml:126) (placeholder exists in Messages.xml:212)
+MessageBondedAnimalsMentalBreak '{0} animals have a mental break because of {HUMAN_labelShort}'s death.' (English file: Messages.xml:127) (placeholder exists in Messages.xml:214)
+MessageSuccessfullyRemovedHediff '{SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}.' (English file: Messages.xml:129) (placeholder exists in Messages.xml:217)
+MessageShipChunkDrop 'Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources.' (English file: Messages.xml:131) (placeholder exists in Messages.xml:220)
+MessageCannotSellItemsReason 'Some items cannot be traded because of: ' (English file: Messages.xml:133) (placeholder exists in Messages.xml:223)
 MessageConstructionFailed '{WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted.' (English file: Messages.xml:135) (placeholder exists in Messages.xml:226)
+MessageScreenshotSavedAs 'Screenshot saved as: {0}' (English file: Messages.xml:137) (placeholder exists in Messages.xml:229)
+MessageNoLongerSocialFighting '{PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting.' (English file: Messages.xml:139) (placeholder exists in Messages.xml:232)
+MessageNoLongerBingingOnDrug '{2_labelShort} is no longer binging on {1}.' (English file: Messages.xml:141) (placeholder exists in Messages.xml:235)
 MessageNoLongerOnTargetedInsultingSpree '{PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}.' (English file: Messages.xml:143) (placeholder exists in Messages.xml:238)
+MessageRottedAwayInStorage '{1_label} has rotted away in storage.' (English file: Messages.xml:145) (placeholder exists in Messages.xml:241)
+MessageFoodPoisoning '{PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}.' (English file: Messages.xml:147) (placeholder exists in Messages.xml:244)
 MessagePawnLostWhileFormingCaravan '{0} has been removed from the caravan.' (English file: Messages.xml:149) (placeholder exists in Messages.xml:247)
 MessagePawnLostWhileFormingCaravan_AllLost 'The caravan formation process has been terminated.' (English file: Messages.xml:150) (placeholder exists in Messages.xml:249)
+MessageCaravanFormationPaused 'The caravan formation process will continue when everyone recovers from their mental break.' (English file: Messages.xml:151) (placeholder exists in Messages.xml:251)
+MessageCaravanFormationUnpaused 'Your colonists will now continue forming a caravan.' (English file: Messages.xml:152) (placeholder exists in Messages.xml:253)
 MessageCaravanMemberHasExtremeMentalBreak 'One of the caravan members has had a mental break.' (English file: Messages.xml:154) (placeholder exists in Messages.xml:256)
+MessagePlantDiedOfCold '{0} has died because of cold.' (English file: Messages.xml:158) (placeholder exists in Messages.xml:262)
 MessagePlantDiedOfRot_LeftUnharvested '{0} has died from rotting due to being left unharvested.' (English file: Messages.xml:159) (placeholder exists in Messages.xml:264)
 MessagePlantDiedOfRot_ExposedToLight '{0} has died due to being exposed to light.' (English file: Messages.xml:160) (placeholder exists in Messages.xml:266)
+MessagePlantDiedOfRot '{0} has died from rotting.' (English file: Messages.xml:161) (placeholder exists in Messages.xml:268)
 MessagePlantDiedOfPoison '{0} has died because of poison.' (English file: Messages.xml:162) (placeholder exists in Messages.xml:270)
 MessagePlantDiedOfBlight '{1_label} has died because of blight.' (English file: Messages.xml:163) (placeholder exists in Messages.xml:272)
+MessagePawnBeingBurned '{1_labelShort} is being burned by superheated air!' (English file: Messages.xml:165) (placeholder exists in Messages.xml:275)
+MessageAccidentalOverdose '{INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}!' (English file: Messages.xml:167) (placeholder exists in Messages.xml:278)
+MessageCaravanArrivedAtDestination '{0} has arrived at its destination.' (English file: Messages.xml:169) (placeholder exists in Messages.xml:281)
+MessagePawnLeftMapAndCreatedCaravan '{1_labelShort} has left the area and formed a caravan.' (English file: Messages.xml:171) (placeholder exists in Messages.xml:284)
 MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin 'Your animals are moving to join it.' (English file: Messages.xml:172) (placeholder exists in Messages.xml:286)
+MessageSettledInExistingMap 'You have successfully settled in a new area.' (English file: Messages.xml:174) (placeholder exists in Messages.xml:289)
 MessagePermanentWoundHealed '{PAWN_labelShort}'s {2} has healed. Cause: {0}' (English file: Messages.xml:176) (placeholder exists in Messages.xml:292)
 MessageRescueeDidntJoin '[PAWN_nameDef] has recovered and decided to leave.' (English file: Messages.xml:178) (placeholder exists in Messages.xml:295)
+MessageTransporterUnreachable 'Some transport pods are unreachable.' (English file: Messages.xml:180) (placeholder exists in Messages.xml:298)
+MessageTransportersNotAdjacent 'All pod launchers connected to the selected transport pods must be adjacent.' (English file: Messages.xml:181) (placeholder exists in Messages.xml:300)
+MessageTransportersLoadCanceled_TransporterDestroyed 'The loading process has been canceled because one of the transport pods has been destroyed.' (English file: Messages.xml:183) (placeholder exists in Messages.xml:303)
 MessageTransporterSingleLoadCanceled_TransporterDestroyed 'The loading process has been canceled because the shuttle has been destroyed.' (English file: Messages.xml:184) (placeholder exists in Messages.xml:305)
+MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned 'The loading process has been canceled because one of the pod launchers has been destroyed.' (English file: Messages.xml:185) (placeholder exists in Messages.xml:307)
 MessageTransportersLoadingProcessStarted 'Assigned items and people will now be loaded into the transport pods.' (English file: Messages.xml:187) (placeholder exists in Messages.xml:310)
 MessageTransporterSingleLoadingProcessStarted 'Assigned items and people will now be loaded into the shuttle.' (English file: Messages.xml:188) (placeholder exists in Messages.xml:312)
+MessageTransportPodsArrived 'Your transport pods have arrived.' (English file: Messages.xml:190) (placeholder exists in Messages.xml:315)
+MessageTransportPodsArrivedAndLost 'Your transport pods have arrived, but since there were no colonists inside, the contents are lost.' (English file: Messages.xml:191) (placeholder exists in Messages.xml:317)
+MessageTransportPodsArrivedAndAddedToCaravan 'Your transport pods have arrived. The contents have been added to {0}.' (English file: Messages.xml:192) (placeholder exists in Messages.xml:319)
 MessageFinishedLoadingTransporters 'Transport pod loading complete. Launch when ready.' (English file: Messages.xml:194) (placeholder exists in Messages.xml:322)
 MessageFinishedLoadingTransporterSingle 'Shuttle is loaded with required cargo and can launch when ready.' (English file: Messages.xml:195) (placeholder exists in Messages.xml:324)
 MessageCantLoadMoreIntoTransporters 'Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}).' (English file: Messages.xml:197) (placeholder exists in Messages.xml:327)
+MessageTransportPodsDestinationIsInvalid 'Selected destination is invalid.' (English file: Messages.xml:199) (placeholder exists in Messages.xml:330)
+MessageTransportPodsDestinationIsTooFar 'Each pod launcher would need at least {0}x chemfuel to send transport pods that far.' (English file: Messages.xml:200) (placeholder exists in Messages.xml:332)
+MessageReformedCaravan 'The caravan has been reformed.' (English file: Messages.xml:202) (placeholder exists in Messages.xml:335)
 MessageCantBanishLastColonist 'You can't banish the last colonist.' (English file: Messages.xml:204) (placeholder exists in Messages.xml:338)
 MessageCantEquipCustom 'Cannot equip: {0}.' (English file: Messages.xml:206) (placeholder exists in Messages.xml:341)
+MessageCantEquipIncapableOfViolence 'Cannot equip: {1_labelShort} is incapable of violence.' (English file: Messages.xml:207) (placeholder exists in Messages.xml:343)
 MessageCantEquipIncapableOfManipulation 'Cannot equip: Incapable.' (English file: Messages.xml:208) (placeholder exists in Messages.xml:345)
 MessageCantWearApparelMissingBodyParts 'Cannot wear: {1_labelShort} is missing required body parts.' (English file: Messages.xml:209) (placeholder exists in Messages.xml:347)
 MessageCantUnequipLockedApparel 'This person refuses to remove this.' (English file: Messages.xml:210) (placeholder exists in Messages.xml:349)
 MessageWouldReplaceLockedApparel 'Cannot wear: This would replace apparel {1_labelShort} refues to remove.' (English file: Messages.xml:211) (placeholder exists in Messages.xml:351)
+MessageSlaughteringBondedAnimal 'Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy.' (English file: Messages.xml:213) (placeholder exists in Messages.xml:354)
 MessageCaravanRanOutOfFood '{0} has run out of food ({PAWN_label}).' (English file: Messages.xml:215) (placeholder exists in Messages.xml:357)
 MessageCaravanDeathCorpseAddedToInventory '{PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab.' (English file: Messages.xml:216) (placeholder exists in Messages.xml:359)
+MessageSelectOwnBaseToFormCaravan 'To form a caravan, select your own colony or a site where you have people.' (English file: Messages.xml:218) (placeholder exists in Messages.xml:362)
+MessageYouHaveToReformCaravanNow 'You have to reform the caravan now. Everyone left behind will be abandoned.' (English file: Messages.xml:222) (placeholder exists in Messages.xml:368)
+MessageDefendersAttacking '{0} from {1} are attacking your {2}.' (English file: Messages.xml:224) (placeholder exists in Messages.xml:371)
 MessageMechanoidsAssembled 'Mechanoids have been assembled and will defend their cluster.' (English file: Messages.xml:225) (placeholder exists in Messages.xml:373)
 MessageMechanoidsLeftToAssemble 'Remaining mechanoids to assemble' (English file: Messages.xml:226) (placeholder exists in Messages.xml:375)
 MessageMechanoidsReinforcementsDrop 'Mech drop beacon has summoned reinforcements in drop pods nearby.' (English file: Messages.xml:227) (placeholder exists in Messages.xml:377)
+MessageSelfTendUnsatisfied 'To self-tend, {1_labelShort} must also be assigned to Doctor work.' (English file: Messages.xml:229) (placeholder exists in Messages.xml:380)
+MessageCannotSelfTendEver '{1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend.' (English file: Messages.xml:230) (placeholder exists in Messages.xml:382)
+MessageCantAddWaypointBecauseImpassable 'This tile is impassable.' (English file: Messages.xml:232) (placeholder exists in Messages.xml:385)
+MessageCantAddWaypointBecauseUnreachable 'It's not possible to reach this tile from the last waypoint.' (English file: Messages.xml:233) (placeholder exists in Messages.xml:387)
+MessageCantAddWaypointBecauseLimit 'You can't add more than {0} waypoints.' (English file: Messages.xml:234) (placeholder exists in Messages.xml:389)
+MessageCantRemoveWaypointBecauseFirst 'You can't remove this waypoint.' (English file: Messages.xml:235) (placeholder exists in Messages.xml:391)
+MessageCantDoExecutionBecauseNoWardenCapableOfViolence 'None of your wardens is capable of violence. The execution won't be performed.' (English file: Messages.xml:237) (placeholder exists in Messages.xml:394)
+MessageSiteCountdownBecauseNoMoreEnemies 'You have defeated all enemies. In {0}, the caravan will automatically be reformed.' (English file: Messages.xml:239) (placeholder exists in Messages.xml:397)
+MessageSiteCountdownBecauseNoEnemiesInitially 'In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.' (English file: Messages.xml:240) (placeholder exists in Messages.xml:399)
 MessageCantBanishDownedPawn 'Cannot banish {1_labelShort} since {1_pronoun} cannot walk.' (English file: Messages.xml:242) (placeholder exists in Messages.xml:402)
 MessageSleepingPawnsWokenUp '{0} have woken up.' (English file: Messages.xml:244) (placeholder exists in Messages.xml:405)
 MessageMechClusterDefeated 'Mech cluster buildings have been defeated.' (English file: Messages.xml:245) (placeholder exists in Messages.xml:407)
@@ -776,13 +859,19 @@ CaravanPawnsDowned '{0} downed' (English file: Misc_Gameplay.xml:105) (placehold
 BeingCarriedDueToIllness 'Being carried due to illness' (English file: Misc_Gameplay.xml:108) (placeholder exists in Misc_Gameplay.xml:212)
 UsingBedrollsDueToIllness 'Using bedrolls due to illness' (English file: Misc_Gameplay.xml:109) (placeholder exists in Misc_Gameplay.xml:214)
 Visibility 'Visibility' (English file: Misc_Gameplay.xml:111) (placeholder exists in Misc_Gameplay.xml:218)
+DrugEffectMultiplier '{0} effect multiplier: {1}' (English file: Misc_Gameplay.xml:115) (placeholder exists in Misc_Gameplay.xml:226)
 CaravanOfferingGifts 'Offering gifts to {0}.' (English file: Misc_Gameplay.xml:119) (placeholder exists in Misc_Gameplay.xml:234)
 CaravanTrading 'Trading with {0}' (English file: Misc_Gameplay.xml:120) (placeholder exists in Misc_Gameplay.xml:236)
+WasWornByCorpse 'Tainted from being worn by a corpse.' (English file: Misc_Gameplay.xml:121) (placeholder exists in Misc_Gameplay.xml:238)
+WornByCorpseChar 'T' (English file: Misc_Gameplay.xml:122) (placeholder exists in Misc_Gameplay.xml:240)
 DeterioratingUnroofed 'unroofed' (English file: Misc_Gameplay.xml:123) (placeholder exists in Misc_Gameplay.xml:242)
 DeterioratingOutdoors 'outdoors' (English file: Misc_Gameplay.xml:124) (placeholder exists in Misc_Gameplay.xml:244)
 DeterioratingBecauseOf 'Deteriorating because of' (English file: Misc_Gameplay.xml:125) (placeholder exists in Misc_Gameplay.xml:246)
 CaravanDetectedRaidCountdown '{0} until enemies arrive' (English file: Misc_Gameplay.xml:127) (placeholder exists in Misc_Gameplay.xml:250)
 CaravanDetectedRaidCountdownTip 'Enemy reinforcements will arrive in this area in {0}.' (English file: Misc_Gameplay.xml:128) (placeholder exists in Misc_Gameplay.xml:252)
+WornBy 'worn by {1_labelShort}' (English file: Misc_Gameplay.xml:145) (placeholder exists in Misc_Gameplay.xml:286)
+EquippedBy 'equipped by {1_labelShort}' (English file: Misc_Gameplay.xml:146) (placeholder exists in Misc_Gameplay.xml:288)
+QuestTargetDestroyInspectString '{0} wants this destroyed.\n    Reward: {1} ({2})' (English file: Misc_Gameplay.xml:147) (placeholder exists in Misc_Gameplay.xml:290)
 QuestTargetDestroyInspectStringShort '{0} wants this destroyed.' (English file: Misc_Gameplay.xml:148) (placeholder exists in Misc_Gameplay.xml:292)
 ShuttleDelayInspectString 'Departing on shuttle in {0}' (English file: Misc_Gameplay.xml:149) (placeholder exists in Misc_Gameplay.xml:294)
 ShuttleLeaveDelayInspectString 'Departing in {0}' (English file: Misc_Gameplay.xml:150) (placeholder exists in Misc_Gameplay.xml:296)
@@ -881,12 +970,17 @@ ReportHaulingToGrave 'burying {THING_label} in {DESTINATION}.' (English file: Mi
 ReportHaulingUnknown 'hauling.' (English file: Misc_Gameplay.xml:314) (placeholder exists in Misc_Gameplay.xml:606)
 WatchingAurora 'watching the aurora.' (English file: Misc_Gameplay.xml:322) (placeholder exists in Misc_Gameplay.xml:622)
 UsingVerbNoTarget 'using {0}.' (English file: Misc_Gameplay.xml:324) (placeholder exists in Misc_Gameplay.xml:626)
+ReportCowering 'cowering.' (English file: Misc_Gameplay.xml:326) (placeholder exists in Misc_Gameplay.xml:630)
+ReportStanding 'standing.' (English file: Misc_Gameplay.xml:327) (placeholder exists in Misc_Gameplay.xml:632)
+ReportExtinguishingFire 'extinguishing fire.' (English file: Misc_Gameplay.xml:328) (placeholder exists in Misc_Gameplay.xml:634)
+ReportExtinguishingFireOn 'extinguishing fire on {TARGET_label}.' (English file: Misc_Gameplay.xml:329) (placeholder exists in Misc_Gameplay.xml:636)
 ReportDiggingUpCorpse 'digging up corpse.' (English file: Misc_Gameplay.xml:330) (placeholder exists in Misc_Gameplay.xml:638)
+LordReportAttendingMarriageCeremony 'Attending marriage ceremony' (English file: Misc_Gameplay.xml:333) (placeholder exists in Misc_Gameplay.xml:642)
+LordReportAttendingParty 'Attending party' (English file: Misc_Gameplay.xml:334) (placeholder exists in Misc_Gameplay.xml:644)
 LordReportAttendingConcert 'Attending concert' (English file: Misc_Gameplay.xml:335) (placeholder exists in Misc_Gameplay.xml:646)
 LordReportHoldingConcert 'Holding a concert' (English file: Misc_Gameplay.xml:336) (placeholder exists in Misc_Gameplay.xml:648)
 LordReportGivingSpeech 'Giving a speech' (English file: Misc_Gameplay.xml:337) (placeholder exists in Misc_Gameplay.xml:650)
 LordReportListeningSpeech 'Listening to {ORGANIZER_labelShort}'s speech' (English file: Misc_Gameplay.xml:338) (placeholder exists in Misc_Gameplay.xml:652)
-RecipeMakeDescription 'Make {0}.' (English file: Misc_Gameplay.xml:356) (placeholder exists in Misc_Gameplay.xml:684)
 ThoughtNullifiedBy 'thought disabled by' (English file: Misc_Gameplay.xml:365) (placeholder exists in Misc_Gameplay.xml:700)
 PawnTitleDescWrap '{0} in {1}' (English file: Misc_Gameplay.xml:375) (placeholder exists in Misc_Gameplay.xml:718)
 PawnMainDescUnderFactionedWrap '{0} under {1}' (English file: Misc_Gameplay.xml:376) (placeholder exists in Misc_Gameplay.xml:720)
@@ -896,6 +990,8 @@ ExtraFactionDesc 'The faction {PAWN_labelShort} originally belongs to.' (English
 Queued 'Queued' (English file: Misc_Gameplay.xml:392) (placeholder exists in Misc_Gameplay.xml:752)
 State 'State' (English file: Misc_Gameplay.xml:393) (placeholder exists in Misc_Gameplay.xml:754)
 StunLower 'stun' (English file: Misc_Gameplay.xml:394) (placeholder exists in Misc_Gameplay.xml:756)
+HostilityReponseTip 'Change how this person will react to nearby enemies when not drafted.' (English file: Misc_Gameplay.xml:401) (placeholder exists in Misc_Gameplay.xml:766)
+HostilityResponseCurrentMode 'Current mode' (English file: Misc_Gameplay.xml:402) (placeholder exists in Misc_Gameplay.xml:768)
 SelfDischarging 'Self-discharging' (English file: Misc_Gameplay.xml:414) (placeholder exists in Misc_Gameplay.xml:788)
 ManhunterPerHit 'Manhunter chance per hit' (English file: Misc_Gameplay.xml:440) (placeholder exists in Misc_Gameplay.xml:832)
 Blighted 'Blighted' (English file: Misc_Gameplay.xml:460) (placeholder exists in Misc_Gameplay.xml:868)
@@ -926,12 +1022,38 @@ SkillNeurotrainerUseLabel 'Use skilltrainer to learn {0}' (English file: Misc_Ga
 SkillNeurotrainerDescription 'A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed.' (English file: Misc_Gameplay.xml:555) (placeholder exists in Misc_Gameplay.xml:1032)
 GameOverPlanetkillerImpact 'At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.' (English file: Misc_Gameplay.xml:586) (placeholder exists in Misc_Gameplay.xml:1082)
 GameOverInMemoryOf 'In memory of:\n' (English file: Misc_Gameplay.xml:591) (placeholder exists in Misc_Gameplay.xml:1092)
+DiseaseGrowthModeChanged_Growing '{PAWN_labelShort}'s {1} is now growing.' (English file: Misc_Gameplay.xml:602) (placeholder exists in Misc_Gameplay.xml:1108)
+DiseaseGrowthModeChanged_Stable '{PAWN_labelShort}'s {1} is now stable.' (English file: Misc_Gameplay.xml:603) (placeholder exists in Misc_Gameplay.xml:1110)
+DiseaseGrowthModeChanged_Remission '{PAWN_labelShort}'s {1} is now in remission.' (English file: Misc_Gameplay.xml:604) (placeholder exists in Misc_Gameplay.xml:1112)
+MarriageSpotUsable 'Usable now.' (English file: Misc_Gameplay.xml:607) (placeholder exists in Misc_Gameplay.xml:1116)
+MarriageSpotNotUsable 'Not usable: {0}.' (English file: Misc_Gameplay.xml:608) (placeholder exists in Misc_Gameplay.xml:1118)
+MarriageSpotNotStandable 'blocked' (English file: Misc_Gameplay.xml:609) (placeholder exists in Misc_Gameplay.xml:1120)
+MarriageSpotDangerous 'too dangerous for {1_labelShort}' (English file: Misc_Gameplay.xml:610) (placeholder exists in Misc_Gameplay.xml:1122)
+MarriageSpotForbidden 'forbidden for {1_labelShort}' (English file: Misc_Gameplay.xml:611) (placeholder exists in Misc_Gameplay.xml:1124)
+MarriageSpotReserved 'reserved' (English file: Misc_Gameplay.xml:612) (placeholder exists in Misc_Gameplay.xml:1126)
+MarriageSpotUnreachable 'unreachable for {1_labelShort}' (English file: Misc_Gameplay.xml:613) (placeholder exists in Misc_Gameplay.xml:1128)
+MarriageSpotInPrisonCell 'in prison cell' (English file: Misc_Gameplay.xml:614) (placeholder exists in Misc_Gameplay.xml:1130)
+NotEnjoyableOutsideTemperature 'uncomfortable temperature' (English file: Misc_Gameplay.xml:615) (placeholder exists in Misc_Gameplay.xml:1132)
 ActivityIconFormingCaravan 'Forming a caravan' (English file: Misc_Gameplay.xml:624) (placeholder exists in Misc_Gameplay.xml:1148)
+DueForMaintenance 'Due for maintenance.' (English file: Misc_Gameplay.xml:627) (placeholder exists in Misc_Gameplay.xml:1152)
+DeterioratingDueToLackOfMaintenance 'Deteriorating due to lack of maintenance.' (English file: Misc_Gameplay.xml:628) (placeholder exists in Misc_Gameplay.xml:1154)
+ProgressToNextLump 'Progress to next lump' (English file: Misc_Gameplay.xml:631) (placeholder exists in Misc_Gameplay.xml:1158)
+ResourceBelow 'Resource below' (English file: Misc_Gameplay.xml:632) (placeholder exists in Misc_Gameplay.xml:1160)
 ProgressToNextPortion 'Progress to next portion' (English file: Misc_Gameplay.xml:633) (placeholder exists in Misc_Gameplay.xml:1162)
 DeepDrillNoResources 'No resources below.' (English file: Misc_Gameplay.xml:634) (placeholder exists in Misc_Gameplay.xml:1164)
 DeepDrillExhausted 'Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}.' (English file: Misc_Gameplay.xml:635) (placeholder exists in Misc_Gameplay.xml:1166)
 DeepDrillExhaustedNoFallback 'Deep drill resources exhausted.' (English file: Misc_Gameplay.xml:636) (placeholder exists in Misc_Gameplay.xml:1168)
 ChargesRemaining 'Remaining charges' (English file: Misc_Gameplay.xml:639) (placeholder exists in Misc_Gameplay.xml:1172)
+CompassTip 'Shows the north direction. Click to rotate the camera so the north pole is up.' (English file: Misc_Gameplay.xml:648) (placeholder exists in Misc_Gameplay.xml:1186)
+RoutePlannerButtonTip 'Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.' (English file: Misc_Gameplay.xml:651) (placeholder exists in Misc_Gameplay.xml:1190)
+RoutePlannerAddTwoOrMoreWaypoints 'Add two or more waypoints.' (English file: Misc_Gameplay.xml:652) (placeholder exists in Misc_Gameplay.xml:1192)
+RoutePlannerAddOneOrMoreWaypoints 'Add one or more waypoints.' (English file: Misc_Gameplay.xml:653) (placeholder exists in Misc_Gameplay.xml:1194)
+RoutePlannerEstTimeToFinalDest 'Total route time: {0}' (English file: Misc_Gameplay.xml:654) (placeholder exists in Misc_Gameplay.xml:1196)
+RoutePlannerUsingAverageTicksPerMoveWarning 'Planning mode uses the default caravan speed. Your speed may vary.' (English file: Misc_Gameplay.xml:655) (placeholder exists in Misc_Gameplay.xml:1198)
+RoutePlannerUsingTicksPerMoveOfCaravan 'Calculating for: {0}' (English file: Misc_Gameplay.xml:656) (placeholder exists in Misc_Gameplay.xml:1200)
+RoutePlannerPressRMBToAddAndRemoveWaypoints 'Right mouse button: Add/remove waypoints.' (English file: Misc_Gameplay.xml:657) (placeholder exists in Misc_Gameplay.xml:1202)
+RoutePlannerPressEscapeToExit 'ESC: Exit planning mode.' (English file: Misc_Gameplay.xml:658) (placeholder exists in Misc_Gameplay.xml:1204)
+RoutePlannerPressEscapeToReturnToCaravanFormationDialog 'ESC: Return to the caravan formation dialog.' (English file: Misc_Gameplay.xml:659) (placeholder exists in Misc_Gameplay.xml:1206)
 EstimatedTimeToWaypoint 'Est. travel time: {0}' (English file: Misc_Gameplay.xml:660) (placeholder exists in Misc_Gameplay.xml:1208)
 EstimatedTimeToWaypointFromPrevious 'Est. travel time (from previous waypoint): {0}' (English file: Misc_Gameplay.xml:661) (placeholder exists in Misc_Gameplay.xml:1210)
 EstimatedTimeToTile 'Est. travel time: {0}' (English file: Misc_Gameplay.xml:662) (placeholder exists in Misc_Gameplay.xml:1212)
@@ -986,7 +1108,10 @@ InterceptsProjectiles_GroundProjectiles 'ground projectiles' (English file: Misc
 InterceptsProjectiles_AerialProjectiles 'aerial projectiles' (English file: Misc_Gameplay.xml:735) (placeholder exists in Misc_Gameplay.xml:1338)
 AffectedGender 'Affected gender' (English file: Misc_Gameplay.xml:738) (placeholder exists in Misc_Gameplay.xml:1342)
 CausedByHediff 'Caused by: {0}' (English file: Misc_Gameplay.xml:741) (placeholder exists in Misc_Gameplay.xml:1346)
+ScenPart_PlayerFaction 'Your faction will be a {0}.' (English file: ScenParts.xml:6) (placeholder exists in ScenParts.xml:7)
+ScenPart_StartWithPawns 'Start with {0} people, chosen from {1}.' (English file: ScenParts.xml:8) (placeholder exists in ScenParts.xml:10)
 ScenPart_StartWithPawns_OutOf 'chosen from' (English file: ScenParts.xml:9) (placeholder exists in ScenParts.xml:12)
+ScenPart_StartingResearchFinished 'Start with research: {0}' (English file: ScenParts.xml:12) (placeholder exists in ScenParts.xml:17)
 ScenPart_PawnsAreNaked '{0} start naked.' (English file: ScenParts.xml:27) (placeholder exists in ScenParts.xml:41)
 BanishTip 'Banish' (English file: WITabs.xml:17) (placeholder exists in WITabs.xml:28)
 BanishTipWillDie '{1_labelShort} will most likely die.' (English file: WITabs.xml:21) (placeholder exists in WITabs.xml:36)
@@ -8517,329 +8642,14 @@ YouthSoldier99.desc missing
 
 ========== Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0) =========
 
-========== Argument count mismatches (may or may not be incorrect) (106) ==========
-SkillRequiredToBuild (Dialogs_Various.xml:462)
-  - '{0} skill required'
-  - 'Vaadittava rakennustaito [0}'
-PawnCantReachTransporters (Dialogs_Various.xml:782)
-  - '{1_labelShort} can't reach the transport pods.'
-  - '{0} ei pääse kuljetuskapseleiden luo.'
-ConfirmSendNotCompletelyLoadedPods (Dialogs_Various.xml:972)
-  - 'Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway?'
-  - 'Kapseliryhmä ei ole täysin lastattu. {0} puuttuu. Laukaise silti?'
-FactionGreetingWarm (Dialog_Trees.xml:11)
-  - '{0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you.'
-  - '{0} tervehtii henkilöä {NEGOTIATOR_labelShort} lämpimästi ja kysyy miten yhdyskunnan asiat ovat.'
-SkillTooLowForConstruction (FloatMenu.xml:100)
-  - '{0} skill too low'
-  - '{} taitotaso liian matala'
-IsIncapped (GameplayCommands.xml:45)
-  - '{1_labelShort} cannot walk.'
-  - '{0} on lamaantunut.'
-LetterLabelAnimalInsanitySingle (Incidents.xml:5)
-  - 'Mad {ANIMAL_labelShort}'
-  - 'Hullu eläin'
-LetterLabelAnimalInsanityMultiple (Incidents.xml:9)
-  - 'Mad {0}'
-  - 'Hulluja eläimiä!'
-SingleVisitorArrives (Incidents.xml:76)
-  - '{PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4}'
-  - 'Eräs {PAWN_titleIndef} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\n{PAWN_pronoun} nimensä on {PAWN_nameFull}.'
-ShortCircuitRain (Letters.xml:47)
-  - 'A {1_label} has short-circuited in the rain and started a fire.'
-  - '{0} on mennyt oikosulkuun sateessa ja on sytyttänyt tulipalon.'
-NewPartDisease (Letters.xml:85)
-  - '{PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible.'
-  - '{0} sai {1}-tartunnan. Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.'
-AnimalManhunterFromDamage (Letters.xml:109)
-  - '{1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep.'
-  - '{0} hyökkää tultuaan vahingoitetuksi!'
-AnimalManhunterFromTaming (Letters.xml:111)
-  - '{1_indefinite} is attacking due to a botched taming attempt!'
-  - '{0} hyökkää kesytysyrityksen takia!'
-AnimalManhunterOthers (Letters.xml:113)
-  - 'Other {1_kindBasePlural} nearby have also become enraged!'
-  - '{0}lauma on myös tullut raivostuneeksi!'
-LetterFriendlyTrapSprungLabel (Letters.xml:116)
-  - '{1_labelShort} hit trap'
-  - '{0} osui ansaan'
-LetterFriendlyTrapSprung (Letters.xml:118)
-  - '{1_labelShort} has accidentally sprung a trap and taken damage from it.'
-  - '{0} on vahingossa laukaissut ansan ja ottanut siitä vahinkoa.'
-LetterHealthComplications (Letters.xml:121)
-  - '{PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2}'
-  - 'Henkilölle {0} on tullut {1} lisätautina sairaudesta {2}.'
-LetterHealthComplicationsLabel (Letters.xml:123)
-  - '{PAWN_labelShort}: {1}'
-  - '{0} {1}'
-LetterHediffFromRandomHediffGiver (Letters.xml:126)
-  - '{PAWN_labelShort} has developed a health condition: {1}.'
-  - '{0} has developed a health condition: {1}.'
-LetterHediffFromRandomHediffGiverLabel (Letters.xml:128)
-  - '{PAWN_labelShort}: {1}'
-  - '{0} {1}'
-LetterLeadersDeathLabel (Letters.xml:131)
-  - '{1} died: {0}'
-  - 'Leader's death'
-LetterLeadersDeath (Letters.xml:133)
-  - '{OLDLEADER_nameFull}, {1} of {0}, has died.'
-  - 'Leader {0} of faction {1} has died and been replaced by {2}.'
-LetterLeaderChanged (Letters.xml:138)
-  - '{OLDLEADER_nameFull} is no longer {1} of {0}.'
-  - '{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.'
-LetterRelatedPawnsRaidEnemy (Letters.xml:170)
-  - 'There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:'
-  - 'There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:'
-LetterRelatedPawnsRaidFriendly (Letters.xml:172)
-  - 'There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}:'
-  - 'There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:'
-LetterRelatedPawnsNeutralGroup (Letters.xml:174)
-  - 'There are people who have relationships with your {0} or prisoners in the arriving group:'
-  - 'There are people who have relationships with your colonists or prisoners in the arriving group:'
-LetterRelatedPawnsTradeShip (Letters.xml:176)
-  - 'The orbital trader is selling people who have relationships with your {0} or prisoners:'
-  - 'The orbital trader is selling people who have relationships with your colonists or prisoners:'
-LetterRelatedPawnsTradingWithSettlement (Letters.xml:178)
-  - 'The settlement is selling people who have relationships with your {0} or prisoners:'
-  - 'The settlement is selling people who have relationships with your colonists or prisoners:'
-LetterRelatedPawnsTradingWithOtherCaravan (Letters.xml:180)
-  - 'The caravan is selling people who have relationships with your {0} or prisoners:'
-  - 'The caravan is selling people who have relationships with your colonists or prisoners:'
-RelationshipAppendedLetterTextColonist (Letters.xml:193)
-  - '{PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.'
-  - '[PAWN_nameDef] has a relationship with a colonist. [PAWN_pronoun] is {0}'s {1}.'
-RelationshipAppendedLetterTextPrisoner (Letters.xml:195)
-  - '{PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.'
-  - '[PAWN_nameDef] has a relationship with one of your prisoners. [PAWN_pronoun] is {0}'s {1}.'
-LetterAffair (Letters.xml:201)
-  - '{PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}.'
-  - '{0}, married to {1}, has begun an affair with {2}.'
-LetterNewLovers (Letters.xml:205)
-  - '{PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed.'
-  - '{0} and {1} have come together and are now lovers.'
-LetterNoLongerLovers (Letters.xml:207)
-  - '{PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship.'
-  - '{0} and {1} are no longer in a relationship.'
-LetterRejectedProposal (Letters.xml:221)
-  - '{INITIATOR_nameFull} is going to be unhappy about this.'
-  - '{1} has rejected {0}'s marriage proposal. {0} is going to be unhappy about this.'
-LetterNewlyAddicted (Letters.xml:253)
-  - '{PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal.'
-  - '{0} has developed an addiction to {1}.\n\n[PAWN_pronoun] now has a need for {1}, visible on [PAWN_possessive] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_possessive] need. If [PAWN_pronoun] cannot get any {1}, [PAWN_pronoun] will go into withdrawal.'
-LetterDrugBinge (Letters.xml:259)
-  - '{2_label} is binging on {1}.'
-  - '{0} is binging on {1}.'
-LetterAllCaravanColonistsDied (Letters.xml:265)
-  - 'All members of {0} have died.'
-  - 'All members of your caravan have died.'
-LetterFoundPreciousLump (Letters.xml:305)
-  - 'Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.'
-  - 'Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.'
-CannotDoThisWork (MainTabs.xml:16)
-  - '{1_labelShort} cannot do this kind of work.'
-  - '{0} ei voi tehdä tätä työtä.'
+========== Argument count mismatches (may or may not be incorrect) (1) ==========
 MessageModNeedsWellFormattedTargetVersion (Menus_Main.xml:212)
   - 'Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information.'
   - 'Modi tarvitsee oikein muotoillut versiotiedot tiedostossa About.xml. Esimerkin voit löytää netistä. targetVersion-tagi on vanhentunut. Katso lisätietoja lokista.'
-MessageFullyHealed (Messages.xml:61)
-  - '{1_label} is fully healed.'
-  - '{0} on täysin toipunut.'
-MessagePrisonerIsEscaping (Messages.xml:64)
-  - 'Prisoner {1_labelShort} is escaping.'
-  - 'Vanki {0} pakenee.'
-MessageOutOfNearbyShellsFor (Messages.xml:67)
-  - '{PAWN_labelShort} found no nearby unreserved shells for {GUN_label}.'
-  - '{0} ei löytänyt lähistöltä varaamattomia ammuksia kohteeseen {1}.'
-MessageAnimalsGoPsychoHunted (Messages.xml:70)
-  - 'Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat.'
-  - 'Varoitus: {0} hyökkää yleensä uhattuna.'
-MessageAnimalManhuntsOnTameFailed (Messages.xml:72)
-  - 'Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance).'
-  - 'Varoitus: {0} saattaa hyökätä epäonnistuneen kesytysyrityksen takia (todennäköisyys {1}).'
-MessageRecruitSuccess (Messages.xml:77)
-  - '{RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance).'
-  - '{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).'
-MessageTameSuccess (Messages.xml:79)
-  - '{RECRUITER_labelShort} successfully tamed {1} ({2} chance).'
-  - '{0} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}).'
-MessageTameAndNameSuccess (Messages.xml:81)
-  - '{RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}.'
-  - '{0} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}) ja antoi sille nimeksi {3}.'
-MessageRefusedArrest (Messages.xml:129)
-  - '{1_labelShort} has refused to be arrested!'
-  - '{0} vastusti pidätystä!'
-MessageTooLowMedCare (Messages.xml:136)
-  - 'Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}".'
-  - 'Operation requires {0} or better, but {1}'s current medical care mode is "{2}".'
-PawnDiedBecauseOf (Messages.xml:139)
-  - '{PAWN_labelShort} has died. Cause: {1}.'
-  - '{0} kuoli. Syy: {1}.'
-MessageNoLongerDowned (Messages.xml:144)
-  - '{1_label} is no longer incapable of walking.'
-  - '{0} pystyy jälleen kävelemään.'
-MessageInvoluntarySleep (Messages.xml:147)
-  - '{1_labelShort} has collapsed due to extreme exhaustion.'
-  - '{0} lyyhistyi uupumuksesta.'
-MessageNuzzledPawnGaveNameTo (Messages.xml:169)
-  - '{NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled.'
-  - '{0} antoi eläimelle {1} nimeksi {2} kun se kiehnäsi häntä.'
-MessageNoHandlerSkilledEnough (Messages.xml:172)
-  - 'No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}).'
-  - 'Mikään eläintenkäsittelijä ei voi kesyttää eläintä {0} (tarvitsee tason {1} taidossa {2}, parhaalla käsittelijällä {3} on {4}).'
-MessageEatenByPredator (Messages.xml:175)
-  - '{EATEN_labelShort} has been eaten by {PREDATOR}.'
-  - '{0} has been eaten by {1}.'
-MessageAttackedByPredator (Messages.xml:177)
-  - '{PREY_labelShort} is being attacked by {PREDATOR}!'
-  - '{0} is being attacked by {1}!'
-MessageCantSelectDeadPawn (Messages.xml:186)
-  - '{1_labelShort} is dead.'
-  - '{0} is dead.'
-MessageCantSelectOffMapPawn (Messages.xml:188)
-  - '{1_labelShort} is off the map.'
-  - '{0} is off the map.'
-MessageSocialFight (Messages.xml:191)
-  - '{PAWN1_labelShort} started a social fight with {PAWN2_labelShort}.'
-  - '{0} started a social fight with {1}. Reason: {2}.'
-MessageMarriageCeremonyStarts (Messages.xml:196)
-  - '{PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony!'
-  - '{0} and {1} are beginning their marriage ceremony!'
-MessageMarriageCeremonyCalledOff (Messages.xml:198)
-  - 'The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off.'
-  - 'The marriage ceremony for {0} and {1} has been called off.'
-MessageNewlyMarried (Messages.xml:200)
-  - '{PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion.'
-  - '{0} and {1} have married. Colonists are now celebrating the occasion.'
-MessageMarriageCeremonyAfterPartyFinished (Messages.xml:202)
-  - 'The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished.'
-  - 'The marriage ceremony for {0} and {1} has finished.'
-MessageNewBondRelation (Messages.xml:205)
-  - '{HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond.'
-  - '{0} and {1} have formed a bond.'
-MessageNewBondRelationNewName (Messages.xml:207)
-  - '{HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}.'
-  - '{0} and {1} have formed a bond. {0} has named {1} {2}.'
-MessageBondedAnimalsMentalBreak (Messages.xml:214)
-  - '{0} animals have a mental break because of {HUMAN_labelShort}'s death.'
-  - '{0} animals have a mental break because of {1}'s death.'
-MessageSuccessfullyRemovedHediff (Messages.xml:217)
-  - '{SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}.'
-  - '{0} has successfully removed {1}'s {2}.'
-MessageNoLongerSocialFighting (Messages.xml:232)
-  - '{PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting.'
-  - '{0} and {1} are no longer social fighting.'
-MessageNoLongerBingingOnDrug (Messages.xml:235)
-  - '{2_labelShort} is no longer binging on {1}.'
-  - '{0} is no longer binging on {1}.'
-MessageRottedAwayInStorage (Messages.xml:241)
-  - '{1_label} has rotted away in storage.'
-  - '{0} has rotted away in storage.'
-MessageFoodPoisoning (Messages.xml:244)
-  - '{PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}.'
-  - '{0} has gotten food poisoning from: {1}.'
-MessagePawnBeingBurned (Messages.xml:275)
-  - '{1_labelShort} is being burned by superheated air!'
-  - '{0} is being burned by superheated air!'
-MessageAccidentalOverdose (Messages.xml:278)
-  - '{INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}!'
-  - '{0} has accidentally overdosed while consuming {1}!'
-MessagePawnLeftMapAndCreatedCaravan (Messages.xml:284)
-  - '{1_labelShort} has left the area and formed a caravan.'
-  - '{0} has left the area and formed a caravan.'
-MessageTransportPodsArrivedAndAddedToCaravan (Messages.xml:319)
-  - 'Your transport pods have arrived. The contents have been added to {0}.'
-  - 'Your transport pods have arrived. The contents have been added to your caravan.'
-MessageCantEquipIncapableOfViolence (Messages.xml:343)
-  - 'Cannot equip: {1_labelShort} is incapable of violence.'
-  - 'Cannot equip: {0} is incapable of violence.'
-MessageSlaughteringBondedAnimal (Messages.xml:354)
-  - 'Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy.'
-  - 'Because they are bonded, slaughtering {0} will make {1} unhappy.'
-MessageSelfTendUnsatisfied (Messages.xml:380)
-  - 'To self-tend, {1_labelShort} must also be assigned to Doctor work.'
-  - 'To self-tend, {0} must also be assigned to Doctor work.'
-MessageCannotSelfTendEver (Messages.xml:382)
-  - '{1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend.'
-  - '{0} is incapable of doing Doctor work, and so cannot ever self-tend.'
-DeadLabel (Misc.xml:114)
-  - '{1_label} (dead)'
-  - '{0} (kuollut)'
-SomeonesRoom (Misc.xml:143)
-  - '{PAWN_labelShort}'s {1}'
-  - '{0}'s {1}'
-CouplesRoom (Misc.xml:145)
-  - '{PAWN1_labelShort} and {PAWN2_labelShort}'s {2}'
-  - '{0} and {1}'s {2}'
-DrugEffectMultiplier (Misc_Gameplay.xml:226)
-  - '{0} effect multiplier: {1}'
-  - '{0} effect multiplier'
-WornBy (Misc_Gameplay.xml:286)
-  - 'worn by {1_labelShort}'
-  - 'worn by {0}'
-EquippedBy (Misc_Gameplay.xml:288)
-  - 'equipped by {1_labelShort}'
-  - 'equipped by {0}'
-QuestTargetDestroyInspectString (Misc_Gameplay.xml:290)
-  - '{0} wants this destroyed.\n    Reward: {1} ({2})'
-  - '{0} wants this destroyed.\n    Reward: {1}.'
-IsIncapableOfViolence (Misc_Gameplay.xml:564)
-  - '{1_labelShort} is incapable of violence.'
-  - '{0} ei pysty väkivaltaan.'
-IsNotDrafted (Misc_Gameplay.xml:568)
-  - '{1_labelShort} is not drafted.'
-  - '{0} ei ole värvättynä.'
-ShellLoaded (Misc_Gameplay.xml:594)
-  - 'Shell loaded: {1_label}'
-  - 'Ammus ladattu'
-ReportHaulingTo (Misc_Gameplay.xml:600)
-  - 'hauling {THING_label} to {DESTINATION}.'
-  - 'Kuljettamassa: {0} kohteeseen {1}.'
-ReportHauling (Misc_Gameplay.xml:604)
-  - 'hauling {1_label}.'
-  - 'Kuljettamassa: {0}.'
-ReportExtinguishingFireOn (Misc_Gameplay.xml:636)
-  - 'extinguishing fire on {TARGET_label}.'
-  - 'extinguishing fire on {0}.'
-CoverThingBlocksPercentOfShots (Misc_Gameplay.xml:674)
-  - '{COVER_label} stops {1}'
-  - '{0} pysäyttää {1}'
-PawnMainDescGendered (Misc_Gameplay.xml:714)
-  - '{PAWN_gender} {1}'
-  - '{0} {1}'
-PawnMainDescLifestageWrap (Misc_Gameplay.xml:724)
-  - '{2_lifeStageAdjective} {0}'
-  - '{1} {0}'
-ShotBy (Misc_Gameplay.xml:828)
-  - 'Shot by {1_labelShort}'
-  - 'Henkilön {0} osumatarkkuus'
-CasketWarning (Misc_Gameplay.xml:1000)
-  - 'Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed?'
-  - 'Varoitus!\n\n[PAWN_nameDef] on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?'
-DiseaseGrowthModeChanged_Growing (Misc_Gameplay.xml:1108)
-  - '{PAWN_labelShort}'s {1} is now growing.'
-  - '{0}'s {1} is now growing.'
-DiseaseGrowthModeChanged_Stable (Misc_Gameplay.xml:1110)
-  - '{PAWN_labelShort}'s {1} is now stable.'
-  - '{0}'s {1} is now stable.'
-DiseaseGrowthModeChanged_Remission (Misc_Gameplay.xml:1112)
-  - '{PAWN_labelShort}'s {1} is now in remission.'
-  - '{0}'s {1} is now in remission.'
-MarriageSpotDangerous (Misc_Gameplay.xml:1122)
-  - 'too dangerous for {1_labelShort}'
-  - 'too dangerous for {0}'
-MarriageSpotForbidden (Misc_Gameplay.xml:1124)
-  - 'forbidden for {1_labelShort}'
-  - 'forbidden for {0}'
-MarriageSpotUnreachable (Misc_Gameplay.xml:1128)
-  - 'unreachable for {1_labelShort}'
-  - 'unreachable for {0}'
-ScenPart_StartWithPawns (ScenParts.xml:10)
-  - 'Start with {0} people, chosen from {1}.'
-  - 'Start with {0} people.'
 
 ========== Unnecessary keyed translations (will never be used) (0) ==========
 
-========== Keyed translations matching English (maybe ok) (247) ==========
+========== Keyed translations matching English (maybe ok) (168) ==========
 OK 'OK' (Dialogs_Various.xml:11)
 PermadeathModeSaveSuffix '(Permadeath)' (Dialogs_Various.xml:107)
 CantGrazeBecauseOfBiome '({0})' (Dialogs_Various.xml:742)
@@ -8861,21 +8671,9 @@ Direction8Way_West_Short 'W' (Enums.xml:238)
 Direction8Way_NorthWest_Short 'NW' (Enums.xml:240)
 DietCategory_NeverEats_Short '-' (Enums.xml:256)
 GoodCondition 'OK' (ITabs.xml:202)
-LetterLeaderChangedLabel 'New {1}: {0}' (Letters.xml:136)
-LetterLabelNoticedRelatedPawns 'Relationship' (Letters.xml:168)
-LetterLabelAffair 'Affair' (Letters.xml:199)
-LetterLabelNewLovers 'New lovers' (Letters.xml:203)
-LetterLabelBreakup 'Breakup' (Letters.xml:211)
-LetterLabelAcceptedProposal 'Marriage is on!' (Letters.xml:213)
-LetterLabelRejectedProposal 'Rejected proposal' (Letters.xml:215)
-LetterLabelPrisonBreak 'Prison break' (Letters.xml:245)
-LetterLabelNewlyAddicted '{0} addiction' (Letters.xml:251)
-LetterLabelDrugBinge '{0} binge' (Letters.xml:257)
-LetterLabelAllCaravanColonistsDied 'Caravan destroyed' (Letters.xml:263)
-LetterLabelCaravanEnteredEnemyBase 'Attack begun' (Letters.xml:275)
-LetterCaravanEnteredEnemyBase '{0} has arrived at {1} and is ready to begin the attack.' (Letters.xml:277)
+LetterHealthComplicationsLabel '{PAWN_labelShort}: {1}' (Letters.xml:123)
+LetterHediffFromRandomHediffGiverLabel '{PAWN_labelShort}: {1}' (Letters.xml:128)
 LetterLabelDefeatAllEnemiesQuestCompleted 'Quest completed' (Letters.xml:297)
-LetterDefeatAllEnemiesQuestCompleted 'You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.' (Letters.xml:299)
 IncapableOfWorkTypeBecauseOfCapacities 'This colonist is not able to do any work of this type because of his health condition.' (MainTabs.xml:20)
 EmergencyWorkMarker 'E' (MainTabs.xml:22)
 ThisMapColonyWealthTotal 'Colony wealth (this map)' (MainTabs.xml:160)
@@ -8886,37 +8684,11 @@ Locked 'Locked' (MainTabs.xml:190)
 ResearchCostComparison 'Project base cost {0} becomes {1} for you because of your tech level.' (MainTabs.xml:204)
 ModPackageId 'ID' (Menus_Main.xml:186)
 ScenariosSteamWorkshop 'Steam Workshop' (Menus_Main.xml:242)
-MessageRaidersStealing '{0} from {1} have decided to steal what they can and leave.' (Messages.xml:14)
 MessageVisitorsTrappedLeaving '{0} from {1} have been trapped and are digging out to escape.' (Messages.xml:34)
 MessageVisitorsDangerousTemperature '{0} from {1} are leaving the map because of dangerous temperature.' (Messages.xml:36)
 MessageNoAnimalBeds 'There are no animal beds available.' (Messages.xml:134)
 MessageHiveReproduced 'A bug hive has reproduced itself.' (Messages.xml:180)
 MessageTraderCaravanLeaving 'The trade caravan from {0} is leaving.' (Messages.xml:183)
-MessageCannotSellItemsReason 'Some items cannot be traded because of: ' (Messages.xml:223)
-MessageScreenshotSavedAs 'Screenshot saved as: {0}' (Messages.xml:229)
-MessageCaravanFormationUnpaused 'Your colonists will now continue forming a caravan.' (Messages.xml:253)
-MessagePlantDiedOfCold '{0} has died because of cold.' (Messages.xml:262)
-MessageCaravanArrivedAtDestination '{0} has arrived at its destination.' (Messages.xml:281)
-MessageSettledInExistingMap 'You have successfully settled in a new area.' (Messages.xml:289)
-MessageTransporterUnreachable 'Some transport pods are unreachable.' (Messages.xml:298)
-MessageTransportersNotAdjacent 'All pod launchers connected to the selected transport pods must be adjacent.' (Messages.xml:300)
-MessageTransportersLoadCanceled_TransporterDestroyed 'The loading process has been canceled because one of the transport pods has been destroyed.' (Messages.xml:303)
-MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned 'The loading process has been canceled because one of the pod launchers has been destroyed.' (Messages.xml:307)
-MessageTransportPodsArrived 'Your transport pods have arrived.' (Messages.xml:315)
-MessageTransportPodsArrivedAndLost 'Your transport pods have arrived, but since there were no colonists inside, the contents are lost.' (Messages.xml:317)
-MessageTransportPodsDestinationIsInvalid 'Selected destination is invalid.' (Messages.xml:330)
-MessageTransportPodsDestinationIsTooFar 'Each pod launcher would need at least {0}x chemfuel to send transport pods that far.' (Messages.xml:332)
-MessageReformedCaravan 'The caravan has been reformed.' (Messages.xml:335)
-MessageSelectOwnBaseToFormCaravan 'To form a caravan, select your own colony or a site where you have people.' (Messages.xml:362)
-MessageYouHaveToReformCaravanNow 'You have to reform the caravan now. Everyone left behind will be abandoned.' (Messages.xml:368)
-MessageDefendersAttacking '{0} from {1} are attacking your {2}.' (Messages.xml:371)
-MessageCantAddWaypointBecauseImpassable 'This tile is impassable.' (Messages.xml:385)
-MessageCantAddWaypointBecauseUnreachable 'It's not possible to reach this tile from the last waypoint.' (Messages.xml:387)
-MessageCantAddWaypointBecauseLimit 'You can't add more than {0} waypoints.' (Messages.xml:389)
-MessageCantRemoveWaypointBecauseFirst 'You can't remove this waypoint.' (Messages.xml:391)
-MessageCantDoExecutionBecauseNoWardenCapableOfViolence 'None of your wardens is capable of violence. The execution won't be performed.' (Messages.xml:394)
-MessageSiteCountdownBecauseNoMoreEnemies 'You have defeated all enemies. In {0}, the caravan will automatically be reformed.' (Messages.xml:397)
-MessageSiteCountdownBecauseNoEnemiesInitially 'In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.' (Messages.xml:399)
 min 'min' (Misc.xml:42)
 max 'max' (Misc.xml:44)
 chance 'chance' (Misc.xml:46)
@@ -8929,10 +8701,6 @@ intervalDays 'interval (days)' (Misc.xml:60)
 repeat 'repeat' (Misc.xml:62)
 default 'default' (Misc.xml:64)
 ThingMadeOfStuffLabel '{0} {1}' (Misc.xml:140)
-North 'North' (Misc.xml:162)
-South 'South' (Misc.xml:164)
-West 'West' (Misc.xml:166)
-East 'East' (Misc.xml:168)
 HitPointsBasic 'hit points' (Misc_Gameplay.xml:6)
 Owners 'Owners' (Misc_Gameplay.xml:24)
 NeedsTendingNow 'Needs tending now' (Misc_Gameplay.xml:56)
@@ -8995,22 +8763,15 @@ TextMote_ProductWasted 'Product\nwasted' (Misc_Gameplay.xml:512)
 TextMote_RecruitFail 'Recruit failed!\n{0} chance' (Misc_Gameplay.xml:514)
 TextMote_Tended '{0} tended' (Misc_Gameplay.xml:534)
 BuildRoof 'Build roof' (Misc_Gameplay.xml:546)
-IsIncapableOfViolenceShort 'incapable of violence' (Misc_Gameplay.xml:566)
-ReportStanding 'standing.' (Misc_Gameplay.xml:632)
-ReportExtinguishingFire 'extinguishing fire.' (Misc_Gameplay.xml:634)
-LordReportAttendingMarriageCeremony 'Attending marriage ceremony' (Misc_Gameplay.xml:642)
-LordReportAttendingParty 'Attending party' (Misc_Gameplay.xml:644)
 LordReportFormingCaravan 'Forming caravan' (Misc_Gameplay.xml:654)
 Execution 'Execution' (Misc_Gameplay.xml:678)
-RecipeAdminister 'administer {0}' (Misc_Gameplay.xml:688)
-RecipeAdministerJobString 'Administering {0}.' (Misc_Gameplay.xml:690)
-TeetotalerUnhappy 'teetotaler will be unhappy' (Misc_Gameplay.xml:692)
 MentalBreakThresholdExtreme 'Extreme break threshold' (Misc_Gameplay.xml:706)
 MentalBreakThresholdMajor 'Major break threshold' (Misc_Gameplay.xml:708)
 MentalBreakThresholdMinor 'Minor break threshold' (Misc_Gameplay.xml:710)
+PawnMainDescGendered '{PAWN_gender} {1}' (Misc_Gameplay.xml:714)
+PawnMainDescLifestageWrap '{2_lifeStageAdjective} {0}' (Misc_Gameplay.xml:724)
 PainShockShort 'Pain shock' (Misc_Gameplay.xml:742)
 AffectedBy 'Affected by:' (Misc_Gameplay.xml:750)
-HostilityResponseCurrentMode 'Current mode' (Misc_Gameplay.xml:768)
 LessThanADay 'less than a day' (Misc_Gameplay.xml:824)
 CannotGrowBadSeasonTemperature 'Cannot grow (bad seasonal temperature).' (Misc_Gameplay.xml:866)
 ShowLearningHelperWhenEmptyToggleButton 'Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.' (Misc_Gameplay.xml:902)
@@ -9019,38 +8780,8 @@ GameConditionsTip 'Special conditions affecting the area right now.' (Misc_Gamep
 TimeLeft 'time left' (Misc_Gameplay.xml:946)
 ImpactDate 'impact date' (Misc_Gameplay.xml:948)
 MustPlaceNearFuelingPort 'Must be placed next to a pod launcher's fueling port.' (Misc_Gameplay.xml:980)
-MarriageSpotUsable 'Usable now.' (Misc_Gameplay.xml:1116)
-MarriageSpotNotUsable 'Not usable: {0}.' (Misc_Gameplay.xml:1118)
-MarriageSpotNotStandable 'blocked' (Misc_Gameplay.xml:1120)
-MarriageSpotReserved 'reserved' (Misc_Gameplay.xml:1126)
-MarriageSpotInPrisonCell 'in prison cell' (Misc_Gameplay.xml:1130)
-NotEnjoyableOutsideTemperature 'uncomfortable temperature' (Misc_Gameplay.xml:1132)
-DueForMaintenance 'Due for maintenance.' (Misc_Gameplay.xml:1152)
-DeterioratingDueToLackOfMaintenance 'Deteriorating due to lack of maintenance.' (Misc_Gameplay.xml:1154)
-ProgressToNextLump 'Progress to next lump' (Misc_Gameplay.xml:1158)
-ResourceBelow 'Resource below' (Misc_Gameplay.xml:1160)
-LearningHelper 'Learning helper' (Misc_Gameplay.xml:1176)
-MarkLearned 'Mark as learned' (Misc_Gameplay.xml:1178)
-AlreadyLearned 'Already learned' (Misc_Gameplay.xml:1180)
-Filter 'Filter' (Misc_Gameplay.xml:1182)
-CompassTip 'Shows the north direction. Click to rotate the camera so the north pole is up.' (Misc_Gameplay.xml:1186)
-RoutePlannerButtonTip 'Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.' (Misc_Gameplay.xml:1190)
-RoutePlannerAddTwoOrMoreWaypoints 'Add two or more waypoints.' (Misc_Gameplay.xml:1192)
-RoutePlannerAddOneOrMoreWaypoints 'Add one or more waypoints.' (Misc_Gameplay.xml:1194)
-RoutePlannerEstTimeToFinalDest 'Total route time: {0}' (Misc_Gameplay.xml:1196)
-RoutePlannerUsingAverageTicksPerMoveWarning 'Planning mode uses the default caravan speed. Your speed may vary.' (Misc_Gameplay.xml:1198)
-RoutePlannerUsingTicksPerMoveOfCaravan 'Calculating for: {0}' (Misc_Gameplay.xml:1200)
-RoutePlannerPressRMBToAddAndRemoveWaypoints 'Right mouse button: Add/remove waypoints.' (Misc_Gameplay.xml:1202)
-RoutePlannerPressEscapeToExit 'ESC: Exit planning mode.' (Misc_Gameplay.xml:1204)
-RoutePlannerPressEscapeToReturnToCaravanFormationDialog 'ESC: Return to the caravan formation dialog.' (Misc_Gameplay.xml:1206)
-OutfitAnything 'Anything' (Misc_Gameplay.xml:1218)
-OutfitWorker 'Worker' (Misc_Gameplay.xml:1220)
-OutfitSoldier 'Soldier' (Misc_Gameplay.xml:1222)
-OutfitNudist 'Nudist' (Misc_Gameplay.xml:1224)
 Wiki 'Wiki' (PlayInterface.xml:5)
-ScenPart_PlayerFaction 'Your faction will be a {0}.' (ScenParts.xml:7)
 RandomPet 'random pet' (ScenParts.xml:14)
-ScenPart_StartingResearchFinished 'Start with research: {0}' (ScenParts.xml:17)
 ScenPart_ArriveInDropPods 'Arrive in drop pods.' (ScenParts.xml:20)
 ScenPart_StatFactor 'The stat "{0}" will be universally multiplied by {1}.' (ScenParts.xml:23)
 ScenPart_PawnsHaveHediff '{0} have a {1} chance to start with {2}.' (ScenParts.xml:27)

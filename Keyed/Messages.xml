@@ -11,7 +11,7 @@
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
   <MessageRaidersKidnapping>{0} tukikohdasta {1} ovat päättäneet kidnapata kaikki ketkä he voivat ja lähteä.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
+  <MessageRaidersStealing>TODO</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
   <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
@@ -36,7 +36,7 @@
   <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>Henkilön {1} yllä ollut {0} hajosi olemattomiin.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>Henkilön {1_nameFull} yllä ollut {0} hajosi olemattomiin.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
   <MessageDeterioratedAway>TODO</MessageDeterioratedAway>
 
@@ -58,32 +58,32 @@
   <MessageBillComplete>Tilaus valmis: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>{0} on täysin toipunut.</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} on täysin toipunut.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>Vanki {0} pakenee.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Vanki {1_labelShort} pakenee.</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>{0} ei löytänyt lähistöltä varaamattomia ammuksia kohteeseen {1}.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} ei löytänyt lähistöltä varaamattomia ammuksia aseeseen {GUN_label}.</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
-  <MessageAnimalsGoPsychoHunted>Varoitus: {0} hyökkää yleensä uhattuna.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Varoitus: {ANIMAL_kindBasePlural} hyökkää uhattuna todennäköisyydellä {1}. Todennäköisyys riippuu etäisyydestä ja mesästäjän hiiviskelytaidosta.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Varoitus: {0} saattaa hyökätä epäonnistuneen kesytysyrityksen takia (todennäköisyys {1}).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Varoitus: {ANIMAL_kindBasePlural} saattaa hyökätä epäonnistuneen kesytysyrityksen takia (todennäköisyys {1}).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Uusi jäsen</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{0} onnistui vangin {1} värväämisessä ({2} mahdollisuus).</MessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} onnistui vangin {RECRUITEE_nameFull} värväämisessä ({2} mahdollisuus).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{0} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}).</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{0} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}) ja antoi sille nimeksi {3}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}) ja antoi sille nimeksi {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} on liittynyt yhdyskuntaan.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>Yhdyskunnalla ei ole varaaa tähän kauppaan.</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>Yhdyskunnalla ei ole varaa tähän kauppaan.</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
   <MessageColonyNotEnoughSilver>Sinulla ei ole tarpeeksi hopeaa valmiina tätä vaihtoa varten.</MessageColonyNotEnoughSilver>
 
@@ -126,25 +126,25 @@
   <MessageMustDesignateUnforbiddable>TODO</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>{0} vastusti pidätystä!</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort} vastusti pidätystä!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>Lääkisemiseen varattuja sänkyjä ei ole yhtään saatavilla.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>Operation requires {0} or better, but {1}'s current medical care mode is "{2}".</MessageTooLowMedCare>
+  <MessageTooLowMedCare>TODO</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{0} kuoli. Syy: {1}.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} kuoli. Syy: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>TODO</PawnDied>
+  <PawnDied>{1_labelShort} kuoli.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{0} pystyy jälleen kävelemään.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} pystyy jälleen kävelemään.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{0} lyyhistyi uupumuksesta.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} lyyhistyi uupumuksesta.</MessageInvoluntarySleep>
 
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Tämä lääkintäoperaatio vihastuttaa ryhmän {0}.</MessageMedicalOperationWillAngerFaction>
@@ -166,15 +166,15 @@
   <MessageWentOverPsychicEntropyLimit>TODO</MessageWentOverPsychicEntropyLimit>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{0} antoi eläimelle {1} nimeksi {2} kun se kiehnäsi häntä.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} antoi eläimelle {1} nimeksi {NAMEE_nameFull} kun se kiehnäsi häntä.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>Mikään eläintenkäsittelijä ei voi kesyttää eläintä {0} (tarvitsee tason {1} taidossa {2}, parhaalla käsittelijällä {3} on {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Mikään eläintenkäsittelijä ei voi kesyttää eläintä {ANIMAL_kindBase} (tarvitsee tason {1} taidossa {2}, parhaalla käsittelijällä {HANDLER_labelShort} on {4}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>{0} has been eaten by {1}.</MessageEatenByPredator>
+  <MessageEatenByPredator>TODO</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{0} is being attacked by {1}!</MessageAttackedByPredator>
+  <MessageAttackedByPredator>TODO</MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
@@ -183,74 +183,74 @@
   <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{0} is dead.</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>TODO</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>{0} is off the map.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>TODO</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
+  <MessageSocialFight>TODO</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
   <MessageNewMarriageCeremony>TODO</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyStarts>TODO</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>TODO</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>{0} and {1} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
+  <MessageNewlyMarried>TODO</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>TODO</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
+  <MessageNewBondRelation>TODO</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named {1} {2}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>TODO</MessageNewBondRelationNewName>
   
   <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
   <MessageBondedAnimalMentalBreak>TODO</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
   <MessageNamedBondedAnimalMentalBreak>TODO</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {1}'s death.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalsMentalBreak>TODO</MessageBondedAnimalsMentalBreak>
   
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>TODO</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>TODO</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>TODO</MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>TODO</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
-  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
+  <MessageScreenshotSavedAs>TODO</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>{0} and {1} are no longer social fighting.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>TODO</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>{0} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>TODO</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
   <MessageNoLongerOnTargetedInsultingSpree>TODO</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{0} has rotted away in storage.</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>TODO</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>{0} has gotten food poisoning from: {1}.</MessageFoodPoisoning>
+  <MessageFoodPoisoning>TODO</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>TODO</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
   <MessagePawnLostWhileFormingCaravan_AllLost>TODO</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>The caravan formation process will continue when everyone recovers from a mental break.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>TODO</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>Your colonists will now continue forming a caravan.</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>TODO</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has had a mental break. -->
   <MessageCaravanMemberHasExtremeMentalBreak>TODO</MessageCaravanMemberHasExtremeMentalBreak>
@@ -259,34 +259,34 @@
   <MessageMaxPlanetCoveragePerformanceWarning>Varoitus: Koko planeetan luominen voi kestää erittäin kauan.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>{0} has died because of cold.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>TODO</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
   <MessagePlantDiedOfRot_LeftUnharvested>TODO</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
   <MessagePlantDiedOfRot_ExposedToLight>TODO</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0} has died from rotting due to being left unharvested.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>TODO</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>TODO</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
   <MessagePlantDiedOfBlight>TODO</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>{0} is being burned by superheated air!</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>TODO</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>{0} has accidentally overdosed while consuming {1}!</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>TODO</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
-  <MessageCaravanArrivedAtDestination>{0} has arrived at its destination.</MessageCaravanArrivedAtDestination>
+  <MessageCaravanArrivedAtDestination>TODO</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{0} has left the area and formed a caravan.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>TODO</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>TODO</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
-  <MessageSettledInExistingMap>You have successfully settled in a new area.</MessageSettledInExistingMap>
+  <MessageSettledInExistingMap>TODO</MessageSettledInExistingMap>
   
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
   <MessagePermanentWoundHealed>TODO</MessagePermanentWoundHealed>
@@ -295,16 +295,16 @@
   <MessageRescueeDidntJoin>TODO</MessageRescueeDidntJoin>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>TODO</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>TODO</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-  <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>TODO</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
   <MessageTransporterSingleLoadCanceled_TransporterDestroyed>TODO</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>The loading process has been canceled because one of the pod launchers has been destroyed.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>TODO</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
   <MessageTransportersLoadingProcessStarted>TODO</MessageTransportersLoadingProcessStarted>
@@ -312,11 +312,11 @@
   <MessageTransporterSingleLoadingProcessStarted>TODO</MessageTransporterSingleLoadingProcessStarted>
   
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>Your transport pods have arrived.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>TODO</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>Your transport pods have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>TODO</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to your caravan.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>TODO</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Transport pod loading complete. Launch when ready. -->
   <MessageFinishedLoadingTransporters>TODO</MessageFinishedLoadingTransporters>
@@ -327,12 +327,12 @@
   <MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>
   
   <!-- EN: Selected destination is invalid. -->
-  <MessageTransportPodsDestinationIsInvalid>Selected destination is invalid.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsInvalid>TODO</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>Each pod launcher would need at least {0}x chemfuel to send transport pods that far.</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>TODO</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
-  <MessageReformedCaravan>The caravan has been reformed.</MessageReformedCaravan>
+  <MessageReformedCaravan>TODO</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>TODO</MessageCantBanishLastColonist>
@@ -340,7 +340,7 @@
   <!-- EN: Cannot equip: {0}. -->
   <MessageCantEquipCustom>TODO</MessageCantEquipCustom>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>Cannot equip: {0} is incapable of violence.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>TODO</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: Incapable. -->
   <MessageCantEquipIncapableOfManipulation>TODO</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
@@ -351,7 +351,7 @@
   <MessageWouldReplaceLockedApparel>TODO</MessageWouldReplaceLockedApparel>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {0} will make {1} unhappy.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>TODO</MessageSlaughteringBondedAnimal>
   
   <!-- EN: {0} has run out of food ({PAWN_label}). -->
   <MessageCaravanRanOutOfFood>TODO</MessageCaravanRanOutOfFood>
@@ -359,16 +359,16 @@
   <MessageCaravanDeathCorpseAddedToInventory>TODO</MessageCaravanDeathCorpseAddedToInventory>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
-  <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony or a site where you have people.</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>TODO</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>Pelin käyttöliittymä ei mahdu näytölle tällä resoluutiolla ja käyttöliittymän skaalauksella. Ole hyvä ja pienennä käyttöliittymän skaalausta tai kasvata resoluutiota.</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>TODO</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
+  <MessageDefendersAttacking>TODO</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
   <MessageMechanoidsAssembled>TODO</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
@@ -377,26 +377,26 @@
   <MessageMechanoidsReinforcementsDrop>TODO</MessageMechanoidsReinforcementsDrop>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>To self-tend, {0} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>TODO</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>{0} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
+  <MessageCannotSelfTendEver>TODO</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
-  <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseImpassable>TODO</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
-  <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseUnreachable>TODO</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>You can't add more than {0} waypoints.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>TODO</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
-  <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
+  <MessageCantRemoveWaypointBecauseFirst>TODO</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>TODO</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
-  <MessageSiteCountdownBecauseNoMoreEnemies>You have defeated all enemies. In {0}, the caravan will automatically be reformed.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoMoreEnemies>TODO</MessageSiteCountdownBecauseNoMoreEnemies>
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
-  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>TODO</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
   <MessageCantBanishDownedPawn>TODO</MessageCantBanishDownedPawn>

@@ -97,7 +97,7 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>eläin on kiireinen</CantInteractAnimalBusy>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>{} taitotaso liian matala</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>{0} taitotaso liian matala</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>tarvitsee komponentteja</NoComponentsToRepair>
   <!-- EN: need {0} -->

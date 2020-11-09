@@ -44,7 +44,7 @@
   <Death>Kuolema</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-  <ShortCircuitRain>{0} on mennyt oikosulkuun sateessa ja on sytyttänyt tulipalon.</ShortCircuitRain>
+  <ShortCircuitRain>{1_label} on mennyt oikosulkuun sateessa ja on sytyttänyt tulipalon.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>Alue paljastunut</LetterLabelAreaRevealed>
@@ -82,7 +82,7 @@
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
   <NewDisease>{PAWN} sairastui tautiin {1}.\n\nVarmista, että sinulla on sairaspeti ja lääkäri. Varmista, että {PAWN_definite} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{0} sai {1}-tartunnan. Varmista että {0} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä parantuakseen nopeasti.</NewPartDisease>
+  <NewPartDisease>{PAWN} sai {3}-tartunnan. Tartunnan sijainti on {1}.\n\nVarmista että sinulla on lääkintävuode ja lääkäri. Varmista että {PAWN_definite} saa oikeanlaista hoitoa ja viettää vuoteessa mahdollisimman paljon aikaa.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
@@ -106,42 +106,42 @@
   <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} kosto</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{0} hyökkää tultuaan vahingoitetuksi!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>{1_indefinite} hyökkää tultuaan vahingoitetuksi!</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>{0} hyökkää kesytysyrityksen takia!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>{1_indefinite} hyökkää kesytysyrityksen takia!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
-  <AnimalManhunterOthers>{0}lauma on myös tullut raivostuneeksi!</AnimalManhunterOthers>
+  <AnimalManhunterOthers>Muut lähistöllä olevat {1_kindBasePlural} on myös tullut raivostuneeksi!</AnimalManhunterOthers>
 
   <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>{0} osui ansaan</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} osui ansaan</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{0} on vahingossa laukaissut ansan ja ottanut siitä vahinkoa.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>{1_labelShort} on vahingossa laukaissut ansan ja ottanut siitä vahinkoa.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>Henkilölle {0} on tullut {1} lisätautina sairaudesta {2}.</LetterHealthComplications>
+  <LetterHealthComplications>Henkilölle {PAWN_labelShort} on tullut lisätauti:\n\n  {1}\n\nTämän aiheutti:\n\n  {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>Henkilölle {PAWN_labelShort} on tullut terveydentila: {1}.</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
   <!-- EN: {1} died: {0} -->
-  <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
+  <LetterLeadersDeathLabel>{1} kuoli: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, ryhmän {0} {1}, on kuollut.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
-  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChangedLabel>Uusi {1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} ei ole enää ryhmän {0} {1}.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
-  <LetterNewLeader>TODO</LetterNewLeader>
+  <LetterNewLeader>Uusi {0} on {NEWLEADER_nameFull}.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
-  <FinalStraw>The final straw was: {0}.</FinalStraw>
+  <FinalStraw>Viimeinen niitti oli: {0}.</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
   <MentalStateReason_Mood>TODO</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
@@ -165,19 +165,19 @@
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
-  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
+  <LetterLabelNoticedRelatedPawns>TODO</LetterLabelNoticedRelatedPawns>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
-  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidEnemy>TODO</LetterRelatedPawnsRaidEnemy>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
-  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsRaidFriendly>TODO</LetterRelatedPawnsRaidFriendly>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
-  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsNeutralGroup>TODO</LetterRelatedPawnsNeutralGroup>
   <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradeShip>TODO</LetterRelatedPawnsTradeShip>
   <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithSettlement>TODO</LetterRelatedPawnsTradingWithSettlement>
   <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsTradingWithOtherCaravan>TODO</LetterRelatedPawnsTradingWithOtherCaravan>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
   <LetterRelatedPawnsGroupGeneric>TODO</LetterRelatedPawnsGroupGeneric>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
@@ -188,37 +188,37 @@
   <LetterRelatedPawnsSite>TODO</LetterRelatedPawnsSite>
 
   <!-- EN: relationship -->
-  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterSuffix>TODO</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] has a relationship with a colonist. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>TODO</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] has a relationship with one of your prisoners. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>TODO</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
-  <LetterLabelAffair>Affair</LetterLabelAffair>
+  <LetterLabelAffair>TODO</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
+  <LetterAffair>TODO</LetterAffair>
   <!-- EN: New lovers -->
-  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
+  <LetterLabelNewLovers>TODO</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
-  <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
+  <LetterNewLovers>TODO</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
+  <LetterNoLongerLovers>TODO</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
   <LetterNoLongerLovers_BackToBirthName>TODO</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
-  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
+  <LetterLabelBreakup>TODO</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>TODO</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
-  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
+  <LetterLabelRejectedProposal>TODO</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>{1} has accepted {0}'s marriage proposal.\n\nAt some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>TODO</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
   <LetterAcceptedProposal_NameChange>TODO</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>{1} has rejected {0}'s marriage proposal. {0} is going to be unhappy about this.</LetterRejectedProposal>
+  <LetterRejectedProposal>TODO</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
@@ -242,39 +242,39 @@
 
   <!-- Prison break -->
   <!-- EN: Prison break -->
-  <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
+  <LetterLabelPrisonBreak>TODO</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+  <LetterPrisonBreak>TODO</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
-  <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
+  <LetterLabelNewlyAddicted>{0} addiktio</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\n[PAWN_pronoun] now has a need for {1}, visible on [PAWN_possessive] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_possessive] need. If [PAWN_pronoun] cannot get any {1}, [PAWN_pronoun] will go into withdrawal.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>TODO</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
-  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+  <LetterLabelDrugBinge>{0}putki</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+  <LetterDrugBinge>TODO</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterLabelAllCaravanColonistsDied>Karavaani tuhoutunut</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>All members of your caravan have died.</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>TODO</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
   <LetterLabelCaravanEnteredMap>Karavaani saapui kohteeseen {0_label}</LetterLabelCaravanEnteredMap>
   <!-- EN: {0} has arrived at {1_definite}. -->
-  <LetterCaravanEnteredMap>{0} on saapunut {1_definite}</LetterCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} on saapunut kohteeseen {1_definite}</LetterCaravanEnteredMap>
 
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+  <LetterLabelCaravanEnteredEnemyBase>Hyökkäys alkaa</LetterLabelCaravanEnteredEnemyBase>
   <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
-  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>TODO</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
   <!-- EN: Attack begun -->
@@ -288,21 +288,21 @@
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} hours to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>TODO</LetterFactionBaseDefeated>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>TODO</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>TODO</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
   <!-- EN: Distant resource scanned -->
   <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>TODO</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
@@ -432,7 +432,7 @@
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
   <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} epäonnistui katastrofaalisesti operoidessaan potilasta {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). </MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <MessageMedicalOperationFailureRidiculous>TODO</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
   <MessageMedicalOperationFailureFatal>TODO</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
 

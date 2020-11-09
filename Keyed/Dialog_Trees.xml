@@ -8,7 +8,7 @@
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
   <FactionGreetingWary>{0} tervehtii henkilöä {NEGOTIATOR_labelShort} ja kysyy hänen aikeitaan.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>{0} tervehtii henkilöä {NEGOTIATOR_labelShort} lämpimästi ja kysyy miten yhdyskunnan asiat ovat.</FactionGreetingWarm>
+  <FactionGreetingWarm>{0} tervehtii henkilöä {NEGOTIATOR_labelShort} lämpimästi ja kysyy mitä {LEADER_pronoun} voi tehdä auttaakseen.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
   <WorkTypeDisablesOption>TODO</WorkTypeDisablesOption>

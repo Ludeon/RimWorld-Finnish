@@ -223,7 +223,7 @@
   <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0} effect multiplier</DrugEffectMultiplier>
+  <DrugEffectMultiplier>TODO</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
   <CaravanVisiting>Visiting {0}.</CaravanVisiting>
   <!-- EN: Entering {0}. -->
@@ -235,9 +235,9 @@
   <!-- EN: Trading with {0} -->
   <CaravanTrading>TODO</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
+  <WasWornByCorpse>TODO</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>D</WornByCorpseChar>
+  <WornByCorpseChar>TODO</WornByCorpseChar>
   <!-- EN: unroofed -->
   <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
   <!-- EN: outdoors -->
@@ -283,11 +283,11 @@
   <!-- EN: Closed -->
   <VentClosed>Closed</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>worn by {0}</WornBy>
+  <WornBy>TODO</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>equipped by {0}</EquippedBy>
+  <EquippedBy>TODO</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>TODO</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
   <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
@@ -561,11 +561,11 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Ei voi antaa määräyksiä hallitsemattomille yksiköille.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{0} ei pysty väkivaltaan.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} ei pysty väkivaltaan.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>ei pysty väkivaltaan</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{0} ei ole värvättynä.</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} ei ole värvättynä.</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -591,57 +591,57 @@
   <!-- EN: roofed -->
   <Roofed>TODO</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Ammus ladattu</ShellLoaded>
+  <ShellLoaded>Ammus ladattu: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Lataamaton</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>Kuljettamassa: {0} kohteeseen {1}.</ReportHaulingTo>
+  <ReportHaulingTo>kuljettamassa {THING_label} kohteeseen {DESTINATION}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
   <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>Kuljettamassa: {0}.</ReportHauling>
+  <ReportHauling>kuljettamassa {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>TODO</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>Nukkumassa.</ReportSleeping>
+  <ReportSleeping>nukkumassa.</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>Lepää.</ReportResting>
+  <ReportResting>lepää.</ReportResting>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>Katselee auringonnousua</WatchingSunrise>
+  <WatchingSunrise>katselee auringonnousua</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>Katselee pilviä</CloudWatching>
+  <CloudWatching>katselee pilviä</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>Katselee auringonlaskua</WatchingSunset>
+  <WatchingSunset>katselee auringonlaskua</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>Katselee tähtiä</Stargazing>
+  <Stargazing>katselee tähtiä</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>Katselee auringonpimennystä</WatchingEclipse>
+  <WatchingEclipse>katselee auringonpimennystä</WatchingEclipse>
   <!-- EN: watching the aurora. -->
   <WatchingAurora>TODO</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>Käyttää esinettä {0} kohteeseen {1}.</UsingVerb>
+  <UsingVerb>käyttää esinettä {0} kohteessa {1}.</UsingVerb>
   <!-- EN: using {0}. -->
   <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>alue</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>Cowering.</ReportCowering>
+  <ReportCowering>TODO</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>standing.</ReportStanding>
+  <ReportStanding>TODO</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
+  <ReportExtinguishingFire>TODO</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>TODO</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>TODO</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>TODO</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>Attending party</LordReportAttendingParty>
+  <LordReportAttendingParty>TODO</LordReportAttendingParty>
   <!-- EN: Attending concert -->
   <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
@@ -671,7 +671,7 @@
   <!-- EN: Cover -->
   <ShootingCover>Suoja</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{0} pysäyttää {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} pysäyttää {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>ei suojaa</NoCoverLower>
   <!-- EN: Execution -->
@@ -679,19 +679,19 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>Tee {0}</RecipeMake>
+  <RecipeMake>tee {0}</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>TODO</RecipeMakeDescription>
+  <RecipeMakeDescription>Tee {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Tekee esinettä {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>administer {0}</RecipeAdminister>
+  <RecipeAdminister>anna {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>Antaa {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
+  <TeetotalerUnhappy>absolutistista tulee onneton</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>prosthophobe will be unhappy</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>proteesikielteisestä tulee onneton</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
@@ -711,7 +711,7 @@
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>ryhmän {1} {0}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
@@ -721,7 +721,7 @@
   <!-- EN: {0} under {1}\nHome faction: {2} -->
   <PawnMainDescTempFactionedWrap>TODO</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Ryhmä</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
@@ -763,13 +763,13 @@
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
+  <HostilityReponseTip>TODO</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>TODO</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>joka kuuluu yksilölle</OfLower>
+  <OfLower>joka kuuluu henkilölle</OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
@@ -825,7 +825,7 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Henkilön {0} osumatarkkuus</ShotBy>
+  <ShotBy>Henkilön {1_labelShort} osumatarkkuus</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>Kohteeseen ei voi osua.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
@@ -997,7 +997,7 @@
   <!-- EN: Contains -->
   <CasketContains>Sisältää</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Varoitus!\n\n[PAWN_nameDef] on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
+  <CasketWarning>Varoitus!\n\n{PAWN_nameDef} on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat {PAWN_objective} astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -1105,31 +1105,31 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>TODO</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>TODO</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>TODO</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
+  <MarriageSpotUsable>TODO</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>TODO</MarriageSpotNotUsable>
   <!-- EN: blocked -->
-  <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
+  <MarriageSpotNotStandable>TODO</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
+  <MarriageSpotDangerous>TODO</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>TODO</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>reserved</MarriageSpotReserved>
+  <MarriageSpotReserved>TODO</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>TODO</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>TODO</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
-  <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>TODO</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <!-- EN: Medical rest -->
@@ -1149,15 +1149,15 @@
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>Due for maintenance.</DueForMaintenance>
+  <DueForMaintenance>TODO</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>TODO</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
+  <ProgressToNextLump>TODO</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>Resource below</ResourceBelow>
+  <ResourceBelow>TODO</ResourceBelow>
   <!-- EN: Progress to next portion -->
   <ProgressToNextPortion>TODO</ProgressToNextPortion>
   <!-- EN: No resources below. -->
@@ -1173,37 +1173,37 @@
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
-  <LearningHelper>Learning helper</LearningHelper>
+  <LearningHelper>Mukautuva opastaja</LearningHelper>
   <!-- EN: Mark as learned -->
-  <MarkLearned>Mark as learned</MarkLearned>
+  <MarkLearned>Merkitse opituksi</MarkLearned>
   <!-- EN: Already learned -->
-  <AlreadyLearned>Already learned</AlreadyLearned>
+  <AlreadyLearned>Opittu</AlreadyLearned>
   <!-- EN: Filter -->
-  <Filter>Filter</Filter>
+  <Filter>Suodata</Filter>
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
+  <CompassTip>TODO</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>TODO</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>TODO</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>TODO</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>Total route time: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>TODO</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Planning mode uses the default caravan speed. Your speed may vary.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>TODO</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>Calculating for: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>TODO</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>TODO</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>TODO</RoutePlannerPressEscapeToExit>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToWaypoint>TODO</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
@@ -1215,13 +1215,13 @@
 
   <!-- Outfits -->
   <!-- EN: Anything -->
-  <OutfitAnything>Anything</OutfitAnything>
+  <OutfitAnything>Mitä tahansa</OutfitAnything>
   <!-- EN: Worker -->
-  <OutfitWorker>Worker</OutfitWorker>
+  <OutfitWorker>Työläinen</OutfitWorker>
   <!-- EN: Soldier -->
-  <OutfitSoldier>Soldier</OutfitSoldier>
+  <OutfitSoldier>Sotilas</OutfitSoldier>
   <!-- EN: Nudist -->
-  <OutfitNudist>Nudist</OutfitNudist>
+  <OutfitNudist>Nudisti</OutfitNudist>
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->

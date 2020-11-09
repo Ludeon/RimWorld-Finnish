@@ -111,7 +111,7 @@
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Kuollut {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{0} (kuollut)</DeadLabel>
+  <DeadLabel>{1_label} (kuollut)</DeadLabel>
 
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>karkea {0}</RoughStoneTerrainLabel>
@@ -140,9 +140,9 @@
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{0}'s {1}</SomeonesRoom>
+  <SomeonesRoom>Henkilön {PAWN_labelShort} {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+  <CouplesRoom>Henkilöiden {PAWN1_labelShort} ja {PAWN2_labelShort} {2}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
   <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
@@ -159,13 +159,13 @@
   
   <!-- Rotation -->
   <!-- EN: North -->
-  <North>North</North>
+  <North>Pohjoinen</North>
   <!-- EN: South -->
-  <South>South</South>
+  <South>Etelä</South>
   <!-- EN: West -->
-  <West>West</West>
+  <West>Länsi</West>
   <!-- EN: East -->
-  <East>East</East>
+  <East>Itä</East>
 
   <!-- EN: applying techprint ({0}) -->
   <ApplyingTechprint>TODO</ApplyingTechprint>

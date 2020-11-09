@@ -42,7 +42,7 @@
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Värvää tai vapauta palveluksesta.\n\nVärvätyt henkilöt ottavat vastaan komentoja ja taistelevat. He eivät tee työtä, syö tai lepää.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
-  <IsIncapped>{0} on lamaantunut.</IsIncapped>
+  <IsIncapped>{1_labelShort} on lamaantunut.</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Tuli vapaa</CommandFireAtWillLabel>

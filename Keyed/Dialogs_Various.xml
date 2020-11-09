@@ -18,9 +18,9 @@
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>RimWorld on päivitety versiosta {0} versioon {1}.</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
-  <GameUpdatedToNewVersionSavesIncompatible>Tämä saattaa estää vanhojen versioiden tallennettujen pelien ja modien toiminnan.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>Tämä saattaa estää vanhan version tallennettujen pelien ja modien toiminnan.</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
-  <GameUpdatedToNewVersionSavesCompatible>Vanhoissa versioissa tallennettujen pelien pitäisi olla yhteensopivia, mutta jotkin modit saattavat estyä toimimasta.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Vanhassa versiossa tallennettujen pelien pitäisi olla yhteensopivia, mutta jotkin modit saattavat estyä toimimasta.</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Koska tämä on DRM-vapaa kopio, voit asentaa pelin kahdesti eri kansioihin ja voit pelata sekä uutta että vanhaa versiota.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
@@ -459,7 +459,7 @@
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Tuotantolaatuun vaikuttaa</EfficiencyStat>
   <!-- EN: {0} skill required -->
-  <SkillRequiredToBuild>Vaadittava rakennustaito [0}</SkillRequiredToBuild>
+  <SkillRequiredToBuild>Vaadittava rakennustaito {0}</SkillRequiredToBuild>
   <!-- EN: Requires this level of {0} in order to build. -->
   <SkillRequiredToBuildExplanation>Tarvitsee tason {0} rakentamiseen.</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
@@ -779,7 +779,7 @@
   <!-- EN: You can't send empty shuttle. -->
   <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{0} ei pääse kuljetuskapseleiden luo.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort} ei pääse kuljetuskapseleiden luo.</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
   <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
@@ -969,7 +969,7 @@
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Kapseliryhmä ei ole täysin lastattu. {0} puuttuu. Laukaise silti?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Kapseliryhmä ei ole täysin lastattu. {1_labelShort} puuttuu. Laukaise silti?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->

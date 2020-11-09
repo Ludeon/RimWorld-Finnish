@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>Hullu eläin</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>Hullu {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
   <AnimalInsanitySingle>Paikallinen {ANIMAL_label} on tullut hulluksi. Se hyökkää jokaisen näkemänsä kimppuun.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>Hulluja eläimiä!</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>Hulluja {0}</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
   <AnimalInsanityMultiple>Jonkinlainen psyykkinen aalto on pyyhkinyt alueen yli. Yhdyskuntalaisesi ovat kunnossa, mutta...\n\nNäyttää siltä että moni alueen {0} on tullut hulluksi siitä.</AnimalInsanityMultiple>
 
@@ -73,7 +73,7 @@
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>Vierailija</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>Eräs {PAWN_titleIndef} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\n{PAWN_pronoun} nimensä on {PAWN_nameFull}.</SingleVisitorArrives>
+  <SingleVisitorArrives>Eräs {PAWN_titleIndef} tukikohdasta {1} on tullut vierailemaan yhdyskunnassasi.\n\n{PAWN_pronoun} nimensä on {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>\n\nNäyttää siltä, että {PAWN_pronoun} toi mukanaan muutaman esineen vaihdettavaksi.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
