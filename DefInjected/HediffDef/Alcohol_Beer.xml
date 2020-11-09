@@ -26,7 +26,7 @@
   <AlcoholHigh.stages.blackout.label>TODO</AlcoholHigh.stages.blackout.label>
   
   <!-- EN: alcohol tolerance -->
-  <AlcoholTolerance.label>alkoholi toleranssi</AlcoholTolerance.label>
+  <AlcoholTolerance.label>alkoholitoleranssi</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
   <AlcoholTolerance.description>TODO</AlcoholTolerance.description>
   <!-- EN: small -->

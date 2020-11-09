@@ -141,7 +141,7 @@
 
   <!-- Mod sources -->
   <!-- EN: official content -->
-  <ContentSource_OfficialModsFolder>TODO</ContentSource_OfficialModsFolder>
+  <ContentSource_OfficialModsFolder>virallinen sisältö</ContentSource_OfficialModsFolder>
   <!-- EN: local folder -->
   <ContentSource_ModsFolder>paikallinen kansio</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
@@ -193,7 +193,7 @@
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>Seisoo</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>Seisoen</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
   <PlayerPawnsArriveMethod_DropPods>Laskeutumiskapseli</PlayerPawnsArriveMethod_DropPods>
 
@@ -291,27 +291,27 @@
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>TODO</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Ei koskaan</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
-  <AutomaticPauseMode_MajorThreat>TODO</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_MajorThreat>Suuret uhat</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>TODO</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Kaikki uhat</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
-  <AutomaticPauseMode_AnyLetter>TODO</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_AnyLetter>Kaikki viestit</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
   <!-- EN: itchy -->
-  <PainCategory_LowPain>TODO</PainCategory_LowPain>
+  <PainCategory_LowPain>kutiseva</PainCategory_LowPain>
   <!-- EN: aching -->
-  <PainCategory_MediumPain>TODO</PainCategory_MediumPain>
+  <PainCategory_MediumPain>särkevä</PainCategory_MediumPain>
   <!-- EN: painful -->
-  <PainCategory_HighPain>TODO</PainCategory_HighPain>
+  <PainCategory_HighPain>kivulias</PainCategory_HighPain>
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
-  <ExtraFactionType_HomeFaction>TODO</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HomeFaction>kotiryhmä</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
   <!-- EN: group -->
-  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
+  <ExtraFactionType_MiniFaction>ryhmä</ExtraFactionType_MiniFaction>
 </LanguageData>

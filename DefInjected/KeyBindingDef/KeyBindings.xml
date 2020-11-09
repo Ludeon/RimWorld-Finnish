@@ -14,7 +14,7 @@
   <Command_ItemForbid.label>kiellä tai salli esineen käyttö</Command_ItemForbid.label>
   
   <!-- EN: toggle power -->
-  <Command_TogglePower.label>kytke virta päällte tai pois</Command_TogglePower.label>
+  <Command_TogglePower.label>kytke virta päälle tai pois</Command_TogglePower.label>
   
   <!-- EN: cancel -->
   <Designator_Cancel.label>peruuta</Designator_Cancel.label>
@@ -29,28 +29,28 @@
   <Designator_RotateRight.label>kierrä oikealle</Designator_RotateRight.label>
   
   <!-- EN: change selected debug action -->
-  <Dev_ChangeSelectedDebugAction.label>TODO</Dev_ChangeSelectedDebugAction.label>
+  <Dev_ChangeSelectedDebugAction.label>vaihda valittu kehitystoiminto</Dev_ChangeSelectedDebugAction.label>
   
   <!-- EN: tick once -->
   <Dev_TickOnce.label>Suorita yksi askel eteenpäin</Dev_TickOnce.label>
   
   <!-- EN: toggle debug actions menu -->
-  <Dev_ToggleDebugActionsMenu.label>kehitystilan toiminnot päälle tai pois</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugActionsMenu.label>kehitystoimintovalikko päälle tai pois</Dev_ToggleDebugActionsMenu.label>
   
   <!-- EN: toggle debug inspector -->
-  <Dev_ToggleDebugInspector.label>kehitystilan tarkastaja päälle tai pois</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugInspector.label>kehitystarkastaja päälle tai pois</Dev_ToggleDebugInspector.label>
   
   <!-- EN: toggle debug log -->
-  <Dev_ToggleDebugLog.label>kehitystilan loki päälle tai pois</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugLog.label>kehitysloki päälle tai pois</Dev_ToggleDebugLog.label>
   
   <!-- EN: toggle debug log menu -->
-  <Dev_ToggleDebugLogMenu.label>kehitystilan lokin valikko päälle tai pois</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugLogMenu.label>kehityslokin valikko päälle tai pois</Dev_ToggleDebugLogMenu.label>
   
   <!-- EN: toggle debug settings menu -->
-  <Dev_ToggleDebugSettingsMenu.label>kehitystilan asetusten valikko päälle tai pois</Dev_ToggleDebugSettingsMenu.label>
+  <Dev_ToggleDebugSettingsMenu.label>kehitysasetusten valikko päälle tai pois</Dev_ToggleDebugSettingsMenu.label>
   
   <!-- EN: toggle god mode -->
-  <Dev_ToggleGodMode.label>Jumala-tila päälle tai pois\n</Dev_ToggleGodMode.label>
+  <Dev_ToggleGodMode.label>Jumala-tila päälle tai pois</Dev_ToggleGodMode.label>
   
   <!-- EN: dolly down -->
   <MapDolly_Down.label>liikuta kameraa alas</MapDolly_Down.label>
@@ -119,7 +119,7 @@
   <PreviousColonist.label>edellinen yhdyskuntalainen</PreviousColonist.label>
   
   <!-- EN: queue order -->
-  <QueueOrder.label>TODO</QueueOrder.label>
+  <QueueOrder.label>järjestys jonossa</QueueOrder.label>
   
   <!-- EN: select next in cell -->
   <SelectNextInCell.label>valitse seuraava ruudussa</SelectNextInCell.label>
@@ -128,25 +128,25 @@
   <TakeScreenshot.label>ota ruudunkaappaus</TakeScreenshot.label>
   
   <!-- EN: game speed: Fast -->
-  <TimeSpeed_Fast.label>pelinopeus: nopea</TimeSpeed_Fast.label>
+  <TimeSpeed_Fast.label>pelinopeus: Nopea</TimeSpeed_Fast.label>
   
   <!-- EN: game speed: Normal -->
-  <TimeSpeed_Normal.label>pelinopeus: normaali</TimeSpeed_Normal.label>
+  <TimeSpeed_Normal.label>pelinopeus: Normaali</TimeSpeed_Normal.label>
   
   <!-- EN: game speed: Super fast -->
-  <TimeSpeed_Superfast.label>pelinopeus: erittäin nopea</TimeSpeed_Superfast.label>
+  <TimeSpeed_Superfast.label>pelinopeus: Erittäin nopea</TimeSpeed_Superfast.label>
   
   <!-- EN: game speed: Ultra fast (debug) -->
-  <TimeSpeed_Ultrafast.label>pelinopeus: äärimmäisen nopea (kehitystila)</TimeSpeed_Ultrafast.label>
+  <TimeSpeed_Ultrafast.label>pelinopeus: Äärimm. nopea (kehitystila)</TimeSpeed_Ultrafast.label>
   
   <!-- EN: toggle beauty display -->
-  <ToggleBeautyDisplay.label>TODO</ToggleBeautyDisplay.label>
+  <ToggleBeautyDisplay.label>kauneuden näyttö päälle tai pois</ToggleBeautyDisplay.label>
   
   <!-- EN: pause/resume game -->
   <TogglePause.label>aseta peli tauolle / jatka peliä</TogglePause.label>
   
   <!-- EN: toggle room stats display -->
-  <ToggleRoomStatsDisplay.label>TODO</ToggleRoomStatsDisplay.label>
+  <ToggleRoomStatsDisplay.label>huonetilastojen näyttö päälle tai pois</ToggleRoomStatsDisplay.label>
   
   <!-- EN: toggle screenshot mode -->
   <ToggleScreenshotMode.label>ruudunkaappaustila päälle tai pois</ToggleScreenshotMode.label>

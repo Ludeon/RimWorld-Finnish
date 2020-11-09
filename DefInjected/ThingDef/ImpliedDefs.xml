@@ -1360,7 +1360,7 @@
   
   <!-- EN: ihminen lihaa -->
   <Meat_Human.label>ihmisen lihaa</Meat_Human.label>
-  <!-- EN: Ràẅ þùṭçĥèṟèð Ƒſèșĥ. Càƞ þè çòòкèð ìƞṭò ṁèàſș òṟ èàṭèƞ ṟàẅ, àſṭĥòùğĥ ṁòșṭ ĥùṁàƞș ðìșſìкè ṭĥè ìðèà. -->
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <Meat_Human.description>Raakaa ihmisen lihaa.</Meat_Human.description>
   
   <!-- EN: husky lihaa -->
@@ -1395,7 +1395,7 @@
   
   <!-- EN: insect meat -->
   <Meat_Megaspider.label>megaspider meat</Meat_Megaspider.label>
-  <!-- EN: Ràẅ þùṭçĥèṟèð Ƒſèșĥ. IƑ ƞèçèșșàṟý, çàƞ þè çòòкèð ìƞṭò ṁèàſș, òṟ èṽèƞ èàṭèƞ ṟàẅ. Eẋṭṟèṁèſý ùƞàṗṗèṭìžìƞğ. -->
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
   <Meat_Megaspider.description>Raw flesh of a megaspider.</Meat_Megaspider.description>
   
   <!-- EN: apina lihaa -->

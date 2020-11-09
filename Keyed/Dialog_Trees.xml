@@ -4,14 +4,14 @@
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
   <FactionGreetingHostile>{0} sylkee suustansa satunnaisia haukkumanimiä ja katkaisee yhteyden.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
-  <FactionGreetingHostileAppreciative>{0} vaatii että teet hyvän tahdon eleen, kuten tuo yhdelle hänen asuinpaikalleen lahjoja tai vapauttamalla hänen ryhmänsä vankeja vahingoittuamttomina. Siihen asti hän on haluton puhumaan.\n\nHän katkaisee yhteyden loukkauksen mutisten.</FactionGreetingHostileAppreciative>
+  <FactionGreetingHostileAppreciative>{0} vaatii että teet hyvän tahdon eleen, kuten tuot yhdelle hänen asuinpaikalleen lahjoja tai vapautat hänen ryhmänsä vankeja vahingoittumattomina. Siihen asti hän on haluton puhumaan.\n\nHän katkaisee yhteyden loukkauksen mutisten.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
   <FactionGreetingWary>{0} tervehtii henkilöä {NEGOTIATOR_labelShort} ja kysyy hänen aikeitaan.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
   <FactionGreetingWarm>{0} tervehtii henkilöä {NEGOTIATOR_labelShort} lämpimästi ja kysyy mitä {LEADER_pronoun} voi tehdä auttaakseen.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>TODO</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>ei tee työtä {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>Katkaise yhteys</Disconnect>
 

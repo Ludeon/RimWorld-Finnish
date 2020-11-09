@@ -35,7 +35,7 @@
   <!-- EN: Art -->
   <TabArt>Taide</TabArt>
   <!-- EN: Social -->
-  <TabSocial>Seuraelämä</TabSocial>
+  <TabSocial>Seura</TabSocial>
   <!-- EN: Log -->
   <TabLog>Loki</TabLog>
   <!-- EN: Caravan -->
@@ -272,7 +272,7 @@
   <!-- EN: Show combat -->
   <ShowCombat>Näytä taistelu</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>Näytä sosiaalinen</ShowSocial>
+  <ShowSocial>Näytä sos.</ShowSocial>
   <!-- EN: no recent entries -->
   <NoRecentEntries>ei viimeaikaisia merkintöjä</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->

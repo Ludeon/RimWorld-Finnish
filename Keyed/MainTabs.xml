@@ -129,11 +129,11 @@
   <!-- EN: Select graph -->
   <SelectGraph>Valitse kaavio</SelectGraph>
   <!-- EN: Last 30 days -->
-  <Last30Days>Viimeiset 30 päivää</Last30Days>
+  <Last30Days>30 päivää</Last30Days>
   <!-- EN: Last 100 days -->
-  <Last100Days>Viimeiset 100 päivää</Last100Days>
+  <Last100Days>100 päivää</Last100Days>
   <!-- EN: Last 300 days -->
-  <Last300Days>Viimeiset 300 päivää</Last300Days>
+  <Last300Days>300 päivää</Last300Days>
   <!-- EN: All -->
   <AllDays>Kaikki</AllDays>
   <!-- EN: Value -->

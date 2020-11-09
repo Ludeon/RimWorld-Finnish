@@ -7,63 +7,63 @@
   <!-- EN: Planet -->
   <TabPlanet>Planeetta</TabPlanet>
   <!-- EN: Social -->
-  <TabCaravanSocial>Social</TabCaravanSocial>
+  <TabCaravanSocial>Seura</TabCaravanSocial>
   <!-- EN: Health -->
-  <TabCaravanHealth>Health</TabCaravanHealth>
+  <TabCaravanHealth>Terveys</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>Needs</TabCaravanNeeds>
+  <TabCaravanNeeds>Tarpeet</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>Gear</TabCaravanGear>
+  <TabCaravanGear>Varusteet</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>Items</TabCaravanItems>
+  <TabCaravanItems>Esineet</TabCaravanItems>
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>Abandon {{0}}x {0}</AbandonSliderText>
+  <AbandonSliderText>Hylkää {{0}}x {0}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>Haluatko varmasti hylätä {0}?\n\nHylätyt esineet katoavat eikä niitä saa koskaan takaisin.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>Abandon</AbandonTip>
+  <AbandonTip>Hylkää</AbandonTip>
   <!-- EN: Banish -->
-  <BanishTip>TODO</BanishTip>
+  <BanishTip>Häädä</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>Hylkää tietty määrä</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>Abandon (all)</AbandonAllTip>
+  <AbandonAllTip>Hylkää (kaikki)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>nHylätyt esineet katoavat eikä niitä saa koskaan takaisin.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>TODO</BanishTipWillDie>
+  <BanishTipWillDie>{1_labelShort} kuolee todennäköisesti.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
-  <CaravanColonists>Colonists</CaravanColonists>
+  <CaravanColonists>Yhdyskuntalaiset</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>Vangit ja eläimet</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>Inventory</CaravanItems>
+  <CaravanItems>Esineet</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>Klikkaa avataksesi lisätietovälilehti.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
-  <CaravanPrisoners>Prisoners</CaravanPrisoners>
+  <CaravanPrisoners>Vangit</CaravanPrisoners>
   <!-- EN: Equippable items -->
-  <CaravanWeaponsAndApparel>TODO</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>Käytettävät varusteet</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>TODO</NoneCapable>
+  <NoneCapable>Kukaan ei kykene</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>TODO</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>Karavaani ei liiku</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Drag to rearrange.</DragToRearrange>
+  <DragToRearrange>Vedä järjestääksesi.</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>TODO</AssignDrugPolicies>
+  <AssignDrugPolicies>Määrää päihdekäytäntöjä</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>TODO</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>Kantavatko muut karavaanin jäsenet tätä ihmistä tai eläintä tämän ollessa sairas.\n\nKannetut karavaanin jäsenet voivat levätä myös karavaanin liikkuessa, mutta ne hidastavat sitä.</BeCarriedIfSickTip>
   
   <!-- Planet -->
   <!-- EN: Seed -->

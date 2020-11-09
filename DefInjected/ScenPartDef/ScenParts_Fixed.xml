@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: starting people -->
-  <ConfigPage_ConfigureStartingPawns.label>starting people</ConfigPage_ConfigureStartingPawns.label>
+  <ConfigPage_ConfigureStartingPawns.label>alussa olevat ihmiset</ConfigPage_ConfigureStartingPawns.label>
   
   <!-- EN: Player faction -->
-  <PlayerFaction.label>Player faction</PlayerFaction.label>
+  <PlayerFaction.label>Pelaajan ryhmä</PlayerFaction.label>
   
   <!-- EN: arrival method -->
-  <PlayerPawnsArriveMethod.label>arrival method</PlayerPawnsArriveMethod.label>
+  <PlayerPawnsArriveMethod.label>saapumistapa</PlayerPawnsArriveMethod.label>
   
 </LanguageData>

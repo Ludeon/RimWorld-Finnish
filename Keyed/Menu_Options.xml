@@ -21,7 +21,7 @@
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pysäytä peli kiireelliseen viestiin</PauseOnUrgentLetter>
   <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Pysäytä autom.</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Mukautettu kursori</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -35,7 +35,7 @@
   <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Sinulle opetetaan nyt kaikki asiat alusta alkaen.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Sinulle opetetaan kaikki asiat alusta alkaen.</AdaptiveTutorIsReset>
   <!-- EN: Run in background -->
   <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
   <!-- EN: Development mode -->
@@ -43,7 +43,7 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Nollaa modit kaatumisen jälkeen</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>TODO</SimulateNotOwningRoyalty>
+  <SimulateNotOwningRoyalty>Simuloi Royaltyn puuttuminen</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -51,9 +51,9 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Näytä tallennussijainti</ShowSaveGameDataLocation>
   <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <OpenLogFileFolder>Avaa lokitiedoston kansio</OpenLogFileFolder>
   <!-- EN: Show log file location -->
-  <ShowLogFileLocation>TODO</ShowLogFileLocation>
+  <ShowLogFileLocation>Näytä lokitiedoston sijanti</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Halutut pelaajien luomat hahmot. Näiden hahmojen pelissä olon todennäköisyys tulee olemaan suurempi:</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -73,7 +73,7 @@
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Yhdyskuntien maksimimäärä: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
-  <MapDragSensitivity>TODO</MapDragSensitivity>
+  <MapDragSensitivity>Hiiren vetämisherkkyys kartalla</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Kasvien heiluminen tuulessa</PlantWindSway>
   <!-- EN: Enable test map sizes -->
@@ -103,6 +103,6 @@
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Asetukset on palautettu oletuksiin. Peli käynnistyy nyt uudelleen automaattisesti.</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>Kaikki asetukset palautetaan oletuksiin ja peli käynnistetään uudelleen. Kaikki tallentamaton edistys menetetään!\n\nJatketaanko?</ResetAndRestartConfirmationDialog>
   
 </LanguageData>

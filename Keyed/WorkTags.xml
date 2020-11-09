@@ -2,42 +2,42 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>Ei mitään</WorkTagNone>
+  <WorkTagNone>ei mitään</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>Älyllinen</WorkTagIntellectual>
+  <WorkTagIntellectual>älyllinen</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>Raskas työ</WorkTagManualDumb>
+  <WorkTagManualDumb>raskas työ</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>Ammattitaitoinen työ</WorkTagManualSkilled>
+  <WorkTagManualSkilled>ammattitaitoinen työ</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>Väkivaltainen</WorkTagViolent>
+  <WorkTagViolent>väkivaltainen</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>Välittäminen</WorkTagCaring>
+  <WorkTagCaring>hoitaminen</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>Sosiaalinen</WorkTagSocial>
+  <WorkTagSocial>sosiaalinen</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>Animals</WorkTagAnimals>
+  <WorkTagAnimals>eläimet</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>Taiteellinen</WorkTagArtistic>
+  <WorkTagArtistic>taiteellinen</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>Käsityöt</WorkTagCrafting>
+  <WorkTagCrafting>käsityöt</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>Ruuanlaitto</WorkTagCooking>
+  <WorkTagCooking>ruuanlaitto</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>Palontorjunta</WorkTagFirefighting>
+  <WorkTagFirefighting>palontorjunta</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>Siivous</WorkTagCleaning>
+  <WorkTagCleaning>siivous</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>Kuljettaminen</WorkTagHauling>
+  <WorkTagHauling>kuljettaminen</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>Kasvityö</WorkTagPlantWork>
+  <WorkTagPlantWork>kasvityö</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>Louhimistyö</WorkTagMining>
+  <WorkTagMining>louhimistyö</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>TODO</WorkTagHunting>
+  <WorkTagHunting>metsästäminen</WorkTagHunting>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <WorkTagCommoner>rahvaallinen työ</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>TODO</WorkTagAllWork>
+  <WorkTagAllWork>kaikki työt</WorkTagAllWork>
 
 </LanguageData>

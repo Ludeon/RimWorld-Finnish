@@ -4,23 +4,23 @@
   <!-- EN: recovery -->
   <Adaptation.label>TODO</Adaptation.label>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
+  <Adaptation.valueFormat>{0} päivää</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>mieliala</ColonistMood.label>
   
   <!-- EN: free colonists -->
-  <FreeColonists.label>vapaita yhdyskuntalaisia</FreeColonists.label>
+  <FreeColonists.label>yhdyskuntalaisia</FreeColonists.label>
   
   <!-- EN: pop recovery -->
   <PopAdaptation.label>TODO</PopAdaptation.label>
   <!-- EN: {0} days -->
-  <PopAdaptation.valueFormat>TODO</PopAdaptation.valueFormat>
+  <PopAdaptation.valueFormat>{0} päivää</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>TODO</PopIntent.label>
   <!-- EN: {0} days -->
-  <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
+  <PopIntent.valueFormat>{0} päivää</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>vankeja</Prisoners.label>
@@ -28,18 +28,18 @@
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>TODO</ThreatPoints.label>
   <!-- EN: {0} points -->
-  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
+  <ThreatPoints.valueFormat>{0} pistettä</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>varallisuus (rakennuksista)</Wealth_Buildings.label>
+  <Wealth_Buildings.label>varall. (rakenn.)</Wealth_Buildings.label>
   
   <!-- EN: wealth (items) -->
-  <Wealth_Items.label>varallisuus (esineistä)</Wealth_Items.label>
+  <Wealth_Items.label>varall. (esineistä)</Wealth_Items.label>
   
   <!-- EN: wealth (creatures) -->
-  <Wealth_Pawns.label>TODO</Wealth_Pawns.label>
+  <Wealth_Pawns.label>varall. (eläimistä)</Wealth_Pawns.label>
   
   <!-- EN: wealth (total) -->
-  <Wealth_Total.label>varallisuus (yhteensä)</Wealth_Total.label>
+  <Wealth_Total.label>varall. (yhteensä)</Wealth_Total.label>
   
 </LanguageData>

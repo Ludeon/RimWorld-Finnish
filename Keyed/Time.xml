@@ -42,13 +42,13 @@
   <QuadrumDecembary>Joulutammi</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>Huto</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>huh</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>Helo</QuadrumJugust_Short>
+  <QuadrumJugust_Short>hei</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>Syma</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>syy</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>Jota</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>jou</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>Syntynyt: {0}</Born>

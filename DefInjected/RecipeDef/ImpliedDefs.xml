@@ -18,9 +18,6 @@
   <!-- EN: Tekee esinettä t-paita. -->
   <Make_Apparel_BasicShirt.jobString>Räätälöi t-paitaa.</Make_Apparel_BasicShirt.jobString>
   
-  <!-- EN: Tee pitkä takki. -->
-  <Make_Apparel_Duster.description>TODO</Make_Apparel_Duster.description>
-  
   <!-- EN: tee housupari -->
   <Make_Apparel_Pants.label>Räätälöi housupari</Make_Apparel_Pants.label>
   <!-- EN: Tee housupari. -->
