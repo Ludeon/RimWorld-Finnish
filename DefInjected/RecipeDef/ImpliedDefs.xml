@@ -19,7 +19,7 @@
   <Make_Apparel_BasicShirt.jobString>Räätälöi t-paitaa.</Make_Apparel_BasicShirt.jobString>
   
   <!-- EN: Tee pitkä takki. -->
-  <Make_Apparel_Duster.description>TODO.</Make_Apparel_Duster.description>
+  <Make_Apparel_Duster.description>TODO</Make_Apparel_Duster.description>
   
   <!-- EN: tee housupari -->
   <Make_Apparel_Pants.label>Räätälöi housupari</Make_Apparel_Pants.label>
@@ -32,9 +32,9 @@
   <Make_Apparel_PowerArmor.jobString>Tekee voimahaarniskaa.</Make_Apparel_PowerArmor.jobString>
   
   <!-- EN: tee voimahaarniskan kypärä -->
-  <Make_Apparel_PowerArmorHelmet.label>Make power armor helmet</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.label>tee voimahaarniskan kypärä</Make_Apparel_PowerArmorHelmet.label>
   <!-- EN: Tee voimahaarniskan kypärä. -->
-  <Make_Apparel_PowerArmorHelmet.description>Make power armor helmet</Make_Apparel_PowerArmorHelmet.description>
+  <Make_Apparel_PowerArmorHelmet.description>Tee voimahaarniskan kypärä.</Make_Apparel_PowerArmorHelmet.description>
   <!-- EN: Tekee esinettä voimahaarniskan kypärä. -->
   <Make_Apparel_PowerArmorHelmet.jobString>Tekee voimahaarniskan kypärää.</Make_Apparel_PowerArmorHelmet.jobString>
   
