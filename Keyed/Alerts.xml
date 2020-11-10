@@ -64,14 +64,14 @@
   <NeedColonistBedsDesc>Sinulla on enemmän yhdyskuntalaisia kuin sinulla on heille varattuja sänkyjä. Jollakulla ei ole paikkaa nukkua.\n\nTee joko lisää sänkyjä tai muuta vangin sänky yhdyskuntalaisen sängyksi.\n\nJos sinulla ei ole resursseja, nukkumapaikat ovat ilmaisia sekä valmiita heti.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Yhdyskuntalainen hautaamatta</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
-  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>Yhdyskuntalainen on hautaamatta.\n\nTämä saattaa vaikuttaa negatiivisesti yhdyskuntalaistesi mielialaan.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Metsästäjällä ei ole ampuma-asetta</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>Yhdyskuntalainen on määrätty metsästäjäksi, mutta hänellä ei ole ampuma-asetta.\n\n Hän ei metsästä ennen kuin hänellä on ampuma-ase.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Yhdyskuntalainen on määrätty metsästäjäksi, mutta hänellä ei ole ampuma-asetta.\n\nHän ei metsästä ennen kuin hänellä on ampuma-ase.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Riekaleiset vaateet</AlertTatteredApparel>
@@ -106,12 +106,12 @@
   <!-- EN: Need meal source -->
   <NeedMealSource>Tarvitset ruuanlähteen</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>Sinulla ei ole mitään tapaa valmistaa kunnollisia aterioita kypsymättömistä aineksista.\n\nRakenna liesi, nuotio tai ravinnetahna-annostelija.\n\n(Se ei saa olla vangin huoneessa, muuten yhdyskuntalaiset eivät voi käyttää sitä.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Sinulla ei ole mitään tapaa valmistaa kunnollisia aterioita kypsymättömistä aineksista.\n\nRakenna liesi, nuotio tai ravinnetahna-annostelija.\n\n(Se ei voi olla vangin huoneessa, tai yhdyskuntalaiset eivät voi käyttää sitä.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>Tarvitset vaihtelua ajanvietteeseen</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>On vain {0} erilaista ajanvietetapaa yhdyskunnassa {1}, mutta nykyisillä odotusten tasolla ({2}), yhdyskuntalaiset tarvitsevat {3} erilaista ajanvietetapaa pysyäkseen tyytyväisinä. Tarjoa vaihtelua ajanvietteeseen tekemällä uusi erilainen ajanvietetapa.\n\n{4}\n\n{5}\n\nHuomaa: Voit tarkistaa minkä tahansa esineen ajanvietetyypin sen Tilastot-sivulta, saatavilla painamalla 'i'-nappia.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>Paikassa {1} on vain {0} erilaista ajanvietetapaa, mutta nykyisillä odotusten tasolla ({2}), yhdyskuntalaiset tarvitsevat {3} erilaista ajanvietetapaa pysyäkseen tyytyväisinä. Tarjoa vaihtelua ajanvietteeseen tekemällä uusi erilainen ajanvietetapa.\n\n{4}\n\n{5}\n\nHuomaa: Voit tarkistaa minkä tahansa esineen ajanvietetyypin sen Tilastot-sivulta, saatavilla painamalla 'i'-nappia.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>Saatavila olevat ajanvietetavat</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
@@ -152,9 +152,9 @@
   <ColonistsIdleDesc>Nämä yhdyskuntalaiset haahuilevat toimettomina:\n\n{0}\nSinun kannattaisi keksiä heille jotain tekemistä.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>Karavaani toimettomana</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+  <CaravanIdleDesc>Nämä karavaanit odottavat että asetat niille seuraavan määränpään:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>Yhdyskuntalainen tarvitsee hoitoa</ColonistNeedsTreatment>
@@ -191,7 +191,7 @@
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>Metsästäjällä on suojakilpi ja ampuma-ase</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>Erääs metsästäjäsi käyttää ampuma-asetta ja hänellä on päällään henkilökohtainen suojakilpi, joka estää ampumisen kauas.\n\nHe eivät voi metsästää ellei suojaakilpeä poisteta.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Eräs metsästäjäsi käyttää ampuma-asetta ja hänellä on päällään henkilökohtainen suojakilpi, joka estää ampumisen kauas.\n\nHe eivät voi metsästää ellei suojaakilpeä poisteta.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
   <NeedWarmClothes>Tarvitset lämpimiä vaatteita</NeedWarmClothes>
@@ -208,50 +208,50 @@
   <ImmobileCaravanDesc>Yksi karavaaneistasi ei pysty liikkumaan koska siinä on liikaa tavaraa.\n\nVoit saada karavaanin taas liikkeelle hylkäämällä jotain tavaroita Tavarat-välilehdestä.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Rakennus on käyttökelvoton katon takia</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>Yhtä tai useampaa rakennuksistasi voi käyttää vain jos sen päällä ei ole kattoa, mutta sen päällä on katto. Rakennusta tai rakennuksia ei voi käyttää ennen kuin katto poistetaan.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <AlertHeatstroke>Lämpöhalvaus</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>Seuraavat ihmiset kärsivät lämpöhalvauksesta:\n\n{0}\nVie heidät viileämpään paikkaan. Voit viilentää huoneita passiviisilla ja sähkökäyttöisillä jäähdyttimillä. Syvällä maan alla olevat alueet ovat myös luonnostaan kylmiä jos ne erotetaan ulkoa ovella.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>Vieras tyytymätön</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Vieraasi {0} vaatii sinun pitävän heidät hyvällä tuulella. Heidän mielialansa on kuitenkin kehno. Tee jotain saadaksesi heidät voimaan paremmin:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Sukkulan lähtemiseen {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>Sukkula lähtee kun on kulunut {1}. Tehtävä {0} vaatii että lastaat seuraavat henkilöt tai tavarat sukkulaan ennen kuin se lähtee:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
-  <QuestPartShuttleLeaveDelayDescHidden>TODO</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleLeaveDelayDescHidden>Sukkula lähtee kun on kulunut {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Shuttle arriving in {0} -->
-  <QuestPartShuttleArriveDelay>TODO</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelay>Sukkulan saapumiseen {0}</QuestPartShuttleArriveDelay>
   <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleArriveDelayDesc>TODO</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDesc>Sukkula saapuu kun on kulunut {1}. Tehtävä {0} vaatii että lastaat seuraavat henkilöt tai tavarat sukkulaan ennen kuin se lähtee:\n\n{2}</QuestPartShuttleArriveDelayDesc>
   <!-- EN: A shuttle will arrive in {0}. -->
-  <QuestPartShuttleArriveDelayDescHidden>TODO</QuestPartShuttleArriveDelayDescHidden>
+  <QuestPartShuttleArriveDelayDescHidden>Sukkula saapuu kun on kulunut {0}.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Monumentti tuhotaan</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Olet rakentanut kielletyn rakennuksen erään monumenttisi sisälle. Monumenttia pidetään tuhottuna {0} päästä.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <ActivatorCountdown>Ajastettu aktivointi {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Kello käy ajastimelle joka valmistautuu vapauttamaan lähellä olevia mekanoideja.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} ajastettua aktivointia</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>Kello käy {0} ajastimelle jotka valmistautuvat vapauttamaan lähellä olevia mekanoideja.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <QuestExpiresSoon>Tehtävän vanhenemiseen {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Tehtävä '{0}' vanhenee kun on kulunut {1}.</QuestExpiresSoonDesc>
 </LanguageData>
