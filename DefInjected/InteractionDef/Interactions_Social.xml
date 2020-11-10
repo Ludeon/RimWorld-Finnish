@@ -21,7 +21,7 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>logentry->Jutteli henkilön [other_nameShortIndef] kanssa mukavia.</li>
+    <li>r_logentry->Jutteli henkilön [RECIPIENT_nameDef] kanssa mukavia.</li>
   </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
@@ -42,7 +42,7 @@
     <li>subject->[TalkTopicHeavy]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>logentry->Kävi syvän keskustelun henkilön [other_nameShortIndef] kanssa.</li>
+    <li>r_logentry->Kävi syvän keskustelun henkilön [RECIPIENT_nameDef] kanssa.</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
