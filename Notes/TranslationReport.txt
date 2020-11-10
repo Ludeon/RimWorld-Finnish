@@ -6,31 +6,7 @@ Translation report for Finnish
 
 ========== Backstories load errors (0) ==========
 
-========== Missing keyed translations (1083) ==========
-AlertColonistLeftUnburied 'Colonist left unburied' (English file: Alerts.xml:40) (placeholder exists in Alerts.xml:67)
-AlertColonistLeftUnburiedDesc 'A colonist is left unburied.\n\nThis may negatively affect your colonists' mood.' (English file: Alerts.xml:41) (placeholder exists in Alerts.xml:69)
-CaravanIdle 'Caravan idle' (English file: Alerts.xml:92) (placeholder exists in Alerts.xml:155)
-CaravanIdleDesc 'These caravans are waiting for you to set their next destination:\n\n{0}' (English file: Alerts.xml:93) (placeholder exists in Alerts.xml:157)
-BuildingCantBeUsedRoofed 'Building unusable due to roof' (English file: Alerts.xml:125) (placeholder exists in Alerts.xml:211)
-BuildingCantBeUsedRoofedDesc 'One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof.' (English file: Alerts.xml:126) (placeholder exists in Alerts.xml:213)
-AlertHeatstroke 'Heatstroke' (English file: Alerts.xml:128) (placeholder exists in Alerts.xml:216)
-AlertHeatstrokeDesc 'The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.' (English file: Alerts.xml:129) (placeholder exists in Alerts.xml:218)
-QuestPartMoodBelowThreshold 'Guest unhappy' (English file: Alerts.xml:131) (placeholder exists in Alerts.xml:221)
-QuestPartMoodBelowThresholdDesc 'The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1}' (English file: Alerts.xml:132) (placeholder exists in Alerts.xml:223)
-QuestPartShuttleLeaveDelay 'Shuttle leaving in {0}' (English file: Alerts.xml:134) (placeholder exists in Alerts.xml:226)
-QuestPartShuttleLeaveDelayDesc 'The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}' (English file: Alerts.xml:135) (placeholder exists in Alerts.xml:228)
-QuestPartShuttleLeaveDelayDescHidden 'The shuttle will leave in {0}.' (English file: Alerts.xml:136) (placeholder exists in Alerts.xml:230)
-QuestPartShuttleArriveDelay 'Shuttle arriving in {0}' (English file: Alerts.xml:138) (placeholder exists in Alerts.xml:233)
-QuestPartShuttleArriveDelayDesc 'A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}' (English file: Alerts.xml:139) (placeholder exists in Alerts.xml:235)
-QuestPartShuttleArriveDelayDescHidden 'A shuttle will arrive in {0}.' (English file: Alerts.xml:140) (placeholder exists in Alerts.xml:237)
-DisallowedBuildingInsideMonument 'Monument will be destroyed' (English file: Alerts.xml:142) (placeholder exists in Alerts.xml:240)
-DisallowedBuildingInsideMonumentDesc 'You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.' (English file: Alerts.xml:143) (placeholder exists in Alerts.xml:242)
-ActivatorCountdown 'Countdown activator {0}' (English file: Alerts.xml:145) (placeholder exists in Alerts.xml:245)
-ActivatorCountdownDesc 'There is a countdown activator ticking down, preparing to awaken nearby mechanoids.' (English file: Alerts.xml:146) (placeholder exists in Alerts.xml:247)
-ActivatorCountdownMultiple '{0} countdown activators' (English file: Alerts.xml:147) (placeholder exists in Alerts.xml:249)
-ActivatorCountdownDescMultiple 'There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.' (English file: Alerts.xml:148) (placeholder exists in Alerts.xml:251)
-QuestExpiresSoon 'Quest expires in {0}' (English file: Alerts.xml:150) (placeholder exists in Alerts.xml:254)
-QuestExpiresSoonDesc 'The quest '{0}' will expire in {1}.' (English file: Alerts.xml:151) (placeholder exists in Alerts.xml:256)
+========== Missing keyed translations (1057) ==========
 TerrainCannotSupport_TerrainAffordanceFromStuff '{0_label} (when made of {2_label}) requires terrain that supports: {1_label}' (English file: Designators.xml:120) (placeholder exists in Designators.xml:204)
 InteractionSpotWillOverlap 'Interaction spot will overlap with the interaction spot of {1_labelShort}.' (English file: Designators.xml:125) (placeholder exists in Designators.xml:214)
 InteractionSpotOverlaps 'Interaction spot overlaps with the interaction spot of {1_labelShort}.' (English file: Designators.xml:126) (placeholder exists in Designators.xml:216)
@@ -799,8 +775,6 @@ Average 'Average' (English file: Misc.xml:44) (placeholder exists in Misc.xml:80
 Cause 'Cause' (English file: Misc.xml:45) (placeholder exists in Misc.xml:82)
 Etc 'etc' (English file: Misc.xml:46) (placeholder exists in Misc.xml:84)
 MoneyFormat '${0}' (English file: Misc.xml:47) (placeholder exists in Misc.xml:86)
-MeatInsectDesc 'Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.' (English file: Misc.xml:53) (placeholder exists in Misc.xml:95)
-MeatHumanDesc 'Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.' (English file: Misc.xml:54) (placeholder exists in Misc.xml:97)
 TechprintLabel 'techprint ({PROJECT_label})' (English file: Misc.xml:56) (placeholder exists in Misc.xml:100)
 TechprintDesc 'This is a techprint for the research project '{PROJECT_label}'.\n\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.\n\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.\n\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies.' (English file: Misc.xml:57) (placeholder exists in Misc.xml:105)
 Unlocks 'Unlocks' (English file: Misc.xml:61) (placeholder exists in Misc.xml:107)
@@ -1091,7 +1065,7 @@ InterceptsProjectiles_AerialProjectiles 'aerial projectiles' (English file: Misc
 AffectedGender 'Affected gender' (English file: Misc_Gameplay.xml:738) (placeholder exists in Misc_Gameplay.xml:1342)
 CausedByHediff 'Caused by: {0}' (English file: Misc_Gameplay.xml:741) (placeholder exists in Misc_Gameplay.xml:1346)
 
-========== Def-injected translations missing (5205) ==========
+========== Def-injected translations missing (5204) ==========
 BodyDef: Lancer.label 'lancer' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Lancer.corePart.parts.right_mechanical_shoulder.customLabel 'right mechanical shoulder' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.label 'pikeman' (placeholder exists in Bodies_Mechanoid.xml)
@@ -1647,7 +1621,6 @@ InteractionDef: Nuzzle.logRulesInitiator.rulesStrings.20 'rubbedpart->shoulder' 
 InteractionDef: Nuzzle.logRulesInitiator.rulesStrings.21 'rubbedpart->hand' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in Interactions_Animal.xml)
 InteractionDef: Nuzzle.logRulesInitiator.rulesStrings.22 'rubbedpart->side' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in Interactions_Animal.xml)
 InteractionDef: Nuzzle.logRulesInitiator.rulesStrings.23 'rubbedpart->arm' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in Interactions_Animal.xml)
-InteractionDef: SparkJailbreak.label 'spark jailbreak' (placeholder exists in Interactions_Prisoner.xml)
 InteractionDef: SparkJailbreak.logRulesInitiator.rulesStrings.0 'r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in Interactions_Prisoner.xml)
 InteractionDef: SparkJailbreak.logRulesInitiator.rulesStrings.1 'r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in Interactions_Prisoner.xml)
 InteractionDef: SparkJailbreak.logRulesInitiator.rulesStrings.2 'r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in Interactions_Prisoner.xml)

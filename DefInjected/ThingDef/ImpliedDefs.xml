@@ -1255,217 +1255,131 @@
   
   <!-- EN: alpakka lihaa -->
   <Meat_Alpaca.label>alpakan lihaa</Meat_Alpaca.label>
-  <!-- EN: Raakaa lihaa oliosta alpakka. -->
-  <Meat_Alpaca.description>Raakaa alpakan lihaa.</Meat_Alpaca.description>
   
   <!-- EN: alfamajava lihaa -->
   <Meat_Alphabeaver.label>alfamajavan lihaa</Meat_Alphabeaver.label>
-  <!-- EN: Raakaa lihaa oliosta alfamajava. -->
-  <Meat_Alphabeaver.description>Raakaa alfamajavan lihaa.</Meat_Alphabeaver.description>
   
   <!-- EN: karhun lihaa -->
   <Meat_Bear_Grizzly.label>harmaakarhun lihaa</Meat_Bear_Grizzly.label>
-  <!-- EN: Raakaa lihaa oliosta harmaakarhu. -->
-  <Meat_Bear_Grizzly.description>Raakaa harmaakarhun lihaa.</Meat_Bear_Grizzly.description>
   
   <!-- EN: paukkulooppi lihaa -->
   <Meat_Boomalope.label>paukkuloopin lihaa</Meat_Boomalope.label>
-  <!-- EN: Raakaa lihaa oliosta paukkulooppi. -->
-  <Meat_Boomalope.description>Raakaa paukkuloopin lihaa.</Meat_Boomalope.description>
   
   <!-- EN: paukkurotta lihaa -->
   <Meat_Boomrat.label>paukkurotan lihaa</Meat_Boomrat.label>
-  <!-- EN: Raakaa lihaa oliosta paukkurotta. -->
-  <Meat_Boomrat.description>Raakaa paukkurotan lihaa.</Meat_Boomrat.description>
   
   <!-- EN: kapybara lihaa -->
   <Meat_Capybara.label>kapybaran lihaa</Meat_Capybara.label>
-  <!-- EN: Raakaa lihaa oliosta kapybara. -->
-  <Meat_Capybara.description>Raakaa kapybaran lihaa.</Meat_Capybara.description>
   
   <!-- EN: caribou lihaa -->
   <Meat_Caribou.label>caribou meat</Meat_Caribou.label>
-  <!-- EN: Raakaa lihaa oliosta caribou. -->
-  <Meat_Caribou.description>caribou meat</Meat_Caribou.description>
   
   <!-- EN: bird meat -->
   <Meat_Cassowary.label>bird meat</Meat_Cassowary.label>
-  <!-- EN: Raakaa lihaa oliosta cassowary. -->
-  <Meat_Cassowary.description>bird meat</Meat_Cassowary.description>
   
   <!-- EN: kissa lihaa -->
   <Meat_Cat.label>kissan lihaa</Meat_Cat.label>
-  <!-- EN: Raakaa lihaa oliosta kissa. -->
-  <Meat_Cat.description>Raakaa kissan lihaa.</Meat_Cat.description>
   
   <!-- EN: kana lihaa -->
   <Meat_Chicken.label>kanan lihaa</Meat_Chicken.label>
-  <!-- EN: Raakaa lihaa oliosta kana. -->
-  <Meat_Chicken.description>Raakaa kanan lihaa.</Meat_Chicken.description>
   
   <!-- EN: chinchilla lihaa -->
   <Meat_Chinchilla.label>chinchillan lihaa</Meat_Chinchilla.label>
-  <!-- EN: Raakaa lihaa oliosta chinchilla. -->
-  <Meat_Chinchilla.description>Raakaa chinchillan lihaa.</Meat_Chinchilla.description>
   
   <!-- EN: cobra meat -->
   <Meat_Cobra.label>kobran lihaa</Meat_Cobra.label>
-  <!-- EN: Raakaa lihaa oliosta kobra. -->
-  <Meat_Cobra.description>Raakaa kobran lihaa.</Meat_Cobra.description>
   
   <!-- EN: cougar lihaa -->
   <Meat_Cougar.label>cougar meat</Meat_Cougar.label>
-  <!-- EN: Raakaa lihaa oliosta cougar. -->
-  <Meat_Cougar.description>Raw flesh of a cougar.</Meat_Cougar.description>
   
   <!-- EN: beef -->
   <Meat_Cow.label>naudanlihaa</Meat_Cow.label>
-  <!-- EN: Raakaa lihaa oliosta lehmä. -->
-  <Meat_Cow.description>Raakaa lehmän lihaa.</Meat_Cow.description>
   
   <!-- EN: peuranlihaa -->
   <Meat_Deer.label>peuran lihaa</Meat_Deer.label>
-  <!-- EN: Raakaa lihaa oliosta peura. -->
-  <Meat_Deer.description>Raakaa peuran lihaa.</Meat_Deer.description>
   
   <!-- EN: dromedaari lihaa -->
   <Meat_Dromedary.label>dromedaarin lihaa</Meat_Dromedary.label>
-  <!-- EN: Raakaa lihaa oliosta dromedaari. -->
-  <Meat_Dromedary.description>Raakaa dromedaarin lihaa.</Meat_Dromedary.description>
   
   <!-- EN: norsu lihaa -->
   <Meat_Elephant.label>norsun lihaa</Meat_Elephant.label>
-  <!-- EN: Raakaa lihaa oliosta norsu. -->
-  <Meat_Elephant.description>Raakaa norsun lihaa.</Meat_Elephant.description>
   
   <!-- EN: hirvi lihaa -->
   <Meat_Elk.label>hirven lihaa</Meat_Elk.label>
-  <!-- EN: Raakaa lihaa oliosta hirvi. -->
-  <Meat_Elk.description>Raakaa hirven lihaa.</Meat_Elk.description>
   
   <!-- EN: fox meat -->
   <Meat_Fox_Fennec.label>foxmeat</Meat_Fox_Fennec.label>
-  <!-- EN: Raakaa lihaa oliosta fennec fox. -->
-  <Meat_Fox_Fennec.description>foxmeat</Meat_Fox_Fennec.description>
   
   <!-- EN: gazelle lihaa -->
   <Meat_Gazelle.label>gazelle meat</Meat_Gazelle.label>
-  <!-- EN: Raakaa lihaa oliosta gazelle. -->
-  <Meat_Gazelle.description>gazelle meat</Meat_Gazelle.description>
   
   <!-- EN: jänis lihaa -->
   <Meat_Hare.label>jäniksen lihaa</Meat_Hare.label>
-  <!-- EN: Raakaa lihaa oliosta jänis. -->
-  <Meat_Hare.description>Raakaa jäniksen lihaa.</Meat_Hare.description>
   
   <!-- EN: ihminen lihaa -->
   <Meat_Human.label>ihmisen lihaa</Meat_Human.label>
-  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <Meat_Human.description>Raakaa ihmisen lihaa.</Meat_Human.description>
   
   <!-- EN: husky lihaa -->
   <Meat_Husky.label>huskyn lihaa</Meat_Husky.label>
-  <!-- EN: Raakaa lihaa oliosta husky. -->
-  <Meat_Husky.description>Raakaa huskyn lihaa.</Meat_Husky.description>
   
   <!-- EN: ibex lihaa -->
   <Meat_Ibex.label>ibex meat</Meat_Ibex.label>
-  <!-- EN: Raakaa lihaa oliosta ibex. -->
-  <Meat_Ibex.description>ibex meat</Meat_Ibex.description>
   
   <!-- EN: iguaani lihaa -->
   <Meat_Iguana.label>iguaanin lihaa</Meat_Iguana.label>
-  <!-- EN: Raakaa lihaa oliosta iguaani. -->
-  <Meat_Iguana.description>Raakaa iguaanin lihaa.</Meat_Iguana.description>
   
   <!-- EN: labradorinnoutaja lihaa -->
   <Meat_LabradorRetriever.label>labradorinnoutajan lihaa</Meat_LabradorRetriever.label>
-  <!-- EN: Raakaa lihaa oliosta labradorinnoutaja. -->
-  <Meat_LabradorRetriever.description>Raakaa labradorinnoutajan lihaa.</Meat_LabradorRetriever.description>
   
   <!-- EN: lynx lihaa -->
   <Meat_Lynx.label>lynx meat</Meat_Lynx.label>
-  <!-- EN: Raakaa lihaa oliosta lynx. -->
-  <Meat_Lynx.description>lynx meat</Meat_Lynx.description>
   
   <!-- EN: Megasloth lihaa -->
   <Meat_Megasloth.label>Megasloth meat</Meat_Megasloth.label>
-  <!-- EN: Raakaa lihaa oliosta Megasloth. -->
-  <Meat_Megasloth.description>Megasloth meat</Meat_Megasloth.description>
   
   <!-- EN: insect meat -->
   <Meat_Megaspider.label>megaspider meat</Meat_Megaspider.label>
-  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <Meat_Megaspider.description>Raw flesh of a megaspider.</Meat_Megaspider.description>
   
   <!-- EN: apina lihaa -->
   <Meat_Monkey.label>apinan lihaa</Meat_Monkey.label>
-  <!-- EN: Raakaa lihaa oliosta apina. -->
-  <Meat_Monkey.description>Raakaa apinan lihaa.</Meat_Monkey.description>
   
   <!-- EN: hirvibiisoni lihaa -->
   <Meat_Muffalo.label>hirvibiisonin lihaa</Meat_Muffalo.label>
-  <!-- EN: Raakaa lihaa oliosta hirvibiisoni. -->
-  <Meat_Muffalo.description>Raakaa hirvibiisonin lihaa.</Meat_Muffalo.description>
   
   <!-- EN: panther lihaa -->
   <Meat_Panther.label>panther meat</Meat_Panther.label>
-  <!-- EN: Raakaa lihaa oliosta panther. -->
-  <Meat_Panther.description>panther meat</Meat_Panther.description>
   
   <!-- EN: pork -->
   <Meat_Pig.label>sianlihaa</Meat_Pig.label>
-  <!-- EN: Raakaa lihaa oliosta sika. -->
-  <Meat_Pig.description>Raakaa sian lihaa.</Meat_Pig.description>
   
   <!-- EN: Raccoon lihaa -->
   <Meat_Raccoon.label>Raccoon meat</Meat_Raccoon.label>
-  <!-- EN: Raakaa lihaa oliosta Raccoon. -->
-  <Meat_Raccoon.description>Raccoon meat</Meat_Raccoon.description>
   
   <!-- EN: rat lihaa -->
   <Meat_Rat.label>rat meat</Meat_Rat.label>
-  <!-- EN: Raakaa lihaa oliosta rat. -->
-  <Meat_Rat.description>rat meat</Meat_Rat.description>
   
   <!-- EN: sarvikuono lihaa -->
   <Meat_Rhinoceros.label>sarvikuonon lihaa</Meat_Rhinoceros.label>
-  <!-- EN: Raakaa lihaa oliosta sarvikuono. -->
-  <Meat_Rhinoceros.description>Raakaa sarvikuonon lihaa.</Meat_Rhinoceros.description>
   
   <!-- EN: orava lihaa -->
   <Meat_Squirrel.label>oravan lihaa</Meat_Squirrel.label>
-  <!-- EN: Raakaa lihaa oliosta orava. -->
-  <Meat_Squirrel.description>Raakaa oravan lihaa.</Meat_Squirrel.description>
   
   <!-- EN: trumbo lihaa -->
   <Meat_Thrumbo.label>trumbon lihaa</Meat_Thrumbo.label>
-  <!-- EN: Raakaa lihaa oliosta trumbo. -->
-  <Meat_Thrumbo.description>Raakaa trumbon lihaa.</Meat_Thrumbo.description>
   
   <!-- EN: kilpikonna lihaa -->
   <Meat_Tortoise.label>kilpikonnan lihaa</Meat_Tortoise.label>
-  <!-- EN: Raakaa lihaa oliosta kilpikonna. -->
-  <Meat_Tortoise.description>Raakaa kilpikonnan lihaa.</Meat_Tortoise.description>
   
   <!-- EN: turkey lihaa -->
   <Meat_Turkey.label>turkey meat</Meat_Turkey.label>
-  <!-- EN: Raakaa lihaa oliosta turkey. -->
-  <Meat_Turkey.description>turkey meat</Meat_Turkey.description>
   
   <!-- EN: warg lihaa -->
   <Meat_Warg.label>wargin lihaa</Meat_Warg.label>
-  <!-- EN: Raakaa lihaa oliosta warg. -->
-  <Meat_Warg.description>Raakaa wargin lihaa.</Meat_Warg.description>
   
   <!-- EN: wolf meat -->
   <Meat_Wolf_Timber.label>wolfmeat</Meat_Wolf_Timber.label>
-  <!-- EN: Raakaa lihaa oliosta timber wolf. -->
-  <Meat_Wolf_Timber.description>wolfmeat</Meat_Wolf_Timber.description>
   
   <!-- EN: yorkshirenterrieri lihaa -->
   <Meat_YorkshireTerrier.label>yorkshirenterrierin lihaa</Meat_YorkshireTerrier.label>
-  <!-- EN: Raakaa lihaa oliosta yorkshirenterrieri. -->
-  <Meat_YorkshireTerrier.description>Raakaa yorkshirenterrierin lihaa.</Meat_YorkshireTerrier.description>
   
 </LanguageData>

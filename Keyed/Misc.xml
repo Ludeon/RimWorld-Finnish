@@ -90,11 +90,11 @@
   <!-- EN: {0} meat -->
   <MeatLabel>{0} lihaa</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>Raakaa lihaa oliosta {0}.</MeatDesc>
+  <MeatDesc>Raakaa teurastettua lihaa. Voidaan valmistaa aterioiksi tai syödä raakana.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <MeatInsectDesc>Raakaa teurastettua lihaa. Voidaan tarvittaessa valmistaa aterioiksi tai jopa syödä raakana. Äärimmäisen epämiellyttävää.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>TODO</MeatHumanDesc>
+  <MeatHumanDesc>Raakaa teurastettua lihaa. Voidaan valmistaa aterioiksi tai jopa syödä raakana, vaikka ihmiset inhoavat ajatusta.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
   <TechprintLabel>TODO</TechprintLabel>
