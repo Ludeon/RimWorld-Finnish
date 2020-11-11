@@ -17,7 +17,7 @@
   <!-- EN: polar bear -->
   <Bear_Polar.label>jääkarhu</Bear_Polar.label>
   <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
-  <Bear_Polar.description>Suuri valkoinen karhu, joka elää kaukana pohjoisessa. Niiden paksu rasvakerros ja turkki pitävät ne lämpimänä talvella.\n\nVaikka niiden ruokavalio koostuu yleensä kalasta, marjoista, hunajasta ja haaskalihasta, harmaakarhu pystyy käyttämään valtavaa voimaansa ja tappavia kynsiään eläviää saalista. Ne ovat hämmästyttävän nopeita jykeviksi olennoiksi.</Bear_Polar.description>
+  <Bear_Polar.description>Suuri valkoinen karhu, joka on sopeutunut jäisiin ympäristöihin. Niiden paksu rasvakerros ja turkki pitävät ne lämpimänä talvella.\n\nVaikka niiden ruokavalio koostuu yleensä kalasta, marjoista, hunajasta ja haaskalihasta, harmaakarhu pystyy käyttämään valtavaa voimaansa ja tappavia kynsiään eläviää saalista. Ne ovat hämmästyttävän nopeita jykeviksi olennoiksi.</Bear_Polar.description>
   <!-- EN: left claw -->
   <Bear_Polar.tools.left_claw.label>TODO</Bear_Polar.tools.left_claw.label>
   <!-- EN: right claw -->

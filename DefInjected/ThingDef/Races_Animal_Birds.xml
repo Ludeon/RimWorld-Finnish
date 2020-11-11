@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>cassowary</Cassowary.label>
+  <Cassowary.label>kasuaari</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
-  <Cassowary.description>A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious.</Cassowary.description>
+  <Cassowary.description>TODO</Cassowary.description>
   <!-- EN: bird meat -->
-  <Cassowary.race.meatLabel>TODO</Cassowary.race.meatLabel>
+  <Cassowary.race.meatLabel>linnun lihaa</Cassowary.race.meatLabel>
   <!-- EN: claws -->
   <Cassowary.tools.claws.label>TODO</Cassowary.tools.claws.label>
   <!-- EN: beak -->
@@ -17,7 +17,7 @@
   <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
   <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
-  <Emu.description>A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world.</Emu.description>
+  <Emu.description>TODO</Emu.description>
   <!-- EN: claws -->
   <Emu.tools.claws.label>TODO</Emu.tools.claws.label>
   <!-- EN: beak -->
@@ -26,9 +26,9 @@
   <Emu.tools.head.label>TODO</Emu.tools.head.label>
   
   <!-- EN: ostrich -->
-  <Ostrich.label>ostrich</Ostrich.label>
+  <Ostrich.label>strutsi</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
-  <Ostrich.description>The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick.</Ostrich.description>
+  <Ostrich.description>TODO</Ostrich.description>
   <!-- EN: claws -->
   <Ostrich.tools.claws.label>TODO</Ostrich.tools.claws.label>
   <!-- EN: beak -->
@@ -37,9 +37,10 @@
   <Ostrich.tools.head.label>TODO</Ostrich.tools.head.label>
   
   <!-- EN: turkey -->
-  <Turkey.label>turkey</Turkey.label>
+  <Turkey.label>kalkkuna</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
-  <Turkey.description>A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild.</Turkey.description>
+  <Turkey.description>TODO</Turkey.description>
+  <Turkey.race.meatLabel>kalkkunan lihaa</Turkey.race.meatLabel>
   <!-- EN: claws -->
   <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
   <!-- EN: beak -->

@@ -15,14 +15,14 @@
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
   <Megaspider.description>TODO</Megaspider.description>
   <!-- EN: insect meat -->
-  <Megaspider.race.meatLabel>TODO</Megaspider.race.meatLabel>
+  <Megaspider.race.meatLabel>hyönteisen lihaa</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
   <Megaspider.tools.head_claw.label>TODO</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
   <Megaspider.tools.head.label>TODO</Megaspider.tools.head.label>
   
   <!-- EN: spelopede -->
-  <Spelopede.label>TODO</Spelopede.label>
+  <Spelopede.label>spelopedi</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
   <Spelopede.description>TODO</Spelopede.description>
   <!-- EN: head claw -->

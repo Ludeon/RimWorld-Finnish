@@ -345,7 +345,7 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>{0} ei onnistu kohteeseen {1}</CannotGenericWork>
+  <CannotGenericWork>Kohteen {1} {0} ei onnistu </CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>{0} ei onnistu</CannotGenericWorkCustom>
 

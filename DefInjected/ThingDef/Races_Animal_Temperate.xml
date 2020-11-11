@@ -2,9 +2,10 @@
 <LanguageData>
   
   <!-- EN: caribou -->
-  <Caribou.label>caribou</Caribou.label>
+  <Caribou.label>karibu</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates.</Caribou.description>
+  <Caribou.description>TODO</Caribou.description>
+  <Caribou.race.meatLabel>karibun lihaa</Caribou.race.meatLabel>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -15,7 +16,7 @@
   <!-- EN: deer -->
   <Deer.label>peura</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
-  <Deer.description>Keskikokoinen laiduntava kasvinsyöjä. Yleensä rauhantahtoinen ellei sitä häiritä.</Deer.description>
+  <Deer.description>TODO</Deer.description>
   <!-- EN: venison -->
   <Deer.race.meatLabel>peuranlihaa</Deer.race.meatLabel>
   <!-- EN: left hoof -->
@@ -31,6 +32,7 @@
   <Elk.label>hirvi</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
   <Elk.description>Suuri hirvieläimien heimon jäsen ja kylmiin ilmastoihin hyvin sopeutunut.</Elk.description>
+  <Elk.race.meatLabel>hirven lihaa</Elk.race.meatLabel>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -39,9 +41,10 @@
   <Elk.tools.head.label>TODO</Elk.tools.head.label>
   
   <!-- EN: ibex -->
-  <Ibex.label>ibex</Ibex.label>
+  <Ibex.label>alppikauris</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>The hardy wild ancestor of the domesticated goat. Ibexes live on marginal territory that most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack.</Ibex.description>
+  <Ibex.description>TODO</Ibex.description>
+  <Ibex.race.meatLabel>alppikauriin lihaa</Ibex.race.meatLabel>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -53,6 +56,7 @@
   <Tortoise.label>kilpikonna</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
   <Tortoise.description>Tämä raskaasti panssaroitu matelija on tunnettu hitaasta nopeudestaan ja yllättävän rajusta puremastaan.</Tortoise.description>
+  <Tortoise.race.meatLabel>kilpikonnan lihaa</Tortoise.race.meatLabel>
   <!-- EN: beak -->
   <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
   <!-- EN: head -->
@@ -61,7 +65,8 @@
   <!-- EN: wild boar -->
   <WildBoar.label>villisika</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>Vaikka jotkin kulttuurit pitävät sitä epäpuhtaana, tätä kesytetyn sian karvaista esi-isää pidetään arvossa sen lihan maun takia.</WildBoar.description>
+  <WildBoar.description>TODO.</WildBoar.description>
+  <WildBoar.race.meatLabel>villisian lihaa</WildBoar.race.meatLabel>
   <!-- EN: tusk -->
   <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
   <!-- EN: head -->

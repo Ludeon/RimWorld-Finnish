@@ -107,7 +107,7 @@
   <Unlocks>TODO</Unlocks>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} ruumis</CorpseLabel>
+  <CorpseLabel>kuollut {0}</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Kuollut {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->

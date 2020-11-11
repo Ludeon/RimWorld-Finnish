@@ -69,35 +69,36 @@
   <!-- EN: wooden -->
   <WoodLog.stuffProps.stuffAdjective>puinen</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
-  <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
+  <WoodLog.tools.log.label>tukki</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
-  <WoolAlpaca.label>alpaca wool</WoolAlpaca.label>
+  <WoolAlpaca.label>alpakan villaa</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
-  <WoolAlpaca.description>The remarkably soft wool of an alpaca. It is very warm.</WoolAlpaca.description>
-  <WoolAlpaca.stuffProps.stuffAdjective>alpaca wool</WoolAlpaca.stuffProps.stuffAdjective>
+  <WoolAlpaca.description>TODO</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>alpakanvillainen</WoolAlpaca.stuffProps.stuffAdjective>
   
   <!-- EN: bison wool -->
-  <WoolBison.label>TODO</WoolBison.label>
+  <WoolBison.label>biisonin villaa</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
   <WoolBison.description>TODO</WoolBison.description>
+  <WoolBison.stuffProps.stuffAdjective>biisoninvillainen</WoolBison.stuffProps.stuffAdjective>
   
   <!-- EN: megasloth wool -->
-  <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
+  <WoolMegasloth.label>jättilaiskiaisen villaa</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
-  <WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
+  <WoolMegasloth.description>TODO</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>jättilaiskiaisenvillainen</WoolMegasloth.stuffProps.stuffAdjective>
   
   <!-- EN: muffalo wool -->
-  <WoolMuffalo.label>muffalo wool</WoolMuffalo.label>
+  <WoolMuffalo.label>hirvibiisonin villaa</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>
-  <WoolMuffalo.stuffProps.stuffAdjective>muffalo wool</WoolMuffalo.stuffProps.stuffAdjective>
+  <WoolMuffalo.description>TODO</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>hirvibiisoninvillainen</WoolMuffalo.stuffProps.stuffAdjective>
   
   <!-- EN: sheep wool -->
-  <WoolSheep.label>camelhair</WoolSheep.label>
+  <WoolSheep.label>lampaan villaa</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
-  <WoolSheep.description>Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolSheep.description>
-  <WoolSheep.stuffProps.stuffAdjective>camelhair</WoolSheep.stuffProps.stuffAdjective>
+  <WoolSheep.description>TODO</WoolSheep.description>
+  <WoolSheep.stuffProps.stuffAdjective>lampaanvillainen</WoolSheep.stuffProps.stuffAdjective>
   
 </LanguageData>
