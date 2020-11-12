@@ -79,7 +79,7 @@
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>Ota karttojen testikoot käyttöön</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>Autom. tall. suurin sallittu aikaväli permadeath-tilassa on {0} päivä.</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Autom. tall. suurin sallittu aikaväli sitoutumistilassa on {0} päivä.</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
   <ModSettings>Modien asetukset</ModSettings>
   <!-- EN: Permanently disable development mode -->

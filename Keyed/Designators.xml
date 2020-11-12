@@ -9,7 +9,7 @@
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>Leikkaa kasveja</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>Merkitse kasvit jotka leikataan ja tuhotaan. Kasvi poistetaan kokonaan ja mahdollinen ruoka kerätään.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Merkitse kasvit jotka leikataan ja tuhotaan. Kasvi poistetaan kokonaan ja mahdollinen ruoka tai tuote kerätään.</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Pura</DesignatorDeconstruct>
@@ -24,7 +24,7 @@
   <!-- EN: Harvest -->
   <DesignatorHarvest>Korjaa sato</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc>Merkitse kasvit joista ruokaa kerätään. Ruoka kerätään kasvista, mutta kasvi jätetään paikoilleen.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Merkitse kasvit joista kerätään ruokaa tai muita tuotteita.</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
   <DesignatorHarvestWood>Kaada puita</DesignatorHarvestWood>
@@ -34,9 +34,9 @@
   <!-- EN: Haul things -->
   <DesignatorHaulThings>Kuljeta esineitä</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka kuljetetaan kaatopaikoille. Ei tarvita esineille kuten ruualle tai ruumiille, jotka ovat aina kuljetettavissa.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka kuljetetaan kaatopaikoille. Merkintää ei tarvita esineille kuten ruualle tai ruumiille, jotka ovat aina kuljetettavissa.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>Voit merkitä ainoastana kuljetettavia, ei-aina siirrettäviä esineitä (kuten kiviä).</MustHaulHaulables>
+  <MustHaulHaulables>Voit merkitä ainoastana kuljetettavia, ei-aina siirrettäviä esineitä (kuten kivenlohkareita).</MustHaulHaulables>
 
   <!-- EN: Hunt -->
   <DesignatorHunt>Metsästä</DesignatorHunt>
@@ -61,7 +61,7 @@
   <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Poista suunnitelmia</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>Poista suunnitelmia.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Poista suunnitelmien merkintöjä.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
   <DesignatorForbid>Kiellä</DesignatorForbid>
@@ -90,7 +90,7 @@
   <!-- EN: Remove roof area -->
   <DesignatorAreaNoRoofExpand>Laajenna katotonta aluetta</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>Yhdyskuntalaiset poistavat katot tällä alueella (paitsi yläpuolisen vuoren, jota ei voi poistaa.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Yhdyskuntalaiset poistavat katot tällä alueella (paitsi yläpuolisen vuoren, jota ei voi poistaa).</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
   <DesignatorAreaIgnoreRoofExpand>Poista kattojen merkintä</DesignatorAreaIgnoreRoofExpand>
@@ -201,7 +201,7 @@
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>{0_label} tarvitsee maaperän joka pystyy tukemaan: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (kun se on valmistettu materiaalista {2_label}) vaatii maaperän joka pystyy tukemaan: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -211,17 +211,17 @@
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>Vesimylly on oltava liikkuvassa vedessä.</MustBeOnMovingWater>
   <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
+  <InteractionSpotWillOverlap>Käyttöpiste menee päällekkäin kohteen {1_labelShort} käyttöpisteen kanssa.</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
+  <InteractionSpotOverlaps>Käyttöpiste on päällekkäin kohteen {1_labelShort} käyttöpisteen kanssa.</InteractionSpotOverlaps>
   <!-- EN: Cannot place monument over: {0}. -->
-  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOver>Ei voi asettaa monumenttia tämän päälle: {0}.</CannotPlaceMonumentOver>
   <!-- EN: Cannot build on: {0}. -->
-  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <CannotPlaceMonumentOnTerrain>Ei voi rakentaa tämän päälle: {0}.</CannotPlaceMonumentOnTerrain>
   <!-- EN: Cannot place monument over: {0}. -->
-  <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>Ei voi asettaa monumenttia tämän päälle: {0}.</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
-  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>Monumenttia ei voi asettaa tämän viereen: {0}.</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -235,11 +235,11 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Rakentamista tarvitaan</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithSkillTip>Yhdelläkään sinun {0} ei ole tätä taitoa.</NoColonistWithSkillTip>
+  <NoColonistWithSkillTip>{0} eivät osaa tätä taitoa.</NoColonistWithSkillTip>
   <!-- EN: {0} needed -->
-  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
+  <SkillNeededForConstructing>Tarvittava {0}</SkillNeededForConstructing>
   <!-- EN: None of your {0} have all skills required. -->
-  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
+  <NoColonistWithAllSkillsForConstructing>{0} eivät osaa kaikkia tarvittavia taitoja.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Kaikki ne {0} joilla on tämä taito eivät ole määrätty {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 

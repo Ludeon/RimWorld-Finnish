@@ -37,7 +37,7 @@
   <DrugSynthesisSpeed.description>TODO</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>ruoan myrkyttämisen todennäköisyys</FoodPoisonChance.label>
+  <FoodPoisonChance.label>ruoan myrkyttämisen tod. näk.</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
   <FoodPoisonChance.description>TODO</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->

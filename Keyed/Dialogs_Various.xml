@@ -104,7 +104,7 @@
   <!-- EN: Saving -->
   <SavingLongEvent>Tallennetaan</SavingLongEvent>
   <!-- EN: (Permadeath) -->
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <PermadeathModeSaveSuffix>(Sitoutumistila)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
   <SaveIsFromDifferentGameVersion>Käynnissä oleva versio on {0}, mutta tallennettu data on versiosta {1}, joka on täysin eri versio.\n\nTämän datan lataaminen ei luultavasti tule toimimaan.</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
@@ -122,13 +122,13 @@
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Joitain modeja ei ole saatavilla ja täytyy asentaa</MissingMods>
   <!-- EN: Official content -->
-  <OfficialContent>TODO</OfficialContent>
+  <OfficialContent>Virallinen sisältö</OfficialContent>
   <!-- EN: Active -->
-  <ContentActive>TODO</ContentActive>
+  <ContentActive>Aktiivinen</ContentActive>
   <!-- EN: Installed, but not active -->
-  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <ContentInstalledButNotActive>Asennettu mutta ei aktiivinen</ContentInstalledButNotActive>
   <!-- EN: Not installed -->
-  <ContentNotInstalled>TODO</ContentNotInstalled>
+  <ContentNotInstalled>Ei asennettu</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
@@ -162,7 +162,7 @@
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>Tämän henkilön kutsumanimi on nyt {0}. Hänen tittelinsä on {PAWN_title}.</PawnGainsName>
+  <PawnGainsName>Tämän henkilön kutsumanimi on nyt {0}. {PAWN_possessive} tittelinsä on {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>Eläimen nimi on nyt {0}</AnimalGainsName>
 
@@ -196,7 +196,7 @@
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>Varoitus: Olet laskeutumassa jäiseen ympäristöön. Selviytyminen saattaa olla vaikeaa tai lähes mahdotonta. Jos et halua äärimmäistä haastetta, valitse erilainen paikka tai aloitusvuodenaika.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Peli on suunniteltu pelattavaksi keskikokoisilla kartoilla. Nämä koot tarjoavat runsaasti tilaa!\n\nSuurikokoiset kartat eivät alenna vain suorituskykyä - ne itse asiassa rikkovat pelimekaniikoita. Tekoäly tekee tyhmiä päätöksiä ja se vaikuttaa pelin balanssiin monilla tavoilla. Nämä koot ovat mukana vain perinteiden ja testauksen takia, ole hyvä äläkä käytä niitä ilman tiettyä syytä.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Peli on suunniteltu pelattavaksi keskikokoisilla kartoilla. Nämä koot tarjoavat runsaasti tilaa!\n\nSuurikokoiset kartat eivät alenna vain suorituskykyä - ne itse asiassa rikkovat pelimekaniikoita. Tekoäly tekee tyhmiä päätöksiä ja se vaikuttaa pelin voimasuhteisiin monilla tavoilla. Nämä koot ovat mukana vain perinteiden ja testauksen takia, ole hyvä äläkä käytä niitä ilman tiettyä syytä.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>Kartan koko</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -251,7 +251,7 @@
   <!-- EN: Work amount -->
   <WorkAmount>Työn määrä</WorkAmount>
   <!-- EN: Minimum skills: -->
-  <MinimumSkills>Minimitaito:</MinimumSkills>
+  <MinimumSkills>Minimitaidot:</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
   <BillRequires>Tarvitsee {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
@@ -303,13 +303,13 @@
   <!-- EN: Cooldown -->
   <CooldownTime>Jäähdytysaika</CooldownTime>
   <!-- EN: Disarmed -->
-  <DisarmedTime>TODO</DisarmedTime>
+  <DisarmedTime>Ase poistettu</DisarmedTime>
   <!-- EN: Charging -->
-  <ChargingTime>TODO</ChargingTime>
+  <ChargingTime>Lataa</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>TODO</ChargingNext>
+  <ChargingNext>Seuraavaan lataukseen ({1}): {0}\nLataamissykli: {2}</ChargingNext>
   <!-- EN: Shut down -->
-  <ShutDown>TODO</ShutDown>
+  <ShutDown>Sammuta</ShutDown>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Tulinopeus</BurstShotFireRate>
   <!-- EN: Range -->
@@ -321,7 +321,7 @@
   <!-- EN: Direct hit chance -->
   <DirectHitChance>Suoran osuman todennäköisyys</DirectHitChance>
   <!-- EN: Miss radius -->
-  <MissRadius>ohilaukausalue</MissRadius>
+  <MissRadius>Ohilaukausalue</MissRadius>
   <!-- EN: Grows wild -->
   <GrowsWild>Kasvaa luonnossa</GrowsWild>
   <!-- EN: Harvestable -->
@@ -365,7 +365,7 @@
   <!-- EN: Diet -->
   <Diet>Ruokavalio</Diet>
   <!-- EN: Nutrition need per day -->
-  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
+  <NutritationEatenPerDay>Ravinnon tarve päivässä</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>Nahan tyyppi</LeatherType>
   <!-- EN: Body size -->
@@ -377,7 +377,7 @@
   <!-- EN: Covers -->
   <Covers>Suojaa</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>TODO</CreatedAt>
+  <CreatedAt>Luomispaikka</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Kerros</Layer>
   <!-- EN: Cover effectiveness -->
@@ -405,45 +405,45 @@
   <!-- EN: Misc -->
   <MiscRecordsCategory>Sekalainen</MiscRecordsCategory>
   <!-- EN: Chemical -->
-  <Chemical>TODO</Chemical>
+  <Chemical>Kemikaali</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>TODO</HighGain>
+  <HighGain>Huumetilan kerroin annosta kohti</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>TODO</HighFallRate>
+  <HighFallRate>Huumetilan häviämisnopeus</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>TODO</HighDuration>
+  <HighDuration>Huumetilan pituus annosta kohti</HighDuration>
   <!-- EN: Tolerance gain per dose -->
-  <ToleranceGain>TODO</ToleranceGain>
+  <ToleranceGain>Toleranssin saanti annosta kohti</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
-  <ToleranceFallRate>TODO</ToleranceFallRate>
+  <ToleranceFallRate>Toleranssin häviämisnopeus</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
-  <MinimumToleranceForAddiction>TODO</MinimumToleranceForAddiction>
+  <MinimumToleranceForAddiction>Uuden riippuvuuden minimitoleranssi</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval -->
-  <SafeDoseInterval>TODO</SafeDoseInterval>
+  <SafeDoseInterval>Turvallinen annosten väli</SafeDoseInterval>
   <!-- EN: New addiction chance -->
-  <Addictiveness>Riippuvuus</Addictiveness>
+  <Addictiveness>Uuden riippuvuuden todennäköisyys</Addictiveness>
   <!-- EN: Addiction initial severity -->
-  <AddictionSeverityInitial>TODO</AddictionSeverityInitial>
+  <AddictionSeverityInitial>Riippuvuuden alkuvakavuus</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
-  <AddictionSeverityPerDose>TODO</AddictionSeverityPerDose>
+  <AddictionSeverityPerDose>Riippuvuuden vakavuus annosta kohti</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
-  <AddictionNeedOffset>TODO</AddictionNeedOffset>
+  <AddictionNeedOffset>Riippuvuuden tyydytys annosta kohti</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
-  <AddictionNeedFallRate>TODO</AddictionNeedFallRate>
+  <AddictionNeedFallRate>Riippuvuuden häviämisnopeus</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
-  <AddictionNeedDoseInterval>TODO</AddictionNeedDoseInterval>
+  <AddictionNeedDoseInterval>Riippuvuuden annosten väli</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
-  <AddictionRecoveryTime>TODO</AddictionRecoveryTime>
+  <AddictionRecoveryTime>Riippuvuuden palautumisaika</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
-  <AddictionCost>TODO</AddictionCost>
+  <AddictionCost>Riippuvuuden kustannukset</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>TODO</RandomODChance>
+  <RandomODChance>Satunnaisen yliannostuksen todennäköisyys</RandomODChance>
   <!-- EN: Always safe -->
-  <AlwaysSafe>TODO</AlwaysSafe>
+  <AlwaysSafe>Aina turvallinen</AlwaysSafe>
   <!-- EN: Never safe -->
-  <NeverSafe>TODO</NeverSafe>
+  <NeverSafe>Ei koskaan turvallinen</NeverSafe>
   <!-- EN: {0} / day -->
-  <PerDay>TODO</PerDay>
+  <PerDay>{0} päivässä</PerDay>
   <!-- EN: Pack animal -->
   <PackAnimal>Kuormajuhta</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -453,13 +453,13 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Onnistumiskerroin</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>Kuoleman todennäköisyys epäonnistumisessa</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Työskentelynopeuteen vaikuttaa</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Tuotantolaatuun vaikuttaa</EfficiencyStat>
   <!-- EN: {0} skill required -->
-  <SkillRequiredToBuild>Vaadittava rakennustaito {0}</SkillRequiredToBuild>
+  <SkillRequiredToBuild>Vaadittava taito {0}</SkillRequiredToBuild>
   <!-- EN: Requires this level of {0} in order to build. -->
   <SkillRequiredToBuildExplanation>Tarvitsee tason {0} rakentamiseen.</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
@@ -479,31 +479,31 @@
   <!-- EN: Trap armor penetration -->
   <TrapArmorPenetration>Ansan panssarinläpäisyvyys</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>Uudeleenlatauksen hinta</RearmCost>
+  <RearmCost>Lataamiskustannukset</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>Tämän tykkitornin uudelleenlataukseen vaadittavat resurssit (vaikeusaste vaikuttaa)</RearmCostExplanation>
+  <RearmCostExplanation>Tämän tykkitornin lataamiskustannukset (vaikeusaste vaikuttaa)</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>Laukauksia ennen uudelleenlatausta</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Laukauksia ennen lataamista</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
   <ShotsBeforeRearmExplanation>Miten monta laukausta tämä tykkitorni voi laukaista ennen kuin se täytyy ladata uudelleen.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>Sähkönkulutus</PowerConsumption>
   <!-- EN: Target -->
-  <Target>TODO</Target>
+  <Target>Kohde</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
   <AbilityTargetDesc>TODO</AbilityTargetDesc>
   <!-- EN: human -->
-  <TargetHuman>TODO</TargetHuman>
+  <TargetHuman>ihminen</TargetHuman>
   <!-- EN: animal -->
-  <TargetAnimal>TODO</TargetAnimal>
+  <TargetAnimal>eläin</TargetAnimal>
   <!-- EN: self -->
-  <TargetSelf>TODO</TargetSelf>
+  <TargetSelf>itse</TargetSelf>
   <!-- EN: ground -->
-  <TargetGround>TODO</TargetGround>
+  <TargetGround>maa</TargetGround>
   <!-- EN: Click to learn more. -->
-  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <ClickToLearnMore>Klikkaa saadaksesi lisätietoja</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
-  <ClickToViewFactions>TODO</ClickToViewFactions>
+  <ClickToViewFactions>Klikkaa nähdäksesi ryhmät</ClickToViewFactions>
   <!-- EN: meditation focus types -->
   <MeditationFocuses>TODO</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
@@ -545,7 +545,7 @@
   <!-- EN: Accept -->
   <AcceptButton>Hyväksy</AcceptButton>
   <!-- EN: Load selected -->
-  <LoadSelected>TODO</LoadSelected>
+  <LoadSelected>Lataa valitut</LoadSelected>
   <!-- EN: Reset -->
   <ResetButton>Nollaa</ResetButton>
   <!-- EN: Cancel -->
@@ -565,7 +565,7 @@
   <!-- EN: Negotiator -->
   <Negotiator>Neuvottelija</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>Neuvottelija: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Neuvottelijasi {1_labelShort} ei pysty puhumaan kunnolla huonon terveyden vuoksi.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -601,25 +601,25 @@
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Palaa vaihtotilaan</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} ei halua lähettää karavaania koska {NEGOTIATOR_nameDef} ei omista titteliä {TITLE}.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>Esineitä joita tämä vaihtokauppias ostaa</SellableItemsTitle>
   <!-- EN: Never visited - stock unknown -->
-  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <TraderNotVisitedYet>Ei koskaan vierailtu - tuntemattomat varastot</TraderNotVisitedYet>
   <!-- EN: Restocked since your last visit -->
-  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <TraderRestockedSinceLastVisit>Varastoa täydennetty viime käynnin jälkeen</TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>TODO</NextTraderRestock>
+  <NextTraderRestock>Seuraava varastontäydennys: {0} päivää</NextTraderRestock>
   <!-- EN: Creatures -->
-  <PawnsTabShort>Olioita</PawnsTabShort>
+  <PawnsTabShort>Oliot</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Muodosta karavaani</FormCaravan>
   <!-- EN: Send -->
-  <Send>TODO</Send>
+  <Send>Lähetä</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Saatavilla oleva lukumäärä karavaaniin laitettavaksi.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
@@ -627,7 +627,7 @@
   <!-- EN: Items -->
   <ItemsTab>Esineet</ItemsTab>
   <!-- EN: Travel supplies -->
-  <FoodAndMedicineTab>TODO</FoodAndMedicineTab>
+  <FoodAndMedicineTab>Matkatarvikkeet</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Sinun täytyy määrätä vähintään yksi ei maissa oleva yhdyskuntalainen.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -639,9 +639,9 @@
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
   <CaravanPawnIsUnreachable>{1_labelShort} on luoksepääsemätön kaikille määrätyille yhdyskuntalaisille.</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>Yksikään määrätyistä yhdyskuntalaisista ei pääse kohteeseen {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>Yksikään määrätyistä yhdyskuntalaisista ei voi tuoda esinettä {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
-  <CaravanItemIsUnreachableMulti>Yksikään määrätyistä yhdyskuntalaisista ei pääse kohteeseen {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <CaravanItemIsUnreachableMulti>Yksikään määrätyistä yhdyskuntalaisista ei voi tuoda esineitä {0}x {1}.</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
   <TooBigCaravanMassUsage>Karavaani ei voi kantaa noin paljon.</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
@@ -689,11 +689,11 @@
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>Ravintoarvoa kerätty päivässä. Todelliseen arvoon vaikuttaa myös biomin kerättävyys.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
-  <NutritionEatenPerDayTip>Ravintoarvoa syöty päivässä. Vertailuksi yksinkertaisissa aterioissa on {0} ravintoarvoa.\n\nVoi syödä: {2}\n\nSelitys:\n{1}.</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>Ravintoarvoa syöty päivässä. Vertailuksi yksinkertaisissa aterioissa on {0} ravintoarvoa.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
-  <CanEat>TODO</CanEat>
+  <CanEat>Voi syödä</CanEat>
   <!-- EN: Legend -->
-  <Legend>TODO</Legend>
+  <Legend>Selitys</Legend>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>Kannettu massa</MassCarriedSimple>
   <!-- EN: Mass capacity -->
@@ -721,7 +721,7 @@
   <!-- EN: Choose route -->
   <ChooseRouteButton>Valitse reitti</ChooseRouteButton>
   <!-- EN: Change route -->
-  <ChangeRouteButton>TODO</ChangeRouteButton>
+  <ChangeRouteButton>Muuta reittiä</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Hylkää</AbandonButton>
   <!-- EN: Movement speed -->
@@ -753,7 +753,7 @@
   <!-- EN: Total body size -->
   <TotalBodySize>Yhteenlaskettu ruumiinkoko</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectFoodAndMedicine>TODO</AutomaticallySelectFoodAndMedicine>
+  <AutomaticallySelectFoodAndMedicine>Valitse matkatarvikkeet automaattisesti</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -765,7 +765,7 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>Haluatko varmasti hyökätä kohteeseen {0}?\n\nTämä tekee ryhmästä {1} vihamielisen sinua kohtaan, ja he aloittavat ennen pitkää yhdyskuntasi ryöstelyn!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
@@ -773,25 +773,25 @@
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>Merkityt ihmiset ja esineet ovat liian painavia kuljetuskapseleille.</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>Merkityt ihmiset ja esineet ovat liian painavia sukkulalle.</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>Et voi lähettää tyhjiä kuljetuskapseleita.</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
-  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
+  <CantSendEmptyTransporterSingle>Et voi lähettää tyhjää sukkulaa.</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} ei pääse kuljetuskapseleiden luo.</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
-  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
+  <PawnCantReachTransporterSingle>{1_labelShort} ei pääse sukkulan luo.</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>Kuljetuskapseleiden ja kohteen {0} välillä ei ole reittiä.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>Kuljetuskapseleiden ja esineen {0} välillä ei ole reittiä.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
-  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>Sukkulan ja esineen {0} välillä ei ole reittiä.</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>Kuljetuskapseleiden ja kohteen {0}x {1} välillä ei ole reittiä.</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>Kuljetuskapseleiden ja ensineiden {0}x {1} välillä ei ole reittiä.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
-  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>Sukkulan ja ensineiden {0}x {1} välillä ei ole reittiä.</TransporterSingleItemIsUnreachableMulti>
   <!-- EN: Only {0} colonists maximum allowed. -->
-  <TransporterSingleTooManyColonists>TODO</TransporterSingleTooManyColonists>
+  <TransporterSingleTooManyColonists>Vain {0} yhdyskuntalaista sallitaan enintään.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -1054,10 +1054,10 @@
   <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
-  <MentalBreakIntensityMinor>TODO</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMinor>pieni</MentalBreakIntensityMinor>
   <!-- EN: major -->
-  <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
+  <MentalBreakIntensityMajor>suuri</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
-  <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
+  <MentalBreakIntensityExtreme>äärimmäinen</MentalBreakIntensityExtreme>
   
 </LanguageData>

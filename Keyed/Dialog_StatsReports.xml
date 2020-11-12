@@ -51,9 +51,9 @@
   <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>Terveydestä johtuva kerroin {0}</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
-  <StatsReport_ReloadMarketValue>TODO</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadMarketValue>Lataamiskustannukset ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>TODO</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>Kerroin jäljellä oleville {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>Mielialasta johtuva kerroin {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -67,7 +67,7 @@
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>Ruumiin koosta johtuva kerroin {0}</StatsReport_BodySize>
   <!-- EN: Carefully slaughtered without wounds -->
-  <StatsReport_HasHediffExplanation>TODO</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>Varovaisesti teurastettu ilman haavoja</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = Lähitaistelun vahinko * Lähitaistelun osumistodennäköisyys / Jäähdytysaika sekunneissa</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -120,66 +120,66 @@
   <StatsReport_NonToolAttack>Hyökkää</StatsReport_NonToolAttack>
   
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>Mahdolliset lisät</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>TODO</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>Huoneen vaikuttavuus</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>TODO</StatsReport_Lit>
+  <StatsReport_Lit>Valaistu</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>TODO</StatsReport_GraveFull>
+  <StatsReport_GraveFull>Sisältää {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>TODO</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>Sisältää ihmisruumiin</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>TODO</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>Meditaattori on sukua sisällä olevalle ruumiille</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>TODO</StatsReport_FromQuality>
+  <StatsReport_FromQuality>Laadusta</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
-  <StatsReport_NearbyArtificialStructures>TODO</StatsReport_NearbyArtificialStructures>
+  <StatsReport_NearbyArtificialStructures>Lähellä olevista rakennuksista</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>TODO</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>Täyttää käyttäjän tittelivaatimukset</StatsReport_SatisfiesTitle>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>TODO</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>Eri ajanvietteen lähteet täyttävät eri ajanvietteen tyyppejä. Yhdyskuntalaiset tylsistyvät jos he tekevät toistuvasti saman ajanvietetyyppiä, joten on tärkeää tarjota erilaisia ajanvietteen lähteitä joilla on eri ajanvietetyyppejä.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>TODO</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>Kaikki ajanvietetyypit</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
-  <Stat_MineableThing_Name>TODO</Stat_MineableThing_Name>
+  <Stat_MineableThing_Name>Louhittu tuote</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>TODO</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>Esine joka tuotetaan kun tämä louhitaan.</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
-  <Stat_MiningYield_Name>TODO</Stat_MiningYield_Name>
+  <Stat_MiningYield_Name>Louhimisen tuotto</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>TODO</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>Maksimimäärä tuotettuja esineitä tätä louhiessa. Todellinen tuotto säädetään louhijan louhimistaidon mukaisesti.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>TODO</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>Lähdelaji</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
-  <Stat_SourceSpecies_Desc>TODO</Stat_SourceSpecies_Desc>
+  <Stat_SourceSpecies_Desc>Olion laji josta tämä otettiin.</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>TODO</Stat_Stuff_Name>
+  <Stat_Stuff_Name>Materiaali</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>TODO</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>Materiaali josta tämä esine on tehty. Tämä vaikuttaa moneen muuhun tilastoon, kuten aseen vahinkoon, vaatteiden kestävyyteen ja eristävyyteen, esineiden ja rakennuksien kestävyyteen, kauneuteen, markkina-arvoon ja moneen muuhun.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>TODO</Stat_Weapon_Name>
+  <Stat_Weapon_Name>Ase</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>TODO</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>Tämän tykkitornin käyttämä ase.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>TODO</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Paljonko vahinkoa esine kestää ennen kuin se tuhoutuu.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>TODO</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>Työn määrä joka kuluu tämän poistamiseen.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
-  <Stat_Thing_CreatedAt_Desc>TODO</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_CreatedAt_Desc>Mitkä laitteet voivat tuottaa tämän.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>TODO</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>Tämän aseen aiheuttaman vahingon määrä.\n\nKohteen suoja saattaa heijastaa tai estää tämän.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>TODO</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Lääkärien saaman kokemuksen kerroin käyttäessään tätä potilaan hoitamiseen.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
-  <Stat_Thing_Plant_Attributes_Desc>TODO</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>Tämän kasvin ominaisuudet.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>TODO</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>Mitkä ruuminosat tämä peittää.\n\nSuoja ei suojele ruuminosia joita se ei peitä.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
-  <Stat_Thing_Apparel_Layer_Desc>TODO</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>Mitkä vaatekerrokset tämä täyttää.\n\nJoka ruumiinosaan voidaan pukea vain yksi vaate kerrosta kohden.</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>TODO</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>Minimihedelmällisyys jonka tämä kasvi vaatii kasvaakseen.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
   <Stat_Thing_Plant_FertilitySensitivity_Desc>TODO</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
@@ -243,15 +243,15 @@
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
   <Stat_Thing_Surgery_DeathOnFailChance_Desc>TODO</Stat_Thing_Surgery_DeathOnFailChance_Desc>
   <!-- EN: Total bleed factor -->
-  <Stat_Hediff_TotalBleedFactor_Name>TODO</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Name>Verenvuotokerroin</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
   <Stat_Hediff_TotalBleedFactor_Desc>TODO</Stat_Hediff_TotalBleedFactor_Desc>
   <!-- EN: Natural healing factor -->
-  <Stat_Hediff_NaturalHealingFactor_Name>TODO</Stat_Hediff_NaturalHealingFactor_Name>
+  <Stat_Hediff_NaturalHealingFactor_Name>Luonnollinen paranemiskerroin</Stat_Hediff_NaturalHealingFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
   <Stat_Hediff_NaturalHealingFactor_Desc>TODO</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Ruokamyrkytyksen todennäköisyyden kerroin</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Desc>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition causes blood loss. -->
@@ -263,13 +263,13 @@
   <!-- EN: The mental abilities this affects. -->
   <Stat_Hediff_Affects_Desc>TODO</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
-  <Stat_Hediff_HungerRateOffset_Name>TODO</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateOffset_Name>Nälkiintymisnopeuden lisä</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateFactor_Desc>TODO</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateOffset_Desc>TODO</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
-  <Stat_Hediff_TirednessOffset_Name>TODO</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Name>Levon häviämisnopeus</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
   <Stat_Hediff_TirednessOffset_Desc>TODO</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
@@ -281,37 +281,37 @@
   <!-- EN: This can only be placed on terrain of these types. -->
   <Stat_Thing_TerrainRequirement_Desc>TODO</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
-  <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Name>Pidetään</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>Hienona</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
   <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>TODO</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} jäljellä</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
   <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
-  <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural} </Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
   <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
-  <Stat_Thing_ReloadRefill_Name>TODO</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} Lataamiskustannukset</Stat_Thing_ReloadRefill_Name>
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
   <Stat_Thing_ReloadRefill_Desc>TODO</Stat_Thing_ReloadRefill_Desc>
   <!-- EN: Reload cost per {CHARGENOUN} -->
-  <Stat_Thing_ReloadPerCharge_Name>TODO</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Name>Lataamiskustannukset per {CHARGENOUN}</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
   <Stat_Thing_ReloadPerCharge_Desc>TODO</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>TODO</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>Katoaa loppuessa</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
   <Stat_Thing_ReloadDestroyOnEmpty_Desc>TODO</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>TODO</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>Biokoodattu</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
   <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
 
