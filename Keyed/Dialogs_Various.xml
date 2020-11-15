@@ -491,7 +491,7 @@
   <!-- EN: Target -->
   <Target>Kohde</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
-  <AbilityTargetDesc>TODO</AbilityTargetDesc>
+  <AbilityTargetDesc>Kohteiden tyyppi johon tätä kykyä voidaan käyttää.</AbilityTargetDesc>
   <!-- EN: human -->
   <TargetHuman>ihminen</TargetHuman>
   <!-- EN: animal -->
@@ -505,29 +505,29 @@
   <!-- EN: Click to view factions. -->
   <ClickToViewFactions>Klikkaa nähdäksesi ryhmät</ClickToViewFactions>
   <!-- EN: meditation focus types -->
-  <MeditationFocuses>TODO</MeditationFocuses>
+  <MeditationFocuses>meditaatiofokustyypit</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
+  <MeditationFocusesUnlocked>Avaa mediaatiofokustyypit</MeditationFocusesUnlocked>
   <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
-  <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
+  <MeditationFocusesPawnDesc>Meditaatioiden tyypit joita tämä henkilö voi käyttää. Meditoidessa henkilö voi keskittyä esineeseen nostaen psyfokustaan, mutta vain jos he pystyvät käyttämään sen meditaatiotyyppiä. Jokainen henkilö voi käyttää erilaisia meditaatiotyyppejä riippuen niiden taustasta, luonteenpiirteistä, sosiaalisesta asemasta jne.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
-  <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
+  <MeditationFocusesDesc>Meditaatioiden tyypit joita tämä esine tarjoaa. Meditoidessa henkilö voi keskittyä esineeseen nostaen psyfokustaan, mutta vain jos he pystyvät käyttämään sen meditaatiotyyppiä. Jokainen henkilö voi käyttää erilaisia meditaatiotyyppejä riippuen niiden taustasta, luonteenpiirteistä, sosiaalisesta asemasta jne.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>TODO</MeditationFocusCanUse>
+  <MeditationFocusCanUse>Voi käyttää fokustyyppiä {0} koska</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
-  <MeditationFocusObjects>TODO</MeditationFocusObjects>
+  <MeditationFocusObjects>{0} fokusobjekteja</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
-  <MeditationFocusEnabledByTitle>TODO</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByTitle>omistaa tittelin: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
-  <MeditationFocusEnabledByChildhood>TODO</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByChildhood>oli lapsena</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
-  <MeditationFocusEnabledByAdulthood>TODO</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByAdulthood>oli aikuisena</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
-  <MeditationFocusEnabledByTrait>TODO</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByTrait>on luonteenpiirteeltään</MeditationFocusEnabledByTrait>
   <!-- EN: does not have trait -->
-  <MeditationFocusDisabledByTrait>TODO</MeditationFocusDisabledByTrait>
+  <MeditationFocusDisabledByTrait>ei ole luonteenpiirteeltään</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
-  <EnablesMeditationFocusType>TODO</EnablesMeditationFocusType>
+  <EnablesMeditationFocusType>Mahdollistaa meditaatiofokustyypit</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -987,71 +987,71 @@
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>Haluatko varmasti poistaa tämän monumenttimerkin?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <AbilityRequiresLOS>Näköyhteys vaaditaan</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
-  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <AbilityEntropyGain>Neutraali lämpölisä</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
-  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
+  <AbilityPsyfocusCost>Psyfokuskustannukset</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
-  <AbilityDuration>TODO</AbilityDuration>
+  <AbilityDuration>Vaikutuksen kesto</AbilityDuration>
   <!-- EN: Effect radius -->
-  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <AbilityEffectRadius>Vaikutuksen alue</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <AbilityCastingTime>Heittoaika</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>Ei näköyhteyttä kohteeseen.</AbilityCannotHitTarget>
   <!-- EN: Can't reach the target. -->
-  <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
+  <AbilityCannotReachTarget>Kohteeseen ei yletytä.</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
-  <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
+  <AbilityNotEnoughFreeSpace>Ei tarpeeksi vapaata tilaa.</AbilityNotEnoughFreeSpace>
   <!-- EN: {0} must target an empty area. -->
-  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <AbilityOccupiedCells>{0} täytyy kohdistaa tyhjään tilaan.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
-  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  <AbilityUnwalkable>{0} täytyy kohdistaa käveltävään tilaan.</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
-  <AbilityRoofed>TODO</AbilityRoofed>
+  <AbilityRoofed>{0} täytyy kohdistaa katottomaan tilaan.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>Henkilöllä {0_labelShort} on hermoromahdus.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>Henkilöllä {0_labelShort} ei ole hermoromahdusta.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
-  <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
+  <AbilityDoesntWorkOnMentalState>{0} ei toimi '{1}'-mielentilassa.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
-  <AbilityCantApplyNoResistance>TODO</AbilityCantApplyNoResistance>
+  <AbilityCantApplyNoResistance>Henkilöllä {0_labelShort} ei ole vastustusta.</AbilityCantApplyNoResistance>
   <!-- EN: Cannot use: {0} is asexual. -->
-  <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyOnAsexual>Ei voi käyttää: {0} on aseksuaali.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} edustaa väärää sukupuolta henkilölle {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: Psyfocus cost per mental break intensity -->
-  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
+  <PsyfocusCostPerMentalBreakIntensity>Psyfokuskustannukset hermoromahduksen tasoa kohden</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
-  <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
+  <AbilityAlreadyInspired>{0_labelShort} on jo inspiroitunut.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
-  <AbilityCantGetInspiredNow>TODO</AbilityCantGetInspiredNow>
+  <AbilityCantGetInspiredNow>{0_labelShort} ei voi juuri nyt saada inspiraatiota.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} is unconscious. -->
-  <AbilityCantApplyUnconscious>TODO</AbilityCantApplyUnconscious>
+  <AbilityCantApplyUnconscious>{0_labelShort} on tajuton.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
-  <AbilityCantApplyAsleep>TODO</AbilityCantApplyAsleep>
+  <AbilityCantApplyAsleep>{0_labelShort} nukkuu.</AbilityCantApplyAsleep>
   <!-- EN: This tile is impassable. -->
-  <AbilityWorldTileImpassable>TODO</AbilityWorldTileImpassable>
+  <AbilityWorldTileImpassable>Tämä laatta on läpäisemätön.</AbilityWorldTileImpassable>
   <!-- EN: Skip to random ally -->
-  <AbilitySkipToRandomAlly>TODO</AbilitySkipToRandomAlly>
+  <AbilitySkipToRandomAlly>Siirry satunnaiseen liittolaiseen</AbilitySkipToRandomAlly>
   <!-- EN: Skip to join caravan -->
-  <AbilitySkipToJoinCaravan>TODO</AbilitySkipToJoinCaravan>
+  <AbilitySkipToJoinCaravan>Siirry karavaaniin liittymiseen</AbilitySkipToJoinCaravan>
   <!-- EN: Need ally at target for navigation -->
-  <AbilityNeedAllyToSkip>TODO</AbilityNeedAllyToSkip>
+  <AbilityNeedAllyToSkip>Kohteeseen tarvitaan liittolainen navigaatiota varten</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
-  <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
+  <AbilityNoChunkToSkip>Ei ohitettavia lohkareita.</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
-  <PsychicLoveInduceIn>TODO</PsychicLoveInduceIn>
+  <PsychicLoveInduceIn>Aiheuta psyykkistä rakkausta henkilössä</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->
-  <PsychicLoveFor>TODO</PsychicLoveFor>
+  <PsychicLoveFor>Psyykkinen rakkaus henkilöön</PsychicLoveFor>
   <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
-  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
+  <FarskipConfirmTeleportingLodger>Jos siirrät henkilön {PAWN_labelShort} toiseen karttaan tai karavaaniin, liittyvä tehtävä epäonnistuu ja {PAWN_pronoun} lähtee välittömästi.\n\nHaluatko varmasti kaukosiirtää henkilön {PAWN_labelShort}?</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
   <MentalBreakIntensityMinor>pieni</MentalBreakIntensityMinor>

@@ -133,7 +133,7 @@
   <!-- EN: Preparing content files -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Valmistellaan sisältötiedostoja</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Ladataan sisältöjä palvelimelle</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Ladataan sisältöä palvelimelle</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Ladataan esikatselutiedostoa palvelimelle</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
@@ -157,7 +157,7 @@
   <!-- EN: Industrial-tech medicine or worse -->
   <MedicalCareCategory_NormalOrWorse>Teollisuustason lääketarpeita tai huonompia</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>Parhaan laadun lääkintää</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>Parhaan laadun lääketrapeita</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
@@ -271,7 +271,7 @@
   <!-- EN: dirty cooking area -->
   <FoodPoisonCause_FilthyKitchen>likainen keittoalue</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>pilaantunutta ruokaa</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>pilaantunut ruoka</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
   <FoodPoisonCause_DangerousFoodType>vaarallinen ruoan tyyppi</FoodPoisonCause_DangerousFoodType>
 
@@ -311,7 +311,7 @@
   <!-- EN: home faction -->
   <ExtraFactionType_HomeFaction>kotiryhmä</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
-  <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
+  <ExtraFactionType_HostFaction>kaukoisäntäryhmä</ExtraFactionType_HostFaction>
   <!-- EN: group -->
   <ExtraFactionType_MiniFaction>ryhmä</ExtraFactionType_MiniFaction>
 </LanguageData>

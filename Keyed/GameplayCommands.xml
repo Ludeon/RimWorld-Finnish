@@ -69,9 +69,9 @@
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>Aseta tämä sänky tietyn yhdyskuntalaisen omistukseen.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>TODO</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>Aseta tämä valtaistuin tietyn yhdyskuntalaisen omistukseen.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
-  <CommandMeditationSpotSetOwnerDesc>TODO</CommandMeditationSpotSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>Aseta tämä mietiskelypaikka tietyn yhdyskuntalaisen omistukseen.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Aseta yhdyskuntalainen</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -176,7 +176,7 @@
   <!-- EN: Eject sleeper -->
   <CommandPodEject>Poista nukkuja</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
-  <CommandPodEjectDesc>Herätä kryptonukkuja ja poista heidät.</CommandPodEjectDesc>
+  <CommandPodEjectDesc>Herätä salanukkuja ja poista heidät.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
   <CommandPodEjectFailEmpty>Ei sisällä ketään.</CommandPodEjectFailEmpty>
 
@@ -256,9 +256,9 @@
   
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges>TODO</CommandReload_NoCharges>
+  <CommandReload_NoCharges>{CHARGENOUN_plural} ovat loppu.</CommandReload_NoCharges>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo>TODO</CommandReload_NoAmmo>
+  <CommandReload_NoAmmo>Lataamiseen tarvitaan {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
@@ -306,7 +306,7 @@
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>Valitse kaikki karavaanit jotka pitäisi yhdistää. Karavaanien on oltava lähellä toisiaan.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan>TODO</CommandJoinCaravan>
+  <CommandJoinCaravan>Yhdistä</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -362,7 +362,7 @@
   <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>Saatavilla ei ole tajuissan olevaa ja kykenevää neuvottelijaa.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>TODO</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>Yhdelläkään ihmisistäsi ei ole vaadittua ryhmän lupaa: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -396,9 +396,9 @@
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>TODO</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>Automaattinan tankkaus päälle ja pois</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>TODO</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>Aseta onko automaattinen tankkaus sallittu.</CommandToggleAllowAutoRefuelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
@@ -422,7 +422,7 @@
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>Lastaa laukaisuryhmä {0}</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>Määrää valitut kuljettajat laukaisuryhmäksi. Avaa ruudun jossa voit pääättää kuka ja mitä sisälle ladataan.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>Määrää valitut kuljettajat laukaisuryhmäksi. Avaa ruudun jossa voit päättää kuka ja mitä sisälle lastataan.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
   <CommandLoadTransporterFailNotConnectedToFuelingPort>Kuljetuskapseli ei ole yhteydessä tankkausporttiin.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
@@ -430,21 +430,21 @@
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>TODO</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>Lastaa</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterSingleDesc>TODO</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>Avaa ruudun jossa voit päättää kuka ja mitä sisälle lastataan.</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>TODO</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>Aseta lastattavaksi</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandSetToLoadTransporterDesc>TODO</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>Avaa ruudun jossa voit päättää kuka ja mitä sisälle lastataan.</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>TODO</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>Automaattilastaus</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
-  <CommandAutoloadTransportersDesc>TODO</CommandAutoloadTransportersDesc>
+  <CommandAutoloadTransportersDesc>Aseta kaiken tarvittavan lastin automaattinen lastaaminen heti niiden tullessa saatavaksi.</CommandAutoloadTransportersDesc>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
@@ -496,50 +496,50 @@
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>TODO</CommandSendShuttle>
+  <CommandSendShuttle>Lähetä</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>TODO</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>Aloita lentoonlähtö ja lennätä sukkula kohteeseensa.</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
-  <CommandSendShuttleFailUnderRoof>TODO</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailUnderRoof>Sukkula on katon alla.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
-  <CommandSendShuttleFailMissingRequiredThing>TODO</CommandSendShuttleFailMissingRequiredThing>
+  <CommandSendShuttleFailMissingRequiredThing>Jotkin tarvittavista esineistä tai ihmisistä puuttuvat.</CommandSendShuttleFailMissingRequiredThing>
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss>TODO</CommandShuttleDismiss>
+  <CommandShuttleDismiss>Hylkää</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
-  <CommandShuttleDismissDesc>TODO</CommandShuttleDismissDesc>
+  <CommandShuttleDismissDesc>Pura lasti ja lähetä sukkula pois.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
-  <CommandPlaceBlueprints>TODO</CommandPlaceBlueprints>
+  <CommandPlaceBlueprints>Aseta piirustuksia</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>TODO</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>Aseta kaikki mahdolliset tarvittavat piirustukset.</CommandPlaceBlueprintsDesc>
   <!-- EN: Place {0} blueprints -->
-  <CommandPlaceBlueprintsSpecific>TODO</CommandPlaceBlueprintsSpecific>
+  <CommandPlaceBlueprintsSpecific>Aseta {0} piirustus</CommandPlaceBlueprintsSpecific>
   <!-- EN: Place all {0} blueprints where possible. -->
-  <CommandPlaceBlueprintsSpecificDesc>TODO</CommandPlaceBlueprintsSpecificDesc>
+  <CommandPlaceBlueprintsSpecificDesc>Aseta kaikki mahdolliset {0} piirustuksetblueprints.</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
-  <CommandCancelMonumentMarker>TODO</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarker>Peruuta monumenttimerkki</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
-  <CommandCancelMonumentMarkerDesc>TODO</CommandCancelMonumentMarkerDesc>
+  <CommandCancelMonumentMarkerDesc>Poistaa pysyvästi tämän monumenttimerkin.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>TODO</CommandViewQuest>
+  <CommandViewQuest>Tarkastele tehtävää: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>TODO</CommandViewQuestDesc>
+  <CommandViewQuestDesc>Katso tätä tehtävää Tehtävät-välilehdessä.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>TODO</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>Avaa linkitetty tehtävä</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>TODO</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Avaa linkitetyn tehtävän Tehtävät-välilehdessä.</CommandOpenLinkedQuestDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
-  <TakeDrug>TODO</TakeDrug>
+  <TakeDrug>Ota huumetta</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>TODO</TakeDrugDesc>
+  <TakeDrugDesc>Valitse huume tavaroista heti nautittavaksi.</TakeDrugDesc>
   
 </LanguageData>

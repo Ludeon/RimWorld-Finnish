@@ -20,7 +20,7 @@
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>johtaja ei ole saatavilla</LeaderUnavailableNoLeader>
   <!-- EN: Not allowed -->
-  <NotAllowed>TODO</NotAllowed>
+  <NotAllowed>Ei sallittu</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
   <FireAt>Ammu {1_label}</FireAt>
@@ -42,7 +42,7 @@
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>ei voi hyökätä itseen</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>ei voi hyökätä ryhmän liittolaiseen</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Miehitä {1_labelShort}</OrderManThing>
@@ -54,7 +54,7 @@
   <!-- EN: no path -->
   <NoPath>ei reittiä</NoPath>
   <!-- EN: burying -->
-  <Burying>TODO</Burying>
+  <Burying>haudataan</Burying>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>kielletty</ForbiddenLower>
@@ -79,7 +79,7 @@
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>sallitun taidon {0} yläpuolella</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
-  <MissingRequiredSkillLevel>puuttuu tarvittu taitotaso</MissingRequiredSkillLevel>
+  <MissingRequiredSkillLevel>tarvittu taitotaso puuttuu</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>eläin on vuorovaikuttanut liian äskettäin</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
@@ -87,9 +87,9 @@
   <!-- EN: no food -->
   <NoFood>ei ruokaa</NoFood>
   <!-- EN: below requirements of {0} -->
-  <FoodBelowTitleRequirements>TODO</FoodBelowTitleRequirements>
+  <FoodBelowTitleRequirements>tittelin {0} vaatimusten alapuolella</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
-  <AnimalsSkillTooLow>Eläimen taitotaso liian matala - tarvitaan {0}</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>eläimen taitotaso liian matala - tarvitaan {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
   <CantInteractAnimalDowned>eläin maissa</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
@@ -97,7 +97,7 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>eläin on kiireinen</CantInteractAnimalBusy>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>{0} taitotaso liian matala</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>taidon {0} taso liian matala</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>tarvitsee komponentteja</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -129,17 +129,17 @@
   <!-- EN: angers faction -->
   <AngersFaction>suututtaa ryhmän</AngersFaction>
   <!-- EN: no body part -->
-  <InstallImplantNoBodyPart>TODO</InstallImplantNoBodyPart>
+  <InstallImplantNoBodyPart>ei ruumiinosaa</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>TODO</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>ei yhdyskuntalainen</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
-  <InstallImplantAlreadyInstalled>TODO</InstallImplantAlreadyInstalled>
+  <InstallImplantAlreadyInstalled>asennettu jo</InstallImplantAlreadyInstalled>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>maksimitaso</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
-  <UpgradeImplant>TODO</UpgradeImplant>
+  <UpgradeImplant>Päivitä {0} tasoon {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
-  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>ryhmäliittolaisen loukkaaminen</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Syö/juo {1_labelShort}</ConsumeThing>
@@ -172,14 +172,14 @@
   <CannotCarryToCryptosleepCasket>Ei voi kantaa salauniarkkuun</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
-  <CarryToShuttle>TODO</CarryToShuttle>
+  <CarryToShuttle>Kanna {0_label} sukkulaan</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Ei saatavilla olevaa salauniarkkua.</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
-  <CryptosleepCasketGuestsNotAllowed>TODO</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestsNotAllowed>Väliaikaisia ryhmän jäseniä ei sallita.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
-  <CryptosleepCasketGuestPrisonersNotAllowed>TODO</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>Vankeja ei sallita.</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Saatavilla ei ole vapaata ja suljetussa huoneessa olevaa vangin sänkyä turvallisessa lämpötilassa.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -195,7 +195,7 @@
   <!-- EN: Too heavy -->
   <TooHeavy>Liian raskas</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
-  <SameFaction>TODO</SameFaction>
+  <SameFaction>{0_labelShort} on samassa ryhmässä.</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>kykenemätön</Incapable>
@@ -219,18 +219,18 @@
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Ei voi pukea {1_label}</CannotWear>
   <!-- EN: Force equip {1_labelShort} -->
-  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <ForceEquipApparel>Pakota käyttöön {1_labelShort}</ForceEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
-  <CannotEquipApparel>TODO</CannotEquipApparel>
+  <CannotEquipApparel>Ei voi ottaa käyttöön vaatetta {1_label}</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>puuttuvia ruumiinosia</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload>TODO</Reload>
+  <Reload>Lataa {AMMO_label} aseeseen {GEAR_labelShort}</Reload>
   <!-- EN: Full -->
-  <ReloadFull>TODO</ReloadFull>
+  <ReloadFull>Täynnä</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough>TODO</ReloadNotEnough>
+  <ReloadNotEnough>Liian vähän</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>Ei voi poimia {1_label}</CannotPickUp>
@@ -285,13 +285,13 @@
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Ei voi riisua {1_label}</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>TODO</CannotDrop>
+  <CannotDrop>Ei voi pudottaa {1_label}</CannotDrop>
   <!-- EN: temporary faction member -->
-  <QuestRelated>TODO</QuestRelated>
+  <QuestRelated>väliaikainen ryhmän jäsen</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>TODO</QuestRelated_Outfit>
+  <QuestRelated_Outfit>Väliaikaisten ryhmän jäsenten vaatteita ei voi vaihtaa</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>korvaisisi lukitun vaatteen</WouldReplaceLockedApparel>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Itsetuhoudu tässä</SelfDestructHere>
@@ -304,7 +304,7 @@
   <!-- EN: not injured -->
   <NotInjured>ei loukkaantunut</NotInjured>
   <!-- EN: occupied by {0} -->
-  <SomeoneElseSleeping>{0} varannut</SomeoneElseSleeping>
+  <SomeoneElseSleeping>{0} on varannut tämän</SomeoneElseSleeping>
   
   <!-- EN: Trade with {0} -->
   <TradeWith>Käy vaihtokauppaa henkilön {0} kanssa</TradeWith>
@@ -317,23 +317,23 @@
   <CannotOpen>Ei voi avata {0_label}</CannotOpen>
   
   <!-- EN: Enter {0} -->
-  <EnterMap>Mene sisään kohteeseen {0}</EnterMap>
+  <EnterMap>Mene paikkaan {0}</EnterMap>
   <!-- EN: Visit {0} -->
-  <VisitSettlement>Vieraile kohteessa {0}</VisitSettlement>
+  <VisitSettlement>Vieraile asumuksessa {0}</VisitSettlement>
   <!-- EN: Visit {0} -->
-  <VisitPeaceTalks>Vieraile kohteessa {0}</VisitPeaceTalks>
+  <VisitPeaceTalks>Vieraile paikkaan {0}</VisitPeaceTalks>
   <!-- EN: Visit {0} -->
-  <VisitEscapeShip>Vieraile kohteessa {0}</VisitEscapeShip>
+  <VisitEscapeShip>Vieraile aluksessa {0}</VisitEscapeShip>
   <!-- EN: Attack {0} -->
-  <AttackSettlement>Hyökkää kohteeseen {0}</AttackSettlement>
+  <AttackSettlement>Hyökkää asumukseen {0}</AttackSettlement>
   <!-- EN: Approach {0} -->
-  <ApproachSite>Lähesty kohdetta {0}</ApproachSite>
+  <ApproachSite>Lähesty paikkaan {0}</ApproachSite>
   <!-- EN: Approaching {0} -->
-  <ApproachingSite>Lähesty  kohdetta {0}</ApproachingSite>
+  <ApproachingSite>Lähestyy  paikkaa {0}</ApproachingSite>
   <!-- EN: Offer gifts -->
   <OfferGifts>Tarjoa lahjoja</OfferGifts>
   <!-- EN: Trade with {0} -->
-  <TradeWithSettlement>TODO</TradeWithSettlement>
+  <TradeWithSettlement>Käy kauppaa paikassa {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -341,7 +341,7 @@
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Avaa salauniarkku</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>TODO</EnterShuttle>
+  <EnterShuttle>Mene sukkulaan</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
@@ -356,12 +356,12 @@
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Kohteen {2_labelShort} {0} on jo menossa</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>{0} on jo menossa</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Ei voi priorisoida: ei koskaan tee toimintoa {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>TODO</CannotTradeMissingTitleAbility>
+  <CannotTradeMissingTitleAbility>Ei voi vaihtaa: ei tarvittavaa titteliä</CannotTradeMissingTitleAbility>
 
   <!-- EN: Cannot prioritize: will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Ei voi priorisoida: ei koskaan tee toimintoa {0}</CannotPrioritizeWorkGiverDisabled>
@@ -392,7 +392,7 @@
   <!-- EN: Drop in center -->
   <DropInCenter>Pudota keskelle</DropInCenter>
   <!-- EN: Attack {0} -->
-  <AttackShuttle>TODO</AttackShuttle>
+  <AttackShuttle>Hyökkää kohteeseen {0}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Hyökkää kohteeseen {0}: Pudota reunalle</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -421,11 +421,11 @@
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>Zoomaa sisään ja valitse laskeutumispaikka kohteessa{0}</LandInExistingMap>
+  <LandInExistingMap>Zoomaa sisään ja valitse laskeutumispaikka kohteessa {0}</LandInExistingMap>
   <!-- EN: The contents will be lost -->
   <TransportPodsContentsWillBeLost>Sisältö menetetään</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
-  <FormCaravanHere>Muodosta karavaaani tässä</FormCaravanHere>
+  <FormCaravanHere>Muodosta karavaani tässä</FormCaravanHere>
   <!-- EN: Give to {0} -->
   <GiveToCaravan>Anna karavaaniin {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
@@ -438,9 +438,9 @@
   <OfferHelp>Tarjoa apua</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>TODO</ApplyTechprint>
+  <ApplyTechprint>käytä {0}</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>Liian vaarallista</EnterCooldownBlocksEntering>
   
 </LanguageData>
