@@ -48,7 +48,7 @@
   <!-- EN: trap spring chance -->
   <TrapSpringChance.label>ansan laukeamistodennäköisyys</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>Todennäköisyys, että ansa laukeaa kun siitä tietämätön olio liikkuu sen yli.</TrapSpringChance.description>
+  <TrapSpringChance.description>Todennäköisyys, että ansa laukeaa kun siitä tietämätön olento liikkuu sen yli.</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
   <WorkTableEfficiencyFactor.label>TODO</WorkTableEfficiencyFactor.label>

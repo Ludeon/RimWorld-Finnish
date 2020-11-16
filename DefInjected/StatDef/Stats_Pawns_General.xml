@@ -4,7 +4,7 @@
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>kantokyky</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
-  <CarryingCapacity.description>Kuorman suuruus jonka tämä olio voi kantaa käsillään, suullaan tai muulla tavalla.</CarryingCapacity.description>
+  <CarryingCapacity.description>Kuorman suuruus jonka tämä olento voi kantaa käsillään, suullaan tai muulla tavalla.</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
   <ComfyTemperatureMax.label>Suurin mukava lämpötila</ComfyTemperatureMax.label>
@@ -44,12 +44,12 @@
   <!-- EN: leather amount -->
   <LeatherAmount.label>nahan määrä</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. -->
-  <LeatherAmount.description>Tämän olion teruastamisesta saatavan nahan määrä.</LeatherAmount.description>
+  <LeatherAmount.description>Tämän olento teruastamisesta saatavan nahan määrä.</LeatherAmount.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>lihan määrä</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. -->
-  <MeatAmount.description>Tämän olion teruastamisesta saatavan lihan määrä.</MeatAmount.description>
+  <MeatAmount.description>Tämän olennon teruastamisesta saatavan lihan määrä.</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
@@ -59,7 +59,7 @@
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>minimikäsittelytaito</MinimumHandlingSkill.label>
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
-  <MinimumHandlingSkill.description>Tätä oliota ei voi kesyttää, kouluttaa tai komentaa kukaan kenellä on tätä huonompi käsittelytaito.</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.description>Tätä olentoa ei voi kesyttää, kouluttaa tai komentaa kukaan kenellä on tätä huonompi käsittelytaito.</MinimumHandlingSkill.description>
   
   <!-- EN: move speed -->
   <MoveSpeed.label>liikkumisnopeus</MoveSpeed.label>

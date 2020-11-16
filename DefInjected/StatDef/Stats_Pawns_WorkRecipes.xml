@@ -9,7 +9,7 @@
   <!-- EN: butchery speed -->
   <ButcheryFleshSpeed.label>teurastusnopeus</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
-  <ButcheryFleshSpeed.description>Nopeus, jolla tämä henkilö teurastaa tuoreita olioita.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.description>Nopeus, jolla tämä henkilö teurastaa tuoreita olentoja.</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
   <ButcheryMechanoidEfficiency.label>mekanoidin purkukyky</ButcheryMechanoidEfficiency.label>

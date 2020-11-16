@@ -11,7 +11,7 @@
   <Mate.reportString>Pariutuu eläimen TargetA kanssa.</Mate.reportString>
   
   <!-- EN: nuzzling TargetA. -->
-  <Nuzzle.reportString>Kiehnää oliota TargetA.</Nuzzle.reportString>
+  <Nuzzle.reportString>Kiehnää olentoa TargetA.</Nuzzle.reportString>
   
   <!-- EN: hunting TargetA. -->
   <PredatorHunt.reportString>Metsästää kohdetta TargetA.</PredatorHunt.reportString>

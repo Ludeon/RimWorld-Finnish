@@ -19,7 +19,7 @@
   <!-- EN: food -->
   <Food.label>ruoka</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>Ruoka on ravinnon määrä jonka olio on lähiaikoina syönyt. Jos se on nollassa olio ottaa ajan myötä nääntymisvahinkoa.</Food.description>
+  <Food.description>Ruoka on ravinnon määrä jonka olento on lähiaikoina syönyt. Jos se on nollassa olento ottaa ajan myötä nääntymisvahinkoa.</Food.description>
   
   <!-- EN: recreation -->
   <Joy.label>hupi</Joy.label>
@@ -39,7 +39,7 @@
   <!-- EN: rest -->
   <Rest.label>lepo</Rest.label>
   <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>Lepo on miten paljon unta olio on saanut lähiaikoina.</Rest.description>
+  <Rest.description>Lepo on miten paljon unta olento on saanut lähiaikoina.</Rest.description>
   
   <!-- EN: room size -->
   <RoomSize.label>huoneen koko</RoomSize.label>

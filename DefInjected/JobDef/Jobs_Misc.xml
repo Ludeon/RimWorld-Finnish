@@ -5,10 +5,10 @@
   <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>Lähitaistelee olion TargetA kanssa.</AttackMelee.reportString>
+  <AttackMelee.reportString>Lähitaistelee olennon TargetA kanssa.</AttackMelee.reportString>
   
   <!-- EN: attacking TargetA. -->
-  <AttackStatic.reportString>Hyökkää olion TargetA kimppuun.</AttackStatic.reportString>
+  <AttackStatic.reportString>Hyökkää olennon TargetA kimppuun.</AttackStatic.reportString>
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>

@@ -469,7 +469,7 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Koston tod.näk. satutettaessa</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olio haluaa kostaa hyökkääjän satuttaessa kiväärietäisyydeltä.\n\nTämä todennäköisyys kasvaa jos hyökkääjä on lähempänä. Jos hyökkääjä on erittäin lähellä, todennäköisyys on kolme kertaa yhtä suuri.\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.\n\nMinimoidaksesi olion kostonhimoisuuden hyökkää sen kimppuun kiväärietäisyydeltä hitaasti ampuvalla aseella.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olento haluaa kostaa hyökkääjän satuttaessa kiväärietäisyydeltä.\n\nTämä todennäköisyys kasvaa jos hyökkääjä on lähempänä. Jos hyökkääjä on erittäin lähellä, todennäköisyys on kolme kertaa yhtä suuri.\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.\n\nMinimoidaksesi olennon kostonhimoisuuden hyökkää sen kimppuun kiväärietäisyydeltä hitaasti ampuvalla aseella.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Koston tod.näk. kesytyksen epäonn.</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -613,7 +613,7 @@
   <!-- EN: Next restock: {0} days -->
   <NextTraderRestock>Seuraava varastontäydennys: {0} päivää</NextTraderRestock>
   <!-- EN: Creatures -->
-  <PawnsTabShort>Oliot</PawnsTabShort>
+  <PawnsTabShort>Olennot</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
