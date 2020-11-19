@@ -492,7 +492,7 @@
   <!-- EN: Attack -->
   <CommandAttackSettlement>Hyökkää</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>Hyökkää tähän asumukseen.</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>Hyökkää tähän asuinpaikkaan.</CommandAttackSettlementDesc>
 
   <!-- Send shuttle -->
   <!-- EN: Send -->

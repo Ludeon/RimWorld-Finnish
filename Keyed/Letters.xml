@@ -84,16 +84,16 @@
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
   <NewPartDisease>{PAWN} sai {3}-tartunnan. Tartunnan sijainti on {1}.\n\nVarmista että sinulla on lääkintävuode ja lääkäri. Varmista että {PAWN_definite} saa oikeanlaista hoitoa ja viettää vuoteessa mahdollisimman paljon aikaa.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
-  <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
+  <NewDiseaseAnimal>Henkilölle {PAWN_labelShort} on tullut sairaus: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
-  <NewPartDiseaseAnimal>TODO</NewPartDiseaseAnimal>
+  <NewPartDiseaseAnimal>Henkilölle {PAWN_labelShort} on tullut sairaus: {3} ruumiinosassa {1}</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>TODO</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>{0} oli aikaisemmin osa ryhmääsi.</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
-  <PawnWasFormerlyLodger>TODO</PawnWasFormerlyLodger>
+  <PawnWasFormerlyLodger>{0} oli aikaisemmin vieraanasi.</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>TODO</PawnHasTheseRelationshipsWithColonists>
+  <PawnHasTheseRelationshipsWithColonists>Henkilöllä {1_labelShort} on nämä suhteet yhdyskuntalaisiisi:</PawnHasTheseRelationshipsWithColonists>
 
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Muinainen vaara</LetterLabelAncientShrineWarning>
@@ -143,120 +143,120 @@
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Viimeinen niitti oli: {0}.</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
-  <MentalStateReason_Mood>TODO</MentalStateReason_Mood>
+  <MentalStateReason_Mood>Tämä tapahtui huonon mielialan takia.</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
-  <MentalStateReason_Trait>TODO</MentalStateReason_Trait>
+  <MentalStateReason_Trait>Tämä tapahtui luonteenpiirteen takia: {0}.</MentalStateReason_Trait>
   <!-- EN: This happened because of: {0}. -->
-  <MentalStateReason_Hediff>TODO</MentalStateReason_Hediff>
+  <MentalStateReason_Hediff>Tämän aiheutti: {0}</MentalStateReason_Hediff>
   <!-- EN: This happened because of {0_definite}'s death. -->
-  <MentalStateReason_BondedHumanDeath>TODO</MentalStateReason_BondedHumanDeath>
+  <MentalStateReason_BondedHumanDeath>Tämä tapahtui henkilön {0_definite} kuoleman takia.</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
-  <LastFactionRelationsEvent>TODO</LastFactionRelationsEvent>
+  <LastFactionRelationsEvent>Viimeinen tapahtuma oli</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>TODO</ViewRelatedQuest>
+  <ViewRelatedQuest>Katso tähän liittyvää tehtävää</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>TODO</ViewQuest>
+  <ViewQuest>Katso tehtävää</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>TODO</LastEventsInLife>
+  <LastEventsInLife>Viimeiset tapahtumat henkilön {PAWN_definite} elämässä</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>TODO</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>Korkean mielialan ansiosta [PAWN_nameIndef] on saanut inspiraation!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
-  <LetterLabelNoticedRelatedPawns>TODO</LetterLabelNoticedRelatedPawns>
+  <LetterLabelNoticedRelatedPawns>Sukulainen</LetterLabelNoticedRelatedPawns>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
-  <LetterRelatedPawnsRaidEnemy>TODO</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidEnemy>Jotkin sinulla olevat {0} tai vangit ja saapumassa olevat {1} ovat sukua keskenään.\n\nPidä mielessä että vaikka he ovat sukua, he hyökkäävät silti huonojen ryhmäsuhteiden takia.\n\nNämä henkilöt ovat:</LetterRelatedPawnsRaidEnemy>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
-  <LetterRelatedPawnsRaidFriendly>TODO</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsRaidFriendly>Jotkin sinulla olevat {0} tai vangit ja saapumassa olevat ystävälliset {1} ovat sukua keskenään.</LetterRelatedPawnsRaidFriendly>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
-  <LetterRelatedPawnsNeutralGroup>TODO</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsNeutralGroup>Jotkin sinulla olevat {0} tai vangit ja saapumassa olevat {1} ovat sukua keskenään.</LetterRelatedPawnsNeutralGroup>
   <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradeShip>TODO</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradeShip>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille joita vaihtokauppias on myymässä.</LetterRelatedPawnsTradeShip>
   <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithSettlement>TODO</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithSettlement>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille joita asuinpaikka on myymässä.</LetterRelatedPawnsTradingWithSettlement>
   <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithOtherCaravan>TODO</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille joita karavaani on myymässä.</LetterRelatedPawnsTradingWithOtherCaravan>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
-  <LetterRelatedPawnsGroupGeneric>TODO</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsGroupGeneric>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille jotka ovat ryhmässsä:</LetterRelatedPawnsGroupGeneric>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
-  <LetterRelatedPawnsInMapWherePlayerLanded>TODO</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsInMapWherePlayerLanded>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille paikassa johon he ovat laskeutuneet.</LetterRelatedPawnsInMapWherePlayerLanded>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
-  <LetterRelatedPawnsSettlement>TODO</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSettlement>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille tässä asuinpaikassa:</LetterRelatedPawnsSettlement>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
-  <LetterRelatedPawnsSite>TODO</LetterRelatedPawnsSite>
+  <LetterRelatedPawnsSite>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille tällä alueella:</LetterRelatedPawnsSite>
 
   <!-- EN: relationship -->
-  <RelationshipAppendedLetterSuffix>TODO</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterSuffix>suhde</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>TODO</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} on sukua yhdyskuntalaisen kanssa. Hän on yhdyskuntalaisen {RELATIVE_labelShort} {1}.</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>TODO</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} on sukua vangin kanssa. Hän on vangin {RELATIVE_labelShort} {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
-  <LetterLabelAffair>TODO</LetterLabelAffair>
+  <LetterLabelAffair>Pettäminen</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>TODO</LetterAffair>
+  <LetterAffair>{PAWN1_labelShort}, joka on naimisissa henkilön {SPOUSE_labelShort} kanssa, on alkanut pettämään henkilön {PAWN2_labelShort} kanssa.</LetterAffair>
   <!-- EN: New lovers -->
-  <LetterLabelNewLovers>TODO</LetterLabelNewLovers>
+  <LetterLabelNewLovers>Uudet rakastajat</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
-  <LetterNewLovers>TODO</LetterNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort} ja {PAWN2_labelShort} haluavat nyt nukkua yhdessä. Harkitse parisängyn asettamista heille.</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>TODO</LetterNoLongerLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} ja {PAWN2_labelShort} eivät enää seurustele.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>TODO</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} vaihtaa sukunimensä takaisin syntymänimeensä.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
-  <LetterLabelBreakup>TODO</LetterLabelBreakup>
+  <LetterLabelBreakup>Ero</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>TODO</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>Avioliitto on tulossa!</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
-  <LetterLabelRejectedProposal>TODO</LetterLabelRejectedProposal>
+  <LetterLabelRejectedProposal>Kosimisyritys hylätty</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>TODO</LetterAcceptedProposal>
+  <LetterAcceptedProposal>Jonain aikana tulevina päivinä tai neljänneksinä he pitävät vihkitilaisuuden ja kutsuvat kaikki yhdyskuntalaiset. Harkitse hääpaikan asettamista jos haluat määrätä missä vihkitilaisuus pidetään.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>TODO</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} vaihtaa sukunimekseen {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>TODO</LetterRejectedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull} tulee olemaan surullinen tästä.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
-  <LetterLabelRelationsChange_Hostile>TODO</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Hostile>Vihamielinen: {0}</LetterLabelRelationsChange_Hostile>
   <!-- EN: Allied: {0} -->
-  <LetterLabelRelationsChange_Ally>TODO</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_Ally>Liittolainen:{0}</LetterLabelRelationsChange_Ally>
   <!-- EN: Enemy now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromHostile>TODO</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromHostile>Vihollinen on nyt neutraali: {0}</LetterLabelRelationsChange_NeutralFromHostile>
   <!-- EN: Ally now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromAlly>TODO</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelRelationsChange_NeutralFromAlly>Liittolainen on nyt neutraali:{0}</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
   <LetterLabelShortCircuit>Zzzap...</LetterLabelShortCircuit>
 
   <!-- Bonded animals -->
   <!-- EN: bonded -->
-  <LetterLabelSuffixBondedAnimalDied>TODO</LetterLabelSuffixBondedAnimalDied>
+  <LetterLabelSuffixBondedAnimalDied>kiintynyt</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>TODO</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} oli kiintynyt henkilöön {HUMAN_labelShort}. Se vaikuttaa henkilön {HUMAN_labelShort} mielialaan.</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
-  <LetterPartBondedAnimalDiedMulti>TODO</LetterPartBondedAnimalDiedMulti>
+  <LetterPartBondedAnimalDiedMulti>Se vaikuttaa seuraavien ihmisten mielialaan:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <!-- EN: Prison break -->
-  <LetterLabelPrisonBreak>TODO</LetterLabelPrisonBreak>
+  <LetterLabelPrisonBreak>Vankilapako</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>TODO</LetterPrisonBreak>
+  <LetterPrisonBreak>vangit ovat järjestäneet vankilapaon! He ovat jotenkin murtaneet ovien lukot ja ovat matkalla ulos. He saattavat etsiä aseita, taistella tai yrittää paeta. Nämä vangit ovat osallisina:\n\n{0}\n\nVangit yrittävät vankilapakoa todennäköisemmin jos heitä on paljon ja he ovat terveitä.</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
-  <LetterLabelNewlyAddicted>{0} addiktio</LetterLabelNewlyAddicted>
+  <LetterLabelNewlyAddicted>{0}riippuvuus</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>TODO</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} on tullut riippvuaiseksi huumeesta {1}.\n\n{PAWN_pronoun} tarvitsee nyt huumetta {1}, minkä voi nähdä hänen Tarpeet-välilehdestä. Hän nauttii automaattisesti huumetta ruokkiakseen riippuvuuttaan. Jos hän ei saa yhtään huumetta {1}, hänelle tulee vieroitusoireita.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
   <LetterLabelDrugBinge>{0}putki</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>TODO</LetterDrugBinge>
+  <LetterDrugBinge>{2_label} kuluttaa paljon huumetta {1}.</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->

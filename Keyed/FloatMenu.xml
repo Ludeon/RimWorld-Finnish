@@ -319,13 +319,13 @@
   <!-- EN: Enter {0} -->
   <EnterMap>Mene paikkaan {0}</EnterMap>
   <!-- EN: Visit {0} -->
-  <VisitSettlement>Vieraile asumuksessa {0}</VisitSettlement>
+  <VisitSettlement>Vieraile asuinpaikassa {0}</VisitSettlement>
   <!-- EN: Visit {0} -->
   <VisitPeaceTalks>Vieraile paikkaan {0}</VisitPeaceTalks>
   <!-- EN: Visit {0} -->
   <VisitEscapeShip>Vieraile aluksessa {0}</VisitEscapeShip>
   <!-- EN: Attack {0} -->
-  <AttackSettlement>Hyökkää asumukseen {0}</AttackSettlement>
+  <AttackSettlement>Hyökkää asuinpaikkaan {0}</AttackSettlement>
   <!-- EN: Approach {0} -->
   <ApproachSite>Lähesty paikkaan {0}</ApproachSite>
   <!-- EN: Approaching {0} -->

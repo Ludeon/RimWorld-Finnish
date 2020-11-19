@@ -317,7 +317,7 @@
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
-  <Stat_Thing_Drug_Chemical_Desc>Tämän aktiivinen kemikaali.\n\nJoissain tapauksissa sama kemikaali on monissa huumeissa. Nämä eri huumeet täyttävät saman addiktion eri tavoilla.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>Tämän aktiivinen kemikaali.\n\nJoissain tapauksissa sama kemikaali on monissa huumeissa. Nämä eri huumeet täyttävät saman riippuvuuden eri tavoilla.</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
   <Stat_Thing_Drug_HighGainPerDose_Desc>Huumetilan intensiteettikasvu jokaista annosta kohti.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
@@ -333,7 +333,7 @@
   <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
   <Stat_Thing_Drug_SafeDoseInterval_Desc>Käyttäjä ei tule koskaan riippuvaiseksi jos he eivät käytä huumetta tätä useammin.\n\nTämä lasketaan huumeen riippuvuuden minimitoleranssista, toleranssilisästä annosta kohti ja toleranssin vähenemisnopeudesta.\n\nHuomaa että joillain huumeilla ei ole turvallista annosten väliä. Sellaiset huumeet aiheuttavat riippuvuutta kaikista annoksista, jopa ensimmäisestä.</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
-  <Stat_Thing_Drug_RandomODChance_Desc>Sattumanvaraisen yliannostuksen todennäköisyys tätä huumetta nautitaessa. Satunnainen yliannostus voi sattua mistä tahansa annoksesta riippumatta siitä onko kyseessä uuden käyttäjän ensikokeilu vai kokeneen addiktin sadas annos.</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>Sattumanvaraisen yliannostuksen todennäköisyys tätä huumetta nautitaessa. Satunnainen yliannostus voi sattua mistä tahansa annoksesta riippumatta siitä onko kyseessä uuden käyttäjän ensikokeilu vai kokeneen riippuvaisen sadas annos.</Stat_Thing_Drug_RandomODChance_Desc>
   <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
   <Stat_Thing_Drug_Addictiveness_Desc>Riippuvaisuuden todennäköisyys jokaista huumeannosta kohti.\n\nJos huumeen riippuvaisuudella on minimitoleranssi, toleranssin on oltava sen tason yläpuolella jotta tämä on voimassa. Jos minimitoleranssia ei ole, mikä tahansa annos saataa aiheuttaa riippuvuutta.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
@@ -343,12 +343,12 @@
   <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
   <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>Paljonko olemassa olevan riippuvuuden vakavuus pahenee jokaisen huumeannoksen myötä.\n\nRiippuvuuden vakavuus ei voi olla yli 100 %.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
   <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Miten usein addiktin on otettava annos huumetta riippuvuuden ruokkimiseksi ja vieroitusoireiden estämiseksi.\n\nTämä lasketaan riippuvuuden tarpeen laskemisnopeudesta ja annoksen antamasta tarpeen täyttämisestä.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Miten usein riippuvaisen henkilön on otettava annos huumetta riippuvuuden ruokkimiseksi ja vieroitusoireiden estämiseksi.\n\nTämä lasketaan riippuvuuden tarpeen laskemisnopeudesta ja annoksen antamasta tarpeen täyttämisestä.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
-  <Stat_Thing_Drug_AddictionNeedOffset_Desc>Paljonko jokainen annos tätä huumetta täyttää addiktin kemikaalin tarvetta.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>Paljonko jokainen annos tätä huumetta täyttää riippuvaisen henkilön kemikaalin tarvetta.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
-  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Miten nopeasti addiktin kemikaalin tarve laskee.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Miten nopeasti riippuvaisen henkilön kemikaalin tarve laskee.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>Päivässä riippuvuuden ruokkimiseksi ja vieroitusoireiden estämiseksi nautittavan huumeen markkina-arvo.\n\nTämä arvo lasketaan addiktin kemikaalin tarpeesta annosta kohti, tarpeen laskunopeudesta ja huumeen markkina-arvosta.\n\nHuomaa, että samaa kemikaalia voidaan saada monella eri tavalla eri kustannuksilla.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>Päivässä riippuvuuden ruokkimiseksi ja vieroitusoireiden estämiseksi nautittavan huumeen markkina-arvo.\n\nTämä arvo lasketaan riippuvaisen henkilön kemikaalin tarpeesta annosta kohti, tarpeen laskunopeudesta ja huumeen markkina-arvosta.\n\nHuomaa, että samaa kemikaalia voidaan saada monella eri tavalla eri kustannuksilla.</Stat_Thing_Drug_AddictionCost_Desc>
 
 </LanguageData>

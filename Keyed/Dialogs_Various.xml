@@ -893,7 +893,7 @@
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>Miten paljon ylimäärin ottaa mukaan päihdettä kun sitä kerätään käytettäväksi jotta aina päihdevarastossa käynti voidaan välttää.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>Addiktioon\n\nKäytä tätä päihdettä ruokkimaan jo syntynyttä addiktiotarvetta.\n\nMyös pois käytöstä ollessa tietyt piirteet omaavat hahmot tai hermoromahtaneet käyttävät päihdettä siitä huolimatta.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>Riippuvuuteen\n\nKäytä tätä päihdettä ruokkimaan jo syntynyttä riippuvuutta.\n\nMyös pois käytöstä ollessa tietyt piirteet omaavat hahmot tai hermoromahtaneet käyttävät päihdettä siitä huolimatta.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
   <DrugUsageTipForJoy>Ajanvietteeseen\n\nKäytä tätä päihdettä hupiin ja sosiaalisiin tarkoituksiin.\n\nMyös pois käytöstä ollessa tietyt piirteet omaavat hahmot tai hermoromahtaneet käyttävät päihdettä siitä huolimatta.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->

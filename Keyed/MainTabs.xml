@@ -21,33 +21,33 @@
   <!-- EN: E -->
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
-  <SelectedWorkTypeWithVeryBadSkill>TODO</SelectedWorkTypeWithVeryBadSkill>
+  <SelectedWorkTypeWithVeryBadSkill>Varoitus: Tähän liittyvien taitojen keskiarvo on erittäin matala.</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>Tärkeyden 1 toimet tehdään ensin. Tärkeyden 4 toimet tehdään viimeisinä.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
-  <Priority0>TODO</Priority0>
+  <Priority0>Ei tee</Priority0>
   <!-- EN: Top priority -->
-  <Priority1>TODO</Priority1>
+  <Priority1>Korkein tärkeys</Priority1>
   <!-- EN: High priority -->
-  <Priority2>TODO</Priority2>
+  <Priority2>Korkea tärkeys</Priority2>
   <!-- EN: Normal priority -->
-  <Priority3>TODO</Priority3>
+  <Priority3>Normaali tärkeys</Priority3>
   <!-- EN: Low priority -->
-  <Priority4>TODO</Priority4>
+  <Priority4>Matala tärkeys</Priority4>
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
-  <PawnFactionInfo>TODO</PawnFactionInfo>
+  <PawnFactionInfo>{0}\n\nRyhmä johon {1_nameDef} kuuluu tällä hetkellä.\n\nKlikkaa katsoaksesi ryhmää.</PawnFactionInfo>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Muokkaa vaatekertoja</ManageOutfits>
   <!-- EN: Unchangeable -->
-  <Unchangeable>TODO</Unchangeable>
+  <Unchangeable>Ei vaihdettavissa</Unchangeable>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>Poista pakotetut</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>pakotettu</ApparelForcedLower>
   <!-- EN: locked -->
-  <ApparelLockedLower>TODO</ApparelLockedLower>
+  <ApparelLockedLower>lukittu</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Pakotettu vaate</ForcedApparel>
   <!-- EN: Edit... -->
@@ -55,7 +55,7 @@
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Hallitse päihdekäytäntöjä</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
-  <ManageFoodRestrictions>TODO</ManageFoodRestrictions>
+  <ManageFoodRestrictions>Hallitse ruokarajoituksia</ManageFoodRestrictions>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
@@ -71,43 +71,43 @@
   <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>Raskaana ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
-  <BondedTo>TODO</BondedTo>
+  <BondedTo>Kiintynyt olentoon</BondedTo>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>TODO</IsPredator>
+  <IsPredator>Tämä olento on saalistaja. Kun se on nälkäinen, se metsästää pienempiä olentoja - mahdollisesti myös ihmisiä.</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
-  <IsInMentalState>TODO</IsInMentalState>
+  <IsInMentalState>Tämä olento on tällä hetkellä mielentilassa: {0}</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>Vihamielinen</Hostile>
   <!-- EN: Ally -->
-  <Ally>TODO</Ally>
+  <Ally>Liittolainen</Ally>
   <!-- EN: defeated -->
   <DefeatedLower>kukistettu</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
   <!-- EN: Enemy of:  -->
-  <EnemyOf>TODO</EnemyOf>
+  <EnemyOf>Viholliset:</EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <CurrentGoodwillTip>Nykyinen hyväntahtoisuus ja suhteiden tila tämän ryhmän kanssa.</CurrentGoodwillTip>
   <!-- EN: Current relations with this faction. -->
-  <CurrentRelationTip>TODO</CurrentRelationTip>
+  <CurrentRelationTip>Nykyiset suhteet tämän ryhmän kanssa.</CurrentRelationTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>Tämä ryhmä on pysyvästi vihamielinen. He tekevät ryöstöretkiä asuinpaikkoihisi ja karavaaneihisi. Suhteet niiden kanssa eivät koskaan parane mistään syistä.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Ally>Tämä ryhmä on liittolainen. He lähettävät taistelijoita auttamaan kun pystyvät. Jos suhteet menevät arvon {0} alle, heistä tulee neutraaleja.</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>Tämä ryhmä on neutraali. He käyvät vaihtokauppaa ja puhuvat kanssasi vapaasti. Jos suhteet laskevat arvon {0} alle, heistä tulee vihamielisiä. Jos suhteet nousevat arvon {1} ylle, heistä tulee liittolaisia ja he alkavat tekemään aktiivisia toimia auttaakseen sinua.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Tämä ryhmä on vihamielinen. He tekevät ryöstöretkiä asuinpaikkoihisi ja karavaaneihisi. Jos suhteet nousevat arvon {0} ylle, heistä tulee neutraaleja.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
-  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>Tämän ryhmän luonnollinen hyväntahtoisuuden vaihteluväli on arvosta {0} arvoon {0}</CurrentGoodwillTip_NaturalGoodwill>
   <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>TODO</CurrentGoodwillTip_NaturalGoodwillRise>
+  <CurrentGoodwillTip_NaturalGoodwillRise>Jos hyväntahtoisuus on arvon {0} alapuolella, se nousee {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillRise>
   <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillFall>TODO</CurrentGoodwillTip_NaturalGoodwillFall>
+  <CurrentGoodwillTip_NaturalGoodwillFall>Jos hyväntahtoisuus on arvon {0} yläpuolella, se putoaa {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillFall>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
@@ -143,13 +143,13 @@
 
   <!-- History tab - Messages -->
   <!-- EN: Show letters -->
-  <ShowLetters>TODO</ShowLetters>
+  <ShowLetters>Näytä kirjeet</ShowLetters>
   <!-- EN: Show messages -->
-  <ShowMessages>TODO</ShowMessages>
+  <ShowMessages>Näytä viestit</ShowMessages>
   <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
-  <PinArchivableTip>TODO</PinArchivableTip>
+  <PinArchivableTip>Aseta tai poista viestin kiinnitys.\n\nVanhimmat kiinnittämättömät viestit poistetaan automaattisesti listasta kun saavutetaan {0} viestin raja.</PinArchivableTip>
   <!-- EN: no messages -->
-  <NoMessages>TODO</NoMessages>
+  <NoMessages>ei viestejä</NoMessages>
 
   <!-- History tab - Statistics -->
   <!-- EN: Play time -->
@@ -157,19 +157,19 @@
   <!-- EN: Storyteller -->
   <Storyteller>Tarinankertoja</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>Yhdyskunnan varallisuus (tällä kartalla)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>Yhdyskunnan varallisuus (esineet) (tällä kartalla)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>Yhdyskunnan varallisuus (rakennukset) (tällä kartalla)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>Yhdyskunnan varallisuus (ihmiset ja eläimet) (tällä kartalla)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>Merkkittäviä uhkia</NumThreatBigs>
   <!-- EN: Enemy raids -->
   <NumEnemyRaids>Vihollisten tekemiä hyökkäyksiä</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
-  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>Vahinkoa otettu (tällä kartalla)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
   <ColonistsKilled>Yhdyskuntalaisia tapettu</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
@@ -191,132 +191,132 @@
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Tutkimuksen vaatimukset</ResearchPrerequisites>
   <!-- EN: Techprints required {0} / {1} -->
-  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <ResearchTechprintRequirement>Teknopiirrustuksia tarvitaan {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
-  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <InsufficientTechprintsApplied>Ei tarpeeksi teknopiirustuksia käytetty ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
-  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <PrerequisitesNotCompleted>Vaatimuksia ei täytetty</PrerequisitesNotCompleted>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>Tarvittava tutkimuspöytä</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
   <RequiredResearchBenchFacilities>Tarvittavat tutkimuspöydän laitteet</RequiredResearchBenchFacilities>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+  <ResearchCostComparison>Projektin kustannuksista {0} tulee {1} teknologian tasosi takia.</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
-  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <ResearchTechprintsFromFactions>Teknopiirustukset ovat saatavilla näistä ryhmistä vaihtamalla tai tekemällä tehtäviä:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
-  <TechLevelTooLow>TODO</TechLevelTooLow>
+  <TechLevelTooLow>Ryhmäsi teknologian taso on {0}, mutta tämän projektin taso on {1}. Tutkimusnopeuden kerroin on {2}.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
-  <UnlockedWith>TODO</UnlockedWith>
+  <UnlockedWith>Avaava teknologia</UnlockedWith>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
-  <AvailableQuests>TODO</AvailableQuests>
+  <AvailableQuests>Saatavilla</AvailableQuests>
   <!-- EN: Active -->
-  <ActiveQuests>TODO</ActiveQuests>
+  <ActiveQuests>Aktiiviset</ActiveQuests>
   <!-- EN: Historical -->
-  <HistoricalQuests>TODO</HistoricalQuests>
+  <HistoricalQuests>Historialliset</HistoricalQuests>
   <!-- EN: no quest selected -->
-  <NoQuestSelected>TODO</NoQuestSelected>
+  <NoQuestSelected>tehtävää ei valittu</NoQuestSelected>
   <!-- EN: Appeared {0} days ago -->
-  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <AppearedDaysAgo>Ilmestyi {0} päivää sitten</AppearedDaysAgo>
   <!-- EN: Appeared on {0} -->
-  <AppearedOn>TODO</AppearedOn>
+  <AppearedOn>Ilmestyi {0}</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>TODO</AcceptedAgo>
+  <AcceptedAgo>Hyväksyttiin {0} sitten</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
-  <AcceptedOn>TODO</AcceptedOn>
+  <AcceptedOn>Hyväksyttiin {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <AcceptedAgoBy>{1} hyväksyi {0} sitten</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <AcceptedOnBy>{1} hyväksyi {0}</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
-  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <QuestExpiresIn>Vanhenee kun on kulunut {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
-  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <QuestExpiresOn>Vanhenee {0}</QuestExpiresOn>
   <!-- EN: Average guest mood (previous {0}): {1} -->
-  <QuestAveragePawnMood>TODO</QuestAveragePawnMood>
+  <QuestAveragePawnMood>Keskimääräinen vieraan mieliala (edelliset {0}): {1}</QuestAveragePawnMood>
   <!-- EN: The average mood of {0} over the previous {1} -->
-  <QuestAveragePawnMoodTargets>TODO</QuestAveragePawnMoodTargets>
+  <QuestAveragePawnMoodTargets>Kohteiden {0} keskimääräinen mieliala edelliset {1}</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
-  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <ShuttleArrivesIn>Sukkulan saapumiseen {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
-  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <ShuttleArrivesOn>Sukkula saapuu {0}</ShuttleArrivesOn>
   <!-- EN: Shuttle departs in {0} -->
-  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <ShuttleDepartsIn>Sukkulan lähtemiseen {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
-  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <ShuttleDepartsOn>Sukkula lähtee {0}</ShuttleDepartsOn>
   <!-- EN: Guests depart in {0} -->
-  <GuestsDepartsIn>TODO</GuestsDepartsIn>
+  <GuestsDepartsIn>Vieraiden lähtemiseen {0}</GuestsDepartsIn>
   <!-- EN: Guests depart on {0} -->
-  <GuestsDepartsOn>TODO</GuestsDepartsOn>
+  <GuestsDepartsOn>Vieraat lähtevät {0}</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
-  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <QuestFinishedAgo>Suoritettiin {0} sitten</QuestFinishedAgo>
   <!-- EN: Accept quest -->
-  <AcceptQuest>TODO</AcceptQuest>
+  <AcceptQuest>Hyväksy tehtävä</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
-  <AcceptWith>TODO</AcceptWith>
+  <AcceptWith>{0_labelShort} hyväksyy</AcceptWith>
   <!-- EN: Accept for -->
-  <AcceptQuestFor>TODO</AcceptQuestFor>
+  <AcceptQuestFor>Hyväksy</AcceptQuestFor>
   <!-- EN: Click to accept this quest for this reward. -->
-  <AcceptQuestForTip>TODO</AcceptQuestForTip>
+  <AcceptQuestForTip>Klikkaa hyväksyäksesi tämän tehtävän ja tämän palkinnon</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
-  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_OfferExpired>Tarjous vanheni.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
-  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_UnknownOrSuccess>Suoritit tämän tehtävän.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
-  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Failed>Epäonnistuit tässä tehtävässä.</QuestOutcomeInfo_Failed>
   <!-- EN: This quest became invalid before it was accepted. -->
-  <QuestOutcomeInfo_Invalid>TODO</QuestOutcomeInfo_Invalid>
+  <QuestOutcomeInfo_Invalid>Tästä tehtävästä tuli kelvoton ennen kuin se hyväksyttiin.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
-  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <JumpToTargetCustom>Hyppää kohteeseen {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
-  <SelectHiveTargets>TODO</SelectHiveTargets>
+  <SelectHiveTargets>Valitse pesät</SelectHiveTargets>
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
-  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <QuestChallengeRatingTip>Haasteluokitus. Tämä on yleinen luokitus tehtävän vaikeudesta suhteutettuna nykyiseen voimakkuuteesi. Haastavammat tehtävät antavat suurempia palkintoja.\n\n1: Normaali\n2: Vaikea\n3: Äärimmäinen\n4: Ultimaattinen</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
-  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <QuestAcceptanceRequirementsDescription>Hyväksyäksesi tämän tehtävän tarvitset</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfied>vapaata makuuhuoneita jotka täyttävät vaatimukset tittelistä</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestBedroomRequirementsUnsatisfiedSingle>vapaa makuuhuone joka täyttää vaatimukset tittelistä</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
-  <QuestThroneRoomRequirementsUnsatisfied>TODO</QuestThroneRoomRequirementsUnsatisfied>
+  <QuestThroneRoomRequirementsUnsatisfied>valtaistuinsali joka täyttää henkilön {PAWN_definite} tittelin {TITLE}</QuestThroneRoomRequirementsUnsatisfied>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
-  <QuestNoThroneRoom>TODO</QuestNoThroneRoom>
+  <QuestNoThroneRoom>valtaistuinsali joka täyttää henkilön {PAWN_definite} vaatimukset tittelistä {TITLE} </QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->
-  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>yhdyskuntalaisen jolla on titteli {0}</QuestNoColonistWithTitle>
   <!-- EN: {PAWN_definite} to be in your home colony -->
-  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
+  <QuestPawnNotOnColonyMap>{PAWN_definite} kotiyhdyskunnassasi</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
-  <QuestRequiresNoDangerOnMap>TODO</QuestRequiresNoDangerOnMap>
+  <QuestRequiresNoDangerOnMap>kartalla ei ole tehtävänantajan ryhmän vihollisia</QuestRequiresNoDangerOnMap>
   <!-- EN: Reward preferences -->
-  <ChooseRewards>TODO</ChooseRewards>
+  <ChooseRewards>Palkintomieltymykset</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
-  <ChooseRewardsDesc>TODO</ChooseRewardsDesc>
+  <ChooseRewardsDesc>Kerro muille ryhmille millaisia palkintoja haluat tulevista tehtävistä. Tämä ei vaikuta tehtäviin jotka ovat jo tarjolla.</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
-  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <AcceptRoyalFavor>Hyväksy {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
-  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <AcceptRoyalFavorDesc>Haluatko vai etkö halua palkinnoksi {FACTION_royalFavorLabel} ryhmältä {FACTION_name}.\n\nJos tämä on pois käytöstä, {FACTION_name} tarjoaa muuntyyppisiä palkintoja.\n\nTämä asetus vaikuttaa vain uusiin tehtäviin.</AcceptRoyalFavorDesc>
   <!-- EN: Accept goodwill -->
-  <AcceptGoodwill>TODO</AcceptGoodwill>
+  <AcceptGoodwill>Hyväksy hyväntahtoisuutta</AcceptGoodwill>
   <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
-  <AcceptGoodwillDesc>TODO</AcceptGoodwillDesc>
+  <AcceptGoodwillDesc>Haluatko vai etkö halua palkinnoksi parempia ryhmäsuhteita ryhmän {FACTION_name} kanssa.\n\nJos tämä on pois käytöstä, {FACTION_name} tarjoaa muuntyyppisiä palkintoja.\n\nTämä asetus vaikuttaa vain uusiin tehtäviin.</AcceptGoodwillDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <RoyalFavorOn>Haluat tällä hetkellä palkinnoksi {FACTION_royalFavorLabel}.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOff>TODO</RoyalFavorOff>
+  <RoyalFavorOff>Et halua tällä hetkellä palkinnoksi {FACTION_royalFavorLabel}.</RoyalFavorOff>
   <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
-  <GoodwillTip>TODO</GoodwillTip>
+  <GoodwillTip>Hyväntahtoisuutesi ryhmän {0_name} kanssa paranee {1}.\n\nNykyinen hyväntahtoisuus: {4} ({5}).\n\nHyväntahtoisuus mittaa ryhmien välistä suhdetta yleisesti. Jos se putoaa arvon {2} alapuolelle, ryhmästä tulee vihamielinen ja hyökkää asuinpaikkojesi ja karavaaniesi kimppuun. Jos se nousee arvon {3} yläpuolelle, ryhmästä tulee liittolainen ja lähettää taistelijoita auttamaan kun pystyvä. Muutoin ryhmä pysyy neutraalina ja käy vaihtokauppaa ja puhuu kanssasi vapaasti.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
-  <PawnQuestReward>TODO</PawnQuestReward>
+  <PawnQuestReward>{0_labelShort} liittyy</PawnQuestReward>
   <!-- EN: Betrayal offer: {0} targets remain -->
-  <QuestBetrayalOffer>TODO</QuestBetrayalOffer>
+  <QuestBetrayalOffer>Pettämistarjous: {0} kohdetta jäljellä</QuestBetrayalOffer>
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
-  <QuestBetrayalOfferTip>TODO</QuestBetrayalOfferTip>
+  <QuestBetrayalOfferTip>{0} antaa sinulle palkinnon jos tapat kaikki ryhmän {1} jäsenet.</QuestBetrayalOfferTip>
   
   <!-- Health tab -->
   <!-- EN: Creates need -->
-  <CreatesNeed>TODO</CreatesNeed>
+  <CreatesNeed>Luo tarpeen</CreatesNeed>
 
 </LanguageData>

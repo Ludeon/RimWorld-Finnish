@@ -472,7 +472,7 @@
   <!-- EN: This tile is occupied. -->
   <TileOccupied>Paikka on varattu.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>Asumukset eivät voi olla vierekkäin.</FactionBaseAdjacent>
+  <FactionBaseAdjacent>Asuinpaikat eivät voi olla vierekkäin.</FactionBaseAdjacent>
   <!-- EN: Biome -->
   <Biome>Biomi</Biome>
   <!-- EN: Terrain -->

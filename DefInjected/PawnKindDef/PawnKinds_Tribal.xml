@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: archer -->
-  <Tribal_Archer.label>heimojousimies</Tribal_Archer.label>
-  <Tribal_Archer.labelPlural>archers</Tribal_Archer.labelPlural>
+  <Tribal_Archer.label>jousimies</Tribal_Archer.label>
+  <Tribal_Archer.labelPlural>jousimiehet</Tribal_Archer.labelPlural>
   
   <!-- EN: berserker -->
   <Tribal_Berserker.label>TODO</Tribal_Berserker.label>
@@ -12,8 +12,8 @@
   <Tribal_ChiefMelee.label>TODO</Tribal_ChiefMelee.label>
   
   <!-- EN: archer chief -->
-  <Tribal_ChiefRanged.label>heimopäällikkö</Tribal_ChiefRanged.label>
-  <Tribal_ChiefRanged.labelPlural>chiefs</Tribal_ChiefRanged.labelPlural>
+  <Tribal_ChiefRanged.label>jousimiespäälikkö</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelPlural>jousimiespääliköt</Tribal_ChiefRanged.labelPlural>
   
   <!-- EN: heavy archer -->
   <Tribal_HeavyArcher.label>TODO</Tribal_HeavyArcher.label>
@@ -25,8 +25,8 @@
   <Tribal_Penitent.label>TODO</Tribal_Penitent.label>
   
   <!-- EN: trader -->
-  <Tribal_Trader.label>trader</Tribal_Trader.label>
-  <Tribal_Trader.labelPlural>traders</Tribal_Trader.labelPlural>
+  <Tribal_Trader.label>kauppias</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>kauppiaat</Tribal_Trader.labelPlural>
   
   <!-- EN: warrior -->
   <Tribal_Warrior.label>heimosoturi</Tribal_Warrior.label>

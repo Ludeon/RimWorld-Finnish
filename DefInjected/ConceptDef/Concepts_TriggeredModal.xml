@@ -7,7 +7,7 @@
   <ArrestingCreatesEnemies.helpText>Varoitus: Henkilö jota yrität pidättää ei välttämättä antaudu taistelutta.\n\nJos pidätät yhdyskuntaan kuulumattoman henkilön heidän koko ryhmästänsä tulee vihollisesi.</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
-  <MaxNumberOfPlayerSettlements.label>Maksimimäärä pelaajan yhdyskuntalaisia</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.label>Maksimimäärä pelaajan yhdyskuntia</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
   <MaxNumberOfPlayerSettlements.helpText>TODO</MaxNumberOfPlayerSettlements.helpText>
   

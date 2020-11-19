@@ -61,9 +61,9 @@
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>Kauppa-alus kulkee lähistöllä.\n\nHeidät tunnetaan nimellä {0}. He ovat {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>He ovat ryhmän {FACTION_name} liittolaisia.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>He eivät ole minkään ryhmän liittolaisia.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>Eräs {PAWN_title} tukikohdasta {1} on kulkemassa ohi. {PAWN_pronoun} nimensä on {PAWN_nameFull}.</SingleTravelerPassing>
@@ -102,9 +102,9 @@
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>Heräsi {0} päivää sitten</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <ActivatedDaysAgo>Aktivoitu {0} päivää sitten</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <OpenedDaysAgo>Avattu {0} päivää sitten</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Psyykkisen häirinnän taso: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
@@ -152,7 +152,7 @@
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
   <LetterTraderCaravanArrival>Karavaani tukikohdasta {0} on tulossa. He ovat {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>He pysyttelevät yhdyskunnan läheisyydessä jonkin aikaa ennen lähtöä. Voit hyökätä heidän kimppuunsa - mutta tämä suututtaa heidän ryhmänsä!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -170,7 +170,7 @@
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>Olet saapunut (*Name)Charlon Whitestonen(/*Name) lähettämiin koordinaatteihin ja löytänyt piilotetun avaruusaluksen.\n\nAluksen reaktori on yhä syvässä horrostilassa, joten se ei vielä pysty lentämään. Voit käynnistää sen käyttämällä tietokoneydintä.\n\n(*Name)Charlon Whitestone(/*Name) varoittaa, että käynnistysprosessissa kestää noin 15 päivää ja energiajäljen pystyy tunnistamaan kaukaa. Tällainen energiajälki osoittaa mahdollisuuden tähtienväliseen matkustukseen ja houkuttelee epätoivoisia hyökkääjäryhmiä ja parvia kuollettavia mekanoideja.\n\nSinun kimppuusi hyökätään voimalla jota et ole koskaan nähnyt. Varmista että puolustuksesi ovat ensin valmiit.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>Olet saavuttanut (*Name)Charlon Whitestonen(/Name) lähettämät koordinaatit ja löytänyt piilotetun avaruusaluksen.\n\nAluksen reaktori on yhä syvässä horrostilassa, joten sillä ei voi vielä lentää. Voit käynnistää sen käyttämällä tietokoneydintä.\n\n(*Name)Charlon Whitestone(/Name) varoittaa että käynnistysprosessi kestää noin 15 päivää.</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Alus tuhottu</EscapeShipLostLabel>
   <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
@@ -190,13 +190,13 @@
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>ei karavaanin jäseniä jotka pystyvät käymään kauppaa</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>tarvitaan vaihtokauppias jolla on titteli {0} ryhmästä {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Karavaanipyyntö</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>Läheinen asumus, {0}, esittää sinulle erityisen vaihtokaupan. He haluavat ostaa:\n\n  {1} (arvo: {2})\n\nHe tarjoavat:\n\n  {3} (arvo: {4})\n\nTämä pyynto menee vanhaksi: {5}\n\nJos haluat tehdä vaihtokaupan, lähetä karavaaani pyydetyillä esineillä. Arvioitu matkan kesto on {6}. Voit tarkistaa tämän tarjouksen valitsemalla {0} maailmankartalta.</LetterCaravanRequest>
+  <LetterCaravanRequest>Lähellä oleva asuinpaikka {0} esittää sinulle erityisen tarjouksen. He haluavat ostaa:\n\n  {1} (arvo: {2})\n\nHe tarjoavat:\n\n  {3} (arvo: {4})\n\nTämän pyynnön vanhenemiseen: {5}\n\nJos haluat tehdä vaihtokaupan, lähetä karavaaani pyydetyillä esineillä. Arvioitu matkan kesto on {6}. Voit tarkistaa tämän tarjouksen valitsemalla {0} maailmankartalta.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
   <CaravanRequestInfo>Pyydetään: {0} ({2}), ({1} jäljellä)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
@@ -226,20 +226,20 @@
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Tehtävä epäonnistunut</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Tehtävää ei voi enää suorittaa koska {FACTION_name} on vihamielinen.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Tehtävä epäonnistunut</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Tehtävää ei voi enää suorittaa koska {SUBJECT_definite} on kaapattu.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Tehtävä epäonnistunut</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+  <LetterQuestAskerDied>Tehtävää ei voi enää suorittaa koska {SUBJECT_definite} on kuolllut.</LetterQuestAskerDied>
 
 </LanguageData>

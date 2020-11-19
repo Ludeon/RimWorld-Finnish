@@ -35,3 +35,5 @@ factions tab            ryhmät-välilehti
 menu tab                valikko-välilehti
 landing site            laskeutumisalue
 quadrum                 neljännes
+settlement              asuinpaikka
+addiction               riippuvuus
