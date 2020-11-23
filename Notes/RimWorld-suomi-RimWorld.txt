@@ -1,39 +1,39 @@
 Rimworld-suomi-Rimworld
 
-personal shield         henkilökohtainen suojakilpi
-resources               resurssit
-info card               tietokortti?
-construction            rakennelma
-inspect pane            tarkastelupaneeli
-medical operations      lääkintäoperaatiot
-health                  terveys
-orbital trade beacon    kiertoratavaihtokaupan majakka
-goodwill                hyväntahtoisuus
-flick                   naksauttaa? naksauttaja? kääntäjä? käyttäjä?
-broken                  murtunut
-joy tolerance           kyllästyminen ilonpitoihin
-firefighting            palontorjunta
-faction                 ryhmä -> ryhmittymä?
-colony                  yhdyskunta
-rimworld                syrjäplanetta
-melee attacking         lähitaistelee olion ->
-urbworld                urbaani maailma
-midworld                keskimaailma
-glitterworld            välkemaailma
-joywire                 iloimplantti
-debug                   kehitystila
-item                    esine
-architect tab           arkkitehti-välilehti
-work tab                työnteko-välilehti
-restrict tab            rajoitukset-välilehti
-assign tab              määräykset-välilehti
-animals tab             eläimet-välilehti
-research tab            tutkimus-välilehti
-world tab               maailma-välilehti
-history tab             historia-välilehti
-factions tab            ryhmät-välilehti
-menu tab                valikko-välilehti
-landing site            laskeutumisalue
-quadrum                 neljännes
-settlement              asuinpaikka
 addiction               riippuvuus
+animals tab             eläimet-välilehti
+architect tab           arkkitehti-välilehti
+assign tab              määräykset-välilehti
+broken                  murtunut
+colony                  yhdyskunta
+construction            rakennelma
+debug                   kehitystila
+faction                 ryhmä -> ryhmittymä?
+factions tab            ryhmät-välilehti
+firefighting            palontorjunta
+flick                   naksauttaa? naksauttaja? kääntäjä? käyttäjä?
+glitterworld            välkemaailma
+goodwill                hyväntahtoisuus
+health                  terveys
+history tab             historia-välilehti
+info card               tietokortti?
+inspect pane            tarkastelupaneeli
+item                    esine
+joy tolerance           kyllästyminen ilonpitoihin
+joywire                 iloimplantti
+landing site            laskeutumisalue
+medical operations      lääkintäoperaatiot
+melee attacking         lähitaistelee olion ->
+menu tab                valikko-välilehti
+midworld                keskimaailma
+orbital trade beacon    kiertoratavaihtokaupan majakka
+personal shield         henkilökohtainen suojakilpi
+quadrum                 neljännes
+research tab            tutkimus-välilehti
+resources               resurssit
+restrict tab            rajoitukset-välilehti
+rimworld                syrjäplanetta
+settlement              asuinpaikka
+urbworld                urbaani maailma
+work tab                työnteko-välilehti
+world tab               maailma-välilehti
