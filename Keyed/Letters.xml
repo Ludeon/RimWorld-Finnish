@@ -82,7 +82,7 @@
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
   <NewDisease>{PAWN} sairastui tautiin {1}.\n\nVarmista, että sinulla on sairaspeti ja lääkäri. Varmista, että {PAWN_definite} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN} sai {3}-tartunnan. Tartunnan sijainti on {1}.\n\nVarmista että sinulla on lääkintävuode ja lääkäri. Varmista että {PAWN_definite} saa oikeanlaista hoitoa ja viettää vuoteessa mahdollisimman paljon aikaa.</NewPartDisease>
+  <NewPartDisease>{PAWN} sairastui tautiin {3}. Tartunnan sijainti on {1}.\n\nVarmista että sinulla on lääkintävuode ja lääkäri. Varmista että {PAWN_definite} saa oikeanlaista hoitoa ja viettää vuoteessa mahdollisimman paljon aikaa.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>Henkilölle {PAWN_labelShort} on tullut sairaus: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
@@ -262,7 +262,7 @@
   <!-- EN: Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>Karavaani tuhoutunut</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>TODO</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Kaikki karavaanin {0} ovat kuolleet.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
@@ -274,155 +274,155 @@
   <!-- EN: Attack begun -->
   <LetterLabelCaravanEnteredEnemyBase>Hyökkäys alkaa</LetterLabelCaravanEnteredEnemyBase>
   <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
-  <LetterCaravanEnteredEnemyBase>TODO</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} on saapunut paikkaan {1} ja on valmis aloittamaan hyökkäämisen.</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelTransportPodsLandedInEnemyBase>TODO</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterLabelTransportPodsLandedInEnemyBase>Hyökkäys alkanut</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
-  <LetterTransportPodsLandedInEnemyBase>TODO</LetterTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>Kuljetuskapselisi ovat saapuneet paikkaan {0}.</LetterTransportPodsLandedInEnemyBase>
   <!-- EN: The shuttle has arrived at {0}. -->
-  <LetterShuttleLandedInEnemyBase>TODO</LetterShuttleLandedInEnemyBase>
+  <LetterShuttleLandedInEnemyBase>Sukkula on saapunut paikkaan {0}.</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
-  <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
+  <LetterLabelFactionBaseDefeated>Tukikohta tuhottu</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterFactionBaseDefeated>TODO</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>Vihollisten asuinpaikka {0} on tuhottu.\n\nKun on kulunut {1}, viholliset hyökkäävät karaanisi kimppuun. He alkavat lähettämään taisteluvoimia karavaania kohti ellei se keräänny ja poistu paikalta.</LetterFactionBaseDefeated>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>TODO</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>Koska tämä oli heidän viimeinen asuinpaikkansa, ryhmä {0} on kukistettu.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Tehtävä valmis</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>TODO</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Olet vallannut vihollisten tukikohdan!\n\nMaksu ryhmältä {0} on saapunut, ja ryhmävälisuhteet ovat parantuneet {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
   <!-- EN: Distant resource scanned -->
-  <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>Kaukainen resurssi skannattu</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>TODO</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>{WORKER_labelShort} on pitkän kantaman resurssiskanneriasi käyttäen löytänyt {0}keskittymän melko kaukana.\n\nValitettavasti aikaa ei ole paljon - muut louhivat sen {1} päivän päästä jos me emme tee sitä.\n\n{2}.</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
-  <LetterLabelDeepScannerFoundLump>TODO</LetterLabelDeepScannerFoundLump>
+  <LetterLabelDeepScannerFoundLump>Maaperä skannattu</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>TODO</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} on maaperän läpäisevää resurssiskanneriasi käyttäen löytänyt hautautuneen {0}keksittymän!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->
-  <LetterLabelAmbushInExistingMap>TODO</LetterLabelAmbushInExistingMap>
+  <LetterLabelAmbushInExistingMap>väijytys</LetterLabelAmbushInExistingMap>
   <!-- EN: Your {0} have been ambushed! -->
-  <LetterAmbushInExistingMap>TODO</LetterAmbushInExistingMap>
+  <LetterAmbushInExistingMap>{0} joutuivat väijytyksen uhreiksi!</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
   <!-- EN: Peace talks disaster -->
-  <LetterLabelPeaceTalks_Disaster>TODO</LetterLabelPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Disaster>Rauhanneuvottelukatastrofi</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
-  <LetterPeaceTalks_Disaster>TODO</LetterPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Neuvottelut olivat katastrofi. Valtuutetut ehtivät hädin tuskin tervehtiä toisiaan kun keskustelussa alkoi lennellä halvauksia ja syytöksiä.\n\nKun karavaanisi lähti pikaisesti, {0} ryhmästä {1} saavuttivat heidät ja hyökkäsivät!\n\nSuhteet ryhmään {1}: {2}.</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
-  <LetterLabelPeaceTalks_Backfire>TODO</LetterLabelPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_Backfire>Rauhanneuvottelu epäonnistui</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
-  <LetterPeaceTalks_Backfire>TODO</LetterPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Neuvottelut tuottivat päinvastaisen tuloksen. Vaikka kohteliaisuuksia vaihdettiin, valtuutetut eivät edistäneet merkittäviä asioita, ja useat lausunnot ymmärrettiin loukkauksina.\n\nSuhteet ryhmään {0}: {1}.</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
-  <LetterLabelPeaceTalks_TalksFlounder>TODO</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_TalksFlounder>Rauhanneuvvotteluvirhe</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>TODO</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Neuvottelu oli kompuroivaa. Valtuutetut onnistuivat kommunikoimaan selkeästi ja melko kunnioittavasti, mutta merkittävissä asioissa ei tullut edistystä.\n\nSuhteet ryhmän {0} kanssa eivät muuttuneet.</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
-  <LetterLabelPeaceTalks_Success>TODO</LetterLabelPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Success>Rauhanneuvottelu onnistui</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
-  <LetterPeaceTalks_Success>TODO</LetterPeaceTalks_Success>
+  <LetterPeaceTalks_Success>Neuvottelut olivat menestys. Valtuutetut pääsivät uuteen yhteisymmärrykseen monessa merkittävässä asiassa.\n\nSuhteet ryhmän  {0} kanssa paranivat {1} pistettä.</LetterPeaceTalks_Success>
   <!-- EN: Peace talks triumph -->
-  <LetterLabelPeaceTalks_Triumph>TODO</LetterLabelPeaceTalks_Triumph>
+  <LetterLabelPeaceTalks_Triumph>Rauhanneuvottelujen riemuvoitto</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
-  <LetterPeaceTalks_Triumph>TODO</LetterPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>Neuvottelut olivat suuri riemuvoitto! Valtuutetut pääsivät nopeasti syvään yhteisymmärrykseen ja käsittivät aidosti toistensa näkökulmat päivän vaikeimmista asioista.\n\nSuhteet ryhmän {0} kanssa paranivat {1} pistettä.\n\nKun karavaanisi lähti, {0} tarjosi sinulle lahjan:\n\n{2}</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>TODO</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>Neuvottelijasi {PAWN_labelShort} on saanut {1} sosiaalista kokemuspistettä.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>TODO</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>{0} on kyllästynyt sivistykseen.\n\nHän tajusi että villit eläimet ovat aina vapaita. Hän on siis päättänyt jättää ryhmäsi ja alkanut elämään eläinten kanssa.\n\nVoit yrittää kesyttää tai pidättää hänet saadaksesi hänet takaisin.</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
-  <LetterCatatonicMentalBreak>TODO</LetterCatatonicMentalBreak>
+  <LetterCatatonicMentalBreak>{0} on kärsinyt täydellisen mielen murtumisen ja on joutunut katatoniseen tilaan. Hän virkoaa muutaman päivän päästä.</LetterCatatonicMentalBreak>
 
   <!-- EN: Persona Core Offer -->
-  <LetterLabelAICoreOffer>TODO</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>Persoonaydintarjous</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
-  <LetterAICoreOffer>TODO</LetterAICoreOffer>
+  <LetterAICoreOffer>{PAWN_definite} ryhmästä {1} ottaa sinuun yhteyttä ja tarjoaa tietoja: persoonaytimen sijainnin, jonka tarvitset avaruusaluksen rakentamiseksi. He kertovat että tämä esine on varsin harvinainen ja yleensä sen omistajat vartioivat sitä voimakeinoin.\n\nSoita heille kommunikaatiopäätteellä jos olet kiinnostunut.</LetterAICoreOffer>
 
   <!-- Crafting letters -->
   <!-- EN: Legendary Work -->
-  <LetterCraftedLegendaryLabel>TODO</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryLabel>Legendaarinen teos</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>TODO</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} on luonut esineen {CRAFTED_labelShort}.\n\nUutiset tästä arvoesineestä leviävät maan ympäri.</LetterCraftedLegendaryMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessageArt>TODO</LetterCraftedLegendaryMessageArt>
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} on luonut esineen {CRAFTED_labelShort}.\n\n{0}\n\nUutiset tästä arvoesineestä leviävät maan ympäri.</LetterCraftedLegendaryMessageArt>
 
   <!-- EN: Masterwork -->
-  <LetterCraftedMasterworkLabel>TODO</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkLabel>Mestariteos</LetterCraftedMasterworkLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <LetterCraftedMasterworkMessage>TODO</LetterCraftedMasterworkMessage>
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} on luonut esineen {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
-  <LetterCraftedMasterworkMessageArt>TODO</LetterCraftedMasterworkMessageArt>
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} on luonut esineen {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt>
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>TODO</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Karavani menetetty</LetterLabelPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
-  <LetterPawnsLostBecauseMapClosed_Caravan>TODO</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>Karavaanisi on menetetty. Seuraavat ihmiset ja eläimet menetettiin sen mukana</LetterPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Inhabitants abandoned -->
-  <LetterLabelPawnsLostBecauseMapClosed_Home>TODO</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Asukkaat hylätty</LetterLabelPawnsLostBecauseMapClosed_Home>
   <!-- EN: The following people and animals have been abandoned -->
-  <LetterPawnsLostBecauseMapClosed_Home>TODO</LetterPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>Seuraavat ihmiset ja eläimet on hylätty</LetterPawnsLostBecauseMapClosed_Home>
 
   <!-- Hibernate complete -->
   <!-- EN: Reactor ready -->
-  <LetterLabelHibernateComplete>TODO</LetterLabelHibernateComplete>
+  <LetterLabelHibernateComplete>Reaktori valmis</LetterLabelHibernateComplete>
   <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>TODO</LetterHibernateComplete>
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) on saanut reaktorin horrostilasta palautumisprosessin valmiiksi. Reaktori on nyt valmis lähtölaukaisuun.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
-  <LetterHibernateCompleteStandalone>TODO</LetterHibernateCompleteStandalone>
+  <LetterHibernateCompleteStandalone>Reaktorin käynnistysprosessi on valmis. Se on nyt valmis lähtölaukaisuun.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
   <!-- EN: Gift from {0} -->
-  <LetterLabelVisitorsGaveGift>TODO</LetterLabelVisitorsGaveGift>
+  <LetterLabelVisitorsGaveGift>Lahja ryhmältä {0}</LetterLabelVisitorsGaveGift>
   <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
-  <LetterVisitorsGaveGift>TODO</LetterVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0} ryhmästä {PAWN_factionName} ovat jättäneet lahjan:\n\n{1}</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
   <!-- EN: Faction base proximity -->
-  <LetterLabelFactionBaseProximity>TODO</LetterLabelFactionBaseProximity>
+  <LetterLabelFactionBaseProximity>Ryhmän tukikohta lähellä</LetterLabelFactionBaseProximity>
   <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>TODO</LetterFactionBaseProximity>
+  <LetterFactionBaseProximity>Koska olet niin lähellä toista ryhmää, he kokevat että tunkeudut heidän reviirilleen.\n\nViime neljänneksessä ryhmäsuhteet huononivat:</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
-  <LetterLabelCaravansBattlefieldVictory>TODO</LetterLabelCaravansBattlefieldVictory>
+  <LetterLabelCaravansBattlefieldVictory>Karavaanitaistelu voitettu</LetterLabelCaravansBattlefieldVictory>
   <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterCaravansBattlefieldVictory>TODO</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>Karavaanisi on voittanut taistelun.\n\nVoit muodostaa karavaanin uudelleen Maailma-näkymässä valitsemalla taistelukentän ja valitsemalla "Muodosta karavaani uudelleen".\n\nEsineitä ei tarvitse kerätä manuaalisesti, vaan karavaanin uudelleenmuodostustyökalu tekee sen välittömästi.\n\nKun on kulunut {0}, karavaanisi kimppuun hyökkää vihollisia. He alkavat lähettämään taisteluvoimia karavaania kohti ellei se keräänny ja poistu paikalta.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
-  <LetterLabelRescueQuestFinished>TODO</LetterLabelRescueQuestFinished>
+  <LetterLabelRescueQuestFinished>Pelastettu liittyy</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>TODO</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>Olet pelastanut henkilön {PAWN_nameDef} ja hän on liittynyt ryhmääsi.\n\nVoit ottaa hänet mukaasi muodostamalla karavaanin uudelleen Maailma-näkymässä valitsemalla tämän paikan ja valitsemalla "Muodosta karavaani uudelleen".</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>TODO</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} metsästää henkilöä {PREY_definite}</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>TODO</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR} metsästää ruokaa kohteenaan {PREY_definite}!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on: {2}. -->
-  <LetterDisease_Blocked>TODO</LetterDisease_Blocked>
+  <LetterDisease_Blocked>{0} esti sairauden {1}: {2}.</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
-  <LetterLabelTraitDisease>TODO</LetterLabelTraitDisease>
+  <LetterLabelTraitDisease>Sairaus: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>TODO</LetterTraitDisease>
+  <LetterTraitDisease>{PAWN_label} sairastui tautiin {1}.\n\nVarmista, että sinulla on sairaspeti ja lääkäri. Varmista, että {PAWN_definite} saa kunnollista hoitoa ja viettää mahdollisimman paljon aikaa sängyssä.</LetterTraitDisease>
 
   <!-- Surgery -->
   <!-- EN: Surgery failed on {PATIENT_labelShort} -->

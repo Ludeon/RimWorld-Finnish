@@ -6,61 +6,7 @@ Translation report for Finnish
 
 ========== Backstories load errors (0) ==========
 
-========== Missing keyed translations (593) ==========
-LetterAllCaravanColonistsDied 'All members of {0} have died.' (English file: Letters.xml:156) (placeholder exists in Letters.xml:265)
-LetterCaravanEnteredEnemyBase '{0} has arrived at {1} and is ready to begin the attack.' (English file: Letters.xml:164) (placeholder exists in Letters.xml:277)
-LetterLabelTransportPodsLandedInEnemyBase 'Attack begun' (English file: Letters.xml:167) (placeholder exists in Letters.xml:281)
-LetterTransportPodsLandedInEnemyBase 'Your transport pods have arrived at {0}.' (English file: Letters.xml:168) (placeholder exists in Letters.xml:283)
-LetterShuttleLandedInEnemyBase 'The shuttle has arrived at {0}.' (English file: Letters.xml:169) (placeholder exists in Letters.xml:285)
-LetterFactionBaseDefeated 'The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves.' (English file: Letters.xml:173) (placeholder exists in Letters.xml:291)
-LetterFactionBaseDefeated_FactionDestroyed 'Since this was their last settlement, {0} has been defeated.' (English file: Letters.xml:174) (placeholder exists in Letters.xml:293)
-LetterDefeatAllEnemiesQuestCompleted 'You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.' (English file: Letters.xml:178) (placeholder exists in Letters.xml:299)
-LetterFoundPreciousLump 'Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.' (English file: Letters.xml:182) (placeholder exists in Letters.xml:305)
-LetterLabelDeepScannerFoundLump 'Scanned underground' (English file: Letters.xml:185) (placeholder exists in Letters.xml:309)
-LetterDeepScannerFoundLump '{FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner!' (English file: Letters.xml:186) (placeholder exists in Letters.xml:311)
-LetterLabelAmbushInExistingMap 'Ambush' (English file: Letters.xml:189) (placeholder exists in Letters.xml:315)
-LetterAmbushInExistingMap 'Your {0} have been ambushed!' (English file: Letters.xml:190) (placeholder exists in Letters.xml:317)
-LetterLabelPeaceTalks_Disaster 'Peace talks disaster' (English file: Letters.xml:193) (placeholder exists in Letters.xml:321)
-LetterPeaceTalks_Disaster 'The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.' (English file: Letters.xml:194) (placeholder exists in Letters.xml:323)
-LetterLabelPeaceTalks_Backfire 'Peace talks backfire' (English file: Letters.xml:195) (placeholder exists in Letters.xml:325)
-LetterPeaceTalks_Backfire 'The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.' (English file: Letters.xml:196) (placeholder exists in Letters.xml:327)
-LetterLabelPeaceTalks_TalksFlounder 'Peace talks flounder' (English file: Letters.xml:197) (placeholder exists in Letters.xml:329)
-LetterPeaceTalks_TalksFlounder 'The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.' (English file: Letters.xml:198) (placeholder exists in Letters.xml:331)
-LetterLabelPeaceTalks_Success 'Peace talks success' (English file: Letters.xml:199) (placeholder exists in Letters.xml:333)
-LetterPeaceTalks_Success 'The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.' (English file: Letters.xml:200) (placeholder exists in Letters.xml:335)
-LetterLabelPeaceTalks_Triumph 'Peace talks triumph' (English file: Letters.xml:201) (placeholder exists in Letters.xml:337)
-LetterPeaceTalks_Triumph 'The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2}' (English file: Letters.xml:202) (placeholder exists in Letters.xml:339)
-PeaceTalksSocialXPGain '{PAWN_labelShort}, your negotiator, has gained {1} social experience.' (English file: Letters.xml:203) (placeholder exists in Letters.xml:341)
-LetterRunWildMentalBreak '{0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back.' (English file: Letters.xml:206) (placeholder exists in Letters.xml:345)
-LetterCatatonicMentalBreak '{0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days.' (English file: Letters.xml:209) (placeholder exists in Letters.xml:349)
-LetterLabelAICoreOffer 'Persona Core Offer' (English file: Letters.xml:211) (placeholder exists in Letters.xml:352)
-LetterAICoreOffer '{PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested.' (English file: Letters.xml:212) (placeholder exists in Letters.xml:354)
-LetterCraftedLegendaryLabel 'Legendary Work' (English file: Letters.xml:215) (placeholder exists in Letters.xml:358)
-LetterCraftedLegendaryMessage '{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world.' (English file: Letters.xml:216) (placeholder exists in Letters.xml:360)
-LetterCraftedLegendaryMessageArt '{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world.' (English file: Letters.xml:217) (placeholder exists in Letters.xml:362)
-LetterCraftedMasterworkLabel 'Masterwork' (English file: Letters.xml:219) (placeholder exists in Letters.xml:365)
-LetterCraftedMasterworkMessage '{WORKER_labelShort} has created a {CRAFTED_labelShort}.' (English file: Letters.xml:220) (placeholder exists in Letters.xml:367)
-LetterCraftedMasterworkMessageArt '{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}' (English file: Letters.xml:221) (placeholder exists in Letters.xml:369)
-LetterLabelPawnsLostBecauseMapClosed_Caravan 'Caravan lost' (English file: Letters.xml:224) (placeholder exists in Letters.xml:373)
-LetterPawnsLostBecauseMapClosed_Caravan 'Your caravan has been lost. The following people and animals have been lost with it' (English file: Letters.xml:225) (placeholder exists in Letters.xml:375)
-LetterLabelPawnsLostBecauseMapClosed_Home 'Inhabitants abandoned' (English file: Letters.xml:226) (placeholder exists in Letters.xml:377)
-LetterPawnsLostBecauseMapClosed_Home 'The following people and animals have been abandoned' (English file: Letters.xml:227) (placeholder exists in Letters.xml:379)
-LetterLabelHibernateComplete 'Reactor ready' (English file: Letters.xml:230) (placeholder exists in Letters.xml:383)
-LetterHibernateComplete '(*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff.' (English file: Letters.xml:231) (placeholder exists in Letters.xml:385)
-LetterHibernateCompleteStandalone 'The reactor's power up sequence is complete. It is now ready to power a liftoff.' (English file: Letters.xml:232) (placeholder exists in Letters.xml:387)
-LetterLabelVisitorsGaveGift 'Gift from {0}' (English file: Letters.xml:235) (placeholder exists in Letters.xml:391)
-LetterVisitorsGaveGift '{0} from {PAWN_factionName} have left a gift:\n\n{1}' (English file: Letters.xml:236) (placeholder exists in Letters.xml:393)
-LetterLabelFactionBaseProximity 'Faction base proximity' (English file: Letters.xml:239) (placeholder exists in Letters.xml:397)
-LetterFactionBaseProximity 'Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by:' (English file: Letters.xml:240) (placeholder exists in Letters.xml:399)
-LetterLabelCaravansBattlefieldVictory 'Caravan battle won' (English file: Letters.xml:243) (placeholder exists in Letters.xml:403)
-LetterCaravansBattlefieldVictory 'Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves.' (English file: Letters.xml:244) (placeholder exists in Letters.xml:405)
-LetterLabelRescueQuestFinished 'Rescuee joins' (English file: Letters.xml:247) (placeholder exists in Letters.xml:409)
-LetterRescueQuestFinished 'You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option.' (English file: Letters.xml:248) (placeholder exists in Letters.xml:411)
-LetterLabelPredatorHuntingColonist '{PREDATOR_labelShort} hunting {PREY_definite}' (English file: Letters.xml:251) (placeholder exists in Letters.xml:415)
-LetterPredatorHuntingColonist '{PREDATOR} is hunting {PREY_definite} for food!' (English file: Letters.xml:252) (placeholder exists in Letters.xml:417)
-LetterDisease_Blocked '{0} blocked {1} on: {2}.' (English file: Letters.xml:255) (placeholder exists in Letters.xml:421)
-LetterLabelTraitDisease 'Disease: {0}' (English file: Letters.xml:256) (placeholder exists in Letters.xml:423)
-LetterTraitDisease '{PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible.' (English file: Letters.xml:257) (placeholder exists in Letters.xml:425)
+========== Missing keyed translations (539) ==========
 LetterLabelSurgeryFailed 'Surgery failed on {PATIENT_labelShort}' (English file: Letters.xml:260) (placeholder exists in Letters.xml:429)
 MessageMedicalOperationFailureRidiculous '{SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}).' (English file: Letters.xml:263) (placeholder exists in Letters.xml:435)
 MessageMedicalOperationFailureFatal '{SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}.' (English file: Letters.xml:264) (placeholder exists in Letters.xml:437)
@@ -8135,7 +8081,13 @@ YouthSoldier99.desc missing
 
 ========== Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0) =========
 
-========== Argument count mismatches (may or may not be incorrect) (2) ==========
+========== Argument count mismatches (may or may not be incorrect) (4) ==========
+LetterRunWildMentalBreak (Letters.xml:345)
+  - '{0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back.'
+  - '{0} on kyllästynyt sivistykseen.\n\nHän tajusi että villit eläimet ovat aina vapaita. Hän on siis päättänyt jättää ryhmäsi ja alkanut elämään eläinten kanssa.\n\nVoit yrittää kesyttää tai pidättää hänet saadaksesi hänet takaisin.'
+LetterCatatonicMentalBreak (Letters.xml:349)
+  - '{0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days.'
+  - '{0} on kärsinyt täydellisen mielen murtumisen ja on joutunut katatoniseen tilaan. Hän virkoaa muutaman päivän päästä.'
 CurrentGoodwillTip_NaturalGoodwill (MainTabs.xml:106)
   - 'This faction has a natural goodwill range from {0} to {1}.'
   - 'Tämän ryhmän luonnollinen hyväntahtoisuuden vaihteluväli on arvosta {0} arvoon {0}'
@@ -8145,7 +8097,7 @@ MessageModNeedsWellFormattedTargetVersion (Menus_Main.xml:212)
 
 ========== Unnecessary keyed translations (will never be used) (0) ==========
 
-========== Keyed translations matching English (maybe ok) (129) ==========
+========== Keyed translations matching English (maybe ok) (128) ==========
 ShortDate '{0} {1} {2}' (Dates.xml:16)
 OK 'OK' (Dialogs_Various.xml:11)
 CantGrazeBecauseOfBiome '({0})' (Dialogs_Various.xml:742)
@@ -8170,7 +8122,6 @@ DietCategory_NeverEats_Short '-' (Enums.xml:256)
 GoodCondition 'OK' (ITabs.xml:202)
 LetterHealthComplicationsLabel '{PAWN_labelShort}: {1}' (Letters.xml:123)
 LetterHediffFromRandomHediffGiverLabel '{PAWN_labelShort}: {1}' (Letters.xml:128)
-LetterLabelDefeatAllEnemiesQuestCompleted 'Quest completed' (Letters.xml:297)
 IncapableOfWorkTypeBecauseOfCapacities 'This colonist is not able to do any work of this type because of his health condition.' (MainTabs.xml:20)
 EmergencyWorkMarker 'E' (MainTabs.xml:22)
 Locked 'Locked' (MainTabs.xml:190)
