@@ -23,7 +23,7 @@ joy tolerance           kyllästyminen ilonpitoihin
 joywire                 iloimplantti
 landing site            laskeutumisalue
 medical operations      lääkintäoperaatiot
-melee attacking         lähitaistelee olion ->
+melee attacking         lähitaistelee olennon ->
 menu tab                valikko-välilehti
 midworld                keskimaailma
 orbital trade beacon    kiertoratavaihtokaupan majakka
