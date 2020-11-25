@@ -47,7 +47,7 @@
   <MessageShipHasLeftCommsRange>{0} on nyt yhteyskantaman ulkopuolella.</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
-  <MessageNeedBeaconToTradeWithShip>Tarvitset orbitaalisen kaupankäyntimajakan tehdäksesi vaihtokauppaa tämän aluksen kanssa.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Tarvitset kiertoratavaihtokaupan majakan tehdäksesi vaihtokauppaa tämän aluksen kanssa.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
   <MessageNeedRoyalTitleToCallWithShip>Soittajalla on oltava titteli {0_label}  tai parempi.</MessageNeedRoyalTitleToCallWithShip>
 
@@ -520,108 +520,108 @@
   <GoodwillChangeReason_CommanderLost>komentaja menetettiin</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
-  <MessageGiftGivenButNotAppreciated>TODO</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>{0} hyväksyy lahjasi mutta he eivät arvosta sitä.</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>TODO</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>Karavaani on jo täyteen lastattu eikä voi kantaa mitään muuta.</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>TODO</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>Karavaani ei voi kantaa noin paljon. Lahjat painavat {0} mutta karavaani voi kantaa vain {1} lisää.</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
-  <MessageFormedCaravan>TODO</MessageFormedCaravan>
+  <MessageFormedCaravan>{0} on muodostettu ja matkustaa nyt maailmankartalla.</MessageFormedCaravan>
   <!-- EN: Orders -->
-  <MessageFormedCaravan_Orders>TODO</MessageFormedCaravan_Orders>
+  <MessageFormedCaravan_Orders>Määräykset</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
-  <MessageBillValidationStoreZoneDeleted>TODO</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneDeleted>Henkilön {1} "{0}" ei voi enää viedä poistetulle varastoalueelle {2}.</MessageBillValidationStoreZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
-  <MessageBillValidationStoreZoneUnavailable>TODO</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationStoreZoneUnavailable>Henkilön {1} "{0}" ei voi enää viedä varastoalueelle {2} koska sitä ei ole saatavilla.</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
-  <MessageBillValidationPawnUnavailable>TODO</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} ei voi enää tehdä työtä "{1}" kohteessa {2}. rajoitus on poistettu.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
-  <MessageBillValidationIncludeZoneDeleted>TODO</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneDeleted>Henkilön {1} "{0}" ei voi enää laskea esineitä poistetulla varastoalueella {2}.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
-  <MessageBillValidationIncludeZoneUnavailable>TODO</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationIncludeZoneUnavailable>Henkilön {1} "{0}" ei voi enää laskea esineitä varastoalueella {2} koska sitä ei ole saatavilla.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
-  <MessageBillValidationStoreZoneInsufficient>TODO</MessageBillValidationStoreZoneInsufficient>
+  <MessageBillValidationStoreZoneInsufficient>Henkilön {1} "{0}" ei voi enää viedä kaikkia tuotteita varastoalueelle {2}.</MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
-  <MessageAnimalReturnedWild>TODO</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWild>{1_labelShort} on palannut villiksi kesytyksen ylläpidon puutteesta.</MessageAnimalReturnedWild>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>TODO</MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>{ANIMAL_labelShort} on menettänyt taidon {1} kouluttamisen ylläpidon puutteesta.</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
-  <MessageTranslationReportSaved>TODO</MessageTranslationReportSaved>
+  <MessageTranslationReportSaved>Käännösraportti kirjoitettu kohteeseen {0}</MessageTranslationReportSaved>
 
   <!-- EN: {0} couldn't reach its destination. -->
-  <MessageCaravanArrivalActionNoLongerValid>TODO</MessageCaravanArrivalActionNoLongerValid>
+  <MessageCaravanArrivalActionNoLongerValid>{0} ei päässyt kohteeseensa.</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <MessageEnterCooldownBlocksEntering>TODO</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>Liian vaarallista että {0} tulla takaisin sisälle.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
-  <MessagePermitCooldownFinished>TODO</MessagePermitCooldownFinished>
+  <MessagePermitCooldownFinished>{0_labelShort} voi nyt vapaasti käyttää "{1}".</MessagePermitCooldownFinished>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
-  <MessagePredatorHuntingPlayerAnimal>TODO</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} metsästää ruokaa kohteenaan {PREY_definite} ({PREY_kindBase})!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
-  <MessagePrisonerResistanceBroken>TODO</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken>{WARDEN_labelShort} rikkoi vangin {PRISONER_labelShort} vastarinnan.</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>TODO</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Värväämisyritykset alkavat.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
-  <MessageModWithPackageIdAlreadyEnabled>TODO</MessageModWithPackageIdAlreadyEnabled>
+  <MessageModWithPackageIdAlreadyEnabled>Toinen modi, jolla on sama package ID {0} on jo aktiivinen. Poista {1} käytöstä ennen kuin yrität aktivoida tämän.</MessageModWithPackageIdAlreadyEnabled>
   <!-- EN: Disable all mods before using this tool. -->
-  <MessageDisableModsBeforeCleaningTranslationFiles>TODO</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageDisableModsBeforeCleaningTranslationFiles>Poista kaikki modit käytöstä ennen kuin käytät tätä työkalua.</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
-  <MessageUnpackBeforeCleaningTranslationFiles>TODO</MessageUnpackBeforeCleaningTranslationFiles>
+  <MessageUnpackBeforeCleaningTranslationFiles>Pura ja sitten poista kaikki tämän kielen pakatut käännöstiedostot ennen tämän työkalun käyttöä.</MessageUnpackBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folders: {0} -->
-  <MessageTranslationFilesCleanupDone>TODO</MessageTranslationFilesCleanupDone>
+  <MessageTranslationFilesCleanupDone>Valmis. Kansiot joita muokattiin: {0}</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>TODO</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Yhtä käännöstiedostoista ({0}) ei voitu ladata. Kaikki XML-jäsennysvirheet täytyy korjata ensin.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>TODO</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>Varoitus: Henkilön {PAWN_nameDef} kaappaminen suututaa hänen ryhmänsä {PAWN_factionName}.</MessageCapturingWillAngerFaction>
 
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
-  <MessageStrippingWillAngerFaction>TODO</MessageStrippingWillAngerFaction>
+  <MessageStrippingWillAngerFaction>Varoitus: Henkilön {PAWN_nameDef} riisuminen suututtaa ryhmän {PAWN_factionName}.</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>TODO</MessageCantShootInMelee>
+  <MessageCantShootInMelee>Lähitaistelussa ei voi ampua.</MessageCantShootInMelee>
 
   <!-- EN: None of your {0} can accept this quest now. -->
-  <MessageNoColonistCanAcceptQuest>TODO</MessageNoColonistCanAcceptQuest>
+  <MessageNoColonistCanAcceptQuest>{0} eivät voi hyväksyä tätä tehtävää nyt.</MessageNoColonistCanAcceptQuest>
   <!-- EN: Cannot accept this quest. -->
-  <MessageCannotAcceptQuest>TODO</MessageCannotAcceptQuest>
+  <MessageCannotAcceptQuest>Ei voi hyväksyä tätä tehtävää.</MessageCannotAcceptQuest>
   <!-- EN: {0_definite} has accepted a quest: {1} -->
-  <MessageQuestAccepted>TODO</MessageQuestAccepted>
+  <MessageQuestAccepted>{0_definite} on hyväksynyt tehtävän: {1}</MessageQuestAccepted>
   <!-- EN: {0} is leaving. -->
-  <MessagePawnLeaving>TODO</MessagePawnLeaving>
+  <MessagePawnLeaving>{0} on lähdössä.</MessagePawnLeaving>
   <!-- EN: {0} are leaving. -->
-  <MessagePawnsLeaving>TODO</MessagePawnsLeaving>
+  <MessagePawnsLeaving>{0} ovat lähdössä.</MessagePawnsLeaving>
 
   <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
-  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>TODO</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>Monumentti on tuhottu koska rakensit kielletyn rakennuksen sen sisälle.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
 
   <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
-  <MessageNoResearchBenchForTechprint>TODO</MessageNoResearchBenchForTechprint>
+  <MessageNoResearchBenchForTechprint>Ei voi käyttää: Ei pääsyä varaamattomaan tutkimuspöytään.</MessageNoResearchBenchForTechprint>
 
   <!-- EN: No valid destination found for {0} -->
-  <NoValidDestinationFound>TODO</NoValidDestinationFound>
+  <NoValidDestinationFound>{0} ei sovi mihinkään kohteeseen.</NoValidDestinationFound>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
-  <MessageResearchMenuWithoutBench>TODO</MessageResearchMenuWithoutBench>
+  <MessageResearchMenuWithoutBench>Varoitus: Tutkimus ei ala ennen kuin rakennat tutkimuspöydän.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
-  <MessageActivatorProximityTriggered>TODO</MessageActivatorProximityTriggered>
+  <MessageActivatorProximityTriggered>{0_indefinite} on laukaissut etäisyyslaukaisimen. </MessageActivatorProximityTriggered>
 
   <!-- EN: {0_label} is currently hidden. -->
-  <MessageCannotSelectInvisibleStat>TODO</MessageCannotSelectInvisibleStat>
+  <MessageCannotSelectInvisibleStat>{0_label} on tällä hetkellä näkymätön.</MessageCannotSelectInvisibleStat>
 
   <!-- EN: {PAWN_nameDef} is a prisoner -->
-  <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} on vanki.</MessagePrisonerCannotEquipWeapon>
 
 </LanguageData>
