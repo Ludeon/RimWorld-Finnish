@@ -31,21 +31,21 @@
   <Naked.stages.naked.description>Olen nakuna. Tämä on nolottavaa.</Naked.stages.naked.description>
   
   <!-- EN: minor pain -->
-  <Pain.stages.minor_pain.label>vähän kipua</Pain.stages.minor_pain.label>
+  <Pain.stages.minor_pain.label>hieman kipua</Pain.stages.minor_pain.label>
   <!-- EN: Ow... That hurts. -->
   <Pain.stages.minor_pain.description>Au... Tuo sattui.</Pain.stages.minor_pain.description>
   <!-- EN: serious pain -->
-  <Pain.stages.serious_pain.label>kohtalaisesti kipua</Pain.stages.serious_pain.label>
+  <Pain.stages.serious_pain.label>vakava kipu</Pain.stages.serious_pain.label>
   <!-- EN: Ughhh... When will it end? -->
   <Pain.stages.serious_pain.description>Hyh... Milloin tämä loppuu?</Pain.stages.serious_pain.description>
   <!-- EN: intense pain -->
-  <Pain.stages.intense_pain.label>akuuttinen kipu</Pain.stages.intense_pain.label>
+  <Pain.stages.intense_pain.label>voimakas kipu</Pain.stages.intense_pain.label>
   <!-- EN: Make it stop... make it stop... make it stop... -->
   <Pain.stages.intense_pain.description>Lopu jo... lopu jo... lopu jo...</Pain.stages.intense_pain.description>
   <!-- EN: mind-shattering pain -->
-  <Pain.stages.mindshattering_pain.label>shokissa äärimmäisestä kivusta</Pain.stages.mindshattering_pain.label>
+  <Pain.stages.mindshattering_pain.label>mielensärkevä kipu</Pain.stages.mindshattering_pain.label>
   <!-- EN: AAAAAHHH! -->
-  <Pain.stages.mindshattering_pain.description>AAAAAUUU! Tapa minut nyt!</Pain.stages.mindshattering_pain.description>
+  <Pain.stages.mindshattering_pain.description>AAAAAUUU!</Pain.stages.mindshattering_pain.description>
   
   <!-- EN: psychic soothe -->
   <PsychicDrone.stages.psychic_soothe.label>psyykkinen rauhoitus (keskitaso)</PsychicDrone.stages.psychic_soothe.label>

@@ -17,9 +17,9 @@
   <!-- EN: A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply. -->
   <BloodLoss.description>TODO</BloodLoss.description>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-0.label>mitätön</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-0.label>lievä</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-1.label>vähäinen</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.minor-1.label>lievä</BloodLoss.stages.minor-1.label>
   <!-- EN: moderate -->
   <BloodLoss.stages.moderate.label>kohtalainen</BloodLoss.stages.moderate.label>
   <!-- EN: severe -->
@@ -57,11 +57,11 @@
   <!-- EN: a drug overdose -->
   <DrugOverdose.labelNoun>TODO</DrugOverdose.labelNoun>
   <!-- EN: minor -->
-  <DrugOverdose.stages.minor-0.label>hidden</DrugOverdose.stages.minor-0.label>
+  <DrugOverdose.stages.minor-0.label>lievä</DrugOverdose.stages.minor-0.label>
   <!-- EN: minor -->
-  <DrugOverdose.stages.minor-1.label>minor</DrugOverdose.stages.minor-1.label>
+  <DrugOverdose.stages.minor-1.label>lievä</DrugOverdose.stages.minor-1.label>
   <!-- EN: major -->
-  <DrugOverdose.stages.major.label>major</DrugOverdose.stages.major.label>
+  <DrugOverdose.stages.major.label>vakava</DrugOverdose.stages.major.label>
   
   <!-- EN: food poisoning -->
   <FoodPoisoning.label>ruokamyrkytys</FoodPoisoning.label>
@@ -70,9 +70,9 @@
   <!-- EN: recovering -->
   <FoodPoisoning.stages.recovering.label>TODO</FoodPoisoning.stages.recovering.label>
   <!-- EN: major -->
-  <FoodPoisoning.stages.major.label>TODO</FoodPoisoning.stages.major.label>
+  <FoodPoisoning.stages.major.label>lievä</FoodPoisoning.stages.major.label>
   <!-- EN: initial -->
-  <FoodPoisoning.stages.initial.label>TODO</FoodPoisoning.stages.initial.label>
+  <FoodPoisoning.stages.initial.label>vakava</FoodPoisoning.stages.initial.label>
   
   <!-- EN: heart attack -->
   <HeartAttack.label>sydänkohtaus</HeartAttack.label>
@@ -98,7 +98,7 @@
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>TODO</Pregnant.labelNoun>
   <!-- EN: early-stage -->
-  <Pregnant.stages.earlystage.label>early-stage-hidden</Pregnant.stages.earlystage.label>
+  <Pregnant.stages.earlystage.label>alkuvaihe</Pregnant.stages.earlystage.label>
   <!-- EN: middle-stage -->
   <Pregnant.stages.middlestage.label>keskivaihe</Pregnant.stages.middlestage.label>
   <!-- EN: late-stage -->
@@ -139,7 +139,7 @@
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten. -->
   <ToxicBuildup.description>TODO</ToxicBuildup.description>
   <!-- EN: initial -->
-  <ToxicBuildup.stages.initial-0.label>initial-hidden</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-0.label>esiaste</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-1.label>esiaste</ToxicBuildup.stages.initial-1.label>
   <!-- EN: minor -->

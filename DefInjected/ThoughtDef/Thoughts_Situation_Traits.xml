@@ -79,24 +79,24 @@
   <HappyNude.stages.happily_nude.description>Olen nakuna ja pidän siitä! Tunnen itseni niin vapaaksi ja rajoittamattomaksi ja yhdteydessä ympäristööni!</HappyNude.stages.happily_nude.description>
   
   <!-- EN: jealous of {0}'s bedroom -->
-  <Jealous.stages.jealous_of_s_bedroom.label>kateellinen</Jealous.stages.jealous_of_s_bedroom.label>
+  <Jealous.stages.jealous_of_s_bedroom.label>kateellinen henkilön {0} makuuhuoneesta</Jealous.stages.jealous_of_s_bedroom.label>
   <!-- EN: I need to have the best one! -->
   <Jealous.stages.jealous_of_s_bedroom.description>Jollain muulla on hienompi makuuhuone kuin minulla!</Jealous.stages.jealous_of_s_bedroom.description>
   
   <!-- EN: masochist in minor pain -->
-  <MasochistPain.stages.masochist_in_minor_pain.label>vähän kipua</MasochistPain.stages.masochist_in_minor_pain.label>
+  <MasochistPain.stages.masochist_in_minor_pain.label>masokistilla on hieman kipua</MasochistPain.stages.masochist_in_minor_pain.label>
   <!-- EN: Ow... Heh heh heh... I could get used to this! -->
   <MasochistPain.stages.masochist_in_minor_pain.description>Au... Heh heh heh... Voisin tottua tähän!</MasochistPain.stages.masochist_in_minor_pain.description>
   <!-- EN: masochist in serious pain -->
-  <MasochistPain.stages.masochist_in_serious_pain.label>kohtalaisesti kipua</MasochistPain.stages.masochist_in_serious_pain.label>
+  <MasochistPain.stages.masochist_in_serious_pain.label>masokistilla on vakava kipu</MasochistPain.stages.masochist_in_serious_pain.label>
   <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
   <MasochistPain.stages.masochist_in_serious_pain.description>Huh... Sattuu, mutta pidän siitä! Antaa tulla vaan!</MasochistPain.stages.masochist_in_serious_pain.description>
   <!-- EN: masochist in intense pain -->
-  <MasochistPain.stages.masochist_in_intense_pain.label>akuuttinen kipu</MasochistPain.stages.masochist_in_intense_pain.label>
+  <MasochistPain.stages.masochist_in_intense_pain.label>masokistilla on voimakas kipu</MasochistPain.stages.masochist_in_intense_pain.label>
   <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
   <MasochistPain.stages.masochist_in_intense_pain.description>Auts... Jotain taitaa olla rikki... Mutta onpas aistikas tunne!</MasochistPain.stages.masochist_in_intense_pain.description>
   <!-- EN: masochist in mind-shattering pain -->
-  <MasochistPain.stages.masochist_in_mindshattering_pain.label>shokissa äärimmäisestä kivusta</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>masokistilla on mielensärkevä kipu</MasochistPain.stages.masochist_in_mindshattering_pain.label>
   <!-- EN: Ahhh... Am I in heaven? -->
   <MasochistPain.stages.masochist_in_mindshattering_pain.description>Aaah... Olenko taivaassa?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
   
