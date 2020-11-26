@@ -27,12 +27,12 @@
   <Bed.description>Lepäämiseen tarkoitetut kodikkaat lakanat ja patja rungon päällä.</Bed.description>
   
   <!-- EN: bedroll -->
-  <Bedroll.label>TODO</Bedroll.label>
+  <Bedroll.label>rullavuode</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <Bedroll.description>TODO</Bedroll.description>
   
   <!-- EN: double bedroll -->
-  <BedrollDouble.label>TODO</BedrollDouble.label>
+  <BedrollDouble.label>rullaparivuode</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <BedrollDouble.description>TODO</BedrollDouble.description>
   
