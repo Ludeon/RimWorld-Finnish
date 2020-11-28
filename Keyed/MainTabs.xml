@@ -9,7 +9,7 @@
   <!-- EN: lower priority -->
   <LowerPriority>Vähemmän tärkeä</LowerPriority>
   <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
-  <RelevantSkills>Tähän kuuluva taito: {0}\nTähän kuuluvien taitojen keskiarvo: {1} / {2}</RelevantSkills>
+  <RelevantSkills>Tähän liittyvä taito: {0}\nTähän liittyvien taitojen keskiarvo: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Klikkaa siirtyäksesi:</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
@@ -17,7 +17,7 @@
   <!-- EN: (none) -->
   <NoneBrackets>(ei mitään)</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <IncapableOfWorkTypeBecauseOfCapacities>Tämä yhdyskuntalainen ei voi tehdä tätä työtä terveydentilan takia.</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
@@ -103,7 +103,7 @@
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Tämä ryhmä on vihamielinen. He tekevät ryöstöretkiä asuinpaikkoihisi ja karavaaneihisi. Jos suhteet nousevat arvon {0} ylle, heistä tulee neutraaleja.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Tämän ryhmän luonnollinen hyväntahtoisuuden vaihteluväli on arvosta {0} arvoon {0}</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>Tämän ryhmän luonnollinen hyväntahtoisuuden vaihteluväli on arvosta {0} arvoon {1}</CurrentGoodwillTip_NaturalGoodwill>
   <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
   <CurrentGoodwillTip_NaturalGoodwillRise>Jos hyväntahtoisuus on arvon {0} alapuolella, se nousee {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillRise>
   <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
@@ -113,7 +113,7 @@
   <!-- EN: Friend -->
   <Friend>Ystävä</Friend>
   <!-- EN: Rival -->
-  <Rival>Vihollinen</Rival>
+  <Rival>Kilpailija</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>Tuttava</Acquaintance>
   
@@ -183,11 +183,11 @@
   <!-- EN: Unresearched -->
   <Unresearched>Tutkimatta</Unresearched>
   <!-- EN: Finished -->
-  <Finished>Päättynyt</Finished>
+  <Finished>Valmistunut</Finished>
   <!-- EN: In Progress -->
   <InProgress>Tutkitaan</InProgress>
   <!-- EN: Locked -->
-  <Locked>Locked</Locked>
+  <Locked>Lukittu</Locked>
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Tutkimuksen vaatimukset</ResearchPrerequisites>
   <!-- EN: Techprints required {0} / {1} -->

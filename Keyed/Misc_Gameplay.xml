@@ -685,7 +685,7 @@
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Tekee esinettä {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>anna {0}</RecipeAdminister>
+  <RecipeAdminister>anna ainetta {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>Antaa ainetta {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
@@ -1268,12 +1268,10 @@
   <Reward_Pawn_Caravan>{0_age}-vuotias {0_title} nimeltään {0_nameDef} liittyy ryhmääsi {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>kuljetuskapselit saapuvat sisältäen seuraavat esineet (kokonaisarvo {1}):
-\n{0}</Reward_Items>
+  <Reward_Items>kuljetuskapselit saapuvat sisältäen seuraavat esineet (kokonaisarvo {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>saat seuraavat esineet (kokonaisarvo {1}):
-\n{0}</Reward_Items_Caravan>
+  <Reward_Items_Caravan>saat seuraavat esineet (kokonaisarvo {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>ryhmäsi suhteet henkilön {0_name} kanssa paranevat arvolla {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
