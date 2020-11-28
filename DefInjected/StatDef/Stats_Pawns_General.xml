@@ -54,7 +54,7 @@
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
-  <MentalBreakThreshold.description>Kun henkilön mielentila on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.description>Kun henkilön mieliala on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>minimikäsittelytaito</MinimumHandlingSkill.label>

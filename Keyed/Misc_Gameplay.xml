@@ -3,7 +3,7 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>hit points</HitPointsBasic>
+  <HitPointsBasic>osumapistettä</HitPointsBasic>
   <!-- EN: Work left -->
   <WorkLeft>Työtä jäljellä</WorkLeft>
   <!-- EN: Contents -->
@@ -13,7 +13,7 @@
   <!-- EN: For prisoner use -->
   <ForPrisonerUse>Vankien käyttöön</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>TODO</InPrisonCell>
+  <InPrisonCell>Vankisellissä: Vankien käyttöön</InPrisonCell>
   <!-- EN: For colonist use -->
   <ForColonistUse>Yhdyskuntalaisten käyttöön</ForColonistUse>
   <!-- EN: Medical -->
@@ -21,17 +21,17 @@
   <!-- EN: Owner -->
   <Owner>Omistaja</Owner>
   <!-- EN: Owners -->
-  <Owners>Owners</Owners>
+  <Owners>Omistajat</Owners>
   <!-- EN: Assigned colonist -->
-  <AssignedColonist>Asetettu yhdyskuntalainen</AssignedColonist>
+  <AssignedColonist>Määrätty yhdyskuntalainen</AssignedColonist>
   <!-- EN: Died on the {0} -->
-  <DiedOn>TODO</DiedOn>
+  <DiedOn>Kuolinaika {0}</DiedOn>
   <!-- EN: Nobody -->
   <Nobody>Ei kukaan</Nobody>
   <!-- EN: Unowned -->
   <Unowned>Omistamaton</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>Kuollut {0}</DeadTime>
+  <DeadTime>Kuollut ({0})</DeadTime>
   <!-- EN: walk speed {0} -->
   <WalkSpeed>kävelyvauhti {0}</WalkSpeed>
   <!-- EN: fert. -->
@@ -45,7 +45,7 @@
   <!-- EN: nothing -->
   <NothingLower>ei mitään</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>TODO</Nothing>
+  <Nothing>Ei mitään</Nothing>
   <!-- EN: Adapted -->
   <Adapted>Mukautunut</Adapted>
   <!-- EN: fresh -->
@@ -53,27 +53,27 @@
   <!-- EN: developed immunity -->
   <DevelopedImmunityLower>kehittynyt vastustuskyky</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Needs tending now</NeedsTendingNow>
+  <NeedsTendingNow>Tarvitsee hoitoa nyt</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>TODO</CanTendNow>
+  <CanTendNow>Voi hoitaa nyt</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>TODO</TreatmentExpiresIn>
+  <TreatmentExpiresIn>Hoidon vanhenemiseen {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Will need tending in {0}</NextTendIn>
+  <NextTendIn>Voidaan hoitaa kun on kulunut {0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>TODO</TendQuality>
+  <TendQuality>Hoidon laatu</TendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>{0} puuttuu</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
   <Immunity>Vastustuskyky</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>TODO</DaysToRecover>
+  <DaysToRecover>{0} päivää parantumiseen</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>TODO</Ineffective>
+  <Ineffective>Tehoton</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>TODO</Illegal>
+  <Illegal>laiton</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>TODO</DetectionChance>
+  <DetectionChance>havaitsemisen tod. näk.</DetectionChance>
   <!-- EN: Race -->
   <Race>Rotu</Race>
   <!-- EN: Description -->
@@ -89,23 +89,23 @@
   <!-- EN: Drop -->
   <DropThing>Pudota</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>TODO</DropThingLodger>
+  <DropThingLodger>Väliaikaiset ryhmän jäsenet eivät pudota esineitään.</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>TODO</DropThingLocked>
+  <DropThingLocked>Tämä henkilö kieltäytyy tämän pudottamisesta.</DropThingLocked>
   <!-- EN: Rename -->
   <Rename>Nimeä uudelleen</Rename>
   <!-- EN: Rename animal -->
-  <RenameAnimal>TODO</RenameAnimal>
+  <RenameAnimal>Nimeä eläin uudelleen</RenameAnimal>
   <!-- EN: Rename colonist -->
   <RenameColonist>Nimeä yhdyskuntalainen uudelleen</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>TODO</RenounceTitle>
+  <RenounceTitle>Poista titteli</RenounceTitle>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>TODO</TitleOfFaction>
+  <TitleOfFaction>ryhmän {1} {0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <RenounceTitleDescription>Tämä saa henkilön {PAWN_nameDef} menettämään tittelinsä {TITLE}. Et saa korvausta tittelin poistamisesta.\n\nTällä on seuraavat vaikutukset:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>hän menettää valtuutensa</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>tuntematon</UnknownLower>
   <!-- EN: On -->
@@ -123,379 +123,379 @@
   <!-- EN: Egg progress -->
   <EggProgress>Munan kehittyminen</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>Hedelmöitytetty</Fertilized>
+  <Fertilized>Hedelmöitetty</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Edistys pysähtynyt kunnes on hedelmöitynyt</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>tarvitsee tason {2} taidossa {0}, nykyinen taso {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Freezing</Freezing>
+  <Freezing>Palelee</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>Overheating</Overheating>
+  <Overheating>Ylikuumenee</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
+  <RuinedByTemperature>Lämpötilan pilaama.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+  <CorpsePercentMissing>Puuttuvia ruumiinosia</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>Reproduces in</HiveReproducesIn>
+  <HiveReproducesIn>Lisääntymiseen</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>TODO</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Lepää: Ei lisäänny</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>TODO</NextSpawnedItemIn>
+  <NextSpawnedItemIn>Seuraava {0} tulee</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>Seuraavan resurssin tuottamiseen</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
-  <BrokenDown>Broken down</BrokenDown>
+  <BrokenDown>Hajonnut</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>(bond)</BondBrackets>
+  <BondBrackets>(kiintynyt)</BondBrackets>
   <!-- EN: Fuel -->
-  <Fuel>Fuel</Fuel>
+  <Fuel>Polttoaine</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>Polttoaine</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
+  <SetTargetFuelLevel>Aseta polttoaineen tavoitetasoksi {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Aseta polttoaineen tavoitetasoksi {0}\nMaksimietäisyys: {1} laattaa</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>Target fuel level: {0}</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Polttoaineen tavoitetaso: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
-  <Enemies>enemies</Enemies>
+  <Enemies>vihollisia</Enemies>
   <!-- EN: time passed -->
-  <TimePassed>time passed</TimePassed>
+  <TimePassed>aikaa kulunut</TimePassed>
   <!-- EN: current radius -->
-  <CurrentRadius>current radius</CurrentRadius>
+  <CurrentRadius>nykyinen säde</CurrentRadius>
   <!-- EN: radius expands in -->
-  <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
+  <RadiusExpandsIn>säteen laajenemiseen</RadiusExpandsIn>
   <!-- EN: permanent -->
-  <Permanent>permanent</Permanent>
+  <Permanent>pysyvä</Permanent>
   <!-- EN: Resting -->
-  <CaravanResting>Resting.</CaravanResting>
+  <CaravanResting>Lepää.</CaravanResting>
   <!-- EN: using 1 bedroll -->
-  <UsingBedroll>TODO</UsingBedroll>
+  <UsingBedroll>käyttää yhtä rullavuodetta</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
-  <UsingBedrolls>TODO</UsingBedrolls>
+  <UsingBedrolls>käyttää {0} rullavuodetta</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>Est. time to destination: {0}</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>Arv. saapumisaika: {0} päivää</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>TODO</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Reitin matka-aika: {0} päivää</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>Liikuntakyvytön: liikaa painoa.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
-  <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
+  <CaravanOutOfFood>Ruoka on loppu.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
-  <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFood>Päivää ruokaa: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
-  <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>Päivää ruokaa: {0}, mädäntymiseen {1} päivää</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>Lopetettiin, syy: kaikki ovat maissa.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
-  <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>Lopetettiin, syy: kaikilla on hermoromahdus.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
-  <CaravanColonistsCount>TODO</CaravanColonistsCount>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
-  <CaravanAnimal>TODO</CaravanAnimal>
+  <CaravanAnimal>1 eläin</CaravanAnimal>
   <!-- EN: {0} animals -->
-  <CaravanAnimalsCount>TODO</CaravanAnimalsCount>
+  <CaravanAnimalsCount>{0} eläintä</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
-  <CaravanPrisoner>TODO</CaravanPrisoner>
+  <CaravanPrisoner>1 vanki</CaravanPrisoner>
   <!-- EN: {0} prisoners -->
-  <CaravanPrisonersCount>TODO</CaravanPrisonersCount>
+  <CaravanPrisonersCount>{0} vankia</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>TODO</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>{0} henkilöä on mielentilassa</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>TODO</CaravanPawnsDowned>
+  <CaravanPawnsDowned>{0} maissa</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>Traveling.</CaravanTraveling>
+  <CaravanTraveling>Matkustaa.</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>Waiting.</CaravanWaiting>
+  <CaravanWaiting>Odottaa.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
-  <BeingCarriedDueToIllness>TODO</BeingCarriedDueToIllness>
+  <BeingCarriedDueToIllness>Kannetaan sairauden takia</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
-  <UsingBedrollsDueToIllness>TODO</UsingBedrollsDueToIllness>
+  <UsingBedrollsDueToIllness>Käyttää rullavuodetta sairauden takia</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
+  <CurrentTileMovementTime>Nykyisen laatan liikkumisaika</CurrentTileMovementTime>
   <!-- EN: Visibility -->
-  <Visibility>TODO</Visibility>
+  <Visibility>Näkyvyys</Visibility>
   <!-- EN: Temperature -->
-  <Temperature>Temperature</Temperature>
+  <Temperature>Lämpötila</Temperature>
   <!-- EN: bad temperature -->
-  <BadTemperature>bad temperature</BadTemperature>
+  <BadTemperature>huono lämpötila</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
-  <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
+  <IdealFermentingTemperature>Ihanteellinen käymislämpötila</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>TODO</DrugEffectMultiplier>
+  <DrugEffectMultiplier>huumeen {0} vaikutuksen kerroin: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>Visiting {0}.</CaravanVisiting>
+  <CaravanVisiting>Vierailee paikassa {0}.</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>Entering {0}.</CaravanEntering>
+  <CaravanEntering>Menee sisälle paikkaan {0}.</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>Attacking {0}.</CaravanAttacking>
+  <CaravanAttacking>Hyökkää paikkaan {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>TODO</CaravanOfferingGifts>
+  <CaravanOfferingGifts>Tarjoaa lahjoja paikkaan {0}.</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>TODO</CaravanTrading>
+  <CaravanTrading>Käy vaihtokauppaa paikassa {0}.</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>TODO</WasWornByCorpse>
+  <WasWornByCorpse>Saastunut ollessaan ruumiin päällä.</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>TODO</WornByCorpseChar>
+  <WornByCorpseChar>S</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
+  <DeterioratingUnroofed>katoton</DeterioratingUnroofed>
   <!-- EN: outdoors -->
-  <DeterioratingOutdoors>TODO</DeterioratingOutdoors>
+  <DeterioratingOutdoors>ulkona</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
-  <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>Hajoaa koska on</DeterioratingBecauseOf>
   <!-- EN: Map -->
-  <Map>Map</Map>
+  <Map>Kartta</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>{0} kunnes viholliset saapuvat</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>Vihollisten tukijoukkojen saapumiseen tälle alueelle {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
-  <Room>Room</Room>
+  <Room>Huone</Room>
   <!-- EN: Beauty here -->
-  <BeautyHere>Beauty here</BeautyHere>
+  <BeautyHere>Kauneus täällä</BeautyHere>
   <!-- EN: No power -->
-  <NoPower>No power</NoPower>
+  <NoPower>Ei virtaa</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>Työskentelynopeuden haitta</WorkSpeedPenalty>
   <!-- EN: DISABLED -->
-  <DisabledCommand>DISABLED</DisabledCommand>
+  <DisabledCommand>POIS KÄYTÖSTÄ</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
+  <ReadyForLaunch>Valmis laukaisuun.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
+  <NotReadyForLaunch>Ei valmis laukaisuun</NotReadyForLaunch>
   <!-- EN: no fueling port -->
-  <NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
+  <NotAllInGroupConnectedToFuelingPort>ei tankkausporttia</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ei polttoainetta</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodInGroupHasSomethingLeftToLoad>lastaaminen meneillään</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
-  <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationBeyondMaximumRange>Maksimikantaman ulkopuolella</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
-  <TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
+  <TransportPodNotEnoughFuel>Ei tarpeeksi polttoainetta</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} of {1}</SettlementTrader>
+  <SettlementTrader>ryhmän {1} {0}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>Huoneen mahdollistama leikkauksen onnistumisen kerroin</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>Huoneen aiheuttama tartunnan todennäköisyyden kerroin</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
-  <VentClosed>Closed</VentClosed>
+  <VentClosed>Suljettu</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>TODO</WornBy>
+  <WornBy>{1_labelShort} pitää tätä yllään</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>TODO</EquippedBy>
+  <EquippedBy>{1_labelShort} pitää tätä käytössä</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>TODO</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} haluaa että tämä tuhotaan.\n    Palkinto: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>{0} haluaa että tämä tuhotaan.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>Lähtee sukkulassa kun on kulunut {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>Lähtöön {0}</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>Pitäisi lähteä sukkulassa</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
-  <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
+  <WorldObjectTimeout>Aikaa jäljellä: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>Klikkaa järjestääksesi tämän sarakkeen mukaan.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>Shift + klikkaus: Kasvata tärkeyttä\nShift + oikea klikkaus: Vähennä tärkeyttä</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + klikkaus: Ota kaikki käyttöön\nShift + oikea klikkaus: Poista kaikki käytöstä</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
-  <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
+  <AllowedAreaShiftClickTip>Shift + klikkaus: Aseta kaikki kodiksi\nShift + oikea klikkaus: Aseta kaikki rajoittamattomaksi</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>Shift + klikkaus: Valitse kaikki\nShift + oikea klikkaus: Poista kaikkien valinta</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
-  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
-  <SkillRequirements>TODO</SkillRequirements>
+  <SkillRequirements>Taitovaatimukset</SkillRequirements>
   <!-- EN: Products -->
-  <Products>TODO</Products>
+  <Products>Tuotteet</Products>
   <!-- EN: {0} of {1} -->
-  <Relationship>TODO</Relationship>
+  <Relationship>Henkilön {1} {0}</Relationship>
   <!-- EN: Prisoner -->
-  <Prisoner>TODO</Prisoner>
+  <Prisoner>Vanki</Prisoner>
   <!-- EN: Refugee -->
-  <Refugee>TODO</Refugee>
+  <Refugee>Pakolainen</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>TODO</TileMovementDifficulty>
+  <TileMovementDifficulty>Maaston liikkumisvaikeus</TileMovementDifficulty>
   <!-- EN: Impassable -->
-  <Impassable>TODO</Impassable>
+  <Impassable>Läpäisemätön</Impassable>
   <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>Karavaanin liikkumisnopeus</CaravanMovementSpeedFull>
   <!-- EN: downed -->
-  <DownedLower>TODO</DownedLower>
+  <DownedLower>maissa</DownedLower>
   <!-- EN: resting -->
-  <Carried>TODO</Carried>
+  <Carried>lepää</Carried>
   <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>TODO</AverageCaravanMemberMoveSpeed>
+  <AverageCaravanMemberMoveSpeed>Henkilöiden keskim. liikkumisnopeus</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>TODO</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>Kerroin kannetulle massalle: {0}</MultiplierForCarriedMass>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>TODO</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>Karavaanin jäsenten nopeus</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
-  <FinalCaravanMovementSpeed>TODO</FinalCaravanMovementSpeed>
+  <FinalCaravanMovementSpeed>Lopullinen nopeus</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
-  <Winter>TODO</Winter>
+  <Winter>Talvi</Winter>
   <!-- EN: {0} in winter -->
-  <MovementDifficultyOffsetInWinter>TODO</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>{0} talvella</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>TODO</RangeTo>
+  <RangeTo>kohteeseen</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
+  <NoDietCategoryLetter>Ei kirjainta</NoDietCategoryLetter>
   <!-- EN: Expires in -->
-  <ExpiresIn>TODO</ExpiresIn>
+  <ExpiresIn>Vanhenemiseen</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>johtajan {1_labelShort} karavaani</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
-  <Reason>TODO</Reason>
+  <Reason>Syy</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>TODO</RelationsWith>
+  <RelationsWith>Suhteet ryhmän {0} kanssa</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>TODO</capturedBy>
+  <capturedBy>{0} on kaapannut</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>Karavaanisi</yourCaravan>
+  <yourCaravan>karavaanisi</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>TODO</CreatureWildness>
+  <CreatureWildness>olennon {0} villiys</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>TODO</CreatureTrainability>
+  <CreatureTrainability>olennon {0} koulutettavuus</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <CreatureFollowDrafted>Seuraa isäntää värvättynä</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>Seuraa isäntää töitä tehdessä</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0} ryhmän {1} kanssa</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>TODO</EnterCooldown>
+  <EnterCooldown>Liian vaarallista mennä takaisin ennen kuin on kulunut {0}.</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>TODO</Caravan>
+  <Caravan>Karavaani</Caravan>
   <!-- EN: there may be danger there. -->
-  <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>siellä saattaa olla vaara</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
-  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
+  <PreciousLumpHostileThreat>Skanneri havaitsee liikettä keskittymän ympärillä. Se on todennäköisesti vihamielinen.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>TODO</PreciousLumpLabel>
+  <PreciousLumpLabel>{0}keskittymä</PreciousLumpLabel>
   <!-- EN: no active research project -->
-  <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
+  <NoActiveResearchProjectToFinish>ei aktiivista tutkimusprojektia</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>TODO</Turret>
+  <Turret>tykkitorni</Turret>
   <!-- EN: turrets -->
-  <Turrets>TODO</Turrets>
+  <Turrets>tykkitornia</Turrets>
   <!-- EN: mortar -->
-  <Mortar>TODO</Mortar>
+  <Mortar>kranaatinheitin</Mortar>
   <!-- EN: mortars -->
-  <Mortars>TODO</Mortars>
+  <Mortars>kranaatinheitintä</Mortars>
   <!-- EN: enemy -->
-  <Enemy>TODO</Enemy>
+  <Enemy>vihollinen</Enemy>
   <!-- EN: location -->
-  <Location>TODO</Location>
+  <Location>sijainti</Location>
   <!-- EN: animals -->
-  <AnimalsLower>TODO</AnimalsLower>
+  <AnimalsLower>eläintä</AnimalsLower>
   <!-- EN: {0} x{1} -->
-  <FilthLabel>TODO</FilthLabel>
+  <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <FilthLabelWithSource>olennon {1} {0} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>TODO</Required>
+  <Required>Tarvitaan</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>Varoitus: Et voi suorittaa vaihtokauppapyyntöjä kuljetuskapseleilla.\nJos lähetät tavarat, asuinpaikka hyväksyy ne lahjoina mutta ei palkitse sinua.\n\nKäydäksesi vaihtokauppaa mene asuinpaikkaan karavaanilla!\n\nOletko varma että haluat lahjoittaa lastatut tavarat ryhmälle?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
-  <PrisonerLower>TODO</PrisonerLower>
+  <PrisonerLower>vanki</PrisonerLower>
   <!-- EN: prisoners -->
-  <PrisonersLower>TODO</PrisonersLower>
+  <PrisonersLower>vankia</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>Klikkaa nähdäksesi tämä tehtävä Tehtävät-välilehdessä</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
-  <Mood>TODO</Mood>
+  <Mood>Mieliala</Mood>
   <!-- EN: Quest -->
-  <Quest>TODO</Quest>
+  <Quest>Tehtävä</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <BringsRaidsEvery>Tuo ryöstöretkiä aina kun on kulunut {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>Tuottaa {0} aina kun on kulunut {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
-  <FoliageKillRadius>TODO</FoliageKillRadius>
+  <FoliageKillRadius>Kasvillisuuden tappamissäde</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>TODO</RadiusExpandRate>
+  <RadiusExpandRate>Säteen laajenemisnopeus</RadiusExpandRate>
   <!-- EN: View: {0} -->
-  <ViewHyperlink>TODO</ViewHyperlink>
+  <ViewHyperlink>Katso: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
-  <DetonationCountdown>TODO</DetonationCountdown>
+  <DetonationCountdown>Räjähtämiseen {0} päivää</DetonationCountdown>
   <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>Suuri räjähdys vahingoitettaessa</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>TODO</MechCluster>
+  <MechCluster>Mekanoidiryhmä</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
+  <SpawningNextPawnIn>Syntymiseen {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{0} on kokoontumassa, valmistumiseen {1}.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>TODO</MechAssemblyNextType>
+  <MechAssemblyNextType>Kokoontuu</MechAssemblyNextType>
   <!-- EN: produced -->
-  <ThingsProduced>TODO</ThingsProduced>
+  <ThingsProduced>tuotettu</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>TODO</PlantsHarvested>
+  <PlantsHarvested>kerätty</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>TODO</PawnsKilled>
+  <PawnsKilled>{0} tapettu</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>TODO</PawnsLent>
+  <PawnsLent>{0} lähetetty, palaamiseen {1}</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>TODO</DormantCompInactive>
+  <DormantCompInactive>Horrostilassa</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>TODO</DormantCompSealed>
+  <DormantCompSealed>Sinetöity</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>TODO</DormantCompBeacon>
+  <DormantCompBeacon>Valmis pudottamaan mekanoideja</DormantCompBeacon>
   <!-- EN: Expired -->
-  <DormantCompExpired>TODO</DormantCompExpired>
+  <DormantCompExpired>Vanhentunut</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>TODO</InitiatesIn>
+  <InitiatesIn>Alkamiseen</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>Aktivoitumiseen {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>TODO</PsychicEntropy>
+  <PsychicEntropy>Neurolämpö</PsychicEntropy>
   <!-- EN: Heat -->
-  <PsychicEntropyShort>TODO</PsychicEntropyShort>
+  <PsychicEntropyShort>Lämpö</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
-  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0} kivu lisä</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
-  <ConditionCauserRadius>TODO</ConditionCauserRadius>
+  <ConditionCauserRadius>säde {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>TODO</LowPsyfocus>
+  <LowPsyfocus>matala psyfokus</LowPsyfocus>
   <!-- EN: {0} left -->
-  <DurationLeft>TODO</DurationLeft>
+  <DurationLeft>{0} jäljellä</DurationLeft>
   <!-- EN: Any of -->
-  <AnyOf>TODO</AnyOf>
+  <AnyOf>Mikä tahansa</AnyOf>
   <!-- EN: Goodwill -->
   <Goodwill>Hyväntahtoisuus</Goodwill>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>vähentää henkilön {0_nameIndef} vastarintaa</JobReport_ReduceResistance>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
-  <UserScanAbility>TODO</UserScanAbility>
+  <UserScanAbility>Käyttäjän skannausnopeus</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>TODO</ScanAverageInterval>
+  <ScanAverageInterval>Satunnaisen löydön väli</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
-  <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
+  <ScanningProgressToGuaranteedFind>Edistyminen varmaan löytöön</ScanningProgressToGuaranteedFind>
   
   <!-- Meditation -->
   <!-- EN: meditating at -->
-  <MeditatingAt>TODO</MeditatingAt>
+  <MeditatingAt>Meditoi kohteessa</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
-  <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
+  <ContainsWort>Sisältää {0} / {1} vierrettä.</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
-  <ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
+  <ContainsBeer>Sisältää {0} / {1} olutta.</ContainsBeer>
   <!-- EN: Fermented -->
-  <Fermented>Fermented</Fermented>
+  <Fermented>Käynyt</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
+  <FermentationProgress>Edistyminen: {0} ({1} jäljellä)</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Epäideaali lämpötila. Käymisen nopeus: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
@@ -507,13 +507,13 @@
   <!-- EN: Harvest\nbotched -->
   <TextMote_HarvestFailed>Kerääminen\nepäonnistui</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
-  <TextMote_YieldWasted>Yield\nwasted</TextMote_YieldWasted>
+  <TextMote_YieldWasted>Tuotto\nhukattu</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
-  <TextMote_ProductWasted>Product\nwasted</TextMote_ProductWasted>
+  <TextMote_ProductWasted>Tuote\nhukattu</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
+  <TextMote_RecruitFail>Värvääminen epäonnistui!\n{0} todennäköisyys</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
-  <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>Vastarinta muuttui\narvosta {0} arvoon {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Kesytys epäonnistui\n{0} todennäköisyys</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
@@ -523,27 +523,27 @@
   <!-- EN: Trained: {0}\n{1} chance -->
   <TextMote_TrainSuccess>Koulutettu: {0}\n{1} todennäköisyys</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
-  <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>Korjaus\nepäonnistui</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
   <TextMote_ConstructionFail>Rakentaminen\nepäonnistui</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
-  <TextMote_Dodge>Väistöliike</TextMote_Dodge>
+  <TextMote_Dodge>Väistö</TextMote_Dodge>
   <!-- EN: Immune -->
-  <TextMote_Immune>TODO</TextMote_Immune>
+  <TextMote_Immune>Immuuni</TextMote_Immune>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} tended</TextMote_Tended>
+  <TextMote_Tended>{0} hoidettu</TextMote_Tended>
   <!-- EN: level {0} -->
-  <TextMote_SkillUp>TODO</TextMote_SkillUp>
+  <TextMote_SkillUp>latso {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
-  <lowMood>TODO</lowMood>
+  <lowMood>matala meliala</lowMood>
   <!-- EN: low opinion -->
-  <lowOpinion>TODO</lowOpinion>
+  <lowOpinion>huono mielipide</lowOpinion>
 
   <!-- Areas -->
   <!-- EN: Home -->
   <Home>Koti</Home>
   <!-- EN: Build roof -->
-  <BuildRoof>Build roof</BuildRoof>
+  <BuildRoof>Rakenna kaatto</BuildRoof>
   <!-- EN: No roof -->
   <NoRoof>Ei kattoa</NoRoof>
   <!-- EN: Snow clear -->
@@ -559,7 +559,7 @@
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>Ei voi antaa määräyksiä hallitsemattomille yksiköille.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Ei voi antaa määräyksiä hahmoille joita et hallitse.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
   <IsIncapableOfViolence>{1_labelShort} ei pysty väkivaltaan.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
@@ -585,73 +585,73 @@
   <!-- EN: Minimum range -->
   <MinimumRange>Lähin kantama</MinimumRange>
   <!-- EN: Can fire in -->
-  <CanFireIn>Voi ampua</CanFireIn>
+  <CanFireIn>Ampumavalmiuteen</CanFireIn>
   <!-- EN: Cannot fire -->
-  <CannotFire>TODO</CannotFire>
+  <CannotFire>Ei voi ampua</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>TODO</Roofed>
+  <Roofed>katon alla</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Ammus ladattu: {1_label}</ShellLoaded>
+  <ShellLoaded>Kranaatti ladattu: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Lataamaton</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>kuljettamassa {THING_label} kohteeseen {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>kuljettaa esinettä {THING_label} kohteeseen {DESTINATION}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
+  <ReportHaulingToGrave>hautaa olentoa {THING_label} kohteeseen {DESTINATION}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>kuljettamassa {1_label}.</ReportHauling>
+  <ReportHauling>kuljettaa esinettä {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>TODO</ReportHaulingUnknown>
+  <ReportHaulingUnknown>kuljettaa</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>nukkumassa.</ReportSleeping>
+  <ReportSleeping>nukkuu.</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>lepää.</ReportResting>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>katselee auringonnousua</WatchingSunrise>
+  <WatchingSunrise>katselee auringonnousua.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>katselee pilviä</CloudWatching>
+  <CloudWatching>katselee pilviä.</CloudWatching>
   <!-- EN: watching the sunset. -->
   <WatchingSunset>katselee auringonlaskua</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>katselee tähtiä</Stargazing>
+  <Stargazing>katselee tähtiä.</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>katselee auringonpimennystä</WatchingEclipse>
+  <WatchingEclipse>katselee auringonpimennystä.</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>TODO</WatchingAurora>
+  <WatchingAurora>katselee revontulia.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>käyttää esinettä {0} kohteessa {1}.</UsingVerb>
+  <UsingVerb>käyttää esinettä {0} kohteeseen {1}.</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
+  <UsingVerbNoTarget>käyttää esinettä {0}</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>alue</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>TODO</ReportCowering>
+  <ReportCowering>kyyristelee.</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>TODO</ReportStanding>
+  <ReportStanding>seisoo.</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>TODO</ReportExtinguishingFire>
+  <ReportExtinguishingFire>sammuttaa tulta.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>TODO</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>sammuttaa tulta kohteessa {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>TODO</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>kaivaa ulos ruumista.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>TODO</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>Osallistuu vihkitilaisuuteen</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>TODO</LordReportAttendingParty>
+  <LordReportAttendingParty>Osallistuu juhlaan</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
+  <LordReportAttendingConcert>Osallistuu konserttiin</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
+  <LordReportHoldingConcert>Pitää konserttia</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
+  <LordReportGivingSpeech>Antaa puhetta</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
+  <LordReportListeningSpeech>Kuuntelee henkilön {ORGANIZER_labelShort} puhetta</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>Forming caravan</LordReportFormingCaravan>
+  <LordReportFormingCaravan>Muodostaa karvaania</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
@@ -675,7 +675,7 @@
   <!-- EN: no cover -->
   <NoCoverLower>ei suojaa</NoCoverLower>
   <!-- EN: Execution -->
-  <Execution>Execution</Execution>
+  <Execution>Teloitus</Execution>
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
@@ -687,7 +687,7 @@
   <!-- EN: administer {0} -->
   <RecipeAdminister>anna {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>Antaa {0}.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>Antaa ainetta {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>absolutistista tulee onneton</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
@@ -697,17 +697,17 @@
   <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Menee ohi: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>ajatuksen estää</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
   <ThoughtStartsExpiringIn>Alkaa mennä ohi: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
   <ThoughtFinishesExpiringIn>On mennyt ohi kokonaan: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
-  <MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>Äärimmäisen hermoromahduksen kynnys</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>Suuren hermoromahduksen kynnys</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>Pienen hermoromahduksen kynnys</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
@@ -715,23 +715,23 @@
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>ryhmän {1} {0}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{0} paikassa {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{0} ryhmässä {1}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>TODO</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{0} ryhmässä {1}\nKotiryhmä: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Ryhmä</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>TODO</FactionDesc>
+  <FactionDesc>Ryhmä johon {PAWN_labelShort} tällä hetkellä kuuluu.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
-  <ExtraFactionDesc>TODO</ExtraFactionDesc>
+  <ExtraFactionDesc>Ryhmä johon {PAWN_labelShort} alun perin kuuluu.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>Varuste</Equipped>
   <!-- EN: nothing -->
-  <EquippedNothing>Ei mitään</EquippedNothing>
+  <EquippedNothing>ei mitään</EquippedNothing>
   <!-- EN: Dead -->
   <Dead>Kuollut</Dead>
   <!-- EN: Unconscious -->
@@ -739,7 +739,7 @@
   <!-- EN: In shock due to pain -->
   <PainShock>Shokissa</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>Pain shock</PainShockShort>
+  <PainShockShort>Shokissa kivusta</PainShockShort>
   <!-- EN: Incapacitated -->
   <Incapacitated>Lamaantunut</Incapacitated>
   <!-- EN: In restraints (slowed) -->
@@ -747,13 +747,13 @@
   <!-- EN: Carrying -->
   <Carrying>Kantaa</Carrying>
   <!-- EN: Affected by: -->
-  <AffectedBy>Affected by:</AffectedBy>
+  <AffectedBy>Vaikuttaja:</AffectedBy>
   <!-- EN: Queued -->
-  <Queued>TODO</Queued>
+  <Queued>Jonossa</Queued>
   <!-- EN: State -->
-  <State>TODO</State>
+  <State>Tila</State>
   <!-- EN: stun -->
-  <StunLower>TODO</StunLower>
+  <StunLower>tainnutus</StunLower>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
@@ -763,19 +763,19 @@
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>TODO</HostilityReponseTip>
+  <HostilityReponseTip>Muuta miten tämä henkilö reagoi lähellä oleviin vihollisiin kun hän ei ole värvätty.</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>TODO</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>Nykyinen tila</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>joka kuuluu henkilölle</OfLower>
+  <OfLower>henkilöltä</OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>Ei liitetty virtaan.</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>Yhdistetty sähkövirta/varastoitu teho: {0} W / {1} Wp</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Ylimääräinen sähkövirta/varastoitu teho: {0} W / {1} Wp</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>Tarvittava virta</PowerNeeded>
   <!-- EN: Power output -->
@@ -785,7 +785,7 @@
   <!-- EN: Efficiency -->
   <PowerBatteryEfficiency>Hyötysuhde</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
-  <SelfDischarging>TODO</SelfDischarging>
+  <SelfDischarging>Purkautuu itsestään</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
@@ -793,9 +793,9 @@
   <!-- EN: Current power use -->
   <PowerConsumptionMode>Nykyinen virrankulutus</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>Korkea</PowerConsumptionHigh>
+  <PowerConsumptionHigh>korkea</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>Matala</PowerConsumptionLow>
+  <PowerConsumptionLow>matala</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
@@ -815,13 +815,13 @@
   <!-- EN: Frozen (won't spoil) -->
   <CurrentlyFrozen>Pakastettu (ei pilaannu)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
-  <CurrentlyRefrigerated>Jäähdytetty (Pilaantumiseen {0})</CurrentlyRefrigerated>
+  <CurrentlyRefrigerated>Jäähdytetty (pilaantumiseen {0})</CurrentlyRefrigerated>
   <!-- EN: Not refrigerated (spoils in {0}) -->
-  <NotRefrigerated>Ei jäähdytetty (Pilaantumiseen {0})</NotRefrigerated>
+  <NotRefrigerated>Ei jäähdytetty (pilaantumiseen {0})</NotRefrigerated>
   <!-- EN: over a decade -->
   <OverADecade>yli vuosikymmen</OverADecade>
   <!-- EN: less than a day -->
-  <LessThanADay>less than a day</LessThanADay>
+  <LessThanADay>vähemmän kuin päivä</LessThanADay>
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
@@ -829,7 +829,7 @@
   <!-- EN: Cannot hit target. -->
   <CannotHit>Kohteeseen ei voi osua.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>TODO</ManhunterPerHit>
+  <ManhunterPerHit>Ihmisjahtaajan todennäköisyys osumaa kohti</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
@@ -847,9 +847,9 @@
   <!-- EN: Resting -->
   <PlantResting>Lepää</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>Ei ole ideaalilämpötilassa (kasvaa {0} normaalista nopeudesta)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>Ei ole ideaalilämpötilassa. Kasvunopeuden kerroin: {0}%</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>Ei ole ideaalilämpötilassa (ei kasva)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>Ei ole ideaalilämpötilassa. Ei kasva.</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>Valmis kerättäväksi.</ReadyToHarvest>
   <!-- EN: Mature. -->
@@ -863,11 +863,11 @@
   <!-- EN: Growing season here now. -->
   <GrowSeasonHereNow>Täällä on nyt kasvukausi.</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>Ei voi kasvaa (huono kausilämpötila).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>TODO</Blighted>
+  <Blighted>Vitsattu</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>TODO</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>Kuolee valolle altistettuna</DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -899,37 +899,37 @@
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>Aseta mukautuvan opastajan näkyvyys päälle tai pois kun se on tyhjä.\n\nMukautuva opastaja on aina näkyvissä jos siinä on aihe asetettu opittavaksi. Tämä asettaa sen häviämään kun aiheita ei ole aktiivisina.</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>Alueiden näkyvyys.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>TODO</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Aseta kauneuden näyttäminen päälle tai pois.\n\nNäyttää maan kauneuden kuten hiiren kohdalle asetettu hahmo näkee sen.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>TODO</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>Aseta huoneen tilastojen näyttäminen päälle tai pois.\n\nNäyttää hiiren kohdalla olevan huoneen tilastot.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Aseta yhdyskuntapalkki päälle tai pois.\n\nNäyttää ikonit ja perustiedot kaikista yhdyskuntalaisista ruudun ylälaidassa.\n\nVoit järjestää palkissa olevat yhdyskuntalaiset uudelleen klikkaamalla ja vetämällä hiiren oikealla näppäimellä.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>Laajenna kotialuetta automaattisesti uusien rakennusten ympärille.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>TODO</AutoRebuildButton>
+  <AutoRebuildButton>Aseta tuhottujen rakennusten jälleenrakentaminen kotialueella päälle tai pois.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>Aseta luokiteltu materiaalivalikko päälle tai pois.</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Aseta luokiteltu resurssivalikko päälle tai pois.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>Aseta päälle kesyjen eläinten nimien näyttäminen.</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Aseta kesyjen eläinten nimien näyttäminen päälle tai pois.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>Toggle visiblity of roofs.</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>Aseta kattojen näkyvyys päälle tai pois.</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
-  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>Aseta hedelmällisyyspeitenäkymä päälle tai pois.\n\nTämä näyttää miten hedelmällistä maa on, mikä vaikuttaa siihen mitkä kasvit voivat kasvaa ja miten nopeasti ne kasvavat.</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>Aseta maan kestävyyden näyttäminen päälle tai pois.n\nTämä liittyy siihen, millaisia rakennuksia voi rakentaa mihinkin sijaintiin.\n\nEsimerkiksi jonkin tyyppiset maaperät voivat tukea vain kevyitä tai keskiraskaita rakennuksia, mutta ei raskaita. Siltoja voi rakentaa vain veden päälle.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>Lock the rotation of the camera so the north pole is always up.</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>Lukitse kameran kääntyminen siten että pohjoinen on aina ylhäällä.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
-  <UsePlanetDayNightSystemToggleButton>Toggle day/night lighting system.</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Aseta päivä- ja yövalon näyttäminen planeettanäkymässä päälle tai pois.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>TODO</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>Aseta laajenevien ikonien näyttäminen tavallisten ikonien sijasta etäisille kohteille päälle tai pois.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>TODO</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>Aseta maastonpiirteiden nimien näyttäminen päälle tai pois.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
@@ -941,19 +941,19 @@
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
-  <GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>
+  <GameConditionsTip>Alueella tällä hetkellä vaikuttavat erityisolosuhteet.</GameConditionsTip>
   <!-- EN: time left -->
-  <TimeLeft>time left</TimeLeft>
+  <TimeLeft>aikaa jäljellä</TimeLeft>
   <!-- EN: impact date -->
-  <ImpactDate>impact date</ImpactDate>
+  <ImpactDate>osumapäivä</ImpactDate>
   <!-- EN: Source unknown. -->
-  <SourceUnknown>TODO</SourceUnknown>
+  <SourceUnknown>Lähde on tutematon.</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>TODO</ClickToJumpToSource>
+  <ClickToJumpToSource>Klikkaa hypätäksesi lähteeseen.</ClickToJumpToSource>
   <!-- EN: Click to jump to the flashstorm. -->
-  <ClickToJumpToFlashstorm>TODO</ClickToJumpToFlashstorm>
+  <ClickToJumpToFlashstorm>Klikkaa hypätäksesi ukkosmyrskyyn.</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>TODO</CausedByQuest>
+  <CausedByQuest>Tehtävän aiheuttama: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
@@ -967,9 +967,9 @@
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Pitää asettaa siten että pääty on aluksen rakennepalkissa kiinni.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Pitää asettaa jonkin viereen joka vaatii täyttösuppilon.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Pitää asettaa jonkin viereen joka vaatii suppilon.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>Pitää asettaa tarkalleen geysirin päälle.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>Pitää asettaa tarkalleen höyrygeysirin päälle.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
   <MustPlaceCoolerWithFreeSpaces>Jäähdyttimen sekä kuuman että kylmän sivun on oltava näkyvillä.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
@@ -977,11 +977,11 @@
   <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>Täytyy asettaa sellaiseen paikkaan jossa on tilaa seisoa joka puolella.</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>Täytyy asettaa kapselinlaukaisimen tankkausportin viereen.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>TODO</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>Täytyy asettaa porattavan resurssin päälle.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>TODO</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>Ei voi asettaa ansojen viereen.</CannotPlaceAdjacentTrap>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -991,13 +991,13 @@
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
-  <Watermill_WaterUsedTwice>TODO</Watermill_WaterUsedTwice>
+  <Watermill_WaterUsedTwice>Virtaus heikentynyt: Turbulenssia toisesta vesimyllystä</Watermill_WaterUsedTwice>
 
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
   <CasketContains>Sisältää</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Varoitus!\n\n{PAWN_nameDef} on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat {PAWN_objective} astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
+  <CasketWarning>Varoitus!\n\n{PAWN_nameDef} on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -1007,31 +1007,31 @@
   <!-- EN: Missing critical component -->
   <ShipReportMissingPart>Kriittinen osa puuttuu</ShipReportMissingPart>
   <!-- EN: requires -->
-  <ShipReportMissingPartRequires>TODO</ShipReportMissingPartRequires>
+  <ShipReportMissingPartRequires>tarvitsee</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
   <ShipReportNoFullPods>Ei täysiä salauniarkkuja</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
-  <ShipReportHibernating>TODO</ShipReportHibernating>
+  <ShipReportHibernating>Horrostilassa oleva komponentti</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
-  <ShipReportNotReady>TODO</ShipReportNotReady>
+  <ShipReportNotReady>Komponentti ei ole vielä valmis</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>TODO</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name) on valmis aloittamaan reaktorin horrostilasta palautumisprosessin.\n\nHän varoittaa että, prosessi kestää noin 15 päivää, ja sen energiajälki on havaittavissa kaukaa.\n\nTällainen energiajälki merkitsee tähtienvälistä lentokykyä ja vetää puoleensa epätoivoisten rosvojen joukkoja ja kuollettavien mekanoidien parvia.\n\nSinun kimppuusi hyökätään voimalla jota et ole koskaan nähnyt. Varmista että puolustuksesi ovat ensin valmiit.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>TODO</HibernateWarningStandalone>
+  <HibernateWarningStandalone>Reaktori on valmis käynnistettäväksi.\n\nProsessi kestää noin 15 päivää, ja sen energiajälki on havaittavissa kaukaa.\n\nTällainen energiajälki merkitsee tähtienvälistä lentokykyä ja vetää puoleensa epätoivoisten rosvojen joukkoja ja kuollettavien mekanoidien parvia.\n\nSinun kimppuusi hyökätään voimalla jota et ole koskaan nähnyt. Varmista että puolustuksesi ovat ensin valmiit.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>TODO</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) on valmis aloittamaan reaktorin horrostilasta palautumisprosessin. Hän varoittaa, että prosessi kestää noin 15 päivää.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>Reaktori on valmis käynnistettäväksi.\n\nProsessi kestää noin 15 päivää.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->
-  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
+  <SkillNeurotrainerLabel>taitovalmentaja ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>Käytä taitovalmentajaa oppiaksesi taidon {0}</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>Kertakäyttöinen superannos mekaniitteja, jotka kouluttavat tiettyä taitoa.\n\nAnnos annetaan silmäkuopan kautta. Päästyään aivoihin mekaniitit parantavat nopeasti henkilön taitoja tietyllä alueella muuntamalla itsensä hermokudokseksi tarpeen mukaan.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort} käytti taidon {1} älykkyysvalmentajaa ja pääsi tasolta {2} tasolle {3}.</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -1079,7 +1079,7 @@
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Kaikki ovat joko kuolleet tai poissa. Tämä tarina on ohi.\n\nEhkä joku toinen voi hyödyntää näitä raunioita.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>TODO</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>Planeettamurhaaja-ase iskeytyi maahan lähes valon nopeudella ja biljoonan vetypommin voimalla. Tämä maailma nesteytyi iskun vaikutuksesta kuin kiväärillä ammuttu vesipallo ja ruiskutti sulat sisälmyksensä ympäri kosmosta.\n\nOsa planeetasta {0} on nyt pieni asteroidivyö. Loput pinnasta on sulaa, radioaktiivista helvettimaisemaa, joka aaltoilee jatkuvasti kilometrien korkuisilla planeetanjäristyksillä.\n\nEt selvinnyt.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>Olet laukaissut aluksesi!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
@@ -1089,7 +1089,7 @@
   <!-- EN: These colonists were left behind:\n\n{0} -->
   <GameOverColonistsLeft>Nämä yhdyskuntalaiset jätettiin jälkeen:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
+  <GameOverInMemoryOf>Henkilöitä muistaen:\n</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Jatka pelaamista</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -1105,31 +1105,31 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>TODO</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>Henkilön {PAWN_labelShort} {1} kasvaa nyt.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>TODO</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>Henkilön {PAWN_labelShort} {1} on nyt vakaa.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>TODO</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>Henkilön {PAWN_labelShort} {1} on nyt elpymässä.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>TODO</MarriageSpotUsable>
+  <MarriageSpotUsable>Voidaan käyttää nyt.</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>TODO</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>Ei voi käyttää: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
-  <MarriageSpotNotStandable>TODO</MarriageSpotNotStandable>
+  <MarriageSpotNotStandable>estetty</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>TODO</MarriageSpotDangerous>
+  <MarriageSpotDangerous>liian vaarallinen henkilölle {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>TODO</MarriageSpotForbidden>
+  <MarriageSpotForbidden>kielletty henkilölle {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>TODO</MarriageSpotReserved>
+  <MarriageSpotReserved>varattu</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>TODO</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>luoksepääsemätön henkilölle {1_labelShort}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>TODO</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>vankisellissä</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
-  <NotEnjoyableOutsideTemperature>TODO</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>epämukava lämpötila</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <!-- EN: Medical rest -->
@@ -1145,31 +1145,31 @@
   <!-- EN: Burning -->
   <ActivityIconBurning>Palaa</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>TODO</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>Muodostaa karavaania</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>TODO</DueForMaintenance>
+  <DueForMaintenance>Aika huollolle.</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>TODO</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Hajoaa huollon puutteessa.</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>TODO</ProgressToNextLump>
+  <ProgressToNextLump>Edistymineen seuraavaan kerääntymään</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>TODO</ResourceBelow>
+  <ResourceBelow>Resurssia alapuolella</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>TODO</ProgressToNextPortion>
+  <ProgressToNextPortion>Edistyminen seuraavaan osaan</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>TODO</DeepDrillNoResources>
+  <DeepDrillNoResources>Ei resursseja alapuolella.</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>TODO</DeepDrillExhausted>
+  <DeepDrillExhausted>Syväporausresurssit ovat loppu, pora on automaattisesti kielletty. Poista kielto aloittaksesi resurssin {0} poraaminen.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>Syväporausresurssit ovat loppu.</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining>TODO</ChargesRemaining>
+  <ChargesRemaining>Jäljellä olevat varaukset</ChargesRemaining>
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
@@ -1183,35 +1183,35 @@
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>TODO</CompassTip>
+  <CompassTip>Näyttää pohjoisen suunnan. Klikkaa kääntääksesi kameraa siten että pohjoinen on ylhäällä.</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>TODO</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>Klikkaa siiryäksesi suunnitelutilaan jossa voit suunnitella matkaasi ja laskea etäisyyksiä reittipisteiden välillä.</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>TODO</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>Lisää kaksi tai useampi reittipiste.</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>TODO</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Lisää yksi tai useampi reittipiste</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>TODO</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>Reitin kokonaisaika: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>TODO</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Suunnitelutila käyttää karavaanin oletusnopeutta. Sinun nopeutesi saattaa vaihdella.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>TODO</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Lasketaan: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>TODO</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Oikea hiiren näppäin: Lisää/Poista reittipisteitä</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>TODO</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>ESC: Poistu suunnitelutilasta.</RoutePlannerPressEscapeToExit>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Palaa karavaanin muodostuksen ikkunaan.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>TODO</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>Arv. matka-aika: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>TODO</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>Arv. matka-aika (edellisestä reittipisteestä): {0}</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToTile>TODO</EstimatedTimeToTile>
+  <EstimatedTimeToTile>Arv. matka-aika: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
-  <ForagedFoodAmount>TODO</ForagedFoodAmount>
+  <ForagedFoodAmount>Kerätyn ruuan määrä</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
@@ -1225,124 +1225,126 @@
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
-  <HibernatableHibernating>TODO</HibernatableHibernating>
+  <HibernatableHibernating>Horrostilassa</HibernatableHibernating>
   <!-- EN: Starting up -->
-  <HibernatableStartingUp>TODO</HibernatableStartingUp>
+  <HibernatableStartingUp>Heräämässä</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}: Katso saatavilla olevat tilaukset...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>Katso saatavilla olevat tilaukset...</ClickToSeeAvailableOrders_Empty>
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
-  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
   <!-- EN: {0} ({1})\n{2} -->
-  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
   <!-- EN: {0}\n{1}\n{2} -->
-  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
-  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>Neurolämpö: {0} / {1}\nPutoamisnopeus: {2} / s ({3} s kunnes nolla)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Neurolämpö kasvaa käytettäessä psyykkisiä voimia. Normaalin rajan ylittäminen saattaa aiheuttaa usean päivän pituisen psyykkisen murtumisen.\n\nNeurolämpö jäähtyy luonnostaan ajan myötä. Tätä prosessia voidaan kiihdyttää käyttämällä eltex-vaatteita tai kokemalla kipua.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>Kivun lisä\n\nKipu keskittyy mieleen ja nopeuttaa neurolämmön haihtumista.\n\nKiputaso: {0}\nLisä lämmön jäähdyttämiseen: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>Aseta hermolämmönrajoitin päälle tai pois. Lämpörajan ylitys ylittäminen saattaa aiheuttaa usean päivän pituisen psyykkisen murtumisen. Se ei aiheuta pysyviä vaurioita.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
-  <PawnTooltipPsyfocus>TODO</PawnTooltipPsyfocus>
+  <PawnTooltipPsyfocus>Psyfokus: {0}</PawnTooltipPsyfocus>
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>{0_age}-vuotias {0_title} nimeltään {0_nameDef} tulee kuljetuskapselissa {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>{0_age}-vuotias {0_title} nimeltään {0_nameDef} saapuu ja liittyy ryhmääsi {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>{0_age}-vuotias {0_title} nimeltään {0_nameDef} liittyy ryhmääsi {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>TODO</Reward_Items>
+  <Reward_Items>kuljetuskapselit saapuvat sisältäen seuraavat esineet (kokonaisarvo {1}):
+\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <Reward_Items_Caravan>saat seuraavat esineet (kokonaisarvo {1}):
+\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>TODO</Reward_Goodwill>
+  <Reward_Goodwill>ryhmäsi suhteet henkilön {0_name} kanssa paranevat arvolla {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
+  <Reward_PassageOffworld>sinut viedään tähtiin</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
-  <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
+  <Reward_PassageOffworld_Label>Pääsy pois maailmasta</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>TODO</Reward_CampLoot>
+  <Reward_CampLoot>voit ryöstää kaiken leiristä</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>Saalis reilissä</Reward_CampLoot_Label>
   <!-- EN: the visitors will work and fight for you -->
-  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp>vierailijat työskentelevät ja taistelevat hyväksesi</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
-  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <Reward_VisitorsHelp_Label>Vieraiden apu</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>Uusi psylinkkitaso</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>{PAWNNAME} saa psylinkin</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
-  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot_Label>Saalis sukkulassa</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>voit purkaa ja ryöstää sukkulan</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
-  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward_Label>Mahdollinen tuleva palkinto</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
-  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <Reward_PossibleFutureReward>palkinto joka voidaan mahdollisesti antaa tulevaisuudessa</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <Reward_Title_Label>titteli {TITLE}</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
-  <Reward_Title>TODO</Reward_Title>
+  <Reward_Title>{PAWNNAME} saa tittelin {TITLE} ryhmästä {FACTION}</Reward_Title>
   <!-- EN: value {0} -->
-  <TotalValue>TODO</TotalValue>
+  <TotalValue>arvo {0}</TotalValue>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>TODO</BondedWith>
+  <BondedWith>Kiintynyt: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>TODO</NotBonded>
+  <NotBonded>Ei vielä kiintynyt</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>kiintynyt johonkun muuhun</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(olemassa oleva kiintyminen)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>Henkilö voi kiintyä vain yhden aseen persoonaan kerrallaan.\n\nOttaaksesi aseen {WEAPON_labelShort} käyttöön ja saadaksesi henkilön {PAWN_nameDef} kiintymään siihen, hänen nykyinen kiintymyksen kohde {BONDEDWEAPON_labelShort} on ensin tuhottava.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
-  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} on jo kiintynyt aseeseen {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>TODO</Biocoded>
+  <Biocoded>biokoodattu {0}</Biocoded>
   <!-- EN: Biocoding: {0} -->
-  <CodedFor>TODO</CodedFor>
+  <CodedFor>Biokoodataan: {0}</CodedFor>
   <!-- EN: biocoded -->
-  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
+  <BiocodedCodedForSomeoneElse>biokoodattu</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Torjuu {0} {1} välein</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <InterceptsProjectiles>Torjuu {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>maassa liikkuvat ammukset</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>ilmassa liikkuvat ammukset</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
-  <AffectedGender>TODO</AffectedGender>
+  <AffectedGender>Vaikuttaa sukupuoleen</AffectedGender>
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
-  <CausedByHediff>TODO</CausedByHediff>
+  <CausedByHediff>Syy: {0}</CausedByHediff>
   
 </LanguageData>

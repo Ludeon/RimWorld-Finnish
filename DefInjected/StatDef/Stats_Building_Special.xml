@@ -12,9 +12,9 @@
   <DoorOpenSpeed.description>Nopeus, jolla ovi aukeaa.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
-  <ImmunityGainSpeedFactor.label>immuniteetinsaamisnopeuden kerroin</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.label>vastustuskyvyn saamisnopeuden kerroin</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
-  <ImmunityGainSpeedFactor.description>Immuniteetinsaamisnopeus kerrotaan tällä arvolla.</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.description>Vastustuskyvyn saamisnopeus kerrotaan tällä arvolla.</ImmunityGainSpeedFactor.description>
   
   <!-- EN: recreation power -->
   <JoyGainFactor.label>TODO</JoyGainFactor.label>
