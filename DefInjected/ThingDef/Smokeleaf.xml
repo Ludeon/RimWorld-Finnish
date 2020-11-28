@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: smokeleaf joint -->
-  <SmokeleafJoint.label>smokeleaf joint</SmokeleafJoint.label>
+  <SmokeleafJoint.label>savulehtisätkä</SmokeleafJoint.label>
   <!-- EN: Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures. -->
-  <SmokeleafJoint.description>Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency. Can be produced without equipment, at a crafting spot.</SmokeleafJoint.description>
+  <SmokeleafJoint.description>TODO</SmokeleafJoint.description>
   <!-- EN: Smoke {0} -->
-  <SmokeleafJoint.ingestible.ingestCommandString>Smoke {0}</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestCommandString>Polta {0}</SmokeleafJoint.ingestible.ingestCommandString>
   <!-- EN: Smoking {0}. -->
-  <SmokeleafJoint.ingestible.ingestReportString>Smoking {0}.</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.ingestible.ingestReportString>Polttaa savulehtisätkää.</SmokeleafJoint.ingestible.ingestReportString>
   <!-- EN: Consuming {0}. -->
-  <SmokeleafJoint.ingestible.ingestReportStringEat>TODO</SmokeleafJoint.ingestible.ingestReportStringEat>
+  <SmokeleafJoint.ingestible.ingestReportStringEat>Syö savulehtisätkää.</SmokeleafJoint.ingestible.ingestReportStringEat>
   
 </LanguageData>

@@ -1,15 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: anna ambrosia -->
+  <!-- EN: anna ainetta ambrosia -->
   <Administer_Ambrosia.label>anna ambrosiaa</Administer_Ambrosia.label>
-  <!-- EN: Antaa ambrosia. -->
+  <!-- EN: Antaa ainetta ambrosia. -->
   <Administer_Ambrosia.jobString>Antaa ambrosiaa.</Administer_Ambrosia.jobString>
   
-  <!-- EN: anna olut -->
+  <!-- EN: anna ainetta olut -->
   <Administer_Beer.label>anna olutta</Administer_Beer.label>
-  <!-- EN: Antaa olut. -->
+  <!-- EN: Antaa ainetta olut. -->
   <Administer_Beer.jobString>Antaa olutta.</Administer_Beer.jobString>
+  
+  <!-- EN: anna ainetta menomehu -->
+  <Administer_GoJuice.label>anna menomehua</Administer_GoJuice.label>
+  <!-- EN: Antaa ainetta menomehu. -->
+  <Administer_GoJuice.jobString>Antaa menomehua.</Administer_GoJuice.jobString>
+  
+  <!-- EN: anna ainetta luciferium -->
+  <Administer_Luciferium.label>anna luciferiumia</Administer_Luciferium.label>
+  <!-- EN: Antaa ainetta luciferium. -->
+  <Administer_Luciferium.jobString>Antaa luciferiumia.</Administer_Luciferium.jobString>
+  
+  <!-- EN: anna ainetta penoxycyline -->
+  <Administer_Penoxycyline.label>anna penoksisyliiniä</Administer_Penoxycyline.label>
+  <!-- EN: Antaa ainetta penoxycyline. -->
+  <Administer_Penoxycyline.jobString>Antaa penoksisyliiniä.</Administer_Penoxycyline.jobString>
+  
+  <!-- EN: anna ainetta pikapiriste -->
+  <Administer_WakeUp.label>anna pikapiristettä</Administer_WakeUp.label>
+  <!-- EN: Antaa ainetta pikapiriste. -->
+  <Administer_WakeUp.jobString>Antaa pikapiristettä.</Administer_WakeUp.jobString>
   
   <!-- EN: tee t-paita -->
   <Make_Apparel_BasicShirt.label>räätälöi t-paita</Make_Apparel_BasicShirt.label>

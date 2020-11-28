@@ -6,14 +6,14 @@
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
   <AlcoholAddiction.description>TODO</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
-  <AlcoholAddiction.stages.withdrawal.label>TODO</AlcoholAddiction.stages.withdrawal.label>
+  <AlcoholAddiction.stages.withdrawal.label>vieroituksessa</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
   <AlcoholHigh.label>alkoholi</AlcoholHigh.label>
   <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
   <AlcoholHigh.description>TODO</AlcoholHigh.description>
   <!-- EN: drunkenness -->
-  <AlcoholHigh.labelNoun>TODO</AlcoholHigh.labelNoun>
+  <AlcoholHigh.labelNoun>juopuneisuus</AlcoholHigh.labelNoun>
   <!-- EN: warm -->
   <AlcoholHigh.stages.warm.label>TODO</AlcoholHigh.stages.warm.label>
   <!-- EN: tipsy -->
@@ -41,7 +41,7 @@
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
   <Hangover.description>TODO</Hangover.description>
   <!-- EN: a hangover -->
-  <Hangover.labelNoun>TODO</Hangover.labelNoun>
+  <Hangover.labelNoun>krapula</Hangover.labelNoun>
   <!-- EN: slight -->
   <Hangover.stages.slight.label>lievä</Hangover.stages.slight.label>
   <!-- EN: strong -->

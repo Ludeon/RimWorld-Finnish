@@ -6,17 +6,17 @@
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
   <Beer.description>Ensimmäinen juoma jota ihmiskunta kulutti veden jälkeen. Olut saattaa maistua hyvältä mutta sen päävaikutus on päihtyminen. Kohtuuton käyttö voi johtaa alkoholiriippuvuuteen.</Beer.description>
   <!-- EN: Drink {0} -->
-  <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestCommandString>Juo olutta</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <Beer.ingestible.ingestReportString>Drinking {0}.</Beer.ingestible.ingestReportString>
+  <Beer.ingestible.ingestReportString>Juomassa olutta.</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
   <Beer.tools.bottle.label>TODO</Beer.tools.bottle.label>
   <!-- EN: neck -->
   <Beer.tools.neck.label>TODO</Beer.tools.neck.label>
   
   <!-- EN: wort -->
-  <Wort.label>wort</Wort.label>
+  <Wort.label>vierrettä</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>Beer before fermentation. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.</Wort.description>
+  <Wort.description>TODO</Wort.description>
   
 </LanguageData>

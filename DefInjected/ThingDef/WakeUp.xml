@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: wake-up -->
-  <WakeUp.label>wake-up</WakeUp.label>
+  <WakeUp.label>pikapiriste</WakeUp.label>
   <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
-  <WakeUp.description>An addictive stimulant. Fills the need for rest, and allows users to work for extended periods without getting tired. Addiction causes reduced mental performance and, sometimes, psychotic breaks with reality.</WakeUp.description>
+  <WakeUp.description>TODO</WakeUp.description>
   <!-- EN: Take {0} -->
-  <WakeUp.ingestible.ingestCommandString>Take {0}</WakeUp.ingestible.ingestCommandString>
+  <WakeUp.ingestible.ingestCommandString>TODO</WakeUp.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <WakeUp.ingestible.ingestReportString>Taking {0}.</WakeUp.ingestible.ingestReportString>
+  <WakeUp.ingestible.ingestReportString>TODO</WakeUp.ingestible.ingestReportString>
   
 </LanguageData>

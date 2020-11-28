@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: go-juice -->
-  <GoJuice.label>go-juice</GoJuice.label>
+  <GoJuice.label>menomehu</GoJuice.label>
   <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities.\n\nThe military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
-  <GoJuice.description>A synthetic combat drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain and increases the user's melee and shooting abilities. It also enhances movement speed.\n\nMilitary chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit.</GoJuice.description>
+  <GoJuice.description>TODO</GoJuice.description>
   <!-- EN: Inject {0} -->
-  <GoJuice.ingestible.ingestCommandString>Inject {0}</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestCommandString>TODO</GoJuice.ingestible.ingestCommandString>
   <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>Injecting {0}.</GoJuice.ingestible.ingestReportString>
+  <GoJuice.ingestible.ingestReportString>TODO</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>
