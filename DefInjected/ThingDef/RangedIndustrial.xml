@@ -171,7 +171,7 @@
   <Gun_Revolver.verbs.Verb_Shoot.label>TODO</Gun_Revolver.verbs.Verb_Shoot.label>
   
   <!-- EN: smoke launcher -->
-  <Gun_SmokeLauncher.label>TODO</Gun_SmokeLauncher.label>
+  <Gun_SmokeLauncher.label>savunheitin</Gun_SmokeLauncher.label>
   <!-- EN: A wide-barreled smoke shell launcher. The shell will upon impact release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
   <Gun_SmokeLauncher.description>TODO</Gun_SmokeLauncher.description>
   <!-- EN: stock -->

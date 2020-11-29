@@ -31,12 +31,42 @@
   <!-- EN: Antaa ainetta pikapiriste. -->
   <Administer_WakeUp.jobString>Antaa pikapiristettä.</Administer_WakeUp.jobString>
   
+  <!-- EN: Tekee esinettä tiedustelukypärä. -->
+  <Make_Apparel_ArmorHelmetRecon.jobString>Tekee tiedustelukypärää.</Make_Apparel_ArmorHelmetRecon.jobString>
+  
+  <!-- EN: Tekee esinettä tiedusteluhaarniska. -->
+  <Make_Apparel_ArmorRecon.jobString>Tekee tiedusteluhaarniskaa.</Make_Apparel_ArmorRecon.jobString>
+  
   <!-- EN: tee t-paita -->
   <Make_Apparel_BasicShirt.label>räätälöi t-paita</Make_Apparel_BasicShirt.label>
   <!-- EN: Tee t-paita. -->
   <Make_Apparel_BasicShirt.description>Räätälöi t-paita.</Make_Apparel_BasicShirt.description>
   <!-- EN: Tekee esinettä t-paita. -->
   <Make_Apparel_BasicShirt.jobString>Räätälöi t-paitaa.</Make_Apparel_BasicShirt.jobString>
+  
+  <!-- EN: Tekee esinettä knalli. -->
+  <Make_Apparel_BowlerHat.jobString>Tekee knallia.</Make_Apparel_BowlerHat.jobString>
+  
+  <!-- EN: Tekee esinettä kauluspaita. -->
+  <Make_Apparel_CollarShirt.jobString>Tekee kauluspaitaa.</Make_Apparel_CollarShirt.jobString>
+  
+  <!-- EN: Tekee esinettä paimenpoikahattu. -->
+  <Make_Apparel_CowboyHat.jobString>Tekee paimenpoikahattua.</Make_Apparel_CowboyHat.jobString>
+  
+  <!-- EN: Tekee esinettä pitkä takki. -->
+  <Make_Apparel_Duster.jobString>Tekee pitkää takkia.</Make_Apparel_Duster.jobString>
+  
+  <!-- EN: Tekee esinettä panssaritakki. -->
+  <Make_Apparel_FlakJacket.jobString>Tekee panssaritakkia.</Make_Apparel_FlakJacket.jobString>
+  
+  <!-- EN: Tekee esinettä panssarihousupari. -->
+  <Make_Apparel_FlakPants.jobString>Tekee panssarihousuparia.</Make_Apparel_FlakPants.jobString>
+  
+  <!-- EN: Tekee esinettä panssariliivi. -->
+  <Make_Apparel_FlakVest.jobString>Tekee panssariliiviä.</Make_Apparel_FlakVest.jobString>
+  
+  <!-- EN: Tekee esinettä takki. -->
+  <Make_Apparel_Jacket.jobString>Tekee takkia.</Make_Apparel_Jacket.jobString>
   
   <!-- EN: tee housupari -->
   <Make_Apparel_Pants.label>Räätälöi housupari</Make_Apparel_Pants.label>
@@ -45,22 +75,56 @@
   <!-- EN: Tekee esinettä housupari. -->
   <Make_Apparel_Pants.jobString>Räätälöi housuparia.</Make_Apparel_Pants.jobString>
   
-  <!-- EN: Tekee esinettä voimahaarniska. -->
-  <Make_Apparel_PowerArmor.jobString>Tekee voimahaarniskaa.</Make_Apparel_PowerArmor.jobString>
+  <!-- EN: Tekee esinettä anorakki. -->
+  <Make_Apparel_Parka.jobString>Tekee anorakkia.</Make_Apparel_Parka.jobString>
   
-  <!-- EN: tee voimahaarniskan kypärä -->
-  <Make_Apparel_PowerArmorHelmet.label>tee voimahaarniskan kypärä</Make_Apparel_PowerArmorHelmet.label>
-  <!-- EN: Tee voimahaarniskan kypärä. -->
-  <Make_Apparel_PowerArmorHelmet.description>Tee voimahaarniskan kypärä.</Make_Apparel_PowerArmorHelmet.description>
-  <!-- EN: Tekee esinettä voimahaarniskan kypärä. -->
-  <Make_Apparel_PowerArmorHelmet.jobString>Tekee voimahaarniskan kypärää.</Make_Apparel_PowerArmorHelmet.jobString>
+  <!-- EN: tee avaruusjalkaväen haarniska -->
+  <Make_Apparel_PowerArmor.label>Tee avaruusjalkaväen haarniska</Make_Apparel_PowerArmor.label>
+  <!-- EN: Tee avaruusjalkaväen haarniska. -->
+  <Make_Apparel_PowerArmor.description>Tee avaruusjalkaväen haarniska.</Make_Apparel_PowerArmor.description>
+  <!-- EN: Tekee esinettä avaruusjalkaväen haarniska. -->
+  <Make_Apparel_PowerArmor.jobString>Tekee avaruusjalkaväen haarniskaa.</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: tee avaruusjalkaväen kypärä -->
+  <Make_Apparel_PowerArmorHelmet.label>tee avaruusjalkaväen kypärä</Make_Apparel_PowerArmorHelmet.label>
+  <!-- EN: Tee avaruusjalkaväen kypärä. -->
+  <Make_Apparel_PowerArmorHelmet.description>Tee avaruusjalkaväen kypärä.</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Tekee esinettä avaruusjalkaväen kypärä. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>Tekee avaruusjalkaväen kypärää.</Make_Apparel_PowerArmorHelmet.jobString>
+  
+  <!-- EN: Tekee esinettä suojavyö. -->
+  <Make_Apparel_ShieldBelt.jobString>Tekee suojavyötä.</Make_Apparel_ShieldBelt.jobString>
+  
+  <!-- EN: Tekee esinettä yksinkertainen kypärä. -->
+  <Make_Apparel_SimpleHelmet.jobString>Tekee yksinkertaista kypärää.</Make_Apparel_SimpleHelmet.jobString>
+  
+  <!-- EN: Tekee esinettä savupaukkuvyö. -->
+  <Make_Apparel_SmokepopBelt.jobString>Tekee savupaukkuvyötä.</Make_Apparel_SmokepopBelt.jobString>
+  
+  <!-- EN: Tekee esinettä heimovaate. -->
+  <Make_Apparel_TribalA.jobString>Tekee heimovaatetta.</Make_Apparel_TribalA.jobString>
+  
+  <!-- EN: Tekee esinettä heimopäähine. -->
+  <Make_Apparel_TribalHeaddress.jobString>Tekee heimopäähinettä.</Make_Apparel_TribalHeaddress.jobString>
+  
+  <!-- EN: Tekee esinettä pipo. -->
+  <Make_Apparel_Tuque.jobString>Tekee pipoa.</Make_Apparel_Tuque.jobString>
+  
+  <!-- EN: Tekee esinettä sotamaski. -->
+  <Make_Apparel_WarMask.jobString>Tekee sotamaskia.</Make_Apparel_WarMask.jobString>
+  
+  <!-- EN: Tekee esinettä sotahuntu. -->
+  <Make_Apparel_WarVeil.jobString>Tekee sotahuntua.</Make_Apparel_WarVeil.jobString>
   
   <!-- EN: tee pitkäjousi -->
   <Make_Bow_Great.label>tee pitkäjousi</Make_Bow_Great.label>
   <!-- EN: Tee pitkäjousi. -->
   <Make_Bow_Great.description>Tee pitkäjousi.</Make_Bow_Great.description>
   <!-- EN: Tekee esinettä pitkäjousi. -->
-  <Make_Bow_Great.jobString>Tekee pitkäjousea</Make_Bow_Great.jobString>
+  <Make_Bow_Great.jobString>Tekee pitkäjousea.</Make_Bow_Great.jobString>
+  
+  <!-- EN: Tekee esinettä vastakaarijousi. -->
+  <Make_Bow_Recurve.jobString>Tekee vastakaarijousea.</Make_Bow_Recurve.jobString>
   
   <!-- EN: tee varsijousi -->
   <Make_Bow_Short.label>tee varsijousi</Make_Bow_Short.label>
@@ -89,6 +153,9 @@
   <Make_Gun_ChainShotgun.description>Tee sarjahaulikko.</Make_Gun_ChainShotgun.description>
   <!-- EN: Tekee esinettä sarjahaulikko. -->
   <Make_Gun_ChainShotgun.jobString>Tekee sarjahaulikkoa.</Make_Gun_ChainShotgun.jobString>
+  
+  <!-- EN: Tekee esinettä varausharppuuna. -->
+  <Make_Gun_ChargeLance.jobString>Tekee varausharppuunaa.</Make_Gun_ChargeLance.jobString>
   
   <!-- EN: tee varauskivääri -->
   <Make_Gun_ChargeRifle.label>tee varauskivääri</Make_Gun_ChargeRifle.label>
@@ -146,6 +213,9 @@
   <!-- EN: Tekee esinettä revolveri. -->
   <Make_Gun_Revolver.jobString>Tekee revolveria.</Make_Gun_Revolver.jobString>
   
+  <!-- EN: Tekee esinettä savunheitin. -->
+  <Make_Gun_SmokeLauncher.jobString>Tekee savunheitintä.</Make_Gun_SmokeLauncher.jobString>
+  
   <!-- EN: tee tarkkuuskivääri -->
   <Make_Gun_SniperRifle.label>tee tarkkuuskivääri</Make_Gun_SniperRifle.label>
   <!-- EN: Tee tarkkuuskivääri. -->
@@ -166,6 +236,9 @@
   <Make_MeleeWeapon_Gladius.description>Tee gladius.</Make_MeleeWeapon_Gladius.description>
   <!-- EN: Tekee esinettä gladius. -->
   <Make_MeleeWeapon_Gladius.jobString>Tekee gladiusta.</Make_MeleeWeapon_Gladius.jobString>
+  
+  <!-- EN: Tekee esinettä ikwa. -->
+  <Make_MeleeWeapon_Ikwa.jobString>Tekee ikwaa.</Make_MeleeWeapon_Ikwa.jobString>
   
   <!-- EN: tee improvisoitu veitsi -->
   <Make_MeleeWeapon_Knife.label>tee improvisoitu veitsi</Make_MeleeWeapon_Knife.label>
@@ -229,5 +302,14 @@
   <Make_Shell_HighExplosive.description>Tee räjähdyskranaatti.</Make_Shell_HighExplosive.description>
   <!-- EN: Tekee esinettä räjähdyskranaatti. -->
   <Make_Shell_HighExplosive.jobString>Tekee räjähdyskranaattia.</Make_Shell_HighExplosive.jobString>
+  
+  <!-- EN: Tekee esinettä EMP-kranaatteja. -->
+  <Make_Weapon_GrenadeEMP.jobString>Tekee EMP-kranaatteja.</Make_Weapon_GrenadeEMP.jobString>
+  
+  <!-- EN: Tekee esinettä sirpalekranaatteja. -->
+  <Make_Weapon_GrenadeFrag.jobString>Tekee sirpalekranaatteja.</Make_Weapon_GrenadeFrag.jobString>
+  
+  <!-- EN: Tekee esinettä Molotovin koktaileja. -->
+  <Make_Weapon_GrenadeMolotov.jobString>Tekee Molotovin koktaileja.</Make_Weapon_GrenadeMolotov.jobString>
   
 </LanguageData>

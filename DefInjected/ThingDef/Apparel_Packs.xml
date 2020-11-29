@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: smokepop pack -->
-  <Apparel_SmokepopBelt.label>smokepop belt</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.label>savupaukkuvyö</Apparel_SmokepopBelt.label>
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>An automatic defensive smokescreen. It will release a thick cloud of smoke if the wearer is hit by a projectile, providing line-of-sight cover and preventing turrets from locking on. Single-use.</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>TODO</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
   <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>TODO</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
   <!-- EN: pop smoke -->

@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: flak helmet -->
-  <Apparel_AdvancedHelmet.label>advanced helmet</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.label>panssarikypärä</Apparel_AdvancedHelmet.label>
   <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
-  <Apparel_AdvancedHelmet.description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</Apparel_AdvancedHelmet.description>
+  <Apparel_AdvancedHelmet.description>TODO</Apparel_AdvancedHelmet.description>
   
   <!-- EN: recon helmet -->
-  <Apparel_ArmorHelmetRecon.label>TODO</Apparel_ArmorHelmetRecon.label>
+  <Apparel_ArmorHelmetRecon.label>tiedustelukypärä</Apparel_ArmorHelmetRecon.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
   <Apparel_ArmorHelmetRecon.description>TODO</Apparel_ArmorHelmetRecon.description>
   
   <!-- EN: bowler hat -->
-  <Apparel_BowlerHat.label>bowler hat</Apparel_BowlerHat.label>
+  <Apparel_BowlerHat.label>knalli</Apparel_BowlerHat.label>
   <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
-  <Apparel_BowlerHat.description>A good-looking hat which projects a slightly urban, money-loving style. Improves social impact.</Apparel_BowlerHat.description>
+  <Apparel_BowlerHat.description>TODO</Apparel_BowlerHat.description>
   
   <!-- EN: cowboy hat -->
   <Apparel_CowboyHat.label>paimenpoikahattu</Apparel_CowboyHat.label>
   <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
-  <Apparel_CowboyHat.description>Tyylikäs mutta karu, tämä hattu pitää auringon ja sateen poissa - ja se antaa käyttälleen vähän lisää viehätystä. Tämä on tärkein osa perinteistä lännkkärivaatetusta.</Apparel_CowboyHat.description>
+  <Apparel_CowboyHat.description>Tyylikäs mutta kestävä, tämä hattu pitää auringon ja sateen poissa - ja se antaa käyttälleen vähän lisää viehätystä. Tämä on tärkein osa perinteistä lännkkärivaatetusta.</Apparel_CowboyHat.description>
   
   <!-- EN: marine helmet -->
-  <Apparel_PowerArmorHelmet.label>voimahaarniskan kypärä</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.label>avaruusjalkaväen kypärä</Apparel_PowerArmorHelmet.label>
   <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
-  <Apparel_PowerArmorHelmet.description>Osa voimahaarniskasarjaa, useimmiten raskaan jalkaväen käyttämä.</Apparel_PowerArmorHelmet.description>
+  <Apparel_PowerArmorHelmet.description>TODO</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
   <Apparel_PsychicFoilHelmet.label>psykofoliokypärä</Apparel_PsychicFoilHelmet.label>
@@ -32,12 +32,12 @@
   <Apparel_PsychicFoilHelmet.description>Ohut kypärä jossa on tarkasti viritettyjä kalvoja psyykkisiä säteitä imevää foliota. Vähentää psyykkisten tapahtumien vaikuttavuutta.</Apparel_PsychicFoilHelmet.description>
   
   <!-- EN: simple helmet -->
-  <Apparel_SimpleHelmet.label>simple helmet</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.label>yksinkertainen kypärä</Apparel_SimpleHelmet.label>
   <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
-  <Apparel_SimpleHelmet.description>A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons.</Apparel_SimpleHelmet.description>
+  <Apparel_SimpleHelmet.description>TODO</Apparel_SimpleHelmet.description>
   
   <!-- EN: tribal headdress -->
-  <Apparel_TribalHeaddress.label>TODO</Apparel_TribalHeaddress.label>
+  <Apparel_TribalHeaddress.label>heimopäähine</Apparel_TribalHeaddress.label>
   <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
   <Apparel_TribalHeaddress.description>TODO</Apparel_TribalHeaddress.description>
   
@@ -47,12 +47,12 @@
   <Apparel_Tuque.description>Pehmeä paksu lakki. Soveltuu erinomaisesti lämpimänä pysymiseen talvella.</Apparel_Tuque.description>
   
   <!-- EN: war mask -->
-  <Apparel_WarMask.label>TODO</Apparel_WarMask.label>
+  <Apparel_WarMask.label>sotamaski</Apparel_WarMask.label>
   <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
   <Apparel_WarMask.description>TODO</Apparel_WarMask.description>
   
   <!-- EN: war veil -->
-  <Apparel_WarVeil.label>TODO</Apparel_WarVeil.label>
+  <Apparel_WarVeil.label>sotahuntu</Apparel_WarVeil.label>
   <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
   <Apparel_WarVeil.description>TODO</Apparel_WarVeil.description>
   

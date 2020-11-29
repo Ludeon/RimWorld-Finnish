@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: recon armor -->
-  <Apparel_ArmorRecon.label>TODO</Apparel_ArmorRecon.label>
+  <Apparel_ArmorRecon.label>tiedusteluhaarniska</Apparel_ArmorRecon.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
   <Apparel_ArmorRecon.description>TODO</Apparel_ArmorRecon.description>
   
@@ -22,24 +22,24 @@
   <Apparel_Duster.description>Pitkä takki pitämään auringon ja hiekan loitolla.</Apparel_Duster.description>
   
   <!-- EN: flak jacket -->
-  <Apparel_FlakJacket.label>TODO</Apparel_FlakJacket.label>
+  <Apparel_FlakJacket.label>panssaritakki</Apparel_FlakJacket.label>
   <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
   <Apparel_FlakJacket.description>TODO</Apparel_FlakJacket.description>
   
   <!-- EN: flak pants -->
-  <Apparel_FlakPants.label>TODO</Apparel_FlakPants.label>
+  <Apparel_FlakPants.label>panssarihousupari</Apparel_FlakPants.label>
   <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
   <Apparel_FlakPants.description>TODO</Apparel_FlakPants.description>
   
   <!-- EN: flak vest -->
   <Apparel_FlakVest.label>panssariliivi</Apparel_FlakVest.label>
   <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
-  <Apparel_FlakVest.description>Liivi, johon on ommeltu panssarilevyjä eteen ja taakse. Suojaa luodeilta.</Apparel_FlakVest.description>
+  <Apparel_FlakVest.description>TODO</Apparel_FlakVest.description>
   
   <!-- EN: jacket -->
   <Apparel_Jacket.label>takki</Apparel_Jacket.label>
   <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
-  <Apparel_Jacket.description>Vahva takki joka estää naarmut ja ruhjeet.</Apparel_Jacket.description>
+  <Apparel_Jacket.description>Vahva takki joka estää naarmut ja ruhjeet ja pitää käyttäjänsä lämpimänä viileässä säässä.</Apparel_Jacket.description>
   
   <!-- EN: pants -->
   <Apparel_Pants.label>housupari</Apparel_Pants.label>
@@ -57,7 +57,7 @@
   <Apparel_PlateArmor.description>TODO</Apparel_PlateArmor.description>
   
   <!-- EN: marine armor -->
-  <Apparel_PowerArmor.label>voimahaarniska</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.label>avaruusjalkaväen haarniska</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
   <Apparel_PowerArmor.description>Moottoroitu haarniska, jota pitkälle kehittyneiden planeettojen hyökkäysjoukot käyttävät.</Apparel_PowerArmor.description>
   
