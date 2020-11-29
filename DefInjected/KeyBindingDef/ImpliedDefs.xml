@@ -13,8 +13,8 @@
   <!-- EN: Toggle historia tab -->
   <MainTab_History.label>historia-välilehti päälle tai pois</MainTab_History.label>
   
-  <!-- EN: Toggle rajoitukset tab -->
-  <MainTab_Restrict.label>rajoitukset-välilehti päälle tai pois</MainTab_Restrict.label>
+  <!-- EN: Toggle aikataulu tab -->
+  <MainTab_Restrict.label>aikataulu-välilehti päälle tai pois</MainTab_Restrict.label>
   
   <!-- EN: Toggle työnteko tab -->
   <MainTab_Work.label>työnteko-välilehti päälle tai pois</MainTab_Work.label>

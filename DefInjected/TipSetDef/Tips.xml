@@ -2,136 +2,136 @@
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>TODO</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>Voit poistaa kirjeitä klikkaamalla niitä hiiren oikealla painikkeella.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
-  <GameplayTips.QueueOrders>TODO</GameplayTips.QueueOrders>
+  <GameplayTips.QueueOrders>Voit antaa yhdyskuntalaisille useita käskyjä jonoon pitämällä shift-näppäintä painettuna.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
-  <GameplayTips.ReorderColonistbar>TODO</GameplayTips.ReorderColonistbar>
+  <GameplayTips.ReorderColonistbar>Voit järjestää yhdyskuntalaisia uudelleen yhdyskuntalaispalkissa klikkaamalla ja vetämällä hiiren kakkospainikkeella.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
-  <GameplayTips.SelectPrevNextColonist>TODO</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>Voit valita edellisen / seuraavan yhdysdkuntalaisen painamalla , ja . näppäimiä</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>TODO</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>Voit monissa valikoissa klikata ja vetää asetusta maalataksesi sen monien kohtien päälle. Tämä toimii jopa asustekertojen tai ruokarajoitusten kohdalla.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
-  <GameplayTips.ManualPriorities>TODO</GameplayTips.ManualPriorities>
+  <GameplayTips.ManualPriorities>Työ-välilehden manuaalisten tärkeyden tilassa 1 on korkein tärkeys ja 4 on matalin tärkeys.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>TODO</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>Jokaisen yhdyskuntalaisen mieliala näkyy heidän kuvakkeensa taustalla yhdyskuntalaispalkissa näytön yläosassa.</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
-  <GameplayTips.WorkTabChangeAllColonists>TODO</GameplayTips.WorkTabChangeAllColonists>
+  <GameplayTips.WorkTabChangeAllColonists>Työtyypin klikkaaminen shift-näppäin painettuna Työ-välilehdessä muuttaa kaikkien yhdyskuntalaisten asetuksia kerralla.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
-  <GameplayTips.WorkTabDecreasePriority>TODO</GameplayTips.WorkTabDecreasePriority>
+  <GameplayTips.WorkTabDecreasePriority>Manuaalisten prioriteettien klikkaaminen hiiren kakkospainikkeella Työ-välilehdessä pienentää tärkeyttä sen kasvattamisen sijaan.</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: In a gunfight, always be behind cover! -->
-  <GameplayTips.GunfightCover>TODO</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover>Pysy aina suojan takana taistelussa!</GameplayTips.GunfightCover>
   <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
-  <GameplayTips.GunfightSpread>TODO</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>Levitä yhdyskuntalaisesi taistelussa! Sumputtuneisiin kohteisiin on helppo osua.</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>TODO</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>Savu estää tykkitorneja havaitsemasta kohteita täysin, mutta ihmiset voivat silti ampua vähennetyllä tarkkuudella.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>TODO</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>Oleta puolustuksiasi suunnitellessasi että viholliset pääsevät sisälle kuljetuskapseleiden tai tunneleiden avulla. Rakenna sisäisiä puolustusasemia</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
-  <GameplayTips.ShootingAccuracyFogRain>TODO</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingAccuracyFogRain>Sumuinen tai sateinen sää vähentää aseiden tarkkuutta.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>TODO</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>Voit analysoida osuman todennäköisyyttä valitsemalla ampuja ja viemällä hiiri kohteen päälle.</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>TODO</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>Tykkitorni räjähtää, kun ne vahingoittavat paljon. Älä laita tykkejä liian lähelle toisiaan, äläkä laita ihmisiä liian lähelle niitä.</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>TODO</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>Jotkut eläimet räjähtävät kuollessaan. Voit pudottaa eläimiä vihollisten päälle kuljetuskapseleiden avulla. Mietipä sitä.</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
-  <GameplayTips.CallAllies>TODO</GameplayTips.CallAllies>
+  <GameplayTips.CallAllies>Jos tarvitset apua taistelussa, soita liittolaisillesi kommunikaatiopäätteen avulla.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.MaddenedAnimals>TODO</GameplayTips.MaddenedAnimals>
+  <GameplayTips.MaddenedAnimals>Hullut eläimet hyökkäävät kaikkia ihmisiä vastaan, mukaan lukien vihollisiasi. Voit käyttää tätä hyödyksi.</GameplayTips.MaddenedAnimals>
   <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>TODO</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>EMP-purkaukset poistavat tykkitornit ja suojat väliaikaisesti käytöstä.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
-  <GameplayTips.EMPDisablesPersonalShields>TODO</GameplayTips.EMPDisablesPersonalShields>
+  <GameplayTips.EMPDisablesPersonalShields>EMP-purkaukset rikkovat henkilökohtaiset suojat välittömästi.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
-  <GameplayTips.HunterStealth>TODO</GameplayTips.HunterStealth>
+  <GameplayTips.HunterStealth>Metsästäjän hiivistelytaito vähentää eläinten hyökkäysten mahdollisuutta. Siihen vaikuttavat metsästäjän taidot Eläimet ja Ampuminen.</GameplayTips.HunterStealth>
   <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
-  <GameplayTips.AnimalsAttackCloseRange>TODO</GameplayTips.AnimalsAttackCloseRange>
+  <GameplayTips.AnimalsAttackCloseRange>Eläimet hyökkäävät todennäköisemmin, kun niitä vahingoitetaan lähietäisyydeltä. Pitkällä kantamalla hitaasti ampuvat aseet ovat turvallisimpia metsästykseen.</GameplayTips.AnimalsAttackCloseRange>
   <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
-  <GameplayTips.AnimalsMayAttack>TODO</GameplayTips.AnimalsMayAttack>
+  <GameplayTips.AnimalsMayAttack>Kokonaiset eläinlaumat voivat hyökätä kimppuusi yrittäessäsi metsästää niitä. Hyväksy riski ennen metsästystä tai valitse heikompi saalis.</GameplayTips.AnimalsMayAttack>
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
-  <GameplayTips.AnimalDeathExplosionRain>TODO</GameplayTips.AnimalDeathExplosionRain>
+  <GameplayTips.AnimalDeathExplosionRain>Jos metsästät paukkurottia ja paukkulooppeja sateessa, niiden kuolema ei aiheuta metsäpaloja.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
-  <GameplayTips.GreaterSlaughterYield>TODO</GameplayTips.GreaterSlaughterYield>
+  <GameplayTips.GreaterSlaughterYield>Huolellisesti teurastetut eläimet tuottavat enemmän lihaa ja nahkaa kuin väkivaltaisesti tapetut.</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
-  <GameplayTips.CaravanPackingSpot>TODO</GameplayTips.CaravanPackingSpot>
+  <GameplayTips.CaravanPackingSpot>Aseta karavaanin lastauspaikka osoittamaan, missä haluat karavaanisi kerääntyvän.</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
-  <GameplayTips.CaravanSinglePerson>TODO</GameplayTips.CaravanSinglePerson>
+  <GameplayTips.CaravanSinglePerson>Yhden hengen karavaanit voivat olla erittäin hyödyllisiä tietyissä tilanteissa.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Faster animals make faster caravans. -->
-  <GameplayTips.CaravanFasterAnimals>TODO</GameplayTips.CaravanFasterAnimals>
+  <GameplayTips.CaravanFasterAnimals>Nopeammat eläimet muodostavat nopeampia karavaaneja.</GameplayTips.CaravanFasterAnimals>
   <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
-  <GameplayTips.CaravanSmallerLessVisible>TODO</GameplayTips.CaravanSmallerLessVisible>
+  <GameplayTips.CaravanSmallerLessVisible>Pienten karavaanien kimppuun hyökätään harvemmin, koska ne ovat vähemmän näkyviä.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>TODO</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanStockpileNearPackingSpot>Kerää lähetettävät tavarat ennen karavaanin muodostamista varastoon lähelle karavaanin lastauspaikkaa. Tämä tekee lastaamisesta paljon nopeampaa.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
-  <GameplayTips.CaravanUntrainedAnimals>TODO</GameplayTips.CaravanUntrainedAnimals>
+  <GameplayTips.CaravanUntrainedAnimals>Jos karavaanissa on kouluttamattomia eläimiä, voit jakaa ne erilliseen karavaaniin ennen kuin hyökkäät viholliseen, jotta ne eivät tule taisteluun.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
-  <GameplayTips.StoryGenerator>TODO</GameplayTips.StoryGenerator>
+  <GameplayTips.StoryGenerator>RimWorld on tarinageneraattori, ei taitotesti. Pilalla oleva yhdyskunta on dramaattinen tragedia, ei epäonnistuminen.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
-  <GameplayTips.BadAllies>TODO</GameplayTips.BadAllies>
+  <GameplayTips.BadAllies>Jotkut yhdyskuntalaiset ovat yhtä tyhjän kanssa. Huonot liittolaiset ovat osa haastetta.</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
-  <GameplayTips.MakeCaravanRunBeforeDefeat>TODO</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.MakeCaravanRunBeforeDefeat>Jos et pysty puolustamaan uhkaa vastaan, tee karavaani ja pakene. Saatat menettää kotisi, mutta tarinasi voi jatkua.</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>TODO</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>Vältä kivien käyttöä ovissa. Ne avautuvat hyvin hitaasti, mikä tuhlaa yhdyskuntalaisten aikaa.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
-  <GameplayTips.ChairsWorkbench>TODO</GameplayTips.ChairsWorkbench>
+  <GameplayTips.ChairsWorkbench>Aseta tuolit työpöytien eteen, jotta työn tekijät voivat istua mukavasti työskennellessään.</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
-  <GameplayTips.MechanicalBreakdown>TODO</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.MechanicalBreakdown>Mekaaniset rakennukset hajoavat ja vaativat korvaavia komponentteja. Älä rakenna asioita, joita et tarvitse.</GameplayTips.MechanicalBreakdown>
   <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
-  <GameplayTips.CarefulConstructionOnBridges>TODO</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CarefulConstructionOnBridges>Varo mitä rakennat silloille. Sillat romahtavat helposti räjähdysten alla, ja rakennuksesi menevät niiden mukana.</GameplayTips.CarefulConstructionOnBridges>
   <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
-  <GameplayTips.CleanRooms>TODO</GameplayTips.CleanRooms>
+  <GameplayTips.CleanRooms>Puhtaat huoneet lisäävät tutkimuksen nopeutta, parantavat lääkinnän seurauksia ja vähentävät ruokamyrkytyksiä. Steriilit laatat tekevät huoneista erityisen puhtaita.</GameplayTips.CleanRooms>
   <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
-  <GameplayTips.ColonyOneStructure>TODO</GameplayTips.ColonyOneStructure>
+  <GameplayTips.ColonyOneStructure>Koko yhdyskuntasi rakentaminen yhteen rakennukseen säästää resursseja, mutta vaikeuttaa myös tulipalojen hillitsemistä.</GameplayTips.ColonyOneStructure>
   <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
-  <GameplayTips.TerrainMovementSpeed>TODO</GameplayTips.TerrainMovementSpeed>
+  <GameplayTips.TerrainMovementSpeed>Maasto vaikuttaa liikkumisnopeuteen. Rakenna lattioita auttaaksesi yhdyskuntalaisia liikkumaan nopeammin.</GameplayTips.TerrainMovementSpeed>
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
-  <GameplayTips.TerrainCleanliness>TODO</GameplayTips.TerrainCleanliness>
+  <GameplayTips.TerrainCleanliness>Eri maastoilla on erilaiset puhtausasteet. Laatat ovat luonnostaan puhtaita; multa on luonnostaan likaista.</GameplayTips.TerrainCleanliness>
   <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
-  <GameplayTips.PrisonersAsGifts>TODO</GameplayTips.PrisonersAsGifts>
+  <GameplayTips.PrisonersAsGifts>Voit antaa vankeja lahjaksi. Vangin palauttaminen omaan ryhmäänsä on erittäin arvostettua.</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
-  <GameplayTips.RequestTradeCaravans>TODO</GameplayTips.RequestTradeCaravans>
+  <GameplayTips.RequestTradeCaravans>Voit pyytää tietyntyyppisiä karavaaneja kommunikaatiopäätteen avulla.</GameplayTips.RequestTradeCaravans>
   <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
-  <GameplayTips.TransportPodsSendGift>TODO</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.TransportPodsSendGift>Voit käyttää kuljetuskapseleita lähettääksesi lahjoja suoraan muiden ryhmien tukikohtiin - jopa vihollisillesi. Tämä parantaa ryhmäsuhteita.</GameplayTips.TransportPodsSendGift>
   <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
-  <GameplayTips.KeepingPrisonersTogether>TODO</GameplayTips.KeepingPrisonersTogether>
+  <GameplayTips.KeepingPrisonersTogether>Vankien pitäminen yhdessä säästää tilaa. Yhdessä pidetyt vangit yrittävät kuitenkin paeta yhdessä.</GameplayTips.KeepingPrisonersTogether>
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
-  <GameplayTips.EnemyFactionBaseDefenses>TODO</GameplayTips.EnemyFactionBaseDefenses>
+  <GameplayTips.EnemyFactionBaseDefenses>Vihollisen ryhmittymät ovat hyvin puolustettuja. Sinun ei tarvitse hyökätä heitä vastaan - mutta ole hyvin valmistautunut, jos päätät kokeilla.</GameplayTips.EnemyFactionBaseDefenses>
   <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
-  <GameplayTips.AnimalNuzzle>TODO</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalNuzzle>Söpöt kesyt eläimet kiehnäävät siirtolaisiasi ja parantavat heidän mielialaansa.</GameplayTips.AnimalNuzzle>
   <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
-  <GameplayTips.AnimalHerbivorousGrassArea>TODO</GameplayTips.AnimalHerbivorousGrassArea>
+  <GameplayTips.AnimalHerbivorousGrassArea>Määritä kasvissyöjäeläimet alueille, joilla on paljon ruohoa. Ne syövät ruohoa ja säästävät tarvetta ruokkia heitä.</GameplayTips.AnimalHerbivorousGrassArea>
   <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
-  <GameplayTips.RemoveLimbInfection>TODO</GameplayTips.RemoveLimbInfection>
+  <GameplayTips.RemoveLimbInfection>Jos jollakin on vakava infektio raajassa, voit amputoida raajan pelastaaksesi hänen henkensä.</GameplayTips.RemoveLimbInfection>
   <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
-  <GameplayTips.SloshingWater>TODO</GameplayTips.SloshingWater>
+  <GameplayTips.SloshingWater>Veden läpi kahlaaminen tekee ihmisistä surullisia. Rakenna silta aina kun pystyt.</GameplayTips.SloshingWater>
   <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
-  <GameplayTips.Luciferium>TODO</GameplayTips.Luciferium>
+  <GameplayTips.Luciferium>Luciferium voi parantaa arpia - jopa silmässä tai aivoissa olevat. Siihen on kuitenkin sitouduttava pysyvästi.</GameplayTips.Luciferium>
   <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
-  <GameplayTips.WorkMovementSpeedLighting>TODO</GameplayTips.WorkMovementSpeedLighting>
+  <GameplayTips.WorkMovementSpeedLighting>Valaistus vaikuttaa työ- ja liikkumisnopeuteen. Kaikki on hitaampaa pimeässä</GameplayTips.WorkMovementSpeedLighting>
   <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
-  <GameplayTips.DeepCavesTemperature>TODO</GameplayTips.DeepCavesTemperature>
+  <GameplayTips.DeepCavesTemperature>Syvissä maanalaisissa luolissa on luonnostaan vakaa lämpötila, vaikka ulkona olisi erittäin kuuma tai kylmä..</GameplayTips.DeepCavesTemperature>
   <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
-  <GameplayTips.MountainBases>TODO</GameplayTips.MountainBases>
+  <GameplayTips.MountainBases>Vuoriin rakennettuja tukikohtia on helppo puolustaa. Haittapuoli on, että ihmiset menevät hulluksi viettäessään liian kauan maan alla. Ja jättimäiset hyönteiset.</GameplayTips.MountainBases>
   <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
-  <GameplayTips.PrisonersGoodMood>TODO</GameplayTips.PrisonersGoodMood>
+  <GameplayTips.PrisonersGoodMood>Vangit liittyvät paljon nopeammin ja yrittävät karata vähemmän hyvällä tuulella.</GameplayTips.PrisonersGoodMood>
   <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
-  <GameplayTips.MultipleResearchers>TODO</GameplayTips.MultipleResearchers>
+  <GameplayTips.MultipleResearchers>Voit saada useita tutkijoita työskentelemään samanaikaisesti käyttämällä useita tutkimuspöytiä.</GameplayTips.MultipleResearchers>
   <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
-  <GameplayTips.GeysersHeatRooms>TODO</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.GeysersHeatRooms>Geysrit lämmittävät huoneita suljetuissa tiloissa. Tämä voi olla vaarallista tai hyödyllistä.</GameplayTips.GeysersHeatRooms>
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
-  <GameplayTips.ExtinguishFireArtillery>TODO</GameplayTips.ExtinguishFireArtillery>
+  <GameplayTips.ExtinguishFireArtillery>Räjähdykset sammuttavat tulipalot räjähdyssäteellään. Tämä tekee tykistön kranaateista hyödyllisiä tulipalojen pysäyttämiseen, kun muuta vaihtoehtoa ei ole.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
-  <GameplayTips.BestStoriesFromDarkestSituations>TODO</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.BestStoriesFromDarkestSituations>Jopa vakavat takaiskut eivät tarkoita, että pelin on loputtava. Yritä pelata menetetty taistelu loppuun - usein parhaat tarinat syntyvät pimeimmistä tilanteista.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
-  <GameplayTips.CleanLabs>TODO</GameplayTips.CleanLabs>
+  <GameplayTips.CleanLabs>Puhtaat laboratoriot steriileillä laatoilla antavat tutkimuksen nopeusbonuksia.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
-  <GameplayTips.ChangeStoryteller>TODO</GameplayTips.ChangeStoryteller>
+  <GameplayTips.ChangeStoryteller>Voit vaihtaa tarinankertojaa ja pelityyliä milloin tahansa asetusvalikossa.</GameplayTips.ChangeStoryteller>
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
-  <GameplayTips.MoreAlliesMoreTraders>TODO</GameplayTips.MoreAlliesMoreTraders>
+  <GameplayTips.MoreAlliesMoreTraders>Mitä useamman ryhmän kanssa olet liittoutunut, sitä enemmän satunnaisia vaihtokauppiaita ja sotilaallista apua saat.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>TODO</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory>Voit käyttää huumekäytäntöjä saadaksesi taistelijasi käyttämään taistelulääkkeitä, kuten menomehua. Pikainen annos taistelun alkaessa voi voittaa taistelun.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
-  <GameplayTips.SchedulesSetLong>TODO</GameplayTips.SchedulesSetLong>
+  <GameplayTips.SchedulesSetLong>Määritä aikatauluun pitkä jakso yhtä aktiviteettia pienentääksesi matka-aikoja.</GameplayTips.SchedulesSetLong>
   
 </LanguageData>

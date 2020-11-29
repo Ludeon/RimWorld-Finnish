@@ -6,83 +6,83 @@
   <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>Eläinten kesyttäminen, kouluttaminen, hoitaminen ja ohjaaminen.</Animals.description>
   <!-- EN: animals -->
-  <Animals.skillLabel>Eläimet</Animals.skillLabel>
+  <Animals.skillLabel>eläimet</Animals.skillLabel>
   
   <!-- EN: artistic -->
-  <Artistic.label>Artistic</Artistic.label>
+  <Artistic.label>taiteellisuus</Artistic.label>
   <!-- EN: Crafting art. -->
   <Artistic.description>Taiteenteko.</Artistic.description>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>Taiteellisuus</Artistic.skillLabel>
+  <Artistic.skillLabel>taiteellisuus</Artistic.skillLabel>
   
   <!-- EN: construction -->
-  <Construction.label>Construction</Construction.label>
+  <Construction.label>rakentaminen</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>Paremmat rakentajat rakentavat rakennelmia ja huonekaluja nopeammin ja parempilaatuisina.</Construction.description>
+  <Construction.description>TODO</Construction.description>
   <!-- EN: construction -->
-  <Construction.skillLabel>Rakentaminen</Construction.skillLabel>
+  <Construction.skillLabel>rakentaminen</Construction.skillLabel>
   
   <!-- EN: cooking -->
-  <Cooking.label>Cooking</Cooking.label>
+  <Cooking.label>ruuanlaitto</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>Aterioiden tekeminen raaoista raaka-aineista.</Cooking.description>
+  <Cooking.description>Aterioiden tekeminen raaoista raaka-aineista ja ilman ruokamyrkytystä.</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.skillLabel>Ruuanlaitto</Cooking.skillLabel>
+  <Cooking.skillLabel>ruuanlaitto</Cooking.skillLabel>
   
   <!-- EN: crafting -->
-  <Crafting.label>Crafting</Crafting.label>
+  <Crafting.label>työskentely käsin</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>Yleishyödyllisten tavaroiden, kuten aseiden ja työkalujen, teko.</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>Työskentely käsin</Crafting.skillLabel>
+  <Crafting.skillLabel>työskentely käsin</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
-  <Intellectual.label>Intellectual</Intellectual.label>
+  <Intellectual.label>älyllisyys</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
-  <Intellectual.description>Investigating evidence, making connections, calculating and using logic.</Intellectual.description>
+  <Intellectual.description>TODO</Intellectual.description>
   <!-- EN: intellectual -->
-  <Intellectual.skillLabel>Intellectual</Intellectual.skillLabel>
+  <Intellectual.skillLabel>älyllisyys</Intellectual.skillLabel>
   
   <!-- EN: medical -->
   <Medicine.label>lääkitseminen</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
   <Medicine.description>Haavojen ja sairauksien hoitaminen ja kirurgia.</Medicine.description>
   <!-- EN: medical -->
-  <Medicine.skillLabel>Lääkitseminen</Medicine.skillLabel>
+  <Medicine.skillLabel>lääkitseminen</Medicine.skillLabel>
   
   <!-- EN: melee -->
-  <Melee.label>Melee</Melee.label>
+  <Melee.label>lähitaistelu</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
   <Melee.description>Kaikenlaisten lähitaisteluaseiden käyttäminen ja aseeton taistelu.</Melee.description>
   <!-- EN: melee -->
-  <Melee.skillLabel>Lähitaistelu</Melee.skillLabel>
+  <Melee.skillLabel>lähitaistelu</Melee.skillLabel>
   
   <!-- EN: mining -->
   <Mining.label>louhiminen</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
   <Mining.description>Tunneleiden ja haudatuiden resurssien kaivaminen.</Mining.description>
   <!-- EN: mining -->
-  <Mining.skillLabel>Louhiminen</Mining.skillLabel>
+  <Mining.skillLabel>louhiminen</Mining.skillLabel>
   
   <!-- EN: plants -->
-  <Plants.label>Growing</Plants.label>
+  <Plants.label>viljeleminen</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
   <Plants.description>Kylväminen, viljelmien huolehtiminen ja sadonkorjuu.</Plants.description>
   <!-- EN: plants -->
-  <Plants.skillLabel>Viljeleminen</Plants.skillLabel>
+  <Plants.skillLabel>viljeleminen</Plants.skillLabel>
   
   <!-- EN: shooting -->
-  <Shooting.label>Shooting</Shooting.label>
+  <Shooting.label>ampuminen</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
   <Shooting.description>Kaikenlaisten ampuma-aseiden käyttäminen.</Shooting.description>
   <!-- EN: shooting -->
-  <Shooting.skillLabel>Ampuminen</Shooting.skillLabel>
+  <Shooting.skillLabel>ampuminen</Shooting.skillLabel>
   
   <!-- EN: social -->
-  <Social.label>sosiaalinen</Social.label>
+  <Social.label>sosiaalisuus</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
   <Social.description>Muiden neuvottelu, suostuttelu, manipulointi, johtaminen ja kannustaminen.</Social.description>
   <!-- EN: social -->
-  <Social.skillLabel>Sosiaalisuus</Social.skillLabel>
+  <Social.skillLabel>sosiaalisuus</Social.skillLabel>
   
 </LanguageData>
