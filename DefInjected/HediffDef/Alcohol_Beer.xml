@@ -6,7 +6,7 @@
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
   <AlcoholAddiction.description>TODO</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
-  <AlcoholAddiction.stages.withdrawal.label>vieroituksessa</AlcoholAddiction.stages.withdrawal.label>
+  <AlcoholAddiction.stages.withdrawal.label>vieroitustila</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
   <AlcoholHigh.label>alkoholi</AlcoholHigh.label>

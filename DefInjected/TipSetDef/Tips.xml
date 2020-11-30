@@ -4,13 +4,13 @@
   <!-- EN: You can dismiss letters by right-clicking on them. -->
   <GameplayTips.DismissLetters>Voit poistaa kirjeitä klikkaamalla niitä hiiren oikealla painikkeella.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
-  <GameplayTips.QueueOrders>Voit antaa yhdyskuntalaisille useita käskyjä jonoon pitämällä shift-näppäintä painettuna.</GameplayTips.QueueOrders>
+  <GameplayTips.QueueOrders>Voit antaa yhdyskuntalaisille useita käskyjä jonoon pitämällä Shift-näppäintä painettuna.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
   <GameplayTips.ReorderColonistbar>Voit järjestää yhdyskuntalaisia uudelleen yhdyskuntalaispalkissa klikkaamalla ja vetämällä hiiren kakkospainikkeella.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
   <GameplayTips.SelectPrevNextColonist>Voit valita edellisen / seuraavan yhdysdkuntalaisen painamalla , ja . näppäimiä</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>Voit monissa valikoissa klikata ja vetää asetusta maalataksesi sen monien kohtien päälle. Tämä toimii jopa asustekertojen tai ruokarajoitusten kohdalla.</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>Voit monissa valikoissa klikata ja vetää asetusta maalataksesi sen monien kohtien päälle. Tämä toimii jopa vaatekertojen tai ruokarajoitusten kohdalla.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
   <GameplayTips.ManualPriorities>Työ-välilehden manuaalisten tärkeyden tilassa 1 on korkein tärkeys ja 4 on matalin tärkeys.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
