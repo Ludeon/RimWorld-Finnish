@@ -22,9 +22,9 @@
   <Capturing.helpText>Kun vihollinen on maissa mutta ei kuollut voit KAAPATA heidät.\n\nKaapataksesi valitse yhdyskuntalainen, klikkaa hiiren oikealla näppäimellä maissa olevaa vihollista ja valitse Kaappaa.\n\nTarvitset ylimääräisen sängyn, joka on merkitty vangeille.</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>Door opening speeds</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>Ovenavaamisnopeudet</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>Ovet avautuvat eri nopeuksilla riippuen niiden materiaalista.\n\nVaroitus: Kiviovet aukeavat erittäin hitaasti. Kaikki läpi kulkevat hidastuvat merkittävästi.</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
   <Drafting.label>Taisteluun värvääminen</Drafting.label>
@@ -37,14 +37,14 @@
   <DrugAddiction.helpText>Voit tarkistaa yhdyskuntalaistesi himon käyttää tiettyä päihdettä heidän Tarpeet-välilehdestään.\n\nNiin kauan kuin heidän tarpeensa taso on nolla, heidän riippuvuutensa muuttuu "vieroitus"-tilaan, jolla voi olla useita negatiivisia sivuvaikutuksia.\n\nKuitenkin, kun he ovat olleet tarpeeksi kauan vieroitustilassa, heidän riippuvuutensa päättyy ja päihteen tarve katoaa.</DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
-  <DrugBurning.label>Drug burning</DrugBurning.label>
+  <DrugBurning.label>Huumeiden polttaminen</DrugBurning.label>
   <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
-  <DrugBurning.helpText>Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire.</DrugBurning.helpText>
+  <DrugBurning.helpText>Huumeet voivat olla hyödyksi, mutta ne voivat myös tuottaa haitallisia riippuvuuksia.\n\nJos haluat välttää huumeiden käytön yhdyskunnassasi, voit vaihtoehtoisesti polttaa ne nuotiolla.</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
   <DrugPolicies.label>Päihdekäytännöt</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>Voit määrätä yhdyskuntalaisia ottamaan tiettyjä päihteitä tiettyllä aikataululla. Voit esimerkiksi määrätä heidät ottamaan malarian vastalääkettä säännöllisesti tai juomaan yhden oluen päivässä pysyäkseen onnellisena.\n\nAvaa MÄÄRÄYKSET-välilehti ja paina "Hallitse päihdekäytäntöjä"-painiketta. Luo uusi päihdekäytäntö. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires!</DrugPolicies.helpText>
+  <DrugPolicies.helpText>Voit määrätä yhdyskuntalaisia ottamaan tiettyjä päihteitä tiettyllä aikataululla. Voit esimerkiksi määrätä heidät ottamaan malarian vastalääkettä säännöllisesti tai juomaan yhden oluen päivässä pysyäkseen onnellisena.\n\nAvaa MÄÄRÄYKSET-välilehti ja paina "Hallitse päihdekäytäntöjä"-painiketta. Luo uusi päihdekäytäntö. Sitten voit määrätä tämän käytännön yhdyskuntalaisille.\n\nYhdyskuntalaiset voivat yhä ottaa huumeita huumekäytännön ulkopuolella. Voit kertoa heille mitä tehdä, mutta he seuraavat myös omia halujaan!</DrugPolicies.helpText>
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Kauppiaiden kanssa vuorovaikuttaminen</InteractingWithTraders.label>
@@ -57,14 +57,14 @@
   <OpeningComms.helpText>Voit kommunikoida valitsemalla yhdyskuntalaisen ja klikkaamalla kommunikaatiokonsolia hiiren oikealla näppäimellä.</OpeningComms.helpText>
   
   <!-- EN: Prisoner tab -->
-  <PrisonerTab.label>Opettele Vanki-välilehti</PrisonerTab.label>
+  <PrisonerTab.label>Vanki-välilehti</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
   <PrisonerTab.helpText>Avaa vangin Vanki-välilehti määritelläksesi miten häntä kohdellaan.\n\nVoit määrätä heidän värväämisen, huomiotta jättämisen ja teloittamisen, päättää mitä he syövät ja millaista hoitoa ne saavat. Yhdyskuntalaiset, joille on asetettu Vanginvartiointi-työ, huolehtivat vangeista.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
-  <QueueOrders.label>TODO</QueueOrders.label>
+  <QueueOrders.label>Käskyjen jonouttaminen</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>TODO</QueueOrders.helpText>
+  <QueueOrders.helpText>Kun annat käskyjä henkilöille, voit asettaa useita käskyjä jonoon pitämällä "shift"-näppäintä pohjassa. Tämä toimii myös annettaessa työohjeita värväämättömille henkilöille.</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Karavaanien muodostaminen uudelleen</ReformCaravan.label>
@@ -77,9 +77,9 @@
   <Rescuing.helpText>Pelastaaksesi haavoittuneen henkilön valitse terve yhdyskuntalainen ja klikkaa hiiren oikealla näppäimellä haavoittunutta.\n\nJos pelastat ryhmääsi kuulumattoman henkilön, he eivät välttämättä liity yhdyskuntaasi. He saattavat yksinkertaisesti kävellä pois hoidon jälkeen. Jos haluat varmistaa, että he liittyvät ryhmääsi kaappaa ja yritä värvätä heidät.</Rescuing.helpText>
   
   <!-- EN: Set what plant to grow -->
-  <SetGrowingZonePlant.label>Opettele kasvatusalueen asetukset</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>Aseta mitä kasveja kasvatat</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>Voit määritellä mitä kasvatusalueelle kylvetään. Voit jopa kasvattaa puita!\n\nValitse vain kasvatusalue, avaa Kasvatus-välilehti ja paina Istuta-nappia.</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>Voit määritellä mitä kasvatusalueelle kylvetään. Voit jopa kasvattaa puita!\n\nValitse vain kasvatusalue, avaa Kasvatus-välilehti ja paina Kasvi-nappia.</SetGrowingZonePlant.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Suojavyöt</ShieldBelts.label>

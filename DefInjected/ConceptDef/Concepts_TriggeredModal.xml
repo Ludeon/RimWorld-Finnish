@@ -9,12 +9,12 @@
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Maksimimäärä pelaajan yhdyskuntia</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
-  <MaxNumberOfPlayerSettlements.helpText>TODO</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>Varoitus: RimWorld on suunniteltu pelattavaksi vain yhdellä yhdyskunnnalla kerrallaan. Useat pelaajan yhdyskunnat ovat sallittuja vain kokeellisena testausominaisuutena.\n\nPelaaminen useilla yhdyskunnilla aiheuttaa pelin epätasapainoa ja jakaa keskittymisesi sekä todennäköisesti hidastaa suorituskykyä.\n\nSuosittelemme pelaamista yhden yhdyskunnan enimmäismäärällä ainakin muutamalla ensimmäisellä pelikerralla.</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>Kytke-määräykset ovat vain määräyksiä</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>Huomaa: Tämä vain merkitsee, että yhdyskuntalaisen tulee kääntää kytkin.\n\nMitään ei tapahdu ennen kuin yhdyskuntalainen (jolla on Kytkijä-työ) tulee ja kääntää kytkimen käsin.</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>Huomaa: Tämä vain merkitsee, että yhdyskuntalaisen tulee kääntää kytkin.\n\nMitään ei tapahdu ennen kuin yhdyskuntalainen tulee ja kääntää kytkimen käsin.</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
   <TradeGoodsMustBeNearBeacon.label>Kauppatavarat ja vaihtokaupan majakat</TradeGoodsMustBeNearBeacon.label>
@@ -24,6 +24,6 @@
   <!-- EN: Trading permit requirements -->
   <TradingRequiresPermit.label>Vaihtokaupan lupavaatimukset</TradingRequiresPermit.label>
   <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
-  <TradingRequiresPermit.helpText>TODO</TradingRequiresPermit.helpText>
+  <TradingRequiresPermit.helpText>Vaihtokaupan tekeminen täällä edellyttää titteliä {0}.\n\nVarmista, että lähettämässäsi karavaanissa on joku, jolla on titteli {0} tai korkeampi.</TradingRequiresPermit.helpText>
   
 </LanguageData>

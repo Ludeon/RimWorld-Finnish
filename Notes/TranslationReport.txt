@@ -8,19 +8,13 @@ Translation report for Finnish
 
 ========== Missing keyed translations (0) ==========
 
-========== Def-injected translations missing (5145) ==========
+========== Def-injected translations missing (5134) ==========
 BodyDef: Lancer.label 'lancer' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Lancer.corePart.parts.right_mechanical_shoulder.customLabel 'right mechanical shoulder' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.label 'pikeman' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel 'front right foot' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel 'rear left foot' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel 'rear right foot' (placeholder exists in Bodies_Mechanoid.xml)
-ConceptDef: QueueOrders.label 'Order queueing' (placeholder exists in Concepts_NotedOpportunistic.xml)
-ConceptDef: QueueOrders.helpText 'When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.' (placeholder exists in Concepts_NotedOpportunistic.xml)
-ConceptDef: TimeControls.helpText 'You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right.' (placeholder exists in Concepts_NotedSelfshow.xml)
-ConceptDef: GettingMoreTraders.helpText 'More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console.' (placeholder exists in Concepts_NotedSelfshow.xml)
-ConceptDef: MaxNumberOfPlayerSettlements.helpText 'Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games.' (placeholder exists in Concepts_TriggeredModal.xml)
-ConceptDef: TradingRequiresPermit.helpText 'Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher.' (placeholder exists in Concepts_TriggeredModal.xml)
 DamageDef: TornadoScratch.label 'scratch' (placeholder exists in Damages_Environmental.xml)
 DamageDef: TornadoScratch.deathMessage '{0} has been killed by a tornado.' (placeholder exists in Damages_Environmental.xml)
 DamageDef: Poke.label 'blunt' (placeholder exists in Damages_MeleeWeapon.xml)
@@ -1406,11 +1400,6 @@ RulePackDef: TalelessImages.rulePack.rulesStrings.30 'desc_pawn->rendered in sil
 RulePackDef: TalelessImages.rulePack.rulesStrings.31 'desc_pawn->riding on a [Animal] wearing a [Apparel]' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Art_ImagesTaleless.xml)
 RulePackDef: TalelessImages.rulePack.rulesStrings.32 'desc_pawn->looking [AdjectiveAny]' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Art_ImagesTaleless.xml)
 RulePackDef: TalelessImages.rulePack.rulesStrings.33 'desc_pawn->covered in [Gore]' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Art_ImagesTaleless.xml)
-RulePackDef: Battle_Solo.rulePack.rulesStrings.0 'r_battlename->[PARTICIPANT1_nameDef]'s report' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Battles.xml)
-RulePackDef: Battle_Duel.rulePack.rulesStrings.0 'r_battlename->[PARTICIPANT1_nameDef] vs [PARTICIPANT2_nameDef]' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Battles.xml)
-RulePackDef: Battle_Internal.rulePack.rulesStrings.0 'r_battlename->[FACTION1_name] internal conflict' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Battles.xml)
-RulePackDef: Battle_War.rulePack.rulesStrings.0 'r_battlename->[FACTION1_name] vs [FACTION2_name]' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Battles.xml)
-RulePackDef: Battle_Brawl.rulePack.rulesStrings.0 'r_battlename->Free-for-all' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Battles.xml)
 RulePackDef: Combat_MeleeIncludes.rulePack.rulesStrings.0 'r_logentry->[action], [result].' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_CombatIncludes.xml)
 RulePackDef: Combat_MeleeIncludes.rulePack.rulesStrings.1 'r_logentry(priority=-10)->[action].' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_CombatIncludes.xml)
 RulePackDef: Combat_MeleeIncludes.rulePack.rulesStrings.2 'implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_CombatIncludes.xml)
