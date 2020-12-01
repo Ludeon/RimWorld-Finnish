@@ -44,12 +44,12 @@
   <!-- EN: leather amount -->
   <LeatherAmount.label>nahan määrä</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. -->
-  <LeatherAmount.description>Tämän olento teruastamisesta saatavan nahan määrä.</LeatherAmount.description>
+  <LeatherAmount.description>Tämän olento teurastamisesta saatavan nahan määrä.</LeatherAmount.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>lihan määrä</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. -->
-  <MeatAmount.description>Tämän olennon teruastamisesta saatavan lihan määrä.</MeatAmount.description>
+  <MeatAmount.description>Tämän olennon teurastamisesta saatavan lihan määrä.</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>

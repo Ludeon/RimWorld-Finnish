@@ -10,7 +10,7 @@
   <BreakRiskMajor>Suuren hermoromahduksen riski</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Äärimmäisen hermoromahduksen riski</BreakRiskExtreme>
-  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} --> 
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>Nämä yhdyskuntalaiset ovat huonolla tuulella ja saattavat kokea pienen hermoromahduksen milloin tahansa:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
   <BreakRiskMajorDesc>Nämä yhdyskuntalaiset ovat erittäin huonolla tuulella ja saattavat kokea suuren hermoromahduksen milloin tahansa:\n\n{0}</BreakRiskMajorDesc>

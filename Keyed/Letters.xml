@@ -104,7 +104,7 @@
   <StruckMineable>Olemme osuneet {0}esiintymään!</StruckMineable>
 
   <!-- EN: {0} revenge -->
-  <LetterLabelAnimalManhunterRevenge>{0} kosto</LetterLabelAnimalManhunterRevenge>
+  <LetterLabelAnimalManhunterRevenge>{0} kostaa</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
   <AnimalManhunterFromDamage>{1_indefinite} hyökkää tultuaan vahingoitetuksi!\n\nSe metsästää kaikkia ihmisiä joita näkee. Se rauhoittuu kun se menee nukkumaan.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
