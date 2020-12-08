@@ -2,24 +2,33 @@
 <LanguageData>
   
   <!-- EN: Toggle eläimet tab -->
-  <MainTab_Animals.label>eläimet-välilehti päälle tai pois</MainTab_Animals.label>
+  <MainTab_Animals.label>Eläimet-välilehti päälle tai pois</MainTab_Animals.label>
   
   <!-- EN: Toggle arkkitehti tab -->
-  <MainTab_Architect.label>arkkitehti-välilehti päälle tai pois</MainTab_Architect.label>
+  <MainTab_Architect.label>Arkkitehti-välilehti päälle tai pois</MainTab_Architect.label>
   
   <!-- EN: Toggle määräykset tab -->
-  <MainTab_Assign.label>määräykset-välilehti päälle tai pois</MainTab_Assign.label>
+  <MainTab_Assign.label>Määräykset-välilehti päälle tai pois</MainTab_Assign.label>
   
   <!-- EN: Toggle historia tab -->
-  <MainTab_History.label>historia-välilehti päälle tai pois</MainTab_History.label>
+  <MainTab_History.label>Historia-välilehti päälle tai pois</MainTab_History.label>
+  
+  <!-- EN: Toggle tehtävät tab -->
+  <MainTab_Quests.label>Tehtävät-välilehti päälle tai pois</MainTab_Quests.label>
+  
+  <!-- EN: Toggle tutkimus tab -->
+  <MainTab_Research.label>Tutkimus-välilehti päälle tai pois</MainTab_Research.label>
   
   <!-- EN: Toggle aikataulu tab -->
-  <MainTab_Restrict.label>aikataulu-välilehti päälle tai pois</MainTab_Restrict.label>
+  <MainTab_Restrict.label>Aikataulu-välilehti päälle tai pois</MainTab_Restrict.label>
+  
+  <!-- EN: Toggle villieläimet tab -->
+  <MainTab_Wildlife.label>Villieläimet-välilehti päälle tai pois</MainTab_Wildlife.label>
   
   <!-- EN: Toggle työnteko tab -->
-  <MainTab_Work.label>työnteko-välilehti päälle tai pois</MainTab_Work.label>
+  <MainTab_Work.label>Työnteko-välilehti päälle tai pois</MainTab_Work.label>
   
   <!-- EN: Toggle maailma tab -->
-  <MainTab_World.label>maailma-välilehti päälle tai pois</MainTab_World.label>
+  <MainTab_World.label>Maailma-välilehti päälle tai pois</MainTab_World.label>
   
 </LanguageData>

@@ -23,7 +23,7 @@
   <!-- EN: Please build wooden beds inside the room. -->
   <BuildBeds.rejectInputMessage>Ole hyvä ja rakenna puisia sänkyjä huoneeseen.</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>Yhdyskuntalaisesi rakentavat nyt huoneen!\n\nNyt he tarvitsevat nukkumapaikan. Laita kolme SÄNKYÄ huoneeseen.\n\nLöydät ne HUONEKALUT-kategoriasta.</BuildBeds.text>
+  <BuildBeds.text>Yhdyskuntalaisesi rakentavat nyt huoneen!\n\nNyt he tarvitsevat nukkumapaikan. Laita kolme SÄNKYÄ huoneeseen.\n\nLöydät ne HUONEKALUT-kategoriasta.\n\nVoit käyttää {Key:Designator_RotateLeft}- ja {Key:Designator_RotateRight}-näppäimiä rakennuksen käätämiseen.</BuildBeds.text>
   
   <!-- EN: Build a fueled stove inside the room -->
   <BuildFueledStove.onMapInstruction>Rakenna puuliesi huoneeseen</BuildFueledStove.onMapInstruction>
@@ -175,9 +175,9 @@
   <RandomizeCharacter.text>Nyt luot hahmot!\n\nKokeile satunnaistaa hahmo SATUNNAISTA-napilla.</RandomizeCharacter.text>
   
   <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
-  <ReorderCharacters.rejectInputMessage>TODO</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.rejectInputMessage>Ole hyvä ja vedä henkilö "hylätty"-ryhmästä (vasemmalla alhaalla) "valittu"-ryhmään (vasemmalla ylhäällä).</ReorderCharacters.rejectInputMessage>
   <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
-  <ReorderCharacters.text>TODO</ReorderCharacters.text>
+  <ReorderCharacters.text>Nyt valitset henkilöt, joita haluat käyttää.\n\nVEDÄ henkilö hahmoluettelon "hylätty"-osasta (alhaalta) "valittu"-osaan (ylhäällä).\n\nVoit tarkastella henkilön tietoja napsauttamalla häntä.</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>Ole hyvä ja valitse tutkimusprojekti.</SelectResearchProject.rejectInputMessage>
