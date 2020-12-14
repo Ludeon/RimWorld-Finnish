@@ -8,7 +8,7 @@ Translation report for Finnish
 
 ========== Missing keyed translations (0) ==========
 
-========== Def-injected translations missing (5129) ==========
+========== Def-injected translations missing (5118) ==========
 BodyDef: Lancer.label 'lancer' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Lancer.corePart.parts.right_mechanical_shoulder.customLabel 'right mechanical shoulder' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.label 'pikeman' (placeholder exists in Bodies_Mechanoid.xml)
@@ -2755,17 +2755,6 @@ RulePackDef: Transition_DiedExplosive.rulePack.rulesStrings.23 'pieces->pieces' 
 RulePackDef: Transition_DiedExplosive.rulePack.rulesStrings.24 'pieces->fragments' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Transitions.xml)
 RulePackDef: Transition_DiedExplosive.rulePack.rulesStrings.25 'everywhere->everywhere' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Transitions.xml)
 RulePackDef: Transition_DiedExplosive.rulePack.rulesStrings.26 'everywhere->far and wide' (hint: this list allows full-list translation by using <li> nodes) (placeholder exists in RulePacks_Transitions.xml)
-ScenarioDef: Tutorial.label 'tutorial' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: Tutorial.description 'The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld.' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: Tutorial.scenario.description 'The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld.' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: Tutorial.scenario.name 'tutorial' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: Tutorial.scenario.summary 'Three crashlanded survivors - the classic RimWorld experience.' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: NakedBrutality.label 'Naked Brutality' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: NakedBrutality.description 'You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason.' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: NakedBrutality.scenario.description 'You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason.' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: NakedBrutality.scenario.name 'Naked Brutality' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: NakedBrutality.scenario.parts.GameStartDialog.text 'It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive?' (placeholder exists in Scenarios_Classic.xml)
-ScenarioDef: NakedBrutality.scenario.summary 'Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair.' (placeholder exists in Scenarios_Classic.xml)
 ScenPartDef: Naked.label 'naked' (placeholder exists in ScenParts_Various.xml)
 SitePartDef: AmbushEdge.label 'ambush' (placeholder exists in AmbushEdge.xml)
 SitePartDef: AmbushEdge.description 'An ambush.' (placeholder exists in AmbushEdge.xml)
