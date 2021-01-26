@@ -55,7 +55,7 @@
     <li>terrain_word(p=6)->lahti</li>
     <li>terrain_word->merenlahti</li>
     <li>terrain_word->poukama</li>
-    </NamerBay.rulePack.rulesStrings>
+  </NamerBay.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -74,7 +74,7 @@
     <li>terrain_word->tiheikkö</li>
     <li>terrain_word->männikkö</li>
     <li>terrain_word->kuusikko</li>
-    </NamerBorealForest.rulePack.rulesStrings>
+  </NamerBorealForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
@@ -121,7 +121,7 @@
     <li>terrain_word->autiomaa</li>
     <li>terrain_word->erämaa</li>
     <li>terrain_word->joutomaa</li>
-    </NamerDesert.rulePack.rulesStrings>
+  </NamerDesert.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -134,7 +134,7 @@
     <li>terrain_word->lehto</li>
     <li>terrain_word->metsikkö</li>
     <li>terrain_word->tiheikkö</li>
-    </NamerForest.rulePack.rulesStrings>
+  </NamerForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->sheet</li>
@@ -151,7 +151,7 @@
     <li>terrain_word->jääpeite</li>
     <li>terrain_word(p=0.5)->jäälakeus</li>
     <li>terrain_word(p=0.3)->kenttä</li>
-    </NamerIceSheet.rulePack.rulesStrings>
+  </NamerIceSheet.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
@@ -170,7 +170,7 @@
     <li>terrain_word->atolli</li>
     <li>terrain_word->kari</li>
     <li>terrain_word->luoto</li>
-    </NamerIsland.rulePack.rulesStrings>
+  </NamerIsland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
@@ -191,7 +191,7 @@
     <li>terrain_word->vesiallas</li>
     <li>terrain_word(p=0.3)->lätäkkö</li>
     <li>terrain_word(p=0.3)->laguuni</li>
-    </NamerLake.rulePack.rulesStrings>
+  </NamerLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->mount [narrative_name]</li>
@@ -206,7 +206,7 @@
     <li>terrain_word(p=2)->vuorijono</li>
     <li>terrain_word->kukkula</li>
     <li>terrain_word->kallio</li>
-    </NamerMountainRange.rulePack.rulesStrings>
+  </NamerMountainRange.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
@@ -242,7 +242,7 @@
     <li>ocean_adjective->aaltoileva</li>
     <li>terrain_word(p=6)->valtameri</li>
     <li>terrain_word(p=3)->meri</li>
-    </NamerOcean.rulePack.rulesStrings>
+  </NamerOcean.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
@@ -258,7 +258,7 @@
     <li>terrain_word(p=2)->niemi</li>
     <li>terrain_word->niemeke</li>
     <li>terrain_word->niemenkärki</li>
-    </NamerPeninsula.rulePack.rulesStrings>
+  </NamerPeninsula.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->lake [narrative_name]</li>
@@ -270,7 +270,7 @@
     <li>terrain_word(p=6)->meri</li>
     <li>terrain_word->valtameri</li>
     <li>terrain_word->järvi</li>
-    </NamerSea.rulePack.rulesStrings>
+  </NamerSea.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->fen [narrative_name]</li>
@@ -306,7 +306,7 @@
     <li>terrain_word->neva</li>
     <li>terrain_word->marskimaa</li>
     <li>terrain_word->suomaa</li>
-    </NamerSwamp.rulePack.rulesStrings>
+  </NamerSwamp.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
@@ -336,7 +336,7 @@
     <li>terrain_word->lehto</li>
     <li>terrain_word->metsikkö</li>
     <li>terrain_word->ryteikkö</li>
-    </NamerTropicalRainforest.rulePack.rulesStrings>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>
@@ -358,7 +358,7 @@
     <li>terrain_word->pensaikko</li>
     <li>terrain_word->pensasmaa</li>
     <li>terrain_word->preeria</li>
-    </NamerTundra.rulePack.rulesStrings>
+  </NamerTundra.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[narrative_name] [terrain_word]</li>
