@@ -1,5 +1,5 @@
 al
-kaikki
+all
 an
 ja
 ar
@@ -61,4 +61,4 @@ ver
 wa
 oli
 wit
-sinä
+you
