@@ -4910,7 +4910,7 @@ WorkTypeDef: BasicWorker.verb 'Deal with' (placeholder exists in WorkTypes.xml)
 WorldObjectDef: PeaceTalks.label 'peace talks' (placeholder exists in WorldObjects.xml)
 WorldObjectDef: PeaceTalks.description 'A site designated for peace talks.' (placeholder exists in WorldObjects.xml)
 
-========== Backstory translations missing (762) ==========
+========== Backstory translations missing (757) ==========
 AbandonedChild23.desc missing
 AbandonedChild30.desc missing
 AbandonedOrphan61.desc missing
@@ -5170,8 +5170,6 @@ ForestProwler15.desc missing
 FoundryApprentice76.desc missing
 Framer37.desc missing
 Freethinker38.desc missing
-FrontierMarshal27.title missing
-FrontierMarshal27.titleShort missing
 FrontierMarshal27.desc missing
 FrontierMarshal54.desc missing
 Fugitive4.desc missing
@@ -5609,10 +5607,7 @@ UrbanLordling82.desc missing
 UrbworldArmyBrat84.desc missing
 UrbworldChild56.desc missing
 UrbworldCriminal80.desc missing
-UrbworldDrone32.titleShort missing
 UrbworldDrone32.desc missing
-UrbworldEnforcer11.title missing
-UrbworldEnforcer11.titleShort missing
 UrbworldEnforcer11.desc missing
 UrbworldHooligan12.desc missing
 UrbworldPimp93.desc missing

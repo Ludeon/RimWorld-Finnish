@@ -2424,9 +2424,9 @@
   
   <FrontierMarshal27>
     <!-- EN: frontier marshal -->
-    <title>TODO</title>
+    <title>etulinjan marsalkka</title>
     <!-- EN: marshal -->
-    <titleShort>TODO</titleShort>
+    <titleShort>marsalkka</titleShort>
     <!-- EN: [PAWN_nameDef] was the marshal of [PAWN_possessive] colony. [PAWN_pronoun] tried to honorably uphold the law, but the corrupt local mayor killed [PAWN_possessive] family and left [PAWN_objective] for dead.\n\nAfter regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PAWN_pronoun] left [PAWN_possessive] homeworld and started a new life working to make a difference in the universe. -->
     <desc>TODO</desc>
   </FrontierMarshal27>
@@ -6631,18 +6631,18 @@
   
   <UrbworldDrone32>
     <!-- EN: urbworld drone -->
-    <title>urbimaailman</title>
+    <title>urbimaailman kuhnuri</title>
     <!-- EN: drone -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kuhnuri</titleShort>
     <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
     <desc>TODO</desc>
   </UrbworldDrone32>
   
   <UrbworldEnforcer11>
     <!-- EN: urbworld enforcer -->
-    <title>TODO</title>
+    <title>urbimaailman valvoja</title>
     <!-- EN: enforcer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>valvoja</titleShort>
     <!-- EN: [PAWN_nameDef] was an enforcer of law on an ancient urbworld.\n\n[PAWN_pronoun] dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive. -->
     <desc>TODO</desc>
   </UrbworldEnforcer11>
