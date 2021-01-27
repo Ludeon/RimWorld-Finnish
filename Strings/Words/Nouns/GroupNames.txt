@@ -3,16 +3,18 @@ miehistö
 ryhmä
 yhtiö
 tiimi
-pakkaus
+lauma
 armeija
-juhla
-bändi
+seurue
+joukko
+joukkue
+yhtye
 kamppeet
 organisaatio
-jonottaja
+jono
 yksikkö
-eripurainen
+ryhmittymä
 jengi
-asu
+porukka
 kumppanit
 

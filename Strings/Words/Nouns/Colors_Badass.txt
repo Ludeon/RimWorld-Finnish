@@ -3,8 +3,8 @@
 punainen
 musta
 harmaa
-tuhka
+tuhkanharmaa
 
 tumma
-varjo
-yö
+varjoinen
+öinen

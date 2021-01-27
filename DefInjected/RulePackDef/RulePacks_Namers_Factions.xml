@@ -70,12 +70,12 @@
   <NamerFactionPirate.rulePack.rulesStrings>
     <li>r_name->[AnimalBadass]lauma</li>
     <li>r_name->[AnimalBadass]miehet</li>
-    <li>r_name->[ConceptBadass][AnimalBadass]lauma</li>
-    <li>r_name->[ConceptBadass][NamePerson][groupname]</li>
+    <li>r_name->[ConceptBadass_Gen] [AnimalBadass]lauma</li>
+    <li>r_name->[ConceptBadass_Gen] [NamePerson][groupname]</li>
     <li>r_name->[NamePerson][groupname]</li>
     <li>r_name->[Weapon]miehet</li>
     <li>r_name->[Weapon][groupname]</li>
-    <li>r_name->[Weapon][AnimalBadass]lauma</li>
+    <li>r_name->[ConceptBadass_Gen] [Weapon][groupname]</li>
     <li>r_name->[ColorBadass] [Weapon][groupname]</li>
     <li>r_name->[ColorBadass] [AnimalBadass]lauma</li>
     <li>r_name->[ColorBadass] [NamePerson][groupname]</li>
@@ -83,9 +83,8 @@
     <li>r_name->[AdjectiveBadass] [groupname]</li>
     <li>r_name->[AdjectiveBadass] [AnimalBadass]lauma</li>
     <li>r_name->[AdjectiveBadass] [NamePerson][groupname]</li>
-    <li>r_name->[Weapon][groupname]</li>
-    <li>r_name->[ConceptBadass][groupname]</li>
-    <li>r_name->[ConceptBadass][groupname]</li>
+    <li>r_name->[ConceptBadass_Gen] [groupname]</li>
+    <li>r_name->[ConceptBadass_Gen] [groupname]</li>
   </NamerFactionPirate.rulePack.rulesStrings>
   
   <!-- EN:
