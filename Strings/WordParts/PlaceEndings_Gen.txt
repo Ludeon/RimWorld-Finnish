@@ -1,4 +1,4 @@
-﻿ssen
+﻿sen
 
 harjun
 heiton
@@ -14,7 +14,7 @@ lammen
 linnan
 maan
 markun
-mäken
+mäen
 niemen
 nivan
 perän
