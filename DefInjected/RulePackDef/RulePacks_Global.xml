@@ -53,12 +53,14 @@
     <li>ColorBadass->Words/Nouns/Colors_Badass</li>
     <li>Vegetable->Words/Nouns/Vegetables</li>
     <li>Game->Words/Nouns/Games</li>
+    <li>Tool->Words/Nouns/Tools</li>
     <li>Animal->Words/Nouns/Animals</li>
     <li>Animal_Gen->Words/Nouns/Animals_Gen</li>
     <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
     <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
     <li>Weapon->Words/Nouns/Weapons</li>
     <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>TerrainFeature_Gen->Words/Nouns/TerrainFeatures_Gen</li>
     <li>NaturalObject->Words/Nouns/NaturalObject</li>
     <li>NaturalObject_Gen->Words/Nouns/NaturalObject_Gen</li>
     <li>TreeType->Words/Nouns/TreeTypes</li>

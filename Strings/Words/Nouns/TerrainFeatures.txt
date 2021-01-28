@@ -1,10 +1,10 @@
-//exclude the ones in PlaceEndings.txt
+//exclude the ones in PlaceEndings.txt, cannot start with a vowel
 tasanko
 lakeus
 nurmi
 //tasanko
 preeria
-autiomaa
+//autiomaa
 pelto
 
 metsä
@@ -12,7 +12,7 @@ kaktus
 puu
 puska
 pensaikko
-okapensas
+//okapensas
 
 siirtolohkare
 kallio
@@ -24,7 +24,7 @@ vuori
 pöytävuori
 //kallio
 jyrkänne
-kallionkieleke
+kieleke
 selänne
 laakso
 kanjoni
@@ -42,13 +42,13 @@ puro
 //puro
 salmi
 //tulo
-ääne
+//ääne
 //lahti
 
 //järvi
 meri
 //lampi
-allas
+//allas
 laguuni
 kuoppa
 //suo

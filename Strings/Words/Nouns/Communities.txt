@@ -1,15 +1,12 @@
+//cannot start with a vowel and no compound words
 kylä
 kylä
-kylä
 kaupunki
 kaupunki
-kaupunki
-kauppala
-kauppala
-Hamlet
-levähdysalue
-kunta
-kaupunginosa
-pikkukaupunki
-yhteisö
-kaupunki
+//kaupunkikunta
+//pikkukylä
+lähiö
+//suurkaupunki
+//asuinpaikka
+leiri
+//leirintäalue

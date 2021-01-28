@@ -125,10 +125,10 @@
     <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
   -->
   <NamerFactionTribal.rulePack.rulesStrings>
-    <li>r_name->[WordTribal] [political_union_tribal]</li>
-    <li>r_name->[Color] [TerrainFeature] [political_union_tribal]</li>
-    <li>r_name->[Color] [Animal] [WordTribal]</li>
-    <li>r_name->[TerrainFeature] [political_union_tribal]</li>
+    <li>r_name->[WordTribal]-[political_union_tribal]</li>
+    <li>r_name->[Color_Gen] [TerrainFeature_Gen] [political_union_tribal]</li>
+    <li>r_name->[Color_Gen] [Animal_Gen] [WordTribal]-[political_union_tribal]</li>
+    <li>r_name->[TerrainFeature_Gen] [political_union_tribal]</li>
   </NamerFactionTribal.rulePack.rulesStrings>
   
   <!-- EN:
@@ -199,8 +199,12 @@
   -->
   <NamerSettlementOutlander.rulePack.rulesStrings>
     <li>r_name->[townname_wordgen]</li>
-    <li>townname_wordgen->[topicalnoun][place_end]</li>
-    <li>townname_wordgen->[TerrainFeature][place_end]</li>
+    <li>topicalnoun->[Vegetable]</li>
+    <li>topicalnoun->[Tool]</li>
+    <li>topicalnoun->[BodyPart]</li>
+    <li>townname_wordgen(p=3)->[topicalnoun][place_end]</li>
+    <li>townname_wordgen(p=3)->[TerrainFeature][place_end]</li>
+    <li>townname_wordgen->[TerrainFeature][Community]</li>
     <li>townname_wordgen->[SylF][SylF][place_end]</li>
     <li>townname_wordgen->[SylF][SylF][SylF][place_end]</li>
     <li>townname_wordgen->[SylF][SylF]</li>
@@ -249,7 +253,24 @@
     <li>townendevil->thard</li>
     <li>townendevil->thad</li>
   -->
-  <NamerSettlementPirate.rulePack.rulesStrings>TODO</NamerSettlementPirate.rulePack.rulesStrings>
+  <NamerSettlementPirate.rulePack.rulesStrings>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_combo->[AnimalBadass][geography]</li>
+    <li>geography(p=2)->[TerrainFeature]</li>
+    <li>geography->[Community]</li>
+    <li>townname_wordgen->[SylF][SylF]</li>
+    <li>townname_wordgen->[SylF][SylF][SylF]</li>
+    <li>townname_wordgen->[SylF][townendevil]</li>
+    <li>townname_wordgen->[SylF][SylF][townendevil]</li>
+    <li>townendevil->piina</li>
+    <li>townendevil->repeämä</li>
+    <li>townendevil->salpa</li>
+    <li>townendevil->varsi</li>
+    <li>townendevil->polte</li>
+    <li>townendevil->viilto</li>
+    <li>townendevil->pesä</li>
+  </NamerSettlementPirate.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[WordTribal]</li>
@@ -257,6 +278,11 @@
     <li>r_name->[Color] [TerrainFeature]</li>
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   -->
-  <NamerSettlementTribal.rulePack.rulesStrings>TODO</NamerSettlementTribal.rulePack.rulesStrings>
+  <NamerSettlementTribal.rulePack.rulesStrings>
+    <li>r_name(p=2)->[WordTribal]</li>
+    <li>r_name->[Color] [WordTribal]</li>
+    <li>r_name->[Color] [TerrainFeature]</li>
+    <li>r_name->[WordTribal]-[TerrainFeature]</li>
+  </NamerSettlementTribal.rulePack.rulesStrings>
   
 </LanguageData>

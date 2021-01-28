@@ -1,3 +1,4 @@
+//cannot end with -nen
 hirvibiisoni
 paukkurotta
 megascarab
@@ -11,11 +12,11 @@ iguaani
 maasika
 alligaattori
 alpakka
-muurahainen
+//muurahainen
 muurahaiskarhu
 antilooppi
 apina
-vyötiäinen
+//vyötiäinen
 aasi
 paviaani
 mäyrä
@@ -47,7 +48,7 @@ dinosaurus
 koira
 delfiini
 aasi
-kyyhkynen
+//kyyhkynen
 kotka
 nokkasiili
 ankerias
@@ -79,9 +80,9 @@ siili
 haikara
 silli
 virtahepo
-herhiläinen
-hevonen
-ihminen
+//herhiläinen
+//hevonen
+//ihminen
 kolibri
 hyeena
 ibis
@@ -113,7 +114,7 @@ mangusti
 apina
 hirvi
 hiiri
-hyttynen
+//hyttynen
 muuli
 sarvivalas
 vesilisko
@@ -132,10 +133,10 @@ pelikaani
 pingviini
 fasaani
 sika
-kyyhkynen
+//kyyhkynen
 piikkisika
-pyöriäinen
-viiriäinen
+//pyöriäinen
+//viiriäinen
 kani
 pesukarhu
 pässi
@@ -147,14 +148,14 @@ salamanteri
 lohi
 sardiini
 skorpioni
-merihevonen
+//merihevonen
 hylje
 hai
-päästäinen
+//päästäinen
 haisunäätä
 etana
 käärme
-varpunen
+//varpunen
 hämähäkki
 kalmari
 keihäsrausku
@@ -173,7 +174,7 @@ kyykäärme
 myyrä
 korppikotka
 mursu
-ampiainen
+//ampiainen
 lumikko
 valas
 ahma

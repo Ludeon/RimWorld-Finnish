@@ -1,6 +1,6 @@
 pokeri
 shakki
-kortit
+//kortit
 backgammon
 noppa
 noppapeli
