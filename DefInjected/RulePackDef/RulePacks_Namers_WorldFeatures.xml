@@ -423,15 +423,14 @@
   -->
   <WorldFeatureNamerCommon.rulePack.rulesStrings>
     <li>r_name(p=4)->[narrative_name]-[terrain_word]</li>
-    <li>r_name(p=2)->[compound_name] -[terrain_word]</li>
+    <li>r_name(p=2)->[narrative_gen] [terrain_word]</li>
     <li>r_name->[color_name] [terrain_word]</li>
     <li>narrative_name->[WordTribal]</li>
-    <li>narrative_name->[PlaceOutlander]</li>
-    <li>compound_name->[Color] [NaturalObject]</li>
-    <li>compound_name->[AdjectiveNatural] [NaturalObject]</li>
-    <li>compound_name->[Color] [Animal]</li>
-    <li>compound_name->[AdjectiveNatural] [Animal]</li>
-    <li>compound_name->[AdjectiveNatural] [BodyPart]</li>
+    <li>narrative_gen->[Color_Gen] [NaturalObject_Gen]</li>
+    <li>narrative_gen->[AdjectiveNatural_Gen] [NaturalObject_Gen]</li>
+    <li>narrative_gen->[Color_Gen] [Animal_Gen]</li>
+    <li>narrative_gen->[AdjectiveNatural_Gen] [Animal_Gen]</li>
+    <li>narrative_gen->[AdjectiveNatural_Gen] [BodyPart_Gen]</li>
     <li>color_name->[Color]</li>
   </WorldFeatureNamerCommon.rulePack.rulesStrings>
   

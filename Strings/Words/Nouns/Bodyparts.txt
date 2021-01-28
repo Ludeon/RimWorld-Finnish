@@ -21,7 +21,7 @@ sormi
 kynsi
 //talon
 siipi
-lonkka
+lantio
 jalka
 polvi
 nilkka

@@ -1,7 +1,18 @@
+//Common with tribals
+liitto
 kansakunta
 valtioliitto
-valtioliitto
+//valtioliitto
 liittouma
-sukulaisuus
+sukulaisliitto
+//liitto
+yhteenliittymä
+kokoomus
+sopimus
+puollustussopimus
+kovenantti
+
+//Tribe specific
+//sukulaisliitto
 ihmiset
 heimo

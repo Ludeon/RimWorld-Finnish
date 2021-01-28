@@ -9,7 +9,18 @@
     <li>PlaceOutlander->[SylE][SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][SylE][SylE][place_end]</li>
   -->
-  <OutlanderPlaceNameUtility.rulePack.rulesStrings>TODO</OutlanderPlaceNameUtility.rulePack.rulesStrings>
+  <OutlanderPlaceNameUtility.rulePack.rulesStrings>
+    <li>PlaceOutlander->[SylF][SylF]</li>
+    <li>PlaceOutlander->[SylF][SylF][SylF]</li>
+    <li>PlaceOutlander->[SylF][SylF][place_end]</li>
+    <li>PlaceOutlander->[SylF][SylF][SylF][place_end]</li>
+    <li>PlaceOutlander(p=2)->[TerrainFeature][place_end]</li>
+    <li>PlaceOutlander(p=2)->[topicalnoun][place_end]</li>
+    <li>PlaceOutlander_Gen->[SylF][SylF][place_end_Gen]</li>
+    <li>PlaceOutlander_Gen->[SylF][SylF][SylF][place_end_Gen]</li>
+    <li>PlaceOutlander_Gen(p=2)->[TerrainFeature][place_end_Gen]</li>
+    <li>PlaceOutlander_Gen(p=2)->[topicalnoun][place_end_Gen]</li>
+  </OutlanderPlaceNameUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>WordTribal(p=3)->[tribal_word_file]</li>

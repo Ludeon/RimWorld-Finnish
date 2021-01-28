@@ -1,0 +1,31 @@
+﻿//Intended as small-scale objects, not major terrain formations
+//Includes animal, vegetable, and mineral
+kallion
+kiven
+lohkareen
+puun
+pensaan
+puskan
+lammen
+altaan
+järven
+kukkulan
+luolan
+kannon
+kotilon
+höyhenen
+siemenen
+puunrungon
+hedelmän
+neulan
+kuoriaisen
+ötökän
+kavion
+kynnen
+hännän
+vuodan
+nahan
+sarven
+hampaan
+siiven
+metsän

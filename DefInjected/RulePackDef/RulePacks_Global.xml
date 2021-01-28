@@ -46,17 +46,21 @@
     <li>Letter->WordParts/CapitalLetters</li>
     <li>SylB->WordParts/Syllables_Byzantinian</li>
     <li>SylE->WordParts/Syllables_English</li>
+    <li>SylF->WordParts/Syllables_Finnish</li>
     <li>SylG->WordParts/Syllables_Galician</li>
     <li>Color->Words/Nouns/Colors</li>
+    <li>Color_Gen->Words/Nouns/Colors_Gen</li>
     <li>ColorBadass->Words/Nouns/Colors_Badass</li>
     <li>Vegetable->Words/Nouns/Vegetables</li>
     <li>Game->Words/Nouns/Games</li>
     <li>Animal->Words/Nouns/Animals</li>
+    <li>Animal_Gen->Words/Nouns/Animals_Gen</li>
     <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
     <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
     <li>Weapon->Words/Nouns/Weapons</li>
     <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
     <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>NaturalObject_Gen->Words/Nouns/NaturalObject_Gen</li>
     <li>TreeType->Words/Nouns/TreeTypes</li>
     <li>PersonJob->Words/Nouns/People_Jobs</li>
     <li>PersonFamily->Words/Nouns/People_Family</li>
@@ -72,13 +76,17 @@
     <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
     <li>Community->Words/Nouns/Communities</li>
     <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>BodyPart_Gen->Words/Nouns/Bodyparts_Gen</li>
     <li>AdjectiveLarge->Words/Adjectives/Large</li>
     <li>AdjectiveBadass->Words/Adjectives/Badass</li>
     <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
     <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
     <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>AdjectiveNatural_Gen->Words/Adjectives/Natural_Gen</li>
     <li>VerbFriendly->Words/Verbs/Friendly</li>
     <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+    <li>place_end->WordParts/PlaceEndings</li>
+    <li>place_end_Gen->WordParts/PlaceEndings_Gen</li>
   </GlobalUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>Trans->of</li>

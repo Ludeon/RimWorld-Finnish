@@ -1,18 +1,21 @@
-﻿liitto
+﻿//Common with tribals
+liitto
 kansakunta
 valtioliitto
-valtioliitto
-valta
-liiga
+//valtioliitto
 liittouma
-liitto
+sukulaisliitto
+//liitto
+yhteenliittymä
+kokoomus
+sopimus
+puollustussopimus
+kovenantti
+
+//Outlander specific (different from empire)
 liittovaltio
-kompakti
-sopimus
+liiga
+pakti
 koalitio
-sopu
-sukulaisten liiga
-sopimus
-sopimus
-yhdistäminen
-yhdistyminen
+yhdistys
+yhdistymä
