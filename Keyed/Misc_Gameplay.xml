@@ -343,7 +343,7 @@
   <!-- EN: {0} in winter -->
   <MovementDifficultyOffsetInWinter>{0} talvella</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>kohteeseen</RangeTo>
+  <RangeTo>-</RangeTo>
   <!-- EN: No letter -->
   <NoDietCategoryLetter>Ei kirjainta</NoDietCategoryLetter>
   <!-- EN: Expires in -->
