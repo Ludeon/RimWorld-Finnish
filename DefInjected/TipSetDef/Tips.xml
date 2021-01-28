@@ -118,7 +118,7 @@
   <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
   <GameplayTips.MultipleResearchers>Voit saada useita tutkijoita työskentelemään samanaikaisesti käyttämällä useita tutkimuspöytiä.</GameplayTips.MultipleResearchers>
   <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
-  <GameplayTips.GeysersHeatRooms>Geysrit lämmittävät huoneita suljetuissa tiloissa. Tämä voi olla vaarallista tai hyödyllistä.</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.GeysersHeatRooms>Geysirit lämmittävät huoneita suljetuissa tiloissa. Tämä voi olla vaarallista tai hyödyllistä.</GameplayTips.GeysersHeatRooms>
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
   <GameplayTips.ExtinguishFireArtillery>Räjähdykset sammuttavat tulipalot räjähdyssäteellään. Tämä tekee tykistön kranaateista hyödyllisiä tulipalojen pysäyttämiseen, kun muuta vaihtoehtoa ei ole.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
