@@ -8,7 +8,7 @@ Translation report for Finnish
 
 ========== Missing keyed translations (0) ==========
 
-========== Def-injected translations missing (4771) ==========
+========== Def-injected translations missing (4711) ==========
 BodyDef: Lancer.label 'lancer' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Lancer.corePart.parts.right_mechanical_shoulder.customLabel 'right mechanical shoulder' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.label 'pikeman' (placeholder exists in Bodies_Mechanoid.xml)
@@ -232,7 +232,6 @@ HediffDef: MuscleParasites.description 'Parasitic creatures in the muscles. Thes
 HediffDef: FibrousMechanites.description 'Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites.' (placeholder exists in Hediffs_Local_Infections.xml)
 HediffDef: SensoryMechanites.description 'Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites.' (placeholder exists in Hediffs_Local_Infections.xml)
 HediffDef: WoundInfection.description 'Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves.' (placeholder exists in Hediffs_Local_Infections.xml)
-HediffDef: WoundInfection.labelNoun 'an infection' (placeholder exists in Hediffs_Local_Infections.xml)
 HediffDef: Flu.description 'An infectious disease caused by the influenza virus.' (placeholder exists in Hediffs_Local_Infections.xml)
 HediffDef: Animal_Flu.description 'An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species.' (placeholder exists in Hediffs_Local_Infections.xml)
 HediffDef: Plague.description 'An infectious disease caused by bacteria.' (placeholder exists in Hediffs_Local_Infections.xml)
@@ -243,66 +242,20 @@ HediffDef: MissingBodyPart.description 'A body part is entirely missing.' (place
 HediffDef: MissingBodyPart.labelNoun 'a missing body part' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: MissingBodyPart.labelNounPretty 'missing a {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Misc.description 'Miscellanous injuries.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Misc.labelNoun 'an injury' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Misc.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Burn.description 'A burn.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Burn.comps.HediffComp_GetsPermanent.permanentLabel 'burn scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Burn.labelNoun 'a burn' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Burn.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ChemicalBurn.label 'chemical burn' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: ChemicalBurn.description 'A chemical burn.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel 'chemical burn scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ChemicalBurn.injuryProps.destroyedLabel 'Burned off (chemical)' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ChemicalBurn.injuryProps.destroyedOutLabel 'Burned out (chemical)' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ChemicalBurn.labelNoun 'a chemical burn' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ChemicalBurn.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Crush.description 'A crushing wound.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Crush.comps.HediffComp_GetsPermanent.permanentLabel 'mangled scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Crush.labelNoun 'a crush wound' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Crush.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Crack.description 'A crack.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Crack.comps.HediffComp_GetsPermanent.permanentLabel 'permanent crack' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Crack.labelNoun 'a crack wound' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Crack.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Cut.description 'A cut.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Cut.comps.HediffComp_GetsPermanent.permanentLabel 'cut scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Cut.labelNoun 'a cut' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Cut.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: SurgicalCut.description 'A cut made during surgery.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel 'surgical scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: SurgicalCut.labelNoun 'a surgical cut' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: SurgicalCut.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ExecutionCut.label 'cut' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: ExecutionCut.description 'A cut made during execution.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ExecutionCut.labelNoun 'a cut' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: ExecutionCut.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Scratch.description 'A scratch or tear.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Scratch.comps.HediffComp_GetsPermanent.permanentLabel 'scratch scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Scratch.labelNoun 'a scratch' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Scratch.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Bite.description 'A bite wound.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Bite.comps.HediffComp_GetsPermanent.permanentLabel 'bite scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Bite.labelNoun 'a bite wound' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Bite.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Stab.description 'A stab wound.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Stab.comps.HediffComp_GetsPermanent.permanentLabel 'stab scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Stab.labelNoun 'a stab wound' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Stab.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Gunshot.description 'A gunshot wound.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel 'permanent gunshot injury' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Gunshot.comps.HediffComp_GetsPermanent.permanentLabel 'old gunshot' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Gunshot.labelNoun 'a gunshot wound' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Gunshot.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Shredded.description 'A part of the body has been shredded and torn.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Shredded.comps.HediffComp_GetsPermanent.permanentLabel 'shredded scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Shredded.labelNoun 'a shredded wound' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Shredded.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Bruise.description 'A bruise.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Bruise.labelNoun 'a bruise' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Bruise.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: Frostbite.description 'Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Frostbite.comps.HediffComp_GetsPermanent.permanentLabel 'frostbite scar' (placeholder exists in Hediffs_Local_Injuries.xml)
-HediffDef: Frostbite.labelNounPretty '{0} in the {1}' (placeholder exists in Hediffs_Local_Injuries.xml)
 HediffDef: TraumaSavant.description 'An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.' (placeholder exists in Hediffs_Local_Misc.xml)
 HediffDef: TraumaSavant.labelNoun 'trauma' (placeholder exists in Hediffs_Local_Misc.xml)
 HediffDef: ChemicalDamageModerate.label 'chemical damage' (placeholder exists in Hediffs_Local_Misc.xml)
@@ -1079,19 +1032,8 @@ RecipeDef: Make_Pemmican.jobString 'Making pemmican.' (placeholder exists in Rec
 RecipeDef: Make_PemmicanBulk.label 'make pemmican x4' (placeholder exists in Recipes_Food.xml)
 RecipeDef: Make_PemmicanBulk.description 'Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration.' (placeholder exists in Recipes_Food.xml)
 RecipeDef: Make_PemmicanBulk.jobString 'Making bulk pemmican.' (placeholder exists in Recipes_Food.xml)
-RecipeDef: CookMealSimpleBulk.label 'cook simple meal x4' (placeholder exists in Recipes_Meals.xml)
 RecipeDef: CookMealSimpleBulk.description 'Cook 4 straightforward meals from one ingredient.' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealSimpleBulk.jobString 'Cooking 4 simple meals.' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealFineBulk.label 'cook fine meal x4' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealFineBulk.description 'Cook 4 somewhat complex meals from a combination of meat and plant ingredients.' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealFineBulk.jobString 'Cooking 4 fine meals.' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealLavishBulk.label 'cook lavish meal x4' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealLavishBulk.description 'Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted.' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealLavishBulk.jobString 'Cooking 4 lavish meals.' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealSurvival.label 'cook packaged survival meal' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealSurvivalBulk.label 'cook packaged survival meal x4' (placeholder exists in Recipes_Meals.xml)
 RecipeDef: CookMealSurvivalBulk.description 'Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.' (placeholder exists in Recipes_Meals.xml)
-RecipeDef: CookMealSurvivalBulk.jobString 'Cooking 4 survival meals.' (placeholder exists in Recipes_Meals.xml)
 RecipeDef: SmeltApparel.label 'smelt apparel' (placeholder exists in Recipes_Production.xml)
 RecipeDef: SmeltApparel.description 'Use heat and strong electromagnets to break down metallic apparel like armor into useful resources.' (placeholder exists in Recipes_Production.xml)
 RecipeDef: SmeltApparel.jobString 'Smelting apparel.' (placeholder exists in Recipes_Production.xml)
@@ -4775,13 +4717,11 @@ WorkTypeDef: Patient.description 'Go to a medical bed for treatment if you have 
 WorkTypeDef: Patient.gerundLabel 'patienting' (placeholder exists in WorkTypes.xml)
 WorkTypeDef: BasicWorker.description 'Unskilled and easy tasks. Release prisoners and flick switches on machines.' (placeholder exists in WorkTypes.xml)
 WorkTypeDef: BasicWorker.gerundLabel 'dealing with' (placeholder exists in WorkTypes.xml)
-WorkTypeDef: BasicWorker.labelShort 'Basic' (placeholder exists in WorkTypes.xml)
-WorkTypeDef: BasicWorker.pawnLabel 'Worker' (placeholder exists in WorkTypes.xml)
 WorkTypeDef: BasicWorker.verb 'Deal with' (placeholder exists in WorkTypes.xml)
 WorldObjectDef: PeaceTalks.label 'peace talks' (placeholder exists in WorldObjects.xml)
 WorldObjectDef: PeaceTalks.description 'A site designated for peace talks.' (placeholder exists in WorldObjects.xml)
 
-========== Backstory translations missing (757) ==========
+========== Backstory translations missing (759) ==========
 AbandonedChild23.desc missing
 AbandonedChild30.desc missing
 AbandonedOrphan61.desc missing
@@ -4966,6 +4906,7 @@ CriminalKingpin36.desc missing
 CriminalSurgeon99.desc missing
 CropFarmer17.desc missing
 CultChild3.desc missing
+CuriousChild33.desc missing
 DataDecoder39.desc missing
 DedicatedStudent12.desc missing
 DeepSpaceSurveyor1.desc missing
@@ -5179,7 +5120,7 @@ MentalPatient69.desc missing
 Mercenary20.desc missing
 Mercenary4.desc missing
 Mercenary55.desc missing
-MercenaryCaptain56.desc missing
+MercenaryCaptain98.desc missing
 MercenaryChef44.desc missing
 MercenaryLeader28.desc missing
 MercenaryLord13.desc missing
@@ -5315,6 +5256,7 @@ RenegadeEngineer43.desc missing
 RenownedProfessor51.desc missing
 Reporter71.desc missing
 ReptileResearcher37.desc missing
+Restorer70.desc missing
 RichBoy9.desc missing
 RichKid61.desc missing
 RitualChild20.desc missing
