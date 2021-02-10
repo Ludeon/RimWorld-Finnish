@@ -108,7 +108,7 @@
   <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
   <WoundInfection.description>TODO</WoundInfection.description>
   <!-- EN: an infection -->
-  <WoundInfection.labelNoun>TODO</WoundInfection.labelNoun>
+  <WoundInfection.labelNoun>tartunta</WoundInfection.labelNoun>
   <!-- EN: minor -->
   <WoundInfection.stages.minor.label>lievä</WoundInfection.stages.minor.label>
   <!-- EN: major -->

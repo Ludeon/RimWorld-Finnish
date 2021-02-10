@@ -9,11 +9,11 @@
   <CookMealFine.jobString>Kokkaa hienoa ateriaa.</CookMealFine.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <CookMealFineBulk.label>kokkaa 4 hienoa ateriaa</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Kokkaa jokseenkin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia.</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Kokkaa 4 hienoa ateriaa.</CookMealFineBulk.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>kokkaa yltäkylläinen ateria</CookMealLavish.label>
@@ -23,11 +23,11 @@
   <CookMealLavish.jobString>Kokkaa yltäkylläistä ateriaa.</CookMealLavish.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>kokkaa 4 yltäkylläistä ateriaa</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Kokkaa hyvin monimutkaisen aterian yhdistelmästä liha- ja kasviaineksia. Käyttää ainesosia säästelemättä.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Kokkaa 4 yltäkylläistä ateriaa.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>kokkaa yksinkertainen ateria</CookMealSimple.label>
@@ -37,24 +37,24 @@
   <CookMealSimple.jobString>Kokkaa yksinkertaista ateriaa.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>kokkaa 4 yksinkertaista ateriaa</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
   <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Kokkaa 4 yksinkertaista ateriaa.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>TODO</CookMealSurvival.label>
+  <CookMealSurvival.label>kokkaa selviytymisateria</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvival.description>TODO.</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>TODO.</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>Kokkaa selviytymisateriaa.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>kokkaa 4 selviytymisateriaa</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Kokkaa 4 selviytymisateriaa.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

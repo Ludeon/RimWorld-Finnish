@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <Art.label>Art</Art.label>
+  <Art.label>Taide</Art.label>
   <!-- EN: Create beautiful works of art from raw materials. -->
   <Art.description>Taiteilijat luovat kauniita taideteoksia.</Art.description>
   <!-- EN: art -->
@@ -18,17 +18,17 @@
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>TODO</BasicWorker.gerundLabel>
   <!-- EN: Basic -->
-  <BasicWorker.labelShort>TODO</BasicWorker.labelShort>
+  <BasicWorker.labelShort>zz§</BasicWorker.labelShort>
   <!-- EN: Worker -->
-  <BasicWorker.pawnLabel>TODO</BasicWorker.pawnLabel>
+  <BasicWorker.pawnLabel>Työntekijä</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
   <BasicWorker.verb>TODO</BasicWorker.verb>
   
-  <Cleaning.label>Clean</Cleaning.label>
+  <Cleaning.label>Siivoa</Cleaning.label>
   <!-- EN: Clear snow and clean the floor in the home area. -->
-  <Cleaning.description>Siivooja kolaavat lunta ja siivoavat kotialueella.</Cleaning.description>
+  <Cleaning.description>Siivoajat kolaavat lunta ja siivoavat kotialueella.</Cleaning.description>
   <!-- EN: cleaning -->
-  <Cleaning.gerundLabel>Siivoaminen</Cleaning.gerundLabel>
+  <Cleaning.gerundLabel>siivoaminen</Cleaning.gerundLabel>
   <!-- EN: Clean -->
   <Cleaning.labelShort>Siivoa</Cleaning.labelShort>
   <!-- EN: Cleaner -->
@@ -98,7 +98,7 @@
   
   <Growing.label>Grow</Growing.label>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
-  <Growing.description>Kasvattajat istuttavat siemeniä ja korjaavat sadon viljelmiltä.</Growing.description>
+  <Growing.description>Istuta siemeniä ja korjaa sato viljelmiltä.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>kasvattaminen</Growing.gerundLabel>
   <!-- EN: Grow -->

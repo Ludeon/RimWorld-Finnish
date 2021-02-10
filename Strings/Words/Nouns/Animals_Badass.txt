@@ -1,6 +1,8 @@
-﻿alligaattori
+﻿//cannot end with -nen
+
+alligaattori
 apina
-vyötiäinen
+//vyötiäinen
 barrakuda
 majava
 lepakko
@@ -27,7 +29,7 @@ sammakko
 gorilla
 heinäsirkka
 haukka
-herhiläinen
+//herhiläinen
 hyeena
 sakaali
 jaguaari
@@ -63,7 +65,7 @@ taimen
 kilpikonna
 kyykäärme
 korppikotka
-ampiainen
+//ampiainen
 lumikko
 valas
 susi

@@ -122,7 +122,7 @@
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
   <GameplayTips.ExtinguishFireArtillery>Räjähdykset sammuttavat tulipalot räjähdyssäteellään. Tämä tekee tykistön kranaateista hyödyllisiä tulipalojen pysäyttämiseen, kun muuta vaihtoehtoa ei ole.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
-  <GameplayTips.BestStoriesFromDarkestSituations>Jopa vakavat takaiskut eivät tarkoita, että pelin on loputtava. Yritä pelata menetetty taistelu loppuun - usein parhaat tarinat syntyvät pimeimmistä tilanteista.</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.BestStoriesFromDarkestSituations>Edes vakavat takaiskut eivät tarkoita, että pelin on loputtava. Yritä pelata menetetty taistelu loppuun - usein parhaat tarinat syntyvät pimeimmistä tilanteista.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>Puhtaat laboratoriot steriileillä laatoilla antavat tutkimuksen nopeusbonuksia.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->

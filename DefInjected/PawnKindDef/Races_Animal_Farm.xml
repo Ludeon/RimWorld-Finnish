@@ -27,7 +27,7 @@
   <Chicken.lifeStages.chick.labelPlural>tiput</Chicken.lifeStages.chick.labelPlural>
   <!-- EN: cockerel -->
   <Chicken.lifeStages.cockerel.labelMale>kukonpoika</Chicken.lifeStages.cockerel.labelMale>
-  <Chicken.lifeStages.cockerel.labelMalePlural>kukonpoijat</Chicken.lifeStages.cockerel.labelMalePlural>
+  <Chicken.lifeStages.cockerel.labelMalePlural>kukonpojat</Chicken.lifeStages.cockerel.labelMalePlural>
   
   <!-- EN: cow -->
   <Cow.label>lehmä</Cow.label>

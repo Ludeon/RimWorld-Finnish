@@ -10,10 +10,10 @@
   
   <!-- EN: husky -->
   <Husky.label>husky</Husky.label>
-  <Husky.labelFemale>female husky</Husky.labelFemale>
-  <Husky.labelFemalePlural>female huskies</Husky.labelFemalePlural>
-  <Husky.labelMale>male husky</Husky.labelMale>
-  <Husky.labelMalePlural>male huskies</Husky.labelMalePlural>
+  <Husky.labelFemale>naarashusky</Husky.labelFemale>
+  <Husky.labelFemalePlural>naarashuskyt</Husky.labelFemalePlural>
+  <Husky.labelMale>uroshusky</Husky.labelMale>
+  <Husky.labelMalePlural>uroshuskyt</Husky.labelMalePlural>
   <!-- EN: huskies -->
   <Husky.labelPlural>huskyt</Husky.labelPlural>
   <!-- EN: husky puppy -->
