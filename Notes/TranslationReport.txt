@@ -8,7 +8,7 @@ Translation report for Finnish
 
 ========== Missing keyed translations (0) ==========
 
-========== Def-injected translations missing (4711) ==========
+========== Def-injected translations missing (4709) ==========
 BodyDef: Lancer.label 'lancer' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Lancer.corePart.parts.right_mechanical_shoulder.customLabel 'right mechanical shoulder' (placeholder exists in Bodies_Mechanoid.xml)
 BodyDef: Pikeman.label 'pikeman' (placeholder exists in Bodies_Mechanoid.xml)
@@ -4714,10 +4714,8 @@ WorkGiverDef: GroundPenetratingScan.label 'operate ground penetrating scanner' (
 WorkGiverDef: GroundPenetratingScan.gerund 'scanning at' (placeholder exists in WorkGivers.xml)
 WorkGiverDef: GroundPenetratingScan.verb 'scan' (placeholder exists in WorkGivers.xml)
 WorkTypeDef: Patient.description 'Go to a medical bed for treatment if you have an immediately life-threatening health condition.' (placeholder exists in WorkTypes.xml)
-WorkTypeDef: Patient.gerundLabel 'patienting' (placeholder exists in WorkTypes.xml)
+WorkTypeDef: PatientBedRest.description 'Rest in bed to recuperate from not-immediately-life-threatening medical problems.' (placeholder exists in WorkTypes.xml)
 WorkTypeDef: BasicWorker.description 'Unskilled and easy tasks. Release prisoners and flick switches on machines.' (placeholder exists in WorkTypes.xml)
-WorkTypeDef: BasicWorker.gerundLabel 'dealing with' (placeholder exists in WorkTypes.xml)
-WorkTypeDef: BasicWorker.verb 'Deal with' (placeholder exists in WorkTypes.xml)
 WorldObjectDef: PeaceTalks.label 'peace talks' (placeholder exists in WorldObjects.xml)
 WorldObjectDef: PeaceTalks.description 'A site designated for peace talks.' (placeholder exists in WorldObjects.xml)
 

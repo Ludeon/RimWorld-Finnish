@@ -171,7 +171,7 @@
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
   <LetterRelatedPawnsRaidFriendly>Jotkin sinulla olevat {0} tai vangit ja saapumassa olevat ystävälliset {1} ovat sukua keskenään.</LetterRelatedPawnsRaidFriendly>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
-  <LetterRelatedPawnsNeutralGroup>Jotkin sinulla olevat {0} tai vangit ja saapumassa olevat {1} ovat sukua keskenään.</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsNeutralGroup>Jotkin sinulla olevat {0} tai vangit ja saapumassa olevan ryhmän jäsenet ovat sukua keskenään.</LetterRelatedPawnsNeutralGroup>
   <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
   <LetterRelatedPawnsTradeShip>Jotkin sinulla olevat {0} tai vangit ovat sukua henkilöille joita vaihtokauppias on myymässä.</LetterRelatedPawnsTradeShip>
   <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->

@@ -87,7 +87,7 @@
   <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
   <GroupVisitorsArriveLeaderInfo>\n\nYksi vierailijoista, {1_labelShort} on ryhmän johtaja.</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
-  <VisitorsLeaving>Vierailijat tukikohdasta {0} ovat lähdössä.</VisitorsLeaving>
+  <VisitorsLeaving>Ryhmän {0} vierailijat ovat lähdössä.</VisitorsLeaving>
 
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>Ihmisjahtaajia</LetterLabelManhunterPackArrived>

@@ -79,7 +79,7 @@
   <!-- EN: Resistance remaining -->
   <RecruitmentResistance>Vastustusta jäljellä</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>Värväyksen vaikeus</RecruitmentDifficulty>
+  <RecruitmentDifficulty>Värväämisen vaikeus</RecruitmentDifficulty>
   <!-- EN: Recruitment chance -->
   <RecruitmentChance>Värväämisen todennäköisyys</RecruitmentChance>
   <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->

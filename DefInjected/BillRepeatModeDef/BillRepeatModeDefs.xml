@@ -8,6 +8,6 @@
   <RepeatCount.label>tee X kertaa</RepeatCount.label>
   
   <!-- EN: do until you have X -->
-  <TargetCount.label>tee, kunnes sinulla on X</TargetCount.label>
+  <TargetCount.label>tee, kunnes on X</TargetCount.label>
   
 </LanguageData>

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>eläimet</Animals.label>
+  <Animals.label>eläinkäsittely</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>Eläinten kesyttäminen, kouluttaminen, hoitaminen ja ohjaaminen.</Animals.description>
   <!-- EN: animals -->
-  <Animals.skillLabel>eläimet</Animals.skillLabel>
+  <Animals.skillLabel>eläinkäsittely</Animals.skillLabel>
   
   <!-- EN: artistic -->
-  <Artistic.label>taiteellisuus</Artistic.label>
+  <Artistic.label>taiteenteko</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>Taiteenteko.</Artistic.description>
+  <Artistic.description>Taiteen tekeminen.</Artistic.description>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>taiteellisuus</Artistic.skillLabel>
+  <Artistic.skillLabel>taiteenteko</Artistic.skillLabel>
   
   <!-- EN: construction -->
   <Construction.label>rakentaminen</Construction.label>

@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <Art.label>Taide</Art.label>
   <!-- EN: Create beautiful works of art from raw materials. -->
   <Art.description>Taiteilijat luovat kauniita taideteoksia.</Art.description>
   <!-- EN: art -->
-  <Art.gerundLabel>Taiteenteko</Art.gerundLabel>
+  <Art.gerundLabel>taiteenteko</Art.gerundLabel>
   <!-- EN: Art -->
   <Art.labelShort>Tee taidetta</Art.labelShort>
   <!-- EN: Artist -->
@@ -16,15 +15,14 @@
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
   <BasicWorker.description>TODO</BasicWorker.description>
   <!-- EN: dealing with -->
-  <BasicWorker.gerundLabel>TODO</BasicWorker.gerundLabel>
+  <BasicWorker.gerundLabel>auttavat työt</BasicWorker.gerundLabel>
   <!-- EN: Basic -->
-  <BasicWorker.labelShort>zz§</BasicWorker.labelShort>
+  <BasicWorker.labelShort>Aputyöt</BasicWorker.labelShort>
   <!-- EN: Worker -->
-  <BasicWorker.pawnLabel>Työntekijä</BasicWorker.pawnLabel>
+  <BasicWorker.pawnLabel>Aputyöläinen</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
-  <BasicWorker.verb>TODO</BasicWorker.verb>
+  <BasicWorker.verb>Hoida</BasicWorker.verb>
   
-  <Cleaning.label>Siivoa</Cleaning.label>
   <!-- EN: Clear snow and clean the floor in the home area. -->
   <Cleaning.description>Siivoajat kolaavat lunta ja siivoavat kotialueella.</Cleaning.description>
   <!-- EN: cleaning -->
@@ -36,7 +34,6 @@
   <!-- EN: Clean -->
   <Cleaning.verb>Siivoa</Cleaning.verb>
   
-  <Construction.label>Construct</Construction.label>
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
   <Construction.description>Rakentajat rakentavat rakennelmia, jotka olet määrännyt.</Construction.description>
   <!-- EN: constructing -->
@@ -48,7 +45,6 @@
   <!-- EN: Construct -->
   <Construction.verb>Rakenna</Construction.verb>
   
-  <Cooking.label>Cook</Cooking.label>
   <!-- EN: Prepare meals and butcher meat. -->
   <Cooking.description>Kokit valmistavat aterioita ja teurastavat eläimiä.</Cooking.description>
   <!-- EN: cooking -->
@@ -60,11 +56,10 @@
   <!-- EN: Cook -->
   <Cooking.verb>Kokkaa</Cooking.verb>
   
-  <Crafting.label>Craft</Crafting.label>
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
   <Crafting.description>Käsityöntekijät kokoavat esineitä raaoista materiaaleista.</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.gerundLabel>Käsityönteko</Crafting.gerundLabel>
+  <Crafting.gerundLabel>käsityöt</Crafting.gerundLabel>
   <!-- EN: Craft -->
   <Crafting.labelShort>Tee käsitöitä</Crafting.labelShort>
   <!-- EN: Crafter -->
@@ -72,7 +67,6 @@
   <!-- EN: Craft at -->
   <Crafting.verb>Tee käsitöitä kohteessa</Crafting.verb>
   
-  <Doctor.label>Doctor</Doctor.label>
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
   <Doctor.description>Lääkärit tuovat ruokaa ja hoitavat liikkumattomina sängyssä makaavia. He hoitavat sekä yhdyskuntalaisia ja vankeja.</Doctor.description>
   <!-- EN: doctoring -->
@@ -84,19 +78,17 @@
   <!-- EN: Care for -->
   <Doctor.verb>Hoida</Doctor.verb>
   
-  <Firefighter.label>Firefight</Firefighter.label>
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>Palomiehet sammuttavat tulia yhdyskunnassa.</Firefighter.description>
   <!-- EN: firefighting -->
-  <Firefighter.gerundLabel>Tulensammmutus</Firefighter.gerundLabel>
+  <Firefighter.gerundLabel>Tulensammutus</Firefighter.gerundLabel>
   <!-- EN: Firefight -->
-  <Firefighter.labelShort>Palomies</Firefighter.labelShort>
+  <Firefighter.labelShort>Sammuta tulia</Firefighter.labelShort>
   <!-- EN: Firefighter -->
-  <Firefighter.pawnLabel>Palomies</Firefighter.pawnLabel>
+  <Firefighter.pawnLabel>Tulensammuttaja</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
-  <Firefighter.verb>Sammuta liekki</Firefighter.verb>
+  <Firefighter.verb>Sammuta tuli</Firefighter.verb>
   
-  <Growing.label>Grow</Growing.label>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Istuta siemeniä ja korjaa sato viljelmiltä.</Growing.description>
   <!-- EN: growing -->
@@ -108,19 +100,17 @@
   <!-- EN: Grow -->
   <Growing.verb>Kasvata</Growing.verb>
   
-  <Handling.label>Handle</Handling.label>
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
   <Handling.description>Eläintenkäsittelijät kesyttävät, huolehtivat, keräävät resursseja ja tappavat eläimiä.</Handling.description>
   <!-- EN: handling -->
-  <Handling.gerundLabel>Eläintenkäsittely</Handling.gerundLabel>
+  <Handling.gerundLabel>Eläinkäsittely</Handling.gerundLabel>
   <!-- EN: Handle -->
-  <Handling.labelShort>Käsittele eläimiä</Handling.labelShort>
+  <Handling.labelShort>Eläinkäsittely</Handling.labelShort>
   <!-- EN: Handler -->
-  <Handling.pawnLabel>Eläintenkäsittelijä</Handling.pawnLabel>
+  <Handling.pawnLabel>Eläinkäsittelijä</Handling.pawnLabel>
   <!-- EN: Handle -->
   <Handling.verb>Käsittele</Handling.verb>
   
-  <Hauling.label>Haul</Hauling.label>
   <!-- EN: Carry things to where they need to be. -->
   <Hauling.description>Kuljettajat kantavat esineitä sinne, missä niiden tarvitsee olla.</Hauling.description>
   <!-- EN: hauling -->
@@ -132,7 +122,6 @@
   <!-- EN: Haul -->
   <Hauling.verb>Kuljeta</Hauling.verb>
   
-  <Hunting.label>Hunt</Hunting.label>
   <!-- EN: Kill animals which are designated to be hunted. -->
   <Hunting.description>Metsästäjät tappavat eläimiä, jotka on määritelty metsästettäviksi.</Hunting.description>
   <!-- EN: hunting -->
@@ -144,7 +133,6 @@
   <!-- EN: Hunt -->
   <Hunting.verb>Metsästä</Hunting.verb>
   
-  <Mining.label>Mine</Mining.label>
   <!-- EN: Digging and drilling. -->
   <Mining.description>Louhijat kaivavat neliöitä, jotka olet määrännyt louhittaviksi. Jos näissä neliöissä on mineraaleja, niistä tulee käyttökelpoisia.</Mining.description>
   <!-- EN: mining -->
@@ -159,7 +147,7 @@
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
   <Patient.description>TODO</Patient.description>
   <!-- EN: patienting -->
-  <Patient.gerundLabel>TODO</Patient.gerundLabel>
+  <Patient.gerundLabel>potilas</Patient.gerundLabel>
   <!-- EN: Patient -->
   <Patient.labelShort>Potilas</Patient.labelShort>
   <!-- EN: Patient -->
@@ -167,19 +155,17 @@
   <!-- EN: Become patient -->
   <Patient.verb>Tule potilaaksi</Patient.verb>
   
-  <PatientBedRest.label>Bed rest</PatientBedRest.label>
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
-  <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
+  <PatientBedRest.description>TODO</PatientBedRest.description>
   <!-- EN: resting in bed -->
-  <PatientBedRest.gerundLabel>Resting in bed</PatientBedRest.gerundLabel>
+  <PatientBedRest.gerundLabel>sängyssä lepääminen</PatientBedRest.gerundLabel>
   <!-- EN: Bed rest -->
-  <PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
+  <PatientBedRest.labelShort>Sänkylepo</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
-  <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
+  <PatientBedRest.pawnLabel>Sängyssä lepääjä</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
-  <PatientBedRest.verb>Become patient</PatientBedRest.verb>
+  <PatientBedRest.verb>Tule potilaaksi</PatientBedRest.verb>
   
-  <PlantCutting.label>Plant cut</PlantCutting.label>
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>Kasvinleikkaajat poistavat ja korjaavat sadon villeiltä kasveilta, jotka olet määrittänyt.</PlantCutting.description>
   <!-- EN: plant cutting -->
@@ -191,7 +177,6 @@
   <!-- EN: Cut -->
   <PlantCutting.verb>Leikkaa</PlantCutting.verb>
   
-  <Research.label>Research</Research.label>
   <!-- EN: Perform research work. -->
   <Research.description>Tutkijat tekevät tutkimustyötä.</Research.description>
   <!-- EN: researching -->
@@ -203,7 +188,6 @@
   <!-- EN: Research at -->
   <Research.verb>Tutki kohteessa</Research.verb>
   
-  <Smithing.label>Smith</Smithing.label>
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
   <Smithing.description>Sepät tekevät aseita ja työkaluja raaoista materiaaleista.</Smithing.description>
   <!-- EN: smithing -->
@@ -215,7 +199,6 @@
   <!-- EN: Smith at -->
   <Smithing.verb>Tao kohteessa</Smithing.verb>
   
-  <Tailoring.label>Tailor</Tailoring.label>
   <!-- EN: Create apparel from raw materials. -->
   <Tailoring.description>Räätälit tekevät vaatteita raaoista materiaaleista.</Tailoring.description>
   <!-- EN: tailoring -->
@@ -227,11 +210,10 @@
   <!-- EN: Tailor at -->
   <Tailoring.verb>Räätälöi kohteessa</Tailoring.verb>
   
-  <Warden.label>Warden</Warden.label>
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
   <Warden.description>Vanginvartijat vierailevat vankien luona värväämässä heitä, keskustelemassa heidän kanssaan, hakkaamassa heitä tai teloittamassa heitä - mitä vain oletkin päättänyt. Vanginvartijat vievät lisäksi vangeille ruokaa.</Warden.description>
   <!-- EN: wardening -->
-  <Warden.gerundLabel>Vanginvartiointi</Warden.gerundLabel>
+  <Warden.gerundLabel>vanginvartiointi</Warden.gerundLabel>
   <!-- EN: Warden -->
   <Warden.labelShort>Vartioi</Warden.labelShort>
   <!-- EN: Warden -->

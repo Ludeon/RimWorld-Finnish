@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: ancient asphalt highway -->
-  <AncientAsphaltHighway.label>ancient asphalt highway</AncientAsphaltHighway.label>
+  <AncientAsphaltHighway.label>muinainen valtatie</AncientAsphaltHighway.label>
   
   <!-- EN: ancient asphalt road -->
-  <AncientAsphaltRoad.label>ancient asphalt road</AncientAsphaltRoad.label>
+  <AncientAsphaltRoad.label>muinainen asfalttitie</AncientAsphaltRoad.label>
   
   <!-- EN: dirt path -->
-  <DirtPath.label>dirt path</DirtPath.label>
+  <DirtPath.label>polku</DirtPath.label>
   
   <!-- EN: dirt road -->
-  <DirtRoad.label>dirt road</DirtRoad.label>
+  <DirtRoad.label>hiekkatie</DirtRoad.label>
   
   <!-- EN: stone road -->
-  <StoneRoad.label>stone road</StoneRoad.label>
+  <StoneRoad.label>kivitie</StoneRoad.label>
   
 </LanguageData>

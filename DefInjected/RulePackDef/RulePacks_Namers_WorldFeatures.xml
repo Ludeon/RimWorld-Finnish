@@ -165,7 +165,6 @@
   -->
   <NamerIsland.rulePack.rulesStrings>
     <li>terrain_word(p=4)->saari</li>
-    <li>terrain_word(p=2)->isle</li>
     <li>terrain_word->riutta</li>
     <li>terrain_word->atolli</li>
     <li>terrain_word->kari</li>

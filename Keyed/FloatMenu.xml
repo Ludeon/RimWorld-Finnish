@@ -347,7 +347,7 @@
   <!-- EN: Cannot {0} {1} -->
   <CannotGenericWork>Kohteen {1} {0} ei onnistu </CannotGenericWork>
   <!-- EN: Cannot {0} -->
-  <CannotGenericWorkCustom>{0} ei onnistu</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>Ei voi tehdä työtä {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: incapable of {0} -->
   <CannotMissingHealthActivities>Ei voi priorisoida: kykenemätön toimeen {0}</CannotMissingHealthActivities>
