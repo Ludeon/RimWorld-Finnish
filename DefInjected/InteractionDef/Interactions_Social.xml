@@ -68,6 +68,7 @@
   -->
   <Insult.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] vertasi henkilöä [target] eläimeen [insultcomparison].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
     <li>insultcomparison(p=2)->[Animal]</li>
   </Insult.logRulesInitiator.rulesStrings>
   
