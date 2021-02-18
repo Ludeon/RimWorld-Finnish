@@ -21,7 +21,7 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->Jutteli henkilön [RECIPIENT_nameDef] kanssa mukavia.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ja [RECIPIENT_nameDef] juttelivat mukavia.</li>
   </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
@@ -42,7 +42,7 @@
     <li>subject->[TalkTopicHeavy]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>r_logentry->Kävi syvän keskustelun henkilön [RECIPIENT_nameDef] kanssa.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ja [RECIPIENT_nameDef] kävivät syvän keskustelun.</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
@@ -66,7 +66,10 @@
     <li>insultcomparison(p=2)->[Animal]</li>
     <li>insultcomparison->[Enemy]</li>
   -->
-  <Insult.logRulesInitiator.rulesStrings>TODO</Insult.logRulesInitiator.rulesStrings>
+  <Insult.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] vertasi henkilöä [target] eläimeen [insultcomparison].</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+  </Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
   <KindWords.label>kind words</KindWords.label>
@@ -86,7 +89,10 @@
     <li>complimented->expressed appreciation for</li>
     <li>complimented->said good things about</li>
   -->
-  <KindWords.logRulesInitiator.rulesStrings>TODO</KindWords.logRulesInitiator.rulesStrings>
+  <KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] henkilöä [RECIPIENT_nameDef].</li>
+    <li>complimented(p=3)->kehui</li>
+  </KindWords.logRulesInitiator.rulesStrings>
   
   <!-- EN: slight -->
   <Slight.label>halveksunta</Slight.label>
@@ -107,6 +113,9 @@
     <li>madefunof->made a contemptuous remark about</li>
     <li>madefunof->offered a backhanded compliment about</li>
   -->
-  <Slight.logRulesInitiator.rulesStrings>TODO</Slight.logRulesInitiator.rulesStrings>
+  <Slight.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] henkilöä [RECIPIENT_nameDef].</li>
+    <li>madefunof->pilkkasi</li>
+  </Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>

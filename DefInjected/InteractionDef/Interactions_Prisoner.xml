@@ -40,7 +40,9 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>TODO</li>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] henkilölle [RECIPIENT_nameDef].</li>
+    <li>toldastoryabout(p=2)->kertoi tarinan</li>
+    <li>subject->yhdyskunnasta</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
   
   <!-- EN: recruit attempt -->
@@ -52,7 +54,7 @@
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>TODO</li>
+    <li>r_logentry->[INITIATOR_nameDef] pyysi henkilöä [RECIPIENT_nameDef] liittymään.</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->
@@ -67,6 +69,9 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] puhui [freedom] ihanuudesta ja ehdotti pakomenetelmää.</li>
+    <li>freedom->vapauden</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

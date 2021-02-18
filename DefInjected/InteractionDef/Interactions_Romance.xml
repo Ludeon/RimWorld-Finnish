@@ -9,7 +9,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
-  <Breakup.logRulesInitiator.rulesStrings>TODO</Breakup.logRulesInitiator.rulesStrings>
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] pyysi henkilöltä [RECIPIENT_nameDef] hieman tilaa.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>avioliittoehdotus</MarriageProposal.label>
@@ -86,6 +88,12 @@
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
-  <RomanceAttempt.logRulesInitiator.rulesStrings>TODO</RomanceAttempt.logRulesInitiator.rulesStrings>
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] henkilön [RECIPIENT_nameDef] [wootactic].</li>
+    <li>wooed->yritti hurmata</li>
+    <li>wootactic->kuvailemalla [RECIPIENT_objective] [romantic_adj] [romantic_noun]</li>
+    <li>romantic_adj->kauniiksi</li>
+    <li>romantic_noun->kukkaseksi</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>
