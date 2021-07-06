@@ -314,4 +314,19 @@
   <ExtraFactionType_HostFaction>kaukoisäntäryhmä</ExtraFactionType_HostFaction>
   <!-- EN: group -->
   <ExtraFactionType_MiniFaction>ryhmä</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>huumekategoria</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>ei mikään</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>lääkinnällinen</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>sosiaalinen</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>kovat huumeet</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>mikä tahansa</DrugCategory_Any>
+  
 </LanguageData>

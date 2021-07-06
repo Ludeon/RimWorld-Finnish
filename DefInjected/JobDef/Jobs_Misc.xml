@@ -26,13 +26,22 @@
   <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>TODO</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
   <CastJump.reportString>TODO</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
   
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>TODO</DeliverToCell.reportString>
+  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>TODO</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>Menee salauniarkkuun.</EnterCryptosleepCasket.reportString>
@@ -63,6 +72,9 @@
   
   <!-- EN: following TargetA. -->
   <FollowClose.reportString>TODO</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>TODO</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
@@ -99,6 +111,12 @@
   
   <!-- EN: lying down. -->
   <LayDown.reportString>Makaa.</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>TODO</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>TODO</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>Rakastelee.</Lovin.reportString>
@@ -141,6 +159,9 @@
   
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>TODO</TakeCountToInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>

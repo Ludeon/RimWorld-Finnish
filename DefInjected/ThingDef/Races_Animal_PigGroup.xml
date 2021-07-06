@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>Pieni mutta nopea jyrsijä, joka on kuuluisa sen poikkeuksellisen pehmeästä turkista.</Chinchilla.description>
+  <Chinchilla.race.meatLabel>chinchillan lihaa</Chinchilla.race.meatLabel>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>TODO</Chinchilla.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>TODO</Chinchilla.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>TODO</Chinchilla.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>peura</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>TODO</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>peuranlihaa</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>TODO</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>TODO</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>TODO</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>TODO</Deer.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>gaselli</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>TODO</Gazelle.description>
+  <Gazelle.race.meatLabel>gasellin lihaa</Gazelle.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>TODO</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>TODO</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>TODO</Gazelle.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>alppikauris</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>TODO</Ibex.description>
+  <Ibex.race.meatLabel>alppikauriin lihaa</Ibex.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>TODO</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>TODO</Ibex.tools.head.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>sika</Pig.label>
+  <!-- EN: Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything. -->
+  <Pig.description>Sika oli yksi ensimmäisistä ihmisen kesyttämistä eläimistä. Sitä kasvatetaan useimmiten sen lihan ja nahan vuoksi, ja sitä on helppo ruokkia sen kaikkiruokaisen ruokavalion vuoksi.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>sianlihaa</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>TODO</Pig.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>villisika</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>TODO.</WildBoar.description>
+  <WildBoar.race.meatLabel>villisian lihaa</WildBoar.race.meatLabel>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>TODO</WildBoar.tools.head.label>
+  
+</LanguageData>

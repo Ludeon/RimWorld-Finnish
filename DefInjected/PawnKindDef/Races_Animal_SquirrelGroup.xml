@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>paukkurotta</Boomrat.label>
+  <Boomrat.labelPlural>paukkurotat</Boomrat.labelPlural>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>iguaani</Iguana.label>
+  <Iguana.labelPlural>iguaanit</Iguana.labelPlural>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>pesukarhu</Raccoon.label>
+  <Raccoon.labelPlural>pesukarhut</Raccoon.labelPlural>
+  
+  <!-- EN: rat -->
+  <Rat.label>rotta</Rat.label>
+  <Rat.labelPlural>rotat</Rat.labelPlural>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>orava</Squirrel.label>
+  <Squirrel.labelPlural>oravat</Squirrel.labelPlural>
+  
+</LanguageData>

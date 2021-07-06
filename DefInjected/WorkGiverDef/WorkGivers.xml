@@ -152,7 +152,7 @@
   <DoBillsFabricationBench.label>TODO</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>TODO</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
+  <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>TODO</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -297,9 +297,9 @@
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>execute prisoners</DoExecution.label>
-  <!-- EN: doing execution on -->
+  <!-- EN: executing -->
   <DoExecution.gerund>doing execution on</DoExecution.gerund>
-  <!-- EN: do execution on -->
+  <!-- EN: execute -->
   <DoExecution.verb>do execution on</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
@@ -308,6 +308,20 @@
   <Drill.gerund>drilling</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>drill</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>TODO</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>TODO</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>TODO</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>TODO</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>TODO</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>TODO</ExecuteGuiltyColonist.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
@@ -477,6 +491,13 @@
   <!-- EN: rearm -->
   <RearmTurrets.verb>TODO</RearmTurrets.verb>
   
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>TODO</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>TODO</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>TODO</RebalanceAnimalsInPens.verb>
+  
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>refuel fuelable buildings</Refuel.label>
   <!-- EN: refueling -->
@@ -490,6 +511,13 @@
   <ReleasePrisoner.gerund>releasing</ReleasePrisoner.gerund>
   <!-- EN: release -->
   <ReleasePrisoner.verb>release</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>TODO</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>TODO</ReleaseToWild.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>remove roofs</RemoveRoofs.label>
@@ -533,6 +561,13 @@
   <!-- EN: strip -->
   <Strip.verb>riisua</Strip.verb>
   
+  <!-- EN: study -->
+  <StudyThing.label>TODO</StudyThing.label>
+  <!-- EN: studying -->
+  <StudyThing.gerund>TODO</StudyThing.gerund>
+  <!-- EN: research -->
+  <StudyThing.verb>TODO</StudyThing.verb>
+  
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>take beer out of fermenting barrels</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
@@ -547,12 +582,26 @@
   <!-- EN: take to bed -->
   <TakePrisonerToBed.verb>take to bed</TakePrisonerToBed.verb>
   
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>TODO</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>TODO</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>TODO</TakeRoamingAnimalsToPen.verb>
+  
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>operointiin ottaminen</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
   <TakeToBedToOperate.verb>ottaa operointiin</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>TODO</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>TODO</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>TODO</TakeToPen.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>tame animals</Tame.label>

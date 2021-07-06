@@ -28,14 +28,6 @@
   <!-- EN: red fox puppies -->
   <Fox_Red.lifeStages.red_fox_puppy.labelPlural>punaketun pennut</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
   
-  <!-- EN: warg -->
-  <Warg.label>wargi</Warg.label>
-  <Warg.labelPlural>wargit</Warg.labelPlural>
-  <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>vargin pentu</Warg.lifeStages.warg_puppy.label>
-  <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>vargin pennut</Warg.lifeStages.warg_puppy.labelPlural>
-  
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>arktinen susi</Wolf_Arctic.label>
   <!-- EN: arctic wolves -->

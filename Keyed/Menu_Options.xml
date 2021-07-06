@@ -44,6 +44,8 @@
   <ResetModsConfigOnCrash>Nollaa modit kaatumisen jälkeen</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Simuloi Royaltyn puuttuminen</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>TODO</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -105,4 +107,8 @@
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>Kaikki asetukset palautetaan oletuksiin ja peli käynnistetään uudelleen. Kaikki tallentamaton edistys menetetään!\n\nJatketaanko?</ResetAndRestartConfirmationDialog>
   
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>TODO</SetBackgroundImage>
+
 </LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg -->
+  <Warg.label>wargi</Warg.label>
+  <Warg.labelPlural>wargit</Warg.labelPlural>
+  <!-- EN: warg puppy -->
+  <Warg.lifeStages.warg_puppy.label>vargin pentu</Warg.lifeStages.warg_puppy.label>
+  <!-- EN: warg puppies -->
+  <Warg.lifeStages.warg_puppy.labelPlural>vargin pennut</Warg.lifeStages.warg_puppy.labelPlural>
+  
+</LanguageData>

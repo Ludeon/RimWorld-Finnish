@@ -20,7 +20,7 @@
   <MainTab_Research.label>Tutkimus-välilehti päälle tai pois</MainTab_Research.label>
   
   <!-- EN: Toggle aikataulu tab -->
-  <MainTab_Restrict.label>Aikataulu-välilehti päälle tai pois</MainTab_Restrict.label>
+  <MainTab_Schedule.label>Aikataulu-välilehti päälle tai pois</MainTab_Schedule.label>
   
   <!-- EN: Toggle villieläimet tab -->
   <MainTab_Wildlife.label>Villieläimet-välilehti päälle tai pois</MainTab_Wildlife.label>

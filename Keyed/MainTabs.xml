@@ -8,7 +8,7 @@
   <HigherPriority>Tärkeämpi</HigherPriority>
   <!-- EN: lower priority -->
   <LowerPriority>Vähemmän tärkeä</LowerPriority>
-  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
   <RelevantSkills>Tähän liittyvä taito: {0}\nTähän liittyvien taitojen keskiarvo: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Klikkaa siirtyäksesi:</ClickToJumpTo>
@@ -22,6 +22,8 @@
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Varoitus: Tähän liittyvien taitojen keskiarvo on erittäin matala.</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideologion, so it may make this person unhappy. -->
+  <SelectedWorkTypeOpposedByIdeo>TODO</SelectedWorkTypeOpposedByIdeo>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
   <PriorityOneDoneFirst>Tärkeyden 1 toimet tehdään ensin. Tärkeyden 4 toimet tehdään viimeisinä.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
@@ -36,6 +38,12 @@
   <Priority4>Matala tärkeys</Priority4>
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
   <PawnFactionInfo>{0}\n\nRyhmä johon {1_nameDef} kuuluu tällä hetkellä.\n\nKlikkaa katsoaksesi ryhmää.</PawnFactionInfo>
+  <!-- EN: Disabled by backstory: {0} -->
+  <WorkDisabledByBackstory>TODO</WorkDisabledByBackstory>
+  <!-- EN: Disabled by trait: {0} -->
+  <WorkDisabledByTrait>TODO</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest: {0} -->
+  <WorkDisabledByQuest>TODO</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -84,16 +92,20 @@
   <Hostile>Vihamielinen</Hostile>
   <!-- EN: Ally -->
   <Ally>Liittolainen</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>TODO</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>TODO</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>kukistettu</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>Ryhmän {0} vihollinen</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>Viholliset:</EnemyOf>
-  <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>Nykyinen hyväntahtoisuus ja suhteiden tila tämän ryhmän kanssa.</CurrentGoodwillTip>
-  <!-- EN: Current relations with this faction. -->
-  <CurrentRelationTip>Nykyiset suhteet tämän ryhmän kanssa.</CurrentRelationTip>
+  <!-- EN: Recent events -->
+  <RecentEvents>TODO</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>TODO</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Tämä ryhmä on pysyvästi vihamielinen. He tekevät ryöstöretkiä asuinpaikkoihisi ja karavaaneihisi. Suhteet niiden kanssa eivät koskaan parane mistään syistä.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -102,13 +114,7 @@
   <CurrentGoodwillTip_Neutral>Tämä ryhmä on neutraali. He käyvät vaihtokauppaa ja puhuvat kanssasi vapaasti. Jos suhteet laskevat arvon {0} alle, heistä tulee vihamielisiä. Jos suhteet nousevat arvon {1} ylle, heistä tulee liittolaisia ja he alkavat tekemään aktiivisia toimia auttaakseen sinua.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Tämä ryhmä on vihamielinen. He tekevät ryöstöretkiä asuinpaikkoihisi ja karavaaneihisi. Jos suhteet nousevat arvon {0} ylle, heistä tulee neutraaleja.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Tämän ryhmän luonnollinen hyväntahtoisuuden vaihteluväli on arvosta {0} arvoon {1}</CurrentGoodwillTip_NaturalGoodwill>
-  <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>Jos hyväntahtoisuus on arvon {0} alapuolella, se nousee {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillRise>
-  <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillFall>Jos hyväntahtoisuus on arvon {0} yläpuolella, se putoaa {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillFall>
-  
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>Ystävä</Friend>
@@ -208,6 +214,16 @@
   <TechLevelTooLow>Ryhmäsi teknologian taso on {0}, mutta tämän projektin taso on {1}. Tutkimusnopeuden kerroin on {2}.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>Avaava teknologia</UnlockedWith>
+  <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
+  <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>TODO</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>TODO</NoFactions>
+  <!-- EN: Ideoligions -->
+  <IdeoligionsTab>TODO</IdeoligionsTab>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -282,7 +298,7 @@
   <QuestBedroomRequirementsUnsatisfiedSingle>vapaa makuuhuone joka täyttää vaatimukset tittelistä</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestThroneRoomRequirementsUnsatisfied>valtaistuinsali joka täyttää henkilön {PAWN_definite} tittelin {TITLE}</QuestThroneRoomRequirementsUnsatisfied>
-  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <!-- EN: assign a throne for {PAWN_definite} -->
   <QuestNoThroneRoom>valtaistuinsali joka täyttää henkilön {PAWN_definite} vaatimukset tittelistä {TITLE} </QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>yhdyskuntalaisen jolla on titteli {0}</QuestNoColonistWithTitle>
@@ -316,9 +332,27 @@
   <QuestBetrayalOffer>Pettämistarjous: {0} kohdetta jäljellä</QuestBetrayalOffer>
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
   <QuestBetrayalOfferTip>{0} antaa sinulle palkinnon jos tapat kaikki ryhmän {1} jäsenet.</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>TODO</QuestRequiredPlayerWealth>
+  <!-- EN: allied to {0} -->
+  <QuestAlliedTo>TODO</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>TODO</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>TODO</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
+
   
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>Luo tarpeen</CreatesNeed>
+
+  <!-- UNUSED -->
+  <CurrentGoodwillTip>Nykyinen hyväntahtoisuus ja suhteiden tila tämän ryhmän kanssa.</CurrentGoodwillTip>
+  <CurrentRelationTip>Nykyiset suhteet tämän ryhmän kanssa.</CurrentRelationTip>
+  <CurrentGoodwillTip_NaturalGoodwill>Tämän ryhmän luonnollinen hyväntahtoisuuden vaihteluväli on arvosta {0} arvoon {1}</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwillRise>Jos hyväntahtoisuus on arvon {0} alapuolella, se nousee {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillRise>
+  <CurrentGoodwillTip_NaturalGoodwillFall>Jos hyväntahtoisuus on arvon {0} yläpuolella, se putoaa {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillFall>
 
 </LanguageData>

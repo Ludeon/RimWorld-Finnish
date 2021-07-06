@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>tshintshilla</Chinchilla.label>
+  <Chinchilla.labelPlural>tshintshillat</Chinchilla.labelPlural>
+  
+  <!-- EN: deer -->
+  <Deer.label>peura</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>naaraspeura</Deer.labelFemale>
+  <!-- EN: buck -->
+  <Deer.labelMale>urospeura</Deer.labelMale>
+  <!-- EN: deer -->
+  <Deer.labelPlural>peurat</Deer.labelPlural>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>gaselli</Gazelle.label>
+  <Gazelle.labelPlural>gasellit</Gazelle.labelPlural>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>alppikauris</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>naaras alppikauris</Ibex.labelFemale>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>alppikaurispässi</Ibex.labelMale>
+  <Ibex.labelMalePlural>alppikaurispässit</Ibex.labelMalePlural>
+  <!-- EN: ibexes -->
+  <Ibex.labelPlural>alppikauriit</Ibex.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>sika</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>emakko</Pig.labelFemale>
+  <Pig.labelFemalePlural>emakot</Pig.labelFemalePlural>
+  <Pig.labelPlural>siat</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>porsas</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.labelPlural>porsaat</Pig.lifeStages.piglet.labelPlural>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>villisika</WildBoar.label>
+  <WildBoar.labelPlural>villisiat</WildBoar.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfamajava</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>Suuri majavasta geenimuunneltu eläin, joka on suunniteltu keräämään puuta konemaisella tehokkuudella. Erikoistunee ruokinnan puutteessa nämä eläimet tulevat hulluksi ja syövät puita kokonaisina.</Alphabeaver.description>
+  <Alphabeaver.race.meatLabel>alfamajavan lihaa</Alphabeaver.race.meatLabel>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>TODO</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>TODO</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>TODO</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Suuri käärme. Kobrat ovat erittäin aggressiivisia yllytettyinä - on parempi pysyä loitolla näistä olennoista.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>kobran lihaa</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>TODO</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>TODO</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>trumbo</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>Jättimäinen uljas olento, jonka alkuperä on tuntematon. Trumbo on luonnoltaan lempeä, mutta äärimmäisen vaarallinen suututettuna. Sen pitkä turkki on poikkeuksellisen kaunista, sen vuota on myös erittäin vastustuskykyistä. Sen veitsenterävä sarvi on erittäin arvostettu useimmilla markkinoilla.\n\nLegendat kertovat, että vanha trumbo on universumin viisain olento - se vain haluaa olla puhumatta.</Thrumbo.description>
+  <Thrumbo.race.meatLabel>trumbon lihaa</Thrumbo.race.meatLabel>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>sarvi</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>vasen jalka</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>oikea jalka</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>pää</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>kilpikonna</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Tämä raskaasti panssaroitu matelija on tunnettu hitaasta nopeudestaan ja yllättävän rajusta puremastaan.</Tortoise.description>
+  <Tortoise.race.meatLabel>kilpikonnan lihaa</Tortoise.race.meatLabel>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>TODO</Tortoise.tools.head.label>
+  
+</LanguageData>

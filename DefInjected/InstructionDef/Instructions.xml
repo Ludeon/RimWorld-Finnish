@@ -94,7 +94,9 @@
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
   <ChopTrees.text>Haluat kerätä hieman puuta. Määrää joitain puita kaadettavaksi.\n\nValitse KAADA PUITA ja määrää 10 puuta kaadettavaksi.\n\n(Edistynyt vihje: Voit vetää laatikon puiden yli määrätäksesi monen kerralla.)</ChopTrees.text>
   
-  <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>TODO</CreateWorldParams.rejectInputMessage>
+  <!-- EN: This page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>Tervetuloa Rimworldiin! Tämä tutoriaali opettaa sinulle pelin pelaamisen.\n\nEnsimmäinen askel on luoda maailma jossa pelata.\n\nTämä sivu määrittää, miten maailmasi tulisi luoda.\n\nOletusarvot ovat hyvät - ole hyvä ja paina LUO!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
@@ -203,7 +205,7 @@
   <UnforbidStartingResources.onMapInstruction>Salli tämä</UnforbidStartingResources.onMapInstruction>
   <!-- EN: Please allow your starting items. -->
   <UnforbidStartingResources.rejectInputMessage>Ole hyvä ja salli aloitusesineesi.</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
   <UnforbidStartingResources.text>Jotta yhdyskuntalaiset voivat nyt tuoda ensineitä varastoalueelle sinun täytyy sallia esineet.\n\n1. Klikkaa aloitusesineitä valitaksesi niitä.\n2. Paina KIELLÄ TAI SALLI -komentoa salliaksesi ne.\n\n(Edistynyt vihje: Tuplaklikkaa esinettä valitaksesi kaikki näytössä olevat samantyyppiset esineet.)</UnforbidStartingResources.text>
   
 </LanguageData>

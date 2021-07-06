@@ -68,9 +68,9 @@
   <!-- EN: Loading all active mods -->
   <LoadingAllActiveMods>Ladataan kaikkia aktiivisia modeja</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>Ladataan defs</LoadingDefs>
+  <LoadingDefs>Ladataan määritelmiä</LoadingDefs>
   <!-- EN: Loading assets -->
-  <LoadingAssets>Ladataan assetteja</LoadingAssets>
+  <LoadingAssets>Ladataan esineitä</LoadingAssets>
   <!-- EN: Initializing -->
   <Initializing>Alustetaan</Initializing>
   <!-- EN: Loading world -->
@@ -370,6 +370,8 @@
   <LeatherType>Nahan tyyppi</LeatherType>
   <!-- EN: Body size -->
   <BodySize>Ruumiinkoko</BodySize>
+  <!-- EN: Growth -->
+  <Growth>Kasvu</Growth>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Värväämisen vaikeus</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -394,12 +396,10 @@
   <WildnessExplanation>Villimpiä eläimiä on luonnostaan vaikeampi kesyttää, kouluttaa ja käsitellä.</WildnessExplanation>
   <!-- EN: Training decay interval -->
   <TrainingDecayInterval>Koulutuksen häviämisaika</TrainingDecayInterval>
-  <!-- EN: Tameness will never decay. -->
-  <TamenessWillNotDecay>Kesyys ei koskaan häviä.</TamenessWillNotDecay>
-  <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>Eläimen saastan määrä</AnimalFilthRate>
-  <!-- EN: Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>Eläimet tuottavat saastaa kun ne liikkuvat rakennetuilla lattioilla.\n\nTämä on keskimääräinen tuotettu saasta per {0} kuljettua neliötä.\n\nSuuremmat ja vähemmän lemmikkieläinmäiset eläimet tuottavat enemmän saastaa.</AnimalFilthRateExplanation>
+  <!-- EN: Tameness will never decay for animals of very low wildness. -->
+  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
+  <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
+  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>Aika</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -444,6 +444,8 @@
   <NeverSafe>Ei koskaan turvallinen</NeverSafe>
   <!-- EN: {0} / day -->
   <PerDay>{0} päivässä</PerDay>
+  <!-- EN: {0} / hour -->
+  <PerHour>{0} tunnissa</PerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Kuormajuhta</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -468,8 +470,8 @@
   <NuzzleIntervalExplanation>Miten usein eläin kiehnää ystävällisiä yhdyskuntalaisia keskimäärin.\n\nKiehnäys on monelle eläinlajille yhteinen käytöstapa, jossa eläin painaa nenänsä tai kuononsa ystävää vasten hellyydenosoituksena.\nUseimpien ihmisten mielestä tämä on söpöä ja se saa heidät hyvälle tuulelle joksikin aikaa.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Koston tod.näk. satutettaessa</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olento haluaa kostaa hyökkääjän satuttaessa kiväärietäisyydeltä.\n\nTämä todennäköisyys kasvaa jos hyökkääjä on lähempänä. Jos hyökkääjä on erittäin lähellä, todennäköisyys on kolme kertaa yhtä suuri.\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.\n\nMinimoidaksesi olennon kostonhimoisuuden hyökkää sen kimppuun kiväärietäisyydeltä hitaasti ampuvalla aseella.</HarmedRevengeChanceExplanation>
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <HarmedRevengeChanceExplanation>Todennäköisyyys, että tämä olento haluaa hyökkää satutettaessa.\n\nTämä todennäköisyys jopa kolminkertaiseksi kun hyökkääjä on lähellä.\nTämä todennäköisyys toimii joka kerta kun vahinkoa otetaan, joten hitaammin ampuvat suurivahinkoiset aseet laukaisevat sen epätodennäköisemmin.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Koston tod.näk. kesytyksen epäonn.</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -592,6 +594,16 @@
   <YourNegotiatorBonus>Neuvottelijasi bonus</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>Bonus ryhmän tukikohdan kanssa vaihtamisesta</TradeWithFactionBaseBonus>
+  <!-- EN: Joins as slave -->
+  <JoinsAsSlave>Liittyy orjana</JoinsAsSlave>
+  <!-- EN: Joins as colonist -->
+  <JoinsAsColonist>Liittyy yhdyskuntalaisena</JoinsAsColonist>
+  <!-- EN: If purchased, this person will join your colony as a slave. -->
+  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
+  <!-- EN: If purchased, this person will join your colony as a colonist. -->
+  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
+  <!-- EN: Trading drugs bonus -->
+  <TradingDrugsBonus>Lisä huumeiden vaihdosta</TradingDrugsBonus>
   <!-- EN: minimum -->
   <minimum>minimi</minimum>
   <!-- EN: Final price -->
@@ -627,7 +639,7 @@
   <!-- EN: Items -->
   <ItemsTab>Esineet</ItemsTab>
   <!-- EN: Travel supplies -->
-  <FoodAndMedicineTab>Matkatarvikkeet</FoodAndMedicineTab>
+  <TravelSupplies>Matkatarvikkeet</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Sinun täytyy määrätä vähintään yksi ei maissa oleva yhdyskuntalainen.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -636,8 +648,8 @@
   <CaravanCouldNotFindPackingSpot>Ei löytynyt yhtään sopivaa pakkausaluetta. Varmista että valittuun poistumiskohtaan ({0}) pääsee.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>Varoitus: jotkin määrätyistä yhdyskuntalaisista eivät pääse poistumiskohtaan ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>{1_labelShort} on luoksepääsemätön kaikille määrätyille yhdyskuntalaisille.</CaravanPawnIsUnreachable>
+  <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
+  <CaravanRoamerCannotReachSpots>{1_labelShort} ei pääse pysähdysalueelle tai poistumiskohtaan kun yksikään määrätyistä yhdyskuntalaisista kuljettaa sitä.</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Yksikään määrätyistä yhdyskuntalaisista ei voi tuoda esinettä {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -728,7 +740,11 @@
   <CaravanMovementSpeed>Liikkumisnopeus</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
   <TilesPerDay>laattaa/päivä</TilesPerDay>
-  <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <!-- EN: None - too heavy -->
+  <TilesPerDayImmobile>Ei ollenkaan - liian raskas</TilesPerDayImmobile>
+  <!-- EN: None -->
+  <TilesPerDayImmobileShort>Ei ollenkaan</TilesPerDayImmobileShort>
+  <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>Liikkumisnopeus riippuu kaikkien ihmisten ja eläinten keskinopeudesta, kannetusta massasta ja maaston liikkumisvaikeudesta.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
   <AnimalsWillBeAbleToGraze>Eläimet tulevat pystymään laiduntamaan</AnimalsWillBeAbleToGraze>
@@ -753,7 +769,7 @@
   <!-- EN: Total body size -->
   <TotalBodySize>Yhteenlaskettu ruumiinkoko</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectFoodAndMedicine>Valitse matkatarvikkeet automaattisesti</AutomaticallySelectFoodAndMedicine>
+  <AutomaticallySelectTravelSupplies>Valitse matkatarvikkeet automaattisesti</AutomaticallySelectTravelSupplies>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -844,14 +860,6 @@
   <DrugPolicyInUse>Päihdekäytäntöä käyttää {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>Ruokarajoitusta käyttää {0}.</FoodRestrictionInUse>
-  <!-- EN: Social drugs -->
-  <SocialDrugs>Seurapäihteet</SocialDrugs>
-  <!-- EN: No drugs -->
-  <NoDrugs>Ei päiheitä</NoDrugs>
-  <!-- EN: One drink per day -->
-  <OneDrinkPerDay>Yksi juoma päivässä</OneDrinkPerDay>
-  <!-- EN: Unrestricted -->
-  <Unrestricted>Rajoittamaton</Unrestricted>
   <!-- EN: No drug policy selected -->
   <NoDrugPolicySelected>Ei päihdekäytäntöä valittuna</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
@@ -1018,10 +1026,16 @@
   <AbilityCantApplyToMentallyBroken>Henkilöllä {0_labelShort} on hermoromahdus.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
   <AbilityCanOnlyApplyToMentallyBroken>Henkilöllä {0_labelShort} ei ole hermoromahdusta.</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not maddened. -->
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} ei ole hullu.</AbilityCanOnlyApplyToManhunter>
+  <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
+  <AbilityCantApplyToScaria>Oliolla {0_labelShort} on scaria, joka voidaan hoitaa vain lääkinnällisesti.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
   <AbilityDoesntWorkOnMentalState>{0} ei toimi '{1}'-mielentilassa.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
   <AbilityCantApplyNoResistance>Henkilöllä {0_labelShort} ei ole vastustusta.</AbilityCantApplyNoResistance>
+  <!-- EN: {0_labelShort} is downed. -->
+  <AbilityCantApplyDowned>{0_labelShort} on maissa.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Ei voi käyttää: {0} on aseksuaali.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
@@ -1032,6 +1046,22 @@
   <AbilityAlreadyInspired>{0_labelShort} on jo inspiroitunut.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
   <AbilityCantGetInspiredNow>{0_labelShort} ei voi juuri nyt saada inspiraatiota.</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
+  <AbilityMustBeNotSameIdeo>Henkilöllä {0_labelShort} on oltava eri ideousko kuin henkilöllä {1_labelShort}.</AbilityMustBeNotSameIdeo>
+  <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
+  <AbilityMustBeSameIdeo>Henkilöllä {0_labelShort} on oltava sama ideousko kuin henkilöllä {1_labelShort}.</AbilityMustBeSameIdeo>
+  <!-- EN: {0_labelShort} must be sick or injured. -->
+  <AbilityMustBeSickOrInjured>Henkilön {0_labelShort} on oltava sairas tai loukkaantunut.</AbilityMustBeSickOrInjured>
+  <!-- EN: {0} can only counsel {1}s. -->
+  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <!-- EN: {0_labelShort} is already considered guilty. -->
+  <AbilityMustBeNotGuilty>Henkilöä {0_labelShort} pidetään jo syyllisenä.</AbilityMustBeNotGuilty>
+  <!-- EN: Must target a human. -->
+  <AbilityMustBeHuman>Kohteen on oltava ihminen.</AbilityMustBeHuman>
+  <!-- EN: Must target a non-wild human. -->
+  <AbilityMustBeHumanNonWild>Kohteen on oltava ei-villi ihminen.</AbilityMustBeHumanNonWild>
+  <!-- EN: Must target an animal. -->
+  <AbilityMustBeAnimal>Kohteen on oltava eläin.</AbilityMustBeAnimal>
   <!-- EN: {0_labelShort} is unconscious. -->
   <AbilityCantApplyUnconscious>{0_labelShort} on tajuton.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
@@ -1059,5 +1089,57 @@
   <MentalBreakIntensityMajor>suuri</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
   <MentalBreakIntensityExtreme>äärimmäinen</MentalBreakIntensityExtreme>
-  
+
+  <!-- Auto slaughter -->
+  <!-- EN: Animal -->
+  <AutoSlaugtherHeaderColLabel>Eläin</AutoSlaugtherHeaderColLabel>
+  <!-- EN: Current -->
+  <AutoSlaugtherHeaderColCurrent>Nykyinen</AutoSlaugtherHeaderColCurrent>
+  <!-- EN: Max -->
+  <AutoSlaugtherHeaderColMax>Maks</AutoSlaugtherHeaderColMax>
+  <!-- EN: Total -->
+  <AutoSlaugtherHeaderColTotal>Yhteensä</AutoSlaugtherHeaderColTotal>
+  <!-- EN: Other -->
+  <AutoSlaugtherHeaderColOther>Muut</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
+  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
+
+  <!-- EN: The animal to be automatically slaughtered. -->
+  <AutoSlaugtherHeaderTooltipLabel>Automaattisesti teurastettava eläin.</AutoSlaugtherHeaderTooltipLabel>
+  <!-- EN: The current number of animals in the colony, both male and female.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
+  <!-- EN: The current number of males in the colony.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
+  <!-- EN: The maximum number of males in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
+  <!-- EN: The current number of females in the colony.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <!-- EN: Desired maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras.\n\nPregnant and immature animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
+  <!-- EN: The current number of pregnant or immature animals in the colony.\n\nThese animals are ignored. -->
+  <AutoSlaugtherHeaderTooltipOther>TODO</AutoSlaugtherHeaderTooltipOther>
+
+  <!-- EN: Click to set an animal count limit. -->
+  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
+
+  <!-- Room requirements -->
+  <!-- EN: no beds allowed -->
+  <RoomRequirementNoBeds>ei saa olla sänkyjä</RoomRequirementNoBeds>
+  <!-- EN: room area: {0} tiles -->
+  <RoomRequirementArea>huoneen pinta-ala: {0} laattaa</RoomRequirementArea>
+  <!-- EN: room impressiveness -->
+  <RoomRequirementImpressiveness>huoneen vaikuttavuus</RoomRequirementImpressiveness>
+  <!-- EN: all floored -->
+  <RoomRequirementAllFloored>kokonaan lattioitu</RoomRequirementAllFloored>
+  <!-- EN: all braziers must be lit -->
+  <RoomRequirementAllBraziersMustBeLit>kaikkien hiilipannujen on oltava sytytetty</RoomRequirementAllBraziersMustBeLit>
+  <!-- EN: all fine floored -->
+  <RoomRequirementAllFineFloored>kokonaan hienosti lattioitu</RoomRequirementAllFineFloored>
+  <!-- EN: no work facilities allowed -->
+  <RoomRequirementNoProductionFacilities>ei saa olla työlaitteita</RoomRequirementNoProductionFacilities>
+  <!-- EN: no altars allowed -->
+  <RoomRequirementNoAltars>ei saa olla alttareita</RoomRequirementNoAltars>
+
 </LanguageData>

@@ -21,6 +21,11 @@
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
   <CryptosleepCasket.description>Itsetoiminen sarkofagi, joka on suunniteltu pitämään henkilö keskeytetyn elon tilassa monia vuosia.</CryptosleepCasket.description>
   
+  <!-- EN: egg box -->
+  <EggBox.label>TODO</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>TODO</EggBox.description>
+  
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>palovaahtopaukku</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
@@ -68,6 +73,11 @@
   <!-- EN: Designates a spot for throwing parties. -->
   <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
   
+  <!-- EN: pen marker -->
+  <PenMarker.label>TODO</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>TODO</PenMarker.description>
+  
   <!-- EN: pod launcher -->
   <PodLauncher.label>pod launcher</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
@@ -90,7 +100,7 @@
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>työkalukaappi</ToolCabinet.label>
-  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
   <ToolCabinet.description>Lisää työskentelynopeutta. Täytyy rakentaa lähelle työpöytää. Yksi työpöytä voi olla yhdistettynä vain yhteen työkalukaappiin.</ToolCabinet.description>
   
   <!-- EN: transport pod -->

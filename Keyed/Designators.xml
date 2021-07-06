@@ -116,6 +116,8 @@
   <DesignatorClearAreaAllowedDesc>Poistaa neliöitä sallitusta alueesta.\n\nSallitut alueet on tiettyjä alueita joihin voit määrätä yhdyskuntalaisiasi. Yhdyskuntalaiset eivät tee töitä tai täytä tarpeitaan sallitun alueensa ulkopuolella..</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Muokkaa alueita...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>Muokkaa autom. teurastusta...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
@@ -170,6 +172,16 @@
   <DesignatorTame>Kesytä</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Kesytä villi eläin.</DesignatorTameDesc>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>Vapauta luontoon</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>Tutki</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->

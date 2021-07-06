@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>Näyttää siltä että he aikovat piirittää yhdyskuntaa ja pommittaa teitä tykkilulella etäältä. Voit yrittää odottaa heidän lähtöään - tai lähteä hoitelemaan heidät.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Näyttää siltä että he aikovat käyttää piiritystaktiikoita auttaakseen sinua.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>Piiritys</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>Liittolaisia</Siege.letterLabelFriendly>
+  
+</LanguageData>

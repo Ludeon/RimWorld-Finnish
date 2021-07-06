@@ -22,6 +22,11 @@
   <Cut.deathMessage>{0} on leikattu kuoliaaksi.</Cut.deathMessage>
   
   <!-- EN: blunt -->
+  <Demolish.label>TODO</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>TODO</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
   <Poke.label>TODO</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
   <Poke.deathMessage>TODO</Poke.deathMessage>
