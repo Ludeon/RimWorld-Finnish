@@ -407,7 +407,7 @@
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Yksikään vartijoistasi ei kykene väkivaltaan. Teloitusta ei suoriteta.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemies>TODO</MessageCanReformCaravanNowNoMoreEnemies>
+  <MessageCanReformCaravanNowNoMoreEnemies>Alue on nyt turvallinen. Voit muodostaa karavaanin uudelleen Maailma-näkymässä.</MessageCanReformCaravanNowNoMoreEnemies>
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
   <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>TODO</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
 
@@ -522,7 +522,7 @@
   <!-- EN: caused berserk on {PAWN_labelShort} -->
   <GoodwillChangedReason_CausedBerserk>henkilössä {PAWN_labelShort} aiheutettiin raivopäisyys</GoodwillChangedReason_CausedBerserk>
   <!-- EN: attacked {0_name} -->
-  <GoodwillChangeReason_AttackedFaction>{0_name} oli hyökkkäyksen kohde</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_AttackedFaction>{0_name} oli hyökkäyksen kohde</GoodwillChangeReason_AttackedFaction>
   <!-- EN: shuttle destroyed -->
   <GoodwillChangeReason_ShuttleDestroyed>sukkula tuhoutui</GoodwillChangeReason_ShuttleDestroyed>
   <!-- EN: civilians lost -->
@@ -724,11 +724,5 @@
   <TooCloseToOtherPlant>TODO</TooCloseToOtherPlant>
   <!-- EN: Too close to {0_label}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>TODO</TooCloseToOtherSeedPlantCell>
-  
-  <!-- UNUSED -->
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} antoi eläimelle {1} nimeksi {NAMEE_nameFull} kun se kiehnäsi häntä.</MessageNuzzledPawnGaveNameTo>
-  <MessageSiteCountdownBecauseNoMoreEnemies>Olet kukistanut kaikki viholliset. Karavaani muodostetaan automaattisesti uudelleen kun on kulunut {0}.</MessageSiteCountdownBecauseNoMoreEnemies>
-  <MessageSiteCountdownBecauseNoEnemiesInitially>Karavaani muodostetaan automaattisesti uudelleen kun on kulunut {0}. Voit muodostaa karavaanin uudelleen Maailma-näkymässä.</MessageSiteCountdownBecauseNoEnemiesInitially>
-  <GoodwillChangedReason_NaturallyOverTime>luonnollinent taipumus saavuttaa arvo {0} ajan myötä</GoodwillChangedReason_NaturallyOverTime>
 
 </LanguageData>

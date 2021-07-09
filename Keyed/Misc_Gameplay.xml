@@ -1604,8 +1604,5 @@
   <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>TODO</MaxValue>
-  
-  <!-- UNUSED -->
-  <AverageCaravanMemberMoveSpeed>Henkilöiden keskim. liikkumisnopeus</AverageCaravanMemberMoveSpeed>
 
 </LanguageData>

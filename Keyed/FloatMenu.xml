@@ -398,7 +398,7 @@
   <!-- EN: Cannot prioritize: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Ei voi priorisoida: ei koskaan tee toimintoa {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
-  <MissingTitleAbility>TODO</MissingTitleAbility>
+  <MissingTitleAbility>ei tarvittavaa titteliä</MissingTitleAbility>
 
   <!-- EN: Cannot prioritize: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Ei voi priorisoida: ei koskaan tee toimintoa {0}</CannotPrioritizeWorkGiverDisabled>
@@ -510,8 +510,5 @@
   <RepairThing>TODO</RepairThing>
   <!-- EN: Cannot repair {0} -->
   <CannotRepair>TODO</CannotRepair>
-  
-  <!-- UNUSED -->
-  <CannotTradeMissingTitleAbility>Ei voi vaihtaa: ei tarvittavaa titteliä</CannotTradeMissingTitleAbility>
 
 </LanguageData>

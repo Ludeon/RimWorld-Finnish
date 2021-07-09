@@ -348,11 +348,4 @@
   <!-- EN: Creates need -->
   <CreatesNeed>Luo tarpeen</CreatesNeed>
 
-  <!-- UNUSED -->
-  <CurrentGoodwillTip>Nykyinen hyväntahtoisuus ja suhteiden tila tämän ryhmän kanssa.</CurrentGoodwillTip>
-  <CurrentRelationTip>Nykyiset suhteet tämän ryhmän kanssa.</CurrentRelationTip>
-  <CurrentGoodwillTip_NaturalGoodwill>Tämän ryhmän luonnollinen hyväntahtoisuuden vaihteluväli on arvosta {0} arvoon {1}</CurrentGoodwillTip_NaturalGoodwill>
-  <CurrentGoodwillTip_NaturalGoodwillRise>Jos hyväntahtoisuus on arvon {0} alapuolella, se nousee {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillRise>
-  <CurrentGoodwillTip_NaturalGoodwillFall>Jos hyväntahtoisuus on arvon {0} yläpuolella, se putoaa {1} vuodessa.</CurrentGoodwillTip_NaturalGoodwillFall>
-
 </LanguageData>
