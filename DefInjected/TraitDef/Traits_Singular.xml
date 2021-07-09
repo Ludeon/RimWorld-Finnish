@@ -154,13 +154,9 @@
   <Tough.degreeDatas.tough.description>TODO</Tough.degreeDatas.tough.description>
   
   <!-- EN: body modder -->
-  <Transhumanist.degreeDatas.body_modder.label>TODO</Transhumanist.degreeDatas.body_modder.label>
+  <Transhumanist.degreeDatas.body_modder.label>ruumiinmuokkaaja</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.body_modder.description>TODO</Transhumanist.degreeDatas.body_modder.description>
-  
-  <!-- UNUSED -->
-  <Transhumanist.degreeDatas.transhumanist.label>transhumanisti</Transhumanist.degreeDatas.transhumanist.label>
-  <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef} tuntee itsensä rajoittuneeksi heikossa ihmisruumiissaan. Hän unelmoi usein kehonsa parantelemisesta bioelektrisillä osilla.</Transhumanist.degreeDatas.transhumanist.description>
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} tuntee itsensä rajoittuneeksi heikossa ihmisruumiissaan. Hän unelmoi usein kehonsa parantelemisesta keinotekoisilla ruumiinosilla.</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>myyrä</Undergrounder.degreeDatas.undergrounder.label>

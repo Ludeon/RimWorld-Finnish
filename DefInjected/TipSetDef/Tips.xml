@@ -58,7 +58,7 @@
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>Yhden hengen karavaanit voivat olla erittäin hyödyllisiä tietyissä tilanteissa.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
-  <GameplayTips.CaravanRideableAnimals>TODO</GameplayTips.CaravanRideableAnimals>
+  <GameplayTips.CaravanRideableAnimals>Karavaanit liikkuvat nopeammin jos niihin kuuluu ratsastettavia eläimiä kuten hevosia, aaseja ja kameleita.</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Pienten karavaanien kimppuun hyökätään harvemmin, koska ne ovat vähemmän näkyviä.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
@@ -147,8 +147,5 @@
   <GameplayTips.AnimalFilth>TODO</GameplayTips.AnimalFilth>
   <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
   <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
-  
-  <!-- UNUSED -->
-  <GameplayTips.CaravanFasterAnimals>Nopeammat eläimet muodostavat nopeampia karavaaneja.</GameplayTips.CaravanFasterAnimals>
   
 </LanguageData>
