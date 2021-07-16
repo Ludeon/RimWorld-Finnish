@@ -350,7 +350,7 @@
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>Ei voi ottaa käyttöön: {1_labelShort} ei kykene väkivaltaan.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
-  <MessageCantEquipIncapableOfShooting>TODO</MessageCantEquipIncapableOfShooting>
+  <MessageCantEquipIncapableOfShooting>Ei voi ottaa käyttöön: {1_labelShort} ei kykene ampumaan.</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
   <MessageCantEquipIncapableOfManipulation>Ei voi ottaa käyttöön: Kykenemätön.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->

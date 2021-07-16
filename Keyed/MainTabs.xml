@@ -335,7 +335,6 @@
   <!-- EN: neutral to {0} -->
   <QuestNeutralTo>ryhmän {0} kanssa neutraali</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
-  <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
   <QuestRequiredThingStudied>tutki kohdetta {0_labelshort}</QuestRequiredThingStudied>
 
   <!-- Health tab -->
