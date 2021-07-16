@@ -66,7 +66,7 @@
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} ei löytänyt lähistöltä varaamattomia kranaatteja aseeseen {GUN_label}.</MessageOutOfNearbyShellsFor>
   <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
-  <MessageOutOfNearbyFuelFor>PAWN_labelShort} ei löytänyt lähistöltä varaamatonta polttoainetta {FUEL} kohteeseen {GUN_label}.</MessageOutOfNearbyFuelFor>
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} ei löytänyt lähistöltä varaamatonta polttoainetta {FUEL} kohteeseen {GUN_label}.</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>Varoitus: {ANIMAL_kindBasePlural} hyökkäävät uhattuna todennäköisyydellä {1}. Todennäköisyys riippuu etäisyydestä ja mesästäjän hiiviskelytaidosta.</MessageAnimalsGoPsychoHunted>

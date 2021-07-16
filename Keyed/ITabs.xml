@@ -87,7 +87,7 @@
   <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
   <RecruitmentResistanceDesc>TODO</RecruitmentResistanceDesc>
   <!-- EN: {0} base resistance -->
-  <RecruitmentResistanceFromPawnKind>0} perusvastustus</RecruitmentResistanceFromPawnKind>
+  <RecruitmentResistanceFromPawnKind>{0} perusvastustus</RecruitmentResistanceFromPawnKind>
   <!-- EN: Relations gain on release -->
   <PrisonerReleasePotentialRelationGains>Hyväntahtoisuuden lisä vapautettaessa</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
