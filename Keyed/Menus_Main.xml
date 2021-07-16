@@ -153,9 +153,9 @@
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Järjestä modit automaattisesti</ResolveModOrder>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadAfter>Ei voi siirtää modia {0}: Se pitää ladata modin {1} jälkeen.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
+  <ModReorderConflict_MustLoadBefore>Ei voi siirtää modia {0}: Se pitää ladata modia {1} ennen.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Poista tilaus</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -435,7 +435,7 @@
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
   <Difficulty_AllowMortars_Info>Pelaaja voi rakentaa kranaatinheittimiä\n\nVoit silti käyttää valloitettuja kranaatinheittimiä vaikka tämä on pois käytöstä.</Difficulty_AllowMortars_Info>
   <!-- EN: Classic mortars -->
-  <Difficulty_ClassicMortars_Label>TODO</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Label>Klassiset kranaatinheittimet</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
   <Difficulty_ClassicMortars_Info>TODO</Difficulty_ClassicMortars_Info>
   
@@ -564,7 +564,7 @@
   <!-- EN: Caused by quest status: {0} -->
   <IncapableOfTooltipQuest>Tehtävätilanteen {0} aiheuttama</IncapableOfTooltipQuest>
   <!-- EN: Caused by role: {0} -->
-  <IncapableOfTooltipRole>TODO</IncapableOfTooltipRole>
+  <IncapableOfTooltipRole>Roolin {0} aiheuttama</IncapableOfTooltipRole>
   <!-- EN: Traits -->
   <Traits>Luonteenpiirteet</Traits>
   <!-- EN: Permanent mood effect -->
@@ -584,7 +584,7 @@
   <!-- EN: female -->
   <Female>naaras</Female>
   <!-- EN: male and female -->
-  <MaleAndFemale>TODO</MaleAndFemale>
+  <MaleAndFemale>uros ja naaras</MaleAndFemale>
   <!-- EN: male -->
   <MaleAnimal>uros</MaleAnimal>
   <!-- EN: female -->
@@ -645,24 +645,24 @@
 
   <!-- Factions -->
   <!-- EN: Factions -->
-  <Factions>TODO</Factions>
+  <Factions>Ryhmät</Factions>
   <!-- EN: Gameplay problems can occur with more than {0} factions. -->
-  <RecommendedFactionCount>TODO</RecommendedFactionCount>
+  <RecommendedFactionCount>Enemmän kuin {0} ryhmällä pelaaminen saattaa aiheuttaa pelattavuusongelmia.</RecommendedFactionCount>
   <!-- EN: Maximum {0} visible factions allowed. -->
-  <TotalFactionsAllowed>TODO</TotalFactionsAllowed>
+  <TotalFactionsAllowed>Enintään {0} näkyvillä olevaa ryhmää sallitaan.</TotalFactionsAllowed>
   <!-- EN: There can be no more than {0} {1}. -->
-  <MaxFactionsForType>TODO</MaxFactionsForType>
+  <MaxFactionsForType>Tyypin {1} ryhmiä ei saa olla enemmän kuin {0}.</MaxFactionsForType>
   <!-- EN: Restore defaults -->
-  <ResetFactionsToDefault>TODO</ResetFactionsToDefault>
+  <ResetFactionsToDefault>Palauta oletukset</ResetFactionsToDefault>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
   <FactionSelectionDesc>TODO</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>TODO</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>Ryhmän {0} poistaminen tarkoittaa vähennettyä tehtävien vaihtelua ja muuta vähennettyä sisältöä.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>TODO</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>Ryhmän {0} poistaminen tarkoittaa vähemmän spontaania uhkien vaihtelua.</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>TODO</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>Ryhmän {0} poistaminen tarkoittaa vähennettyä tehtävien ja spontaanien uhkien vaihtelua.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>TODO</FactionsDisabledWarning>
+  <FactionsDisabledWarning>Ilman muita ryhmiä hyökkäyksiä, vaihtokauppaa ja tehtäviä ei tapahdu normaaliin tapaan.</FactionsDisabledWarning>
 
 </LanguageData>

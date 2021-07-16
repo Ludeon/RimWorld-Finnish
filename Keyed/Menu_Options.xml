@@ -45,7 +45,7 @@
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Simuloi Royaltyn puuttuminen</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>TODO</SimulateNotOwningIdeology>
+  <SimulateNotOwningIdeology>Simuloi Ideologyn puuttuminen</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
   <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
   <!-- EN: Open save data folder -->

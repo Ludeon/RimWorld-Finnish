@@ -37,11 +37,11 @@
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
   <PawnFactionInfo>{0}\n\nRyhmä johon {1_nameDef} kuuluu tällä hetkellä.\n\nKlikkaa katsoaksesi ryhmää.</PawnFactionInfo>
   <!-- EN: Disabled by backstory: {0} -->
-  <WorkDisabledByBackstory>TODO</WorkDisabledByBackstory>
+  <WorkDisabledByBackstory>Taustatarinan {0} estämä</WorkDisabledByBackstory>
   <!-- EN: Disabled by trait: {0} -->
-  <WorkDisabledByTrait>TODO</WorkDisabledByTrait>
+  <WorkDisabledByTrait>luonteenpiirteen {0} estämä</WorkDisabledByTrait>
   <!-- EN: Disabled by quest: {0} -->
-  <WorkDisabledByQuest>TODO</WorkDisabledByQuest>
+  <WorkDisabledByQuest>Tehtävän {0} estämä</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -91,9 +91,9 @@
   <!-- EN: Ally -->
   <Ally>Liittolainen</Ally>
   <!-- EN: hostile -->
-  <HostileLower>TODO</HostileLower>
+  <HostileLower>vihamielinen</HostileLower>
   <!-- EN: ally -->
-  <AllyLower>TODO</AllyLower>
+  <AllyLower>liittolainen</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>kukistettu</DefeatedLower>
   <!-- EN: Enemy of {0} -->
@@ -101,9 +101,9 @@
   <!-- EN: Enemy of:  -->
   <EnemyOf>Viholliset:</EnemyOf>
   <!-- EN: Recent events -->
-  <RecentEvents>TODO</RecentEvents>
+  <RecentEvents>Viimeaikaiset tapahtumat</RecentEvents>
   <!-- EN: Ongoing events -->
-  <OngoingEvents>TODO</OngoingEvents>
+  <OngoingEvents>Nykyiset tapahtumat</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Tämä ryhmä on pysyvästi vihamielinen. He tekevät ryöstöretkiä asuinpaikkoihisi ja karavaaneihisi. Suhteet niiden kanssa eivät koskaan parane mistään syistä.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -215,7 +215,7 @@
 
   <!-- Factions tab -->
   <!-- EN: Factions -->
-  <FactionsTab>TODO</FactionsTab>
+  <FactionsTab>Ryhmät</FactionsTab>
   <!-- EN: No known factions -->
   <NoFactions>TODO</NoFactions>
 
@@ -331,11 +331,12 @@
   <!-- EN: alliance with {0} -->
   <QuestAlliedTo>TODO</QuestAlliedTo>
   <!-- EN: hostile to {0} -->
-  <QuestHostileTo>TODO</QuestHostileTo>
+  <QuestHostileTo>vihamielinen ryhmää {0} kohtaan</QuestHostileTo>
   <!-- EN: neutral to {0} -->
-  <QuestNeutralTo>TODO</QuestNeutralTo>
+  <QuestNeutralTo>ryhmän {0} kanssa neutraali</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
+  <QuestRequiredThingStudied>tutki kohdetta {0_labelshort}</QuestRequiredThingStudied>
 
   <!-- Health tab -->
   <!-- EN: Creates need -->

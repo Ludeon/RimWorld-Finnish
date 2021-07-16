@@ -397,9 +397,9 @@
   <!-- EN: Training decay interval -->
   <TrainingDecayInterval>Koulutuksen häviämisaika</TrainingDecayInterval>
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
-  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
+  <TamenessWillNotDecay>Kesyys ei koskaan häviä erittäin vähän villeiltä eläimiltä.</TamenessWillNotDecay>
   <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
-  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
+  <TamenessWillNotDecayFenceBlocked>Kesyys ei koskaan häviä aitojen takana pidettäviltä eläimiltä.</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>Aika</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -1144,7 +1144,7 @@
   <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
 
   <!-- EN: Click to set an animal count limit. -->
-  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
+  <AutoSlaughterTooltipSetLimit>Klikkaa asettaaksesi rajan eläinten määrälle.</AutoSlaughterTooltipSetLimit>
 
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->

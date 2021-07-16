@@ -44,7 +44,7 @@
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} on lamaantunut.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <ParticipatingInRitual>TODO</ParticipatingInRitual>
+  <ParticipatingInRitual>{0_labelShort} osallistuu tapahtumaan {1}.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Tuli vapaa</CommandFireAtWillLabel>
@@ -142,7 +142,7 @@
   <CommandAllowSowDesc>Kun tämä on pois käytöstä, yhdyskuntalaiset eivät koskaan kylvä kasveja tälle alueelle. He korjaavat silti yhä sadon.</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>TODO</CommandAllowCut>
+  <CommandAllowCut>Salli leikkaaminen</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
   <CommandAllowCutDesc>TODO</CommandAllowCutDesc>
 
@@ -548,7 +548,7 @@
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>TODO</CommandDropPawn>
+  <CommandDropPawn>Pudota {0_nameDef}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
   <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
   
@@ -560,21 +560,21 @@
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
-  <BuildThing>TODO</BuildThing>
+  <BuildThing>Rakenna {0}</BuildThing>
 
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
-  <CommandLeaveRitual>TODO</CommandLeaveRitual>
+  <CommandLeaveRitual>Jätä {RITUAL_label}</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
   <CommandLeaveRitualDesc>TODO</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
   <CommandLeaveLastParticipant>TODO</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>TODO</CommandCancelRitual>
+  <CommandCancelRitual>Peruuta {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
   <CommandCancelRitualDesc>TODO</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
-  <CommandCancelRitualConfirm>TODO</CommandCancelRitualConfirm>
+  <CommandCancelRitualConfirm>Haluatko varmasti peruuttaa rituaalin {RITUAL_labelDef}?</CommandCancelRitualConfirm>
   
 </LanguageData>
