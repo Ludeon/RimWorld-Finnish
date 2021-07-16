@@ -57,6 +57,8 @@
   <NoPath>ei reittiä</NoPath>
   <!-- EN: burying -->
   <Burying>haudataan</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>TODO</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>kielletty</ForbiddenLower>
@@ -421,6 +423,8 @@
   <CannotPrioritizeCellForbidden>Ei voi priorisoida: kielletty</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Sallitun alueen ulkopuolella</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->

@@ -155,6 +155,8 @@
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Tämä lääkintäoperaatio vihastuttaa ryhmän {0}.</MessageMedicalOperationWillAngerFaction>
 
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>TODO</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} epäonnistui synnytyksessä nälänhädän vuoksi.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
@@ -181,9 +183,6 @@
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
   <MessageRoamerLeaving>TODO</MessageRoamerLeaving>
-
-  <!-- EN: Cannot auto-cut plants when pen is not enclosed - build fences. -->
-  <MessageAutoCutInUnenclosedPen>TODO</MessageAutoCutInUnenclosedPen>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Hyönteispesä on lisääntynyt.</MessageHiveReproduced>
@@ -688,6 +687,12 @@
   <MessageRitualRoleMustBePrisonerOrSlave>TODO</MessageRitualRoleMustBePrisonerOrSlave>
   <!-- EN: {0_labelShort} must be capable of fighting. -->
   <MessageRitualRoleMustBeCapableOfFighting>TODO</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>TODO</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot link with an anima tree because {0_possessive} link was recently torn. -->
+  <MessageRitualRolePawnNotConnectable>TODO</MessageRitualRolePawnNotConnectable>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>TODO</MessageRitualRolePawnHasSameIdeo>
   <!-- EN: {0_labelShort} must be capable of wardening. -->
   <MessageRitualRoleMustBeCapableOfWardening>TODO</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->

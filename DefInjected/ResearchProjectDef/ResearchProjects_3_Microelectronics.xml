@@ -58,7 +58,7 @@
   
   <!-- EN: shields -->
   <ShieldBelt.label>shield belt</ShieldBelt.label>
-  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
   <ShieldBelt.description>Momentum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.</ShieldBelt.description>
   
   <!-- EN: transport pod -->

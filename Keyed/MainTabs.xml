@@ -22,8 +22,6 @@
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Varoitus: Tähän liittyvien taitojen keskiarvo on erittäin matala.</SelectedWorkTypeWithVeryBadSkill>
-  <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideologion, so it may make this person unhappy. -->
-  <SelectedWorkTypeOpposedByIdeo>TODO</SelectedWorkTypeOpposedByIdeo>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
   <PriorityOneDoneFirst>Tärkeyden 1 toimet tehdään ensin. Tärkeyden 4 toimet tehdään viimeisinä.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
@@ -184,8 +182,8 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>Tutki</Research>
-  <!-- EN: Researched -->
-  <Researched>Tutkittu</Researched>
+  <!-- EN: Study -->
+  <Study>TODO</Study>
   <!-- EN: Unresearched -->
   <Unresearched>Tutkimatta</Unresearched>
   <!-- EN: Finished -->
@@ -214,16 +212,12 @@
   <TechLevelTooLow>Ryhmäsi teknologian taso on {0}, mutta tämän projektin taso on {1}. Tutkimusnopeuden kerroin on {2}.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>Avaava teknologia</UnlockedWith>
-  <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
-  <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>
 
   <!-- Factions tab -->
   <!-- EN: Factions -->
   <FactionsTab>TODO</FactionsTab>
   <!-- EN: No known factions -->
   <NoFactions>TODO</NoFactions>
-  <!-- EN: Ideoligions -->
-  <IdeoligionsTab>TODO</IdeoligionsTab>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -334,7 +328,7 @@
   <QuestBetrayalOfferTip>{0} antaa sinulle palkinnon jos tapat kaikki ryhmän {1} jäsenet.</QuestBetrayalOfferTip>
   <!-- EN: a colony wealth of at least {0} -->
   <QuestRequiredPlayerWealth>TODO</QuestRequiredPlayerWealth>
-  <!-- EN: allied to {0} -->
+  <!-- EN: alliance with {0} -->
   <QuestAlliedTo>TODO</QuestAlliedTo>
   <!-- EN: hostile to {0} -->
   <QuestHostileTo>TODO</QuestHostileTo>
@@ -343,9 +337,11 @@
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
 
-  
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>Luo tarpeen</CreatesNeed>
+
+  <!-- UNUSED -->
+  <Researched>Tutkittu</Researched>
 
 </LanguageData>

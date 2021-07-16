@@ -483,7 +483,7 @@
   <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
   <Stat_Animal_WoolValuePerYearDesc>TODO</Stat_Animal_WoolValuePerYearDesc>
 
-  <!-- EN: The amount of study that can be done on this object. -->
+  <!-- EN: How much of the total possible study you have performed on this object. -->
   <Stat_Studiable_Desc>TODO</Stat_Studiable_Desc>
   
 </LanguageData>

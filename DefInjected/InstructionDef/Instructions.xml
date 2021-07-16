@@ -96,14 +96,14 @@
   
   <!-- EN: Click GENERATE to generate your world. -->
   <CreateWorldParams.rejectInputMessage>TODO</CreateWorldParams.rejectInputMessage>
-  <!-- EN: This page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>Tervetuloa Rimworldiin! Tämä tutoriaali opettaa sinulle pelin pelaamisen.\n\nEnsimmäinen askel on luoda maailma jossa pelata.\n\nTämä sivu määrittää, miten maailmasi tulisi luoda.\n\nOletusarvot ovat hyvät - ole hyvä ja paina LUO!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Lähetä yhdyskuntalaiset tänne\nkiinni hiekkasäkkeihin suojaan</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>Ole hyvä ja keskity taistelun voittamiseen!</DownRaider.rejectInputMessage>
-  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.text>Olen nyt lähettänyt rosvon hyökkäämään yhdyskuntasi kimppuun!\n\n1. Keskeytä peli painamalla {Key:TogglePause}!\n2. Lue punainen viesti oikeassa alakulmassa.\n3. VÄRVÄÄ yhdyskuntalaisesi valitsemalla heidät ja painamalla VÄRVÄÄ-komentoa.\n4. Klikkaa hiiren oikealla näppäimellä ohjataksesi heidät asemiin hiekkasäkkien keskelle kiinni hiekkasäkkeihin.\n5. Laita peli takaisin päälle.\n\nYhdyskuntalaisten täytyy koskea suojaa hyötyäkseen siitä. Kun olette suojassa odota hyökkääjän lähestymistä. Yhdyskuntalaisesi ampuvat automaattisesti.</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->

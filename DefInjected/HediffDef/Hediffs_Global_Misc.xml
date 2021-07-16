@@ -91,10 +91,6 @@
   <Pregnant.label>raskaus</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>TODO</Pregnant.description>
-  <!-- EN: {0} pregnant -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} raskaana</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
-  <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} on raskaana!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>TODO</Pregnant.labelNoun>
   <!-- EN: early-stage -->
@@ -103,6 +99,10 @@
   <Pregnant.stages.middlestage.label>keskivaihe</Pregnant.stages.middlestage.label>
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>loppuvaihe</Pregnant.stages.latestage.label>
+  
+  <!-- UNUSED -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} raskaana</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} on raskaana!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   
   <!-- EN: psychic coma -->
   <PsychicComa.label>TODO</PsychicComa.label>
