@@ -12,7 +12,7 @@
   <!-- EN: violent -->
   <WorkTagViolent>väkivaltainen</WorkTagViolent>
   <!-- EN: shooting -->
-  <WorkTagShooting>TODO</WorkTagShooting>
+  <WorkTagShooting>ampuu</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>hoitaminen</WorkTagCaring>
   <!-- EN: social -->
@@ -38,7 +38,7 @@
   <!-- EN: hunting -->
   <WorkTagHunting>metsästäminen</WorkTagHunting>
   <!-- EN: constructing -->
-  <WorkTagConstructing>TODO</WorkTagConstructing>
+  <WorkTagConstructing>rakentaa</WorkTagConstructing>
   <!-- EN: commoner work -->
   <WorkTagCommoner>rahvaallinen työ</WorkTagCommoner>
   <!-- EN: all work -->

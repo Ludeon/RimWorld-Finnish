@@ -437,7 +437,7 @@
   <!-- EN: Classic mortars -->
   <Difficulty_ClassicMortars_Label>Klassiset kranaatinheittimet</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>TODO</Difficulty_ClassicMortars_Info>
+  <Difficulty_ClassicMortars_Info>Kranaatinheittimet eivät tarvitse vahvistettuja piippuja rakentaessa tai korjatessa, ja ne on balansoitu tämän helpotuksen mukaan.</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
   <DifficultyAdaptationSection>Mukautuvuus</DifficultyAdaptationSection>
@@ -602,7 +602,7 @@
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Hylätty</StartingPawnsLeftBehind>
   <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>TODO</GuiltyDesc>
+  <GuiltyDesc>Tätä yhdyskuntalaista pidetään syyllisenä. Voit vapaasti karkottaa, mestata tai pidättää heidät, eikä se haittaa muita.\n\nSyyllisyyden loppumiseen</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
@@ -655,7 +655,7 @@
   <!-- EN: Restore defaults -->
   <ResetFactionsToDefault>Palauta oletukset</ResetFactionsToDefault>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>TODO</FactionSelectionDesc>
+  <FactionSelectionDesc>Valitse maailman ryhmät. Voit valita enintään yhteensä {0} ryhmää.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
   <FactionDisabledContentWarning>Ryhmän {0} poistaminen tarkoittaa vähennettyä tehtävien vaihtelua ja muuta vähennettyä sisältöä.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->

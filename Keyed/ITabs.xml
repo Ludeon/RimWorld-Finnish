@@ -397,7 +397,7 @@
   <PenAutoCut_EnabledCheckboxTip>TODO</PenAutoCut_EnabledCheckboxTip>
 
   <!-- EN: Pen is not enclosed -->
-  <AutocutUnenclosedPen>TODO</AutocutUnenclosedPen>
+  <AutocutUnenclosedPen>Aitaus ei ole suljettu</AutocutUnenclosedPen>
   <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
   <AutocutUnenclosedPenTip>TODO</AutocutUnenclosedPenTip>
 

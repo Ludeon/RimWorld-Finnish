@@ -58,7 +58,7 @@
   <!-- EN: burying -->
   <Burying>haudataan</Burying>
   <!-- EN: designated for {0} -->
-  <DesignatedFor>TODO</DesignatedFor>
+  <DesignatedFor>määrätty tarkoitukseen {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>kielletty</ForbiddenLower>
@@ -424,7 +424,7 @@
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Sallitun alueen ulkopuolella</CannotPrioritizeForbiddenOutsideAllowedArea>
   <!-- EN: Cannot prioritize burying -->
-  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
+  <CannotPrioritizeBurying>Hautaamista ei voi priorisoida</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->

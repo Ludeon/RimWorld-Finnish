@@ -29,7 +29,7 @@
   <!-- EN: {0} and {1} -->
   <ToCommaListAnd>{0} ja {1}</ToCommaListAnd>
   <!-- EN: {0} or {1} -->
-  <ToCommaListOr>TODO</ToCommaListOr>
+  <ToCommaListOr>{0} tai {1}</ToCommaListOr>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -39,9 +39,9 @@
   <!-- EN: new -->
   <New>uusi</New>
   <!-- EN: Gender -->
-  <Gender>Sukupuoli</Gender>
+  <Gender>Sos. sukupuoli</Gender>
   <!-- EN: Sex -->
-  <Sex>TODO</Sex>
+  <Sex>Sukupuoli</Sex>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -89,7 +89,7 @@
   <!-- EN: ${0} -->
   <MoneyFormat>{0} €</MoneyFormat>
   <!-- EN: Factors -->
-  <Factors>TODO</Factors>
+  <Factors>Vaikuttajat</Factors>
 
   <!-- Content generation-->
   
@@ -178,6 +178,6 @@
 
   <!-- Apparel Looks -->
   <!-- EN: variant of -->
-  <VariantOf>TODO</VariantOf>
+  <VariantOf>variaatio asusta</VariantOf>
   
 </LanguageData>

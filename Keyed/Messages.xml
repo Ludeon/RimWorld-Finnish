@@ -84,7 +84,7 @@
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} onnistui eläimen {1} kesyttämisessä (todennäköisyys {2}) ja antoi sille nimeksi {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
   <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
-  <MessageTameNoSuitablePens>TODO</MessageTameNoSuitablePens>
+  <MessageTameNoSuitablePens>Eläimelle {ANIMAL_labelShort} ei ole sopivaa aitausta. Se vaeltaa ennen pitkää pois.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
   <MessageRecruitJoinOfferAccepted>{RECRUITEE} on liittynyt yhdyskuntaan.</MessageRecruitJoinOfferAccepted>
 
@@ -156,7 +156,7 @@
   <MessageMedicalOperationWillAngerFaction>Tämä lääkintäoperaatio vihastuttaa ryhmän {0}.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {PAWN_nameDef} is pregnant! -->
-  <MessageAnimalIsPregnant>TODO</MessageAnimalIsPregnant>
+  <MessageAnimalIsPregnant>{PAWN_nameDef} on raskaana!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} epäonnistui synnytyksessä nälänhädän vuoksi.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->

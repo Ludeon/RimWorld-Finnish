@@ -176,12 +176,12 @@
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Vapauta luontoon</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
-  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+  <DesignatorReleaseAnimalToWildDesc>Päästä eläin takaisin luontoon.</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
-  <DesignatorStudy>Tutki</DesignatorStudy>
+  <DesignatorStudy>Analysoi</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
-  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
+  <DesignatorStudyDesc>Tutki tätä esinettä oppiaksesi siitä lisää.</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->

@@ -183,7 +183,7 @@
   <!-- EN: Research -->
   <Research>Tutki</Research>
   <!-- EN: Study -->
-  <Study>TODO</Study>
+  <Study>Analysoi</Study>
   <!-- EN: Unresearched -->
   <Unresearched>Tutkimatta</Unresearched>
   <!-- EN: Finished -->
@@ -217,7 +217,7 @@
   <!-- EN: Factions -->
   <FactionsTab>Ryhmät</FactionsTab>
   <!-- EN: No known factions -->
-  <NoFactions>TODO</NoFactions>
+  <NoFactions>Ei tunnettuja ryhmiä</NoFactions>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -327,9 +327,9 @@
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
   <QuestBetrayalOfferTip>{0} antaa sinulle palkinnon jos tapat kaikki ryhmän {1} jäsenet.</QuestBetrayalOfferTip>
   <!-- EN: a colony wealth of at least {0} -->
-  <QuestRequiredPlayerWealth>TODO</QuestRequiredPlayerWealth>
+  <QuestRequiredPlayerWealth>yhdyskunnan varallisuus vähintään {0}</QuestRequiredPlayerWealth>
   <!-- EN: alliance with {0} -->
-  <QuestAlliedTo>TODO</QuestAlliedTo>
+  <QuestAlliedTo>liitto ryhmän {0} kanssa</QuestAlliedTo>
   <!-- EN: hostile to {0} -->
   <QuestHostileTo>vihamielinen ryhmää {0} kohtaan</QuestHostileTo>
   <!-- EN: neutral to {0} -->

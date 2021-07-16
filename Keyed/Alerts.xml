@@ -293,7 +293,7 @@
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
   <AlertTimedRaidsArrivingInDesc>TODO</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
-  <AlertTimedRaidsArrivingAt>TODO</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingAt>Kohteeseen {0} saapumiseen {1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
   <FactionWillBecomeHostileIfNotLeavingWithin>Ryhmästä tulee vihamielinen jos pysyt täällä</FactionWillBecomeHostileIfNotLeavingWithin>

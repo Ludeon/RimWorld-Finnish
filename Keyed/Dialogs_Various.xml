@@ -1104,17 +1104,17 @@
   <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
   <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
   <!-- EN: Male adult -->
-  <AnimalMaleAdult>TODO</AnimalMaleAdult>
+  <AnimalMaleAdult>Aikuinen uros</AnimalMaleAdult>
   <!-- EN: Male young -->
-  <AnimalMaleYoung>TODO</AnimalMaleYoung>
+  <AnimalMaleYoung>Nuori uros</AnimalMaleYoung>
   <!-- EN: Female adult -->
-  <AnimalFemaleAdult>TODO</AnimalFemaleAdult>
+  <AnimalFemaleAdult>Aikuinen naaras</AnimalFemaleAdult>
   <!-- EN: Female young -->
-  <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
+  <AnimalFemaleYoung>Nuori naaras</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
-  <AnimalPregnant>TODO</AnimalPregnant>
+  <AnimalPregnant>Raskaana</AnimalPregnant>
   <!-- EN: Slaughter -->
-  <AllowSlaughterPregnant>TODO</AllowSlaughterPregnant>
+  <AllowSlaughterPregnant>Teurasta</AllowSlaughterPregnant>
 
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>Automaattisesti teurastettava eläin.</AutoSlaugtherHeaderTooltipLabel>
