@@ -101,7 +101,7 @@
   <!-- EN: Renounce title -->
   <RenounceTitle>Poista titteli</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>TODO</Execute>
+  <Execute>Mestaa</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
   <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
@@ -133,7 +133,7 @@
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Edistys pysähtynyt kunnes on hedelmöitynyt</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>TODO</HatchesIn>
+  <HatchesIn>Kuoriutumiseen</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>tarvitsee tason {2} taidossa {0}, nykyinen taso {1}</SkillTooLow>
   <!-- EN: Freezing -->
@@ -169,7 +169,7 @@
   <!-- EN: enemies -->
   <Enemies>vihollisia</Enemies>
   <!-- EN: people -->
-  <People>TODO</People>
+  <People>ihmisiä</People>
   <!-- EN: time passed -->
   <TimePassed>aikaa kulunut</TimePassed>
   <!-- EN: current radius -->
@@ -341,9 +341,9 @@
   <!-- EN: resting -->
   <Carried>lepää</Carried>
   <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>TODO</RideableAnimalsPerPeople>
+  <RideableAnimalsPerPeople>Ratsastuskelpoisia eläimiä ihmistä kohti</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>Kerroin ratsastuskelpoisista eläimistä</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Kerroin kannetulle massalle: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
@@ -485,35 +485,35 @@
   <!-- EN: Any of -->
   <AnyOf>Mikä tahansa</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>TODO</TraitRequired>
+  <TraitRequired>Tarvitsee luonteenpiirteen {0}</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>Hyväntahtoisuus</Goodwill>
   <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <NaturalGoodwill>Luonnollinen Hyväntahtoisuus</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <NaturalGoodwillRange>Luonnollisen hyväntahtoisuuden väli</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
   <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>vähentää henkilön {0_nameIndef} vastarintaa</JobReport_ReduceResistance>
   <!-- EN: Too large -->
-  <TooLargeForBed>TODO</TooLargeForBed>
+  <TooLargeForBed>Liian suuri</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>TODO</Warning>
+  <Warning>Varoitus</Warning>
   <!-- EN: Has subquest -->
-  <HasSubquest>TODO</HasSubquest>
+  <HasSubquest>On alitehtävä</HasSubquest>
   <!-- EN: Subquest of -->
-  <SubquestOf>TODO</SubquestOf>
+  <SubquestOf>Alitehtävä tehtävälle</SubquestOf>
   <!-- EN: Raid -->
-  <Raid>TODO</Raid>
+  <Raid>Hyökkäys</Raid>
   <!-- EN: Disabled by -->
-  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
+  <ApparelRequirementDisabledLabel>Käytöstä poistanut: </ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>TODO</Nudism>
+  <Nudism>Nudismi</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>TODO</StudyProgress>
+  <StudyProgress>Analysoinnin edistyminen</StudyProgress>
   <!-- EN: completed -->
-  <StudyCompleted>TODO</StudyCompleted>
+  <StudyCompleted>valmis</StudyCompleted>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -533,7 +533,7 @@
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Sisältää {0} / {1} olutta.</ContainsBeer>
   <!-- EN: Contains -->
-  <Contains>TODO</Contains>
+  <Contains>Sisältää</Contains>
   <!-- EN: Fermented -->
   <Fermented>Käynyt</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -603,39 +603,41 @@
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
+  <PenUnenclosedLabel>Sulkematon</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
+  <PenOpenDoorLabel>avoin ovi</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
-  <RenameAnimalPen>TODO</RenameAnimalPen>
+  <RenameAnimalPen>Nimeä aitaus uudelleen</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
+  <AnimalPenMarkerDefaultLabel>Aitauksen merkki {0}</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
-  <InPen>TODO</InPen>
+  <InPen>Aitauksessa</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>TODO</Unpenned>
+  <Unpenned>ei aitauksessa</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
   <UnpennedTooltip>TODO</UnpennedTooltip>
   <!-- EN: Roped by -->
-  <RopedByPawn>TODO</RopedByPawn>
+  <RopedByPawn>Taluttaja:</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>TODO</RopedToThing>
+  <RopedToThing>Köytetty kohteeseen</RopedToThing>
   <!-- EN: Roped to spot. -->
-  <RopedToSpot>TODO</RopedToSpot>
+  <RopedToSpot>Köytetty paikoilleen.</RopedToSpot>
   <!-- EN: Pen size -->
-  <PenSizeLabel>TODO</PenSizeLabel>
+  <PenSizeLabel>Aitauksen koko</PenSizeLabel>
   <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
+  <PenSizeDesc_VerySmall>Erittäin pieni aitaus</PenSizeDesc_VerySmall>
   <!-- EN: Small pen -->
-  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
+  <PenSizeDesc_Small>Pieni aitaus</PenSizeDesc_Small>
   <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
+  <PenSizeDesc_Medium>Keskikokoinen aitaus</PenSizeDesc_Medium>
   <!-- EN: Large pen -->
-  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
+  <PenSizeDesc_Large>Suuri aitaus</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>Eu suljettu - rakenna aitoja</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
-  <PenCapacityDesc>TODO</PenCapacityDesc>
+  <PenCapacityDesc>Eläinten {ANIMALDEF_label} kapasiteetti</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>Esimerkkieläimet</PenExampleAnimals>
 
 
   <!-- Control -->
@@ -692,7 +694,7 @@
   <!-- EN: resting. -->
   <ReportResting>lepää.</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>TODO</ReportLayingDown>
+  <ReportLayingDown>makaa.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>katselee auringonnousua.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -920,7 +922,7 @@
   <!-- EN: Ingredients -->
   <Ingredients>Ainesosat</Ingredients>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>pinoutuu vain samanlaisten aterioiden kanssa</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -956,11 +958,11 @@
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Kuolee valolle altistettuna</DyingBecauseExposedToLight>
   <!-- EN: Cut now -->
-  <AutoCutNow>TODO</AutoCutNow>
+  <AutoCutNow>Leikkaa nyt</AutoCutNow>
   <!-- EN: harvesting -->
-  <HarvestGerund>TODO</HarvestGerund>
+  <HarvestGerund>korjaa satoa</HarvestGerund>
   <!-- EN: cutting -->
-  <CutGerund>TODO</CutGerund>
+  <CutGerund>leikkaa</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -1058,7 +1060,7 @@
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Ei voida asettaa katon alle.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>Täytyy asettaa paksun katon alle.</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Pitää asettaa siten että pääty on aluksen rakennepalkissa kiinni.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -1078,7 +1080,7 @@
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>Ei voi asettaa ansojen viereen.</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>Ei voi asettaa samantyyppisen rakennuksen viereen.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1152,7 +1154,7 @@
   <!-- EN: Quality -->
   <Quality>Laatu</Quality>
   <!-- EN: quality -->
-  <quality>TODO</quality>
+  <quality>laatu</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>Esineen laatu kuvaa sitä miten hyvin se on tehty.</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1202,9 +1204,9 @@
   <!-- EN: inactive -->
   <InactiveFacility>pois käytöstä</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>Kiinnitetty kohteeseen</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
-  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
+  <FacilityNoPotentialLinks>Ei kiinnitetty rakennukseen</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
