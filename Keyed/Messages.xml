@@ -689,7 +689,7 @@
   <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} täytyy kyetä taistelemaan.</MessageRitualRoleMustBeCapableOfFighting>
   <!-- EN: this role cannot be played by someone else. -->
   <MessageRitualRoleCannotReplaceRequiredPawn>tätä roolia ei voi edustaa kukaan muu.</MessageRitualRoleCannotReplaceRequiredPawn>
-  <!-- EN: {0_labelShort} cannot connect to a gauranlen tree because {0_possessive} connection was recently torn. -->
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
   <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} ei voi yhdistää gauranlen-puuhun koska hänen yhteytensä katkaistiin äskettäin.</MessageRitualRolePawnRecentlyTornConnection>
   <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
   <MessageRitualRolePawnHasSameIdeo>Henkilöllä {0_labelShort} on sama ideousko kuin kääntäjällä.</MessageRitualRolePawnHasSameIdeo>
