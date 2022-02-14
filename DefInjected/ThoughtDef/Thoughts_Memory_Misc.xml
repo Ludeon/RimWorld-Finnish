@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: ate without table -->
-  <AteWithoutTable.stages.ate_without_table.label>söi maasta </AteWithoutTable.stages.ate_without_table.label>
+  <AteWithoutTable.stages.ate_without_table.label>söi ilman pöytää</AteWithoutTable.stages.ate_without_table.label>
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>Minun täytyi syödä ateria maasta. Emmekö me voi hankkia tänne pöytää?</AteWithoutTable.stages.ate_without_table.description>
   
@@ -17,55 +17,60 @@
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Teurastin juuri jonkun kuin eläimen.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
   <!-- EN: butchered humanlike corpse -->
-  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>butchered humanlike corpse</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>teurasti ihmismäisen ruumiin</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
   
   <!-- EN: catharsis -->
   <Catharsis.stages.catharsis.label>Katarsis</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
-  <Catharsis.stages.catharsis.description>Mitä juuri tapahtui... Se ei ollut minunlaistani. Tiedän pystyväni parempaan.</Catharsis.stages.catharsis.description>
+  <Catharsis.stages.catharsis.description>Tuntui hyvälle viimein vapauttaa tunteeni.</Catharsis.stages.catharsis.description>
   
   <!-- EN: colonist banished -->
-  <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
+  <ColonistBanished.stages.colonist_banished.label>yhdyskuntalainen karkotettu</ColonistBanished.stages.colonist_banished.label>
   <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
-  <ColonistBanished.stages.colonist_banished.description>TODO</ColonistBanished.stages.colonist_banished.description>
+  <ColonistBanished.stages.colonist_banished.description>Karkotimme juuri jonkun. Toivon että hän pärjää, mutta olen huolissani</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>yhdyskuntalainen karkotettu kuolemaan</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Karkotimme jonkun niin että hänen on melkein mahdotonta selvitä.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: Colonist prisoner escaped -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>Vanki karkasi</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Emmekö voi hallita omaa väkeämme? Tuntuu kuin mitä tahansa voisi tapahtua minulle täällä.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
   <!-- EN: They were leading efforts to destroy us, and I took them down! -->
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>They were leading efforts to destroy us, and I took them down!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>TODO</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
   <!-- EN: defeated mech cluster -->
-  <DefeatedMechCluster.stages.defeated_mech_cluster.label>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>mekanoidiparvi voitettu</DefeatedMechCluster.stages.defeated_mech_cluster.label>
   <!-- EN: Blood beats metal, you damn machines! -->
-  <DefeatedMechCluster.stages.defeated_mech_cluster.description>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>Veri voittaa metallin, pirun koneet!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
   <!-- EN: denied joining -->
-  <DeniedJoining.stages.denied_joining.label>TODO</DeniedJoining.stages.denied_joining.label>
+  <DeniedJoining.stages.denied_joining.label>liittyminen evätty</DeniedJoining.stages.denied_joining.label>
   <!-- EN: We just denied someone's request to join us. I hope they make it. -->
-  <DeniedJoining.stages.denied_joining.description>TODO</DeniedJoining.stages.denied_joining.description>
+  <DeniedJoining.stages.denied_joining.description>Hylkäsimme jonkun pyynnon liittyä meihin. Toivottavasti hän selviää.</DeniedJoining.stages.denied_joining.description>
   
   <!-- EN: failed to rescue {0} -->
-  <FailedToRescueRelative.stages.failed_to_rescue.label>TODO</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <FailedToRescueRelative.stages.failed_to_rescue.label>epäonnistuminen pelastamaan {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
-  <FailedToRescueRelative.stages.failed_to_rescue.description>TODO</FailedToRescueRelative.stages.failed_to_rescue.description>
+  <FailedToRescueRelative.stages.failed_to_rescue.description>Meillä oli mahdollisuus pelastaa sukulaiseni, ja epäonnistuimme. Olisin voinut auttaa!</FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- EN: freed from slavery -->
-  <FreedFromSlavery.stages.freed_from_slavery.label>TODO</FreedFromSlavery.stages.freed_from_slavery.label>
+  <FreedFromSlavery.stages.freed_from_slavery.label>vapautettu orjuudesta</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
-  <FreedFromSlavery.stages.freed_from_slavery.description>TODO</FreedFromSlavery.stages.freed_from_slavery.description>
+  <FreedFromSlavery.stages.freed_from_slavery.description>Minut on vapautettu orjuudesta. Olen niin kiitollinen!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: bloodlust organ harvested -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>murhanhimo, elin kerätty</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
   <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Lihan poistaminen heidän kehosta oli niin veristä ja tyydyttävää.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>tappoi jonkun</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -73,14 +78,14 @@
   <KilledHumanlikeBloodlust.stages.killed_someone.description>Tapoin jonkun! Olipa kiihottavaa!</KilledHumanlikeBloodlust.stages.killed_someone.description>
   
   <!-- EN: buried in sarcophagus -->
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>buried in sarcophagus</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>haudattu sarkofagiin</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
   <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Tämä yhdyskunta hautasi jonkun koristeltuun sarkofagiin. Levätköön hän rauhassa.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
   
   <!-- EN: we butchered humanlike -->
-  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>Teurastimme ihmismäisen</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
   <!-- EN: We butchered someone up like an animal. -->
-  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>Teurastimme jonkun kuin eläimen.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
   
   <!-- EN: colonist's organ harvested -->
   <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>yhdyskuntalaisen elin kerättiin</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
@@ -138,9 +143,9 @@
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- EN: prisoner released -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.label>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>vanki vapautettu</ReleasedHealthyPrisoner.stages.prisoner_released.label>
   <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.description>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>Vapautimme terveen vangin. Tuntuu hyvältä tietää että kohtelemme jopa vankeja hyvin.</ReleasedHealthyPrisoner.stages.prisoner_released.description>
   
   <!-- EN: rescued -->
   <Rescued.stages.rescued.label>TODO</Rescued.stages.rescued.label>
@@ -178,9 +183,18 @@
   <SleptOutside.stages.slept_outside.description>Minun täytyi nukkua ulkona ilman mitään suojaa säältä.</SleptOutside.stages.slept_outside.description>
   
   <!-- EN: soaking wet -->
-  <SoakingWet.stages.soaking_wet.label>TODO</SoakingWet.stages.soaking_wet.label>
+  <SoakingWet.stages.soaking_wet.label>läpimärkä</SoakingWet.stages.soaking_wet.label>
   <!-- EN: I'm soaking wet. -->
-  <SoakingWet.stages.soaking_wet.description>TODO</SoakingWet.stages.soaking_wet.description>
+  <SoakingWet.stages.soaking_wet.description>Olen läpimärkä</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: eager to travel -->
+  <TravelAnticipation.stages.eager_to_travel.label>innokas matkustamaan</TravelAnticipation.stages.eager_to_travel.label>
+  <!-- EN: I've been preparing this caravan for a while. I'm looking forward to the upcoming journey. -->
+  <TravelAnticipation.stages.eager_to_travel.description>TODO</TravelAnticipation.stages.eager_to_travel.description>
+  <!-- EN: excited to travel -->
+  <TravelAnticipation.stages.excited_to_travel.label>innostunut matkustamaan</TravelAnticipation.stages.excited_to_travel.label>
+  <!-- EN: So much thought and preparation have gone into this adventure. I can't wait to set off! -->
+  <TravelAnticipation.stages.excited_to_travel.description>TODO</TravelAnticipation.stages.excited_to_travel.description>
   
   <!-- EN: was imprisoned -->
   <WasImprisoned.stages.was_imprisoned.label>oli vangittu</WasImprisoned.stages.was_imprisoned.label>
@@ -193,18 +207,18 @@
   <WitnessedDeathAlly.stages.witnessed_allys_death.description>Näin yhden meistä kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
   
   <!-- EN: witnessed death with bloodlust -->
-  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>witnessed death with bloodlust</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>koki jonkun kuolevan murhanhimolla</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
   <!-- EN: I saw someone die! That was intense! -->
-  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>I saw someone die! That was intense!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Näin kun joku kuoli! Tuo oli intensiivistä!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
   
   <!-- EN: witnessed family member's death -->
-  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>witnessed family member's death</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>koki perheenjäsenen kuoleman</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
   <!-- EN: I saw a member of my family die. My own flesh and blood... -->
-  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>I saw a member of my family die. My own flesh and blood...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>Näin perheenjäsenen kuoleman. Omaa lihaa ja verta...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
   
   <!-- EN: witnessed outsider's death -->
-  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>witnessed outsider's death</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>koki ulkopuolisen kuolevan</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
   <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
-  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>I saw someone die. They were alive one moment, and dead the next.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Näin jonkun kuolevan. He olivat elossa hetki sitten ja kuolleita sen jälkeen.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
   
 </LanguageData>

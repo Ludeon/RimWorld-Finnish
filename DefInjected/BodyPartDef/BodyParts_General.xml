@@ -37,4 +37,9 @@
   <!-- EN: spine -->
   <Spine.label>selkäranka</Spine.label>
   
+  <!-- EN: tongue -->
+  <Tongue.label>kieli</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>poista</Tongue.removeRecipeLabelOverride>
+  
 </LanguageData>

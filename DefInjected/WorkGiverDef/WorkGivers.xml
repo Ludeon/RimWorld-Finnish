@@ -323,6 +323,13 @@
   <!-- EN: execute -->
   <ExecuteGuiltyColonist.verb>TODO</ExecuteGuiltyColonist.verb>
   
+  <!-- EN: extract trees -->
+  <ExtractTree.label>TODO</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>TODO</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>TODO</ExtractTree.verb>
+  
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
   <!-- EN: feeding -->
@@ -532,6 +539,13 @@
   <Repair.gerund>korjaaminen</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>korjata</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>TODO</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>TODO</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>TODO</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>tutkimus</Research.label>

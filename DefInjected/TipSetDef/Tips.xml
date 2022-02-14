@@ -53,26 +53,30 @@
   <GameplayTips.AnimalDeathExplosionRain>Jos metsästät paukkurottia ja paukkulooppeja sateessa, niiden kuolema ei aiheuta metsäpaloja.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
   <GameplayTips.GreaterSlaughterYield>Huolellisesti teurastetut eläimet tuottavat enemmän lihaa ja nahkaa kuin väkivaltaisesti tapetut.</GameplayTips.GreaterSlaughterYield>
-  <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
-  <GameplayTips.CaravanPackingSpot>Aseta karavaanin lastauspaikka osoittamaan, missä haluat karavaanisi kerääntyvän.</GameplayTips.CaravanPackingSpot>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>Aseta karavaanin lastauspaikka osoittamaan, missä haluat karavaanisi kerääntyvän</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>Kohtaamisien aikana poissa kotoa, voit asettaa karavaanin lastauspaikan estääksesi eläimiäsi vaeltelemasta.</GameplayTips.CaravanHitchingSpotRoamers>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>Yhden hengen karavaanit voivat olla erittäin hyödyllisiä tietyissä tilanteissa.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
   <GameplayTips.CaravanRideableAnimals>Karavaanit liikkuvat nopeammin jos niihin kuuluu ratsastettavia eläimiä kuten hevosia, aaseja ja kameleita.</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Pienten karavaanien kimppuun hyökätään harvemmin, koska ne ovat vähemmän näkyviä.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing post. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>Kerää lähetettävät tavarat ennen karavaanin muodostamista varastoon lähelle karavaanin lastauspaikkaa. Tämä tekee lastaamisesta paljon nopeampaa.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Jos karavaanissa on kouluttamattomia eläimiä, voit jakaa ne erilliseen karavaaniin ennen kuin hyökkäät viholliseen, jotta ne eivät tule taisteluun.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: Don't forget to pack medicine on your caravans. -->
-  <GameplayTips.tips.32>Muista pakata lääkkeitä karavaaniisi.</GameplayTips.tips.32>
+  <GameplayTips.CaravanDontForgetMedicine>Muista pakata lääkkeitä karavaaniisi.</GameplayTips.CaravanDontForgetMedicine>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>RimWorld on tarinageneraattori, ei taitotesti. Pilalla oleva yhdyskunta on dramaattinen tragedia, ei epäonnistuminen.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
   <GameplayTips.BadAllies>Jotkut yhdyskuntalaiset ovat yhtä tyhjän kanssa. Huonot liittolaiset ovat osa haastetta.</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
   <GameplayTips.MakeCaravanRunBeforeDefeat>Jos et pysty puolustamaan uhkaa vastaan, tee karavaani ja pakene. Saatat menettää kotisi, mutta tarinasi voi jatkua.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
+  <GameplayTips.FixedWealthMode>TODO</GameplayTips.FixedWealthMode>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
   <GameplayTips.StoneDoors>Vältä kivien käyttöä ovissa. Ne avautuvat hyvin hitaasti, mikä tuhlaa yhdyskuntalaisten aikaa.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
@@ -126,11 +130,11 @@
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>Edes vakavat takaiskut eivät tarkoita, että pelin on loputtava. Yritä pelata menetetty taistelu loppuun - usein parhaat tarinat syntyvät pimeimmistä tilanteista.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
-  <GameplayTips.tips.62>Pidä asevarastot kaukana vankiloistasi. Vankilapaot ovat paljon vaarallisempia aseiden ja räjähteiden kanssa.</GameplayTips.tips.62>
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>Pidä asevarastot kaukana vankiloistasi. Vankilapaot ovat paljon vaarallisempia aseiden ja räjähteiden kanssa.</GameplayTips.KeepWeaponsAwayFromPrisoners>
   <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
-  <GameplayTips.tips.63>Eläimiä kesyttäessä, varmista että sinulla on tarpeeksi oikeanlaista ruokaa eläinten ruokkimiseen.</GameplayTips.tips.63>
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Eläimiä kesyttäessä, varmista että sinulla on tarpeeksi oikeanlaista ruokaa eläinten ruokkimiseen.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
   <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
-  <GameplayTips.tips.64>Kivi- tai kuonalohkareen pudottaminen ovelle jättää sen auki, jättäen sinut haavoittuvaksi petoeläimille ja hyökkääjille.</GameplayTips.tips.64>
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>Kivi- tai kuonalohkareen pudottaminen ovelle jättää sen auki, jättäen sinut haavoittuvaksi petoeläimille ja hyökkääjille.</GameplayTips.DroppingChunksWillForceDoorsOpen>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>Puhtaat laboratoriot steriileillä laatoilla antavat tutkimuksen nopeusbonuksia.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
@@ -145,7 +149,7 @@
   <GameplayTips.StrawMatting>Olkilattiaan ei tartu saasta. Käytä sitä ladon lattiana.</GameplayTips.StrawMatting>
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
   <GameplayTips.AnimalFilth>Jotkut eläimet tuottavat paljon saastaa. Pidä elefanttisi ja karja ulkona.</GameplayTips.AnimalFilth>
-  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
   <GameplayTips.PredatorsAndFences>Petoeläimet metsästävät aitauksissa olevia eläimiä harvemmin.</GameplayTips.PredatorsAndFences>
   
 </LanguageData>

@@ -91,6 +91,8 @@
   <Pregnant.label>raskaus</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>TODO</Pregnant.description>
+  <!-- EN: {0} is pregnant! -->
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0} on raskaana!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>raskaus</Pregnant.labelNoun>
   <!-- EN: early-stage -->

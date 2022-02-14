@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Ability -->
-  <Ability.label>TODO</Ability.label>
+  <Ability.label>Taito</Ability.label>
   
   <!-- EN: animal productivity -->
   <AnimalProductivity.label>TODO</AnimalProductivity.label>
@@ -14,40 +14,40 @@
   <Basics.label>Perustiedot</Basics.label>
   
   <!-- EN: Basics -->
-  <BasicsImportant.label>TODO</BasicsImportant.label>
+  <BasicsImportant.label>Perustiedot</BasicsImportant.label>
   
   <!-- EN: Basics -->
   <BasicsNonPawn.label>Perustiedot</BasicsNonPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  <BasicsNonPawnImportant.label>Perustiedot</BasicsNonPawnImportant.label>
   
   <!-- EN: Basics -->
   <BasicsPawn.label>Perustiedot</BasicsPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  <BasicsPawnImportant.label>Perustiedot</BasicsPawnImportant.label>
   
   <!-- EN: Building -->
   <Building.label>Rakennus</Building.label>
   
   <!-- EN: effects -->
-  <CapacityEffects.label>TODO</CapacityEffects.label>
+  <CapacityEffects.label>vaikutukset</CapacityEffects.label>
   
   <!-- EN: Drug -->
   <Drug.label>TODO</Drug.label>
   
   <!-- EN: drug addiction -->
-  <DrugAddiction.label>TODO</DrugAddiction.label>
+  <DrugAddiction.label>huume riippuvuus</DrugAddiction.label>
   
   <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Poikkeamat, kun käytössä</EquippedStatOffsets.label>
   
   <!-- EN: Implant -->
-  <Implant.label>TODO</Implant.label>
+  <Implant.label>Implantti</Implant.label>
   
   <!-- EN: Meditation -->
-  <Meditation.label>TODO</Meditation.label>
+  <Meditation.label>Meditointi</Meditation.label>
   
   <!-- EN: Combat -->
   <PawnCombat.label>Taistelu</PawnCombat.label>
@@ -60,6 +60,9 @@
   
   <!-- EN: Work -->
   <PawnWork.label>Työnteko</PawnWork.label>
+  
+  <!-- EN: content source -->
+  <Source.label>sisällön lähde</Source.label>
   
   <!-- EN: Multipliers when equipment made of this -->
   <StuffOfEquipmentStatFactors.label>Kertoimet, kun varusteet on tehty tästä</StuffOfEquipmentStatFactors.label>
@@ -78,5 +81,11 @@
   
   <!-- EN: Weapon -->
   <Weapon.label>Ase</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>Lähitaistelu ase</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>Ampuma-ase</Weapon_Ranged.label>
   
 </LanguageData>

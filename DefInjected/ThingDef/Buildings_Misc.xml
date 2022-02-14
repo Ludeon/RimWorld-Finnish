@@ -6,10 +6,10 @@
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Tämä salauniarkku näyttää siltä kuin se olisi ollut täällä hyvin pitkän ajan. Mitäköhän sen sisällä mahtaa olla?</AncientCryptosleepCasket.description>
   
-  <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
-  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>Designates a spot where caravans will be formed.</CaravanPackingSpot.description>
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>Karavaanin pysäköinti paikka</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Merkitsee paikan johon eläimet sidotaan ja karavaani muodostetaan. Yhdyskuntalaiset sitovat eläimet tänne pakatessaan karavaania. Voit myös käyttää näitä kohtaamisien aikana poissa kotoa estääksesi eläimiä harhailemasta.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>kommunikaatiopääte</CommsConsole.label>

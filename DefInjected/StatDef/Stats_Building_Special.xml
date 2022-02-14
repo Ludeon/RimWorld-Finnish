@@ -61,8 +61,8 @@
   <WorkTableWorkSpeedFactor.description>Työskentelynopeus kerrotaan tällä arvolla.</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
-  <WorkToBuild.label>work to build</WorkToBuild.label>
-  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials and tools are gathered.</WorkToBuild.description>
+  <WorkToBuild.label>työtä valmistaa</WorkToBuild.label>
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
+  <WorkToBuild.description>Oletus määrä työtä jota tarvitaan rakennuksen valmistamiseen, kun kaikki materiaalit ovat kerätty.\n\nPurkamiseen vaaditty työmäärä myös perustuu tähän.</WorkToBuild.description>
   
 </LanguageData>

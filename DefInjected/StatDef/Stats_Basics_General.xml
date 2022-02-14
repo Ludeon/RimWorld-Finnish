@@ -4,7 +4,12 @@
   <!-- EN: beauty -->
   <Beauty.label>kauneus</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>Miten miellyttävää esineen ympärillä olo ja katselu on.</Beauty.description>
+  <Beauty.description>Miten miellyttävää esineen katselu on.\n\nKauniit esineet täyttävät kauneuden tarpeen.</Beauty.description>
+  
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>kauneus ulkona</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>Miten miellyttävää esineen katselu on, jos se on ulkona.\n\nKauniit esineet täyttävät kauneuden tarpeen.</BeautyOutdoors.description>
   
   <!-- EN: cleanliness -->
   <Cleanliness.label>puhtaus</Cleanliness.label>

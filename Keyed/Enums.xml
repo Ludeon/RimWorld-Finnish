@@ -140,10 +140,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Tehdään muutoksia</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <!-- EN: official content -->
-  <ContentSource_OfficialModsFolder>virallinen sisältö</ContentSource_OfficialModsFolder>
-  <!-- EN: local folder -->
-  <ContentSource_ModsFolder>paikallinen kansio</ContentSource_ModsFolder>
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>Virallinen sisältö</ContentSource_OfficialModsFolder>
+  <!-- EN: Local folder -->
+  <ContentSource_ModsFolder>Paikallinen kansio</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   

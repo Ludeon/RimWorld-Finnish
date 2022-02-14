@@ -236,6 +236,8 @@
   <Stat_Race_Growth_Desc>TODO</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Paljonko aikaa kuluu kun lähitaisteluisku aloitetaan kunnes se osuu kohteeseensa.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>TODO</Stat_Thing_Weapon_RangedWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
   <Stat_Thing_Weapon_BurstShotCount_Desc>Tämän aseen ampumien laukausten määrä yksittäisessä purskeessa.</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
@@ -442,7 +444,7 @@
   <Stat_Animal_MilkAmount>Maidon määrä</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
   <Stat_Animal_MilkAmountDesc>TODO</Stat_Animal_MilkAmountDesc>
-  <!-- EN: Milking inteval -->
+  <!-- EN: Milking interval -->
   <Stat_Animal_MilkGrowthTime>Lypsämisväli</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
   <Stat_Animal_MilkGrowthTimeDesc>TODO</Stat_Animal_MilkGrowthTimeDesc>
@@ -485,5 +487,12 @@
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
   <Stat_Studiable_Desc>TODO</Stat_Studiable_Desc>
+
+  <!-- EN: Source -->
+  <Stat_Source_Label>Lähde</Stat_Source_Label>
+  <!-- EN: This content came from the official expansion -->
+  <Stat_Source_OfficialExpansionReport>Tämä sisältö kuuluu viralliseen laajennukseen</Stat_Source_OfficialExpansionReport>
+  <!-- EN: This content came from the mod -->
+  <Stat_Source_ModReport>Tämä sisältö kuuluu modiin</Stat_Source_ModReport>
   
 </LanguageData>

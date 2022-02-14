@@ -52,6 +52,13 @@
   <!-- EN: a bionic stomach -->
   <BionicStomach.labelNoun>bioninen vatsalaukku</BionicStomach.labelNoun>
   
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>bioninen kieli</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. -->
+  <BionicTongue.description>Asennettu bioninen kieli.</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>bioninen kieli</BionicTongue.labelNoun>
+  
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>kuolema hapottaja</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. -->

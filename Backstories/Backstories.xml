@@ -2584,14 +2584,14 @@
     <desc>TODO</desc>
   </Fugitive4>
   
-  <FurnitureBuilder50>
+  <FurnitureBuilder83>
     <!-- EN: furniture builder -->
     <title>huonekalu rakentaja</title>
     <!-- EN: builder -->
     <titleShort>rakentaja</titleShort>
-    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent his time building beautiful furniture for wealthy glitterworld clients. -->
+    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
     <desc>TODO</desc>
-  </FurnitureBuilder50>
+  </FurnitureBuilder83>
   
   <GalacticPage37>
     <!-- EN: galactic page -->
@@ -5400,14 +5400,14 @@
     <desc>TODO</desc>
   </RocketPioneer19>
   
-  <RoyalBastard3>
+  <RoyalBastard64>
     <!-- EN: royal bastard -->
     <title>kuninkaallinen bastardi</title>
     <!-- EN: bastard -->
     <titleShort>bastardi</titleShort>
-    <!-- EN: [PAWN_nameDef] the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
+    <!-- EN: [PAWN_nameDef] was the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
     <desc>TODO</desc>
-  </RoyalBastard3>
+  </RoyalBastard64>
   
   <RoyalCook18>
     <!-- EN: royal cook -->

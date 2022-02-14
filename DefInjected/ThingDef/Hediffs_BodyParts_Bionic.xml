@@ -7,9 +7,9 @@
   <BionicArm.description>Yksi kehittyneimpiä käsivarren korvikkeita. Antaa käyttäjälleen äärimmäiset voimat.</BionicArm.description>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>bioninen korva</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>Edistynyt korvaimplantti. Kokoelma näkymättömiä ihonalaisia mikrofoneja tallentavat ääntä ja lähettävät sen hermo rajapintaan, joka kiinnittyy suoraan kuulohermoon. Se on tarpeeksi herkkä kuulemaan kissan ennen kuin näet sen, eikä vahingoitu kovista äänistä. Se automaattisesti virittää itsensä kuulemaan merkittävät äänet meluisissa ympäristöissä.</BionicEar.description>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>bioninen silmä</BionicEye.label>
@@ -17,7 +17,7 @@
   <BionicEye.description>Kehittynyt laite joka ei vain korvaa luonnollisen silmän mutta antaa myös yli-inhimilliset näönlahjat.</BionicEye.description>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>bioninen sydän</BionicHeart.label>
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
   <BionicHeart.description>TODO</BionicHeart.description>
   
@@ -27,17 +27,22 @@
   <BionicLeg.description>Käyttää huipputeknologiaa anten käyttäjälleen äärimmäisen kävelymukavuuden ja -voiman.</BionicLeg.description>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>bioninen selkäranka</BionicSpine.label>
   <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
   <BionicSpine.description>TODO</BionicSpine.description>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>bioninen vatsalaukku</BionicStomach.label>
   <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
   <BionicStomach.description>TODO</BionicStomach.description>
   
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>bioninen kieli</BionicTongue.label>
+  <!-- EN: An artificial tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>TODO</BionicTongue.description>
+  
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>TODO</DeathAcidifier.label>
+  <DeathAcidifier.label>kuolema hapotin</DeathAcidifier.label>
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>TODO</DeathAcidifier.description>
   

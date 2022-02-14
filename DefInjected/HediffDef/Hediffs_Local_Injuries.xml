@@ -193,6 +193,8 @@
   <Misc.comps.HediffComp_TendDuration.labelTendedWell>sidottu</Misc.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: sutured -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>ommeltu</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scar -->
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>arpi</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>Tuhoutunut</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->

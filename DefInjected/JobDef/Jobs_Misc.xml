@@ -35,6 +35,9 @@
   <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
   
   <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>vie kohdetta TargetA.</DeliverToBed.reportString>
+  
+  <!-- EN: delivering TargetA. -->
   <DeliverToCell.reportString>toimittaa kohteen TargetA.</DeliverToCell.reportString>
   
   <!-- EN: dropping TargetA. -->
@@ -162,6 +165,9 @@
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeCountToInventory.reportString>TODO</TakeCountToInventory.reportString>
+  
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>TODO</TakeFromOtherInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>

@@ -62,6 +62,8 @@
   <NextTendIn>Voidaan hoitaa kun on kulunut {0}</NextTendIn>
   <!-- EN: Tend quality -->
   <TendQuality>Hoidon laatu</TendQuality>
+  <!-- EN: Total tend quality -->
+  <DisappearsAtTotalTendQuality>Hoidon kokonais laatu</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>{0} puuttuu</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -103,15 +105,19 @@
   <!-- EN: Execute -->
   <Execute>Mestaa</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
+  <ExecuteColonist>TODO</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
   <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>ryhmän {1} {0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>Tämä saa henkilön {PAWN_nameDef} menettämään tittelinsä {TITLE}. Et saa korvausta tittelin poistamisesta.\n\nTällä on seuraavat vaikutukset:\n\n{EFFECTS}</RenounceTitleDescription>
-  <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>hän menettää valtuutensa</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} menettää nämä valtuudet</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>TODO</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>TODO</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>tuntematon</UnknownLower>
   <!-- EN: On -->
@@ -410,6 +416,8 @@
   <Location>sijainti</Location>
   <!-- EN: animals -->
   <AnimalsLower>eläintä</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>esineet</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
@@ -514,6 +522,14 @@
   <StudyProgress>Analysoinnin edistyminen</StudyProgress>
   <!-- EN: completed -->
   <StudyCompleted>valmis</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>Hyökkää tähän tuhotaksesi sen.</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>Poista tämä hyökkäämällä siihen.</RemoveByAttackingTooltip>
+  <!-- EN: Food -->
+  <ThoughtFoodEatenFood>Ruoka</ThoughtFoodEatenFood>
+  <!-- EN: Ingredients -->
+  <ThoughtFoodEatenIngredients>TODO</ThoughtFoodEatenIngredients>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1137,6 +1153,8 @@
   <Installed>Asennettu</Installed>
   <!-- EN: Not installed -->
   <NotInstalled>Asentamaton</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>TODO</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
@@ -1470,8 +1488,8 @@
   <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
-  <!-- EN: Attending -->
-  <LordReportAttending>TODO</LordReportAttending>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>Osallistuu {0}</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>TODO</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
@@ -1522,8 +1540,8 @@
   <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
   <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
-  <!-- EN: {0_labelShort} is incapable of talking. -->
-  <AbilitySpeechDisabledCantSpeak>TODO</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>{0_labelShort} ei kykene tekemään kohdetta {1}</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
   <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
   
@@ -1580,5 +1598,22 @@
   <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>TODO</MaxValue>
-  
+
+  <!-- EN: {0} of -->
+  <ThingOf>TODO</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>{0}/{1}</ThingOfSource>
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>TODO</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>TODO</AbilityOnCooldown>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
+  <!-- EN: Ability ready: {0} -->
+  <AbilityReadyLabel>Kyky valmiina: {0}</AbilityReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_nameDef} on valmiina käyttämään kykyä {1}.</AbilityReadyText>
+
 </LanguageData>

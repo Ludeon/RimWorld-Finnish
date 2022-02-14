@@ -4,6 +4,9 @@
   <!-- EN: minified thing -->
   <MinifiedThing.label>pienoismalli</MinifiedThing.label>
   
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>pienoispuu</MinifiedTree.label>
+  
   <!-- EN: unfinished apparel -->
   <UnfinishedApparel.label>keskeneräinen vaate</UnfinishedApparel.label>
   <!-- EN: An unfinished piece of an apparel. -->

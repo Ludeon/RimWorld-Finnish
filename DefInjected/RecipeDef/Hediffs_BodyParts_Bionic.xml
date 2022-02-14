@@ -4,51 +4,58 @@
   <!-- EN: install bionic arm -->
   <InstallBionicArm.label>asenna bioninen käsi</InstallBionicArm.label>
   <!-- EN: Install a bionic arm. -->
-  <InstallBionicArm.description>Asentaa bionisen käden.</InstallBionicArm.description>
+  <InstallBionicArm.description>Asenna bioninen käsi.</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
   <InstallBionicArm.jobString>Asentaa bionista kättä.</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
-  <InstallBionicEar.label>TODO</InstallBionicEar.label>
+  <InstallBionicEar.label>asenna bioninen korva</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
-  <InstallBionicEar.description>TODO</InstallBionicEar.description>
+  <InstallBionicEar.description>Asenna bioninen korva.</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
-  <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
+  <InstallBionicEar.jobString>Asentaa bionista korvaa.</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
   <InstallBionicEye.label>asenna bioninen silmä</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
-  <InstallBionicEye.description>Asentaa bionisen silmän.</InstallBionicEye.description>
+  <InstallBionicEye.description>Asenna bioninen silmä.</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
   <InstallBionicEye.jobString>Asentaa bionista silmää.</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
-  <InstallBionicHeart.label>TODO</InstallBionicHeart.label>
+  <InstallBionicHeart.label>asenna bioninen sydän</InstallBionicHeart.label>
   <!-- EN: Install a bionic heart. -->
-  <InstallBionicHeart.description>TODO</InstallBionicHeart.description>
+  <InstallBionicHeart.description>Asenna bioninen sydän.</InstallBionicHeart.description>
   <!-- EN: Installing bionic heart. -->
-  <InstallBionicHeart.jobString>TODO</InstallBionicHeart.jobString>
+  <InstallBionicHeart.jobString>Asentaa bionista sydäntä.</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
   <InstallBionicLeg.label>asenna bioninen jalka</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
-  <InstallBionicLeg.description>Asentaa bionisen jalan.</InstallBionicLeg.description>
+  <InstallBionicLeg.description>Asenna bioninen jalka.</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
   <InstallBionicLeg.jobString>Asentaa bionista jalkaa.</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
-  <InstallBionicSpine.label>TODO</InstallBionicSpine.label>
+  <InstallBionicSpine.label>asenna bioninen selkäranka</InstallBionicSpine.label>
   <!-- EN: Install a bionic spine. -->
-  <InstallBionicSpine.description>TODO</InstallBionicSpine.description>
+  <InstallBionicSpine.description>Asenna bioninen selkäranka.</InstallBionicSpine.description>
   <!-- EN: Installing bionic spine. -->
-  <InstallBionicSpine.jobString>TODO</InstallBionicSpine.jobString>
+  <InstallBionicSpine.jobString>Asentaa bionista selkärankaa</InstallBionicSpine.jobString>
   
   <!-- EN: install bionic stomach -->
-  <InstallBionicStomach.label>TODO</InstallBionicStomach.label>
+  <InstallBionicStomach.label>asenna bioninen vatsalaukku</InstallBionicStomach.label>
   <!-- EN: Install a bionic stomach. -->
-  <InstallBionicStomach.description>TODO</InstallBionicStomach.description>
+  <InstallBionicStomach.description>Asenna bioninen vatsalaukku.</InstallBionicStomach.description>
   <!-- EN: Installing bionic stomach. -->
-  <InstallBionicStomach.jobString>TODO</InstallBionicStomach.jobString>
+  <InstallBionicStomach.jobString>Asentaa bionista vatsalaukkua.</InstallBionicStomach.jobString>
+  
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>asenna bioninen kieli</InstallBionicTongue.label>
+  <!-- EN: Install a bionic tongue. -->
+  <InstallBionicTongue.description>Asenna bioninen kieli.</InstallBionicTongue.description>
+  <!-- EN: Installing bionic tongue. -->
+  <InstallBionicTongue.jobString>Asentaa bionista kieltä.</InstallBionicTongue.jobString>
   
   <!-- EN: install death acidifier -->
   <InstallDeathAcidifier.label>TODO</InstallDeathAcidifier.label>

@@ -292,6 +292,18 @@
   <ArmorPenetration>Panssarinläpäisyvyys</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
   <ArmorPenetrationExplanation>Panssarinläpäisyvyys on se määrä panssaria jonka tämä ase jättää huomiotta joka kerta kun se osuu kohteeseen.\n\nJos panssarinläpäisyvyys jon suurempi kuin kohteen panssari, se käyttäytyy kuin panssaria ei olisi. Muussa tapauksessa panssarinläpäisyvyys vähennetään kohteen panssarista.</ArmorPenetrationExplanation>
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>Rakennusten vahinko kerroin</BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>Vahinko kaikkiin rakennuksiin kerrotaan tällä arvolla.</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>TODO</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>TODO</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>TODO</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>TODO</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Tarkkuus</Accuracy>
   <!-- EN: Burst shot count -->
@@ -300,6 +312,8 @@
   <WarmupTime>Lämmitysaika</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Lähitaistelun lämmitysaika</MeleeWarmupTime>
+  <!-- EN: Ranged warmup -->
+  <RangedWarmupTime>TODO</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Jäähdytysaika</CooldownTime>
   <!-- EN: Disarmed -->
@@ -482,8 +496,10 @@
   <TrapArmorPenetration>Ansan panssarinläpäisyvyys</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
   <RearmCost>Lataamiskustannukset</RearmCost>
-  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
+  <!-- EN: Resources needed to rearm this turret -->
   <RearmCostExplanation>Tämän tykkitornin lataamiskustannukset (vaikeusaste vaikuttaa)</RearmCostExplanation>
+  <!-- EN: affected by difficulty -->
+  <RearmCostExplanationDifficulty>TODO</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Laukauksia ennen lataamista</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
@@ -672,6 +688,8 @@
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(vain ensimmäinen reittipiste otetaan huomioon)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Karavaanillasi on vain {0} päivän edestä ruokaa ja tulee nälkäiseksi erittäin nopeasti.\n\nOletko varma että haluat muodostaa tämän karavaanin?</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>TODO</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>Karavaanillasi ei ole ruokaa ja tulee nälkäiseksi erittäin nopeasti.\n\nOletko varma että haluat muodostaa tämän karavaanin?</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -1101,7 +1119,7 @@
   <AutoSlaugtherHeaderColTotal>Yhteensä</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
   <AutoSlaugtherHeaderColOther>Muut</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
-  <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
+  <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
   <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
   <!-- EN: Male adult -->
   <AnimalMaleAdult>Aikuinen uros</AnimalMaleAdult>
@@ -1113,8 +1131,10 @@
   <AnimalFemaleYoung>Nuori naaras</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
   <AnimalPregnant>Raskaana</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>TODO</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughterPregnant>Teurasta</AllowSlaughterPregnant>
+  <AllowSlaughter>TODO</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>Automaattisesti teurastettava eläin.</AutoSlaugtherHeaderTooltipLabel>
@@ -1142,6 +1162,10 @@
   <AutoSlaughterHeaderTooltipCurrentPregnant>TODO</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
   <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>Klikkaa asettaaksesi rajan eläinten määrälle.</AutoSlaughterTooltipSetLimit>
@@ -1163,5 +1187,8 @@
   <RoomRequirementNoProductionFacilities>ei saa olla työlaitteita</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>ei saa olla alttareita</RoomRequirementNoAltars>
+
+  <!-- UNUSED -->
+  <AllowSlaughterPregnant>Teurasta</AllowSlaughterPregnant>
 
 </LanguageData>

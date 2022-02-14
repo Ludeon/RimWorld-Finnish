@@ -219,6 +219,10 @@
   <CommandReinstall>Asenna uudelleen muualle...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Määrää tämä esine poistettavaksi ja asennettavaksi jonnekin muualle.</CommandReinstallDesc>
+  <!-- EN: Replant -->
+  <CommandReplant>Istuta</CommandReplant>
+  <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
+  <CommandReplantDesc>TODO</CommandReplantDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
