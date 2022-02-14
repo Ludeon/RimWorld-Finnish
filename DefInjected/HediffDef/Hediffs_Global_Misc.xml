@@ -6,11 +6,11 @@
   <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
   <Anesthetic.description>TODO</Anesthetic.description>
   <!-- EN: wearing off -->
-  <Anesthetic.stages.wearing_off.label>TODO</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.wearing_off.label>vaikutus loppumassa</Anesthetic.stages.wearing_off.label>
   <!-- EN: woozy -->
-  <Anesthetic.stages.woozy.label>TODO</Anesthetic.stages.woozy.label>
+  <Anesthetic.stages.woozy.label>huimaantunut</Anesthetic.stages.woozy.label>
   <!-- EN: sedated -->
-  <Anesthetic.stages.sedated.label>TODO</Anesthetic.stages.sedated.label>
+  <Anesthetic.stages.sedated.label>nukutettu</Anesthetic.stages.sedated.label>
   
   <!-- EN: blood loss -->
   <BloodLoss.label>verenhukka</BloodLoss.label>
@@ -47,15 +47,15 @@
   <CryptosleepSickness.description>TODO</CryptosleepSickness.description>
   
   <!-- EN: drug overdose -->
-  <DrugOverdose.label>drug overdose</DrugOverdose.label>
+  <DrugOverdose.label>huumeyliannostus</DrugOverdose.label>
   <!-- EN: Generalized toxic effects due to over-concentration of drugs in the bloodstream. -->
   <DrugOverdose.description>TODO</DrugOverdose.description>
   <!-- EN: Overdose: {0} -->
-  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Yliannostus: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is overdosing! -->
-  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} is overdosing!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} yliannostaa!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
   <!-- EN: a drug overdose -->
-  <DrugOverdose.labelNoun>TODO</DrugOverdose.labelNoun>
+  <DrugOverdose.labelNoun>huumeyliannostus</DrugOverdose.labelNoun>
   <!-- EN: minor -->
   <DrugOverdose.stages.minor-0.label>lievä</DrugOverdose.stages.minor-0.label>
   <!-- EN: minor -->
@@ -68,7 +68,7 @@
   <!-- EN: Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time. -->
   <FoodPoisoning.description>TODO</FoodPoisoning.description>
   <!-- EN: recovering -->
-  <FoodPoisoning.stages.recovering.label>TODO</FoodPoisoning.stages.recovering.label>
+  <FoodPoisoning.stages.recovering.label>parantumassa</FoodPoisoning.stages.recovering.label>
   <!-- EN: major -->
   <FoodPoisoning.stages.major.label>lievä</FoodPoisoning.stages.major.label>
   <!-- EN: initial -->
@@ -79,13 +79,13 @@
   <!-- EN: A disruption in the heart's normal beating rhythm. Heart attacks can be debilitatingly painful. They can worsen and lead to death, or recover. -->
   <HeartAttack.description>TODO</HeartAttack.description>
   <!-- EN: a heart attack -->
-  <HeartAttack.labelNoun>TODO</HeartAttack.labelNoun>
+  <HeartAttack.labelNoun>sydänkohtaus</HeartAttack.labelNoun>
   <!-- EN: painful -->
   <HeartAttack.stages.painful.label>kivulias</HeartAttack.stages.painful.label>
   <!-- EN: debilitating -->
   <HeartAttack.stages.debilitating.label>heikentävä</HeartAttack.stages.debilitating.label>
   <!-- EN: fatal -->
-  <HeartAttack.stages.fatal.label>kuollettava</HeartAttack.stages.fatal.label>
+  <HeartAttack.stages.fatal.label>kuolettava</HeartAttack.stages.fatal.label>
   
   <!-- EN: pregnant -->
   <Pregnant.label>raskaus</Pregnant.label>
@@ -126,9 +126,9 @@
   <PsychicShock.labelNoun>TODO</PsychicShock.labelNoun>
   
   <!-- EN: resurrection sickness -->
-  <ResurrectionSickness.label>TODO</ResurrectionSickness.label>
+  <ResurrectionSickness.label>henkiinherätys sairaus</ResurrectionSickness.label>
   <!-- EN: After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves. -->
-  <ResurrectionSickness.description>TODO</ResurrectionSickness.description>
+  <ResurrectionSickness.description>Mekaniitti pistoksen henkiinherätyksen jälkivaikutukset. Keinotekoisesti käynnistetyt kehon prosessin tarvitsevat aikaa tasapainottuakseen.</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>myrkyllinen kertymä</ToxicBuildup.label>

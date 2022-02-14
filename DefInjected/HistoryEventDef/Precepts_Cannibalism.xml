@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: ate meal made from human meat -->
-  <AteHumanMeatAsIngredient.label>TODO</AteHumanMeatAsIngredient.label>
+  <AteHumanMeatAsIngredient.label>söi ruokaa joka valmistettiin ihmislihasta</AteHumanMeatAsIngredient.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeatDirect.label>TODO</AteHumanMeatDirect.label>
+  <AteHumanMeatDirect.label>söi ihmislihaa</AteHumanMeatDirect.label>
   
   <!-- EN: butchered human -->
-  <ButcheredHuman.label>TODO</ButcheredHuman.label>
+  <ButcheredHuman.label>teurasti ihmisen</ButcheredHuman.label>
   
 </LanguageData>

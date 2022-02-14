@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: extremely low -->
-  <ExtremelyLow.label>TODO</ExtremelyLow.label>
+  <ExtremelyLow.label>uskomattoman alhainen</ExtremelyLow.label>
   
   <!-- EN: high -->
-  <High.label>TODO</High.label>
+  <High.label>korkea</High.label>
   
   <!-- EN: low -->
-  <Low.label>TODO</Low.label>
+  <Low.label>alhainen</Low.label>
   
   <!-- EN: moderate -->
-  <Moderate.label>TODO</Moderate.label>
+  <Moderate.label>kohtuullinen</Moderate.label>
   
   <!-- EN: noble -->
-  <Noble.label>TODO</Noble.label>
+  <Noble.label>aatelinen</Noble.label>
   
   <!-- EN: royal -->
-  <Royal.label>TODO</Royal.label>
+  <Royal.label>kuninkaallinen</Royal.label>
   
   <!-- EN: sky high -->
   <SkyHigh.label>TODO</SkyHigh.label>
   
   <!-- EN: very low -->
-  <VeryLow.label>TODO</VeryLow.label>
+  <VeryLow.label>erittäin alhainen</VeryLow.label>
   
 </LanguageData>

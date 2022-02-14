@@ -4,59 +4,59 @@
   <!-- EN: bionic arm -->
   <BionicArm.label>bioninen käsi</BionicArm.label>
   <!-- EN: An installed bionic arm. -->
-  <BionicArm.description>TODO</BionicArm.description>
+  <BionicArm.description>Asennettu bioninen käsi.</BionicArm.description>
   <!-- EN: fist -->
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>nyrkki</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>TODO</BionicArm.labelNoun>
+  <BionicArm.labelNoun>bioninen käsi</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>bioninen korva</BionicEar.label>
   <!-- EN: An installed bionic ear. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>Asennettu bioninen korva.</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
+  <BionicEar.labelNoun>bioninen korva</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>bioninen silmä</BionicEye.label>
   <!-- EN: An installed bionic eye. -->
-  <BionicEye.description>TODO</BionicEye.description>
+  <BionicEye.description>Asennettu bioninen silmä.</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>TODO</BionicEye.labelNoun>
+  <BionicEye.labelNoun>bioninen silmä</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>bioninen sydän</BionicHeart.label>
   <!-- EN: An installed bionic heart. -->
-  <BionicHeart.description>TODO</BionicHeart.description>
+  <BionicHeart.description>Asennettu bioninen sydän.</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>bioninen sydän</BionicHeart.labelNoun>
   
   <!-- EN: bionic leg -->
   <BionicLeg.label>bioninen jalka</BionicLeg.label>
   <!-- EN: An installed bionic leg. -->
-  <BionicLeg.description>TODO</BionicLeg.description>
+  <BionicLeg.description>Asennettu bioninen jalka.</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>TODO</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>bioninen jalka</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>bioninen selkäranka</BionicSpine.label>
   <!-- EN: An installed bionic spine. -->
-  <BionicSpine.description>TODO</BionicSpine.description>
+  <BionicSpine.description>Asennettu bioninen selkäranka</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>bioninen selkäranka</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>bioninen vatsalaukku</BionicStomach.label>
   <!-- EN: An installed bionic stomach. -->
-  <BionicStomach.description>TODO</BionicStomach.description>
+  <BionicStomach.description>Asennettu bioninen vatsalaukku</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>bioninen vatsalaukku</BionicStomach.labelNoun>
   
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>TODO</DeathAcidifier.label>
+  <DeathAcidifier.label>kuolema hapottaja</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. -->
-  <DeathAcidifier.description>TODO</DeathAcidifier.description>
+  <DeathAcidifier.description>Asennettu kuolema hapottaja</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
-  <DeathAcidifier.labelNoun>TODO</DeathAcidifier.labelNoun>
+  <DeathAcidifier.labelNoun>kuolema hapottaja</DeathAcidifier.labelNoun>
   
 </LanguageData>

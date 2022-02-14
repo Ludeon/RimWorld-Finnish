@@ -7,7 +7,7 @@
   <!-- EN: Ancients -->
   <Ancients.fixedName>Avaruusmatkaajia</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>avaruusmatkaaja</Ancients.pawnSingular>
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>avaruusmatkaajia</Ancients.pawnsPlural>
   
@@ -17,7 +17,7 @@
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>Avaruusmatkaajia</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>avaruusmatkaaja</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>avaruusmatkaajia</AncientsHostile.pawnsPlural>
   
@@ -28,7 +28,7 @@
   <!-- EN: Sorne Geneline -->
   <Insect.fixedName>hyönteisiä</Insect.fixedName>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>hyönteinen</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>hyönteisiä</Insect.pawnsPlural>
   
@@ -38,7 +38,7 @@
   <Mechanoid.description>Muinaisten itsejäljentävien koneiden pesä.</Mechanoid.description>
   <Mechanoid.fixedName>mekanoidipesä</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>mekanoidi</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>mekanoideja</Mechanoid.pawnsPlural>
   

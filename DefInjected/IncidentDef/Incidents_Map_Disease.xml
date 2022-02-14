@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: flu (animals) -->
-  <Disease_AnimalFlu.label>TODO</Disease_AnimalFlu.label>
+  <Disease_AnimalFlu.label>flunssa (eläimet)</Disease_AnimalFlu.label>
   <!-- EN: Animal disease: Flu -->
-  <Disease_AnimalFlu.letterLabel>TODO</Disease_AnimalFlu.letterLabel>
+  <Disease_AnimalFlu.letterLabel>Eläinten tauti: Flunssa</Disease_AnimalFlu.letterLabel>
   <!-- EN: {0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick:\n\n{3} -->
   <Disease_AnimalFlu.letterText>TODO</Disease_AnimalFlu.letterText>
   

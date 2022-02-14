@@ -22,7 +22,7 @@
   <DefoliatorShipPartCrash.letterText>TODO</DefoliatorShipPartCrash.letterText>
   
   <!-- EN: infestation -->
-  <Infestation.label>infestation</Infestation.label>
+  <Infestation.label>loishyökkäys</Infestation.label>
   <!-- EN: Infestation -->
   <Infestation.letterLabel>Loishyökkäys</Infestation.letterLabel>
   <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
@@ -32,9 +32,9 @@
   <ManhunterPack.label>manhunter pack</ManhunterPack.label>
   
   <!-- EN: mech cluster -->
-  <MechCluster.label>TODO</MechCluster.label>
+  <MechCluster.label>mekanoidiparvi</MechCluster.label>
   <!-- EN: Mechanoid cluster -->
-  <MechCluster.letterLabel>TODO</MechCluster.letterLabel>
+  <MechCluster.letterLabel>Mekanoidiparvi</MechCluster.letterLabel>
   <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
   <MechCluster.letterText>TODO</MechCluster.letterText>
   

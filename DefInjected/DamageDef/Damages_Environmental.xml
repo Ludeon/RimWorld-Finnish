@@ -17,8 +17,8 @@
   <Frostbite.deathMessage>{0} on menehtynyt paleltumaan.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>TODO</TornadoScratch.label>
+  <TornadoScratch.label>naarmu</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>TODO</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} tuli tornadon tappamaksi.</TornadoScratch.deathMessage>
   
 </LanguageData>

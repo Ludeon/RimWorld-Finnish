@@ -57,9 +57,9 @@
   <SterileTile.description>Steriilit laatat auttavat pitämään huoneen puhtaana. Erittäin hyödyllisiä sairaaloissa estämääm potilaita saamasta erilaisia tartuntoja. Mitäänsanomattoman näköiset ja erittäin hitaat rakentaa.</SterileTile.description>
   
   <!-- EN: straw matting -->
-  <StrawMatting.label>TODO</StrawMatting.label>
+  <StrawMatting.label>olkilattia</StrawMatting.label>
   <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
-  <StrawMatting.description>TODO</StrawMatting.description>
+  <StrawMatting.description>Eläin ladoissa käytettävää karheaa olki lattiaa. Se on halpaa ja lika ei tartu siihen helposti.</StrawMatting.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>puulattia</WoodPlankFloor.label>

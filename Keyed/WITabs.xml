@@ -31,7 +31,7 @@
   <!-- EN: Abandon (all) -->
   <AbandonAllTip>Hylkää (kaikki)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>nHylätyt esineet katoavat eikä niitä saa koskaan takaisin.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>Hylätyt esineet katoavat eikä niitä saa koskaan takaisin.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>{1_labelShort} kuolee todennäköisesti.</BanishTipWillDie>
   

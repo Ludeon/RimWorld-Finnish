@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: attacked member -->
-  <AttackedMember.label>TODO</AttackedMember.label>
+  <AttackedMember.label>jäseneen hyökätty</AttackedMember.label>
   
   <!-- EN: guilty prisoner died -->
-  <GuiltyPrisonerDied.label>TODO</GuiltyPrisonerDied.label>
+  <GuiltyPrisonerDied.label>syyllinen vanki kuoli</GuiltyPrisonerDied.label>
   
   <!-- EN: innocent prisoner died -->
-  <InnocentPrisonerDied.label>TODO</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>viaton vanki kuoli</InnocentPrisonerDied.label>
   
   <!-- EN: member captured -->
-  <MemberCaptured.label>TODO</MemberCaptured.label>
+  <MemberCaptured.label>jäsen kaapattu</MemberCaptured.label>
   
   <!-- EN: member crushed -->
-  <MemberCrushed.label>TODO</MemberCrushed.label>
+  <MemberCrushed.label>jäsen murskattu</MemberCrushed.label>
   
   <!-- EN: member exited map healthy -->
-  <MemberExitedMapHealthy.label>TODO</MemberExitedMapHealthy.label>
+  <MemberExitedMapHealthy.label>jäsen poistui alueelta terveenä</MemberExitedMapHealthy.label>
   
   <!-- EN: member killed -->
-  <MemberKilled.label>TODO</MemberKilled.label>
+  <MemberKilled.label>jäsen tapettu</MemberKilled.label>
   
   <!-- EN: member died -->
-  <MemberNeutrallyDied.label>TODO</MemberNeutrallyDied.label>
+  <MemberNeutrallyDied.label>jäsen kuoli</MemberNeutrallyDied.label>
   
   <!-- EN: member sold -->
-  <MemberSold.label>TODO</MemberSold.label>
+  <MemberSold.label>jäsen myyty</MemberSold.label>
   
   <!-- EN: member stripped -->
   <MemberStripped.label>TODO</MemberStripped.label>
   
   <!-- EN: harmful surgery on member -->
-  <PerformedHarmfulSurgery.label>TODO</PerformedHarmfulSurgery.label>
+  <PerformedHarmfulSurgery.label>jäsenen haitallinen leikkaus</PerformedHarmfulSurgery.label>
   
   <!-- EN: prisoner died -->
-  <PrisonerDied.label>TODO</PrisonerDied.label>
+  <PrisonerDied.label>vanki kuoli</PrisonerDied.label>
   
   <!-- EN: harmed member -->
-  <UsedHarmfulItem.label>TODO</UsedHarmfulItem.label>
+  <UsedHarmfulItem.label>jäsentä satutettu</UsedHarmfulItem.label>
   
 </LanguageData>

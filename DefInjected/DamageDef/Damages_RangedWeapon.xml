@@ -4,12 +4,12 @@
   <!-- EN: arrow -->
   <Arrow.label>nuoli</Arrow.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Arrow.deathMessage>{0} on ammuttu kuoliaaksi.</Arrow.deathMessage>
+  <Arrow.deathMessage>{0} on ammuttu kuoliaaksi nuolella.</Arrow.deathMessage>
   
   <!-- EN: arrow -->
-  <ArrowHighVelocity.label>TODO</ArrowHighVelocity.label>
+  <ArrowHighVelocity.label>nuoli</ArrowHighVelocity.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <ArrowHighVelocity.deathMessage>TODO</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>{0} on ammuttu kuoliaaksi nuolella.</ArrowHighVelocity.deathMessage>
   
   <!-- EN: bullet -->
   <Bullet.label>luoti</Bullet.label>
@@ -17,8 +17,8 @@
   <Bullet.deathMessage>{0} on ammuttu kuoliaaksi.</Bullet.deathMessage>
   
   <!-- EN: stab -->
-  <RangedStab.label>TODO</RangedStab.label>
+  <RangedStab.label>puukotus</RangedStab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <RangedStab.deathMessage>TODO</RangedStab.deathMessage>
+  <RangedStab.deathMessage>{0} on puukotettu kuoliaaksi</RangedStab.deathMessage>
   
 </LanguageData>

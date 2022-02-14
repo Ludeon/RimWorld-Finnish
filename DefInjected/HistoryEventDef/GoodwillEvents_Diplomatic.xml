@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: gave gift -->
-  <GaveGift.label>TODO</GaveGift.label>
+  <GaveGift.label>antoi lahjan</GaveGift.label>
   
   <!-- EN: peace talks backfired -->
-  <PeaceTalksBackfire.label>TODO</PeaceTalksBackfire.label>
+  <PeaceTalksBackfire.label>rauhanneuvottelut epäonnistuivat</PeaceTalksBackfire.label>
   
   <!-- EN: peace talks disaster -->
-  <PeaceTalksDisaster.label>TODO</PeaceTalksDisaster.label>
+  <PeaceTalksDisaster.label>rauhanneuvottelut katastrofi</PeaceTalksDisaster.label>
   
   <!-- EN: peace talks success -->
-  <PeaceTalksSuccess.label>TODO</PeaceTalksSuccess.label>
+  <PeaceTalksSuccess.label>rauhanneuvottelut onnistuneet</PeaceTalksSuccess.label>
   
   <!-- EN: peace talks triumph -->
-  <PeaceTalksTriumph.label>TODO</PeaceTalksTriumph.label>
+  <PeaceTalksTriumph.label>rauhanneuvottelut riemuvoitto</PeaceTalksTriumph.label>
   
   <!-- EN: requested military aid -->
-  <RequestedMilitaryAid.label>TODO</RequestedMilitaryAid.label>
+  <RequestedMilitaryAid.label>pyydetty sotilaallista apua</RequestedMilitaryAid.label>
   
   <!-- EN: requested trader -->
-  <RequestedTrader.label>TODO</RequestedTrader.label>
+  <RequestedTrader.label>pyydetty vaihtokauppaa</RequestedTrader.label>
   
   <!-- EN: traded -->
-  <Traded.label>TODO</Traded.label>
+  <Traded.label>vaihtokauppa</Traded.label>
   
 </LanguageData>

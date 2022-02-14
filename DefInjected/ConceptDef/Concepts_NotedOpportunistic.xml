@@ -47,9 +47,9 @@
   <DrugPolicies.helpText>Voit määrätä yhdyskuntalaisia ottamaan tiettyjä päihteitä tiettyllä aikataululla. Voit esimerkiksi määrätä heidät ottamaan malarian vastalääkettä säännöllisesti tai juomaan yhden oluen päivässä pysyäkseen onnellisena.\n\nAvaa MÄÄRÄYKSET-välilehti ja paina "Hallitse päihdekäytäntöjä"-painiketta. Luo uusi päihdekäytäntö. Sitten voit määrätä tämän käytännön yhdyskuntalaisille.\n\nYhdyskuntalaiset voivat yhä ottaa huumeita huumekäytännön ulkopuolella. Voit kertoa heille mitä tehdä, mutta he seuraavat myös omia halujaan!</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
-  <GroupGotoHereDragging.label>TODO</GroupGotoHereDragging.label>
+  <GroupGotoHereDragging.label>Taistelijoiden sijoittaminen</GroupGotoHereDragging.label>
   <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpText>TODO</GroupGotoHereDragging.helpText>
+  <GroupGotoHereDragging.helpText>Paina oikealla ja vedä niin taistelijasi muodostavat jonon.\n\nLevittäydy - kimppuuntuneisiin kohteisiin on helppo osua!</GroupGotoHereDragging.helpText>
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Kauppiaiden kanssa vuorovaikuttaminen</InteractingWithTraders.label>

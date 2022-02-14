@@ -4,7 +4,7 @@
   <!-- EN: bite -->
   <Bite.label>purema</Bite.label>
   <!-- EN: A bite wound. -->
-  <Bite.description>TODO</Bite.description>
+  <Bite.description>Purema vamma.</Bite.description>
   <!-- EN: set -->
   <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -25,7 +25,7 @@
   <!-- EN: bruise -->
   <Bruise.label>ruhje</Bruise.label>
   <!-- EN: A bruise. -->
-  <Bruise.description>TODO</Bruise.description>
+  <Bruise.description>Ruhje.</Bruise.description>
   <!-- EN: set -->
   <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -42,7 +42,7 @@
   <!-- EN: burn -->
   <Burn.label>palovamma</Burn.label>
   <!-- EN: A burn. -->
-  <Burn.description>TODO</Burn.description>
+  <Burn.description>Palovamma.</Burn.description>
   <!-- EN: tended -->
   <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -63,7 +63,7 @@
   <!-- EN: chemical burn -->
   <ChemicalBurn.label>kemiallinen palovamma</ChemicalBurn.label>
   <!-- EN: A chemical burn. -->
-  <ChemicalBurn.description>TODO</ChemicalBurn.description>
+  <ChemicalBurn.description>Kemiallinen Palovamma.</ChemicalBurn.description>
   <!-- EN: chemical burn scar -->
   <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>kemiallinen paloarpi</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off (chemical) -->
@@ -78,7 +78,7 @@
   <!-- EN: crack -->
   <Crack.label>murtuma</Crack.label>
   <!-- EN: A crack. -->
-  <Crack.description>TODO</Crack.description>
+  <Crack.description>Murtuma.</Crack.description>
   <!-- EN: set -->
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: set -->
@@ -97,7 +97,7 @@
   <!-- EN: crush -->
   <Crush.label>murskaus</Crush.label>
   <!-- EN: A crushing wound. -->
-  <Crush.description>TODO</Crush.description>
+  <Crush.description>Murskaus vamma.</Crush.description>
   <!-- EN: set -->
   <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -116,7 +116,7 @@
   <!-- EN: cut -->
   <Cut.label>viilto</Cut.label>
   <!-- EN: A cut. -->
-  <Cut.description>TODO</Cut.description>
+  <Cut.description>Viilto.</Cut.description>
   <!-- EN: set -->
   <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -137,7 +137,7 @@
   <!-- EN: cut -->
   <ExecutionCut.label>viilto</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
-  <ExecutionCut.description>TODO</ExecutionCut.description>
+  <ExecutionCut.description>Teloituksen aikana tehty viilto.</ExecutionCut.description>
   <!-- EN: a cut -->
   <ExecutionCut.labelNoun>viilto</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -163,7 +163,7 @@
   <!-- EN: gunshot -->
   <Gunshot.label>ampumahaava</Gunshot.label>
   <!-- EN: A gunshot wound. -->
-  <Gunshot.description>TODO</Gunshot.description>
+  <Gunshot.description>Ampumahaava.</Gunshot.description>
   <!-- EN: set -->
   <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -186,7 +186,7 @@
   <!-- EN: misc -->
   <Misc.label>sekalaiset</Misc.label>
   <!-- EN: Miscellanous injuries. -->
-  <Misc.description>TODO</Misc.description>
+  <Misc.description>Sekalaiset vammat.</Misc.description>
   <!-- EN: set -->
   <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -203,11 +203,11 @@
   <!-- EN: missing body part -->
   <MissingBodyPart.label>puuttuva ruumiinosa</MissingBodyPart.label>
   <!-- EN: A body part is entirely missing. -->
-  <MissingBodyPart.description>TODO</MissingBodyPart.description>
+  <MissingBodyPart.description>Ruumiinosa puutuu kokonaan.</MissingBodyPart.description>
   <!-- EN: a missing body part -->
-  <MissingBodyPart.labelNoun>TODO</MissingBodyPart.labelNoun>
+  <MissingBodyPart.labelNoun>puuttuva rumiinosa</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
-  <MissingBodyPart.labelNounPretty>TODO</MissingBodyPart.labelNounPretty>
+  <MissingBodyPart.labelNounPretty>{1} puuttuu</MissingBodyPart.labelNounPretty>
   
   <!-- EN: scratch -->
   <Scratch.label>raapaisu</Scratch.label>
@@ -275,7 +275,7 @@
   <!-- EN: surgical cut -->
   <SurgicalCut.label>kirurginen viilto</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
-  <SurgicalCut.description>TODO</SurgicalCut.description>
+  <SurgicalCut.description>Leikkauksen aikana tehty viilto.</SurgicalCut.description>
   <!-- EN: set -->
   <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->

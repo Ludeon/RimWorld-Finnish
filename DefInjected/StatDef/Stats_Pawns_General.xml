@@ -32,9 +32,9 @@
   <EatingSpeed.description>Kerroin syömisen nopeuteen.</EatingSpeed.description>
   
   <!-- EN: filth rate -->
-  <FilthRate.label>TODO</FilthRate.label>
+  <FilthRate.label>saastantuottonopeus</FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
-  <FilthRate.description>TODO</FilthRate.description>
+  <FilthRate.description>Paljonko saastaa tämä olio tuottaa.\n\nOn parasta pitää saastaa tuottavat eläimet ulkona tai olki lattialla, jossa niiden saasta ei ole ongelma.</FilthRate.description>
   
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
@@ -47,9 +47,9 @@
   <GlobalLearningFactor.description>Kaikille taidoille yhteinen oppimisnopeus.</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <HungerRateMultiplier.label>Nälkiintymisnopeus kerroin</HungerRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
-  <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
+  <HungerRateMultiplier.description>Olion nälkiintymisen nopeuden kerroin.</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>vastustuskyvyn saamisnopeus</ImmunityGainSpeed.label>

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: executed colonist -->
-  <ExecutedColonist.label>TODO</ExecutedColonist.label>
+  <ExecutedColonist.label>yhdyskuntalainen teloitettiin</ExecutedColonist.label>
   
   <!-- EN: executed guest -->
-  <ExecutedGuest.label>TODO</ExecutedGuest.label>
+  <ExecutedGuest.label>vieras teloitettiin</ExecutedGuest.label>
   
   <!-- EN: executed prisoner -->
-  <ExecutedPrisoner.label>TODO</ExecutedPrisoner.label>
+  <ExecutedPrisoner.label>vanki teloitettiin</ExecutedPrisoner.label>
   
   <!-- EN: executed guilty prisoner -->
-  <ExecutedPrisonerGuilty.label>TODO</ExecutedPrisonerGuilty.label>
+  <ExecutedPrisonerGuilty.label>syyllinen vanki teloitettiin</ExecutedPrisonerGuilty.label>
   
   <!-- EN: executed innocent prisoner -->
-  <ExecutedPrisonerInnocent.label>TODO</ExecutedPrisonerInnocent.label>
+  <ExecutedPrisonerInnocent.label>viaton vanki teloitettiin</ExecutedPrisonerInnocent.label>
   
 </LanguageData>

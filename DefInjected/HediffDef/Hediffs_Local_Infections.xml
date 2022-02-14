@@ -4,7 +4,7 @@
   <!-- EN: flu -->
   <Animal_Flu.label>flunssa</Animal_Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
-  <Animal_Flu.description>TODO</Animal_Flu.description>
+  <Animal_Flu.description>Influenssa viruksen aiheuttama tartuntatauti. Tämä lajike on sopeutunut tartuttamaan ei-ihmis lajeja.</Animal_Flu.description>
   <!-- EN: minor -->
   <Animal_Flu.stages.minor.label>lievä</Animal_Flu.stages.minor.label>
   <!-- EN: major -->
@@ -37,7 +37,7 @@
   <!-- EN: flu -->
   <Flu.label>flunssa</Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. -->
-  <Flu.description>TODO</Flu.description>
+  <Flu.description>Influenssa viruksen aiheuttama tartuntatauti.</Flu.description>
   <!-- EN: minor -->
   <Flu.stages.minor.label>lievä</Flu.stages.minor.label>
   <!-- EN: major -->

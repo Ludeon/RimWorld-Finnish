@@ -22,14 +22,14 @@
   <Cut.deathMessage>{0} on leikattu kuoliaaksi.</Cut.deathMessage>
   
   <!-- EN: blunt -->
-  <Demolish.label>TODO</Demolish.label>
+  <Demolish.label>ruhje</Demolish.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Demolish.deathMessage>TODO</Demolish.deathMessage>
+  <Demolish.deathMessage>{0} on hakattu kuoliaaksi.</Demolish.deathMessage>
   
   <!-- EN: blunt -->
-  <Poke.label>TODO</Poke.label>
+  <Poke.label>ruhje</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Poke.deathMessage>TODO</Poke.deathMessage>
+  <Poke.deathMessage>{0} on hakattu kuoliaaksi.</Poke.deathMessage>
   
   <!-- EN: scratch -->
   <Scratch.label>raapaisu</Scratch.label>
@@ -37,9 +37,9 @@
   <Scratch.deathMessage>{0} on revitty kuoliaaksi.</Scratch.deathMessage>
   
   <!-- EN: toxic scratch -->
-  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <ScratchToxic.label>myrkky raapaisu</ScratchToxic.label>
   <!-- EN: {0} has been torn to death. -->
-  <ScratchToxic.deathMessage>TODO</ScratchToxic.deathMessage>
+  <ScratchToxic.deathMessage>{0} on revitty kuoliaaksi.</ScratchToxic.deathMessage>
   
   <!-- EN: stab -->
   <Stab.label>pisto</Stab.label>

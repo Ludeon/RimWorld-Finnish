@@ -258,7 +258,7 @@
   <!-- EN: Animal filth -->
   <AlertAnimalFilth>Eläinten saastaa</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
-  <AlertAnimalFilthDesc>TODO</AlertAnimalFilthDesc>
+  <AlertAnimalFilthDesc>Saastaa tuottava eläin on sisätiloissa puhtaalla lattialla.\n\nEläimet tuottavat paljon saastaa likkuessaan normaaleilla lattioilla. Pidä saastaa tuottavat eläimet ulkona, tai olkilattialla, jossa ne tuottavat paljon vähemmän saastaa.\n\nVoit tarkistaa eläimen saastan tuotto nopeuden sen tilastoista painamalla 'i' nappia.\n\nNämä eläimet ovat ongelma:\n{0}</AlertAnimalFilthDesc>
 
   <!-- EN: Pen needed -->
   <AlertAnimalPenNeeded>Aitaus tarvitaan</AlertAnimalPenNeeded>

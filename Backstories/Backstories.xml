@@ -228,9 +228,9 @@
   
   <AnimalFarmer21>
     <!-- EN: animal farmer -->
-    <title>TODO</title>
+    <title>eläintarhuri</title>
     <!-- EN: animal farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>eläintarhuri</titleShort>
     <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
     <desc>TODO</desc>
   </AnimalFarmer21>
@@ -329,9 +329,9 @@
   
   <ArmyCommander14>
     <!-- EN: Army commander -->
-    <title>TODO</title>
+    <title>Armeija komentaja</title>
     <!-- EN: Commander -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Komentaja</titleShort>
     <!-- EN: Unquenchable ambition propelled [PAWN_nameDef] to the highest levels of military command.\n\n[PAWN_pronoun] satisfied [PAWN_objective]self with the power to order death and pain upon [PAWN_possessive] enemies - and upon [PAWN_possessive] own soldiers. -->
     <desc>TODO</desc>
   </ArmyCommander14>
@@ -932,9 +932,9 @@
   
   <Butcher40>
     <!-- EN: butcher -->
-    <title>TODO</title>
+    <title>teurastaja</title>
     <!-- EN: butcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>teurastaja</titleShort>
     <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
     <desc>TODO</desc>
   </Butcher40>
@@ -950,9 +950,9 @@
   
   <CaesicMarshal72>
     <!-- EN: Caesic marshal -->
-    <title>TODO</title>
+    <title>Caesicien marsalkka</title>
     <!-- EN: marshal -->
-    <titleShort>TODO</titleShort>
+    <titleShort>marsalkka</titleShort>
     <!-- EN: They say that the Caesics soldiers are recruited from the dead. Rising through such ranks, most return whence they came. [PAWN_nameDef] dominated because of [PAWN_possessive] strategic genius, machine-like focus, and tolerance for suffering - both [PAWN_objective] own and that of others. -->
     <desc>TODO</desc>
   </CaesicMarshal72>
@@ -986,9 +986,9 @@
   
   <CardCounter25>
     <!-- EN: card counter -->
-    <title>TODO</title>
+    <title>korttien laskija</title>
     <!-- EN: card counter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>korttien laskija</titleShort>
     <!-- EN: In the urbworld underlevels, the strong kids learn to fight, the smart kids learn to cheat, and the other kids die. [PAWN_nameDef] was one of the smart kids. -->
     <desc>TODO</desc>
   </CardCounter25>
@@ -1049,9 +1049,9 @@
   
   <CaveBuilder81>
     <!-- EN: cave builder -->
-    <title>TODO</title>
+    <title>luolarakentaja</title>
     <!-- EN: cave builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>luolarakentaja</titleShort>
     <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
     <desc>TODO</desc>
   </CaveBuilder81>
@@ -1076,9 +1076,9 @@
   
   <CaveExplorer45>
     <!-- EN: cave explorer -->
-    <title>TODO</title>
+    <title>luolatutkija</title>
     <!-- EN: cave explorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>luolatutkija</titleShort>
     <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
     <desc>TODO</desc>
   </CaveExplorer45>
@@ -1536,9 +1536,9 @@
   
   <ContractMiner86>
     <!-- EN: contract miner -->
-    <title>TODO</title>
+    <title>kaivosurakoitsija</title>
     <!-- EN: contract miner -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kaivosurakoitsija</titleShort>
     <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
     <desc>TODO</desc>
   </ContractMiner86>
@@ -1891,9 +1891,9 @@
   
   <DepartmentHead61>
     <!-- EN: Department head -->
-    <title>TODO</title>
+    <title>Osaston päällikkö</title>
     <!-- EN: Boss -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Pomo</titleShort>
     <!-- EN: Seeking to satiate an unconscious thirst for power, [PAWN_nameDef] entered government. [PAWN_pronoun] rose through the ranks by ruining the careers of those around [PAWN_objective].\n\nOnce established, [PAWN_possessive] bureaucratic fief allowed him to get away with severe moral transgressions. -->
     <desc>TODO</desc>
   </DepartmentHead61>
@@ -1927,9 +1927,9 @@
   
   <Digger31>
     <!-- EN: digger -->
-    <title>TODO</title>
+    <title>kaivaja</title>
     <!-- EN: digger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kaivaja</titleShort>
     <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
     <desc>TODO</desc>
   </Digger31>
@@ -2189,9 +2189,9 @@
   
   <Excavator55>
     <!-- EN: excavator -->
-    <title>TODO</title>
+    <title>kaivaja</title>
     <!-- EN: excavator -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kaivaja</titleShort>
     <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
     <desc>TODO</desc>
   </Excavator55>
@@ -2225,9 +2225,9 @@
   
   <ExMilitary9>
     <!-- EN: ex-military -->
-    <title>TODO</title>
+    <title>ex-armeija</title>
     <!-- EN: ex-military -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ex-armeija</titleShort>
     <!-- EN: [PAWN_nameDef] always had an appetite for risk. Military life satisfied that need for a while, but eventually it wasn't enough.\n\nSeeking greater gambles, [PAWN_nameDef] took an offer from a mysterious machine persona and traveled to an unknown rimworld with a mysterious implant in [PAWN_possessive] head. -->
     <desc>TODO</desc>
   </ExMilitary9>
@@ -2505,9 +2505,9 @@
   
   <Forester96>
     <!-- EN: forester -->
-    <title>TODO</title>
+    <title>metsänhoitaja</title>
     <!-- EN: forester -->
-    <titleShort>TODO</titleShort>
+    <titleShort>metsänhoitaja</titleShort>
     <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
     <desc>TODO</desc>
   </Forester96>
@@ -2586,9 +2586,9 @@
   
   <FurnitureBuilder50>
     <!-- EN: furniture builder -->
-    <title>TODO</title>
+    <title>huonekalu rakentaja</title>
     <!-- EN: builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>rakentaja</titleShort>
     <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent his time building beautiful furniture for wealthy glitterworld clients. -->
     <desc>TODO</desc>
   </FurnitureBuilder50>
@@ -2825,9 +2825,9 @@
   
   <GrownMate56>
     <!-- EN: grown mate -->
-    <title>TODO</title>
+    <title>kasvatettu kumppani</title>
     <!-- EN: mate -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kumppani</titleShort>
     <!-- EN: [PAWN_nameDef] was vatgrown in a hyper-expensive clinic to serve the tastes of a specific client.\n\nEngineered, raised and trained as a perfect pleasure-giving mate, [PAWN_pronoun] learned skills that would baffle even the most seductive baseline human lovers. -->
     <desc>TODO</desc>
   </GrownMate56>
@@ -2978,9 +2978,9 @@
   
   <Herder33>
     <!-- EN: herder -->
-    <title>TODO</title>
+    <title>paimen</title>
     <!-- EN: herder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>paimen</titleShort>
     <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
     <desc>TODO</desc>
   </Herder33>
@@ -3144,9 +3144,9 @@
   
   <Hunter89>
     <!-- EN: hunter -->
-    <title>TODO</title>
+    <title>metsästäjä</title>
     <!-- EN: hunter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>metsästäjä</titleShort>
     <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
     <desc>TODO</desc>
   </Hunter89>
@@ -3319,9 +3319,9 @@
   
   <InsuranceBroker9>
     <!-- EN: insurance broker -->
-    <title>TODO</title>
+    <title>vakuutus välittäjä</title>
     <!-- EN: broker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>välittäjä</titleShort>
     <!-- EN: A life of insurance dealing consumed [PAWN_nameDef]'s hopes and dreams. When a mysterious machine persona offered the gambler implant, it seemed like a way to add color to a gray existence.\n\n[PAWN_nameDef] did not, however, plan on being captured by pirates and sent across the galaxy to a distant rimworld. -->
     <desc>TODO</desc>
   </InsuranceBroker9>
@@ -3491,9 +3491,9 @@
   
   <LazyWorker78>
     <!-- EN: lazy worker -->
-    <title>TODO</title>
+    <title>laiska työläinen</title>
     <!-- EN: lazy worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>laiska työläinen</titleShort>
     <!-- EN: When [PAWN_nameDef] was offered [PAWN_possessive] yearly salary in order to test a new implant, [PAWN_pronoun] jumped at the chance. Ever since then, [PAWN_nameDef] has been looking for a way to get it removed. -->
     <desc>TODO</desc>
   </LazyWorker78>
@@ -3527,9 +3527,9 @@
   
   <Logger95>
     <!-- EN: logger -->
-    <title>TODO</title>
+    <title>metsuri</title>
     <!-- EN: logger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>metsuri</titleShort>
     <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
     <desc>TODO</desc>
   </Logger95>
@@ -4668,9 +4668,9 @@
   
   <PetTorturer60>
     <!-- EN: pet torturer -->
-    <title>TODO</title>
+    <title>lemmikin kiduttaja</title>
     <!-- EN: pet torturer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>lemmikin kiduttaja</titleShort>
     <!-- EN: [PAWN_nameDef]'s affluent family helped conceal [PAWN_possessive] habit of torturing animals.\n\nDespite years of therapy, [PAWN_pronoun] could never bring [PAWN_objective]self to interact with the little beasts in any normal way. [PAWN_pronoun] did learn a few things about how bodies live and die. -->
     <desc>TODO</desc>
   </PetTorturer60>
@@ -4866,9 +4866,9 @@
   
   <PlankCutter72>
     <!-- EN: plank cutter -->
-    <title>TODO</title>
+    <title>lankun leikkaaja</title>
     <!-- EN: plank cutter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>lankun leikkaaja</titleShort>
     <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
     <desc>TODO</desc>
   </PlankCutter72>
@@ -4925,9 +4925,9 @@
   
   <PoliticalClimber28>
     <!-- EN: political climber -->
-    <title>TODO</title>
+    <title>poliittinen kiipeilijä</title>
     <!-- EN: political climber -->
-    <titleShort>TODO</titleShort>
+    <titleShort>poliittinen kiipeilijä</titleShort>
     <!-- EN: [PAWN_nameDef] was a smart kid, so everyone encouraged [PAWN_possessive] ambition to become a politician.\n\n[PAWN_pronoun] would use any tactic to win, including direct psychological attacks.\n\nDuring one school election, the other candidate hung himself. [PAWN_nameDef] won by default. -->
     <desc>TODO</desc>
   </PoliticalClimber28>
@@ -5114,9 +5114,9 @@
   
   <QuarryWorker29>
     <!-- EN: quarry worker -->
-    <title>TODO</title>
+    <title>louhos työläinen</title>
     <!-- EN: quarry worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>louhos työläinen</titleShort>
     <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
     <desc>TODO</desc>
   </QuarryWorker29>
@@ -5159,9 +5159,9 @@
   
   <Ranger96>
     <!-- EN: ranger -->
-    <title>TODO</title>
+    <title>samooja</title>
     <!-- EN: ranger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>samooja</titleShort>
     <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
     <desc>TODO</desc>
   </Ranger96>
@@ -5587,13 +5587,13 @@
   
   <SewerKid57>
     <!-- EN: sewer kid -->
-    <title>TODO</title>
+    <title>viemäri lapsi</title>
     <!-- EN: sewer girl -->
-    <titleFemale>TODO</titleFemale>
+    <titleFemale>viemäri tyttö</titleFemale>
     <!-- EN: sewer boy -->
-    <titleShort>TODO</titleShort>
+    <titleShort>viemäri poika</titleShort>
     <!-- EN: sewer girl -->
-    <titleShortFemale>TODO</titleShortFemale>
+    <titleShortFemale>viemäri tyttö</titleShortFemale>
     <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness, and learned to love them. -->
     <desc>TODO</desc>
   </SewerKid57>
@@ -5761,9 +5761,9 @@
   
   <Slaughterer58>
     <!-- EN: slaughterer -->
-    <title>TODO</title>
+    <title>teurastaja</title>
     <!-- EN: slaughterer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>teurastaja</titleShort>
     <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
     <desc>TODO</desc>
   </Slaughterer58>
@@ -6451,9 +6451,9 @@
   
   <StreetUrchin74>
     <!-- EN: street urchin -->
-    <title>TODO</title>
+    <title>katuviikari</title>
     <!-- EN: grifter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>viikari</titleShort>
     <!-- EN: After running away from home, [PAWN_nameDef] had to live on the streets.\n\n[PAWN_pronoun] grew up fast, and learned early that [PAWN_pronoun] had to figure out how to fool people into connecting with [PAWN_objective]. -->
     <desc>TODO</desc>
   </StreetUrchin74>
@@ -6793,9 +6793,9 @@
   
   <TreehouseBuilder86>
     <!-- EN: treehouse builder -->
-    <title>TODO</title>
+    <title>puumajan rakentaja</title>
     <!-- EN: treehouse builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>puumajan rakentaja</titleShort>
     <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
     <desc>TODO</desc>
   </TreehouseBuilder86>
@@ -7004,9 +7004,9 @@
   
   <UrbworldUrchin6>
     <!-- EN: urbworld urchin -->
-    <title>TODO</title>
+    <title>urbimaailman viikari</title>
     <!-- EN: urchin -->
-    <titleShort>TODO</titleShort>
+    <titleShort>viikari</titleShort>
     <!-- EN: [PAWN_nameDef] was born in the darkest slums of [PAWN_possessive] urban homeworld. Neglected by [PAWN_possessive] mother, [PAWN_pronoun] learned to survive on [PAWN_possessive] own, battling for every scrap of food [PAWN_pronoun] saw.\n\nEventually, as [PAWN_possessive] talents exceeded [PAWN_possessive] peers, [PAWN_pronoun] ascended from the depths to the surface streets and left [PAWN_possessive] mother behind. -->
     <desc>TODO</desc>
   </UrbworldUrchin6>

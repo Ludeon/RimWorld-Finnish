@@ -7,38 +7,38 @@
   <Bomb.deathMessage>{0} on kuollut räjähdykseen.</Bomb.deathMessage>
   
   <!-- EN: bomb -->
-  <BombSuper.label>TODO</BombSuper.label>
+  <BombSuper.label>pommi</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} on kuollut räjähdykseen.</BombSuper.deathMessage>
   
   <!-- EN: deterioration -->
   <Deterioration.label>hajoaa</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} on kuollut.</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
   <Extinguish.label>sammuttaa tulta</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} on kuollut.</Extinguish.deathMessage>
   
   <!-- EN: mining -->
   <Mining.label>louhiminen</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>{0} has been killed.</Mining.deathMessage>
+  <Mining.deathMessage>{0} on kuollut.</Mining.deathMessage>
   
   <!-- EN: rotting -->
   <Rotting.label>mätänee</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>{0} has been killed.</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} on kuollut.</Rotting.deathMessage>
   
   <!-- EN: smoke -->
   <Smoke.label>smoke</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} on kuollut.</Smoke.deathMessage>
   
   <!-- EN: thump -->
-  <Thump.label>TODO</Thump.label>
+  <Thump.label>jysähdys</Thump.label>
   <!-- EN: {0} has been shot to death. -->
-  <Thump.deathMessage>TODO</Thump.deathMessage>
+  <Thump.deathMessage>{0} on ammuttu kuoliaaksi.</Thump.deathMessage>
   
 </LanguageData>

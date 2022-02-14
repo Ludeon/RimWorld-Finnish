@@ -4,29 +4,29 @@
   <!-- EN: denture -->
   <Denture.label>hammasproteesi</Denture.label>
   <!-- EN: An installed denture. -->
-  <Denture.description>TODO</Denture.description>
+  <Denture.description>Asennettu hammasproteesi.</Denture.description>
   <!-- EN: a denture -->
-  <Denture.labelNoun>TODO</Denture.labelNoun>
+  <Denture.labelNoun>hammasproteesi</Denture.labelNoun>
   
   <!-- EN: peg leg -->
   <PegLeg.label>puujalka</PegLeg.label>
   <!-- EN: An installed peg leg. -->
-  <PegLeg.description>TODO</PegLeg.description>
+  <PegLeg.description>Asennettu puujalka.</PegLeg.description>
   <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>TODO</PegLeg.labelNoun>
+  <PegLeg.labelNoun>puujalka</PegLeg.labelNoun>
   
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>TODO</WoodenFoot.label>
+  <WoodenFoot.label>puinen jalka</WoodenFoot.label>
   <!-- EN: An installed wooden foot. -->
-  <WoodenFoot.description>TODO</WoodenFoot.description>
+  <WoodenFoot.description>Asennettu puinen jalka.</WoodenFoot.description>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>TODO</WoodenFoot.labelNoun>
+  <WoodenFoot.labelNoun>puinen jalka</WoodenFoot.labelNoun>
   
   <!-- EN: wooden hand -->
-  <WoodenHand.label>TODO</WoodenHand.label>
+  <WoodenHand.label>puinen käsi</WoodenHand.label>
   <!-- EN: An installed wooden hand. -->
-  <WoodenHand.description>TODO</WoodenHand.description>
+  <WoodenHand.description>Asennettu puinen käsi.</WoodenHand.description>
   <!-- EN: a wooden hand -->
-  <WoodenHand.labelNoun>TODO</WoodenHand.labelNoun>
+  <WoodenHand.labelNoun>puinen käsi</WoodenHand.labelNoun>
   
 </LanguageData>

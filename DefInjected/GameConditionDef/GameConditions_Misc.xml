@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>TODO</Aurora.label>
+  <Aurora.label>revontulet</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>TODO</Aurora.description>
+  <Aurora.description>Revontulet valaisevat taivaan. Hengensalpaava esitys parantaa niiden oloa, jotka näkevät sen.</Aurora.description>
   <!-- EN: The aurora is ending. -->
-  <Aurora.endMessage>TODO</Aurora.endMessage>
+  <Aurora.endMessage>Revontulet loppuvat</Aurora.endMessage>
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>TODO</Aurora.letterText>
+  <Aurora.letterText>Kauniit revontulet valaisevat taivaan.\n\nSen aaltoilevat värit parantavat niiden oloa, jotka näkevät sen, sekä tekevät yöstä kirkkaamman.</Aurora.letterText>
   
   <!-- EN: climate cycle -->
   <ClimateCycle.label>climate cycle</ClimateCycle.label>
@@ -27,13 +27,13 @@
   <ColdSnap.letterText>TODO</ColdSnap.letterText>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.label>auringonpimennys</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>An eclipse is shadowing the surface. It will be dark, even during the daytime.</Eclipse.description>
+  <Eclipse.description>Auringonpimennys pimentää maanpinnan. On pimeää myös päiväsaikaan.</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
-  <Eclipse.endMessage>The eclipse is ending.</Eclipse.endMessage>
+  <Eclipse.endMessage>Auringonpimennys on loppumassa.</Eclipse.endMessage>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
-  <Eclipse.letterText>TODO</Eclipse.letterText>
+  <Eclipse.letterText>Yksi tämän planeetan kuista on siirtynyt auringon eteen. Auringonpimennys on alkanut.</Eclipse.letterText>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>flashstorm</Flashstorm.label>
@@ -45,20 +45,20 @@
   <Flashstorm.letterText>TODO</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>heat wave</HeatWave.label>
+  <HeatWave.label>helleaalto</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>An extreme wave of heat is baking the area.</HeatWave.description>
+  <HeatWave.description>Äärimmäinen aalto lämpöä paahtaa aluetta.</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>TODO</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>helle aalto paahtaa [map_definite] ympäröivää aluetta [gameConditionDuration_duration] ajan, vahingoittaen kasveja ja mahdollisesti tappaen ihmisiä ja eläimi jäähdyttämättömillä alueilla.</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
-  <HeatWave.endMessage>The heat wave is over.</HeatWave.endMessage>
+  <HeatWave.endMessage>Helleaalto on ohitse.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>TODO</HeatWave.letterText>
+  <HeatWave.letterText>Epätavallinan helleaalto on alkanut.\n\nHelleaallot voivat aiheuttaa tappavan lämpöhalvauksen. Pysy viileänä rakentamalla joko passiivinen tai säköinen jäähdytin, tai menemällä syvälle maan alle, jossa kivet ovat luonnollisesti viileitä.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>planetkiller</Planetkiller.label>
+  <Planetkiller.label>planeetan tappaja</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.</Planetkiller.description>
+  <Planetkiller.description>Tähtienvälinen planeetan tappaja ase lähestyy tätä planeettaa. Se murskaa planeetan kuin munan, tuhoten kaiken elämän.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
   <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
@@ -69,7 +69,7 @@
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>psyykkinen häirintä päättyy</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>TODO</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Kaikki {0} yhdyskuntalaiset tuntevat aallon ahdistusta ja vihaa!\n\nJokin kaukainen vihan kone kuhisee. Se langettaa psyykkisen häirinnän tälle alueelle kiertoradallisen vahvistimen kautta, säädettynä vaikuttamaan vain {0} sukupuoleen. Muutaman päivän ajan joidenkin ihmisten olo on huomattavasti kehnompi.\n\nPsyykkisen häirinnön taso on {1}</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>psyykkinen rauhoitus</PsychicSoothe.label>
@@ -81,13 +81,13 @@
   <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
-  <SolarFlare.label>solar flare</SolarFlare.label>
+  <SolarFlare.label>auringonpurkaus</SolarFlare.label>
   <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
-  <SolarFlare.description>A solar flare is hitting the planet. This creates extreme electrical interference and prevents most electrical devices from working.</SolarFlare.description>
+  <SolarFlare.description>Auringonpurkaus ryöppyää tähän planeettaan. Elektromagneettinen häiriö estää useiden elektronisten laitteiden toiminnan.</SolarFlare.description>
   <!-- EN: The solar flare is ending. -->
-  <SolarFlare.endMessage>The solar flare is ending.</SolarFlare.endMessage>
+  <SolarFlare.endMessage>Auringonpurkaus on päättymässä.</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>TODO</SolarFlare.letterText>
+  <SolarFlare.letterText>Auringonpurkaus on alkanut.\n\nIntensiivinen säteily sammuttaa kaikki sähkölaitteet.\n\nSen pitäisi mennä ohi päivässä.</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>toxic fallout</ToxicFallout.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: applying TargetB. -->
-  <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>käyttää TargetB</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>Lähitaistelee olennon TargetA kanssa.</AttackMelee.reportString>
@@ -14,34 +14,34 @@
   <BeatFire.reportString>Lyö tulta sammuksiin.</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThing.reportString>TODO</CastAbilityOnThing.reportString>
+  <CastAbilityOnThing.reportString>Tekee jotain.</CastAbilityOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  <CastAbilityOnThingMelee.reportString>Tekee jotain.</CastAbilityOnThingMelee.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>Tekee jotain.</CastAbilityOnThingUninterruptible.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  <CastAbilityOnWorldTile.reportString>Tekee jotain.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityTouch.reportString>TODO</CastAbilityTouch.reportString>
+  <CastAbilityTouch.reportString>Tekee jotain.</CastAbilityTouch.reportString>
   
   <!-- EN: Doing something. -->
-  <CastJump.reportString>TODO</CastJump.reportString>
+  <CastJump.reportString>Tekee jotain.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>Kolaa lunta.</ClearSnow.reportString>
   
   <!-- EN: delivering TargetA. -->
-  <DeliverToCell.reportString>TODO</DeliverToCell.reportString>
+  <DeliverToCell.reportString>toimittaa kohteen TargetA.</DeliverToCell.reportString>
   
   <!-- EN: dropping TargetA. -->
-  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  <DropEquipment.reportString>pudottaa kohteen TargetA.</DropEquipment.reportString>
   
   <!-- EN: emptying TargetA. -->
-  <EmptyThingContainer.reportString>TODO</EmptyThingContainer.reportString>
+  <EmptyThingContainer.reportString>tyhjentää kohdetta TargetA</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>Menee salauniarkkuun.</EnterCryptosleepCasket.reportString>
@@ -56,10 +56,10 @@
   <ExtinguishSelf.reportString>Sammuttaa itsensä tulesta.</ExtinguishSelf.reportString>
   
   <!-- EN: filling TargetA. -->
-  <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+  <FillFermentingBarrel.reportString>täyttää kohdetta TargetA.</FillFermentingBarrel.reportString>
   
   <!-- EN: fleeing. -->
-  <Flee.reportString>fleeing.</Flee.reportString>
+  <Flee.reportString>pakenee.</Flee.reportString>
   
   <!-- EN: fleeing. -->
   <FleeAndCower.reportString>Pakenee.</FleeAndCower.reportString>
@@ -68,13 +68,13 @@
   <Flick.reportString>Kääntää kytkintä.</Flick.reportString>
   
   <!-- EN: following TargetA. -->
-  <Follow.reportString>TODO</Follow.reportString>
+  <Follow.reportString>seuraa kohdetta TargetA.</Follow.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>TODO</FollowClose.reportString>
+  <FollowClose.reportString>seuraa kohdetta TargetA.</FollowClose.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowRoper.reportString>TODO</FollowRoper.reportString>
+  <FollowRoper.reportString>seuraa kohdetta TargetA.</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
@@ -83,7 +83,7 @@
   <Goto.reportString>Liikkuu.</Goto.reportString>
   
   <!-- EN: moving. -->
-  <GotoMindControlled.reportString>TODO</GotoMindControlled.reportString>
+  <GotoMindControlled.reportString>liikkuu.</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>Etsii turvallista lämpötilaa.</GotoSafeTemperature.reportString>
@@ -113,10 +113,10 @@
   <LayDown.reportString>Makaa.</LayDown.reportString>
   
   <!-- EN: lying down. -->
-  <LayDownAwake.reportString>TODO</LayDownAwake.reportString>
+  <LayDownAwake.reportString>Makaa.</LayDownAwake.reportString>
   
   <!-- EN: lying down. -->
-  <LayDownResting.reportString>TODO</LayDownResting.reportString>
+  <LayDownResting.reportString>Makaa.</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>Rakastelee.</Lovin.reportString>

@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: attacked caravan -->
-  <AttackedCaravan.label>TODO</AttackedCaravan.label>
+  <AttackedCaravan.label>hyökätty karavaaniin</AttackedCaravan.label>
   
   <!-- EN: attacked settlement -->
-  <AttackedSettlement.label>TODO</AttackedSettlement.label>
+  <AttackedSettlement.label>hyökätty asutukseen</AttackedSettlement.label>
   
   <!-- EN: destroyed enemy base -->
-  <DestroyedEnemyBase.label>TODO</DestroyedEnemyBase.label>
+  <DestroyedEnemyBase.label>tuhottu vihollisten asutus</DestroyedEnemyBase.label>
   
   <!-- EN: settlement proximity -->
-  <SettlementProximity.label>TODO</SettlementProximity.label>
+  <SettlementProximity.label>asutuksen läheisyys</SettlementProximity.label>
   
 </LanguageData>

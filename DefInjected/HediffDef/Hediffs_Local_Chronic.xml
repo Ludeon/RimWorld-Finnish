@@ -61,7 +61,7 @@
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
   <Cataract.description>TODO</Cataract.description>
   <!-- EN: a cataract -->
-  <Cataract.labelNoun>TODO</Cataract.labelNoun>
+  <Cataract.labelNoun>harmaakaihi</Cataract.labelNoun>
   
   <!-- EN: dementia -->
   <Dementia.label>dementia</Dementia.label>
@@ -73,7 +73,7 @@
   <!-- EN: Generalized loss of muscle and bone density. -->
   <Frail.description>TODO</Frail.description>
   <!-- EN: frailty -->
-  <Frail.labelNoun>TODO</Frail.labelNoun>
+  <Frail.labelNoun>raihnaisuus</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
   <HearingLoss.label>kuulovaurio</HearingLoss.label>
@@ -85,7 +85,7 @@
   <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
   <HeartArteryBlockage.description>TODO</HeartArteryBlockage.description>
   <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>TODO</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.labelNoun>valtimon tukkeuma</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
   <HeartArteryBlockage.stages.minor-0.label>lievä</HeartArteryBlockage.stages.minor-0.label>
   <!-- EN: minor -->

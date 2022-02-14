@@ -95,7 +95,7 @@
   <ChopTrees.text>Haluat kerätä hieman puuta. Määrää joitain puita kaadettavaksi.\n\nValitse KAADA PUITA ja määrää 10 puuta kaadettavaksi.\n\n(Edistynyt vihje: Voit vetää laatikon puiden yli määrätäksesi monen kerralla.)</ChopTrees.text>
   
   <!-- EN: Click GENERATE to generate your world. -->
-  <CreateWorldParams.rejectInputMessage>TODO</CreateWorldParams.rejectInputMessage>
+  <CreateWorldParams.rejectInputMessage>Paina LUO luodaksesi maailmasi.</CreateWorldParams.rejectInputMessage>
   <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>Tervetuloa Rimworldiin! Tämä tutoriaali opettaa sinulle pelin pelaamisen.\n\nEnsimmäinen askel on luoda maailma jossa pelata.\n\nTämä sivu määrittää, miten maailmasi tulisi luoda.\n\nOletusarvot ovat hyvät - ole hyvä ja paina LUO!</CreateWorldParams.text>
   

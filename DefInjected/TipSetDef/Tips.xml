@@ -66,7 +66,7 @@
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Jos karavaanissa on kouluttamattomia eläimiä, voit jakaa ne erilliseen karavaaniin ennen kuin hyökkäät viholliseen, jotta ne eivät tule taisteluun.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: Don't forget to pack medicine on your caravans. -->
-  <GameplayTips.tips.32>TODO</GameplayTips.tips.32>
+  <GameplayTips.tips.32>Muista pakata lääkkeitä karavaaniisi.</GameplayTips.tips.32>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>RimWorld on tarinageneraattori, ei taitotesti. Pilalla oleva yhdyskunta on dramaattinen tragedia, ei epäonnistuminen.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -126,11 +126,11 @@
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>Edes vakavat takaiskut eivät tarkoita, että pelin on loputtava. Yritä pelata menetetty taistelu loppuun - usein parhaat tarinat syntyvät pimeimmistä tilanteista.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
-  <GameplayTips.tips.62>TODO</GameplayTips.tips.62>
+  <GameplayTips.tips.62>Pidä asevarastot kaukana vankiloistasi. Vankilapaot ovat paljon vaarallisempia aseiden ja räjähteiden kanssa.</GameplayTips.tips.62>
   <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
-  <GameplayTips.tips.63>TODO</GameplayTips.tips.63>
+  <GameplayTips.tips.63>Eläimiä kesyttäessä, varmista että sinulla on tarpeeksi oikeanlaista ruokaa eläinten ruokkimiseen.</GameplayTips.tips.63>
   <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
-  <GameplayTips.tips.64>TODO</GameplayTips.tips.64>
+  <GameplayTips.tips.64>Kivi- tai kuonalohkareen pudottaminen ovelle jättää sen auki, jättäen sinut haavoittuvaksi petoeläimille ja hyökkääjille.</GameplayTips.tips.64>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>Puhtaat laboratoriot steriileillä laatoilla antavat tutkimuksen nopeusbonuksia.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
@@ -142,10 +142,10 @@
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
   <GameplayTips.SchedulesSetLong>Määritä aikatauluun pitkä jakso yhtä aktiviteettia pienentääksesi matka-aikoja.</GameplayTips.SchedulesSetLong>
   <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
-  <GameplayTips.StrawMatting>TODO</GameplayTips.StrawMatting>
+  <GameplayTips.StrawMatting>Olkilattiaan ei tartu saasta. Käytä sitä ladon lattiana.</GameplayTips.StrawMatting>
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
-  <GameplayTips.AnimalFilth>TODO</GameplayTips.AnimalFilth>
+  <GameplayTips.AnimalFilth>Jotkut eläimet tuottavat paljon saastaa. Pidä elefanttisi ja karja ulkona.</GameplayTips.AnimalFilth>
   <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
-  <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
+  <GameplayTips.PredatorsAndFences>Petoeläimet metsästävät aitauksissa olevia eläimiä harvemmin.</GameplayTips.PredatorsAndFences>
   
 </LanguageData>

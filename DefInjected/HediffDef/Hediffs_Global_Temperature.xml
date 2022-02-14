@@ -32,7 +32,7 @@
   <Hypothermia.stages.extreme.label>äärimmäinen</Hypothermia.stages.extreme.label>
   
   <!-- EN: hypothermic slowdown -->
-  <HypothermicSlowdown.label>TODO</HypothermicSlowdown.label>
+  <HypothermicSlowdown.label>hypoterminen hidastus</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
   <HypothermicSlowdown.description>TODO</HypothermicSlowdown.description>
   <!-- EN: minor -->
