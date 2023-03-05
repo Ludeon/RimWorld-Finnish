@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: Bond -->
-  <Bond.headerTip>TODO</Bond.headerTip>
+  <Bond.headerTip>Side</Bond.headerTip>
   
   <!-- EN: Info -->
-  <Info.headerTip>TODO</Info.headerTip>
+  <Info.headerTip>Tiedot</Info.headerTip>
   
   <!-- EN: Life stage -->
-  <LifeStage.label>TODO</LifeStage.label>
+  <LifeStage.label>Elämänvaihe</LifeStage.label>
   
 </LanguageData>

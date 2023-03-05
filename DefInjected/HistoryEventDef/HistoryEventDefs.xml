@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: administered drug -->
-  <AdministeredDrug.label>TODO</AdministeredDrug.label>
+  <AdministeredDrug.label>annetaan päihde</AdministeredDrug.label>
   
   <!-- EN: administered hard drug -->
-  <AdministeredHardDrug.label>TODO</AdministeredHardDrug.label>
+  <AdministeredHardDrug.label>annetaan kova päihde</AdministeredHardDrug.label>
   
   <!-- EN: administered recreational drug -->
-  <AdministeredRecreationalDrug.label>TODO</AdministeredRecreationalDrug.label>
+  <AdministeredRecreationalDrug.label>annetaan viihdekäyttöön päihde</AdministeredRecreationalDrug.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat.label>TODO</AteHumanMeat.label>
+  <AteHumanMeat.label>söi ihmisen lihaa</AteHumanMeat.label>
   
   <!-- EN: cut tree -->
-  <CutTree.label>TODO</CutTree.label>
+  <CutTree.label>leikkasi puun</CutTree.label>
   
   <!-- EN: destroyed natural wall -->
-  <DestroyedMineable.label>TODO</DestroyedMineable.label>
+  <DestroyedMineable.label>tuhosi luonnollisen seinän</DestroyedMineable.label>
   
   <!-- EN: used drug -->
-  <IngestedDrug.label>TODO</IngestedDrug.label>
+  <IngestedDrug.label>käytti päihdettä</IngestedDrug.label>
   
   <!-- EN: used hard drug -->
-  <IngestedHardDrug.label>TODO</IngestedHardDrug.label>
+  <IngestedHardDrug.label>käytti kovaa päihdettä</IngestedHardDrug.label>
   
   <!-- EN: used recreational drug -->
-  <IngestedRecreationalDrug.label>TODO</IngestedRecreationalDrug.label>
+  <IngestedRecreationalDrug.label>käytti viihdekäyttöön päihdettä</IngestedRecreationalDrug.label>
   
   <!-- EN: installed prosthetic -->
-  <InstalledProsthetic.label>TODO</InstalledProsthetic.label>
+  <InstalledProsthetic.label>asensi proteesin</InstalledProsthetic.label>
   
   <!-- EN: mined -->
-  <Mined.label>TODO</Mined.label>
+  <Mined.label>louhi</Mined.label>
   
   <!-- EN: tree died -->
-  <MinifiedTreeDied.label>TODO</MinifiedTreeDied.label>
+  <MinifiedTreeDied.label>puu kuoli</MinifiedTreeDied.label>
   
   <!-- EN: researching -->
-  <Researching.label>TODO</Researching.label>
+  <Researching.label>tutkii</Researching.label>
   
   <!-- EN: sowed food plant -->
-  <SowedHumanFoodPlant.label>TODO</SowedHumanFoodPlant.label>
+  <SowedHumanFoodPlant.label>kylvetty ruoka kasvi</SowedHumanFoodPlant.label>
   
   <!-- EN: sowed plant -->
-  <SowedPlant.label>TODO</SowedPlant.label>
+  <SowedPlant.label>kylvetty kasvi</SowedPlant.label>
   
 </LanguageData>

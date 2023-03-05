@@ -11,20 +11,20 @@
   <Aurora.letterText>Kauniit revontulet valaisevat taivaan.\n\nSen aaltoilevat värit parantavat niiden oloa, jotka näkevät sen, sekä tekevät yöstä kirkkaamman.</Aurora.letterText>
   
   <!-- EN: climate cycle -->
-  <ClimateCycle.label>climate cycle</ClimateCycle.label>
+  <ClimateCycle.label>ilmaston sykli</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
-  <ClimateCycle.description>A multi-year climate cycle due to an elliptical orbit.</ClimateCycle.description>
+  <ClimateCycle.description>Elliptisen kiertoradan aiheuttama monivuotinen ilmastosykli.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>cold snap</ColdSnap.label>
+  <ColdSnap.label>kylmä aalto</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>An unusual cold snap is freezing the region.</ColdSnap.description>
+  <ColdSnap.description>Poikkeuksellinen kylmä aalto jäädyttää tätä aluetta.</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
-  <ColdSnap.descriptionFuture>TODO</ColdSnap.descriptionFuture>
+  <ColdSnap.descriptionFuture>kylmän ilman rintama viilentää aluetta [map_definite] [gameConditionDuration_duration] ajaksi, vahingoittamalla viljelmiä ja ihmisiä tai eläimiä ilman riittävää suojaa</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
-  <ColdSnap.endMessage>The cold snap is over.</ColdSnap.endMessage>
+  <ColdSnap.endMessage>Kylmä aalto on loppumassa.</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>TODO</ColdSnap.letterText>
+  <ColdSnap.letterText>Epätavallinen pakkanen on ilmaantunut.\n\nKylmä aalto voi nopeasti tappaa hypotermialla. Muista rakentaa lämmitetty tila selviytyäksesi, pukeutua asianmukaisiin vaatteisiin ja yrittää korjata satoa ennen kuin ne jäätyvät ja kuolevat.</ColdSnap.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>auringonpimennys</Eclipse.label>
@@ -36,13 +36,13 @@
   <Eclipse.letterText>Yksi tämän planeetan kuista on siirtynyt auringon eteen. Auringonpimennys on alkanut.</Eclipse.letterText>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.label>myrsky</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>Extreme amounts of lightning are hitting a small region.</Flashstorm.description>
+  <Flashstorm.description>Outo paikallinen myrsky räjäyttää pientä aluetta toistuvin salamaniskuin.</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>The flashstorm is over.</Flashstorm.endMessage>
+  <Flashstorm.endMessage>Myrsky on loppumassa.</Flashstorm.endMessage>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>TODO</Flashstorm.letterText>
+  <Flashstorm.letterText>Kummallinen paikallinen myrsky iskee pienelle alueelle salamoiden kanssa. Tämä voi aiheuttaa massiivisia tulipaloja.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>helleaalto</HeatWave.label>
@@ -63,9 +63,9 @@
   <!-- EN: psychic drone -->
   <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>TODO</PsychicDrone.description>
+  <PsychicDrone.description>Kaukainen archotekki lähettää psyykkisiä signaaleja orbitaalivahvistimen kautta ja ajaa ihmisiä kohti hulluutta.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>TODO</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>[psychicDroneLevel] psyykkinen häirintä suristelee [map_definite] ympäristössä [gameConditionDuration_duration] ja työntää kaikki [psychicDroneGender] ihmiset kohti hulluutta</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>psyykkinen häirintä päättyy</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
@@ -74,11 +74,11 @@
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>psyykkinen rauhoitus</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>TODO</PsychicSoothe.description>
+  <PsychicSoothe.description>Kaukainen archotekki lähettää psyykkisiä signaaleja orbitaalivahvistimen kautta rauhoittaen ihmisiä ja vakauttamalla heidän mielensä.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
   <PsychicSoothe.endMessage>psyykkinen rauhoitus päättyy</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>Jokainen paikan {0} yhdyskuntalaiset hymyilevät tyytyväisinä!\n\nJokin kaukainen onnen kone kuhisee. Se langettaa psyykkisen rauhoituksen tälle alueelle orbitaalivahvistimen kautta vaikuttaen vain {0}. Muutaman päivän ajan joidenkin ihmisten mieliala on hieman parempi.</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>auringonpurkaus</SolarFlare.label>
@@ -90,25 +90,25 @@
   <SolarFlare.letterText>Auringonpurkaus on alkanut.\n\nIntensiivinen säteily sammuttaa kaikki sähkölaitteet.\n\nSen pitäisi mennä ohi päivässä.</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+  <ToxicFallout.label>myrkyllinen laskeuma</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.</ToxicFallout.description>
+  <ToxicFallout.description>Myrkyllinen pölypilvi jostain kaukaisesta lähteestä laskeutuu hitaasti koko tälle alueelle. Kaikki elävät olennot, jotka eivät ole katon alla, myrkytetään hitaasti ja ulkopuolelle jätetyt esineet syöpyvät.</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
-  <ToxicFallout.descriptionFuture>TODO</ToxicFallout.descriptionFuture>
+  <ToxicFallout.descriptionFuture>myrkyllisten laskeumapilvi peittää [map_definite] ympäristön [gameConditionDuration_duration] ja tappaa ulkoilmakasveja ja eläimiä</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
-  <ToxicFallout.endMessage>The worst of the toxic fallout has settled.</ToxicFallout.endMessage>
+  <ToxicFallout.endMessage>Pahin myrkillinen laskeuma on laantunut.</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
-  <ToxicFallout.letterText>TODO</ToxicFallout.letterText>
+  <ToxicFallout.letterText>Kaukainen kemiallinen tulipalo on vapauttanut myrkkytulvan koko tälle alueelle.\n\nJokainen ihminen tai olento, joka ei ole katon alla, sairastuu hitaasti ilmakehästä laskeutuvaan myrkylliseen pölyyn.\n\nSe voi kestää mihin tahansa muutamasta päivästä yli moneen kuukauteen.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+  <VolcanicWinter.label>vulkaaninen talvi</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>The atmosphere is choked with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.</VolcanicWinter.description>
+  <VolcanicWinter.description>Jokin kaukainen tulivuori tai tuli tukahduttaa ilmakehän tuhkalla, mikä vähentää merkittävästi pintaan pääsevän valon määrää. Lämpötilat ovat kylmempiä ja kasvit kasvavat hitaammin.</VolcanicWinter.description>
   <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
-  <VolcanicWinter.descriptionFuture>TODO</VolcanicWinter.descriptionFuture>
+  <VolcanicWinter.descriptionFuture>tuhkakerros kerrostuu yläilmakehään, mikä vähentää auringonvaloa [map_definite] ympäristössä [gameConditionDuration_duration], mikä vahingoittaa vakavasti paikallista ekosysteemiä</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicWinter.endMessage>Most of the volcanic ash has settled.</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>Suurin osa tuhkasta on hävinnyt.</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>TODO</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>Eräs kaukainen tulivuori tai tulipalo on alkanut räjäyttää valtavia määriä tuhkaa ilmakehään.\n\nIlmakehän tuhka peittää auringon. Lämpötilat laskevat ja kasvit kärsivät auringonvalon puutteesta. Se voi mennä ohi muutamassa viikossa tai kestää monta kuukautta.</VolcanicWinter.letterText>
   
 </LanguageData>

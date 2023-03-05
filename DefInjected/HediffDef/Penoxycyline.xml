@@ -4,6 +4,6 @@
   <!-- EN: penoxycyline -->
   <PenoxycylineHigh.label>penoksisyliini</PenoxycylineHigh.label>
   <!-- EN: Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant. -->
-  <PenoxycylineHigh.description>TODO</PenoxycylineHigh.description>
+  <PenoxycylineHigh.description>Penoksisyliinin aiheuttama immuniteetti tiettyjä sairauksia vastaan. Tämä estää vain uudet infektiot; se ei tee mitään niille, jotka ovat jo saaneet tartunnan, vaikka heidän infektionsa olisi lepotilassa.</PenoxycylineHigh.description>
   
 </LanguageData>

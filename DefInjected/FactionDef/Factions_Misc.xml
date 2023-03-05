@@ -15,7 +15,7 @@
   <!-- EN: rough outlander union -->
   <OutlanderRough.label>syrjämaalaisten julma liitto</OutlanderRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
-  <OutlanderRough.description>TODO</OutlanderRough.description>
+  <OutlanderRough.description>Nämä ihmiset ovat asuneet täällä vuosikymmeniä tai vuosisatoja, ja he ovat menettäneet suurimman osan teknologiasta, joka toi heidät tähän maailmaan. He työskentelevät yleensä yksinkertaisilla koneilla ja puolustavat itseään kehittyneillä ruutiaseilla.\n\nHe ovat huolissaan kaupan, luottamuksen ja selviytymisen käytännön asioista.\n\nTässä nimenomaisessa ryhmässä on barbaarisuus.</OutlanderRough.description>
   <!-- EN: prime councilor -->
   <OutlanderRough.leaderTitle>pormestari</OutlanderRough.leaderTitle>
   <!-- EN: outlander -->
@@ -48,7 +48,7 @@
   <!-- EN: fierce tribe -->
   <TribeRough.label>kiivas heimo</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
-  <TribeRough.description>TODO</TribeRough.description>
+  <TribeRough.description>Nämä ihmiset ovat olleet täällä jo pitkään. Ehkä heidän esi-isänsä törmäsivät tänne tuhat vuotta sitten. Ehkä he selvisivät jostain kataklysmistä, joka tuhosi teknologisen sivilisaation täällä. Joka tapauksessa heimot ovat enimmäkseen nomadeja, jotka elävät käyttämällä primitiivisiä työkaluja ja aseita.\n\nNäennäisestä teknologisesta heikkoudesta huolimatta heimot voivat olla vaarallisia vihollisia ja arvokkaita ystäviä, koska heillä on taitoja matalan teknologian sodankäynnissä, heidän lukyumäärästä ja heidän kestävyytensä vuoksi.\n\nTämä tietty heimo arvostaa sotaista dominanssia; voi olla vaikeaa muuttaa heitä liittolaiseksi.</TribeRough.description>
   <!-- EN: chief -->
   <TribeRough.leaderTitle>päällikkö</TribeRough.leaderTitle>
   <!-- EN: tribesman -->
@@ -59,7 +59,7 @@
   <!-- EN: savage tribe -->
   <TribeSavage.label>raakalaisheimo</TribeSavage.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
-  <TribeSavage.description>TODO</TribeSavage.description>
+  <TribeSavage.description>Nämä ihmiset ovat olleet täällä jo pitkään. Ehkä heidän esi-isänsä törmäsivät tänne tuhat vuotta sitten. Ehkä he selvisivät jostain kataklysmistä, joka tuhosi teknologisen sivilisaation täällä. Joka tapauksessa heimot ovat enimmäkseen nomadeja, jotka elävät käyttämällä primitiivisiä työkaluja ja aseita.\n\nNäennäisestä teknologisesta heikkoudesta huolimatta heimot voivat olla vaarallisia vihollisia, koska heillä on taitoja matalan teknologian sodankäynnissä, heidän lukumääränsä ja heidän kestävyytensä vuoksi.\n\nTätä tiettyä heimoa ohjaa veren ja kunnian kulttuuri; et voi liittoutua heidän kanssaan!</TribeSavage.description>
   <!-- EN: chief -->
   <TribeSavage.leaderTitle>päällikkö</TribeSavage.leaderTitle>
   <!-- EN: tribesman -->

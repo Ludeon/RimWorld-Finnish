@@ -4,24 +4,24 @@
   <!-- EN: ambrosia addiction -->
   <AmbrosiaAddiction.label>ambrosiariippuvuus</AmbrosiaAddiction.label>
   <!-- EN: A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AmbrosiaAddiction.description>TODO</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.description>Kemiallinen riippuvuus ambrosiaan. Pitkäaikainen ambrosian käyttö on aiheuttanut neurologisia mukautuksia solutasolla, joten aivot eivät enää voi toimia kunnolla ilman päihdettä.\n\nIlman säännöllisiä ambrosian annoksia, vieroitusoireet alkavat. Pitkäaikainen raittius pakottaa kuitenkin aivot sopeutumaan takaisin normaalitilaansa, mikä ratkaisee riippuvuuden.</AmbrosiaAddiction.description>
   <!-- EN: withdrawal -->
   <AmbrosiaAddiction.stages.withdrawal.label>vieroitustila</AmbrosiaAddiction.stages.withdrawal.label>
   
   <!-- EN: ambrosia warmth -->
-  <AmbrosiaHigh.label>TODO</AmbrosiaHigh.label>
+  <AmbrosiaHigh.label>ambrosian lämpö</AmbrosiaHigh.label>
   <!-- EN: Ambrosia chemicals in the bloodstream. It lifts the mood. -->
-  <AmbrosiaHigh.description>TODO</AmbrosiaHigh.description>
+  <AmbrosiaHigh.description>Ambrosia-kemikaaleja verenkierrossa. Se kohottaa mielialaa.</AmbrosiaHigh.description>
   
   <!-- EN: ambrosia tolerance -->
   <AmbrosiaTolerance.label>ambrosiatoleranssi</AmbrosiaTolerance.label>
   <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
-  <AmbrosiaTolerance.description>TODO</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.description>Rakentunut toleranssi ambrosialle. Mitä vakavampi tämä toleranssi on, sitä enemmän ambrosiaa tarvitaan saman vaikutuksen saavuttamiseksi.</AmbrosiaTolerance.description>
   <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small.label>TODO</AmbrosiaTolerance.stages.small.label>
+  <AmbrosiaTolerance.stages.small.label>pieni</AmbrosiaTolerance.stages.small.label>
   <!-- EN: large -->
-  <AmbrosiaTolerance.stages.large.label>TODO</AmbrosiaTolerance.stages.large.label>
+  <AmbrosiaTolerance.stages.large.label>suuri</AmbrosiaTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AmbrosiaTolerance.stages.massive.label>TODO</AmbrosiaTolerance.stages.massive.label>
+  <AmbrosiaTolerance.stages.massive.label>massiivinen</AmbrosiaTolerance.stages.massive.label>
   
 </LanguageData>

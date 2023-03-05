@@ -41,8 +41,39 @@
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] henkilölle [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kertoi henkilölle [RECIPIENT_nameDef] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kuvaili asiasaa [subject] henkilölle [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] rohkaisi henkilöä [RECIPIENT_nameDef] [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] antoi mahdollisuuden henkilölle [RECIPIENT_nameDef] puhua [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ilmaisi kiinnostusta henkilön [RECIPIENT_nameDef] [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kysyi henkilöltä [RECIPIENT_nameDef] asiasta [RECIPIENT_possessive] [PersonalCharacteristic].</li>
     <li>toldastoryabout(p=2)->kertoi tarinan</li>
+    <li>toldastoryabout->kertoi hauskan tarinan</li>
+    <li>toldastoryabout->kertoi sydäntä koskeskettavan tarinan</li>
+    <li>toldastoryabout->kertoi vanhan tarinan</li>
+    <li>toldastoryabout->kertoi perhe tarinan</li>
+    <li>toldastoryabout->kertoi lapsuuden tarinan</li>
+    <li>toldastoryabout->mentioned an pilajutun</li>
+    <li>talkabout->puhumaan aiheesta</li>
+    <li>talkabout->keskustella aiheesta</li>
+    <li>talkabout->käydä keskustelua aiheesta</li>
+    <li>talkabout->kysyä aiheesta</li>
+    <li>talkabout->miettiä aihetta</li>
+    <li>talkabout->löytää yhteistä säveltä aiheesta</li>
     <li>subject->yhdyskunnasta</li>
+    <li>subject->yhteisöstä</li>
+    <li>subject->yhdyskuntaan liittymisestä</li>
+    <li>subject->tiimien vaihdosta</li>
+    <li>subject->ystävien etsimisestä</li>
+    <li>subject->uusien ihmisten tapaamisesta</li>
+    <li>subject->harkitsemista uudelleen [RECIPIENT_possessive]n ideoita</li>
+    <li>subject->miettiä uudelleen [RECIPIENT_possessive] uskollisuuksia</li>
+    <li>subject->terveydestä</li>
+    <li>subject->tulevaisuudesta</li>
+    <li>subject->irti päästämisestä</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
   
   <!-- EN: recruit attempt -->
@@ -55,6 +86,9 @@
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] pyysi henkilöä [RECIPIENT_nameDef] liittymään.</li>
+    <li>r_logentry->[INITIATOR_nameDef] lupasi asian [goodthing] henkilölle [RECIPIENT_nameDef] ja kysyi henkilöä [RECIPIENT_objective] liittymään.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->ilmaisia ja tuoreita [Vegetable]</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->
@@ -71,7 +105,13 @@
   -->
   <SparkJailbreak.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] puhui [freedom] ihanuudesta ja ehdotti pakomenetelmää.</li>
+    <li>r_logentry->[INITIATOR_nameDef] puhui kuinka kaunis [TerrainFeature] on ja tarjosi vapautta.</li>
+    <li>r_logentry->[INITIATOR_nameDef] havainnoilisti pakomenetelän henkilölle [RECIPIENT_nameDef] ja lupasi [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kertoi henkilölle [RECIPIENT_nameDef], että vartijointi on heikkoa ja rohkaisi karkaamaan.</li>
     <li>freedom->vapauden</li>
+    <li>freedom->mahdollisuuden</li>
+    <li>freedom->kodin</li>
+    <li>freedom->itsemääräämisoikeuden</li>
   </SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

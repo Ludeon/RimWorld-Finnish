@@ -4,7 +4,7 @@
   <!-- EN: alzheimer's -->
   <Alzheimers.label>alzheimerin tauti</Alzheimers.label>
   <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
-  <Alzheimers.description>TODO</Alzheimers.description>
+  <Alzheimers.description>Aivosairaus, joka yleensä liittyy ikääntymiseen. Alzheimerin tauti heikentää asteittain kykyä ajatella ja muistaa. Potilaiden tiedetään unohtavan lähisukulaisensa ja joskus vaeltavan ympäriinsä hämmentyneenä.</Alzheimers.description>
   <!-- EN: minor -->
   <Alzheimers.stages.minor-0.label>lievä</Alzheimers.stages.minor-0.label>
   <!-- EN: minor -->
@@ -17,7 +17,7 @@
   <!-- EN: asthma -->
   <Asthma.label>astma</Asthma.label>
   <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
-  <Asthma.description>TODO</Asthma.description>
+  <Asthma.description>Pitkäaikainen tulehduksellinen keuhkojen hengitysteiden sairaus. Se vaatii säännöllistä hoitoa oireiden ehkäisemiseksi.</Asthma.description>
   <!-- EN: minor -->
   <Asthma.stages.minor.label>lievä</Asthma.stages.minor.label>
   <!-- EN: major -->
@@ -28,21 +28,21 @@
   <!-- EN: bad back -->
   <BadBack.label>huono selkä</BadBack.label>
   <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
-  <BadBack.description>TODO</BadBack.description>
+  <BadBack.description>Hajoaminen selkärangassa ja ympäröivässä lihaksistossa. Tämä vaikeuttaa sujuvaa liikkumista ja taipumista.</BadBack.description>
   <!-- EN: a bad back -->
-  <BadBack.labelNoun>TODO</BadBack.labelNoun>
+  <BadBack.labelNoun>huono selkä</BadBack.labelNoun>
   
   <!-- EN: blindness -->
-  <Blindness.label>TODO</Blindness.label>
+  <Blindness.label>sokeus</Blindness.label>
   <!-- EN: Total inability to see. -->
-  <Blindness.description>TODO</Blindness.description>
+  <Blindness.description>Täysi kyvyttömyys nähdä.</Blindness.description>
   
   <!-- EN: carcinoma -->
-  <Carcinoma.label>syöpä</Carcinoma.label>
+  <Carcinoma.label>karsinooma</Carcinoma.label>
   <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
-  <Carcinoma.description>TODO</Carcinoma.description>
+  <Carcinoma.description>Möykky syöpäkudosta. Ilman hoitoa syöpä kasvaa ajan myötä, mikä alkaa oireilla pahemmin ja lopulta tappaa potilaan.\n\nAmmattitaitoinen lääkäri voi leikata karsinooman pois. Ammattitaitoinen lääkäri saattaa pystyä yksinkertaisesti amputoimaan karsinooman sisältävän ruumiinosan.</Carcinoma.description>
   <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>TODO</Carcinoma.labelNoun>
+  <Carcinoma.labelNoun>karsinooma</Carcinoma.labelNoun>
   <!-- EN: minor -->
   <Carcinoma.stages.minor-0.label>lievä</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
@@ -59,31 +59,31 @@
   <!-- EN: cataract -->
   <Cataract.label>harmaakaihi</Cataract.label>
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
-  <Cataract.description>TODO</Cataract.description>
+  <Cataract.description>Maitomaisen näköinen sameus silmässä. Kaihi heikentää näköä.</Cataract.description>
   <!-- EN: a cataract -->
   <Cataract.labelNoun>harmaakaihi</Cataract.labelNoun>
   
   <!-- EN: dementia -->
   <Dementia.label>dementia</Dementia.label>
   <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
-  <Dementia.description>TODO</Dementia.description>
+  <Dementia.description>Hermoston rappeutuminen, joka aiheuttaa puutteita kyvyssä ajatella ja muistaa. Dementialla on useita syitä, mukaan lukien ikääntyminen, tietyt sairaudet ja myrkyt.</Dementia.description>
   
   <!-- EN: frail -->
   <Frail.label>raihnainen</Frail.label>
   <!-- EN: Generalized loss of muscle and bone density. -->
-  <Frail.description>TODO</Frail.description>
+  <Frail.description>Yleinen lihas- ja luutiheyden menetys.</Frail.description>
   <!-- EN: frailty -->
   <Frail.labelNoun>raihnaisuus</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
   <HearingLoss.label>kuulovaurio</HearingLoss.label>
   <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
-  <HearingLoss.description>TODO</HearingLoss.description>
+  <HearingLoss.description>Kyvyttömyys kuulla hiljaisia ääniä sisäkorvan karvasolujen hajoamisen vuoksi.</HearingLoss.description>
   
   <!-- EN: artery blockage -->
   <HeartArteryBlockage.label>valtimon tukkeuma</HeartArteryBlockage.label>
   <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
-  <HeartArteryBlockage.description>TODO</HeartArteryBlockage.description>
+  <HeartArteryBlockage.description>Tukos yhdessä sydämen kriittisistä valtimoista. Sydänvaltimon tukkeumat aiheuttavat satunnaisesti sydänkohtauksia.</HeartArteryBlockage.description>
   <!-- EN: an artery blockage -->
   <HeartArteryBlockage.labelNoun>valtimon tukkeuma</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->

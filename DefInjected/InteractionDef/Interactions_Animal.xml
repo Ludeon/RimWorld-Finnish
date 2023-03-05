@@ -29,7 +29,28 @@
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] istui lähelle eläintä [RECIPIENT_nameDef] ja keskusteli aiheesta [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] lähestyi eläintä [RECIPIENT_nameDef] samalla kuiskaten aiheesta [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tuli lähelle eläintä [RECIPIENT_nameDef] samalla keskustellen aiheesta [TalkTopicAny].</li>
+    <li>tamed->piti rauhoittavia ääniä eläimelle</li>
+    <li>tamed->tarjosi hitaita ja ystävällisiä eleitä eläimelle</li>
+    <li>tamed->piti hiljentäviä ääniä eläimelle</li>
+    <li>tamed->teki iloisia napsautuksia eläimelle</li>
+    <li>tamed->elehtii hellästi ja lähestyi eläintä</li>
     <li>tamed->lähestyi hitaasti eläintä</li>
+    <li>tamed->koski hellästi eläintä</li>
+    <li>tamed->rauhoitti ja rohkaisi eläintä</li>
+    <li>tamed->sovitti hengityksensä eläimelle</li>
+    <li>tamed->otti matalan asennon lähestyessään eläintä</li>
+    <li>tamed->ei osoittanut pelkoa tai vihaa eläimelle</li>
+    <li>tamed->teeskennellyt välinpitämättömyyttä eläimelle</li>
+    <li>tamed->hyräili lempeästi jotain kappaletta eläimelle</li>
+    <li>tamed->lauloi vanhan tuutulaulun eläimelle</li>
+    <li>tamed->kosketti tiukasti mutta pehmeästi eläintä</li>
+    <li>tamed->osoitti rentoa asennetta eläimelle</li>
+    <li>tamed->istui kärsivällisesti lähellä eläintä</li>
+    <li>tamed->kuiskasi tarinan asiasta [TalkTopicAny] eläimelle</li>
+    
   </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
@@ -62,8 +83,31 @@
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzled] [nuzzleadverb] henkilöä [RECIPIENT_nameDef].</li>
-    <li>nuzzleadverb->hellästi</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] hieroi [INITIATOR_possessive] nenää henkilön [RECIPIENT_nameDef] [rubbedpart] vasten.</li>
     <li>nuzzled(p=2)->kiehnäsi</li>
+    <li>nuzzled->käpertyi</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->hellästi</li>
+    <li>nuzzleadverb->rohkaisevasti</li>
+    <li>nuzzleadverb->iloisesti</li>
+    <li>nuzzleadverb->pehmeästi</li>
+    <li>nuzzleadverb->kannustavasti</li>
+    <li>nuzzleadverb->keveysti</li>
+    <li>nuzzleadverb->lämpivästi</li>
+    <li>nuzzleadverb->valitettavasti</li>
+    <li>nuzzleadverb->rakastavasti</li>
+    <li>nuzzleadverb->hellästi</li>
+    <li>rubbedpart->jalkaa</li>
+    <li>rubbedpart->polvea</li>
+    <li>rubbedpart->jalka terää</li>
+    <li>rubbedpart->kyynärpäätä</li>
+    <li>rubbedpart->lonkkaa</li>
+    <li>rubbedpart->olkapäätä</li>
+    <li>rubbedpart->kättä</li>
+    <li>rubbedpart->kylkeä</li>
+    <li>rubbedpart->käsivartta</li>
+    
+
   </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: release to the wild -->
@@ -81,7 +125,19 @@
     <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
     <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
   -->
-  <ReleaseToWild.logRulesInitiator.rulesStrings>TODO</ReleaseToWild.logRulesInitiator.rulesStrings>
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] hellästi silitti [RECIPIENT_nameDef] viimeisen kerran</li>
+    <li>farewell->[INITIATOR_nameDef] kertoi lämpimiä sanoja kohteelle [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] poisti kohteen [RECIPIENT_nameDef] pannan</li>
+    <li>farewell->[INITIATOR_nameDef] muisteli hyviä aikoja joita [INITIATOR_pronoun] piti [RECIPIENT_nameDef] kanssa</li>
+    <li>released->ja päästi [RECIPIENT_objective] takaisin luontoon.</li>
+    <li>released->ja päästi [RECIPIENT_objective] vapaaksi.</li>
+    <li>released->ja lähetti [RECIPIENT_objective] pois.</li>
+    <li>released->ja päästi [RECIPIENT_objective] menemään.</li>
+    <li>released->sitten kääntyi pois ja päästi [RECIPIENT_objective] lähtemään yhdyskunnasta.</li>
+    <li>released->ennen lähetettyään [RECIPIENT_objective] menemään elämään vapaudessa.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>kesytysyritys</TameAttempt.label>
@@ -104,6 +160,20 @@
   -->
   <TameAttempt.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] yritti kesyttää eläimen [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] yritti pitää [RECIPIENT_nameDef] hallinnassa.</li>
+    <li>r_logentry->[INITIATOR_nameDef] yritti laittaa pannan eläimelle [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] vaati tottelevaisuutta eläimeltä [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kutsui eläintä [RECIPIENT_nameDef] tulemaan kohteeseen [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] yritti saada eläimen [RECIPIENT_nameDef] istumaan paikoillaan.</li>
+    <li>r_logentry->[INITIATOR_nameDef] tarttui eläimeen [RECIPIENT_nameDef] jyrkästi ja käskytti.</li>
+    <li>r_logentry->[INITIATOR_nameDef] yritti pitää eläintä [RECIPIENT_nameDef] paikallaan.</li>
+    <li>r_logentry->[INITIATOR_nameDef] huusi käskyn eläimelle [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] läpsäisi eläintä [RECIPIENT_nameDef] näyttääkseen dominanssia.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ohjasi eläintä [RECIPIENT_nameDef] takaisin yhteisöön.</li>
+    <li>r_logentry->[INITIATOR_nameDef] kutsui eläintä [RECIPIENT_nameDef] takaisin yhteisöön.</li>
+    <li>r_logentry->[INITIATOR_nameDef] koski haavoittuvaa ruumiinosaa eläimessä [RECIPIENT_nameDef] vaatien tottelevaisuutta.</li>
+    <li>r_logentry->[INITIATOR_nameDef] osoitti maahan vaatiakseen eläintä [RECIPIENT_nameDef] tulemaan.</li>
+    <li>r_logentry->[INITIATOR_nameDef] antoi eläimelle [RECIPIENT_nameDef] ensimmäisen käskyn.</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
@@ -123,7 +193,14 @@
   <TrainAttempt.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [trained] eläimen [RECIPIENT_nameDef].</li>
     <li>trained(p=2)->[tried] kouluttaa</li>
+    <li>trained->[tried] näyttää uuden tempun</li>
+    <li>trained->[tried] kurittaa</li>
+    <li>trained->[tried] ohjeistaa</li>
+    <li>trained->[tried] kannustaa uuden taidon hankkimiseen</li>
+    <li>trained->näytti taidon</li>
+    <li>trained->rohkaisi antamaan uutta vastausta</li>
     <li>tried->yritti</li>
+    <li>tried->koitti</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

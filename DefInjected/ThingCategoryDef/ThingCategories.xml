@@ -5,22 +5,22 @@
   <AnimalProductRaw.label>eläintuotteet</AnimalProductRaw.label>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>eläimet</Animals.label>
   
   <!-- EN: apparel -->
   <Apparel.label>vaatteet</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>panssari</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
   <ApparelNoble.label>TODO</ApparelNoble.label>
   
   <!-- EN: utility -->
-  <ApparelUtility.label>TODO</ApparelUtility.label>
+  <ApparelUtility.label>hyöty</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>päähineet</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>artifacts</Artifacts.label>
@@ -47,7 +47,7 @@
   <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>TODO</Buildings.label>
+  <Buildings.label>rakennukset</Buildings.label>
   
   <!-- EN: art -->
   <BuildingsArt.label>taide</BuildingsArt.label>
@@ -56,25 +56,25 @@
   <BuildingsFurniture.label>huonekalut</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  <BuildingsJoy.label>harrasteet</BuildingsJoy.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  <BuildingsMisc.label>muut</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>TODO</BuildingsPower.label>
+  <BuildingsPower.label>voima</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  <BuildingsProduction.label>tuotanto</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  <BuildingsSecurity.label>turvallisuus</BuildingsSecurity.label>
   
   <!-- EN: special -->
   <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  <BuildingsTemperature.label>lämpötila</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
   <Chunks.label>kimpaleet</Chunks.label>
@@ -119,7 +119,7 @@
   <Headgear.label>päähineet</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>päähineet</HeadgearNoble.label>
   
   <!-- EN: inert relics -->
   <InertRelics.label>TODO</InertRelics.label>
@@ -158,7 +158,7 @@
   <PlantMatter.label>plant matter</PlantMatter.label>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>kasvit</Plants.label>
   
   <!-- EN: raw resources -->
   <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
@@ -194,6 +194,6 @@
   <WeaponsRanged.label>ampuma-aseet</WeaponsRanged.label>
   
   <!-- EN: wools -->
-  <Wools.label>TODO</Wools.label>
+  <Wools.label>villat</Wools.label>
   
 </LanguageData>

@@ -4,38 +4,38 @@
   <!-- EN: marsh -->
   <Marsh.label>suota</Marsh.label>
   <!-- EN: water -->
-  <Marsh.tools.water.label>TODO</Marsh.tools.water.label>
+  <Marsh.tools.water.label>vettä</Marsh.tools.water.label>
   <!-- EN: mud -->
-  <Marsh.tools.mud.label>TODO</Marsh.tools.mud.label>
+  <Marsh.tools.mud.label>muta</Marsh.tools.mud.label>
   
   <!-- EN: deep water -->
   <WaterDeep.label>syvää vettä</WaterDeep.label>
   <!-- EN: water -->
-  <WaterDeep.tools.water.label>TODO</WaterDeep.tools.water.label>
+  <WaterDeep.tools.water.label>vettä</WaterDeep.tools.water.label>
   
   <!-- EN: chest-deep moving water -->
   <WaterMovingChestDeep.label>deep moving water</WaterMovingChestDeep.label>
   <!-- EN: water -->
-  <WaterMovingChestDeep.tools.water.label>TODO</WaterMovingChestDeep.tools.water.label>
+  <WaterMovingChestDeep.tools.water.label>vettä</WaterMovingChestDeep.tools.water.label>
   
   <!-- EN: shallow moving water -->
   <WaterMovingShallow.label>shallow moving water</WaterMovingShallow.label>
   <!-- EN: water -->
-  <WaterMovingShallow.tools.water.label>TODO</WaterMovingShallow.tools.water.label>
+  <WaterMovingShallow.tools.water.label>vettä</WaterMovingShallow.tools.water.label>
   
   <!-- EN: deep ocean water -->
   <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>
   <!-- EN: water -->
-  <WaterOceanDeep.tools.water.label>TODO</WaterOceanDeep.tools.water.label>
+  <WaterOceanDeep.tools.water.label>vettä</WaterOceanDeep.tools.water.label>
   
   <!-- EN: shallow ocean water -->
   <WaterOceanShallow.label>shallow ocean water</WaterOceanShallow.label>
   <!-- EN: water -->
-  <WaterOceanShallow.tools.water.label>TODO</WaterOceanShallow.tools.water.label>
+  <WaterOceanShallow.tools.water.label>vettä</WaterOceanShallow.tools.water.label>
   
   <!-- EN: shallow water -->
   <WaterShallow.label>matalaa vettä</WaterShallow.label>
   <!-- EN: water -->
-  <WaterShallow.tools.water.label>TODO</WaterShallow.tools.water.label>
+  <WaterShallow.tools.water.label>vettä</WaterShallow.tools.water.label>
   
 </LanguageData>

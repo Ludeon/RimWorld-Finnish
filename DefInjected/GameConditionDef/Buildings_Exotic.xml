@@ -4,8 +4,8 @@
   <!-- EN: psychic droner -->
   <PsychicDroner.label>psyykkinen häirintä</PsychicDroner.label>
   <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
-  <PsychicDroner.description>TODO</PsychicDroner.description>
+  <PsychicDroner.description>Psyykkinen häirintä, joka on virittänyt {0} sukupuolen saa {0} vihaisiksi.</PsychicDroner.description>
   <!-- EN: A psychic droner machine has begun affecting this region. -->
-  <PsychicDroner.letterText>TODO</PsychicDroner.letterText>
+  <PsychicDroner.letterText>Psyykkinen häirintä laite on alkanut vaikuttaa tällä alueella.</PsychicDroner.letterText>
   
 </LanguageData>

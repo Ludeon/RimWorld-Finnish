@@ -15,7 +15,7 @@
   <!-- EN: plague -->
   <Animal_Plague.label>rutto</Animal_Plague.label>
   <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
-  <Animal_Plague.description>TODO</Animal_Plague.description>
+  <Animal_Plague.description>Bakteerien aiheuttama tartuntatauti. Tämä kanta on sopeutunut infektoimaan muita kuin ihmislajeja.</Animal_Plague.description>
   <!-- EN: minor -->
   <Animal_Plague.stages.minor.label>lievä</Animal_Plague.stages.minor.label>
   <!-- EN: major -->
@@ -28,7 +28,7 @@
   <!-- EN: fibrous mechanites -->
   <FibrousMechanites.label>kuitumaisia mekaniitteja</FibrousMechanites.label>
   <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
-  <FibrousMechanites.description>TODO</FibrousMechanites.description>
+  <FibrousMechanites.description>Puolikoherenssiset mekaniitit, jotka kehittävät sidekudoksia lihaskudokseen. Ne lisäävät uhrin voimaa, mutta aiheuttavat myös voimakasta kipua. Nämä ovat luultavasti mutatoitunut kanta lujuutta lisäävistä mekaniitteista.</FibrousMechanites.description>
   <!-- EN: mild pain -->
   <FibrousMechanites.stages.mild_pain.label>lievä kipu</FibrousMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
@@ -48,12 +48,12 @@
   <!-- EN: gut worms -->
   <GutWorms.label>lapamatoja</GutWorms.label>
   <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
-  <GutWorms.description>TODO</GutWorms.description>
+  <GutWorms.description>Loismatoja suolistossa. Ne aiheuttavat oksentelua. He myös kuluttavat uhrin ruokaa, mikä lisää nälkää.</GutWorms.description>
   
   <!-- EN: malaria -->
   <Malaria.label>malaria</Malaria.label>
   <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
-  <Malaria.description>TODO</Malaria.description>
+  <Malaria.description>Tartuntatauti, jonka aiheuttaa hyttysen levittämä loinen.</Malaria.description>
   <!-- EN: minor -->
   <Malaria.stages.minor.label>lievä</Malaria.stages.minor.label>
   <!-- EN: major -->
@@ -64,12 +64,12 @@
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>lihaksen loisia</MuscleParasites.label>
   <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
-  <MuscleParasites.description>TODO</MuscleParasites.description>
+  <MuscleParasites.description>Lihaksissa olevat loiset. Nämä aiheuttavat heikkoutta ja koordinaation puutetta.</MuscleParasites.description>
   
   <!-- EN: plague -->
   <Plague.label>rutto</Plague.label>
   <!-- EN: An infectious disease caused by bacteria. -->
-  <Plague.description>TODO</Plague.description>
+  <Plague.description>Bakteerien aiheuttama tartuntatauti.</Plague.description>
   <!-- EN: minor -->
   <Plague.stages.minor.label>lievä</Plague.stages.minor.label>
   <!-- EN: major -->
@@ -80,9 +80,9 @@
   <Plague.stages.extreme-1.label>äärimmäinen</Plague.stages.extreme-1.label>
   
   <!-- EN: sensory mechanites -->
-  <SensoryMechanites.label>astien mekaniitteja</SensoryMechanites.label>
+  <SensoryMechanites.label>aistillisia mekaniitteja</SensoryMechanites.label>
   <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
-  <SensoryMechanites.description>TODO</SensoryMechanites.description>
+  <SensoryMechanites.description>Puolikoherenssiset mekaniitit, jotka sijaitsevat hermostossa. Ne parantavat uhrin aisteja, mutta aiheuttavat myös voimakasta kipua. Nämä ovat luultavasti aistia parantavien mekaniittien mutatoitunut kanta.</SensoryMechanites.description>
   <!-- EN: mild pain -->
   <SensoryMechanites.stages.mild_pain.label>lievä kipu</SensoryMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
@@ -91,7 +91,7 @@
   <!-- EN: sleeping sickness -->
   <SleepingSickness.label>unitauti</SleepingSickness.label>
   <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
-  <SleepingSickness.description>TODO</SleepingSickness.description>
+  <SleepingSickness.description>Tartuntatauti, jonka aiheuttaa hyönteisten välittämä loinen. Unipahoinvointi ei ole yhtä tappava kuin jotkut muut sairaudet, mutta etenee hitaasti. Keholla kestää kauan puhdistaa infektio.</SleepingSickness.description>
   <!-- EN: minor -->
   <SleepingSickness.stages.minor-0.label>lievä</SleepingSickness.stages.minor-0.label>
   <!-- EN: minor -->
@@ -104,9 +104,9 @@
   <SleepingSickness.stages.extreme-1.label>äärimmäinen</SleepingSickness.stages.extreme-1.label>
   
   <!-- EN: infection -->
-  <WoundInfection.label>tartunta</WoundInfection.label>
+  <WoundInfection.label>infektio</WoundInfection.label>
   <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
-  <WoundInfection.description>TODO</WoundInfection.description>
+  <WoundInfection.description>Bakteeri-infektio haavassa. Ilman hoitoa bakteerit lisääntyvät, tappavat paikallisia kudoksia ja aiheuttavat lopulta verenmyrkytyksen ja kuoleman.\n\nIhmisten sodankäynnin aikana infektiot ovat usein vaatineet enemmän ihmishenkiä kuin itse haavat.</WoundInfection.description>
   <!-- EN: an infection -->
   <WoundInfection.labelNoun>tartunta</WoundInfection.labelNoun>
   <!-- EN: minor -->

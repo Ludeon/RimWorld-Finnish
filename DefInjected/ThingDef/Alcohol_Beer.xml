@@ -10,9 +10,9 @@
   <!-- EN: Drinking {0}. -->
   <Beer.ingestible.ingestReportString>Juomassa olutta.</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
-  <Beer.tools.bottle.label>TODO</Beer.tools.bottle.label>
+  <Beer.tools.bottle.label>pullo</Beer.tools.bottle.label>
   <!-- EN: neck -->
-  <Beer.tools.neck.label>TODO</Beer.tools.neck.label>
+  <Beer.tools.neck.label>kaula</Beer.tools.neck.label>
   
   <!-- EN: wort -->
   <Wort.label>vierrettä</Wort.label>

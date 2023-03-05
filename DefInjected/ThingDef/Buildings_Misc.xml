@@ -22,7 +22,7 @@
   <CryptosleepCasket.description>Itsetoiminen sarkofagi, joka on suunniteltu pitämään henkilö keskeytetyn elon tilassa monia vuosia.</CryptosleepCasket.description>
   
   <!-- EN: egg box -->
-  <EggBox.label>TODO</EggBox.label>
+  <EggBox.label>muna laatikko</EggBox.label>
   <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
   <EggBox.description>TODO</EggBox.description>
   
@@ -49,7 +49,7 @@
   <LongRangeMineralScanner.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>marriage spot</MarriageSpot.label>
+  <MarriageSpot.label>hää paikka</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
   <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
   
@@ -74,9 +74,9 @@
   <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
   
   <!-- EN: pen marker -->
-  <PenMarker.label>TODO</PenMarker.label>
+  <PenMarker.label>Karsinan merkki</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
-  <PenMarker.description>TODO</PenMarker.description>
+  <PenMarker.description>Pylväs, joka merkitsee eläinkarsinan. Se on sijoitettava alueelle, joka on ympäröity aidoilla, barrikadeilla, seinillä ja ovilla. Voit määrittää kullekin karsinamerkille joukon eläimiä hyväksyttäviksi, ja eläinkäsittelijät tuovat eläimet sopivaan karsinaan.</PenMarker.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>pod launcher</PodLauncher.label>

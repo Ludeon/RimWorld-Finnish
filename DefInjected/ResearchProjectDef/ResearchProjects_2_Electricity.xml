@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: air conditioning -->
-  <AirConditioning.label>air conditioning</AirConditioning.label>
+  <AirConditioning.label>ilmastointi</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
-  <AirConditioning.description>Build air conditions to cool rooms in the heat, or to keep freezers.</AirConditioning.description>
+  <AirConditioning.description>Rakenna jäähdyttimiä, jotta ihmiset viihtyvät kuumalla säällä, tai rakenna pakastimia pilaantuvien tavaroiden säilyttämiseen.</AirConditioning.description>
   
   <!-- EN: autodoor -->
-  <Autodoors.label>autodoors</Autodoors.label>
+  <Autodoors.label>automaattiset ovet</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
-  <Autodoors.description>Build autodoors which open to permit movement without slowing anyone down.</Autodoors.description>
+  <Autodoors.description>Rakenna automaattiovia, jotka avautuvat automaattisesti, kun joku lähestyy hidastamatta ketään.</Autodoors.description>
   
   <!-- EN: battery -->
-  <Batteries.label>batteries</Batteries.label>
+  <Batteries.label>Akut</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
-  <Batteries.description>Build batteries for storing electricity.</Batteries.description>
+  <Batteries.description>Rakenna akkuja sähkön säilyttämiseen.</Batteries.description>
   
   <!-- EN: biofuel refining -->
-  <BiofuelRefining.label>refining</BiofuelRefining.label>
+  <BiofuelRefining.label>biopolttoaineiden jalostus</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
-  <BiofuelRefining.description>Build refineries to make chemfuel from wood.</BiofuelRefining.description>
+  <BiofuelRefining.description>Rakenna biopolttoaineiden jalostamoita valmistamaan kemiallista polttoainetta biologisista aineista, kuten puusta tai elintarvikkeista.</BiofuelRefining.description>
   
   <!-- EN: blowback operation -->
   <BlowbackOperation.label>TODO</BlowbackOperation.label>
@@ -32,9 +32,9 @@
   <ColoredLights.description>Mahdollistaa yhdyskuntalaisten rakentaa värillisiä valoja koristelutarkoituksiin.</ColoredLights.description>
   
   <!-- EN: electricity -->
-  <Electricity.label>electricity</Electricity.label>
+  <Electricity.label>sähkö</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>Generate and use electricity for cooking and other simple tasks.</Electricity.description>
+  <Electricity.description>Hyödynnä sähköä satoihin eri tarkoituksiin.</Electricity.description>
   
   <!-- EN: firefoam -->
   <Firefoam.label>palovaahto</Firefoam.label>
@@ -42,9 +42,9 @@
   <Firefoam.description>Mahdollistaa palovaahtopaukkujen rakentamisen; paloturvallisuusesineiden, jotka levittävät tulta estävää vaahtoa eteneviä liekkejä vastaan.</Firefoam.description>
   
   <!-- EN: flak armor -->
-  <FlakArmor.label>TODO</FlakArmor.label>
+  <FlakArmor.label>luodinkestävät panssarit</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
-  <FlakArmor.description>TODO</FlakArmor.description>
+  <FlakArmor.description>Tee vaatteita, joissa on metallipanssari ommeltu kestämään luoteja ja räjähdyksiä. Tämä painava panssari hidastaa liikettä hieman.</FlakArmor.description>
   
   <!-- EN: gas operation -->
   <GasOperation.label>TODO</GasOperation.label>
@@ -57,14 +57,14 @@
   <GeothermalPower.description>Mahdollistaa maalämpögeneraattorien rakentamisen geysireiden päälle. Maalämpögeneraattori tuottaa energiaa taukoamatta.</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
-  <Gunsmithing.label>TODO</Gunsmithing.label>
+  <Gunsmithing.label>aseiden takominen</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>TODO</Gunsmithing.description>
+  <Gunsmithing.description>Valmista yksinkertaisia käsikäyttöisiä aseita, kuten revolvereita, pumppuhaulikoita, pulttitoimisia kiväärejä ja sytytysheittimiä.</Gunsmithing.description>
   
   <!-- EN: gun turrets -->
-  <GunTurrets.label>gun turrets</GunTurrets.label>
+  <GunTurrets.label>tykkitorni</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
-  <GunTurrets.description>Allows the production of automated gun turrets.</GunTurrets.description>
+  <GunTurrets.description>Tuota yksinkertaisia automatisoituja tykkitorneja.</GunTurrets.description>
   
   <!-- EN: hydroponics -->
   <Hydroponics.label>vesiviljely</Hydroponics.label>
@@ -87,19 +87,19 @@
   <Mortars.description>Opi rakentamaan kranaatinheittimiä, jotka pystyvät heittämään kranaatteja pitkiä matkoja seinien yli.</Mortars.description>
   
   <!-- EN: nutrient paste -->
-  <NutrientPaste.label>nutrient paste</NutrientPaste.label>
+  <NutrientPaste.label>ravinnetahna</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
-  <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
+  <NutrientPaste.description>Rakenna ravinnetahna-annostelijoita, jotka tuottavat tehokkaasti syötäviä aterioita raa'ista ravintoaineista ilman työvoimaa.</NutrientPaste.description>
   
   <!-- EN: packaged survival meal -->
-  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.label>pakattu selviytymisateria</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
-  <PackagedSurvivalMeal.description>Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.description>Tuota pakattuja selviytymisaterioita, jotka eivät koskaan mene huonoksi. Erinomainen matkustamiseen.</PackagedSurvivalMeal.description>
   
   <!-- EN: prosthetics -->
-  <Prosthetics.label>TODO</Prosthetics.label>
+  <Prosthetics.label>proteesit</Prosthetics.label>
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
-  <Prosthetics.description>TODO</Prosthetics.description>
+  <Prosthetics.description>Rakenna edullisia proteeseja korvaamaan menetetyt raajat. Kiinnitykseen tarvitaan ammattitaitoinen lääkäri.</Prosthetics.description>
   
   <!-- EN: smokepop packs -->
   <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
@@ -112,18 +112,18 @@
   <SolarPanels.description>Build solar panels for electrical generation.</SolarPanels.description>
   
   <!-- EN: sterile materials -->
-  <SterileMaterials.label>TODO</SterileMaterials.label>
+  <SterileMaterials.label>steriilit materiaalit</SterileMaterials.label>
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
-  <SterileMaterials.description>TODO</SterileMaterials.description>
+  <SterileMaterials.description>Rakenna steriilejä laattoja puhdastilojen tekemiseksi turvallisempaa ja tehokkaampaa hoitoa, tutkimusta ja ruoanlaittoa varten.</SterileMaterials.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <TubeTelevision.label>putkitelevisio</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
+  <TubeTelevision.description>Tuottaa putkitelevisioita vapaa-ajan katselua varten.</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <WatermillGenerator.label>vesimylly generaattori</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
-  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  <WatermillGenerator.description>Rakenna vesimyllygeneraattoreita jokiin tuottaaksesi tasaista virtaa.</WatermillGenerator.description>
   
 </LanguageData>

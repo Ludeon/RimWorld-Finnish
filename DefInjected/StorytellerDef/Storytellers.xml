@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: Cassandra Classic -->
-  <Cassandra.label>Kaisa klassikko</Cassandra.label>
+  <Cassandra.label>Kaisa Klassikko</Cassandra.label>
   <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
-  <Cassandra.description>TODO</Cassandra.description>
+  <Cassandra.description>Kaisa luo tarinatapahtumia klassisen kasvavan haasteen ja jännityksen kaarella. Hän työntää sinut vaarallisiin tapahtumiin, jonka jälkeen hän antaa hengitystilaa ja jälleen työntää sinut takaisin.</Cassandra.description>
   
   <!-- EN: Phoebe Chillax -->
-  <Phoebe.label>Peppi pesänrakentaja</Phoebe.label>
+  <Phoebe.label>Peppi Pesänrakentaja</Phoebe.label>
   <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
-  <Phoebe.description>TODO</Phoebe.description>
+  <Phoebe.description>Peppi antaa paljon aikaa katastrofien välillä yhdyskuntasi rakentamiseen. Mutta varo - suurissa vaikeuksissa hän iskee yhtä lujaa kuin kuka tahansa.</Phoebe.description>
   
   <!-- EN: Randy Random -->
-  <Randy.label>Sami satunnainen</Randy.label>
+  <Randy.label>Sami Satunnainen</Randy.label>
   <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
-  <Randy.description>TODO</Randy.description>
+  <Randy.description>Sami ei noudata sääntöjä. Hän generoi satunnaisia tapahtumia, eikä hän välitä muodostavatko ne tarinan voitosta vai täydellisestä toivottomuudesta. Se on hänelle vain draamaa.\n\nVaroitus: Koska Sami on täysin satunnainen, hän lähettää sinulle joskus erittäin vaikeita tai epäreiluja tapahtumia. Se tuottaa suurta draamaa ja väistämättömiä uhrauksia.</Randy.description>
   
   <!-- EN: Tutor Hidden -->
   <Tutor.label>Tuutori Piilotettu</Tutor.label>

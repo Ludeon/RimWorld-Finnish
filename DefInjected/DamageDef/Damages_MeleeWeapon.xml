@@ -49,6 +49,6 @@
   <!-- EN: toxic bite -->
   <ToxicBite.label>myrkkypurema</ToxicBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <ToxicBite.deathMessage>{0} has been poisoned to death.</ToxicBite.deathMessage>
+  <ToxicBite.deathMessage>{0} on purtu kuoliaaksi.</ToxicBite.deathMessage>
   
 </LanguageData>

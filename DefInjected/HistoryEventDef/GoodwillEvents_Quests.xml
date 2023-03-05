@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: accepted deserter -->
-  <AcceptedDeserter.label>TODO</AcceptedDeserter.label>
+  <AcceptedDeserter.label>hyväksyi karkurin</AcceptedDeserter.label>
   
   <!-- EN: failed to keep guests happy -->
-  <FailedToKeepLodgersHappy.label>TODO</FailedToKeepLodgersHappy.label>
+  <FailedToKeepLodgersHappy.label>epäonnistui pitämään vieraat tyytyväisinä</FailedToKeepLodgersHappy.label>
   
   <!-- EN: member missed shuttle -->
-  <MemberMissedShuttle.label>TODO</MemberMissedShuttle.label>
+  <MemberMissedShuttle.label>jäsen jäi sukkulasta</MemberMissedShuttle.label>
   
   <!-- EN: monument construction expired -->
-  <MonumentConstructionExpired.label>TODO</MonumentConstructionExpired.label>
+  <MonumentConstructionExpired.label>monumentin rakennus myöhästyi</MonumentConstructionExpired.label>
   
   <!-- EN: monument construction abandoned -->
-  <MonumentConstructionMapRemoved.label>TODO</MonumentConstructionMapRemoved.label>
+  <MonumentConstructionMapRemoved.label>monumentin rakennus hylätty</MonumentConstructionMapRemoved.label>
   
   <!-- EN: destroyed monument -->
-  <MonumentDestroyed.label>TODO</MonumentDestroyed.label>
+  <MonumentDestroyed.label>tuhoi monumentin</MonumentDestroyed.label>
   
   <!-- EN: quest completed -->
   <QuestGoodwillReward.label>tehtävä suoritettu</QuestGoodwillReward.label>
   
   <!-- EN: member arrested -->
-  <QuestPawnArrested.label>TODO</QuestPawnArrested.label>
+  <QuestPawnArrested.label>jäsen pidätetty</QuestPawnArrested.label>
   
   <!-- EN: member lost at colony -->
-  <QuestPawnLost.label>TODO</QuestPawnLost.label>
+  <QuestPawnLost.label>jäsen menetetty yhdyskunnassa</QuestPawnLost.label>
   
   <!-- EN: enslaved lent prisoner -->
-  <QuestPrisonerEnslaved.label>TODO</QuestPrisonerEnslaved.label>
+  <QuestPrisonerEnslaved.label>orjuutettu lainattu vanki</QuestPrisonerEnslaved.label>
   
   <!-- EN: recruited lent prisoner -->
-  <QuestPrisonerRecruited.label>TODO</QuestPrisonerRecruited.label>
+  <QuestPrisonerRecruited.label>värväsi lainatun vangin</QuestPrisonerRecruited.label>
   
   <!-- EN: shuttle commander missed shuttle -->
-  <ShuttleCommanderMissedShuttle.label>TODO</ShuttleCommanderMissedShuttle.label>
+  <ShuttleCommanderMissedShuttle.label>sukkulan komentaja jäi sukkulasta</ShuttleCommanderMissedShuttle.label>
   
   <!-- EN: shuttle guards missed shuttle -->
-  <ShuttleGuardsMissedShuttle.label>TODO</ShuttleGuardsMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>sukkulan vartijat jäivät sukkulasta</ShuttleGuardsMissedShuttle.label>
   
 </LanguageData>

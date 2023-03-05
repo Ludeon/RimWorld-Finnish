@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: execution cut -->
-  <ExecutionCut.label>execution cut</ExecutionCut.label>
+  <ExecutionCut.label>teloitus viilto</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage>{0} has been executed.</ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0} on teloitettu.</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>kirurginen viilto</SurgicalCut.label>

@@ -4,7 +4,7 @@
   <!-- EN: stony soil -->
   <Gravel.label>soraa</Gravel.label>
   <!-- EN: gravel -->
-  <Gravel.tools.gravel.label>TODO</Gravel.tools.gravel.label>
+  <Gravel.tools.gravel.label>soraa</Gravel.tools.gravel.label>
   
   <!-- EN: Ice -->
   <Ice.label>Jäätä</Ice.label>
@@ -12,7 +12,7 @@
   <!-- EN: marshy soil -->
   <MarshyTerrain.label>rämemultaa</MarshyTerrain.label>
   <!-- EN: mud -->
-  <MarshyTerrain.tools.mud.label>TODO</MarshyTerrain.tools.mud.label>
+  <MarshyTerrain.tools.mud.label>mutaa</MarshyTerrain.tools.mud.label>
   
   <!-- EN: lichen-covered soil -->
   <MossyTerrain.label>jäkälän peittämää maata</MossyTerrain.label>
@@ -20,26 +20,26 @@
   <!-- EN: mud -->
   <Mud.label>mutaa</Mud.label>
   <!-- EN: mud -->
-  <Mud.tools.mud.label>TODO</Mud.tools.mud.label>
+  <Mud.tools.mud.label>mutaa</Mud.tools.mud.label>
   
   <!-- EN: sand -->
   <Sand.label>hiekkaa</Sand.label>
   <!-- EN: sand -->
-  <Sand.tools.sand.label>TODO</Sand.tools.sand.label>
+  <Sand.tools.sand.label>hiekkaa</Sand.tools.sand.label>
   
   <!-- EN: soft sand -->
-  <SoftSand.label>TODO</SoftSand.label>
+  <SoftSand.label>pehmeää hiekkaa</SoftSand.label>
   <!-- EN: sand -->
-  <SoftSand.tools.sand.label>TODO</SoftSand.tools.sand.label>
+  <SoftSand.tools.sand.label>hiekkaa</SoftSand.tools.sand.label>
   
   <!-- EN: soil -->
   <Soil.label>multaa</Soil.label>
   <!-- EN: dirt -->
-  <Soil.tools.dirt.label>TODO</Soil.tools.dirt.label>
+  <Soil.tools.dirt.label>multaa</Soil.tools.dirt.label>
   
   <!-- EN: rich soil -->
   <SoilRich.label>hedelmällistä multaa</SoilRich.label>
   <!-- EN: dirt -->
-  <SoilRich.tools.dirt.label>TODO</SoilRich.tools.dirt.label>
+  <SoilRich.tools.dirt.label>multaa</SoilRich.tools.dirt.label>
   
 </LanguageData>

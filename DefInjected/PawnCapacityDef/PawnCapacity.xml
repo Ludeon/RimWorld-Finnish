@@ -4,12 +4,12 @@
   <!-- EN: blood filtration -->
   <BloodFiltration.label>veren suodatus</BloodFiltration.label>
   <!-- EN: fluid reprocessing -->
-  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  <BloodFiltration.labelMechanoids>nesteen uudelleenkäsittely</BloodFiltration.labelMechanoids>
   
   <!-- EN: blood pumping -->
   <BloodPumping.label>veren pumppaus</BloodPumping.label>
   <!-- EN: power generation -->
-  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  <BloodPumping.labelMechanoids>sähköntuotanto</BloodPumping.labelMechanoids>
   
   <!-- EN: breathing -->
   <Breathing.label>hengittäminen</Breathing.label>

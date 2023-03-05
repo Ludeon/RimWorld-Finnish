@@ -146,7 +146,7 @@
   <!-- EN: frostbite -->
   <Frostbite.label>paleltuma</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
-  <Frostbite.description>TODO</Frostbite.description>
+  <Frostbite.description>Jäätynyt kudos, joka johtuu altistumisesta kylmälle ilman riittävää suojaa. Paleltuma on erittäin kivulias, ja paleltuneet ruumiinosat menetetään usein.</Frostbite.description>
   <!-- EN: tended -->
   <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -214,7 +214,7 @@
   <!-- EN: scratch -->
   <Scratch.label>raapaisu</Scratch.label>
   <!-- EN: A scratch or tear. -->
-  <Scratch.description>TODO</Scratch.description>
+  <Scratch.description>Naarmu tai repeämä</Scratch.description>
   <!-- EN: set -->
   <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -235,7 +235,7 @@
   <!-- EN: shredded -->
   <Shredded.label>revitty</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
-  <Shredded.description>TODO</Shredded.description>
+  <Shredded.description>Osa ruumiista on murtunut ja repeytynyt.</Shredded.description>
   <!-- EN: set -->
   <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -256,7 +256,7 @@
   <!-- EN: stab -->
   <Stab.label>pisto</Stab.label>
   <!-- EN: A stab wound. -->
-  <Stab.description>TODO</Stab.description>
+  <Stab.description>Pisto haava.</Stab.description>
   <!-- EN: set -->
   <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>asetettu</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->

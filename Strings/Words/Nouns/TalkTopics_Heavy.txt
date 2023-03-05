@@ -1,138 +1,138 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessness of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
+﻿lapsuus
+lapsuuden pelot
+lapsuuden rakkaudet
+lapsuuden kokemukset
+elämä
+elämän haasteet
+elämän palkinnot
+elämän muistot
+elämän tavoitteet
+elämän katumiset
+elämän stressit
+elämän pettymys
+elämän merkitsemättömyys
+elämän satunnaisuus
+toivo
+kypsyys
+aikuisuus
+lapset
+pelko
+painajaiset
+menestys
+köyhyyden moraali
+varallisuuden moraali
 
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
+kuolema
+kuoleman väistämättömyys
+kuolemanvapaus
+elämä kuoleman jälkeen
+kuolleet läheiset
+poissa olevat ystävät
 
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+hyväntekeväisyys
+hyväntekeväisyys
+sorrettujen auttaminen
+sairaiden auttaminen
+köyhien auttaminen
 
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
+muukalaiset
+muukalainen kontakti
+muukalais-salaliitot
+muukalaisten poissaolo
+hallituksen salaliitot
+uskonnolliset salaliitot
 
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+tähdet
+muut planeetat
+tämä planeetta
+universumin mittakaava
+universumin ikä
+universumin kohtalo
+ihminen on levinnyt maailmankaikkeuden halki
 
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
+primitivismi
+luddismi
+teknologia
+koneäly
+tekoäly
+tietokone teknologia
+aseteknologia
 
-society
-morality
-freedom
-law
-government
-rights
-history
-terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
-tribalism
-ingroup preference
+yhteiskunta
+moraali
+vapaus
+laki
+hallitus
+oikeudet
+historia
+kauhu
+terrorismi
+politiikka
+kunnia
+sosiaaliset ongelmat
+markkinat
+vapaus
+autoritaarisuus
+anarkia
+epäoikeudenmukaisuus
+oikeudenmukaisuus
+totuus
+tribalismi
+ryhmän mieltymys
 
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
+filosofia
+todellisuus
+kulttuuri
+kulttuuri erilaisuudet
+kulttuurishokki
+ihmisluonto
+ihmiskunta
+uskonto
+elämän tarkoitus
+identiteetti
+ikuisuus
+monismi
+dualismi
+epistemologia
+rehellisyys
+sananvapaus
+etnisyys
+liberalismi
+kärsimyksen väistämättömyys
+tiedon luonne
+tunteen luonne
 
-fate
-the fate of mankind
-the fate of the universe
+kohtalo
+ihmiskunnan kohtalo
+universumin kohtalo
 
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
+taide
+taiteen liikkeet
+taiteellinen kunnianhimo
+inhimillinen estetiikka
+taiteellinen vaisto
+taiteen historia
 
-love
-romance
-sexuality
-sexual morality
-masculinity
-femininity
+rakkaus
+romantiikka
+seksuaallisuus
+seksuaalinen moraali
+maskuliinisuus
+naisellisuus
 
-self-replicating machines
-generation ships
-Von Neumann probes
+itsekopioivat koneet
+sukupolven laivat
+Von Neumannin luotain
 
-archotechnology
-archotechs
-machine personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
-rimworlds
-coreworlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
+arkoteknologia
+arkotekit
+konepersoonat
+Johnson-Tanaka-ajo
+Ordo Historia
+vanha maa
+syrjäplaneetat
+ydinmaailmat
+salauni
+salauni haudat
+mekanoidit
+kannibalismi

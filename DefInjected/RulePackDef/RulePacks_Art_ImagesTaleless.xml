@@ -37,6 +37,41 @@
     <li>desc_pawn->looking [AdjectiveAny]</li>
     <li>desc_pawn->covered in [Gore]</li>
   -->
-  <TalelessImages.rulePack.rulesStrings>TODO</TalelessImages.rulePack.rulesStrings>
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->yksinäinen [Character] [desc_pawn]</li>
+    <li>image->yksinäinen [Character] [desc_pawn] lähellä [TerrainFeature]</li>
+    <li>image->yksinäinen [Character] [desc_pawn] lähellä [Community]</li>
+    <li>image->[Character] [desc_pawn] ympäröimänä [Character]</li>
+    <li>image->[Character] pelaa [Game]</li>
+    <li>image->[Character] [desc_pawn] pelaa [Game] kanssa [Quantity_adjphrase] [Character]</li>
+    <li>image->[Character] [desc_pawn] pitää [Weapon]</li>
+    <li>image->[Character] [desc_pawn] syö [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob] ja [PersonJob] syövät [Vegetable] yhdessä</li>
+    <li>image->pieni julkkis [NamePerson] [desc_pawn]</li>
+    <li>image->[Character] pitää yllään [Apparel] [desc_pawn]</li>
+    <li>image->[Community]</li>
+    <li>image->[TerrainFeature]</li>
+    <li>image->[Weapon]</li>
+    <li>image->[TreeType] puu</li>
+    <li>image->[NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]</li>
+    <li>image->tyhjä [Apparel]</li>
+    <li>image->[Shape]</li>
+    <li>image->[Shape] ympäroity [Shape]</li>
+    <li>image->abstrakti esitys [ConceptAny]</li>
+    <li>image->[AdjectiveAny] abstrakti muoto</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->lentää ilmassa</li>
+    <li>desc_pawn->roikkuu ilmassa</li>
+    <li>desc_pawn->liikkuu vasemmalle</li>
+    <li>desc_pawn->liikkuu oikealle</li>
+    <li>desc_pawn->istuu pöydässä</li>
+    <li>desc_pawn->katsottuna lasin läpi</li>
+    <li>desc_pawn->esittää siluetissa</li>
+    <li>desc_pawn->ratsastaa eläimellä [Animal] pitäen yllään [Apparel]</li>
+    <li>desc_pawn->katsoo [AdjectiveAny]</li>
+    <li>desc_pawn->peitetty [Gore]</li>
+  </TalelessImages.rulePack.rulesStrings>
   
 </LanguageData>

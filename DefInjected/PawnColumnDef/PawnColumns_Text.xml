@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <ManhunterOnDamageChance.headerTip>TODO</ManhunterOnDamageChance.headerTip>
+  <ManhunterOnDamageChance.headerTip>Todennäköisyys, että tämä olento hyökkää, kun se vahingoittuu.\n\nTämä mahdollisuus kasvaa jopa kolme kertaa, jos hyökkääjä on lähempänä.\n\nTätä mahdollisuutta käytetään aina, kun vahinkoa tehdään. Tämä tarkoittaa, että hitaammin laukeavat, enemmän vahingoittavat aseet eivät todennäköisesti laukaise sitä metsästyksen aikana.</ManhunterOnDamageChance.headerTip>
   
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <ManhunterOnTameFailChance.headerTip>TODO</ManhunterOnTameFailChance.headerTip>
+  <ManhunterOnTameFailChance.headerTip>Mahdollisuus, että tämä olento hyökkää, kun kesyttäjä yrittää kesyttää sen, mutta epäonnistuu.</ManhunterOnTameFailChance.headerTip>
   
 </LanguageData>

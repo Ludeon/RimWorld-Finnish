@@ -4,6 +4,6 @@
   <!-- EN: psychite -->
   <Chemical_Psychite.label>psykiitti</Chemical_Psychite.label>
   <!-- EN: Because of a psychite addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
-  <Chemical_Psychite.description>TODO</Chemical_Psychite.description>
+  <Chemical_Psychite.description>Psykiitti riippuvuuden vuoksi tämän henkilön on nautittava päihdettä säännöllisesti vieroitusoireiden välttämiseksi.</Chemical_Psychite.description>
   
 </LanguageData>

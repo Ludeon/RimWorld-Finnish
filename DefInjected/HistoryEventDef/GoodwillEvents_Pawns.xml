@@ -29,7 +29,7 @@
   <MemberSold.label>jäsen myyty</MemberSold.label>
   
   <!-- EN: member stripped -->
-  <MemberStripped.label>TODO</MemberStripped.label>
+  <MemberStripped.label>jäsen riisuttu</MemberStripped.label>
   
   <!-- EN: harmful surgery on member -->
   <PerformedHarmfulSurgery.label>jäsenen haitallinen leikkaus</PerformedHarmfulSurgery.label>

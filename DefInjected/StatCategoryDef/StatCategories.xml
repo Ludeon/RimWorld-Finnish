@@ -5,7 +5,7 @@
   <Ability.label>Taito</Ability.label>
   
   <!-- EN: animal productivity -->
-  <AnimalProductivity.label>TODO</AnimalProductivity.label>
+  <AnimalProductivity.label>eläimen tuotteliaisuus</AnimalProductivity.label>
   
   <!-- EN: Apparel -->
   <Apparel.label>Vaatteet</Apparel.label>
@@ -35,7 +35,7 @@
   <CapacityEffects.label>vaikutukset</CapacityEffects.label>
   
   <!-- EN: Drug -->
-  <Drug.label>TODO</Drug.label>
+  <Drug.label>Päihde</Drug.label>
   
   <!-- EN: drug addiction -->
   <DrugAddiction.label>huume riippuvuus</DrugAddiction.label>
@@ -74,10 +74,10 @@
   <StuffStatOffsets.label>Poikkeamat, kun esine on tehty tästä</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
-  <Surgery.label>TODO</Surgery.label>
+  <Surgery.label>Kirurginen</Surgery.label>
   
   <!-- EN: terrain -->
-  <Terrain.label>TODO</Terrain.label>
+  <Terrain.label>maasto</Terrain.label>
   
   <!-- EN: Weapon -->
   <Weapon.label>Ase</Weapon.label>

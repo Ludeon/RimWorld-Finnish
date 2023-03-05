@@ -18,7 +18,7 @@
   <!-- EN: construction -->
   <Construction.label>rakentaminen</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>TODO</Construction.description>
+  <Construction.description>Rakenteiden ja huonekalujen rakentaminen ja purkaminen.</Construction.description>
   <!-- EN: construction -->
   <Construction.skillLabel>rakentaminen</Construction.skillLabel>
   
@@ -39,7 +39,7 @@
   <!-- EN: intellectual -->
   <Intellectual.label>älyllisyys</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
-  <Intellectual.description>TODO</Intellectual.description>
+  <Intellectual.description>Tutkiminen ja päihteiden valmistus.</Intellectual.description>
   <!-- EN: intellectual -->
   <Intellectual.skillLabel>älyllisyys</Intellectual.skillLabel>
   

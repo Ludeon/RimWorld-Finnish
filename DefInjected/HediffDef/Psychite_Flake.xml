@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: high on flake -->
-  <FlakeHigh.label>TODO</FlakeHigh.label>
+  <FlakeHigh.label>päihtynyt psykiitti hiutaleesta</FlakeHigh.label>
   <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
-  <FlakeHigh.description>TODO</FlakeHigh.description>
+  <FlakeHigh.description>Aktiivinen psykiitti hiutale verenkierrossa. Luo euforisen, heikentävän humalan.</FlakeHigh.description>
   <!-- EN: a flake high -->
-  <FlakeHigh.labelNoun>TODO</FlakeHigh.labelNoun>
+  <FlakeHigh.labelNoun>psykiitti hiutale humala</FlakeHigh.labelNoun>
   
 </LanguageData>

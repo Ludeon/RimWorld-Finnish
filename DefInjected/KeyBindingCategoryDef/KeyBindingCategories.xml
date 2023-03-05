@@ -7,7 +7,7 @@
   <Architect.description>Yleiskäyttöiset näppäinasetukset arkkitehtivalikkoon.</Architect.description>
   
   <!-- EN: debug menu -->
-  <DebugMenu.label>TODO</DebugMenu.label>
+  <DebugMenu.label>kehitystila valikko</DebugMenu.label>
   <!-- EN: Controls used in debug menus. Active in development mode only. -->
   <DebugMenu.description>TODO</DebugMenu.description>
   

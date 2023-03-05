@@ -8,7 +8,7 @@
   <AnimalBaby.label>vauva</AnimalBaby.label>
   
   <!-- EN: baby -->
-  <AnimalBabyTiny.label>baby</AnimalBabyTiny.label>
+  <AnimalBabyTiny.label>vauva</AnimalBabyTiny.label>
   
   <!-- EN: juvenile -->
   <AnimalJuvenile.label>pentu</AnimalJuvenile.label>
@@ -17,7 +17,7 @@
   <EusocialInsectAdult.label>aikuinen</EusocialInsectAdult.label>
   
   <!-- EN: immature -->
-  <EusocialInsectJuvenile.label>epäkypsä</EusocialInsectJuvenile.label>
+  <EusocialInsectJuvenile.label>lapsellinen</EusocialInsectJuvenile.label>
   
   <!-- EN: larva -->
   <EusocialInsectLarva.label>toukka</EusocialInsectLarva.label>

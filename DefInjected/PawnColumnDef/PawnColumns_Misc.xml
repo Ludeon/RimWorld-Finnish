@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: age -->
-  <Age.label>TODO</Age.label>
+  <Age.label>ikä</Age.label>
   
   <!-- EN: allowed area -->
-  <AllowedArea.label>allowed area</AllowedArea.label>
+  <AllowedArea.label>sallittu alue</AllowedArea.label>
   
   <!-- EN: allowed area -->
-  <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
+  <AllowedAreaWide.label>salittu alue</AllowedAreaWide.label>
   
   <!-- EN: carry -->
-  <Carry.label>TODO</Carry.label>
+  <Carry.label>kanna</Carry.label>
   
   <!-- EN: drug policy -->
-  <DrugPolicy.label>drug policy</DrugPolicy.label>
+  <DrugPolicy.label>päihdekäytäntö</DrugPolicy.label>
   
   <!-- EN: food restriction -->
-  <FoodRestriction.label>TODO</FoodRestriction.label>
+  <FoodRestriction.label>ruoka rajoitus</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
-  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  <HostilityResponse.headerTip>Vihamielinen vastaus</HostilityResponse.headerTip>
   
   <!-- EN: master -->
-  <Master.label>master</Master.label>
+  <Master.label>mestari</Master.label>
   
   <!-- EN: Medical care -->
-  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  <MedicalCare.headerTip>sairaanhoito</MedicalCare.headerTip>
   
   <!-- EN: current outfit -->
-  <Outfit.label>current outfit</Outfit.label>
+  <Outfit.label>nykyinen asu</Outfit.label>
   
 </LanguageData>

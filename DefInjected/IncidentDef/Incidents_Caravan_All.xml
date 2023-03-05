@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>ambush</Ambush.label>
+  <Ambush.label>väijytys</Ambush.label>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+  <Ambush.letterLabel>Karavaani väijytetty</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>Your caravan has been ambushed by {0} from {1}!</Ambush.letterText>
+  <Ambush.letterText>{0} on väijytetty {1} paikassa {2}!</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>payment demand</CaravanDemand.label>
-  <CaravanDemand.letterLabel>Caravan ambushed</CaravanDemand.letterLabel>
-  <CaravanDemand.letterText>Your caravan has been ambushed by {0} from {1}!</CaravanDemand.letterText>
+  <CaravanDemand.label>maksu vaatimus</CaravanDemand.label>
+  <CaravanDemand.letterLabel>Karavaani väijytetty</CaravanDemand.letterLabel>
+  <CaravanDemand.letterText>Sinun karavaanisi on väijytetty {0} toimesta paikassa {1}!</CaravanDemand.letterText>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  <CaravanMeeting.label>karavaani tapaaminen</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
+  <ManhunterAmbush.label>ihmisiä metsästävien väijytys</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>Karavaani väijytetty (ihmisiä metsästäviä)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
-  <ManhunterAmbush.letterText>Your caravan has been ambushed by manhunting {0}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>{0} on väijytetty scariaa sairastavien ihmisen metsästävien {1}!</ManhunterAmbush.letterText>
   
 </LanguageData>

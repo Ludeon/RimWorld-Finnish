@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: alphabeavers -->
-  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+  <Alphabeavers.label>alffamajavat</Alphabeavers.label>
   
   <!-- EN: ambrosia sprout -->
-  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.label>ambrosia versoi</AmbrosiaSprout.label>
   <!-- EN: Ambrosia sprout -->
-  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterLabel>Ambrosia versoi</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>Lähistölle on kasvanut salaperäinen ambrosiapensaan verso! Jos odotat kasvien kasvua, voit kerätä herkullisia, miellyttäviä ja hieman riippuvuutta aiheuttavia hedelmiä.</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
   <ColdSnap.label>pakkaskausi</ColdSnap.label>
@@ -21,7 +21,7 @@
   <CropBlight.label>sadon vitsaus</CropBlight.label>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>maatila eläimet vaeltavat</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>ukkosmyrsky</Flashstorm.label>
@@ -36,18 +36,18 @@
   <HeatWave.letterText>Epätavallinen lämpöaalto on alkanut. Varo lämpöhalvausta.</HeatWave.letterText>
   
   <!-- EN: herd migration -->
-  <HerdMigration.label>TODO</HerdMigration.label>
+  <HerdMigration.label>lauma muuttaa</HerdMigration.label>
   <!-- EN: Animal migration: {0} -->
-  <HerdMigration.letterLabel>TODO</HerdMigration.letterLabel>
+  <HerdMigration.letterLabel>Lauma muuttaa: {0}</HerdMigration.letterLabel>
   <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
-  <HerdMigration.letterText>TODO</HerdMigration.letterText>
+  <HerdMigration.letterText>Ryhmä {0} on liikkumassa läpi alueen.\n\nHe eivät hyökkää, jos niitä ei provosoida.</HerdMigration.letterText>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
+  <MeteoriteImpact.label>meteoriitti törmäys</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
-  <MeteoriteImpact.letterLabel>TODO</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterLabel>Meteoriitti</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
-  <MeteoriteImpact.letterText>TODO</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterText>Suuri meteoriitti on törmännyt maahan alueella. Se jätti jälkeensä kasan {0}.</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
   <PsychicDrone.label>psyykkinen häirintä</PsychicDrone.label>
@@ -56,21 +56,21 @@
   <PsychicSoothe.label>psyykkinen rauhoitus</PsychicSoothe.label>
   
   <!-- EN: ransom demand -->
-  <RansomDemand.label>ransom demand</RansomDemand.label>
+  <RansomDemand.label>lunnasraha vaatimus</RansomDemand.label>
   <!-- EN: Ransom demand -->
-  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
+  <RansomDemand.letterLabel>Lunnasraha vaatimus</RansomDemand.letterLabel>
   
   <!-- EN: transport pod crash -->
-  <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
+  <RefugeePodCrash.label>kuljetus kapseli syöksy maahan</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
-  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
+  <ResourcePodCrash.label>resurssi kapseli syöksy maahan</ResourcePodCrash.label>
   
   <!-- EN: self-tame -->
-  <SelfTame.label>self-tame</SelfTame.label>
+  <SelfTame.label>itsekesy</SelfTame.label>
   
   <!-- EN: short circuit -->
-  <ShortCircuit.label>short circuit</ShortCircuit.label>
+  <ShortCircuit.label>oikosulku</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
   <ThrumboPasses.label>trumboja menee ohi</ThrumboPasses.label>
@@ -88,13 +88,13 @@
   <VolcanicWinter.letterText>Etäinen supertulivuori on purkautunut ja alkanut syöksemään miljoonia kuutiokilometrejä tuhkaa ilmakehään.\n\nIlmakehässä oleva tuhka peittää auringon. Lämpötilat laskevat ja kasvit kärsivät auringonvalon puutteesta. Se voi mennä ohi parissa viikossa tai kestää monta kuukautta.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
-  <WandererJoin.label>wanderer join</WandererJoin.label>
+  <WandererJoin.label>vaeltaja liittyy</WandererJoin.label>
   
   <!-- EN: wild man wanders in -->
-  <WildManWandersIn.label>TODO</WildManWandersIn.label>
+  <WildManWandersIn.label>villi ihminen vaeltaa</WildManWandersIn.label>
   <!-- EN: {PAWN_kind} wanders in -->
-  <WildManWandersIn.letterLabel>TODO</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterLabel>{PAWN_kind} vaeltaa</WildManWandersIn.letterLabel>
   <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>TODO</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>Ihminen, joka elää villieläinten kanssa vaeltaa alueelle. {PAWN_pronoun} kutsuu.\n\nSinä voit yrittää kesyttää tai pidättää {PAWN_objective}.</WildManWandersIn.letterText>
   
 </LanguageData>

@@ -1,73 +1,73 @@
-the weather
+sää
 
-breakfast cereal
-breakfast
-dinner
-food
-lunchtime
-eating habits
-salty foods
-sweet foods
-savory foods
-bitter foods
+aamiaismurot
+aamiainen
+päivällinen
+ruoka
+lounasaika
+ruokailutottumukset
+suolaiset ruuat
+makeat ruuat
+maukkaat ruuat
+kitkerät ruuat
 
-favorite haircuts
-favorite clothes
-hairstyles
-fashion
-makeup
-beards
-facial hair
+suosikki kampaukset
+lempivaatteet
+kampaukset
+muoti
+meikki
+parrat
+kasvojen hiukset
 
-odd jobs
-kids' games
-entertainment
-games
-birthdays
-balloons
-drunkenness
-getting drunk
-parties
-vacations
-beautiful people
-fat people
-tall people
-short people
-guilty pleasures
-vomiting
-eating
-swimming
-sports
-beaches
+hanttihommat
+lasten leikit
+viihde
+pelit
+syntymäpäivät
+ilmapallot
+juoppous
+humaltuminen
+juhlat
+lomat
+kauniit ihmiset
+lihavat ihmiset
+pitkät ihmiset
+lyhyet ihmiset
+syylliset nautinnot
+oksentaminen
+syöminen
+uiminen
+urheilu
+rannat
 
-animals
-cute animals
-fat animals
-pets
+eläimet
+söpöt eläimet
+lihavat eläimet
+lemmikit
 
-pet peeves
-life's annoyances
-laundry
-sweating
+inhokit
+elämän ärsytyksiä
+pyykki
+hikoilu
 
-hauling
-cleaning
-eating without tables
-comfortable furniture
-fine meals
-lavish meals
-pemmican
-horseshoes
-recreation
-lovers
-lovin'
-healroot
-botched surgeries
-vomiting
-board games
-computer games
-television
-poker
-billiards
-spaceships
-xenohumans
+kuljettaminen
+siivoaminen
+syöminen ilman pöytiä
+mukavat huonekalut
+hienot ruoat
+runsaat ateriat
+pemmikaani
+hevosenkengät
+virkistys
+rakastavaiset
+rakastelu
+terveysjuuri
+epäonnistuneet leikkaukset
+oksentelu
+lautapelit
+tietokonepelit
+televisiot
+pokeri
+biljardi
+avaruus-sukkulat
+xenoihmiset

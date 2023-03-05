@@ -22,8 +22,8 @@
   <Rescue.description>Eläin voi pelastaa haavoittuneita liittolaisia ja raahata ne turvaan.</Rescue.description>
   
   <!-- EN: tameness -->
-  <Tameness.label>TODO</Tameness.label>
+  <Tameness.label>kesyisyys</Tameness.label>
   <!-- EN: The animal can learn to consider itself a member of your colony. -->
-  <Tameness.description>TODO</Tameness.description>
+  <Tameness.description>Eläin voi oppia pitämään itseään siirtokuntasi jäsenenä.</Tameness.description>
   
 </LanguageData>

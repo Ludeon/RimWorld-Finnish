@@ -554,7 +554,7 @@
   <!-- EN: Drop {0_nameDef} -->
   <CommandDropPawn>Pudota {0_nameDef}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
-  <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
+  <CommandDropPawnDesc>Pudota kannettava henkilö.</CommandDropPawnDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->

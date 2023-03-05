@@ -13,12 +13,12 @@
   <FreeColonists.label>yhdyskuntalaisia</FreeColonists.label>
   
   <!-- EN: pop recovery -->
-  <PopAdaptation.label>TODO</PopAdaptation.label>
+  <PopAdaptation.label>poksautus palautuminen</PopAdaptation.label>
   <!-- EN: {0} days -->
   <PopAdaptation.valueFormat>{0} päivää</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
-  <PopIntent.label>TODO</PopIntent.label>
+  <PopIntent.label>poksautuksen aikomus x10</PopIntent.label>
   <!-- EN: {0} days -->
   <PopIntent.valueFormat>{0} päivää</PopIntent.valueFormat>
   
@@ -26,7 +26,7 @@
   <Prisoners.label>vankeja</Prisoners.label>
   
   <!-- EN: fun points /10 -->
-  <ThreatPoints.label>TODO</ThreatPoints.label>
+  <ThreatPoints.label>hupi pisteet /10</ThreatPoints.label>
   <!-- EN: {0} points -->
   <ThreatPoints.valueFormat>{0} pistettä</ThreatPoints.valueFormat>
   

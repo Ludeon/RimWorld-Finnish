@@ -5,7 +5,7 @@
   <ColonistMood.label>yhdyskuntalaisten mieliala</ColonistMood.label>
   
   <!-- EN: debug -->
-  <Debug.label>TODO</Debug.label>
+  <Debug.label>kehitystila</Debug.label>
   
   <!-- EN: population -->
   <Population.label>väkiluku</Population.label>

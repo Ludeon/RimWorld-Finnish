@@ -5,24 +5,24 @@
   <AttackedBuilding.label>hyökätty rakennukseen</AttackedBuilding.label>
   
   <!-- EN: debug event -->
-  <DebugGoodwill.label>TODO</DebugGoodwill.label>
+  <DebugGoodwill.label>kehitystila tapahtuma</DebugGoodwill.label>
   
   <!-- EN: laborers missed shuttle -->
-  <LaborersMissedShuttle.label>TODO</LaborersMissedShuttle.label>
+  <LaborersMissedShuttle.label>työntekijät jäivät sukkulasta</LaborersMissedShuttle.label>
   
   <!-- EN: tendency to move toward natural goodwill -->
-  <ReachNaturalGoodwill.label>TODO</ReachNaturalGoodwill.label>
+  <ReachNaturalGoodwill.label>taipumus siirtyä kohti luonnollista hyväntahtoisuutta</ReachNaturalGoodwill.label>
   
   <!-- EN: ritual done -->
-  <RitualDone.label>TODO</RitualDone.label>
+  <RitualDone.label>rituaali valmis</RitualDone.label>
   
   <!-- EN: shuttle destroyed -->
-  <ShuttleDestroyed.label>TODO</ShuttleDestroyed.label>
+  <ShuttleDestroyed.label>sukkula tuhottu</ShuttleDestroyed.label>
   
   <!-- EN: used forbidden thing -->
-  <UsedForbiddenThing.label>TODO</UsedForbiddenThing.label>
+  <UsedForbiddenThing.label>käytti kiellettyä juttua</UsedForbiddenThing.label>
   
   <!-- EN: used harmful ability -->
-  <UsedHarmfulAbility.label>TODO</UsedHarmfulAbility.label>
+  <UsedHarmfulAbility.label>käytti haitallista kykyä</UsedHarmfulAbility.label>
   
 </LanguageData>

@@ -4,6 +4,6 @@
   <!-- EN: luciferium -->
   <Chemical_Luciferium.label>luciferium</Chemical_Luciferium.label>
   <!-- EN: This person's body is enhanced by luciferium mechanites.\n\nWithout regular doses of luciferium, the mechanites will lose cohesion. If this happens, the user becomes continuously, violently insane and eventually dies.\n\nThis addiction never goes away. -->
-  <Chemical_Luciferium.description>TODO</Chemical_Luciferium.description>
+  <Chemical_Luciferium.description>Tämän henkilön kehoa parantavat luciferium mekaniitit.\n\nIlman säännöllisiä luciferium annoksia mekaniitit menettävät yhteensopivuuden. Jos näin tapahtuu, käyttäjä tulee jatkuvasti väkivaltaiseksi hulluksi ja lopulta kuolee.\n\nTämä riippuvuus ei katoa koskaan.</Chemical_Luciferium.description>
   
 </LanguageData>

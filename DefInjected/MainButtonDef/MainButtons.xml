@@ -4,27 +4,27 @@
   <!-- EN: animals -->
   <Animals.label>eläimet</Animals.label>
   <!-- EN: Configure how the colony's tame animals should be treated. -->
-  <Animals.description>TODO</Animals.description>
+  <Animals.description>Määritä, miten yhdyskunnan kesyjä eläimiä tulee kohdella.</Animals.description>
   
   <!-- EN: architect -->
   <Architect.label>arkkitehti</Architect.label>
   <!-- EN: Designate where to build, farm, store items, and so on. -->
-  <Architect.description>TODO</Architect.description>
+  <Architect.description>Määritä, missä rakentaa, viljellä, varastoida esineitä ja niin edelleen.</Architect.description>
   
   <!-- EN: assign -->
   <Assign.label>määräykset</Assign.label>
   <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
-  <Assign.description>TODO</Assign.description>
+  <Assign.description>Määritä siirtolaisille käyttäytymismalleja, kuten mitä heidän pitäisi pukeutua, mitä päihteitä ottaa tai kuinka vastata vihollisille.</Assign.description>
   
   <!-- EN: factions -->
   <Factions.label>ryhmät</Factions.label>
   <!-- EN: Review the other factions on this world and their relationships. -->
-  <Factions.description>TODO</Factions.description>
+  <Factions.description>Tarkastele muita tämän maailman ryhmiä ja heidän suhteitaan.</Factions.description>
   
   <!-- EN: history -->
   <History.label>historia</History.label>
   <!-- EN: Review historical records. -->
-  <History.description>TODO</History.description>
+  <History.description>Tarkastele edesmenneet tiedot.</History.description>
   
   <!-- EN: inspect -->
   <Inspect.label>tarkastaja</Inspect.label>
@@ -32,36 +32,36 @@
   <!-- EN: menu -->
   <Menu.label>valikko</Menu.label>
   <!-- EN: Change options, save, load, or quit the game. -->
-  <Menu.description>TODO</Menu.description>
+  <Menu.description>Muuta asetuksia, tallenna, lataa tai lopeta peli.</Menu.description>
   
   <!-- EN: quests -->
   <Quests.label>tehtävät</Quests.label>
   <!-- EN: View available, active, and historical quests. -->
-  <Quests.description>TODO</Quests.description>
+  <Quests.description>Tarkastele saatavilla olevia, aktiivisia ja edesmenneitä tehtäviä.</Quests.description>
   
   <!-- EN: research -->
   <Research.label>tutkimus</Research.label>
   <!-- EN: Examine and decide on research projects. -->
-  <Research.description>TODO</Research.description>
+  <Research.description>Tutki ja päätä tutkimusprojekteista.</Research.description>
   
   <!-- EN: schedule -->
   <Schedule.label>aikataulu</Schedule.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Schedule.description>TODO</Schedule.description>
+  <Schedule.description>Suunnittele yhdyskunnan toimintaa tiettyihin kellonaikaan ja aseta heidän sallitut alueet.</Schedule.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>villieläimet</Wildlife.label>
   <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
-  <Wildlife.description>TODO</Wildlife.description>
+  <Wildlife.description>Näytä alueen villieläimet ja aseta ne metsästykseen tai kesyttämiseen.</Wildlife.description>
   
   <!-- EN: work -->
   <Work.label>työnteko</Work.label>
   <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
-  <Work.description>TODO</Work.description>
+  <Work.description>Valitse, mikä yhdyskuntalainen tekee minkälaista työtä ja missä järjestyksessä.</Work.description>
   
   <!-- EN: world -->
   <World.label>maailma</World.label>
   <!-- EN: Examine the world map, form, and manage caravans. -->
-  <World.description>TODO</World.description>
+  <World.description>Tutki maailmankarttaa, muodosta ja hallitse karavaaneja.</World.description>
   
 </LanguageData>

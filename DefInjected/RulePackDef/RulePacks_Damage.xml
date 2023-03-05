@@ -14,7 +14,19 @@
     <li>destroyed_past->annihilated</li>
     <li>destroyed_past->detonated</li>
   -->
-  <Damage_Bomb.rulePack.rulesStrings>TODO</Damage_Bomb.rulePack.rulesStrings>
+  <Damage_Bomb.rulePack.rulesStrings>
+    <li>damaged_past(p=2)->räjäytti</li>
+    <li>damaged_past(p=2)->räjähti</li>
+    <li>damaged_past->loukkasi</li>
+    <li>damaged_past->vaurioitti</li>
+    <li>damaged_past->haavoitti</li>
+    <li>damaged_past->satutti</li>
+    <li>destroyed_past->särki</li>
+    <li>destroyed_past->murskasi</li>
+    <li>destroyed_past->hävitti</li>
+    <li>destroyed_past->tuhosi</li>
+    <li>destroyed_past->räjähti</li>
+  </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->electrified</li>
@@ -22,7 +34,12 @@
     <li>damaged_past->zapped</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_EMP.rulePack.rulesStrings>TODO</Damage_EMP.rulePack.rulesStrings>
+  <Damage_EMP.rulePack.rulesStrings>
+    <li>damaged_past->sähköistetty</li>
+    <li>damaged_past->sähkötetty</li>
+    <li>damaged_past->sähkötti</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_EMP.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->extinguished</li>
@@ -31,7 +48,13 @@
     <li>damaged_past->quenched</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_Extinguish.rulePack.rulesStrings>TODO</Damage_Extinguish.rulePack.rulesStrings>
+  <Damage_Extinguish.rulePack.rulesStrings>
+    <li>damaged_past->sammutti</li>
+    <li>damaged_past->tulvi</li>
+    <li>damaged_past->vaahtoi</li>
+    <li>damaged_past->sammutettu</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_Extinguish.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past(p=2)->blasted</li>
@@ -67,7 +90,40 @@
     <li>destroyed_present->annihilating</li>
     <li>destroyed_present->detonating</li>
   -->
-  <Damage_Flame.rulePack.rulesStrings>TODO</Damage_Flame.rulePack.rulesStrings>
+  <Damage_Flame.rulePack.rulesStrings>
+    <li>damaged_past(p=2)->poltti</li>
+    <li>damaged_past(p=2)->palanut</li>
+    <li>damaged_past(p=2)->poltettu</li>
+    <li>damaged_past(p=2)->rakkuloitu</li>
+    <li>damaged_past(p=2)->sytytetty</li>
+    <li>damaged_past(p=2)->ruskistunut</li>
+    <li>damaged_past->vahingoittunut</li>
+    <li>damaged_past->vaurioitunut</li>
+    <li>damaged_past->haavoittunut</li>
+    <li>damaged_past->satutettu</li>
+    <li>damaged_present(p=2)->polttaa</li>
+    <li>damaged_present(p=2)->paahtaa</li>
+    <li>damaged_present(p=2)->palaa</li>
+    <li>damaged_present(p=2)->rakkuvoiva</li>
+    <li>damaged_present(p=2)->sytyttävä</li>
+    <li>damaged_present(p=2)->polttava</li>
+    <li>damaged_present->vahingoittaa</li>
+    <li>damaged_present->vaurioittava</li>
+    <li>damaged_present->haavoittava</li>
+    <li>damaged_present->satuttava</li>
+    <li>destroyed_past->tuhkattiin</li>
+    <li>destroyed_past->poltetaan</li>
+    <li>destroyed_past->hiiltynyt</li>
+    <li>destroyed_past->hävitetty</li>
+    <li>destroyed_past->tuhottu</li>
+    <li>destroyed_past->räjäytettiin</li>
+    <li>destroyed_present->tuhkaus</li>
+    <li>destroyed_present->polttamalla</li>
+    <li>destroyed_present->hiiltyminen</li>
+    <li>destroyed_present->hävittää</li>
+    <li>destroyed_present->tuhoava</li>
+    <li>destroyed_present->räjähtävä</li>
+  </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->smoked</li>
@@ -75,7 +131,12 @@
     <li>damaged_past->clouded</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_Smoke.rulePack.rulesStrings>TODO</Damage_Smoke.rulePack.rulesStrings>
+  <Damage_Smoke.rulePack.rulesStrings>
+    <li>damaged_past->savustettu</li>
+    <li>damaged_past->sumuinen</li>
+    <li>damaged_past->pilvinen</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_Smoke.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->stunned</li>
@@ -84,6 +145,12 @@
     <li>damaged_past->dizzied</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_Stun.rulePack.rulesStrings>TODO</Damage_Stun.rulePack.rulesStrings>
+  <Damage_Stun.rulePack.rulesStrings>
+    <li>damaged_past->tainnutettu</li>
+    <li>damaged_past->hämmentynyt</li>
+    <li>damaged_past->pysähtyi</li>
+    <li>damaged_past->huimaa</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_Stun.rulePack.rulesStrings>
   
 </LanguageData>

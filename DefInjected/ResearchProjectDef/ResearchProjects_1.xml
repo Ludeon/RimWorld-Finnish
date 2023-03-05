@@ -12,82 +12,82 @@
   <CarpetMaking.description>Mahdollistaa yhdyskuntalaisten rakentaa kokolattiamattoja parantaakseen heidän ympäristönsä laatua.</CarpetMaking.description>
   
   <!-- EN: cocoa -->
-  <Cocoa.label>TODO</Cocoa.label>
+  <Cocoa.label>kaakao</Cocoa.label>
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
-  <Cocoa.description>TODO</Cocoa.description>
+  <Cocoa.description>Kylvä kaakaopuita luodaksesi oman herkullisen suklaasi. Suklaan syöminen täyttää hupi tarpeen, ja se on arvokasta myös markkinoilla.</Cocoa.description>
   
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>complex clothing</ComplexClothing.label>
+  <ComplexClothing.label>monimutkainen vaatetus</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>Sew complicated garments like pants, dusters, and cowboy hats.</ComplexClothing.description>
+  <ComplexClothing.description>Räätälöi monimutkaisia vaatteita, kuten housuja, siivoustakkeja ja cowboy-hattuja.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
-  <ComplexFurniture.label>TODO</ComplexFurniture.label>
+  <ComplexFurniture.label>monimutkaiset huonekalut</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>TODO</ComplexFurniture.description>
+  <ComplexFurniture.description>Rakenna monimutkaisia huonekaluja, kuten sänkyjä, päätypöytiä, ruokapöydän tuoleja, nojatuoleja, lipastoja, työkalukaappeja, biljardipöytiä ja pokeripöytiä, tuuletusaukkoja, sarkofageja ja paljon muuta.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
   <Devilstrand.label>devilstrand</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.</Devilstrand.description>
+  <Devilstrand.description>Istuta devilstrand, hitaasti kasvava sieni, joka tuottaa poikkeuksellisen sitkeää ja lämmönkestävää kasvikuitua.</Devilstrand.description>
   
   <!-- EN: drug production -->
-  <DrugProduction.label>drug production</DrugProduction.label>
+  <DrugProduction.label>päihteiden valmistus</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs.</DrugProduction.description>
+  <DrugProduction.description>Rakenna huumelaboratorio huumeiden perusvalmistusta varten. Lisätutkimusta tarvitaan tiettyjen päihteiden valmistamiseksi..</DrugProduction.description>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
+  <GoJuiceProduction.label>menomehun valmistus</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice.</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Tuota menomehua, synteettistä taistelukykyä parantavaa päihdettä, joka parantaa ammunta-, lähitaistelu- ja liikekykyä ja vähentää kipua.</GoJuiceProduction.description>
   
   <!-- EN: greatbow -->
-  <Greatbow.label>TODO</Greatbow.label>
+  <Greatbow.label>suurjousi</Greatbow.label>
   <!-- EN: Craft greatbows for killing enemies at great range. -->
-  <Greatbow.description>TODO</Greatbow.description>
+  <Greatbow.description>Luo suurjousia vihollisten tappamiseen suurella kantamalla.</Greatbow.description>
   
   <!-- EN: long blades -->
-  <LongBlades.label>TODO</LongBlades.label>
+  <LongBlades.label>pitkät terät</LongBlades.label>
   <!-- EN: Craft longswords and spears. -->
-  <LongBlades.description>TODO</LongBlades.description>
+  <LongBlades.description>Työstä pitkiä miekkoja ja keihäitä.</LongBlades.description>
   
   <!-- EN: passive cooler -->
-  <PassiveCooler.label>passive cooler</PassiveCooler.label>
+  <PassiveCooler.label>passiivinen jäähdytin</PassiveCooler.label>
   <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
-  <PassiveCooler.description>Make passive coolers, a way to cool indoor spaces without using electricity.</PassiveCooler.description>
+  <PassiveCooler.description>Tee passiiviset jäähdyttimet sisätilojen jäähdyttämiseen ilman sähköä.</PassiveCooler.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>pemmican</Pemmican.label>
+  <Pemmican.label>pemmicaani</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
+  <Pemmican.description>Tee pemmikaania. Säilötystä lihasta ja kasviperäisestä aineksesta valmistettu sekoitus, joka ei mene pahaksi pitkään aikaan. Erinomainen matkustamiseen.</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
-  <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
+  <PenoxycylineProduction.label>penoksisyliinin tuotanto</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
-  <PenoxycylineProduction.description>Learn to produce penoxycline, a disease prevention drug.</PenoxycylineProduction.description>
+  <PenoxycylineProduction.description>Tuota penoksisyliiniä, sairauksia ehkäisevää lääkettä, joka estää ruttoa, malariaa ja paljon muuta ennen kuin ne alkavat.</PenoxycylineProduction.description>
   
   <!-- EN: plate armor -->
-  <PlateArmor.label>TODO</PlateArmor.label>
+  <PlateArmor.label>levypanssari</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
-  <PlateArmor.description>TODO</PlateArmor.description>
+  <PlateArmor.description>Tao metalli- tai puuhaarniska-asuja. Tämä raskas panssari hidastaa huomattavasti liikettä, mutta suojaa erittäin tehokkaasti.</PlateArmor.description>
   
   <!-- EN: psychite refining -->
-  <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
+  <PsychiteRefining.label>psykiittin jalostus</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
-  <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.</PsychiteRefining.description>
+  <PsychiteRefining.description>Jalosta psykoidilehtiä hiutaleiksi ja yayoksi. Euforisen psykiittipäihteen eri muotoja.</PsychiteRefining.description>
   
   <!-- EN: psychoid brewing -->
-  <PsychoidBrewing.label>TODO</PsychoidBrewing.label>
+  <PsychoidBrewing.label>psykiitin valmistus</PsychoidBrewing.label>
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
-  <PsychoidBrewing.description>TODO</PsychoidBrewing.description>
+  <PsychoidBrewing.description>Valmista psykoidilehdistä lievästi euforiaa aiheuttavaksi ja koukuttavaksi teeksi nuotiolla tai liesillä.</PsychoidBrewing.description>
   
   <!-- EN: recurve bow -->
-  <RecurveBow.label>TODO</RecurveBow.label>
+  <RecurveBow.label>kaareva jousi</RecurveBow.label>
   <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
-  <RecurveBow.description>TODO</RecurveBow.description>
+  <RecurveBow.description>Rakenna kaareva jousi, tehokas ja edullinen kaukoase.</RecurveBow.description>
   
   <!-- EN: smithing -->
-  <Smithing.label>smithing</Smithing.label>
+  <Smithing.label>Takominen</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
   <Smithing.description>Sepät tekevät aseita ja työkaluja raaoista materiaaleista.</Smithing.description>
   
@@ -97,13 +97,13 @@
   <Stonecutting.description>Rakenna kivenleikkauspöytiä, jotka mahdollistavat kivenlohkareista jalostamisen harkoiksi, joita voidaan käyttää rakentamiseen.</Stonecutting.description>
   
   <!-- EN: tree sowing -->
-  <TreeSowing.label>TODO</TreeSowing.label>
+  <TreeSowing.label>puiden kylväminen</TreeSowing.label>
   <!-- EN: Sow the local biome's natural trees in your fields. -->
-  <TreeSowing.description>TODO</TreeSowing.description>
+  <TreeSowing.description>Kylvä paikallisen biomin luonnonpuut pelloillesi.</TreeSowing.description>
   
   <!-- EN: wake-up production -->
-  <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
+  <WakeUpProduction.label>pikapiristeen valmistus</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
-  <WakeUpProduction.description>Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.</WakeUpProduction.description>
+  <WakeUpProduction.description>Valmista pikapiristettä, työsuorituskykyä parantava päihde, joka korvaa unen tarvetta.</WakeUpProduction.description>
   
 </LanguageData>

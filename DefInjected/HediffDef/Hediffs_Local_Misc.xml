@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageModerate.label>TODO</ChemicalDamageModerate.label>
+  <ChemicalDamageModerate.label>kemiallinen vahinko</ChemicalDamageModerate.label>
   <!-- EN: Chemical damage at the cellular level. -->
-  <ChemicalDamageModerate.description>TODO</ChemicalDamageModerate.description>
+  <ChemicalDamageModerate.description>Kemialliset vauriot solutasolla.</ChemicalDamageModerate.description>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageSevere.label>TODO</ChemicalDamageSevere.label>
+  <ChemicalDamageSevere.label>kemiallinen vahinko</ChemicalDamageSevere.label>
   <!-- EN: Chemical damage at the cellular level. -->
-  <ChemicalDamageSevere.description>TODO</ChemicalDamageSevere.description>
+  <ChemicalDamageSevere.description>Kemialliset vauriot solutasolla.</ChemicalDamageSevere.description>
   
   <!-- EN: cirrhosis -->
   <Cirrhosis.label>kirroosi</Cirrhosis.label>
   <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
-  <Cirrhosis.description>TODO</Cirrhosis.description>
+  <Cirrhosis.description>Alkoholin liiallisesta käytöstä johtuva rappeuttava maksasairaus.</Cirrhosis.description>
   
   <!-- EN: resurrection psychosis -->
-  <ResurrectionPsychosis.label>TODO</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.label>ylösnousemuspsykoosi</ResurrectionPsychosis.label>
   <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
-  <ResurrectionPsychosis.description>TODO</ResurrectionPsychosis.description>
+  <ResurrectionPsychosis.description>Ylösnousemusmekaniittien dekoherenssin aiheuttamia kaoottisia ajatusmalleja. Ylösnousemuspsykoosi etenee ja aiheuttaa lopulta täyteen psykoosin ja kuoleman.\n\nYlösnousseet ihmiset tarvitsevat mekaniitteja kehon toimintojensa uudelleenrakentamiseksi solutasolla. Mekaniiteilla on aina mahdollisuus menettää koherenssi, ja jos menettävät, ne aiheuttavat tuhoa keskushermostossa. Mitä vanhempi ruumis, sitä enemmän mekaanisia toimia tarvitaan sen herättämiseen henkiin, ja sitä suurempi on dekoherenssin mahdollisuus.</ResurrectionPsychosis.description>
   <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-0.label>esiaste</ResurrectionPsychosis.stages.early-0.label>
   <!-- EN: early -->
@@ -36,20 +36,20 @@
   <ResurrectionPsychosis.stages.catatonic.label>katatoninen</ResurrectionPsychosis.stages.catatonic.label>
   
   <!-- EN: scaria -->
-  <Scaria.label>TODO</Scaria.label>
+  <Scaria.label>scaria</Scaria.label>
   <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
-  <Scaria.description>TODO</Scaria.description>
+  <Scaria.description>Sairaus, joka saa tartunnan saaneet olennot raivostumaan. Olento, jolla on scaria, voidaan parantaa erityisellä lääketieteellisellä leikkauksella, mutta se on ensin kaadettava. Jos scariaa ei hoideta, se tappaa isännän noin viisi päivää tartunnan jälkeen. Tauti myrkyttää lihan ja mädättää ihon, joten scariasta tapetut olennot voivat mätää kuollessaan, joten niitä ei voida teurastaa lihaa tai nahkaa varten.</Scaria.description>
   
   <!-- EN: sterilized -->
-  <Sterilized.label>TODO</Sterilized.label>
+  <Sterilized.label>steriloitu</Sterilized.label>
   <!-- EN: This creature's reproductive system has been permanently shut down. -->
-  <Sterilized.description>TODO</Sterilized.description>
+  <Sterilized.description>Tämän olennon lisääntymiskyky on poistettu pysyvästi.</Sterilized.description>
   
   <!-- EN: trauma savant -->
   <TraumaSavant.label>vammasavantisti</TraumaSavant.label>
   <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
-  <TraumaSavant.description>TODO</TraumaSavant.description>
+  <TraumaSavant.description>Poikkeuksellinen tila, joka johtuu aivojen traumasta. Aivot ovat vamman vuoksi kehittäneet äärimmäisiä kykyjä joillakin alueilla, mutta menettäneet puhekyvyn.</TraumaSavant.description>
   <!-- EN: trauma -->
-  <TraumaSavant.labelNoun>TODO</TraumaSavant.labelNoun>
+  <TraumaSavant.labelNoun>vammasavantisti</TraumaSavant.labelNoun>
   
 </LanguageData>

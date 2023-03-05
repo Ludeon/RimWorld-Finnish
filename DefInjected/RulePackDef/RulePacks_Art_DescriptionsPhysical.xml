@@ -6,7 +6,11 @@
     <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_Furniture.rulePack.rulesStrings>TODO</ArtDescription_Furniture.rulePack.rulesStrings>
+  <ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>physical_description_root->Tähän huonekaluun on kaiverrettu [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Tässä huonekalussa on [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Kaiverrus tässä huonekalussa [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_Furniture.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
@@ -14,7 +18,12 @@
     <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>TODO</ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+    <li>physical_description_root->Sarkofagiin on kaiverrettu [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Sarkofagissa on [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Sarkofagiin on kaiverrettu [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Kaiverrus tähän sarkofagiin [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
@@ -25,20 +34,36 @@
     <li>sculpture->piece</li>
     <li>sculpture->carving</li>
   -->
-  <ArtDescription_Sculpture.rulePack.rulesStrings>TODO</ArtDescription_Sculpture.rulePack.rulesStrings>
+  <ArtDescription_Sculpture.rulePack.rulesStrings>
+    <li>physical_description_root->Tämä [sculpture] on [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Tämä [sculpture] on [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Tässä [sculpture] on [depiction] [image]. [desc_sentence_group]</li>
+    <li>sculpture->veistos</li>
+    <li>sculpture->työ</li>
+    <li>sculpture->kappale</li>
+    <li>sculpture->veistos</li>
+  </ArtDescription_Sculpture.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_WeaponGun.rulePack.rulesStrings>TODO</ArtDescription_WeaponGun.rulePack.rulesStrings>
+  <ArtDescription_WeaponGun.rulePack.rulesStrings>
+    <li>physical_description_root->Tähän aseeseen on kaiverrettu [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Tämä ase kantaa [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Kaiverrus tässä aseessa [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_WeaponGun.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_WeaponMelee.rulePack.rulesStrings>TODO</ArtDescription_WeaponMelee.rulePack.rulesStrings>
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings>
+    <li>physical_description_root->Tähän aseeseen on kaiverrettu [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Tämä ase kantaa [depiction] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Kaiverrus tässä aseessa [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_WeaponMelee.rulePack.rulesStrings>
   
 </LanguageData>

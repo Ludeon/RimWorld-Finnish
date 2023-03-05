@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeedFactor.label>TODO</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.label>rakentamis nopeus</ConstructionSpeedFactor.label>
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
   <ConstructionSpeedFactor.description>TODO</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
   <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: filth multiplier -->
-  <FilthMultiplier.label>TODO</FilthMultiplier.label>
+  <FilthMultiplier.label>saasta kerroin</FilthMultiplier.label>
   <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. -->
   <FilthMultiplier.description>TODO</FilthMultiplier.description>
   

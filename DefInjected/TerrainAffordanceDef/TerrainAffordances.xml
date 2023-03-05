@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: bridgeable -->
-  <Bridgeable.label>TODO</Bridgeable.label>
+  <Bridgeable.label>silloitettavissa</Bridgeable.label>
   
   <!-- EN: diggable -->
-  <Diggable.label>TODO</Diggable.label>
+  <Diggable.label>kaivettavissa</Diggable.label>
   
   <!-- EN: growable -->
-  <GrowSoil.label>TODO</GrowSoil.label>
+  <GrowSoil.label>kasvatettavissa</GrowSoil.label>
   
   <!-- EN: heavy -->
-  <Heavy.label>TODO</Heavy.label>
+  <Heavy.label>painava</Heavy.label>
   
   <!-- EN: light -->
-  <Light.label>TODO</Light.label>
+  <Light.label>kevyt</Light.label>
   
   <!-- EN: medium -->
-  <Medium.label>TODO</Medium.label>
+  <Medium.label>maaperä</Medium.label>
   
   <!-- EN: moving water -->
-  <MovingFluid.label>TODO</MovingFluid.label>
+  <MovingFluid.label>virtaavaa vettä</MovingFluid.label>
   
   <!-- EN: shallow water -->
-  <ShallowWater.label>TODO</ShallowWater.label>
+  <ShallowWater.label>matalaa vettä</ShallowWater.label>
   
   <!-- EN: smoothable -->
-  <SmoothableStone.label>TODO</SmoothableStone.label>
+  <SmoothableStone.label>tasoitettavissa</SmoothableStone.label>
   
 </LanguageData>
