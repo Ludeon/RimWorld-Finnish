@@ -7,12 +7,12 @@
   <AimingDelayFactor.description>Miten kauan ampumiseen kuluu aikaa kohteeseen lukittumisen jälkeen.</AimingDelayFactor.description>
   
   <!-- EN: incoming damage multiplier -->
-  <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
+  <IncomingDamageFactor.label>saapuvan vahingon kerroin</IncomingDamageFactor.label>
   <!-- EN: A multiplier on all incoming damage. -->
-  <IncomingDamageFactor.description>TODO</IncomingDamageFactor.description>
+  <IncomingDamageFactor.description>Kerroin kaikista tulevista vaurioista.</IncomingDamageFactor.description>
   
   <!-- EN: melee armor penetration -->
-  <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.label>lähitaistelu panssarin läpäisy</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
   <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
   
