@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: biofuel refinery -->
-  <BiofuelRefinery.label>refinery</BiofuelRefinery.label>
+  <BiofuelRefinery.label>biopolttoaine jalostin</BiofuelRefinery.label>
   <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
-  <BiofuelRefinery.description>A chemical refining plant. Used to refine wood into chemfuel.</BiofuelRefinery.description>
+  <BiofuelRefinery.description>TODO</BiofuelRefinery.description>
   
   <!-- EN: brewery -->
   <Brewery.label>panimo</Brewery.label>
@@ -12,29 +12,29 @@
   <Brewery.description>Työasema kaikilla työkaluilla jotka tarvitaan oluen panemiseen.</Brewery.description>
   
   <!-- EN: butcher spot -->
-  <ButcherSpot.label>TODO</ButcherSpot.label>
+  <ButcherSpot.label>teurastus piste</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
   <ButcherSpot.description>TODO</ButcherSpot.description>
   
   <!-- EN: crafting spot -->
   <CraftingSpot.label>käsityöpiste</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
-  <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+  <CraftingSpot.description>TODO</CraftingSpot.description>
   
   <!-- EN: deep drill -->
-  <DeepDrill.label>deep drill</DeepDrill.label>
+  <DeepDrill.label>syvä pora</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
-  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
+  <DeepDrill.description>TODO</DeepDrill.description>
   
   <!-- EN: drug lab -->
-  <DrugLab.label>drug lab</DrugLab.label>
+  <DrugLab.label>päihde laboratorio</DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
-  <DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.description>
+  <DrugLab.description>TODO</DrugLab.description>
   
   <!-- EN: electric crematorium -->
-  <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+  <ElectricCrematorium.label>sähköinen krematorio</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
-  <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
+  <ElectricCrematorium.description>TODO</ElectricCrematorium.description>
   
   <!-- EN: electric smelter -->
   <ElectricSmelter.label>sähköinen sulatusuuni</ElectricSmelter.label>
@@ -42,19 +42,19 @@
   <ElectricSmelter.description>Tekee käyttökelpoista metallia kuonapaloista ja muista sekalaisista metalliesineistä. Kuluttaa paljon virtaa.</ElectricSmelter.description>
   
   <!-- EN: electric smithy -->
-  <ElectricSmithy.label>electric taontapöytä</ElectricSmithy.label>
+  <ElectricSmithy.label>sähköinen taontapöytä</ElectricSmithy.label>
   <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
-  <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+  <ElectricSmithy.description>TODO</ElectricSmithy.description>
   
   <!-- EN: electric stove -->
-  <ElectricStove.label>electric stove</ElectricStove.label>
+  <ElectricStove.label>sähköliesi</ElectricStove.label>
   <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
-  <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+  <ElectricStove.description>TODO</ElectricStove.description>
   
   <!-- EN: electric tailor bench -->
-  <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+  <ElectricTailoringBench.label>TODO</ElectricTailoringBench.label>
   <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
-  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+  <ElectricTailoringBench.description>TODO</ElectricTailoringBench.description>
   
   <!-- EN: fabrication bench -->
   <FabricationBench.label>TODO</FabricationBench.label>
@@ -62,14 +62,14 @@
   <FabricationBench.description>TODO</FabricationBench.description>
   
   <!-- EN: fermenting barrel -->
-  <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+  <FermentingBarrel.label>käymis tynnyri</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
-  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+  <FermentingBarrel.description>Tynnyri oluen käymiseen.</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
-  <FueledSmithy.label>fueled taontapöytä</FueledSmithy.label>
+  <FueledSmithy.label>puulla tankattu taontapöytä</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
-  <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+  <FueledSmithy.description>TODO</FueledSmithy.description>
   
   <!-- EN: fueled stove -->
   <FueledStove.label>puuliesi</FueledStove.label>
@@ -77,14 +77,14 @@
   <FueledStove.description>Yksinkertainen puukäyttöinen liesi ja työtaso ruuanlaittoon yksinkertaisista ainesosia.</FueledStove.description>
   
   <!-- EN: hand tailor bench -->
-  <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
+  <HandTailoringBench.label>TODO</HandTailoringBench.label>
   <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
-  <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+  <HandTailoringBench.description>TODO</HandTailoringBench.description>
   
   <!-- EN: hi-tech research bench -->
-  <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+  <HiTechResearchBench.label>TODO</HiTechResearchBench.label>
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
-  <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+  <HiTechResearchBench.description>TODO</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
   <Hopper.label>suppilo</Hopper.label>

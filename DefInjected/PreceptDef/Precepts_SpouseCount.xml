@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: one only -->
-  <SpouseCount_Female_MaxOne.label>TODO</SpouseCount_Female_MaxOne.label>
+  <SpouseCount_Female_MaxOne.label>yksi ainoa</SpouseCount_Female_MaxOne.label>
   <!-- EN: Women may have one spouse only. -->
-  <SpouseCount_Female_MaxOne.description>TODO</SpouseCount_Female_MaxOne.description>
+  <SpouseCount_Female_MaxOne.description>Naisilla voi olla vain yksi puoliso.</SpouseCount_Female_MaxOne.description>
   
   <!-- EN: one only -->
-  <SpouseCount_Male_MaxOne.label>TODO</SpouseCount_Male_MaxOne.label>
+  <SpouseCount_Male_MaxOne.label>yksi ainoa</SpouseCount_Male_MaxOne.label>
   <!-- EN: Men may have one spouse only. -->
-  <SpouseCount_Male_MaxOne.description>TODO</SpouseCount_Male_MaxOne.description>
+  <SpouseCount_Male_MaxOne.description>Miehillä voi olla vain yksi puoliso.</SpouseCount_Male_MaxOne.description>
   
 </LanguageData>

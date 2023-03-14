@@ -9,18 +9,18 @@
   <CookMealFine.jobString>Kokkaa hienoa ateriaa.</CookMealFine.jobString>
   
   <!-- EN: cook carnivore fine meal -->
-  <CookMealFine_Meat.label>TODO</CookMealFine_Meat.label>
+  <CookMealFine_Meat.label>kokkaa lihainen hieno ateria</CookMealFine_Meat.label>
   <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
-  <CookMealFine_Meat.description>TODO</CookMealFine_Meat.description>
+  <CookMealFine_Meat.description>Kokkaa jokseenkin monimutkainen ateria lihasta.</CookMealFine_Meat.description>
   <!-- EN: Cooking carnivore fine meal. -->
-  <CookMealFine_Meat.jobString>TODO</CookMealFine_Meat.jobString>
+  <CookMealFine_Meat.jobString>Kokkaa lihaista hienoa ateriaa.</CookMealFine_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal -->
-  <CookMealFine_Veg.label>TODO</CookMealFine_Veg.label>
+  <CookMealFine_Veg.label>kokkaa kasvispohjainen hieno ateria</CookMealFine_Veg.label>
   <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
-  <CookMealFine_Veg.description>TODO</CookMealFine_Veg.description>
+  <CookMealFine_Veg.description>Kokkaa jokseenkin monimutkainen ateria kasviksista.</CookMealFine_Veg.description>
   <!-- EN: Cooking vegetarian fine meal. -->
-  <CookMealFine_Veg.jobString>TODO</CookMealFine_Veg.jobString>
+  <CookMealFine_Veg.jobString>Kokkaa kasvismaista hienoa ruokaa.</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
   <CookMealFineBulk.label>kokkaa 4 hienoa ateriaa</CookMealFineBulk.label>
@@ -30,18 +30,18 @@
   <CookMealFineBulk.jobString>Kokkaa 4 hienoa ateriaa.</CookMealFineBulk.jobString>
   
   <!-- EN: cook carnivore fine meal x4 -->
-  <CookMealFineBulk_Meat.label>TODO</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.label>kokkaa 4 lihaista hienoa ateriaa</CookMealFineBulk_Meat.label>
   <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Meat.description>TODO</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.description>Kokkaa jokseenkin monimutkainen ateria lihasta. Suurin osa ainesosista menee hukkaan parhaan ruokailukokemuksen luomiseksi. Monipuolisten makujen tuottaminen pelkällä lihalla lisää tehottomuutta.</CookMealFineBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore fine meals. -->
-  <CookMealFineBulk_Meat.jobString>TODO</CookMealFineBulk_Meat.jobString>
+  <CookMealFineBulk_Meat.jobString>Kokkaa 4 lihaista hienoa ateriaa.</CookMealFineBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal x4 -->
-  <CookMealFineBulk_Veg.label>TODO</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.label>kokkaa 4 kasvispohjaista hienoa ateriaa</CookMealFineBulk_Veg.label>
   <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Veg.description>TODO</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.description>Kokkaa jokseenkin monimutkainen ateria kasviksista. Suurin osa ainesosista menee hukkaan parhaan ruokailukokemuksen luomiseksi. Monipuolisten makujen tuottaminen pelkästään kasveilla lisää tehottomuutta.</CookMealFineBulk_Veg.description>
   <!-- EN: Cooking 4 vegetarian fine meals. -->
-  <CookMealFineBulk_Veg.jobString>TODO</CookMealFineBulk_Veg.jobString>
+  <CookMealFineBulk_Veg.jobString>Kokkaa 4 kasvispohjallista hienoa ateriaa.</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>kokkaa yltäkylläinen ateria</CookMealLavish.label>
@@ -51,18 +51,18 @@
   <CookMealLavish.jobString>Kokkaa yltäkylläistä ateriaa.</CookMealLavish.jobString>
   
   <!-- EN: cook carnivore lavish meal -->
-  <CookMealLavish_Meat.label>TODO</CookMealLavish_Meat.label>
+  <CookMealLavish_Meat.label>kokkaa lihainen yltäkylläinen ateria</CookMealLavish_Meat.label>
   <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavish_Meat.description>TODO</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.description>Kokkaa hyvin monimutkainen ateria liha-aineksista. Suurin osa ainesosista menee hukkaan parhaan ruokailukokemuksen luomiseksi. Monipuolisten makujen tuottaminen pelkällä lihalla lisää tehottomuutta.</CookMealLavish_Meat.description>
   <!-- EN: Cooking carnivore lavish meal. -->
-  <CookMealLavish_Meat.jobString>TODO</CookMealLavish_Meat.jobString>
+  <CookMealLavish_Meat.jobString>Kokkaa lihaista yltäkylläistä ateriaa.</CookMealLavish_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal -->
-  <CookMealLavish_Veg.label>TODO</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.label>kokkaa kasvipohjainen yltäkylläinen ateria</CookMealLavish_Veg.label>
   <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavish_Veg.description>TODO</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.description>Kokkaa erittäin monimutkainen ateria kasviperäisistä ainesosista. Suurin osa ainesosista menee hukkaan parhaan ruokailukokemuksen luomiseksi. Monipuolisten makujen tuottaminen pelkästään kasveilla lisää tehottomuutta.</CookMealLavish_Veg.description>
   <!-- EN: Cooking vegetarian lavish meal. -->
-  <CookMealLavish_Veg.jobString>TODO</CookMealLavish_Veg.jobString>
+  <CookMealLavish_Veg.jobString>Kokkaa kasviksista yltäkylläistä ateriaa.</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
   <CookMealLavishBulk.label>kokkaa 4 yltäkylläistä ateriaa</CookMealLavishBulk.label>
@@ -72,18 +72,18 @@
   <CookMealLavishBulk.jobString>Kokkaa 4 yltäkylläistä ateriaa.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook carnivore lavish meal x4 -->
-  <CookMealLavishBulk_Meat.label>TODO</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.label>kokkaa 4 lihaista yltäkylläistä ateriaa</CookMealLavishBulk_Meat.label>
   <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Meat.description>TODO</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.description>Kokkaa hyvin monimutkainen ateria liha-aineksista. Suurin osa ainesosista menee hukkaan parhaan ruokailukokemuksen luomiseksi. Monipuolisten makujen tuottaminen pelkällä lihalla lisää tehottomuutta.</CookMealLavishBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore lavish meals. -->
-  <CookMealLavishBulk_Meat.jobString>TODO</CookMealLavishBulk_Meat.jobString>
+  <CookMealLavishBulk_Meat.jobString>Kokkaa 4 lihaista yltäkylläistä ateriaa.</CookMealLavishBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal x4 -->
-  <CookMealLavishBulk_Veg.label>TODO</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.label>kokkaa 4 kasvipohjaista yltäkylläistä ateriaa</CookMealLavishBulk_Veg.label>
   <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Veg.description>TODO</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.description>Kokkaa erittäin monimutkainen ateria kasviperäisistä ainesosista. Suurin osa ainesosista menee hukkaan parhaan ruokailukokemuksen luomiseksi. Monipuolisten makujen tuottaminen pelkästään kasveilla lisää tehottomuutta.</CookMealLavishBulk_Veg.description>
   <!-- EN: Cooking 4 vegetarian lavish meals. -->
-  <CookMealLavishBulk_Veg.jobString>TODO</CookMealLavishBulk_Veg.jobString>
+  <CookMealLavishBulk_Veg.jobString>Kokkaa 4 kasvispohjaista yltäkylläistä ateriaa</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>kokkaa yksinkertainen ateria</CookMealSimple.label>
@@ -95,21 +95,21 @@
   <!-- EN: cook simple meal x4 -->
   <CookMealSimpleBulk.label>kokkaa 4 yksinkertaista ateriaa</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Kokkaa mutkattoman aterian yhdestä aineksesta.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
   <CookMealSimpleBulk.jobString>Kokkaa 4 yksinkertaista ateriaa.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>kokkaa selviytymisateria</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>TODO.</CookMealSurvival.description>
+  <CookMealSurvival.description>Valmista pakattu selviytymisateria liha- ja kasviainesosien yhdistelmästä. Suuri osa ainesosista menee hukkaan säilöntäprosessissa..</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>Kokkaa selviytymisateriaa.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
   <CookMealSurvivalBulk.label>kokkaa 4 selviytymisateriaa</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Valmista pakattu selviytymisateria liha- ja kasviainesosien yhdistelmästä. Suuri osa ainesosista menee hukkaan säilöntäprosessissa.</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
   <CookMealSurvivalBulk.jobString>Kokkaa 4 selviytymisateriaa.</CookMealSurvivalBulk.jobString>
   

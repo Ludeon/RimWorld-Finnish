@@ -12,9 +12,9 @@
   <Comfort.description>Mukavuutta saadaan istumalla tai nukkumalla mukavissa huonekaluissa.</Comfort.description>
   
   <!-- EN: chemical -->
-  <DrugDesire.label>TODO</DrugDesire.label>
+  <DrugDesire.label>keemikko</DrugDesire.label>
   <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
-  <DrugDesire.description>TODO</DrugDesire.description>
+  <DrugDesire.description>Keemikko ilmaisee halua käyttää päihteitä. Tietyn tason yläpuolella se luo hyvän mielen, mutta tietyn tason alapuolella se luo jatkuvasti huonompaa mielialaa.</DrugDesire.description>
   
   <!-- EN: food -->
   <Food.label>ruoka</Food.label>
@@ -22,9 +22,9 @@
   <Food.description>Ruoka on ravinnon määrä jonka olento on lähiaikoina syönyt. Jos se on nollassa olento ottaa ajan myötä nääntymisvahinkoa.</Food.description>
   
   <!-- EN: indoors -->
-  <Indoors.label>TODO</Indoors.label>
+  <Indoors.label>sisätilat</Indoors.label>
   <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
-  <Indoors.description>TODO</Indoors.description>
+  <Indoors.description>Sisätilat ilmaisee tarpeen olla seinien sisällä ja katon alla. Sitä vahingoittaa, jos vietät aikaa ulkoalueilla tai ei katon alla. Nostaakseen tämän tarpeen yli 50 %, henkilön on oltava ylävuoren alla, ei vain normaalin katon alla.</Indoors.description>
   
   <!-- EN: recreation -->
   <Joy.label>hupi</Joy.label>
@@ -37,9 +37,9 @@
   <Mood.description>Mieliala kuvaa miten tyytyväinen tai rasittunut henkilö on. Jos mielialasta tulee liian alhainen, henkilö saattaa kärsiä hermoromahduksen.</Mood.description>
   
   <!-- EN: outdoors -->
-  <Outdoors.label>TODO</Outdoors.label>
+  <Outdoors.label>ulkotilat</Outdoors.label>
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
-  <Outdoors.description>TODO</Outdoors.description>
+  <Outdoors.description>Ulkotilat ilmaisee, ettei tarvitse olla aina sisällä. Pitkät ajat sisällä, erityisesti maan alla, vahingoittavat sitä. Se paranee, kun joku viettää aikaa taivaan alla, etenkin ulkona. Kyse ei ole huoneiden koosta, vaan tarpeesta olla silloin tällöin ulkona. Ulkoiluajan puute on merkittävä haaste maanalaisissa tukikohdissa asuville.</Outdoors.description>
   
   <!-- EN: rest -->
   <Rest.label>lepo</Rest.label>

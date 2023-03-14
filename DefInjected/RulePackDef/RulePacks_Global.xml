@@ -139,7 +139,55 @@
     <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
-  <GlobalUtility.rulePack.rulesStrings>TODO</GlobalUtility.rulePack.rulesStrings>
+  <GlobalUtility.rulePack.rulesStrings>
+    <li>Trans->-</li>
+    <li>Trans->kohti</li>
+    <li>Trans->vieressä</li>
+    <li>Trans->kanssa</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Quantity_adjphrase->kaksi</li>
+    <li>Quantity_adjphrase->kolme</li>
+    <li>Quantity_adjphrase->neljä</li>
+    <li>Quantity_adjphrase->viisi</li>
+    <li>Quantity_adjphrase->kuusi</li>
+    <li>Quantity_adjphrase->seitsemän</li>
+    <li>Quantity_adjphrase->kahdeksan</li>
+    <li>Quantity_adjphrase->yhdeksän</li>
+    <li>Quantity_adjphrase->kymmenen</li>
+    <li>Quantity_adjphrase->usea</li>
+    <li>Quantity_adjphrase->ryhmä</li>
+    <li>Quantity_adjphrase->iso ryhmä</li>
+    <li>Quantity_adjphrase->tusinoittain</li>
+    <li>Quantity_adjphrase->satoja</li>
+    <li>Quantity_adjphrase->tuhat</li>
+    <li>Quantity_adjphrase->tuhansia</li>
+    <li>Shape->kolmio</li>
+    <li>Shape->neliö</li>
+    <li>Shape->suorakulmio</li>
+    <li>Shape->kartio</li>
+    <li>Shape->viiva</li>
+    <li>Shape->sydän</li>
+    <li>Shape->tähti</li>
+    <li>Shape->ympyrä</li>
+    <li>Shape->soikio</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->genitaalit</li>
+    <li>PersonalCharacteristic(p=0.15)->häpykarvoitus</li>
+    <li>PersonalCharacteristic(p=0.15)->ihokarvoitus</li>
+    <li>PersonalCharacteristic(p=0.15)->wc-tottumukset</li>
+    <li>PersonalCharacteristic(p=0.15)->seksuaalinen kyvykkyys</li>
+    <li>PersonalCharacteristic(p=0.15)->seksuaaliset mieltymykset</li>
+    <li>PersonalCharacteristic(p=0.15)->seksuaalinen kokemus</li>
+  </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>
@@ -180,6 +228,44 @@
     <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
     <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
   -->
-  <TalkTopicsUtility.rulePack.rulesStrings>TODO</TalkTopicsUtility.rulePack.rulesStrings>
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->linkki [talktopicheavyfile] ja [talktopicheavyfile] välillä</li>
+    <li>TalkTopicHeavy(p=0.08)->yhteys [talktopicheavyfile] ja [talktopicheavyfile] välillä</li>
+    <li>TalkTopicHeavy(p=0.08)->suhde [talktopicheavyfile] ja [talktopicheavyfile] välillä</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[Vegetable]t</li>
+    <li>TalkTopicLight->syödään [Vegetable]</li>
+    <li>TalkTopicLight->kokataan [Vegetable]</li>
+    <li>TalkTopicLight->[Game]</li>
+    <li>TalkTopicLight->pelaa [Game]</li>
+    <li>TalkTopicLight->harjoittelee [Game]</li>
+    <li>TalkTopicLight->opettelee [Game]</li>
+    <li>TalkTopicLight->[Animal]</li>
+    <li>TalkTopicLight->kouluttaa [Animal]</li>
+    <li>TalkTopicLight->kesyttää [Animal]</li>
+    <li>TalkTopicLight->taistella [Animal]</li>
+    <li>TalkTopicLight->hullu [Animal]</li>
+    <li>TalkTopicLight->[Weapon]</li>
+    <li>TalkTopicLight->käyttää asetta [Weapon]</li>
+    <li>TalkTopicLight->harjoittelee [Weapon] käyttöä</li>
+    <li>TalkTopicLight->[TerrainFeature]</li>
+    <li>TalkTopicLight->[NaturalObject]</li>
+    <li>TalkTopicLight->[TreeType] puut</li>
+    <li>TalkTopicLight->[PersonJob]</li>
+    <li>TalkTopicLight->ystävälliset [PersonJob]</li>
+    <li>TalkTopicLight->vihamieliset [PersonJob]</li>
+    <li>TalkTopicLight->[Enemy]</li>
+    <li>TalkTopicLight->taistella [Enemy]</li>
+    <li>TalkTopicLight->[Apparel]</li>
+    <li>TalkTopicLight->pitää yllään [Apparel]</li>
+    <li>TalkTopicLight->tekee [Apparel]</li>
+    <li>talktopicheavyfile(p=0.15)->seksi</li>
+    <li>talktopicheavyfile(p=0.15)->viettely</li>
+    <li>talktopicheavyfile(p=0.15)->eläimen seksuaalisuus</li>
+    <li>talktopicheavyfile(p=0.15)->seksuaalinen fetissi</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>

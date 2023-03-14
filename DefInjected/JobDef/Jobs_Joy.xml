@@ -17,10 +17,10 @@
   <Play_Chess.reportString>Pelaa shakkia.</Play_Chess.reportString>
   
   <!-- EN: playing the game of Ur. -->
-  <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
+  <Play_GameOfUr.reportString>pelaa urin-peliä.</Play_GameOfUr.reportString>
   
   <!-- EN: playing hoopstone. -->
-  <Play_Hoopstone.reportString>TODO</Play_Hoopstone.reportString>
+  <Play_Hoopstone.reportString>pelaa heittorengasta.</Play_Hoopstone.reportString>
   
   <!-- EN: playing horseshoes. -->
   <Play_Horseshoes.reportString>Heittää hevosenkenkiä.</Play_Horseshoes.reportString>
@@ -44,7 +44,7 @@
   <UseTelescope.reportString>Käyttää teleskooppia.</UseTelescope.reportString>
   
   <!-- EN: viewing art. -->
-  <ViewArt.reportString>viewing art.</ViewArt.reportString>
+  <ViewArt.reportString>katselee taidetta.</ViewArt.reportString>
   
   <!-- EN: visiting grave. -->
   <VisitGrave.reportString>Vierailee haudalla.</VisitGrave.reportString>

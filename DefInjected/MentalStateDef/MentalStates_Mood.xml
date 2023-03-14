@@ -4,11 +4,11 @@
   <!-- EN: tantrum -->
   <BedroomTantrum.label>kiukunpuuska</BedroomTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <BedroomTantrum.baseInspectLine>TODO</BedroomTantrum.baseInspectLine>
+  <BedroomTantrum.baseInspectLine>Mielentila: Kiukunpuuska</BedroomTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
-  <BedroomTantrum.beginLetter>TODO</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetter>Henkilöllä {0} on kiukunpuuska.\n\n[PAWN_pronoun] aikoo paiskoa taravoita [PAWN_possessive] huoneessa.</BedroomTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <BedroomTantrum.recoveryMessage>TODO</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.recoveryMessage>Henkilön {0} kiukunpuuska on loppunut.</BedroomTantrum.recoveryMessage>
   
   <!-- EN: berserk -->
   <Berserk.label>raivopäinen</Berserk.label>
@@ -23,46 +23,46 @@
   <!-- EN: binging on drug -->
   <Binging_DrugExtreme.label>päihteen suurkulutus</Binging_DrugExtreme.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugExtreme.baseInspectLine>TODO</Binging_DrugExtreme.baseInspectLine>
+  <Binging_DrugExtreme.baseInspectLine>Mielentila: Suurkuluttaa ainetta {0}</Binging_DrugExtreme.baseInspectLine>
   
   <!-- EN: binging on drug -->
   <Binging_DrugMajor.label>päihteen suurkulutus</Binging_DrugMajor.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugMajor.baseInspectLine>TODO</Binging_DrugMajor.baseInspectLine>
+  <Binging_DrugMajor.baseInspectLine>Mielentila: Suurkuluttaa ainetta {0}</Binging_DrugMajor.baseInspectLine>
   
   <!-- EN: binging on food -->
-  <Binging_Food.label>ruuan ahmiminen</Binging_Food.label>
+  <Binging_Food.label>ruoan ahmiminen</Binging_Food.label>
   <!-- EN: Mental state: Pigging out -->
-  <Binging_Food.baseInspectLine>TODO</Binging_Food.baseInspectLine>
+  <Binging_Food.baseInspectLine>Mielentila: Ruoan ahmiminen</Binging_Food.baseInspectLine>
   <!-- EN: {0} is pigging out on food. -->
-  <Binging_Food.beginLetter>TODO</Binging_Food.beginLetter>
+  <Binging_Food.beginLetter>Henkilö {0} ahmii ruokaa.</Binging_Food.beginLetter>
   <!-- EN: food binge -->
   <Binging_Food.beginLetterLabel>ruuan ahmiminen</Binging_Food.beginLetterLabel>
   <!-- EN: {0} is no longer pigging out on food. -->
-  <Binging_Food.recoveryMessage>TODO</Binging_Food.recoveryMessage>
+  <Binging_Food.recoveryMessage>Henkilö {0} lopetti ruoan ahminnan.</Binging_Food.recoveryMessage>
   
   <!-- EN: corpse obsession -->
   <CorpseObsession.label>ruumiiden pakkomielle</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
-  <CorpseObsession.baseInspectLine>TODO</CorpseObsession.baseInspectLine>
+  <CorpseObsession.baseInspectLine>Mielentila: Ruumiiden pakkomielle</CorpseObsession.baseInspectLine>
   <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
-  <CorpseObsession.beginLetter>TODO</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetter>Henkilö {0} on hajonnut sisältä ja on saanut pakkomielteen ruumiille.\n\n[PAWN_pronoun] menee kaivamaan ruumiin ylös ja näyttää sen kaikille.</CorpseObsession.beginLetter>
   <!-- EN: {0} is no longer having a corpse obsession. -->
-  <CorpseObsession.recoveryMessage>TODO</CorpseObsession.recoveryMessage>
+  <CorpseObsession.recoveryMessage>Henkilön {0} ruumiiden pakkomielle on ohi.</CorpseObsession.recoveryMessage>
   
   <!-- EN: fire starting spree -->
   <FireStartingSpree.label>sytyttämispakkomielle</FireStartingSpree.label>
   <!-- EN: Mental state: Fire starting spree -->
-  <FireStartingSpree.baseInspectLine>TODO</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.baseInspectLine>Mielentila: Sytyttämispakkomielle</FireStartingSpree.baseInspectLine>
   <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
-  <FireStartingSpree.beginLetter>TODO</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetter>Henkilö {0} alkaa sytyttämään tulipaloja.\n\n[PAWN_pronoun] vaeltaa ympäriinsä hetken sytyttäen tulipaloja satunnaisesti.</FireStartingSpree.beginLetter>
   <!-- EN: {0} is no longer on a fire starting spree. -->
-  <FireStartingSpree.recoveryMessage>TODO</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.recoveryMessage>Henkilö {0} lopetti tulipalojen sytyttämisen.</FireStartingSpree.recoveryMessage>
   
   <!-- EN: giving up and leaving -->
   <GiveUpExit.label>luovutus ja lähtö</GiveUpExit.label>
   <!-- EN: Mental state: Given up and leaving -->
-  <GiveUpExit.baseInspectLine>TODO</GiveUpExit.baseInspectLine>
+  <GiveUpExit.baseInspectLine>Mielentila: Luovutus ja lähtö</GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
   <GiveUpExit.beginLetter>{0} on luovuttanut ja on jättämässä yhdyskunnan.</GiveUpExit.beginLetter>
   <!-- EN: gave up -->
@@ -71,119 +71,119 @@
   <GiveUpExit.recoveryMessage>{0} on muuttanut mieltään ja on tulossa takaisin yhdyskuntaan.</GiveUpExit.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <InsultingSpree.label>TODO</InsultingSpree.label>
+  <InsultingSpree.label>loukkaamis sarja</InsultingSpree.label>
   <!-- EN: Mental state: Insulting spree -->
-  <InsultingSpree.baseInspectLine>TODO</InsultingSpree.baseInspectLine>
+  <InsultingSpree.baseInspectLine>Mielentila: Loukkaamis sarja</InsultingSpree.baseInspectLine>
   <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
-  <InsultingSpree.beginLetter>TODO</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetter>Henkilö {0} alkoi loukkaamaan sarjoissa.\n\n[PAWN_pronoun] vaeltaa ympäriinsä satunnaisesti luokaten muita.</InsultingSpree.beginLetter>
   <!-- EN: {0} is no longer on an insulting spree. -->
-  <InsultingSpree.recoveryMessage>TODO</InsultingSpree.recoveryMessage>
+  <InsultingSpree.recoveryMessage>Henkilö {0} ei enään loukkaamuita sarjoissa.</InsultingSpree.recoveryMessage>
   
   <!-- EN: inducing prisoner to escape -->
-  <Jailbreaker.label>TODO</Jailbreaker.label>
+  <Jailbreaker.label>houkuttelee vankia pakenemaan</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
-  <Jailbreaker.baseInspectLine>TODO</Jailbreaker.baseInspectLine>
+  <Jailbreaker.baseInspectLine>Mielentila: Vankilapako</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
-  <Jailbreaker.beginLetter>TODO</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>Henkilö {0} koki henkisen romahduksen ja houkuttelee vankeja pakenemaan.</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
-  <Jailbreaker.beginLetterLabel>TODO</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.beginLetterLabel>vankilapako</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
-  <Jailbreaker.recoveryMessage>TODO</Jailbreaker.recoveryMessage>
+  <Jailbreaker.recoveryMessage>Henkilö {0} ei enään houkuttele vankeja pakenemaan.</Jailbreaker.recoveryMessage>
   
   <!-- EN: murderous rage -->
-  <MurderousRage.label>TODO</MurderousRage.label>
+  <MurderousRage.label>murhanhimoinen raivo</MurderousRage.label>
   <!-- EN: Mental state: Murderous rage -->
-  <MurderousRage.baseInspectLine>TODO</MurderousRage.baseInspectLine>
+  <MurderousRage.baseInspectLine>Mielentila: Murhanhimoinen raivo</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
-  <MurderousRage.beginLetter>TODO</MurderousRage.beginLetter>
+  <MurderousRage.beginLetter>Henkilö {0} on mennyt murhanhimoiseen raivoon.\n\n[PAWN_pronoun] on päättänyt tappaa henkilön {1}.</MurderousRage.beginLetter>
   <!-- EN: {0} is no longer in a murderous rage. -->
-  <MurderousRage.recoveryMessage>TODO</MurderousRage.recoveryMessage>
+  <MurderousRage.recoveryMessage>Henkilö {0} ei ole enään murhanhimoisessa raivossa.</MurderousRage.recoveryMessage>
   
   <!-- EN: sadistic rage -->
-  <SadisticRage.label>TODO</SadisticRage.label>
+  <SadisticRage.label>sadistinen raivo</SadisticRage.label>
   <!-- EN: Mental state: Sadistic rage -->
-  <SadisticRage.baseInspectLine>TODO</SadisticRage.baseInspectLine>
+  <SadisticRage.baseInspectLine>Mielentila: Sadistinen raivo</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
-  <SadisticRage.beginLetter>TODO</SadisticRage.beginLetter>
+  <SadisticRage.beginLetter>Henkilö {0} on mennyt sadistiseen raivoon.\n\n[PAWN_pronoun] on menossa purkamaan [PAWN_possessive] vihaansa vankeihin.</SadisticRage.beginLetter>
   <!-- EN: {0} is no longer in a sadistic rage. -->
-  <SadisticRage.recoveryMessage>TODO</SadisticRage.recoveryMessage>
+  <SadisticRage.recoveryMessage>Henkilö {0} ei ole enään sadistisessa raivossa.</SadisticRage.recoveryMessage>
   
   <!-- EN: slaughterer -->
-  <Slaughterer.label>TODO</Slaughterer.label>
+  <Slaughterer.label>teurastus</Slaughterer.label>
   <!-- EN: Mental state: Slaughterer -->
-  <Slaughterer.baseInspectLine>TODO</Slaughterer.baseInspectLine>
+  <Slaughterer.baseInspectLine>Mielentila: Teurastus</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
-  <Slaughterer.beginLetter>TODO</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>Henkilö {0} koki henkisen romahduksen ja on menossa purkamaan [PAWN_possessive] vihaansa sinun eläimiisi.</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
-  <Slaughterer.recoveryMessage>TODO</Slaughterer.recoveryMessage>
+  <Slaughterer.recoveryMessage>Henkilö {0} ei enään teurasta satunnaisia eläimiä.</Slaughterer.recoveryMessage>
   
   <!-- EN: tantrum -->
-  <Tantrum.label>TODO</Tantrum.label>
+  <Tantrum.label>kiukunpuuska</Tantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <Tantrum.baseInspectLine>TODO</Tantrum.baseInspectLine>
+  <Tantrum.baseInspectLine>Mielentila: Kiukunpuuska</Tantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
-  <Tantrum.beginLetter>TODO</Tantrum.beginLetter>
+  <Tantrum.beginLetter>Henkilöllä {0} on kiukunpuuska.\n\n[PAWN_pronoun] aikoo paiskoa saunnaisia huonekaluja, tavaroita ja rakennelmia.</Tantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <Tantrum.recoveryMessage>TODO</Tantrum.recoveryMessage>
+  <Tantrum.recoveryMessage>Henkilö {0} ei ole enään kiukkuinen.</Tantrum.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <TargetedInsultingSpree.label>TODO</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.label>loukkaamis sarja</TargetedInsultingSpree.label>
   <!-- EN: Mental state: Insulting spree against {0} -->
-  <TargetedInsultingSpree.baseInspectLine>TODO</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>Mielentila: loukkaamis sarja vasten {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>TODO</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>Henkilö {0} on keskittynyt raivonsa kohti henkilöä {1}.\n\n[PAWN_pronoun] seuraa henkilöä {1} loukaten tätä jatkuvasti.</TargetedInsultingSpree.beginLetter>
   
   <!-- EN: tantrum -->
-  <TargetedTantrum.label>TODO</TargetedTantrum.label>
+  <TargetedTantrum.label>kiukunpuuska</TargetedTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <TargetedTantrum.baseInspectLine>TODO</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.baseInspectLine>Mielentila: Kiukunpuuska</TargetedTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
-  <TargetedTantrum.beginLetter>TODO</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetter>Henkilöllä {0} on kiukunpuuska.\n\n[PAWN_pronoun] aikoo rikkoa tämän: {1}.</TargetedTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <TargetedTantrum.recoveryMessage>TODO</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.recoveryMessage>Henkilö {0} ei ole enään kiukkuinen.</TargetedTantrum.recoveryMessage>
   
   <!-- EN: sitting alone -->
   <Wander_OwnRoom.label>istuu yksin</Wander_OwnRoom.label>
   <!-- EN: Mental state: Hiding in room -->
-  <Wander_OwnRoom.baseInspectLine>TODO</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.baseInspectLine>Mielentila: Piileskelee huoneessa</Wander_OwnRoom.baseInspectLine>
   <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
-  <Wander_OwnRoom.beginLetter>TODO</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetter>Henkilö {0} piileskelee [PAWN_possessive] huoneessaan.</Wander_OwnRoom.beginLetter>
   <!-- EN: hide in room -->
-  <Wander_OwnRoom.beginLetterLabel>TODO</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.beginLetterLabel>piileskele huoneessa</Wander_OwnRoom.beginLetterLabel>
   <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
-  <Wander_OwnRoom.recoveryMessage>TODO</Wander_OwnRoom.recoveryMessage>
+  <Wander_OwnRoom.recoveryMessage>Henkilö {0} ei nään piileskele [PAWN_possessive] huoneessaan.</Wander_OwnRoom.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic.label>TODO</Wander_Psychotic.label>
+  <Wander_Psychotic.label>vaeltaa psykoosissa</Wander_Psychotic.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic.baseInspectLine>TODO</Wander_Psychotic.baseInspectLine>
+  <Wander_Psychotic.baseInspectLine>Mielentila: Psykoottinen vaeltelu</Wander_Psychotic.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic.beginLetter>TODO</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.beginLetter>Henkilö {0} vaeltaa ympäsiinsä psykoottisessa tilassa.</Wander_Psychotic.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic.beginLetterLabel>TODO</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.beginLetterLabel>hämmennys</Wander_Psychotic.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic.recoveryMessage>TODO</Wander_Psychotic.recoveryMessage>
+  <Wander_Psychotic.recoveryMessage>Henkilö {0} ei enään vaeltele psykoottisessa tilassa.</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.label>vaeltaa psykoosissa</Wander_Psychotic_Short.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.baseInspectLine>Mielentila: Psykoottinen vaeltelu</Wander_Psychotic_Short.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetter>Henkilö {0} vaeltaa ympäsiinsä psykoottisessa tilassa.</Wander_Psychotic_Short.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.beginLetterLabel>hämmennys</Wander_Psychotic_Short.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>Henkilö {0} ei enään vaeltele psykoottisessa tilassa.</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
-  <Wander_Sad.label>TODO</Wander_Sad.label>
+  <Wander_Sad.label>surullinen vaeltelu</Wander_Sad.label>
   <!-- EN: Mental state: Sad wandering -->
-  <Wander_Sad.baseInspectLine>TODO</Wander_Sad.baseInspectLine>
+  <Wander_Sad.baseInspectLine>Mielentila: Surullinen vaeltelu</Wander_Sad.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around in sadness. -->
-  <Wander_Sad.beginLetter>TODO</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetter>Henkilö {0} on hajonnut ja vaeltaa ympäriinsä surullisena.</Wander_Sad.beginLetter>
   <!-- EN: sad wander -->
-  <Wander_Sad.beginLetterLabel>TODO</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.beginLetterLabel>surullinen vaeltaminen</Wander_Sad.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in sadness. -->
-  <Wander_Sad.recoveryMessage>TODO</Wander_Sad.recoveryMessage>
+  <Wander_Sad.recoveryMessage>Henkilö {0} ei enään vaeltele surullisena.</Wander_Sad.recoveryMessage>
   
 </LanguageData>

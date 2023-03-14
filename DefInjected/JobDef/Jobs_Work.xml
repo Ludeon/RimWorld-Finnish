@@ -5,25 +5,25 @@
   <Arrest.reportString>Pidättää henkilön TargetA.</Arrest.reportString>
   
   <!-- EN: building roof. -->
-  <BuildRoof.reportString>building roof.</BuildRoof.reportString>
+  <BuildRoof.reportString>rakentaa kattoa.</BuildRoof.reportString>
   
   <!-- EN: capturing TargetA. -->
   <Capture.reportString>Kaappaa henkilön TargetA.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnDrafted.reportString>TODO</CarryDownedPawnDrafted.reportString>
+  <CarryDownedPawnDrafted.reportString>kantaa TargetA.</CarryDownedPawnDrafted.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToExit.reportString>carrying TargetA.</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnToExit.reportString>kantaa TargetA.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>Kantaa henkilöä TargetA salauniarkkuun.</CarryToCryptosleepCasket.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasketDrafted.reportString>TODO</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>Kantaa henkilöä TargetA salauniarkkuun.</CarryToCryptosleepCasketDrafted.reportString>
   
   <!-- EN: arresting TargetA. -->
-  <CarryToPrisonerBedDrafted.reportString>TODO</CarryToPrisonerBedDrafted.reportString>
+  <CarryToPrisonerBedDrafted.reportString>pidättää TargetA.</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>Siivoaa TargetA.</Clean.reportString>
@@ -32,7 +32,7 @@
   <CutPlant.reportString>Leikkaa kasvin TargetA.</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>TODO</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>leikkaa kasvin TargetA.</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>Purkaa kohteen TargetA.</Deconstruct.reportString>
@@ -47,7 +47,7 @@
   <EscortPrisonerToBed.reportString>Saattaa vankia TargetA.</EscortPrisonerToBed.reportString>
   
   <!-- EN: extracting TargetA. -->
-  <ExtractTree.reportString>TODO</ExtractTree.reportString>
+  <ExtractTree.reportString>kerää puun TargetA.</ExtractTree.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>Ruokkii ruuan TargetA henkilölle TargetB.</FeedPatient.reportString>
@@ -59,13 +59,13 @@
   <FixBrokenDownBuilding.reportString>Vaihtaa rikkinäisiä komponentteja kohteessa TargetA.</FixBrokenDownBuilding.reportString>
   
   <!-- EN: executing TargetA. -->
-  <GuiltyColonistExecution.reportString>TODO</GuiltyColonistExecution.reportString>
+  <GuiltyColonistExecution.reportString>teloittaa TargetA.</GuiltyColonistExecution.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>Kerää kasvin TargetA.</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <HarvestDesignated.reportString>TODO</HarvestDesignated.reportString>
+  <HarvestDesignated.reportString>kerää kasvin TargetA.</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToCell.reportString>Siirtää esineen TargetA maahan.</HaulToCell.reportString>
@@ -86,10 +86,10 @@
   <Mine.reportString>Louhii kohteen TargetA.</Mine.reportString>
   
   <!-- EN: drilling at TargetA. -->
-  <OperateDeepDrill.reportString>drilling at TargetA.</OperateDeepDrill.reportString>
+  <OperateDeepDrill.reportString>poraa paikassa TargetA.</OperateDeepDrill.reportString>
   
   <!-- EN: scanning at TargetA. -->
-  <OperateScanner.reportString>TODO</OperateScanner.reportString>
+  <OperateScanner.reportString>skannaa paikassa TargetA.</OperateScanner.reportString>
   
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>Rakentaa kohteen TargetA.</PlaceNoCostFrame.reportString>
@@ -101,7 +101,7 @@
   <PrisonerExecution.reportString>Teloittaa vangin TargetA.</PrisonerExecution.reportString>
   
   <!-- EN: releasing TargetA into the wild. -->
-  <ReleaseAnimalToWild.reportString>TODO</ReleaseAnimalToWild.reportString>
+  <ReleaseAnimalToWild.reportString>päästämässä TargetA luontoon.</ReleaseAnimalToWild.reportString>
   
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>Vapauttaa vankia TargetA.</ReleasePrisoner.reportString>
@@ -110,13 +110,13 @@
   <RemoveFloor.reportString>Poistaa lattiaa.</RemoveFloor.reportString>
   
   <!-- EN: removing roof. -->
-  <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
+  <RemoveRoof.reportString>poistaa kattoa.</RemoveRoof.reportString>
   
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>Korjaa kohteen TargetA.</Repair.reportString>
   
   <!-- EN: replanting TargetA. -->
-  <Replant.reportString>TODO</Replant.reportString>
+  <Replant.reportString>istuttaa TargetA.</Replant.reportString>
   
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>Pelastaa henkilön TargetA.</Rescue.reportString>
@@ -125,13 +125,13 @@
   <Research.reportString>Tutkii.</Research.reportString>
   
   <!-- EN: leading TargetA to hitching spot. -->
-  <RopeRoamerToHitchingPost.reportString>TODO</RopeRoamerToHitchingPost.reportString>
+  <RopeRoamerToHitchingPost.reportString>johtaa TargetA kiinnitus paikalle.</RopeRoamerToHitchingPost.reportString>
   
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeRoamerToUnenclosedPen.reportString>TODO</RopeRoamerToUnenclosedPen.reportString>
+  <RopeRoamerToUnenclosedPen.reportString>johtaa TargetA paikkaan TargetC.</RopeRoamerToUnenclosedPen.reportString>
   
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeToPen.reportString>TODO</RopeToPen.reportString>
+  <RopeToPen.reportString>johtaa TargetA paikkaan TargetC.</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>Keritsee kohteen TargetA.</Shear.reportString>
@@ -143,19 +143,19 @@
   <SmoothFloor.reportString>Hioo lattiaa.</SmoothFloor.reportString>
   
   <!-- EN: smoothing wall. -->
-  <SmoothWall.reportString>TODO</SmoothWall.reportString>
+  <SmoothWall.reportString>hioo seinää.</SmoothWall.reportString>
   
   <!-- EN: sowing TargetA. -->
   <Sow.reportString>Kylvää kohteen TargetA.</Sow.reportString>
   
   <!-- EN: stealing TargetA. -->
-  <Steal.reportString>stealing TargetA.</Steal.reportString>
+  <Steal.reportString>varastaa TargetA.</Steal.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyThing.reportString>TODO</StudyThing.reportString>
+  <StudyThing.reportString>opiskelee TargetA.</StudyThing.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeDownedPawnToBedDrafted.reportString>TODO</TakeDownedPawnToBedDrafted.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>Vie henkilöä TargetA sänkyyn.</TakeDownedPawnToBedDrafted.reportString>
   
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>Vie henkilöä TargetA sänkyyn.</TakeToBedToOperate.reportString>
@@ -176,7 +176,7 @@
   <Uninstall.reportString>Poistaa kohdetta TargetA.</Uninstall.reportString>
   
   <!-- EN: unroping TargetA. -->
-  <Unrope.reportString>TODO</Unrope.reportString>
+  <Unrope.reportString>irroittaa TargetA.</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>Käyttää kommunikaatiopäätettä.</UseCommsConsole.reportString>

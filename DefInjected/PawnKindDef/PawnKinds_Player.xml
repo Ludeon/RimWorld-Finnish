@@ -3,10 +3,10 @@
   
   <!-- EN: colonist -->
   <Colonist.label>yhdyskuntalainen</Colonist.label>
-  <Colonist.labelPlural>colonists</Colonist.labelPlural>
+  <Colonist.labelPlural>yhdyskuntalaiset</Colonist.labelPlural>
   
   <!-- EN: member -->
-  <Tribesperson.label>member</Tribesperson.label>
-  <Tribesperson.labelPlural>members</Tribesperson.labelPlural>
+  <Tribesperson.label>jäsen</Tribesperson.label>
+  <Tribesperson.labelPlural>jäsenet</Tribesperson.labelPlural>
   
 </LanguageData>

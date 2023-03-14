@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>archotekninen käsi</ArchotechArm.label>
+  <ArchotechArm.label>arkotekninen käsi</ArchotechArm.label>
   <!-- EN: An installed archotech arm. -->
-  <ArchotechArm.description>Asennettu archotekninen käsi.</ArchotechArm.description>
+  <ArchotechArm.description>Asennettu arkotekninen käsi.</ArchotechArm.description>
   <!-- EN: fist -->
   <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>nyrkki</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>archotekninen käsi</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>arkotekninen käsi</ArchotechArm.labelNoun>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>archotekninen silmä</ArchotechEye.label>
+  <ArchotechEye.label>arkotekninen silmä</ArchotechEye.label>
   <!-- EN: An installed archotech eye. -->
-  <ArchotechEye.description>Asennettu archotekninen silmä.</ArchotechEye.description>
+  <ArchotechEye.description>Asennettu arkotekninen silmä.</ArchotechEye.description>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>archotekninen silmä</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>arkotekninen silmä</ArchotechEye.labelNoun>
   
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>archotekninen jalka</ArchotechLeg.label>
+  <ArchotechLeg.label>arkotekninen jalka</ArchotechLeg.label>
   <!-- EN: An installed archotech leg. -->
-  <ArchotechLeg.description>Asennettu archotekninen jalka.</ArchotechLeg.description>
+  <ArchotechLeg.description>Asennettu arkotekninen jalka.</ArchotechLeg.description>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>archotekninen jalka</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>arkotekninen jalka</ArchotechLeg.labelNoun>
   
 </LanguageData>

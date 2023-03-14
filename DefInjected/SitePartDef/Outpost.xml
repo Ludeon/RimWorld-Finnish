@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: outpost -->
-  <Outpost.label>outpost</Outpost.label>
+  <Outpost.label>etuvartio</Outpost.label>
   <!-- EN: A small, guarded outpost. -->
-  <Outpost.description>A small, guarded outpost.</Outpost.description>
+  <Outpost.description>Pieni vartioitu vartio.</Outpost.description>
   <!-- EN: Attacking {0} -->
-  <Outpost.approachingReportString>TODO</Outpost.approachingReportString>
+  <Outpost.approachingReportString>Hyökätään {0}</Outpost.approachingReportString>
   <!-- EN: Attack {0} -->
-  <Outpost.approachOrderString>TODO</Outpost.approachOrderString>
+  <Outpost.approachOrderString>Hyökkää {0}</Outpost.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <Outpost.arrivedLetter>TODO</Outpost.arrivedLetter>
+  <Outpost.arrivedLetter>Tällä alueella on vihollisen etuvartio.</Outpost.arrivedLetter>
   
 </LanguageData>

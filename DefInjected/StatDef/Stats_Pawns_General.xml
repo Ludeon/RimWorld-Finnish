@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: animals learning factor -->
-  <AnimalsLearningFactor.label>TODO</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.label>eläimien oppimis tekijä</AnimalsLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for animals skill. -->
-  <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
+  <AnimalsLearningFactor.description>Kerroin eläinten taitojen oppimisnopeudesta.</AnimalsLearningFactor.description>
   
   <!-- EN: caravan riding speed -->
-  <CaravanRidingSpeedFactor.label>TODO</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.label>karavaanin ratsastus nopeus</CaravanRidingSpeedFactor.label>
   <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
-  <CaravanRidingSpeedFactor.description>TODO</CaravanRidingSpeedFactor.description>
+  <CaravanRidingSpeedFactor.description>Kerrointa käytetään henkilön liikkumisnopeuteen, kun he ratsastavat tällä eläimellä osana karavaania. Eläimillä voi ratsastaa vain karavaaneissa.</CaravanRidingSpeedFactor.description>
   
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>kantokyky</CarryingCapacity.label>
@@ -57,9 +57,9 @@
   <ImmunityGainSpeed.description>Nopeus jolla tämä henkilö saa vastustuskyvyn sairauksille. Jos tämä on liian hidas hän kuolee sairauteen ennen kuin kehittää vastustuskyvyn sille.</ImmunityGainSpeed.description>
   
   <!-- EN: injury healing factor -->
-  <InjuryHealingFactor.label>TODO</InjuryHealingFactor.label>
+  <InjuryHealingFactor.label>vammojen paranemistekijä</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
-  <InjuryHealingFactor.description>TODO</InjuryHealingFactor.description>
+  <InjuryHealingFactor.description>Kerroin, jota käytetään henkilön vammojen paranemisnopeuteen.</InjuryHealingFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>nahan määrä</LeatherAmount.label>
@@ -99,13 +99,13 @@
   <PsychicSensitivity.description>Kerroin psyykkisten ilmiöiden vaikutukselle.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
-  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <RestRateMultiplier.label>levon nopeus kerroin</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
-  <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
+  <RestRateMultiplier.description>Kerroin kuinka nopeasti olento lepää nukkuessaan.</RestRateMultiplier.description>
   
   <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+  <ToxicSensitivity.label>myrkky herkkyys</ToxicSensitivity.label>
   <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
-  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+  <ToxicSensitivity.description>Kerroin myrkyn muodostumisen vaikutuksesta tähän olentoon..</ToxicSensitivity.description>
   
 </LanguageData>

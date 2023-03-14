@@ -29,19 +29,19 @@
   <BodyParts.label>ruumiinosat</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>arkotekki</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bioninen</BodyPartsBionic.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>natural</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>proteesi</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>yksinkertaiset osat</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
   <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
@@ -71,7 +71,7 @@
   <BuildingsSecurity.label>turvallisuus</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  <BuildingsSpecial.label>erikoinen</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
   <BuildingsTemperature.label>lämpötila</BuildingsTemperature.label>

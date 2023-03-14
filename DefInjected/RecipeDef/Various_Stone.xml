@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: make granite blocks -->
-  <Make_StoneBlocksGranite.label>make granite blocks</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.label>valmista graniitti lohkoja</Make_StoneBlocksGranite.label>
   <!-- EN: Cuts granite chunks into usable blocks. -->
-  <Make_StoneBlocksGranite.description>Cuts granite chunks into usable blocks.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.description>Leikkaa graniittipaloja käyttökelpoisiksi paloiksi.</Make_StoneBlocksGranite.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksGranite.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksGranite.jobString>
+  <Make_StoneBlocksGranite.jobString>Kivipalojen leikkaaminen palasta.</Make_StoneBlocksGranite.jobString>
   
   <!-- EN: make limestone blocks -->
-  <Make_StoneBlocksLimestone.label>make limestone blocks</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.label>valmista kalkkikivi lohkoja</Make_StoneBlocksLimestone.label>
   <!-- EN: Cuts limestone chunks into usable blocks. -->
-  <Make_StoneBlocksLimestone.description>Cuts limestone chunks into usable blocks.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.description>Leikkaa kalkkikiven palaset käyttökelpoisiksi paloiksi.</Make_StoneBlocksLimestone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksLimestone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksLimestone.jobString>
+  <Make_StoneBlocksLimestone.jobString>Kivipalojen leikkaaminen palasta.</Make_StoneBlocksLimestone.jobString>
   
   <!-- EN: make marble blocks -->
-  <Make_StoneBlocksMarble.label>make marble blocks</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.label>valmista marmori lohkoja</Make_StoneBlocksMarble.label>
   <!-- EN: Cuts marble chunks into usable blocks. -->
-  <Make_StoneBlocksMarble.description>Cuts marble chunks into usable blocks.</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.description>Leikkaa marmoripaloja käyttökelpoisiksi paloiksi.</Make_StoneBlocksMarble.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksMarble.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksMarble.jobString>
+  <Make_StoneBlocksMarble.jobString>Kivipalojen leikkaaminen palasta.</Make_StoneBlocksMarble.jobString>
   
   <!-- EN: make sandstone blocks -->
-  <Make_StoneBlocksSandstone.label>make sandstone blocks</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.label>valmista hiekkakivi lohkoja</Make_StoneBlocksSandstone.label>
   <!-- EN: Cuts sandstone chunks into usable blocks. -->
-  <Make_StoneBlocksSandstone.description>Cuts sandstone chunks into usable blocks.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.description>Leikkaa hiekkakiven palaset käyttökelpoisiksi paloiksi.</Make_StoneBlocksSandstone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksSandstone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSandstone.jobString>
+  <Make_StoneBlocksSandstone.jobString>Kivipalojen leikkaaminen palasta.</Make_StoneBlocksSandstone.jobString>
   
   <!-- EN: make slate blocks -->
-  <Make_StoneBlocksSlate.label>make slate blocks</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.label>valmista liuskekivi lohkoja</Make_StoneBlocksSlate.label>
   <!-- EN: Cuts slate chunks into usable blocks. -->
-  <Make_StoneBlocksSlate.description>Cuts slate chunks into usable blocks.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.description>Leikkaa liuskekivipalat käyttökelpoisiksi lohkoiksi.</Make_StoneBlocksSlate.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksSlate.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSlate.jobString>
+  <Make_StoneBlocksSlate.jobString>Kivipalojen leikkaaminen palasta.</Make_StoneBlocksSlate.jobString>
   
 </LanguageData>

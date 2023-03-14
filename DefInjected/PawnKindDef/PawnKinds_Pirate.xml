@@ -3,18 +3,18 @@
   
   <!-- EN: drifter -->
   <Drifter.label>kulkuri</Drifter.label>
-  <Drifter.labelPlural>drifters</Drifter.labelPlural>
+  <Drifter.labelPlural>kulkurit</Drifter.labelPlural>
   
   <!-- EN: pirate gunner -->
   <Pirate.label>rosvo</Pirate.label>
-  <Pirate.labelPlural>pirates</Pirate.labelPlural>
+  <Pirate.labelPlural>rosvot</Pirate.labelPlural>
   
   <!-- EN: scavenger gunner -->
   <Scavenger.label>kerääjä</Scavenger.label>
-  <Scavenger.labelPlural>scavengers</Scavenger.labelPlural>
+  <Scavenger.labelPlural>kerääjät</Scavenger.labelPlural>
   
   <!-- EN: scavenger thrasher -->
   <Thrasher.label>sotkija</Thrasher.label>
-  <Thrasher.labelPlural>thrashers</Thrasher.labelPlural>
+  <Thrasher.labelPlural>sotkijat</Thrasher.labelPlural>
   
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: go frenzy -->
-  <Frenzy_Go.label>menee kiihkeäksi</Frenzy_Go.label>
+  <Frenzy_Go.label>kiihkeä</Frenzy_Go.label>
   <!-- EN: Inspired: Go frenzy -->
-  <Frenzy_Go.baseInspectLine>Inspiroitunut: Menee kiihkeäksi</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.baseInspectLine>Inspiroitunut: Kiihkeä</Frenzy_Go.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
   <Frenzy_Go.beginLetter>[PAWN_pronoun] liikkuu nopeammin seuraavat 8 päivää.</Frenzy_Go.beginLetter>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
-  <Frenzy_Go.endMessage>{0} ei ole enään inspiroitunut (menee kiihkeäksi).</Frenzy_Go.endMessage>
+  <Frenzy_Go.endMessage>{0} ei ole enään inspiroitunut (kiihkeä).</Frenzy_Go.endMessage>
   
   <!-- EN: shoot frenzy -->
   <Frenzy_Shoot.label>ampumisvimma</Frenzy_Shoot.label>

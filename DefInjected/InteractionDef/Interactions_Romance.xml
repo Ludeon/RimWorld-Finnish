@@ -10,7 +10,10 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] pyysi henkilöltä [RECIPIENT_nameDef] taukoa.</li>
     <li>r_logentry->[INITIATOR_nameDef] pyysi henkilöltä [RECIPIENT_nameDef] hieman tilaa.</li>
+    <li>r_logentry->[INITIATOR_nameDef] kertoi henkilölle [RECIPIENT_nameDef] ettei tämä toimi.</li>
+    <li>r_logentry->[INITIATOR_nameDef] kertoi henkilölle [RECIPIENT_nameDef], että olisi parempi nähdä muita ihmisiä.</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
@@ -22,6 +25,8 @@
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] ehdotti avioliittoa henkilön [RECIPIENT_nameDef] kanssa.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ehdotti elämänmittaista suhdetta henkilön [RECIPIENT_nameDef] kanssa.</li>
+    <li>r_logentry->[INITIATOR_nameDef] kertoi henkilölle [RECIPIENT_nameDef], että [INITIATOR_pronoun] haluaa viettää koko elämänsä [INITIATOR_possessive] kanssaan.</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
@@ -91,9 +96,31 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [wooed] henkilön [RECIPIENT_nameDef] [wootactic].</li>
     <li>wooed->yritti hurmata</li>
+    <li>wooed->yritti flirttailla</li>
+    <li>wooed->flirttaili</li>
     <li>wootactic->kuvailemalla [RECIPIENT_objective] [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->kertomalla vitsin asiasta [TalkTopicAny]</li>
+    <li>wootactic->kertomalla tarinan asiasta [TalkTopicAny]</li>
+    <li>wootactic->kertomalla lorun asiasta [TalkTopicAny]</li>
     <li>romantic_adj->kauniiksi</li>
+    <li>romantic_adj->kirkkaaksi</li>
+    <li>romantic_adj->hohtavaksi</li>
+    <li>romantic_adj->taivaalliseksi</li>
+    <li>romantic_adj->kultaiseksi</li>
+    <li>romantic_adj->henkeäsalpaavaksi</li>
+    <li>romantic_adj->hurmaavaksi</li>
+    <li>romantic_adj->siveäksi</li>
+    <li>romantic_adj->hienoksi</li>
+    <li>romantic_adj->rakkaaksi</li>
     <li>romantic_noun->kukkaseksi</li>
+    <li>romantic_noun->kevääksi</li>
+    <li>romantic_noun->joeksi</li>
+    <li>romantic_noun->tähdeksi</li>
+    <li>romantic_noun->kuuksi</li>
+    <li>romantic_noun->auringoksi</li>
+    <li>romantic_noun->taloksi</li>
+    <li>romantic_noun->revontuleksi</li>
+    <li>romantic_noun->[TreeType]</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

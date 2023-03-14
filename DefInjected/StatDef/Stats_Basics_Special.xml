@@ -4,14 +4,14 @@
   <!-- EN: construction speed -->
   <ConstructionSpeedFactor.label>rakentamis nopeus</ConstructionSpeedFactor.label>
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
-  <ConstructionSpeedFactor.description>TODO</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.description>Tätä rakennettavan rakennusten nopeus kerrotaan tällä arvolla.\n\nJotkut materiaalit, kuten kivi, ovat hitaasti rakennettavia, kun taas toiset, kuten puu, ovat nopeita.</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
-  <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
+  <ConstructionSpeedFactor.labelForFullStatList>rakentamis nopeus (materiaali tekijä)</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: filth multiplier -->
   <FilthMultiplier.label>saasta kerroin</FilthMultiplier.label>
   <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. -->
-  <FilthMultiplier.description>TODO</FilthMultiplier.description>
+  <FilthMultiplier.description>Kuinka herkkä tämä pinta on saastalle. Jos tämä on alle 100%, osa täällä olevasta saastasta katoaa kosketuksessa.</FilthMultiplier.description>
   
   <!-- EN: medical potency -->
   <MedicalPotency.label>lääkkeen voimakkuus</MedicalPotency.label>
@@ -19,9 +19,9 @@
   <MedicalPotency.description>Miten tehokas esine on käytettäessä vammojen ja sairauksien parantamiseen.</MedicalPotency.description>
   
   <!-- EN: medical tend quality maximum -->
-  <MedicalQualityMax.label>TODO</MedicalQualityMax.label>
+  <MedicalQualityMax.label>hoidon maksimi laatu</MedicalQualityMax.label>
   <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
-  <MedicalQualityMax.description>TODO</MedicalQualityMax.description>
+  <MedicalQualityMax.description>Maksimi hoidon laatu, minkä voit saavuttaa tätä käyttäessä.\n\nParempi laatu antaa ammattitaitoisille lääkäreille mahdollisuuden hoitaa haavoja paremmin ja luotettavammin.</MedicalQualityMax.description>
   
   <!-- EN: meditation psyfocus bonus -->
   <MeditationFocusStrength.label>TODO</MeditationFocusStrength.label>

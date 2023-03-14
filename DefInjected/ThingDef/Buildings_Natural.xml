@@ -12,9 +12,9 @@
   <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
   
   <!-- EN: hive -->
-  <Hive.label>hive</Hive.label>
+  <Hive.label>pesä</Hive.label>
   <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
-  <Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
+  <Hive.description>Suurten hyönteisten pesä. Jos se aktivoituu, se synnyttää ajan myötä lisää hyönteisiä ja pesiä, sekä arvokasta hyönteishyytelöä.</Hive.description>
   
   <!-- EN: compacted machinery -->
   <MineableComponentsIndustrial.label>compacted machinery</MineableComponentsIndustrial.label>
@@ -29,7 +29,7 @@
   <!-- EN: jade -->
   <MineableJade.label>jade</MineableJade.label>
   <!-- EN: Rock containing bits of jade. -->
-  <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
+  <MineableJade.description>Kivi, joka sisältää jaden palasia.</MineableJade.description>
   
   <!-- EN: compacted plasteel -->
   <MineablePlasteel.label>pakkautunutta muoviterästä</MineablePlasteel.label>

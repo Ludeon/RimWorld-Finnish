@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: destroy apparel -->
-  <DestroyApparel.label>TODO</DestroyApparel.label>
+  <DestroyApparel.label>tuhoa vaate</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>TODO</DestroyApparel.description>
+  <DestroyApparel.description>Käytä lämpöä ei-toivottujen vaatteiden tuhoamiseen. Tämä prosessi on nopeampi kuin sulatus ja toimii sulamattomissa esineissä, mutta ei tuota resursseja.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
-  <DestroyApparel.jobString>TODO</DestroyApparel.jobString>
+  <DestroyApparel.jobString>Tuhotaan vaate.</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
-  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
+  <DestroyWeapon.label>tuhoa ase</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
+  <DestroyWeapon.description>Käytä lämpöä ei-toivottujen aseiden tuhoamiseen. Tämä prosessi on nopeampi kuin sulatus ja toimii sulamattomissa esineissä, mutta ei tuota resursseja.</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
-  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+  <DestroyWeapon.jobString>Tuhotaan ase.</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
   <ExtractMetalFromSlag.label>sulata metallia kuonasta</ExtractMetalFromSlag.label>
@@ -23,39 +23,39 @@
   <ExtractMetalFromSlag.jobString>Sulattaa metallia kuonasta.</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
-  <Make_ChemfuelFromOrganics.label>make chemfuel from organics</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.label>valmista kemiallista polttoainetta orgaanisista aineista</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
-  <Make_ChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.description>Valmista erä kemiallista polttoainetta uuttamalla biopolttoainetta orgaanisista raaka-aineista.</Make_ChemfuelFromOrganics.description>
   <!-- EN: Refining chemfuel from organics. -->
-  <Make_ChemfuelFromOrganics.jobString>Refining chemfuel from organics.</Make_ChemfuelFromOrganics.jobString>
+  <Make_ChemfuelFromOrganics.jobString>Jalostetaan kemiallista polttoainetta orgaanisista raaka-aineista.</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>make chemfuel from wood</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>valmista kemiallista polttoainetta puusta</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>Make a batch of chemfuel by gasifying wood logs.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>Valmista erä kemiallista polttoainetta ottamalla ja kondensoimalla puukaasua tukista.</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
-  <Make_ChemfuelFromWood.jobString>Refining chemfuel from wood.</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromWood.jobString>Jalostetaan kemiallista polttoainetta puusta.</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>make component</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>valmista komponentti</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>Make a component.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>Valmistaa komponentin.</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>Making component.</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>Valmistaa komponenttia.</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>TODO</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>valmista edistynyt komponentti</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>Valmistaa edistyneen komponentin.</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>TODO</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>Valmistaa edistynyttä komponenttia.</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <Make_Patchleather.label>valmista tilkkunahkaa</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <Make_Patchleather.description>Yhdistele erilaisia nahkatyyppejä luomaan heikkoa tilkkunahkaa.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>Valmistaa tilkkunahkaa.</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>valmista kiviharkkoja</Make_StoneBlocksAny.label>
@@ -65,11 +65,11 @@
   <Make_StoneBlocksAny.jobString>Leikkaa kiviharkkoja järkäleestä.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <SmeltApparel.label>sulata vaate</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <SmeltApparel.description>Käytä lämpöä ja vahvoja sähkömagneetteja hajottaaksesi metalliset vaatteet, kuten panssarit hyödyllisiksi resurssiksi.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  <SmeltApparel.jobString>Sulattaa metallia vaatteista.</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>sulata metallia aseesta</SmeltWeapon.label>

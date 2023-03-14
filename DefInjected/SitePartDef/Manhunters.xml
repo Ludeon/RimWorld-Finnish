@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: manhunter pack -->
-  <Manhunters.label>manhunter pack</Manhunters.label>
+  <Manhunters.label>ihmisjahtaaja lauma</Manhunters.label>
   <!-- EN: A pack of manhunting animals. -->
-  <Manhunters.description>A pack of manhunting animals.</Manhunters.description>
+  <Manhunters.description>Ihmisjahtaavien eläinten lauma.</Manhunters.description>
   <!-- EN: There are scaria-infected manhunting animals in this area. -->
-  <Manhunters.arrivedLetter>TODO</Manhunters.arrivedLetter>
+  <Manhunters.arrivedLetter>Tällä alueella on scariaa sairastavia ihmisiä jahtaavia eläimiä.</Manhunters.arrivedLetter>
   
 </LanguageData>

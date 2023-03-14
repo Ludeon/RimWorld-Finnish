@@ -9,18 +9,18 @@
   <BurnApparel.jobString>Polttaa vaatetta.</BurnApparel.jobString>
   
   <!-- EN: burn drugs -->
-  <BurnDrugs.label>TODO</BurnDrugs.label>
+  <BurnDrugs.label>polta päihteet</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>TODO</BurnDrugs.description>
+  <BurnDrugs.description>Polta päihteet hävittääksesi ne kokonaan.</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
-  <BurnDrugs.jobString>TODO</BurnDrugs.jobString>
+  <BurnDrugs.jobString>Poltetaan päihteitä.</BurnDrugs.jobString>
   
   <!-- EN: burn weapon -->
-  <BurnWeapon.label>TODO</BurnWeapon.label>
+  <BurnWeapon.label>polta ase</BurnWeapon.label>
   <!-- EN: Burn unwanted weapon to completely destroy it. -->
-  <BurnWeapon.description>TODO</BurnWeapon.description>
+  <BurnWeapon.description>Polta ase hävittääksesi sen kokonaan.</BurnWeapon.description>
   <!-- EN: Burning weapon. -->
-  <BurnWeapon.jobString>TODO</BurnWeapon.jobString>
+  <BurnWeapon.jobString>Polttaa asetta.</BurnWeapon.jobString>
   
   <!-- EN: cremate corpse -->
   <CremateCorpse.label>polta ruumis</CremateCorpse.label>

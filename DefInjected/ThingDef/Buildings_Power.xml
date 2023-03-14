@@ -7,9 +7,9 @@
   <Battery.description>Varastoi sähköenergiaa kun tehoa on ylimäärin ja tuottaa sitä tarpeen mukaan. Varoitus - varautuneilla akuilla on tapana räjähtää lämmitettäessä tai kastellessa.</Battery.description>
   
   <!-- EN: chemfuel powered generator -->
-  <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.label>biopolttoaine generaattori</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
-  <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.description>Tuottaa energiaa käyttäen biopolttoainetta. Polttoainetta on lisättävä säännöllisesti käsin.</ChemfuelPoweredGenerator.description>
   
   <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>maalämpögeneraattori</GeothermalGenerator.label>
@@ -32,14 +32,14 @@
   <SolarGenerator.description>Tuottaa sähköä auringon valosta. Ei toimi pimeässä.</SolarGenerator.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <WatermillGenerator.label>vesimylly generaattori</WatermillGenerator.label>
   <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
   <WatermillGenerator.description>TODO</WatermillGenerator.description>
   
   <!-- EN: waterproof conduit -->
-  <WaterproofConduit.label>TODO</WaterproofConduit.label>
+  <WaterproofConduit.label>vedenkestävä sähkökaapeli</WaterproofConduit.label>
   <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
-  <WaterproofConduit.description>TODO</WaterproofConduit.description>
+  <WaterproofConduit.description>Eristetyt sähkökaapelit sähkön siirtämiseen veden alla.</WaterproofConduit.description>
   
   <!-- EN: wind turbine -->
   <WindTurbine.label>tuuliturbiini</WindTurbine.label>
@@ -47,8 +47,8 @@
   <WindTurbine.description>Tuulivoimalla toimiva sähkögeneraattori. Tarvitsee laajan tyhjän alueen eteen ja taakse optimaalisen ilmavirtauksen mahdollistamiseksi.</WindTurbine.description>
   
   <!-- EN: wood-fired generator -->
-  <WoodFiredGenerator.label>fueled generator</WoodFiredGenerator.label>
+  <WoodFiredGenerator.label>puu generaattori</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <WoodFiredGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</WoodFiredGenerator.description>
+  <WoodFiredGenerator.description>Tuottaa energiaa käyttämällä puita. Puuta on lisättävä säännöllisesti käsin.</WoodFiredGenerator.description>
   
 </LanguageData>

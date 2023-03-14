@@ -22,9 +22,9 @@
   <Plant_Haygrass.description>Sekoitus ravinnerikkaita ruohoja jotka tuottavat suuret määrät heinää. Heinä on syömäkelpoista eläimille mutta ei ihmisille.</Plant_Haygrass.description>
   
   <!-- EN: healroot -->
-  <Plant_Healroot.label>healroot</Plant_Healroot.label>
+  <Plant_Healroot.label>terveysjuuri</Plant_Healroot.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues. -->
-  <Plant_Healroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</Plant_Healroot.description>
+  <Plant_Healroot.description>TODO</Plant_Healroot.description>
   
   <!-- EN: hop plant -->
   <Plant_Hops.label>humalakasvi</Plant_Hops.label>
@@ -37,9 +37,9 @@
   <Plant_Potato.description>Yksinkertainen erittäin ravitseva mukulakasvi. Kasvaa hyvin suhteellisen köyhässä maaperässä.</Plant_Potato.description>
   
   <!-- EN: psychoid plant -->
-  <Plant_Psychoid.label>psychoid plant</Plant_Psychoid.label>
+  <Plant_Psychoid.label>psykoidi kasvi</Plant_Psychoid.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
-  <Plant_Psychoid.description>A leafy plant. Its leaves can be refined into various forms of the psychoid drug.</Plant_Psychoid.description>
+  <Plant_Psychoid.description>TODO</Plant_Psychoid.description>
   
   <!-- EN: rice plant -->
   <Plant_Rice.label>riisikasvi</Plant_Rice.label>
@@ -47,9 +47,9 @@
   <Plant_Rice.description>Lyhyt heinäkasvi joka kukoistaa hedelmäällisessä maassa ja tuottaa ruokaa nopeasti mutta ei ole hyvää raakana.</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
-  <Plant_Smokeleaf.label>smokeleaf plant</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.label>savulehti kasvi</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>A leafy plant cultivated for its psychological effects. Smokeleaf leaves can be prepared into joints at the crafting spot.</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>TODO</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>mansikkakasvi</Plant_Strawberry.label>
@@ -57,7 +57,7 @@
   <Plant_Strawberry.description>Hauras mutta maukas hedelmä. Herkullienn jopa raakana.</Plant_Strawberry.description>
   
   <!-- EN: cocoa tree -->
-  <Plant_TreeCocoa.label>TODO</Plant_TreeCocoa.label>
+  <Plant_TreeCocoa.label>kaakao puu</Plant_TreeCocoa.label>
   <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
   <Plant_TreeCocoa.description>TODO</Plant_TreeCocoa.description>
   

@@ -17,12 +17,12 @@
   <FlatscreenTelevision.description>A high-tech flat-screen television with crystal-clear image and rich color. More entertaining than a grainy tube TV.</FlatscreenTelevision.description>
   
   <!-- EN: Game-of-Ur board -->
-  <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
+  <GameOfUrBoard.label>Ur-peli lauta</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
   <GameOfUrBoard.description>TODO</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
-  <HoopstoneRing.label>TODO</HoopstoneRing.label>
+  <HoopstoneRing.label>heittorengas</HoopstoneRing.label>
   <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
   <HoopstoneRing.description>TODO</HoopstoneRing.description>
   
@@ -37,7 +37,7 @@
   <MegascreenTelevision.description>A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining.</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
-  <PokerTable.label>TODO</PokerTable.label>
+  <PokerTable.label>pokeri pöytä</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
   <PokerTable.description>TODO</PokerTable.description>
   

@@ -14,7 +14,7 @@
   <Gluttonous.label>ahnas</Gluttonous.label>
   
   <!-- EN: music -->
-  <HighCulture.label>TODO</HighCulture.label>
+  <HighCulture.label>musiikki</HighCulture.label>
   
   <!-- EN: solitary relaxation -->
   <Meditative.label>mieteskelevä</Meditative.label>
@@ -23,9 +23,9 @@
   <Social.label>sosiaalinen</Social.label>
   
   <!-- EN: telescope study -->
-  <Telescope.label>TODO</Telescope.label>
+  <Telescope.label>teleskooppitutkimus</Telescope.label>
   
   <!-- EN: television watching -->
-  <Television.label>TODO</Television.label>
+  <Television.label>television katseleminen</Television.label>
   
 </LanguageData>

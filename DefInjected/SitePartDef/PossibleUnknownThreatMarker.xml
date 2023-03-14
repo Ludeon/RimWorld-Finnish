@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: possible unknown threat -->
-  <PossibleUnknownThreatMarker.label>TODO</PossibleUnknownThreatMarker.label>
+  <PossibleUnknownThreatMarker.label>mahdollinen tuntematon uhka</PossibleUnknownThreatMarker.label>
   <!-- EN: A possible, unknown threat. -->
-  <PossibleUnknownThreatMarker.description>TODO</PossibleUnknownThreatMarker.description>
+  <PossibleUnknownThreatMarker.description>Mahdollinen tuntematon uhka.</PossibleUnknownThreatMarker.description>
   
 </LanguageData>

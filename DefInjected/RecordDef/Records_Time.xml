@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: time as a colonist -->
-  <TimeAsColonistOrColonyAnimal.label>time as a colonist</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsColonistOrColonyAnimal.label>aika yhdyskuntalaisena</TimeAsColonistOrColonyAnimal.label>
   <!-- EN: Total time spent loyal to your community. -->
-  <TimeAsColonistOrColonyAnimal.description>Total time spent as a colonist.</TimeAsColonistOrColonyAnimal.description>
+  <TimeAsColonistOrColonyAnimal.description>Aikaa vietetty yhdyskuntalaisena.</TimeAsColonistOrColonyAnimal.description>
   
   <!-- EN: time as a prisoner -->
-  <TimeAsPrisoner.label>time as a prisoner</TimeAsPrisoner.label>
+  <TimeAsPrisoner.label>aika vankina</TimeAsPrisoner.label>
   <!-- EN: Total time spent as a prisoner. -->
-  <TimeAsPrisoner.description>Total time spent as a prisoner.</TimeAsPrisoner.description>
+  <TimeAsPrisoner.description>Aikaa vietetty vankina.</TimeAsPrisoner.description>
   
   <!-- EN: time hosted -->
   <TimeAsQuestLodger.label>TODO</TimeAsQuestLodger.label>
@@ -17,108 +17,108 @@
   <TimeAsQuestLodger.description>TODO</TimeAsQuestLodger.description>
   
   <!-- EN: time cleaning -->
-  <TimeCleaning.label>time cleaning</TimeCleaning.label>
+  <TimeCleaning.label>aika siivoamassa</TimeCleaning.label>
   <!-- EN: Total time spent cleaning. -->
-  <TimeCleaning.description>Total time spent cleaning.</TimeCleaning.description>
+  <TimeCleaning.description>Aikaa vietetty siivoamassa.</TimeCleaning.description>
   
   <!-- EN: time constructing -->
-  <TimeConstructing.label>time constructing</TimeConstructing.label>
+  <TimeConstructing.label>aika rakentamassa</TimeConstructing.label>
   <!-- EN: Total time spent constructing and deconstructing buildings. -->
-  <TimeConstructing.description>Total time spent constructing and deconstructing.</TimeConstructing.description>
+  <TimeConstructing.description>Aikaa vietetty rakentamassa.</TimeConstructing.description>
   
   <!-- EN: time downed -->
-  <TimeDowned.label>time downed</TimeDowned.label>
+  <TimeDowned.label>aika kaatuneena</TimeDowned.label>
   <!-- EN: Total time spent downed. -->
-  <TimeDowned.description>Total time spent downed.</TimeDowned.description>
+  <TimeDowned.description>Aikaa vietetty kaatuneena.</TimeDowned.description>
   
   <!-- EN: time drafted -->
-  <TimeDrafted.label>time drafted</TimeDrafted.label>
+  <TimeDrafted.label>aika värvättynä</TimeDrafted.label>
   <!-- EN: Total time spent drafted. -->
-  <TimeDrafted.description>Total time spent drafted.</TimeDrafted.description>
+  <TimeDrafted.description>Aikaa vietetty värvättynä.</TimeDrafted.description>
   
   <!-- EN: time firefighting -->
-  <TimeFirefighting.label>time firefighting</TimeFirefighting.label>
+  <TimeFirefighting.label>aika paloa sammuttamassa</TimeFirefighting.label>
   <!-- EN: Total time spent firefighting. -->
-  <TimeFirefighting.description>Total time spent firefighting.</TimeFirefighting.description>
+  <TimeFirefighting.description>Aikaa vietetty sammuttamassa tulta.</TimeFirefighting.description>
   
   <!-- EN: time finding food and eating -->
-  <TimeGettingFood.label>time finding food and eating</TimeGettingFood.label>
+  <TimeGettingFood.label>aika ruoan etsinnässä ja syömisessä</TimeGettingFood.label>
   <!-- EN: Total time spent on finding food and eating. -->
-  <TimeGettingFood.description>Total time spent on finding food and eating.</TimeGettingFood.description>
+  <TimeGettingFood.description>Aikaa vietetty etsimässä ja syömässä ruokaa.</TimeGettingFood.description>
   
   <!-- EN: time spent on entertainment -->
-  <TimeGettingJoy.label>time spent on entertainment</TimeGettingJoy.label>
+  <TimeGettingJoy.label>aika käytetty hupiin</TimeGettingJoy.label>
   <!-- EN: Total time spent on entertainment. -->
-  <TimeGettingJoy.description>Total time spent on entertainment.</TimeGettingJoy.description>
+  <TimeGettingJoy.description>Aikaa vietetty hupiin.</TimeGettingJoy.description>
   
   <!-- EN: time handling animals -->
-  <TimeHandlingAnimals.label>time handling animals</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.label>aika eläinten käsittelyssä</TimeHandlingAnimals.label>
   <!-- EN: Total time spent handling animals. -->
-  <TimeHandlingAnimals.description>Total time spent handling animals.</TimeHandlingAnimals.description>
+  <TimeHandlingAnimals.description>Aikaa vietetty eläinten käsittelyssä.</TimeHandlingAnimals.description>
   
   <!-- EN: time hauling -->
-  <TimeHauling.label>time hauling</TimeHauling.label>
+  <TimeHauling.label>aika kuljettamassa</TimeHauling.label>
   <!-- EN: Total time spent hauling things. -->
-  <TimeHauling.description>Total time spent hauling things.</TimeHauling.description>
+  <TimeHauling.description>Aikaa vietetty asioiden kuljettamisessa.</TimeHauling.description>
   
   <!-- EN: time hunting -->
-  <TimeHunting.label>time hunting</TimeHunting.label>
+  <TimeHunting.label>aika metsästämisessä</TimeHunting.label>
   <!-- EN: Total time spent hunting. -->
-  <TimeHunting.description>Total time spent hunting.</TimeHunting.description>
+  <TimeHunting.description>Aikaa vietetty metsästämässä.</TimeHunting.description>
   
   <!-- EN: time in a bed -->
-  <TimeInBed.label>time in a bed</TimeInBed.label>
+  <TimeInBed.label>aika sängyssä</TimeInBed.label>
   <!-- EN: Total time spent in bed. -->
-  <TimeInBed.description>Total time spent in a bed.</TimeInBed.description>
+  <TimeInBed.description>Aikaa vietetty sängyssä.</TimeInBed.description>
   
   <!-- EN: time in a bed for medical reasons -->
-  <TimeInBedForMedicalReasons.label>time in a bed for medical reasons</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.label>aika sängyssä terveyden takia</TimeInBedForMedicalReasons.label>
   <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
-  <TimeInBedForMedicalReasons.description>Total time spent in a bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+  <TimeInBedForMedicalReasons.description>Sängyssä käytetty kokonaisaika terveys syistä: odottaa hoitoa, toipua vammoista tai olla operoivattana sitä.</TimeInBedForMedicalReasons.description>
   
   <!-- EN: time in mental state -->
-  <TimeInMentalState.label>time in mental state</TimeInMentalState.label>
+  <TimeInMentalState.label>aika henkisessä tilassa</TimeInMentalState.label>
   <!-- EN: Total time spent in an abnormal mental state. -->
-  <TimeInMentalState.description>Total time spent in mental state.</TimeInMentalState.description>
+  <TimeInMentalState.description>Aikaa vietetty henkisissä tiloissa.</TimeInMentalState.description>
   
   <!-- EN: time mining -->
-  <TimeMining.label>time mining</TimeMining.label>
+  <TimeMining.label>aika louhimassa</TimeMining.label>
   <!-- EN: Total time spent mining. -->
-  <TimeMining.description>Total time spent mining.</TimeMining.description>
+  <TimeMining.description>Aikaa vietetty loihimassa.</TimeMining.description>
   
   <!-- EN: time on fire -->
-  <TimeOnFire.label>time on fire</TimeOnFire.label>
+  <TimeOnFire.label>aika tulessa</TimeOnFire.label>
   <!-- EN: Total time spent on fire. -->
-  <TimeOnFire.description>Total time spent on fire.</TimeOnFire.description>
+  <TimeOnFire.description>Aikaa vietetty tulessa.</TimeOnFire.description>
   
   <!-- EN: time repairing -->
-  <TimeRepairing.label>time repairing</TimeRepairing.label>
+  <TimeRepairing.label>aika korjaamassa</TimeRepairing.label>
   <!-- EN: Total time spent repairing. -->
-  <TimeRepairing.description>Total time spent repairing.</TimeRepairing.description>
+  <TimeRepairing.description>Aikaa vietetty korjaamassa.</TimeRepairing.description>
   
   <!-- EN: time researching -->
-  <TimeResearching.label>time researching</TimeResearching.label>
+  <TimeResearching.label>aika tutkimassa</TimeResearching.label>
   <!-- EN: Total time spent researching. -->
-  <TimeResearching.description>Total time spent researching.</TimeResearching.description>
+  <TimeResearching.description>Aikaa vietetty tutkimassa.</TimeResearching.description>
   
   <!-- EN: time sowing and harvesting -->
-  <TimeSowingAndHarvesting.label>time sowing and harvesting</TimeSowingAndHarvesting.label>
+  <TimeSowingAndHarvesting.label>aika istuttamassa ja sadon korjuussa</TimeSowingAndHarvesting.label>
   <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
-  <TimeSowingAndHarvesting.description>Total time spent sowing, harvesting and cutting plants.</TimeSowingAndHarvesting.description>
+  <TimeSowingAndHarvesting.description>Aikaa vietetty istuttamassa, sadon korjuussa ja leikkaamassa.</TimeSowingAndHarvesting.description>
   
   <!-- EN: time treating and feeding -->
-  <TimeTreatingAndFeeding.label>time treating and feeding</TimeTreatingAndFeeding.label>
+  <TimeTreatingAndFeeding.label>aika hoitamassa ja syöttämässä</TimeTreatingAndFeeding.label>
   <!-- EN: Total time spent treating and feeding patients. -->
-  <TimeTreatingAndFeeding.description>Total time spent treating and feeding patients.</TimeTreatingAndFeeding.description>
+  <TimeTreatingAndFeeding.description>Aikaa vietetty hoitamassa ja syöttämässä potilaita.</TimeTreatingAndFeeding.description>
   
   <!-- EN: time under a roof -->
-  <TimeUnderRoof.label>time under a roof</TimeUnderRoof.label>
+  <TimeUnderRoof.label>aika katon alla</TimeUnderRoof.label>
   <!-- EN: Total time spent under a roof. -->
-  <TimeUnderRoof.description>Total time spent under a roof.</TimeUnderRoof.description>
+  <TimeUnderRoof.description>Aikaa vietetty katon alla.</TimeUnderRoof.description>
   
   <!-- EN: time wardening -->
-  <TimeWardening.label>time wardening</TimeWardening.label>
+  <TimeWardening.label>aika vaeltamisessa</TimeWardening.label>
   <!-- EN: Total time spent wardening. -->
-  <TimeWardening.description>Total time spent wardening.</TimeWardening.description>
+  <TimeWardening.description>Aikaa vietetty vaeltamisessa.</TimeWardening.description>
   
 </LanguageData>

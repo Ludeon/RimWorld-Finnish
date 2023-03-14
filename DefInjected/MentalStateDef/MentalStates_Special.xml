@@ -33,9 +33,9 @@
   <PanicFlee.recoveryMessage>{0} ei enää pakene kauhuissaan.</PanicFlee.recoveryMessage>
   
   <!-- EN: roaming -->
-  <Roaming.label>TODO</Roaming.label>
+  <Roaming.label>vaeltely</Roaming.label>
   <!-- EN: Mental state: Roaming -->
-  <Roaming.baseInspectLine>TODO</Roaming.baseInspectLine>
+  <Roaming.baseInspectLine>Mielentila: Vaeltelu</Roaming.baseInspectLine>
   
   <!-- EN: social fighting -->
   <SocialFighting.label>riitelyä</SocialFighting.label>
@@ -45,11 +45,11 @@
   <!-- EN: confused wandering -->
   <WanderConfused.label>hämmentynyt haahuilu</WanderConfused.label>
   <!-- EN: Mental state: Confused and wandering -->
-  <WanderConfused.baseInspectLine>TODO</WanderConfused.baseInspectLine>
+  <WanderConfused.baseInspectLine>Mielentila: Hämmentunut ja vaeltaa</WanderConfused.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>TODO</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>Hnekilo {0} on hajonnut ja vaeltaa ympäriinsä hämmentyneenä.</WanderConfused.beginLetter>
   <!-- EN: confusion -->
-  <WanderConfused.beginLetterLabel>TODO</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetterLabel>hämmennys</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
   <WanderConfused.recoveryMessage>{0} ei ole enää hämmentynyt.</WanderConfused.recoveryMessage>
   

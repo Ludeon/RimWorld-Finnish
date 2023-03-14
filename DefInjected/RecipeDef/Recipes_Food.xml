@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: make kibble -->
-  <Make_Kibble.label>TODO</Make_Kibble.label>
+  <Make_Kibble.label>valmista nappuloita</Make_Kibble.label>
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
-  <Make_Kibble.description>TODO</Make_Kibble.description>
+  <Make_Kibble.description>Valmista eläin nappuloita yhdistämällä raakaa lihaa ja kasveja.</Make_Kibble.description>
   <!-- EN: Making kibble. -->
-  <Make_Kibble.jobString>TODO</Make_Kibble.jobString>
+  <Make_Kibble.jobString>Valmistaa nappuloita.</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
-  <Make_Pemmican.label>TODO</Make_Pemmican.label>
+  <Make_Pemmican.label>valmista pemmikaania</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_Pemmican.description>TODO</Make_Pemmican.description>
+  <Make_Pemmican.description>Valmista pemmikaania, säilötty yhdistelmä lihaa ja kasvisruokaa. Se ei maistu hämmästyttävältä, mutta säilyy pitkään ilman jäähdytystä.</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
-  <Make_Pemmican.jobString>TODO</Make_Pemmican.jobString>
+  <Make_Pemmican.jobString>Valmistaa pemmikaania</Make_Pemmican.jobString>
   
   <!-- EN: make pemmican x4 -->
-  <Make_PemmicanBulk.label>TODO</Make_PemmicanBulk.label>
+  <Make_PemmicanBulk.label>valmista pemmikaania x4</Make_PemmicanBulk.label>
   <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_PemmicanBulk.description>TODO</Make_PemmicanBulk.description>
+  <Make_PemmicanBulk.description>Valmista lasti pemmikaania, säilötty yhdistelmä lihaa ja kasvisruokaa. Se ei maistu hämmästyttävältä, mutta säilyy pitkään ilman jäähdytystä.</Make_PemmicanBulk.description>
   <!-- EN: Making bulk pemmican. -->
-  <Make_PemmicanBulk.jobString>TODO</Make_PemmicanBulk.jobString>
+  <Make_PemmicanBulk.jobString>Valmistaa lastia pemmikaania.</Make_PemmicanBulk.jobString>
   
 </LanguageData>

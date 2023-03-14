@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: high on smokeleaf -->
-  <SmokeleafHigh.stages.high_on_smokeleaf.label>high on smokeleaf</SmokeleafHigh.stages.high_on_smokeleaf.label>
+  <SmokeleafHigh.stages.high_on_smokeleaf.label>pilvessä savulehdestä</SmokeleafHigh.stages.high_on_smokeleaf.label>
   <!-- EN: I'm, like, stoned, man. -->
-  <SmokeleafHigh.stages.high_on_smokeleaf.description>I'm, like, stoned, man.</SmokeleafHigh.stages.high_on_smokeleaf.description>
+  <SmokeleafHigh.stages.high_on_smokeleaf.description>Olen, niinkuin, pilvessä.</SmokeleafHigh.stages.high_on_smokeleaf.description>
   
   <!-- EN: smokeleaf withdrawal -->
-  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>Smokeleaf withdrawal</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>savulehti vieroitusoireet</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
   <!-- EN: I really wish I could smoke. I feel jittery, and my gut has that anxious sensation all the time. -->
-  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>I really wish I could smoke.</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>Voisinpa taas polttaa.</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
   
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: high on flake -->
-  <FlakeHigh.label>päihtynyt psykiitti hiutaleesta</FlakeHigh.label>
+  <FlakeHigh.label>päihtynyt psykiitti hiutaleista</FlakeHigh.label>
   <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
-  <FlakeHigh.description>Aktiivinen psykiitti hiutale verenkierrossa. Luo euforisen, heikentävän humalan.</FlakeHigh.description>
+  <FlakeHigh.description>Aktiiviset psykiitti hiutaleet verenkierrossa. Luo euforisen, heikentävän humalan.</FlakeHigh.description>
   <!-- EN: a flake high -->
   <FlakeHigh.labelNoun>psykiitti hiutale humala</FlakeHigh.labelNoun>
   

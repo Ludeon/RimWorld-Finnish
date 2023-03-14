@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: turrets -->
-  <Turrets.label>turrets</Turrets.label>
+  <Turrets.label>tykkitorneja</Turrets.label>
   <!-- EN: A group of turrets. -->
-  <Turrets.description>A few turrets.</Turrets.description>
+  <Turrets.description>Tykkitorneja.</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>TODO</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>Tällä alueella on vihollisten tykkitorneja.</Turrets.arrivedLetter>
   
 </LanguageData>

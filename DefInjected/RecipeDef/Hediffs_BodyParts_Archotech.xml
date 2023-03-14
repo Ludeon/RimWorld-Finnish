@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: install archotech arm -->
-  <InstallArchotechArm.label>TODO</InstallArchotechArm.label>
+  <InstallArchotechArm.label>asenna arkotekninen käsi</InstallArchotechArm.label>
   <!-- EN: Install an archotech arm. -->
-  <InstallArchotechArm.description>TODO</InstallArchotechArm.description>
+  <InstallArchotechArm.description>Asenna arkotekninen käsi.</InstallArchotechArm.description>
   <!-- EN: Installing archotech arm. -->
-  <InstallArchotechArm.jobString>TODO</InstallArchotechArm.jobString>
+  <InstallArchotechArm.jobString>Asentaa arkoteknisen käden.</InstallArchotechArm.jobString>
   
   <!-- EN: install archotech eye -->
-  <InstallArchotechEye.label>TODO</InstallArchotechEye.label>
+  <InstallArchotechEye.label>asenna arkotekninen silmä</InstallArchotechEye.label>
   <!-- EN: Install an archotech eye. -->
-  <InstallArchotechEye.description>TODO</InstallArchotechEye.description>
+  <InstallArchotechEye.description>Asenna arkotekninen silmä.</InstallArchotechEye.description>
   <!-- EN: Installing archotech eye. -->
-  <InstallArchotechEye.jobString>TODO</InstallArchotechEye.jobString>
+  <InstallArchotechEye.jobString>Asentaa arkoteknisen silmän.</InstallArchotechEye.jobString>
   
   <!-- EN: install archotech leg -->
-  <InstallArchotechLeg.label>TODO</InstallArchotechLeg.label>
+  <InstallArchotechLeg.label>asenna arkotekninen jalka</InstallArchotechLeg.label>
   <!-- EN: Install an archotech leg. -->
-  <InstallArchotechLeg.description>TODO</InstallArchotechLeg.description>
+  <InstallArchotechLeg.description>Asenna arkotekninen jalka.</InstallArchotechLeg.description>
   <!-- EN: Installing archotech leg. -->
-  <InstallArchotechLeg.jobString>TODO</InstallArchotechLeg.jobString>
+  <InstallArchotechLeg.jobString>Asentaa arkoteknisen jalan.</InstallArchotechLeg.jobString>
   
 </LanguageData>

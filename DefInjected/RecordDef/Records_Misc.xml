@@ -2,218 +2,218 @@
 <LanguageData>
   
   <!-- EN: animals slaughtered -->
-  <AnimalsSlaughtered.label>animals slaughtered</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.label>teurastetut eläimet</AnimalsSlaughtered.label>
   <!-- EN: The number of animals I have slaughtered. -->
-  <AnimalsSlaughtered.description>The number of animals I have slaughtered.</AnimalsSlaughtered.description>
+  <AnimalsSlaughtered.description>Eläinten määrä, joita olen teurastanut.</AnimalsSlaughtered.description>
   
   <!-- EN: animals tamed -->
-  <AnimalsTamed.label>animals tamed</AnimalsTamed.label>
+  <AnimalsTamed.label>kesytetyt eläimet</AnimalsTamed.label>
   <!-- EN: The number of animals I have tamed. -->
-  <AnimalsTamed.description>The number of animals I have tamed.</AnimalsTamed.description>
+  <AnimalsTamed.description>Eläinten määrä, joita olen kesyttänyt.</AnimalsTamed.description>
   
   <!-- EN: artifacts activated -->
-  <ArtifactsActivated.label>artifacts activated</ArtifactsActivated.label>
+  <ArtifactsActivated.label>artefakteja aktivoitu</ArtifactsActivated.label>
   <!-- EN: The number of artifacts I have activated. -->
-  <ArtifactsActivated.description>The number of artifacts I have activated.</ArtifactsActivated.description>
+  <ArtifactsActivated.description>Artefaktien määrä, joita olen aktivoinut.</ArtifactsActivated.description>
   
   <!-- EN: bodies stripped -->
-  <BodiesStripped.label>bodies stripped</BodiesStripped.label>
+  <BodiesStripped.label>ruumiita riisuttu</BodiesStripped.label>
   <!-- EN: The number of bodies I have stripped. -->
-  <BodiesStripped.description>The number of bodies I have stripped.</BodiesStripped.description>
+  <BodiesStripped.description>Ruumiiden määrä, joita olen riisunut.</BodiesStripped.description>
   
   <!-- EN: cells mined -->
-  <CellsMined.label>cells mined</CellsMined.label>
+  <CellsMined.label>kammioita louhittu</CellsMined.label>
   <!-- EN: The number of cells I have mined out. -->
-  <CellsMined.description>The number of cells I have mined out.</CellsMined.description>
+  <CellsMined.description>Kammioiden määrä, joita olen louhinut.</CellsMined.description>
   
   <!-- EN: containers opened -->
-  <ContainersOpened.label>containers opened</ContainersOpened.label>
+  <ContainersOpened.label>säiliöitä avattu</ContainersOpened.label>
   <!-- EN: The number of containers I have opened. -->
-  <ContainersOpened.description>The number of containers I have opened.</ContainersOpened.description>
+  <ContainersOpened.description>Säiliöiden määrä, joita olen avannut.</ContainersOpened.description>
   
   <!-- EN: corpses buried -->
-  <CorpsesBuried.label>corpses buried</CorpsesBuried.label>
+  <CorpsesBuried.label>ruumiita haudattu</CorpsesBuried.label>
   <!-- EN: The number of corpses I have buried. -->
-  <CorpsesBuried.description>The number of corpses I have buried.</CorpsesBuried.description>
+  <CorpsesBuried.description>Ruumiiden määrä, joita olen haudannut.</CorpsesBuried.description>
   
   <!-- EN: damage dealt -->
-  <DamageDealt.label>damage dealt</DamageDealt.label>
+  <DamageDealt.label>vahinkoa tehty</DamageDealt.label>
   <!-- EN: The amount of damage I have dealt. -->
-  <DamageDealt.description>The amount of damage I have dealt.</DamageDealt.description>
+  <DamageDealt.description>Vahingon määtä, jota olen tehnyt.</DamageDealt.description>
   
   <!-- EN: damage taken -->
-  <DamageTaken.label>damage taken</DamageTaken.label>
+  <DamageTaken.label>vahinkoa otettu</DamageTaken.label>
   <!-- EN: The amount of damage I have taken. -->
-  <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
+  <DamageTaken.description>Vahingon määrä, jota olen ottanut.</DamageTaken.description>
   
   <!-- EN: fires extinguished -->
-  <FiresExtinguished.label>fires extinguished</FiresExtinguished.label>
+  <FiresExtinguished.label>tulia sammutettu</FiresExtinguished.label>
   <!-- EN: The number of fires I have extinguished. -->
-  <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
+  <FiresExtinguished.description>Tulien määrä, joita olen sammuttanut.</FiresExtinguished.description>
   
   <!-- EN: headshots -->
-  <Headshots.label>headshots</Headshots.label>
+  <Headshots.label>pääosumat</Headshots.label>
   <!-- EN: The number of headshots I have made. -->
-  <Headshots.description>The number of headshots I have made.</Headshots.description>
+  <Headshots.description>Pääosumien määrä, joita olen tehnyt.</Headshots.description>
   
   <!-- EN: kills -->
-  <Kills.label>kills</Kills.label>
+  <Kills.label>tapot</Kills.label>
   <!-- EN: The number of creatures I have killed. -->
-  <Kills.description>The number of creatures I have killed.</Kills.description>
+  <Kills.description>Olentojen määrä, joita olen tappanut.</Kills.description>
   
   <!-- EN: kills (animals) -->
-  <KillsAnimals.label>kills (animals)</KillsAnimals.label>
+  <KillsAnimals.label>tapot (eläimet)</KillsAnimals.label>
   <!-- EN: The number of animals I have killed. -->
-  <KillsAnimals.description>The number of animals I have killed.</KillsAnimals.description>
+  <KillsAnimals.description>Eläinten määrä, joita olen tappanut.</KillsAnimals.description>
   
   <!-- EN: kills (humanlikes) -->
-  <KillsHumanlikes.label>kills (humanlikes)</KillsHumanlikes.label>
+  <KillsHumanlikes.label>tapot (ihmismäiset)</KillsHumanlikes.label>
   <!-- EN: The number of humanlike characters I have killed. -->
-  <KillsHumanlikes.description>The number of humanlike characters I have killed.</KillsHumanlikes.description>
+  <KillsHumanlikes.description>Ihmismäisten olentojen määrä, joita olen tappanut..</KillsHumanlikes.description>
   
   <!-- EN: kills (mechanoids) -->
-  <KillsMechanoids.label>kills (mechanoids)</KillsMechanoids.label>
+  <KillsMechanoids.label>tapot (mekanoidit)</KillsMechanoids.label>
   <!-- EN: The number of mechanoids I have killed. -->
-  <KillsMechanoids.description>The number of mechanoids I have killed.</KillsMechanoids.description>
+  <KillsMechanoids.description>Mekanoidien määrä, joita olen tappanut..</KillsMechanoids.description>
   
   <!-- EN: meals cooked -->
-  <MealsCooked.label>meals cooked</MealsCooked.label>
+  <MealsCooked.label>aterioita kokattu</MealsCooked.label>
   <!-- EN: The number of meals I have cooked. -->
-  <MealsCooked.description>The number of meals I have cooked.</MealsCooked.description>
+  <MealsCooked.description>Aterioiden määrä, joita olen kokannut.</MealsCooked.description>
   
   <!-- EN: messes cleaned -->
-  <MessesCleaned.label>messes cleaned</MessesCleaned.label>
+  <MessesCleaned.label>sotkuja siivottu</MessesCleaned.label>
   <!-- EN: The number of messes I have cleaned up. -->
-  <MessesCleaned.description>The number of messes I have cleaned up.</MessesCleaned.description>
+  <MessesCleaned.description>Sotkujen määrä, joita olen siivonnut.</MessesCleaned.description>
   
   <!-- EN: nutrition eaten -->
-  <NutritionEaten.label>nutrition eaten</NutritionEaten.label>
+  <NutritionEaten.label>ravinteita syöty</NutritionEaten.label>
   <!-- EN: The amount of nutrition I have eaten. -->
-  <NutritionEaten.description>The amount of nutrition I have eaten.</NutritionEaten.description>
+  <NutritionEaten.description>Ravinteiden määrä, joita olen syönyt.</NutritionEaten.description>
   
   <!-- EN: operations performed -->
-  <OperationsPerformed.label>operations performed</OperationsPerformed.label>
+  <OperationsPerformed.label>operaatioita suoritettu</OperationsPerformed.label>
   <!-- EN: How many medical operations I have performed. -->
-  <OperationsPerformed.description>How many medical operations I have performed.</OperationsPerformed.description>
+  <OperationsPerformed.description>Kuinka monta operaatiota olen suorittanut.</OperationsPerformed.description>
   
   <!-- EN: operations received -->
-  <OperationsReceived.label>operations received</OperationsReceived.label>
+  <OperationsReceived.label>operaatioita saatu</OperationsReceived.label>
   <!-- EN: How many times I have been medically operated on. -->
-  <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>
+  <OperationsReceived.description>Kuinka monta operaatiota minulle on tehty.</OperationsReceived.description>
   
   <!-- EN: enemies downed -->
-  <PawnsDowned.label>enemies downed</PawnsDowned.label>
+  <PawnsDowned.label>vihollisia kaadettu</PawnsDowned.label>
   <!-- EN: The number of creatures I have downed. -->
-  <PawnsDowned.description>The number of creatures downed.</PawnsDowned.description>
+  <PawnsDowned.description>Olentojen määrä, joita olen kaatanut.</PawnsDowned.description>
   
   <!-- EN: enemies downed (animals) -->
-  <PawnsDownedAnimals.label>enemies downed (animals)</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.label>vihollisia kaadettu (eläimet)</PawnsDownedAnimals.label>
   <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
-  <PawnsDownedAnimals.description>The number of animals downed.</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.description>Eläinten määrä, joita olen kaatanut.</PawnsDownedAnimals.description>
   
   <!-- EN: enemies downed (humanlikes) -->
-  <PawnsDownedHumanlikes.label>enemies downed (humanlikes)</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.label>vihollisia kaadettu (ihmismäiset)</PawnsDownedHumanlikes.label>
   <!-- EN: The number of humanlike creatures I have downed. -->
-  <PawnsDownedHumanlikes.description>The number of humanlike creatures downed.</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.description>Ihmismäisten määrä, joita olen kaatanut.</PawnsDownedHumanlikes.description>
   
   <!-- EN: enemies downed (mechanoids) -->
-  <PawnsDownedMechanoids.label>enemies downed (mechanoids)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.label>vihollisia kaadettu (mekanoidit)</PawnsDownedMechanoids.label>
   <!-- EN: The number of mechanoids I have downed. -->
-  <PawnsDownedMechanoids.description>The number of mechanoids downed.</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.description>Mekanoidien määrä, joita olen kaatanut.</PawnsDownedMechanoids.description>
   
   <!-- EN: people captured -->
-  <PeopleCaptured.label>people captured</PeopleCaptured.label>
+  <PeopleCaptured.label>ihmisiä kaapattu</PeopleCaptured.label>
   <!-- EN: The number of people I have captured. -->
-  <PeopleCaptured.description>The number of people I have captured.</PeopleCaptured.description>
+  <PeopleCaptured.description>Ihmisten määrä, joita olen kaapannut.</PeopleCaptured.description>
   
   <!-- EN: plants harvested -->
-  <PlantsHarvested.label>plants harvested</PlantsHarvested.label>
+  <PlantsHarvested.label>kasveja korjattu</PlantsHarvested.label>
   <!-- EN: The number of plants I have harvested. -->
-  <PlantsHarvested.description>The number of plants I have harvested.</PlantsHarvested.description>
+  <PlantsHarvested.description>Kasvien määrä, joita olen korjannut.</PlantsHarvested.description>
   
   <!-- EN: plants sown -->
-  <PlantsSown.label>plants sown</PlantsSown.label>
+  <PlantsSown.label>kasveja kylvetty</PlantsSown.label>
   <!-- EN: The number of plants I have sown. -->
-  <PlantsSown.description>The number of plants I have sown.</PlantsSown.description>
+  <PlantsSown.description>Kasvien määrä, joita olen kylvänyt.</PlantsSown.description>
   
   <!-- EN: prisoners chatted -->
-  <PrisonersChatted.label>prisoners chatted</PrisonersChatted.label>
+  <PrisonersChatted.label>vankien kanssa jutellut</PrisonersChatted.label>
   <!-- EN: How many times I have chatted with prisoners. -->
-  <PrisonersChatted.description>How many times I have chatted with a prisoner.</PrisonersChatted.description>
+  <PrisonersChatted.description>Kuinka monta kertaa olen jutellut vangeille.</PrisonersChatted.description>
   
   <!-- EN: prisoners recruited -->
-  <PrisonersRecruited.label>prisoners recruited</PrisonersRecruited.label>
+  <PrisonersRecruited.label>vankeja värvätty</PrisonersRecruited.label>
   <!-- EN: The number of prisoners I have recruited. -->
-  <PrisonersRecruited.description>The number of prisoners I have recruited.</PrisonersRecruited.description>
+  <PrisonersRecruited.description>Vankien määrä, joita olen värvännyt.</PrisonersRecruited.description>
   
   <!-- EN: research points researched -->
-  <ResearchPointsResearched.label>research points researched</ResearchPointsResearched.label>
+  <ResearchPointsResearched.label>tutkimuspisteitä tutkittu</ResearchPointsResearched.label>
   <!-- EN: The number of research points I have researched. -->
-  <ResearchPointsResearched.description>The number of research points I have researched.</ResearchPointsResearched.description>
+  <ResearchPointsResearched.description>Tutkimuspisteiden määrä, joita olen tutkinut.</ResearchPointsResearched.description>
   
   <!-- EN: shots fired -->
-  <ShotsFired.label>shots fired</ShotsFired.label>
+  <ShotsFired.label>ammuksia laukaistu</ShotsFired.label>
   <!-- EN: The number of shots I have fired. -->
-  <ShotsFired.description>The number of shots I have fired.</ShotsFired.description>
+  <ShotsFired.description>Ammusten määrä, joita olen ampunut.</ShotsFired.description>
   
   <!-- EN: switches flicked -->
-  <SwitchesFlicked.label>switches flicked</SwitchesFlicked.label>
+  <SwitchesFlicked.label>kytkintä käännetty</SwitchesFlicked.label>
   <!-- EN: The number of switches I have flicked. -->
-  <SwitchesFlicked.description>The number of switches I have flicked.</SwitchesFlicked.description>
+  <SwitchesFlicked.description>Kuinka monta kytkintä olen kääntänyt.</SwitchesFlicked.description>
   
   <!-- EN: things constructed -->
-  <ThingsConstructed.label>things constructed</ThingsConstructed.label>
+  <ThingsConstructed.label>asioita rakentanut</ThingsConstructed.label>
   <!-- EN: The number of things I have constructed. -->
-  <ThingsConstructed.description>The number of things I have constructed.</ThingsConstructed.description>
+  <ThingsConstructed.description>Asioiden määrä, joita olen rakentanut.</ThingsConstructed.description>
   
   <!-- EN: things crafted -->
-  <ThingsCrafted.label>things crafted</ThingsCrafted.label>
+  <ThingsCrafted.label>asioita valmistanut</ThingsCrafted.label>
   <!-- EN: The number of things I have crafted. -->
-  <ThingsCrafted.description>The number of things I have crafted.</ThingsCrafted.description>
+  <ThingsCrafted.description>Asioiden määrä, joita olen valmistanut.</ThingsCrafted.description>
   
   <!-- EN: things deconstructed -->
-  <ThingsDeconstructed.label>things deconstructed</ThingsDeconstructed.label>
+  <ThingsDeconstructed.label>asioita purettu</ThingsDeconstructed.label>
   <!-- EN: The number of things I have deconstructed. -->
-  <ThingsDeconstructed.description>The number of things I have deconstructed.</ThingsDeconstructed.description>
+  <ThingsDeconstructed.description>Asioiden määrä, joita olen purkanut.</ThingsDeconstructed.description>
   
   <!-- EN: things hauled -->
-  <ThingsHauled.label>things hauled</ThingsHauled.label>
+  <ThingsHauled.label>asioita kuljetettu</ThingsHauled.label>
   <!-- EN: The number of things I have hauled. -->
-  <ThingsHauled.description>The number of things I have hauled.</ThingsHauled.description>
+  <ThingsHauled.description>Asioiden määrä, joita olen kuljettanut.</ThingsHauled.description>
   
   <!-- EN: things installed -->
-  <ThingsInstalled.label>things installed</ThingsInstalled.label>
+  <ThingsInstalled.label>asioita asentanut</ThingsInstalled.label>
   <!-- EN: The number of things I have installed. -->
-  <ThingsInstalled.description>The number of things I have installed.</ThingsInstalled.description>
+  <ThingsInstalled.description>Asioiden määrä, joita olen asentanut.</ThingsInstalled.description>
   
   <!-- EN: things repaired -->
-  <ThingsRepaired.label>things repaired</ThingsRepaired.label>
+  <ThingsRepaired.label>asioita korjattu</ThingsRepaired.label>
   <!-- EN: The number of things I have repaired. -->
-  <ThingsRepaired.description>The number of things I have repaired.</ThingsRepaired.description>
+  <ThingsRepaired.description>Asioiden määrä, joita olen korjannut.</ThingsRepaired.description>
   
   <!-- EN: things uninstalled -->
-  <ThingsUninstalled.label>things uninstalled</ThingsUninstalled.label>
+  <ThingsUninstalled.label>asioita poistanut</ThingsUninstalled.label>
   <!-- EN: The number of things I have uninstalled. -->
-  <ThingsUninstalled.description>The number of things I have uninstalled.</ThingsUninstalled.description>
+  <ThingsUninstalled.description>Asioiden määrä, joita olen poistanut.</ThingsUninstalled.description>
   
   <!-- EN: times in mental state -->
-  <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
+  <TimesInMentalState.label>ajat henkisessä tilassa</TimesInMentalState.label>
   <!-- EN: How many times I have suffered a mental break. -->
-  <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
+  <TimesInMentalState.description>Kuinka monta kertaa olen kokenut henkisen romahduksen.</TimesInMentalState.description>
   
   <!-- EN: times on fire -->
-  <TimesOnFire.label>times on fire</TimesOnFire.label>
+  <TimesOnFire.label>kertaa tulessa</TimesOnFire.label>
   <!-- EN: How many times I have been on fire. -->
-  <TimesOnFire.description>How many times I have been on fire.</TimesOnFire.description>
+  <TimesOnFire.description>Kuinka monta kertaa olen ollut tulessa.</TimesOnFire.description>
   
   <!-- EN: tends given -->
-  <TimesTendedOther.label>treatments given</TimesTendedOther.label>
+  <TimesTendedOther.label>hoitoja annettu</TimesTendedOther.label>
   <!-- EN: How many times I have tended to others' medical conditions. -->
-  <TimesTendedOther.description>How many medical treatments I have given.</TimesTendedOther.description>
+  <TimesTendedOther.description>Kuinka monta hoitoa olen antanut.</TimesTendedOther.description>
   
   <!-- EN: tends received -->
-  <TimesTendedTo.label>TODO</TimesTendedTo.label>
+  <TimesTendedTo.label>hoitoja saatu</TimesTendedTo.label>
   <!-- EN: How many times I have had my medical conditions tended. -->
-  <TimesTendedTo.description>TODO</TimesTendedTo.description>
+  <TimesTendedTo.description>Kuinka monta kertaa olen saanut hoitoja.</TimesTendedTo.description>
   
 </LanguageData>

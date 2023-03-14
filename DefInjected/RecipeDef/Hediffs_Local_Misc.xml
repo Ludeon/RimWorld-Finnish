@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: cure scaria -->
-  <CureScaria.label>TODO</CureScaria.label>
+  <CureScaria.label>paranna scaria</CureScaria.label>
   <!-- EN: This special medical operation cures scaria. -->
-  <CureScaria.description>TODO</CureScaria.description>
+  <CureScaria.description>Tämä operaatio parantaa scarian.</CureScaria.description>
   <!-- EN: Curing scaria. -->
-  <CureScaria.jobString>TODO</CureScaria.jobString>
+  <CureScaria.jobString>Parannetaan scariaa.</CureScaria.jobString>
   <!-- EN: {0} has successfully cured {1}'s scaria. -->
-  <CureScaria.successfullyRemovedHediffMessage>TODO</CureScaria.successfullyRemovedHediffMessage>
+  <CureScaria.successfullyRemovedHediffMessage>{0} on onnistuneesti parantanut henkilön {1} scarian.</CureScaria.successfullyRemovedHediffMessage>
   
   <!-- EN: sterilize -->
-  <Sterilize.label>TODO</Sterilize.label>
+  <Sterilize.label>steriloi</Sterilize.label>
   <!-- EN: Sterilize a creature so it can no longer reproduce. -->
-  <Sterilize.description>TODO</Sterilize.description>
+  <Sterilize.description>Steriloi olennon, jotta se ei voi enään lisääntyä.</Sterilize.description>
   <!-- EN: sterilizing TargetA. -->
-  <Sterilize.jobString>TODO</Sterilize.jobString>
+  <Sterilize.jobString>Steriloidaan TargetA.</Sterilize.jobString>
   <!-- EN: {0} has successfully sterilized {1}. -->
-  <Sterilize.successfullyRemovedHediffMessage>TODO</Sterilize.successfullyRemovedHediffMessage>
+  <Sterilize.successfullyRemovedHediffMessage>{0} on onnistuneesti steriloinu olennon {1}.</Sterilize.successfullyRemovedHediffMessage>
   
 </LanguageData>

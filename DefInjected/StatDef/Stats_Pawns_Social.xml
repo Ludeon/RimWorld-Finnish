@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Arrest success chance -->
-  <ArrestSuccessChance.label>TODO</ArrestSuccessChance.label>
+  <ArrestSuccessChance.label>Pidätyksen onnistumis mahdollisuus</ArrestSuccessChance.label>
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
-  <ArrestSuccessChance.description>TODO</ArrestSuccessChance.description>
+  <ArrestSuccessChance.description>Kuinka tehokas tämä henkilö on pidättämään ihmisiä. Tämä vaikuttaa mahdollisuuteen, että tämä henkilö pystyy pidättämään jonkun ilman vastarintaa.</ArrestSuccessChance.description>
   
   <!-- EN: bond chance factor -->
   <BondAnimalChanceFactor.label>TODO</BondAnimalChanceFactor.label>
@@ -12,9 +12,9 @@
   <BondAnimalChanceFactor.description>TODO</BondAnimalChanceFactor.description>
   
   <!-- EN: drug sell price improvement -->
-  <DrugSellPriceImprovement.label>TODO</DrugSellPriceImprovement.label>
+  <DrugSellPriceImprovement.label>päihteiden myynti arvon parantuminen</DrugSellPriceImprovement.label>
   <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
-  <DrugSellPriceImprovement.description>TODO</DrugSellPriceImprovement.description>
+  <DrugSellPriceImprovement.description>Kun tämä henkilö myy muita kuin lääkkeitä, hinnat paranevat tällä prosentilla.</DrugSellPriceImprovement.description>
   
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>diplomaattisen lahjan vaikuttavuus</NegotiationAbility.label>
@@ -22,9 +22,9 @@
   <NegotiationAbility.description>Kun tämä henkilö antaa lahjan toiselle ryhmälle, tämä kerroin asetetaan sen vaikutukseen ryhmän suhteeseen.</NegotiationAbility.description>
   
   <!-- EN: beauty -->
-  <PawnBeauty.label>TODO</PawnBeauty.label>
+  <PawnBeauty.label>kauneus</PawnBeauty.label>
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
-  <PawnBeauty.description>TODO</PawnBeauty.description>
+  <PawnBeauty.description>Kuinka fyysisesti houkutteleva tämä henkilö on. Tämä vaikuttaa sosiaaliseen vuorovaikutukseen.</PawnBeauty.description>
   
   <!-- EN: social impact -->
   <SocialImpact.label>keskustelun vaikuttavuus</SocialImpact.label>

@@ -3,24 +3,24 @@
   
   <!-- EN: slave -->
   <Slave.label>orja</Slave.label>
-  <Slave.labelPlural>slaves</Slave.labelPlural>
+  <Slave.labelPlural>orjat</Slave.labelPlural>
   
   <!-- EN: stranger in black -->
-  <StrangerInBlack.label>TODO</StrangerInBlack.label>
+  <StrangerInBlack.label>muukalainen mustissa</StrangerInBlack.label>
   <!-- EN: woman in black -->
-  <StrangerInBlack.labelFemale>TODO</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelFemale>nainen mustissa</StrangerInBlack.labelFemale>
   <!-- EN: man in black -->
-  <StrangerInBlack.labelMale>TODO</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelMale>mies mustissa</StrangerInBlack.labelMale>
   <!-- EN: strangers in black -->
-  <StrangerInBlack.labelPlural>TODO</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelPlural>muukalaiset mustissa</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>TODO</WildMan.label>
+  <WildMan.label>villi mies</WildMan.label>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>TODO</WildMan.labelFemale>
+  <WildMan.labelFemale>villi nainen</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
+  <WildMan.labelFemalePlural>villit naiset</WildMan.labelFemalePlural>
   <!-- EN: wild men -->
-  <WildMan.labelPlural>TODO</WildMan.labelPlural>
+  <WildMan.labelPlural>villit miehet</WildMan.labelPlural>
   
 </LanguageData>

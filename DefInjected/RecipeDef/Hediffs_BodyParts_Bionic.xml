@@ -58,10 +58,10 @@
   <InstallBionicTongue.jobString>Asentaa bionista kieltä.</InstallBionicTongue.jobString>
   
   <!-- EN: install death acidifier -->
-  <InstallDeathAcidifier.label>TODO</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.label>asenna kuolema hapotin</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>TODO</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>Asenna kuolema hapotin.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>TODO</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>Asentaa kuolema hapottimen.</InstallDeathAcidifier.jobString>
   
 </LanguageData>

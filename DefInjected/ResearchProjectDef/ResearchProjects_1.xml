@@ -27,9 +27,9 @@
   <ComplexFurniture.description>Rakenna monimutkaisia huonekaluja, kuten sänkyjä, päätypöytiä, ruokapöydän tuoleja, nojatuoleja, lipastoja, työkalukaappeja, biljardipöytiä ja pokeripöytiä, tuuletusaukkoja, sarkofageja ja paljon muuta.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
-  <Devilstrand.label>devilstrand</Devilstrand.label>
+  <Devilstrand.label>pirunsäie</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>Istuta devilstrand, hitaasti kasvava sieni, joka tuottaa poikkeuksellisen sitkeää ja lämmönkestävää kasvikuitua.</Devilstrand.description>
+  <Devilstrand.description>Istuta pirunsäie, hitaasti kasvava sieni, joka tuottaa poikkeuksellisen sitkeää ja lämmönkestävää kasvikuitua.</Devilstrand.description>
   
   <!-- EN: drug production -->
   <DrugProduction.label>päihteiden valmistus</DrugProduction.label>

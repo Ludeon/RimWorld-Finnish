@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: kibble -->
-  <Kibble.label>kibble</Kibble.label>
+  <Kibble.label>nappula</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>Kibble animal feed made from mixed meat and plant sources.</Kibble.description>
+  <Kibble.description>TODO</Kibble.description>
   
   <!-- EN: fine meal -->
   <MealFine.label>hieno ateria</MealFine.label>
@@ -27,12 +27,12 @@
   <MealLavish.description>Ruokakulttuurinen mestariteos, joka ravitsee kehon, mielen ja sielun.</MealLavish.description>
   
   <!-- EN: carnivore lavish meal -->
-  <MealLavish_Meat.label>TODO</MealLavish_Meat.label>
+  <MealLavish_Meat.label>lihainen yltäkylläinen ateria</MealLavish_Meat.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
   <MealLavish_Meat.description>TODO</MealLavish_Meat.description>
   
   <!-- EN: vegetarian lavish meal -->
-  <MealLavish_Veg.label>TODO</MealLavish_Veg.label>
+  <MealLavish_Veg.label>kasvispohjainen yltäkylläinen ateria</MealLavish_Veg.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
   <MealLavish_Veg.description>TODO</MealLavish_Veg.description>
   
@@ -52,8 +52,8 @@
   <MealSurvivalPack.description>Korkealaatuinen pakattu ruoka-ateria, tuotettu eloonjäämistilanteisiin.</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>pemmican</Pemmican.label>
+  <Pemmican.label>Pemmikaani</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</Pemmican.description>
+  <Pemmican.description>TODO</Pemmican.description>
   
 </LanguageData>

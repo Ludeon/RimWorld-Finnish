@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: install cochlear implant -->
-  <InstallCochlearImplant.label>TODO</InstallCochlearImplant.label>
+  <InstallCochlearImplant.label>asenna sisäkorva proteesi</InstallCochlearImplant.label>
   <!-- EN: Install a cochlear implant. -->
-  <InstallCochlearImplant.description>TODO</InstallCochlearImplant.description>
+  <InstallCochlearImplant.description>Asentaa sisäkorva proteesin.</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
-  <InstallCochlearImplant.jobString>TODO</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.jobString>Asentaa sisäkorva proteesin.</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
   <InstallJoywire.label>asenna iloimplantti</InstallJoywire.label>
@@ -30,18 +30,18 @@
   <InstallPowerClaw.jobString>Asentaa voimakynttä.</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
-  <InstallSimpleProstheticArm.label>asenna yksinkertainen tek käsi</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>asenna yksinkertainen tekokäsi</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
   <InstallSimpleProstheticArm.description>Asentaa yksinkertaisen tekokäden.</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
   <InstallSimpleProstheticArm.jobString>Asentaa yksinkertaista tekokättä.</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
-  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.label>asenna sydän implantti</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>Asentaa sydän implantin.</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>Asentaa sydän implantin.</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
   <InstallSimpleProstheticLeg.label>asenna yksinkertainen tekojalka</InstallSimpleProstheticLeg.label>
@@ -51,10 +51,10 @@
   <InstallSimpleProstheticLeg.jobString>Asentaa yksinkertaista tekojalkaa.</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
-  <RemovePainstopper.label>TODO</RemovePainstopper.label>
+  <RemovePainstopper.label>poista kivunestäjä</RemovePainstopper.label>
   <!-- EN: Remove the painstopper. -->
-  <RemovePainstopper.description>TODO</RemovePainstopper.description>
+  <RemovePainstopper.description>Poistaa kivunestäjän</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->
-  <RemovePainstopper.jobString>TODO</RemovePainstopper.jobString>
+  <RemovePainstopper.jobString>Poistaa kivunestäjän.</RemovePainstopper.jobString>
   
 </LanguageData>

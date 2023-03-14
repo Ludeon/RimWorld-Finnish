@@ -9,7 +9,7 @@
   <Mech_Centipede.tools.head.label>TODO</Mech_Centipede.tools.head.label>
   
   <!-- EN: lancer -->
-  <Mech_Lancer.label>TODO</Mech_Lancer.label>
+  <Mech_Lancer.label>lanseri</Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
   <Mech_Lancer.description>TODO</Mech_Lancer.description>
   <!-- EN: left fist -->
@@ -20,7 +20,7 @@
   <Mech_Lancer.tools.head.label>TODO</Mech_Lancer.tools.head.label>
   
   <!-- EN: pikeman -->
-  <Mech_Pikeman.label>TODO</Mech_Pikeman.label>
+  <Mech_Pikeman.label>haukimies</Mech_Pikeman.label>
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
   <Mech_Pikeman.description>TODO</Mech_Pikeman.description>
   <!-- EN: front left leg -->
@@ -42,7 +42,7 @@
   <Mech_Scyther.tools.head.label>TODO</Mech_Scyther.tools.head.label>
   
   <!-- EN: termite -->
-  <Mech_Termite.label>TODO</Mech_Termite.label>
+  <Mech_Termite.label>termiitti</Mech_Termite.label>
   <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
   <Mech_Termite.description>TODO</Mech_Termite.description>
   <!-- EN: head -->

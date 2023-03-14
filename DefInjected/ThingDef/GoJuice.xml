@@ -4,10 +4,10 @@
   <!-- EN: go-juice -->
   <GoJuice.label>menomehu</GoJuice.label>
   <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities. For psycasters, the drug also instantly increases psyfocus without meditation.\n\nThe military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
-  <GoJuice.description>TODO</GoJuice.description>
+  <GoJuice.description>Synteettinen työkykyä parantava päihde, joka luotiin avaruuslaivastolaisille planeettojen välisen sodan käynnin alku aikoina. Menomehu estää kipua, lisää liikenopeutta ja parantaa käyttäjän lähitaistelua ja ammuntakykyä. Psycastereille lääke lisää välittömästi psyykkistä keskittymistä ilman meditaatiota.\n\nSotakemistit, jotka loivat sen, eivät koskaan pystyneet poistamaan sen riippuvuutta. Jotkut pitivät tätä haittapuolena; toiset näkivät sen hyödyksi.</GoJuice.description>
   <!-- EN: Inject {0} -->
-  <GoJuice.ingestible.ingestCommandString>TODO</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestCommandString>Pistä {0}</GoJuice.ingestible.ingestCommandString>
   <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>TODO</GoJuice.ingestible.ingestReportString>
+  <GoJuice.ingestible.ingestReportString>Pistää {0}.</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>

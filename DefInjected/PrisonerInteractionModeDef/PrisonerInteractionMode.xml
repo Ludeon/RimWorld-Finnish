@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: recruit -->
-  <AttemptRecruit.label>TODO</AttemptRecruit.label>
+  <AttemptRecruit.label>värvää</AttemptRecruit.label>
   <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
-  <AttemptRecruit.description>TODO</AttemptRecruit.description>
+  <AttemptRecruit.description>Vartijat yrittävät värvätä vangin. Jos vanki vastustaa edelleen, vartijat puhuvat heille vähentääkseen sitä.</AttemptRecruit.description>
   
   <!-- EN: execute -->
-  <Execution.label>TODO</Execution.label>
+  <Execution.label>teloita</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
-  <Execution.description>TODO</Execution.description>
+  <Execution.description>Vartija teloittaa vangin paikan päällä leikkaamalla. Tämä voi vaikuttaa muiden vankien ja yhdyskuntalaisten mielialaan.</Execution.description>
   
   <!-- EN: no interaction -->
-  <NoInteraction.label>TODO</NoInteraction.label>
+  <NoInteraction.label>ei vuorovaikutusta</NoInteraction.label>
   <!-- EN: Wardens will not interact with the prisoner. -->
-  <NoInteraction.description>TODO</NoInteraction.description>
+  <NoInteraction.description>Vartija ei tee vuorovaikutusta vangin kanssa.</NoInteraction.description>
   
   <!-- EN: reduce resistance -->
-  <ReduceResistance.label>TODO</ReduceResistance.label>
+  <ReduceResistance.label>vähennä vastustusta</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
-  <ReduceResistance.description>TODO</ReduceResistance.description>
+  <ReduceResistance.description>Jos vanki vastustelee edelleen, vartijat puhuvat heille vähentääkseen sitä. Värväysyrityksiä ei tehdä.</ReduceResistance.description>
   
   <!-- EN: release -->
-  <Release.label>TODO</Release.label>
+  <Release.label>vapauta</Release.label>
   <!-- EN: A warden will release the prisoner. -->
-  <Release.description>TODO</Release.description>
+  <Release.description>Vartija vapauttaa vangin.</Release.description>
   
 </LanguageData>

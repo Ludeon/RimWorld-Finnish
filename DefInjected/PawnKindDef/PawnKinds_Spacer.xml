@@ -3,13 +3,13 @@
   
   <!-- EN: ancient soldier -->
   <AncientSoldier.label>avaruussotilas</AncientSoldier.label>
-  <AncientSoldier.labelPlural>space soldiers</AncientSoldier.labelPlural>
+  <AncientSoldier.labelPlural>avaruussotilaat</AncientSoldier.labelPlural>
   
   <!-- EN: space refugee -->
   <SpaceRefugee.label>avaruuspakolainen</SpaceRefugee.label>
-  <SpaceRefugee.labelPlural>space refugees</SpaceRefugee.labelPlural>
+  <SpaceRefugee.labelPlural>avaruuspakolaiset</SpaceRefugee.labelPlural>
   
   <!-- EN: space refugee -->
-  <SpaceRefugee_Clothed.label>TODO</SpaceRefugee_Clothed.label>
+  <SpaceRefugee_Clothed.label>avaruuspakolainen</SpaceRefugee_Clothed.label>
   
 </LanguageData>

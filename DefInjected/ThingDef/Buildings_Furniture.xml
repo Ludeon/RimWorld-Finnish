@@ -44,20 +44,20 @@
   <!-- EN: double bed -->
   <DoubleBed.label>parisänky</DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
-  <DoubleBed.description>TODO</DoubleBed.description>
+  <DoubleBed.description>Simppeli kahden leveä sänky, johon mahtuu kaksi ihmistä.</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
-  <DoubleSleepingSpot.label>TODO</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.label>parinukkumis paikka</DoubleSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
   <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
   
   <!-- EN: dresser -->
-  <Dresser.label>TODO</Dresser.label>
+  <Dresser.label>vaatekaappi</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
   <Dresser.description>TODO</Dresser.description>
   
   <!-- EN: end table -->
-  <EndTable.label>TODO</EndTable.label>
+  <EndTable.label>yöpöytä</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
   <EndTable.description>TODO</EndTable.description>
   
@@ -77,9 +77,9 @@
   <RoyalBed.description>Ylellinen vuode jalosukuisille.</RoyalBed.description>
   
   <!-- EN: shelf -->
-  <Shelf.label>shelf</Shelf.label>
+  <Shelf.label>hylly</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <Shelf.description>Items stored in this will not deteriorate, even if outside.</Shelf.description>
+  <Shelf.description>Tähän varastoidut tavarat eivät huonone, vaikka ne olisivat ulkona.</Shelf.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>nukkumapaikka</SleepingSpot.label>
@@ -119,12 +119,12 @@
   <SunLamp.comps.CompSchedule.offMessage>Off for plant resting period</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
-  <Table1x2c.label>TODO</Table1x2c.label>
+  <Table1x2c.label>pöytä (1x2)</Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table1x2c.description>TODO</Table1x2c.description>
+  <Table1x2c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</</Table1x2c.description>
   
   <!-- EN: table (2x2) -->
-  <Table2x2c.label>pöytä (lyhyt)</Table2x2c.label>
+  <Table2x2c.label>pöytä (2x2)</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x2c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</Table2x2c.description>
   
@@ -134,9 +134,9 @@
   <Table2x4c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</Table2x4c.description>
   
   <!-- EN: table (3x3) -->
-  <Table3x3c.label>TODO</Table3x3c.label>
+  <Table3x3c.label>pöytä (3x3)</Table3x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table3x3c.description>TODO</Table3x3c.description>
+  <Table3x3c.description>Ihmiset syövät pöydiltä kun niiden eteen asetetaan tuoleja.</</Table3x3c.description>
   
   <!-- EN: torch lamp -->
   <TorchLamp.label>soihtu</TorchLamp.label>

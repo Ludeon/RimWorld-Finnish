@@ -95,22 +95,22 @@
   <GotoWander.reportString>Harhailee.</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>TODO</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>kuljettaa TargetA.</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToTransporter.reportString>TODO</HaulToTransporter.reportString>
+  <HaulToTransporter.reportString>Kuljettaa TargetA.</HaulToTransporter.reportString>
   
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>Sytyttää kohdetta TargetA.</Ignite.reportString>
   
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>TODO</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>houkuttelee TargetA pakenemaan.</InducePrisonerToEscape.reportString>
   
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>Syö ruuan TargetA.</Ingest.reportString>
   
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>TODO</Insult.reportString>
+  <Insult.reportString>pilkkaa TargetA.</Insult.reportString>
   
   <!-- EN: lying down. -->
   <LayDown.reportString>Makaa.</LayDown.reportString>
@@ -128,31 +128,31 @@
   <ManTurret.reportString>Käyttää tykkiä.</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>TODO</OfferHelp.reportString>
+  <OfferHelp.reportString>auttaa TargetA.</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>Avaa kohdetta TargetA.</Open.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>TODO</RearmTurret.reportString>
+  <RearmTurret.reportString>aseistaa TargetA.</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>TODO</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>Aseistaa TargetA.</RearmTurretAtomic.reportString>
   
   <!-- EN: refueling TargetA. -->
   <Refuel.reportString>Tankkaa kohteen TargetA.</Refuel.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <RefuelAtomic.reportString>TODO</RefuelAtomic.reportString>
+  <RefuelAtomic.reportString>tankkaa TargetA.</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>TODO</Reload.reportString>
+  <Reload.reportString>lataa TargetA.</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>Poistaa vaatteen TargetA.</RemoveApparel.reportString>
   
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>TODO</Resurrect.reportString>
+  <Resurrect.reportString>uudelleensynnyttää TargetA.</Resurrect.reportString>
   
   <!-- EN: fighting with TargetA. -->
   <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
@@ -161,13 +161,13 @@
   <Strip.reportString>Riisuu vaatteen TargetA.</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>ottaa oluen pois TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeCountToInventory.reportString>TODO</TakeCountToInventory.reportString>
+  <TakeCountToInventory.reportString>vie TargetA varastoon.</TakeCountToInventory.reportString>
   
   <!-- EN: grabbing TargetA from TargetB. -->
-  <TakeFromOtherInventory.reportString>TODO</TakeFromOtherInventory.reportString>
+  <TakeFromOtherInventory.reportString>ottaa TargetA pois TargetB</TakeFromOtherInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>Poimii esineen TargetA.</TakeInventory.reportString>
@@ -179,25 +179,25 @@
   <TriggerFirefoamPopper.reportString>Aktivoi palovaahtopaukkua.</TriggerFirefoamPopper.reportString>
   
   <!-- EN: unloading TargetA. -->
-  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+  <UnloadInventory.reportString>purkaa TargetA.</UnloadInventory.reportString>
   
   <!-- EN: unloading inventory. -->
-  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+  <UnloadYourInventory.reportString>purkaa varastoa.</UnloadYourInventory.reportString>
   
   <!-- EN: activating artifact. -->
   <UseArtifact.reportString>Aktivoi artefaktia.</UseArtifact.reportString>
   
   <!-- EN: using TargetA. -->
-  <UseItem.reportString>TODO</UseItem.reportString>
+  <UseItem.reportString>käyttää TargetA.</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
   <UseNeurotrainer.reportString>Käyttää älykkyysvalmentajaa.</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>Tekee jotain.</UseVerbOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
+  <UseVerbOnThingStatic.reportString>Tekee jotain</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>Oksentaa.</Vomit.reportString>
