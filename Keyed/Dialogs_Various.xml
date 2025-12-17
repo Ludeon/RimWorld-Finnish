@@ -297,13 +297,13 @@
   <!-- EN: Damage to all buildings is multiplied by this value. -->
   <BuildingDamageFactorExplanation>Vahinko kaikkiin rakennuksiin kerrotaan tällä arvolla.</BuildingDamageFactorExplanation>
   <!-- EN: Building damage factor (impassable) -->
-  <BuildingDamageFactorImpassable>TODO</BuildingDamageFactorImpassable>
+  <BuildingDamageFactorImpassable>Rakennuksen vahinkokerroin (läpipääsemätön)</BuildingDamageFactorImpassable>
   <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
-  <BuildingDamageFactorImpassableExplanation>TODO</BuildingDamageFactorImpassableExplanation>
+  <BuildingDamageFactorImpassableExplanation>Vahinko kaikkiin läpipääsemättömiin rakennuksiin kerrotaan tällä luvulla.</BuildingDamageFactorImpassableExplanation>
   <!-- EN: Building damage factor (passable) -->
-  <BuildingDamageFactorPassable>TODO</BuildingDamageFactorPassable>
+  <BuildingDamageFactorPassable>Rakennuksen vahinkokerroin (läpipäästävä)(</BuildingDamageFactorPassable>
   <!-- EN: Damage to all passable buildings is multiplied by this value. -->
-  <BuildingDamageFactorPassableExplanation>TODO</BuildingDamageFactorPassableExplanation>
+  <BuildingDamageFactorPassableExplanation>Vahinko kaikkiin läpipäästäviin rakennuksiin kerrotaan tällä luvulla.</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Tarkkuus</Accuracy>
   <!-- EN: Burst shot count -->
@@ -313,7 +313,7 @@
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Lähitaistelun lämmitysaika</MeleeWarmupTime>
   <!-- EN: Ranged warmup -->
-  <RangedWarmupTime>TODO</RangedWarmupTime>
+  <RangedWarmupTime>Kaukotaistelun lämmitysaika</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Jäähdytysaika</CooldownTime>
   <!-- EN: Disarmed -->
@@ -1139,33 +1139,33 @@
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>Automaattisesti teurastettava eläin.</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>Kuinka monta naaras ja uroseläintä yhteiskunnassa on.</AutoSlaugtherHeaderTooltipCurrentTotal>
   <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>Maksimimäärä uros ja naaraseläimiä yhteiskunnassa- \n\Käsittelijät teurastavat automaattisesti kaikki ylimäääräiset.</AutoSlaugtherHeaderTooltipMaxTotal>
   <!-- EN: The current number of males of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaugtherHeaderTooltipCurrentMales>Kuinka monta paritteluikäistä urosta on yhteiskunnassa.</AutoSlaugtherHeaderTooltipCurrentMales>
   <!-- EN: The current number of baby and juvenile males in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentMalesYoung>TODO</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Kuinka monta vauvaa/nuorta urosta on yhteiskunnassa.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
   <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaugtherHeaderTooltipMaxMales>Maksimimäärä paritteluikäisiä uroksia yhteiskunnassa. \n\Käsittelijät teurastavat kaikki ylimääräiset.</AutoSlaugtherHeaderTooltipMaxMales>
   <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxMalesYoung>TODO</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>Maksimimäärä vauva/nuoria uroksia yhteiskunnassa. \n\Käsittelijät teurastavat kaikki ylimääräiset.</AutoSlaughterHeaderTooltipMaxMalesYoung>
   <!-- EN: The current number of females of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>Kuinka monta paritteluikäistä naarasta on yhteiskunnassa.</AutoSlaugtherHeaderTooltipCurrentFemales>
   <!-- EN: The current number of baby and juvenile females in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>TODO</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Kuinka monta vauvaa/nuorta naarasta on yhteiskunnassa.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
   <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaugtherHeaderTooltipMaxFemales>Maksimimäärä naaraita yhteiskunnassa. \n\Käsittelijät teurastavat kaikki ylimääräiset.</AutoSlaugtherHeaderTooltipMaxFemales>
   <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxFemalesYoung>TODO</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Maksimimäärä vauva/nuoria naaraita yhteiskunnassa. \n\Käsittelijät teurastavat kaikki ylimääräiset.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
   <!-- EN: The current number of pregnant animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentPregnant>TODO</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Kuinka monta raskaana olevaa eläintä on yhteiskunnassa.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Salli raskaana olevien eläinten teurastaminen muiden naaraiden kanssa samassa lajissa.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
   <!-- EN: The current number of bonded animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
+  <AutoSlaughterHeaderTooltipCurrentBonded>Kuinka monta kiintynyttä eläintä on yhteiskunnassa.</AutoSlaughterHeaderTooltipCurrentBonded>
   <!-- EN: Allow bonded animals to be slaughtered. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Salli kaikkien kiintyneiden eläinten teurastaminen.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>Klikkaa asettaaksesi rajan eläinten määrälle.</AutoSlaughterTooltipSetLimit>

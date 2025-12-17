@@ -4,36 +4,36 @@
   <!-- EN: Custom -->
   <Custom.label>Mukautettu</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
-  <Custom.description>TODO</Custom.description>
+  <Custom.description>Tämä asetus antaa sinun muokata omaa pelityyliäsi hienovaraisesti. \n\n(*SectionTitle)Suositeltu:(/SectionTitle)\n\n- Pelaajille jotka ovat tyytyväisiä joihinkin tavallisiin pelityyleihin, mutta haluavat vaihtaa muutamia juttuja. \n- Pelaajat jotka haluavat kokeilla jotain muuta.</Custom.description>
   
   <!-- EN: community builder -->
   <Easy.label>tukikohdanrakentaja</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
-  <Easy.description>TODO</Easy.description>
+  <Easy.description>Rakenna yhteiskunta jolla on vaaran makua. Vaaroja tulee, mutta ne ovat heikentyneitä. \n\n(*SectionTitle)Suositeltu:(/SectionTitle)\n\n- Pelaajille jotka ovat uusia tämänkaltaisille peleille. \n- Pelaajat jotka haluavat rakentaa täydellisen yhteiskunnan.\n- Pelaajille jotka haluavat rentoutua. </Easy.description>
   
   <!-- EN: losing is fun -->
   <Extreme.label>häviäminen on hauskaa</Extreme.label>
   <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
-  <Extreme.description>TODO</Extreme.description>
+  <Extreme.description>Tämä asetus on tehty epäreiluksi. Massivisia uhkia tulee iskemään sinun yhteiskuntaasi armotta kunnes yhteiskuntasi kuolee. Valitse tämä asetus jos olet valmis kitumisen ja kuolemisen draamaan. \n\n(*SectionTitle)Suositeltu:(/SectionTitle)\n\n- Kokeneille konkareille jotka haluavat kohdata brutaalin ja epäreilun haasteen jossa hyvät taidotkaan eivät välttämättä estä kuolemaa.\n- Tragedian rakastajille\n- Digitaalisille masokisteille.</Extreme.description>
   
   <!-- EN: blood and dust -->
   <Hard.label>verta ja kyyneliä</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
-  <Hard.description>TODO</Hard.description>
+  <Hard.description>Kohtaa brutaali selviytymishaaste. Vaikka pelaisitkin hyvin, ihmisiä tulee kuolemaan. Sinun on ennakoitava tulevat uhat ennen niiden tuloa ja löytää kaikki mahdolliset etulyöntiasemat.\n\n(*SectionTitle)Suositeltu:(/SectionTitle)\n\n- Kokeneille pelaajille jotka haluavat ponnistella selvitäkseen.</Hard.description>
   
   <!-- EN: adventure story -->
   <Medium.label>seikkailutarina</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
-  <Medium.description>TODO</Medium.description>
+  <Medium.description>Tämä antaa tilaa kasvaa ja kukoistaa, mutta se on silti vaarallinen planeetta.\n\n(*SectionTitle)Suositeltu:(/SectionTitle)\n\n- Kokeneille strategiapelaajille niiden ensimmäisellä Rimworld- pelikerralla.\n- Kokeneille Rimworldin pelaajille jotka haluavat hieman hengähtämistilaa tehdäkseen vaikka jotain hauskoja tai outoja juttuja.</Medium.description>
   
   <!-- EN: peaceful -->
   <Peaceful.label>rauhantahtoinen</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
-  <Peaceful.description>TODO</Peaceful.description>
+  <Peaceful.description>Rakenna yhteiskunta hiekkalaatikko-ympäristössä. Suurimmat uhat on pois käytöstä, mutta muita haasteita vielä löytyy, kuten sairauksia, hermoromahduksia ja hulluja eläimiä.\n\n(*SectionTitle)Suositeltu:(/SectionTitle)\n\n- Pelaajille jotka haluavat oppia pelin mekaniikat ilman paineita.\n- Pelaajille jotka haluavat vain rakentaa.\n- Pelaajille jotka haluavat vain rentoutua.</Peaceful.description>
   
   <!-- EN: strive to survive -->
   <Rough.label>yritä selvitä</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
-  <Rough.description>TODO</Rough.description>
+  <Rough.description>Yritä selvitä karsealla ja sitkeällä planeetalla. Siellä tulee olemaan voitonriemua ja tragedianitkua.\n\n(*SectionTitle)Suositeltu:(/SectionTitle)\n\n- Kokeneille pelaajille jotka haluavat vaikean taitoja vaativan tarinan selviytyäkseen.</Rough.description>
   
 </LanguageData>

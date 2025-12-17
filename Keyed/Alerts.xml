@@ -309,6 +309,6 @@
   <!-- EN: {0} trees dying -->
   <AlertMinifiedTreeAboutToDie>puita kuolemassa</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
-  <AlertMinifiedTreeAboutToDieDesc></AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDieDesc>Nostamasi puut tulevat kuolemaan seuraavan päivän sisällä. Jotkin yhdyskuntalaisistasi tulevat olemaan surullisia uskojensa takia. Voit estää tämän istuttamalla nämä puut.</AlertMinifiedTreeAboutToDieDesc>
 
 </LanguageData>

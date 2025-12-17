@@ -22,9 +22,9 @@
   <DesignatorUninstallDesc>Poistaa tämän kalusteen jotta sen voi siirtää, myydä tai asentaa muualle.</DesignatorUninstallDesc>
 
   <!-- EN: Extract tree -->
-  <DesignatorExtractTree>TODO</DesignatorExtractTree>
+  <DesignatorExtractTree>Nosta puu</DesignatorExtractTree>
   <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
-  <DesignatorExtractTreeDesc>TODO</DesignatorExtractTreeDesc>
+  <DesignatorExtractTreeDesc>Nosta puu, että se pysyy elossa ja että se voidaa istuttaa muualle.</DesignatorExtractTreeDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>Korjaa sato</DesignatorHarvest>

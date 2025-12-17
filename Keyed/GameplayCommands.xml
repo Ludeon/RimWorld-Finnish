@@ -570,14 +570,14 @@
   <!-- EN: Leave {RITUAL_label} -->
   <CommandLeaveRitual>Jätä {RITUAL_label}</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>TODO</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>Lopeta {RITUAL_label}iin osallistuminen. Rituaali jatkuu niin kauan kun siinä on vähintään yksi osallistuja.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
-  <CommandLeaveLastParticipant>TODO</CommandLeaveLastParticipant>
+  <CommandLeaveLastParticipant>Tämä on viimeinen {RITUAL_label} rituaaliin osallistuja.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>Peruuta {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>TODO</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>Lopeta {RITUAL_label} heti. Rituaalin mahdollisuus jää. Voit aloittaa rituaalin uudestaan myöhemmin.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>Haluatko varmasti peruuttaa rituaalin {RITUAL_labelDef}?</CommandCancelRitualConfirm>
   

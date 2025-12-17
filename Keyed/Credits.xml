@@ -41,7 +41,7 @@
   <Credit_TestLead>Testauksen johtaja</Credit_TestLead>
 
   <!-- EN: {0} language -->
-  <Credits_TitleLanguage>{0}</Credits_TitleLanguage>
+  <Credits_TitleLanguage>{0} kieli</Credits_TitleLanguage>
   <!-- EN: Writer -->
   <Credit_Writer>Kirjoittaja</Credit_Writer>
   <!-- EN: Translator -->

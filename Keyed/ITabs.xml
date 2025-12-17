@@ -85,7 +85,7 @@
   <!-- EN: Resistance -->
   <RecruitmentResistance>Vastustusta jäljellä</RecruitmentResistance>
   <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
-  <RecruitmentResistanceDesc>TODO</RecruitmentResistanceDesc>
+  <RecruitmentResistanceDesc>Kuinka paljon tämä vanki vielä vastustaa yhteiskuntaasi liittymistä. Kun tämä menee nollaan, voi heidät rekrytoida.</RecruitmentResistanceDesc>
   <!-- EN: {0} base resistance -->
   <RecruitmentResistanceFromPawnKind>{0} perusvastustus</RecruitmentResistanceFromPawnKind>
   <!-- EN: Relations gain on release -->
@@ -345,11 +345,11 @@
   <!-- EN: Nutrition stockpiled -->
   <PenFoodTab_StockpileTotal>Varastoidun ruoan määrä</PenFoodTab_StockpileTotal>
   <!-- EN: The total nutrition of stockpiled food in the pen. -->
-  <PenFoodTab_StockpileTotalDescription>TODO</PenFoodTab_StockpileTotalDescription>
+  <PenFoodTab_StockpileTotalDescription>Ravitsemuksen määrä mitä tähän aitaukseen on varastoitu.</PenFoodTab_StockpileTotalDescription>
   <!-- EN: Days to stockpile exhaustion -->
   <PenFoodTab_StockpileEmptyDays>Päivää varastojen loppumiseen</PenFoodTab_StockpileEmptyDays>
   <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
-  <PenFoodTab_StockpileEmptyDaysDescription>TODO</PenFoodTab_StockpileEmptyDaysDescription>
+  <PenFoodTab_StockpileEmptyDaysDescription>Ravitsemuksen käyttö on enemmän kuin kasvu tässä aitauksessa. Eläimet tulevat syömään kaikki varastoidut ruoat ja tulevat nälkiintymään.</PenFoodTab_StockpileEmptyDaysDescription>
 
   <!-- EN: Animal type -->
   <PenFoodTab_AnimalType>Eläimen tyyppi</PenFoodTab_AnimalType>
@@ -371,9 +371,9 @@
   <!-- EN: Nutrition consumption -->
   <PenFoodTab_TotalNutritionConsumptionRate>Ruoankulutus</PenFoodTab_TotalNutritionConsumptionRate>
   <!-- EN: The average nutrition provided by edible plants in this pen. -->
-  <PenFoodTab_NaturalNutritionGrowthRateDescription>TODO</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>Keskimääräinen määrä ravintoa mitä syötävät kasvit tuottavat tässä aitauksessa.</PenFoodTab_NaturalNutritionGrowthRateDescription>
   <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
-  <PenFoodTab_NutritionConsumptionDescription>TODO</PenFoodTab_NutritionConsumptionDescription>
+  <PenFoodTab_NutritionConsumptionDescription>Kuinka paljon ravintoa tässä aitauksessa olevat eläimet tarvitsevat. \n\Saadaksesi lisää ruokaa, laajenna aitausta saadaksesi lisää villikasveja tai varastoi aitaukseen esim. lisää heinää</PenFoodTab_NutritionConsumptionDescription>
   <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
   <PenFoodTab_NaturalNutritionGrowthRateSeasonal>TODO</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
 
@@ -399,6 +399,6 @@
   <!-- EN: Pen is not enclosed -->
   <AutocutUnenclosedPen>Aitaus ei ole suljettu</AutocutUnenclosedPen>
   <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
-  <AutocutUnenclosedPenTip>TODO</AutocutUnenclosedPenTip>
+  <AutocutUnenclosedPenTip>Aitaus ei ole suljettu, joten automaattinen leikkaus ei onnistu.</AutocutUnenclosedPenTip>
 
 </LanguageData>
