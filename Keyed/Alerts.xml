@@ -272,7 +272,7 @@
   <!-- EN: Pen not enclosed -->
   <AlertAnimalPenNotEnclosed>Aitaus ei ole suljettu</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>Aitauksen merkki ei ole aidattu. Sulje aitaus käyttämällä aitoja, barrikadeja, seiniä tai ovia että eläimet eivät karkaisi.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: {ANIMAL_labelShort} in animal pen -->
   <AlertPredatorInAnimalPen>{ANIMAL_labelShort} eläin aitauksessa</AlertPredatorInAnimalPen>
@@ -282,33 +282,33 @@
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>Eläin on kuljeksimassa pois</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
-  <AlertAnimalIsRoamingDesc>TODO</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoamingDesc>Jotkin kesyttämistäsi eläimistä on karkailijoita ja ovat karkaamassa. Jos ne pääsevät kartan rajalle, ne saattavat lähteä jonkin ajan kuluttua pois. Jos sinulla on eläinten käsittelijä, voi tämä tuoda eläimet takaisin. Eläimet jotka ovat aitauksessa, eivät karkaa. Nämä eläimet ovat karkaamassa:</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
   <AlertPennedAnimalHungry>Nälkäisiä aidattuja eläimiä</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
-  <AlertPennedAnimalHungryDesc>TODO</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>Jotkin sinun aitaamistasi eläimistä ovat nälkäisiä. Avaa aitauksen merkki ja valiste Ruoka ikkuna nähdäksesi lisätietoja. Ruohoa syövät eläimet tarvitsevat ison aitauksen, että ne saavat tarpeeksi ruohoa. Toiset eläimet saattavat tarvita heinää tai muuta vastaavaa varasto alueelta. Nämä aitauksessa olevat eläimet ovat nälkäisiä:</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
-  <AlertHitchedAnimalHungryNoFood>TODO</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFood>Kiinnitetty eläin.</AlertHitchedAnimalHungryNoFood>
   <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
-  <AlertHitchedAnimalHungryNoFoodDesc>TODO</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertHitchedAnimalHungryNoFoodDesc>Jotkin kiinnittämäsi eläimet ovat nälkäisiä. Niillä ei ehkä ole tarpeeksi ruokaa lähettyvillä. Vie niille ruokaa tai poista kiinnitys paikka, että ne pystyvät etsimään itse ruokaa. Nämä kiinnitetyt eläimet ovat nälkäisiä:</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
   <AlertTimedRaidsArrivingIn>Hyökkäys tulossa kohteeseen {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>TODO</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>Viholliset ovat huomanneet nämä paikat ja ovat tulossa pian:</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
   <AlertTimedRaidsArrivingAt>Kohteeseen {0} saapumiseen {1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
   <FactionWillBecomeHostileIfNotLeavingWithin>Ryhmästä tulee vihamielinen jos pysyt täällä</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>TODO</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Näistä ryhmistä tulee vihamielisiä jos jäät niiden yhteiskuntaan tai etuvartioon vielä kauemmin.</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->
-  <AlertMinifiedTreeAboutToDie>TODO</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDie>puita kuolemassa</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
-  <AlertMinifiedTreeAboutToDieDesc>TODO</AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDieDesc></AlertMinifiedTreeAboutToDieDesc>
 
 </LanguageData>
