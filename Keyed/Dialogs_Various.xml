@@ -499,7 +499,7 @@
   <!-- EN: Resources needed to rearm this turret -->
   <RearmCostExplanation>Tämän tykkitornin lataamiskustannukset (vaikeusaste vaikuttaa)</RearmCostExplanation>
   <!-- EN: affected by difficulty -->
-  <RearmCostExplanationDifficulty>TODO</RearmCostExplanationDifficulty>
+  <RearmCostExplanationDifficulty>vaikeustasosta riippuvainen</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Laukauksia ennen lataamista</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
@@ -615,9 +615,9 @@
   <!-- EN: Joins as colonist -->
   <JoinsAsColonist>Liittyy yhdyskuntalaisena</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>Ostettaessa tämä henkilö liittyy yhdyskuntaasi orjana.</JoinsAsSlaveDesc> <!--  -->
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
-  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
+  <JoinsAsColonistDesc>Ostettaessa tämä henkilö liittyy yhdyskuntaasi yhdyskuntalaisena.</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
   <TradingDrugsBonus>Lisä huumeiden vaihdosta</TradingDrugsBonus>
   <!-- EN: minimum -->
@@ -689,7 +689,7 @@
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Karavaanillasi on vain {0} päivän edestä ruokaa ja tulee nälkäiseksi erittäin nopeasti.\n\nOletko varma että haluat muodostaa tämän karavaanin?</DaysWorthOfFoodWarningDialog>
   <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
-  <DaysWorthOfFoodDietWarningDialog>TODO</DaysWorthOfFoodDietWarningDialog>
+  <DaysWorthOfFoodDietWarningDialog>Joidenkin henkilöiden ruokavalio ei hyväksy suurinta osaa karavaanisi ruoasta. He tulevat surullisiksi, jos jos joutuvat syömään sitä nälän vuoksi.</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>Karavaanillasi ei ole ruokaa ja tulee nälkäiseksi erittäin nopeasti.\n\nOletko varma että haluat muodostaa tämän karavaanin?</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -1071,7 +1071,7 @@
   <!-- EN: {0_labelShort} must be sick or injured. -->
   <AbilityMustBeSickOrInjured>Henkilön {0_labelShort} on oltava sairas tai loukkaantunut.</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
-  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeSameIdeoCounsel>{0} voi neuvoa vain ryhmää {1}</AbilityMustBeSameIdeoCounsel>
   <!-- EN: {0_labelShort} is already considered guilty. -->
   <AbilityMustBeNotGuilty>Henkilöä {0_labelShort} pidetään jo syyllisenä.</AbilityMustBeNotGuilty>
   <!-- EN: Must target a human. -->
@@ -1120,7 +1120,7 @@
   <!-- EN: Other -->
   <AutoSlaugtherHeaderColOther>Muut</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
-  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
+  <AutoSlaugtherTip>Yhdyskuntalaiset teurastavat ensin tiineenä olemattomia eläimiä vanhimmasta nuorimpaan. Sitten tiineitä eläimiä viimeisimmästä myöhäisimpään tiineyteen.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
   <AnimalMaleAdult>Aikuinen uros</AnimalMaleAdult>
   <!-- EN: Male young -->
@@ -1132,9 +1132,9 @@
   <!-- EN: Pregnant -->
   <AnimalPregnant>Raskaana</AnimalPregnant>
   <!-- EN: Bonded -->
-  <AnimalBonded>TODO</AnimalBonded>
+  <AnimalBonded>Sitoutunut</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughter>TODO</AllowSlaughter>
+  <AllowSlaughter>Teurasta</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>Automaattisesti teurastettava eläin.</AutoSlaugtherHeaderTooltipLabel>
