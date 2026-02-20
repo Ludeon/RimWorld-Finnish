@@ -17,3 +17,5 @@ lahtis
 Skelly
 
 Joksu
+
+teeriniemi
